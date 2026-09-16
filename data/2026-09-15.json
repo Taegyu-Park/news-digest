@@ -1,0 +1,899 @@
+{
+  "date": "2026-09-15",
+  "generatedAt": "2026-09-15T23:59:08.620Z",
+  "categories": [
+    {
+      "id": "it",
+      "label": "IT·과학·AI"
+    },
+    {
+      "id": "economy",
+      "label": "경제·금융"
+    },
+    {
+      "id": "politics",
+      "label": "정치·사회"
+    },
+    {
+      "id": "world",
+      "label": "세계·국제"
+    },
+    {
+      "id": "editorial",
+      "label": "사설·칼럼",
+      "opinion": true,
+      "summaryMaxChars": 220
+    }
+  ],
+  "feedStatus": [
+    {
+      "source": "Ars Technica",
+      "category": "it",
+      "ok": true,
+      "matched": 13
+    },
+    {
+      "source": "Hacker News",
+      "category": "it",
+      "ok": true,
+      "matched": 4
+    },
+    {
+      "source": "TechCrunch",
+      "category": "it",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "The Verge",
+      "category": "it",
+      "ok": true,
+      "matched": 1
+    },
+    {
+      "source": "블로터",
+      "category": "it",
+      "ok": true,
+      "matched": 22
+    },
+    {
+      "source": "전자신문",
+      "category": "it",
+      "ok": true,
+      "matched": 28
+    },
+    {
+      "source": "ZDNet Korea",
+      "category": "it",
+      "ok": true,
+      "matched": 27
+    },
+    {
+      "source": "BBC Business",
+      "category": "economy",
+      "ok": true,
+      "matched": 12
+    },
+    {
+      "source": "The Guardian",
+      "category": "economy",
+      "ok": true,
+      "matched": 22
+    },
+    {
+      "source": "매일경제 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 42
+    },
+    {
+      "source": "연합뉴스",
+      "category": "economy",
+      "ok": true,
+      "matched": 81
+    },
+    {
+      "source": "경향신문 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 45
+    },
+    {
+      "source": "경향신문 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 24
+    },
+    {
+      "source": "노컷뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 1
+    },
+    {
+      "source": "서울신문",
+      "category": "politics",
+      "ok": true,
+      "matched": 11
+    },
+    {
+      "source": "연합뉴스 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 54
+    },
+    {
+      "source": "연합뉴스 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 102
+    },
+    {
+      "source": "SBS 뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 17
+    },
+    {
+      "source": "Al Jazeera",
+      "category": "world",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC World",
+      "category": "world",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "NPR",
+      "category": "world",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "The Guardian",
+      "category": "world",
+      "ok": true,
+      "matched": 12
+    },
+    {
+      "source": "연합뉴스 국제",
+      "category": "world",
+      "ok": true,
+      "matched": 67
+    },
+    {
+      "source": "매일경제 증권",
+      "category": "economy",
+      "ok": true,
+      "matched": 47
+    },
+    {
+      "source": "경향신문 오피니언",
+      "category": "editorial",
+      "ok": true,
+      "matched": 12
+    },
+    {
+      "source": "NYT Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 12
+    },
+    {
+      "source": "The Guardian Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 12
+    },
+    {
+      "source": "Washington Post Opinions",
+      "category": "editorial",
+      "ok": true,
+      "matched": 10
+    },
+    {
+      "source": "동아일보 사설",
+      "category": "editorial",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "동아일보 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 35
+    },
+    {
+      "source": "조선일보",
+      "category": "politics",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "동아일보 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "머니투데이",
+      "category": "economy",
+      "ok": false,
+      "error": "fetch failed",
+      "matched": 0
+    },
+    {
+      "source": "Wired",
+      "category": "it",
+      "ok": true,
+      "matched": 12
+    },
+    {
+      "source": "DW News",
+      "category": "world",
+      "ok": true,
+      "matched": 21
+    }
+  ],
+  "items": [
+    {
+      "id": "a77ba82c7427",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "젠큐릭스, 진스웰 BCT 영업정지…주식거래 올스톱",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=673668",
+      "publishedAt": "2026-09-15T14:58:46.000Z",
+      "description": "젠큐릭스가 지난해 매출의 약 78%를 차지한 유방암 예후검사 ‘진스웰 BCT’의 국내 검사 서비스를 중단했다. 이는 한국보건의료연구원의 평가에 따른 영업 정지 조치에 의한 것으로 상장적격성 실질심사 사유가 발생하면서 주식 거래도 정지됐다. 회사는 평가 결과에 불복해 법적 대응에 나섰지만 서비스 재개 여부는 확정되지 않았다.15일 금융감독원 전자공시시스템에 따르면 젠큐릭스는 이날부터 진스웰 BCT의 국내 검사 서비스를 중단한다고 공시했다. 진스웰 BCT는 유방암 환자 검체로 개발·검증된 유전자 기반 예후진단 검사다. 해당 사업의 지난",
+      "author": "김호연 기자",
+      "summary": "젠큐릭스는 지난해 매출 78%를 차지한 유방암 예후검사 '진스웰 BCT'의 국내 검사 서비스를 중단하고 주식거래도 정지됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c34a54773d01",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "전직 틱톡 임원들이 만든 AI 포즈 가이드 앱",
+      "link": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
+      "publishedAt": "2026-09-15T14:42:37.000Z",
+      "description": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.",
+      "author": "Ivan Mehta",
+      "summary": "전직 틱톡 임원들이 개발한 Superpose는 셀카나 사진을 분석해 AI가 4가지 포즈를 제안한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "43776e3ac33a",
+      "category": "it",
+      "source": "Hacker News",
+      "region": "intl",
+      "title": "CSS Zen Garden의 꿈, 드디어 현실화",
+      "link": "https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/",
+      "publishedAt": "2026-09-15T14:40:08.000Z",
+      "description": "Article URL: https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/ Comments URL: https://news.ycombinator.com/item?id=49713262 Points: 121 # Comments: 59",
+      "author": "yosito",
+      "summary": "CSS Zen Garden 프로젝트의 오랜 꿈이 드디어 완성되어 공개됐다고 전해졌다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2241abffe58f",
+      "category": "it",
+      "source": "The Verge",
+      "region": "intl",
+      "title": "후지필름 Instax Pal 2, 실망 없는 미니 디지털 카메라",
+      "link": "https://www.theverge.com/tech/995399/fujifilm-instax-pal-2-digital-camera-wireless-autofocus-face-detection",
+      "publishedAt": "2026-09-15T14:03:18.000Z",
+      "description": "Fujifilm announced a follow-up to its tiny and quirky Instax Pal camera that debuted three years ago bundled with an instant printer. While the original Pal was a palm-sized camera with a round design that lacked a screen or viewfinder, the new Instax Pal 2 includes both in a design that looks like a miniaturized analog film camera. It's also reminiscent of trendy pocket-friendly cameras like the Kodak Charmera, but with specs that may actually produce decent shots. The Instax Pal 2 will launch in the US later this month for $169.95, according to PetaPixel, and uses a ⅓.06-inch sensor paired w",
+      "author": null,
+      "summary": "후지필름이 화면과 뷰파인더를 추가한 미니 디지털 카메라 Instax Pal 2를 출시했으며, 아날로그 필름 카메라 같은 디자인에 1/3.06인치 센서를 탑재했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "cbc3064f12c5",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "SW·AI산업 현안 공동 대응...한국SW·ICT총연합회, 2차 운영위 개최",
+      "link": "https://zdnet.co.kr/view/?no=20260915224603",
+      "publishedAt": "2026-09-15T13:46:03.000Z",
+      "description": "[지디넷코리아]한국SW·ICT총연합회(회장 이우용)는 15일 서울 서초구 메타빌드빌딩 AI 스페이스 센터(AI Space Center)에서 올해 제2차 운영위원회를 개최, SW·AI 산업계가 당면한 주요 현안과 정책·제도 개선과제에 대한 총연합회 차원의 공동 대응방안을 논의했다.이날 운영위원회에서는 회원 협·단체가 사전에 제출한 정책건의와 함께 최근 산업현장에서 겪고 있는 어려움이 폭넓게 제기됐다. 특히 ▲AI 사업의 적정대가와 발주 ▲계약체계 ▲SW 가치평가와 제값받기 ▲공공SW 사업 및 조달제도 ▲유지보수 계약 지연과 기업의 자금부담 ▲SW 산업 및 인력양성에 대한 투자 등을 주요 현안으로 논의했다.참석자들은 AI에 대한 투자가 확대되는 가운데 이를 실제 산업과 공공서비스에 구현하는 SW 산업의 기반도 함께 강화돼야 한다는 데 의견을 같이했다. 특히 SW기업의 경영환경과 산업 생태계에 영향을 미치는 현안은 개별 기업이나 협·단체 차원의 대응만으로는 한계가 있는 만큼, 총연합회를 중심으로 산업계의 의견을 모아 공동 대응할 필요가 있다는 의견이 제시됐다. 참석자들은 개별 협·단체 차원의 대응을 넘어 산업계가 공동으로 목소리를 내고, 정책건의와 언론 등을 통해",
+      "author": "방은주 기자",
+      "summary": "한국SW·ICT총연합회가 운영위원회에서 AI 적정대가, SW 가치평가 등 산업 현안에 대한 공동 대응방안을 논의했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f09ef1941cff",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "트럼프 행정부 EPA, 화력발전소 기후규제 폐지 추진",
+      "link": "https://arstechnica.com/science/2026/09/epa-seeks-to-eliminate-remaining-greenhouse-gas-rules-for-power-plants/",
+      "publishedAt": "2026-09-15T13:43:51.000Z",
+      "description": "EPA says power plant emissions have no material impact on climate change.",
+      "author": "Liza Gross, Inside Climate News",
+      "summary": "미국 환경청(EPA)은 발전소 배출이 기후변화에 실질적 영향을 미치지 않는다며 화력발전소 기후규제 폐지를 추진 중이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "11e7a889a9fa",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "학업 스트레스에…'숙제' 먹어버리는 中 학생들, 뭔데?",
+      "link": "https://www.etnews.com/20260915000424",
+      "publishedAt": "2026-09-15T13:30:00.000Z",
+      "description": "중국 학생들 사이에서 학업으로 인한 긴장감을 풀기 위한 이색 간식이 인기를 얻고 있다. 교과서나 문제집을 본뜬 형태의 쌀종이가 온라인을 중심으로 확산하면서 어린이들이 섭취하는 제품의 안전성을 둘러싼 우려도 커지고 있다. 15일(현지시간) 홍콩 사우스차이나모닝포스트(SCMP)는 중국에서 '숙제'라는 이름으로 판매되는 쌀종이 간식이 초·중·고교생 사이에서 큰 관심을 받고 있다고 전했다. 실제 교재를 연상시키는 외형이지만 내부에는 식용으로 만든 얇은",
+      "author": "이원지",
+      "summary": "중국 학생들 사이에 교과서 모양의 쌀종이 간식 '숙제'가 학업 스트레스 해소 간식으로 유행하며 안전성을 둘러싼 우려가 커지고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7cc7e98ee2b9",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "셀카 찍으면 AI가 피부 분석…올리브영, 모바일 '스킨스캔' 출시",
+      "link": "https://zdnet.co.kr/view/?no=20260915221347",
+      "publishedAt": "2026-09-15T13:21:24.000Z",
+      "description": "[지디넷코리아]CJ올리브영이 매장에서 제공하던 인공지능(AI) 기반 피부 진단 서비스를 모바일로 확대한다. 스마트폰으로 얼굴을 촬영하면 피부 상태를 분석하고 이에 맞는 화장품과 관리 방법까지 추천해준다.올리브영은 스마트폰으로 피부 상태를 측정할 수 있는 모바일 피부 진단 서비스를 선보인다고 15일 밝혔다.이번 서비스는 오프라인 매장에서 운영해 온 ‘스킨스캔’을 올리브영 앱으로 확장한 것이다. 기존에는 매장에 설치된 전용 기기로 피부를 촬영해야 했지만 앞으로는 매장을 찾지 않아도 스마트폰을 이용해 진단할 수 있다.이용자가 자신의 피부 상태에 관한 간단한 문진을 작성한 뒤 얼굴을 촬영하거나 기존 사진을 선택하면 AI가 이를 분석한다. 피부 유형을 비롯해 모공, 색소침착, 수분감, 유분, 주름 등 항목별 결과를 제공한다.분석 결과는 상품 구매와도 연결된다. 피부 고민별로 관련 화장품을 카테고리별로 추천하고 클렌징부터 스킨케어, 선케어까지 개인별 관리 루틴을 제안한다. 필요할 때 다시 측정해 계절이나 생활습관 등에 따른 피부 상태 변화도 확인할 수 있다.올리브영은 2024년 4월 스타필드고양 타운을 시작으로 주요 매장에 스킨스캔을 도입했다. 지난해 말에는 매장에서 ",
+      "author": "안희정 기자",
+      "summary": "올리브영이 AI 기반 피부 진단 서비스를 모바일로 확대했으며, 스마트폰으로 피부 상태를 분석하고 맞춤 화장품을 추천해줬다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "bd7d0c5464cc",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "전직 음식평론가가 검증한 최고의 밀 배달 서비스 10선",
+      "link": "https://www.wired.com/gallery/best-meal-kit-services-1/",
+      "publishedAt": "2026-09-15T13:06:00.000Z",
+      "description": "Here are the best delivery services and meal kits in 2026, including the Martha Stewart meal service, a GLP-1–supportive plan, and a budget-friendly option.",
+      "author": "Matthew Korfhage",
+      "summary": "전직 음식평론가가 검증한 최고의 밀 배달 서비스들을 소개했으며, Martha Stewart 서비스, GLP-1 지원 플랜, 저예산 옵션 등이 포함됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "77be78195f78",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "서울 시내버스 16일 멈춘다…시민 10명 중 8명 파업 반대",
+      "link": "https://www.etnews.com/20260915000472",
+      "publishedAt": "2026-09-15T13:04:19.000Z",
+      "description": "서울시 시내버스 노·사 협상 결렬로 16일 오전 4시 첫차부터 서울 시내버스 운행이 전면 중단된다. 서울시버스노동조합은 15일 통상임금 산정 기준으로 176시간 인정과 최대 7.85% 임금 인상을 요구하며 사측과 협상을 지속했지만 합의에 실패했다. 노조는 다음날 첫차 운행 준비 시간을 고려, 무의미한 밤샘 협상은 하지 않겠다며 이날 오후 9시를 최후 협상 시한으로 예고했다. 서울지방노동위원회 특별조정위원회가 오후 9시 30분까지 노사 각각에 최",
+      "author": "박종진",
+      "summary": "서울시버스노동조합과 사측의 협상이 결렬되면서 16일 오전 첫차부터 서울 시내버스 운행이 전면 중단됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c78b2261b159",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "불법 고성능 엔진 전동자전거, 도로 안전의 진정한 위협",
+      "link": "https://www.theguardian.com/commentisfree/2026/sep/15/ebike-powerful-illegal-engine-roads-cyclist",
+      "publishedAt": "2026-09-15T14:00:45.000Z",
+      "description": "As a cyclist I want the authorities to act with clarity. Lime bikes and renters can be annoying, but the true threat is those who dangerously flout the law One of the curiosities of debates about cycling in the UK is that almost all of them centre on the place with the greatest concentration of not only bikes but also politicians and journalists: inner London. Inevitably this is just a small part of the story. Much of the current focus is on so-called share bikes operated by companies such as Lime and Forest – nippy electric-assist machines that can be picked up and left on pavements. On Satur",
+      "author": "Peter Walker",
+      "summary": "런던 자전거 논쟁의 중심은 공유자전거 서비스지만, 진정한 위협은 불법으로 개조된 고성능 엔진을 탑재한 자전거들이라는 주장이 제기되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e303522d15c5",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "이형일, 레버리지 ETF 논란에 \"취지와 달리 변동성 확대…송구\"",
+      "link": "https://www.yna.co.kr/view/AKR20260915156151002",
+      "publishedAt": "2026-09-15T12:44:34.000Z",
+      "description": "(세종=연합뉴스) 이대희 안채원 송정은 기자 = 이형일 부총리 겸 재정경제부 장관 후보자는 15일 비거주 기간에도 거주 기간을 인정해주는 '부득...",
+      "author": "이대희",
+      "summary": "이형일 재정경제부 장관 후보자는 레버리지 ETF가 의도와 달리 시장 변동성을 확대했다고 인정하고 사과했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "4232083df56d",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "세계 상위 20대 사모펀드, 연간 온실가스 배출량이 대부분 국가 능가",
+      "link": "https://www.theguardian.com/us-news/2026/sep/15/private-equity-firms-energy-assets-greenhouse-gas",
+      "publishedAt": "2026-09-15T12:42:59.000Z",
+      "description": "Firms manage $7.3tn in assets and could afford to transition away from fossil fuels yet invest in natural gas and coal-fired plants to power datacenters The energy portfolios of 20 private equity firms produce 1.5bn tons of greenhouse gases a year, more than the annual emissions of any country except China, the US, India and Russia, according to a new report. Together, these firms manage $7.3tn in assets of all kinds, affording them the ability to shape the pace of the transition away from fossil fuels. However their energy investments include significant fossil fuel assets including natural g",
+      "author": "Sara Sneath",
+      "summary": "20개 상위 사모펀드 회사들이 연간 15억 톤의 온실가스를 배출하고 있으며, 이는 중국·미국·인도·러시아를 제외한 모든 국가보다 많은 수준이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7d809c225d5f",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "영국 국가연금 연 13,000파운드 돌파 예상…임금 상승률 3.9%로 둔화",
+      "link": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-15T11:05:42.000Z",
+      "description": "The rise has reignited the debate about the state pension's long-term affordability and generational fairness.",
+      "author": null,
+      "summary": "영국 국가연금이 연 13,000파운드를 넘을 것으로 예상되면서 장기 지속가능성과 세대 간 공정성 문제에 대한 논쟁이 재점화되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7280875f8dc3",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "韓-카자흐 '미래지향 포괄 전략 동반자' 격상…핵심광물 등 협력",
+      "link": "https://www.yna.co.kr/view/AKR20260915176600001",
+      "publishedAt": "2026-09-15T11:05:00.000Z",
+      "description": "(서울=연합뉴스) 고동욱 기자 = 이재명 대통령은 15일 오후 국빈 방문 중인 카심-조마르트 토카예프 카자흐스탄 대통령과 정상회담을 갖고 양국 ...",
+      "author": "고동욱",
+      "summary": "이재명 대통령은 방문 중인 토카예프 카자흐스탄 대통령과 정상회담을 갖고 양국 관계를 '미래지향 포괄 전략 동반자'로 격상하며 핵심광물 협력을 강화하기로 합의했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "99e58069de81",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "합동대응단, 에이비엘바이오 압수수색…미공개정보 이용 혐의",
+      "link": "https://www.mk.co.kr/news/stock/12153550",
+      "publishedAt": "2026-09-15T10:01:01.000Z",
+      "description": "임원 포함 10명 조사…현재 부당이득 약 10억원 추정 GSK·릴리 대형 기술이전 계약 공시 전 주식 취득 혐의 부당이득 규모 더 늘어날 가능성…주가 8.63% 급락금융위원회·금융..",
+      "author": "매일경제",
+      "summary": "금융당국이 에이비엘바이오를 압수수색하여 미공개정보를 이용한 주식 거래 혐의로 임원 포함 10명을 조사 중이며, 현재까지 약 10억원의 부당이득이 추정되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3ae93da57dfc",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "[단독] 코스닥ETF 선행매매 수법 내부자들은 알고 있었다…당국, 삼성액티브 조사",
+      "link": "https://www.mk.co.kr/news/stock/12153526",
+      "publishedAt": "2026-09-15T09:28:53.000Z",
+      "description": "코스닥 액티브ETF 운용역 선행매매 “내부에서 방법 서로 공유” 증언나와 저평가주 발굴 아닌 불공정거래 정황금융당국이 삼성액티브자산운용 운용역(펀드매니저)을 선행매매 혐의로 조사..",
+      "author": "매일경제",
+      "summary": "코스닥 액티브ETF 운용역들이 선행매매 수법을 내부에서 공유했다는 증언이 나왔으며, 금융당국이 삼성액티브자산운용을 불공정거래 혐의로 조사 중이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "40ab9cfca9a1",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "교보생명, 라이프플래닛 흡수합병…디지털 역량 본사로 품는다",
+      "link": "https://www.mk.co.kr/news/economy/12153519",
+      "publishedAt": "2026-09-15T09:08:29.000Z",
+      "description": "교보생명이 인터넷 생명보험 자회사 교보라이프플래닛생명보험을 흡수합병한다. 별도 디지털 보험사를 운영하기보다 관련 인력과 기술을 본사에 내재화해 보험사업 전반의 디지털 전환에 활용하..",
+      "author": "매일경제",
+      "summary": "교보생명이 자회사 교보라이프플래닛을 흡수합병하여 디지털 보험 역량을 본사에 통합하고 전사적 디지털 전환에 활용할 계획이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d5af3ca915a1",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "롯데카드, MBK 등에 382억 배당…작년보다 62% 늘어",
+      "link": "https://www.mk.co.kr/news/economy/12153079",
+      "publishedAt": "2026-09-15T09:00:00.000Z",
+      "description": "롯데카드가 15일 임시 이사회를 열고 382억원의 현금 중간배당을 의결했다. 롯데카드가 대주주에게 중간배당을 하는 것은 이번이 처음이다. 정보유출 사고 등으로 영업정지 처분을 받는..",
+      "author": "매일경제",
+      "summary": "롯데카드가 382억원의 현금 중간배당을 의결했으며, 이는 대주주에게 하는 첫 중간배당으로 작년보다 62% 증가한 규모다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c815f8312003",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "트럼프 대통령, AI 안전 우려를 '거짓말'로 낙찍…규제 강화 거부",
+      "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-15T08:49:31.000Z",
+      "description": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
+      "author": null,
+      "summary": "트럼프 미국 대통령이 AI 안전 우려를 '거짓말'이라 발언하며 더 강화된 안전조치를 거부했으며, 이는 Anthropic 공동창립자가 AI 킬스위치 의무화를 주장한 직후의 입장이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b1427b0dfcf8",
+      "category": "politics",
+      "source": "연합뉴스 사회",
+      "region": "kr",
+      "title": "경쟁률 공개후 수시 원서 냈다면 취소될 수도…17개大 사전공개",
+      "link": "https://www.yna.co.kr/view/AKR20260915186000530",
+      "publishedAt": "2026-09-15T14:53:18.000Z",
+      "description": "(서울=연합뉴스) 노재현 기자 = 2027학년도 대입 수시모집 원서접수 시스템 장애로 마감 시간이 연장된 대학 가운데 17개교가 기존 마감 시각...",
+      "author": "노재현",
+      "summary": "대입 수시모집 원서접수 시스템 장애로 마감이 연장된 17개 대학이 기존 마감 시각 후 접수한 원서를 취소할 수 있다고 사전공개했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "4b6b80958e9b",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "투르크메니스탄 대통령 영접하는 이 대통령",
+      "link": "https://www.khan.co.kr/article/202609152300005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-09-15T14:00:00.000Z",
+      "description": "이재명 대통령이 15일 청와대에서 국빈으로 방한한 세르다르 베르디무하메도프 투르크메니스탄 대통령을 영접하고 있다.",
+      "author": "이준헌 기자",
+      "summary": "이재명 대통령이 청와대에서 국빈 방한한 세르다르 베르디무하메도프 투르크메니스탄 대통령을 영접했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ee9ae6d66c3f",
+      "category": "politics",
+      "source": "서울신문",
+      "region": "kr",
+      "title": "독약 게이트 맹공에… 김승원 \"문과라 몰라\"",
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20260916001005",
+      "publishedAt": "2026-09-15T13:47:53.000Z",
+      "description": "김 ‘문송’ 표현 논란 커지자 사과 국힘 “내로남불, 장관 부적격자” 사과 없이 역공… 金 “한동훈 자료 출처 반드시 밝혀야” 김승원 법무부 장관 후보자는 15일 국회 인사청문회에서 코로나19 신약 청탁 의혹과 관련해 “권한 내에서 불법이 되지 않도록 최소한의 민원 전달을 했다”고 해명했다. 연일 의혹을 제기했던 한동훈 무소속 의원을 향해선 “왜곡과 짜깁기로 여론을 호도했다”며 검찰 자료 유출 경위를 밝히겠다고 했다. 국민의힘은 김 후보자에 대해 ‘장관 부적격자’라고 평가했다. 이날 법제사법위원회에서 진행한 청문회는 증인과 참고인 없이 진행됐다. 오후까지 파급력 있는 새로운 의혹이 제기되기보다는 야당이 기존 의혹을 파고들고 여당의 지원 속에 김 후보자가 이를 해명하는 양상으로 진행됐다. 검찰·사법 행정, 교정, 출입국, 인권, 범죄 예방 등 정책 관련 질문은 사실상 전무했다. 김 후보자는 곽규택 국민의힘 의원의 신약 청탁 의혹 관련 질의에 “제가 식약처장에게 전달한 내용은 ‘절차가 지연되는 불공정이 있다고 하니 실제로 지연되고 있는지 확인하고 살펴봐 달라’는 것이었다”며 “제가 가진 권한 안에서 불법이 되지 않도록 최소한의 민원 전달을 했다. 전화 한 통을 ",
+      "author": "강윤혁·반영윤·박효준 기자",
+      "summary": "김승원 법무부 장관 후보자는 코로나19 신약 청탁 의혹 관련 국회 인사청문회에서 권한 범위 내의 최소한의 민원 전달만 했다고 해명했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d249f019a648",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "서울 버스 노사, 통상시급 재산정 '기준시간' 두고 밤샘 줄다리기",
+      "link": "https://www.khan.co.kr/article/202609152245005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-09-15T13:45:00.000Z",
+      "description": "협상 테이블 앉은 노사 서울시버스노동조합의 파업 예고일을 하루 앞둔 15일 영등포구 서울지방노동위원회에서 열린 2차 조정회의에서 김정환 서울시버스운송조합 이사장이 모두발언을 하고 있다. 오른쪽은 박점곤 서울시버스노조 위원장. 연합뉴스지난 1월 파업 때와 같은 갈등‘정기 상여도 통상임금’ 판결에 노 “월 176시간” 사 “209시간” 시간 짧을수록 시급···",
+      "author": "노도현 기자",
+      "summary": "서울시버스노사는 파업을 앞두고 통상시급 재산정의 기준시간을 두고 대립했으며, 노조는 월 176시간, 사측은 209시간을 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6ee102ab7159",
+      "category": "politics",
+      "source": "연합뉴스 사회",
+      "region": "kr",
+      "title": "심정지 O형 환자에 A형 혈액수혈 사고…검찰, 재수사 요청",
+      "link": "https://www.yna.co.kr/view/AKR20260915183000004",
+      "publishedAt": "2026-09-15T13:42:29.000Z",
+      "description": "(서울=연합뉴스) 이의진 기자 = 경찰이 O형 응급 환자에게 착오로 A형 혈액을 수혈한 대학병원 의료진이 고소당한 사건을 지난달 불송치 처분한 ...",
+      "author": "이의진",
+      "summary": "경찰이 O형 환자에게 A형 혈액을 수혈한 대학병원 의료진 사건을 불송치 처분했으나 검찰이 재수사를 요청했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3289c58a9cee",
+      "category": "politics",
+      "source": "SBS 뉴스",
+      "region": "kr",
+      "title": "이형일 \"비거주 논란 송구\"…여당서도 \"국민에 민망\"",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008754686",
+      "publishedAt": "2026-09-15T13:40:00.000Z",
+      "description": "이형일 재정경제부 장관 후보자에 대한 인사청문회도 열렸는데요. '비거주 1주택' 아파트가 논란이 됐습니다. 정부의 '실거주 중심' 부동산 정책과 맞지 않는다는 지적에 이 후보자는 사과했고, 여당에서조차 \"민망하다\"는 반응이 나왔습니다.박찬범 기자가 전하겠습니다.",
+      "author": "cbcb@sbs.co.kr (박찬범)",
+      "summary": "이형일 재정경제부 장관 후보자는 비거주 1주택 아파트 논란으로 사과했으며, 여당에서도 정부의 실거주 정책과 맞지 않는다고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e303522d15c5",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "이형일, 레버리지 ETF 논란에 \"취지와 달리 변동성 확대…송구\"",
+      "link": "https://www.yna.co.kr/view/AKR20260915156151002",
+      "publishedAt": "2026-09-15T12:44:34.000Z",
+      "description": "(세종=연합뉴스) 이대희 안채원 송정은 기자 = 이형일 부총리 겸 재정경제부 장관 후보자는 15일 비거주 기간에도 거주 기간을 인정해주는 '부득...",
+      "author": "이대희",
+      "summary": "이형일 부총리는 자신의 레버리지 ETF 관련 투자 가 의도와 달리 시장 변동성을 확대했다며 송구함을 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9b00ee60bac4",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "김승원측, 주진우 메모 몰래 촬영 사과…\"보좌진 판단 미숙\"",
+      "link": "https://www.donga.com/news/Politics/article/all/20260915/134676628/2",
+      "publishedAt": "2026-09-15T12:31:00.000Z",
+      "description": "김승원 법무부 장관 후보자 인사청문회에서 김 후보자 측 보좌진이 국민의힘 주진우 의원의 책상 위 메모를 몰래 촬영하는 듯한 모습이 포착돼 논란이 일었다. 이후 김 후보자 측이 사과했다. 김승원 의원실은 15일 입장문을 통해 “오늘 인사청문회 과정에서 발생한 부적절한 일로 주진우 의원님께 심려를 끼쳐드린 점, 진심으로 사과드린다”고 밝혔다. 의원실은 “해당 보좌진은 경험이 많지 않은 20대의 젊은 직원으로, 청문회 과정에서 미숙한 판단으로 사진을 촬영했고 잘못을 인지한 즉시 삭제했다”며 “이유를 불문하고 적절하지 못한 처신이었음을 인정한다”고 했다. 그러면서도 “다만 후보자를 비롯한 누구도 사진 촬영을 지시하거나 관여한 사실이 없음을 분명히 말씀드린다”고 강조했다. 이어 “해당 보좌진에 대해서는 엄중히 조치하고, 다시는 이와 같은 일이 발생하지 않도록 각별히 유의하겠다”며 “사회초년생인 해당 직원의 개인 신상정보와 사진 등이 무분별하게 유포되지 않도록 자제해 주시기를 부탁드린다",
+      "author": null,
+      "summary": "김승원 법무부 장관 후보자 측이 인사청문회에서 주진우 의원의 메모를 몰래 촬영한 일에 대해 보좌진의 미숙한 판단이라며 사과했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8c1e5dadaf1f",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "與 \"김승원, 자격 충분히 보여줘\"…국힘 \"의혹 소명 안돼\"",
+      "link": "https://www.yna.co.kr/view/AKR20260915174000001",
+      "publishedAt": "2026-09-15T11:15:12.000Z",
+      "description": "(서울=연합뉴스) 최평천 조다운 최주성 기자 = 여야는 15일 김승원 법무부 장관 후보자에 대한 국회 인사청문회를 두고 김 후보자의 적격성에 대...",
+      "author": "최평천",
+      "summary": "여당은 김승원 법무부 장관 후보자의 적격성을 인정했으나, 국민의힘은 의혹 소명이 부족하다고 평가했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a263eb4f73c4",
+      "category": "politics",
+      "source": "노컷뉴스",
+      "region": "kr",
+      "title": "'50년' 된 대구 버스터미널…노후화·승객 감소에 시름",
+      "link": "https://www.nocutnews.co.kr/news/6576368",
+      "publishedAt": "2026-09-15T06:00:00.000Z",
+      "description": "▶ 글 싣는 순서 ① 대구 장거리 교통, 버스 줄고 철도 늘고…철도 승객 2년 새 약 20%↑ ② 50년 된 대구 버스터미널…노후화·승객 감소에 버스업계 시름 (계속) 대구 버스터미널 시설 노후화와 승객 감소로 버스업계의 시름이 깊어지고 있다. 지난달 12일 찾은 대구 북구 서대구고속버스터미널. 녹이 슬어 헤진 간판과 곳곳에 페인트칠이 벗겨진 3층 높이의 건물에서는 세월의 흔적이 고스란히 보였다. 건물 내부 사정도 다르지 않았다. 벽지가 뜯기거나 벽에 금이 간 곳이 눈에 띄었고 2층에는 의자와 냉장고 등 사용하지 않는 가구와 장비가 방치돼 있었다. 3층은 청소를 한 흔적조차 찾아볼 수 없었다. 편의점과 커피숍이 있는 1층은 그나마 관리가 되고 있었지만 커피숍은 영업을 중단하고 문을 굳게 닫고 있었다. 편의점 점주는 \"커피숍이 영업을 중단한 지 15년은 넘은 것 같다\"고 말했다. 승객들은 시설 노후화와 편의시설 부족 등 불편을 호소했다. 60대 남성 조원진 씨는 \"시설이 열악한 건 사실\"이라며 \"거쳐 가는 정류장으로 봤을 때는 나쁘지 않지만 식당이나 편의시설이 부족한 부분이 있다. 예전에는 식당을 운영했는데 지금은 없어졌다\"고 말했다. 20대 남성 박민형 씨도",
+      "author": null,
+      "summary": "50년 된 대구 버스터미널이 노후화와 승객 감소로 운영 어려움을 겪고 있으며, 건물 시설 노후화와 편의시설 부족으로 이용객 불편이 심화되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "06d61ffe4e47",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "'범죄단체'로 규정된 그리스 극우당 정치인 정계 복귀 선언",
+      "link": "https://www.yna.co.kr/view/AKR20260915181800109",
+      "publishedAt": "2026-09-15T14:53:06.000Z",
+      "description": "(로마=연합뉴스) 민경락 특파원 = 법원으로부터 범죄단체로 규정된 그리스 극우당 소속 정치인이 출소와 동시에 유럽 극우 세력과 연대를 강조하며 ...",
+      "author": "민경락",
+      "summary": "법원으로부터 범죄단체로 규정된 그리스 극우당 정치인이 출소 후 유럽 극우 진영과 연대를 강조하며 정계에 복귀했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "787c7ce7763c",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "FOMC 앞두고 美10년물 한때 5.04%…2007년 금융위기 이후 최고",
+      "link": "https://www.yna.co.kr/view/AKR20260915185900072",
+      "publishedAt": "2026-09-15T14:47:50.000Z",
+      "description": "(뉴욕=연합뉴스) 김연숙 특파원 = 글로벌 금리 벤치마크인 미국 10년 만기 국채 금리가 15일(현지시간) 한때 5.04%를 넘어서며 19년 만...",
+      "author": "김연숙",
+      "summary": "미국 10년물 국채 금리가 15일 한때 5.04%를 넘어서며 2007년 금융위기 이후 약 19년 만에 최고치를 기록했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a9336846b1d8",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "오베치킨, 푸틴 당을 의회 선거에서 지원",
+      "link": "https://www.dw.com/en/ovechkin-still-backing-putin-party-in-parliamentary-vote/a-79277772?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-09-15T14:45:00.000Z",
+      "description": "Ice hockey legend Alexander Ovechkin has lent Vladimir Putin's party a helping hand in its parliamentary election campaign. That's in keeping with a pattern of support by an athlete who claims not to be political.",
+      "author": null,
+      "summary": "아이스하키 레전드 오베치킨이 푸틴 당의 의회 선거 캠프를 지원하고 있으며, 정치적이 아니라고 주장해온 선수의 지속적 지지 패턴을 드러냈다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5e0a28236a12",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "스페인 과학자들, 유럽에서 첫 용각류 공룡 화석 발견",
+      "link": "https://www.dw.com/en/spanish-scientists-find-first-evidence-of-diplodocus-dinosaur-in-europe/a-79277825?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-09-15T14:42:00.000Z",
+      "description": "Paleontologists in Spain say they have found the first evidence of the long-necked Diplodocus genus of dinosaur outside of North America. They found bones at the rich La Tejeria fossil site in Teruel in eastern Spain.",
+      "author": null,
+      "summary": "스페인의 고생물학자들이 북미 외 지역에서 처음으로 용각류 공룡의 증거를 발견했으며, 동부 테루엘의 라 테헤리아 화석 지역에서 뼈를 찾았다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "686c3eb7be12",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "리투아니아 격추 드론에서 폭발장치 발견",
+      "link": "https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates",
+      "publishedAt": "2026-09-15T14:39:53.000Z",
+      "description": "The European Commission’s president warned that recent actions in Denmark and Lithuania are ‘not isolated incidents’ Russian warship fires flares at Danish helicopter as Nato jets shoot down drone over Lithuania Ukrainian foreign minister Andrii Sybiha responded to the incident in Denmark, declaring Kyiv’s “full support” after “unacceptable actions targeting a Danish helicopter.” “Moscow continues its attempts to destabilise Europe, not just Denmark. Joint and decisive action is required and Ukraine is ready to contribute to all efforts aimed at strengthening the protection of Europe from Russ",
+      "author": "Jakub Krupa (now and earlier) and Martin Belam (earlier)",
+      "summary": "리투아니아에서 격추된 드론에서 폭발장치가 발견됐으며, 덴마크에서도 러시아 군함의 헬기 위협 등 러시아의 유럽 불안정화 시도가 계속되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "71e6a54991ed",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "에트나산 화산재로 시칠리아 공항 항공편 중단",
+      "link": "https://www.bbc.co.uk/news/articles/cq5ym3rdmkzjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-15T14:35:04.000Z",
+      "description": "All flights are suspended from one of Italy's busiest airports until Tuesday night.",
+      "author": null,
+      "summary": "이탈리아의 주요 공항 중 하나에서 에트나산 화산재로 인해 화요일 밤까지 모든 항공편이 중단됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a9774e9f75bf",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "미국, 우주 배치 무기 공개... 우주 전쟁 양상 변화",
+      "link": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-15T14:23:14.000Z",
+      "description": "The announcement by the US points to a developing field of modern warfare in the Earth's orbit.",
+      "author": null,
+      "summary": "미국의 발표는 지구 궤도에서의 현대적 전쟁 방식이 발전하고 있음을 보여주는 신흥 전쟁 영역의 발전 가능성을 시사했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "afe5094bd39b",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "영국 이스라엘 제재, 국제법상 의무에 '미치지 못한다'",
+      "link": "https://www.theguardian.com/politics/2026/sep/15/legal-experts-say-sanctions-israel-fall-far-short-uk-obligations",
+      "publishedAt": "2026-09-15T11:54:14.000Z",
+      "description": "More than 130 sign letter to PM saying international law requires further measures to stop illegal settlements More than 130 legal experts, including 18 king’s counsel (KCs), have written to Andy Burnham saying that sanctions on Israeli settlements “fall far short” of Britain’s obligations under the international court of justice’s (ICJ’s) finding that the occupation is unlawful. The foreign secretary, Ed Miliband, last week announced an import ban on goods from illegal Israeli settlements in Palestine and other measures. Signatories to the letter to the prime minister, including the leading l",
+      "author": "Haroon Siddique and Geneva Abdul",
+      "summary": "130명 이상의 법학자를 포함한 18명의 국왕 심의관이 영국이 이스라엘 정착촌에 대해 내린 제재가 국제법상 의무에 미치지 못한다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "cfb686d2b7a2",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "미 대법원, 트럼프 우편투표 제한 거부... 케네디센터 재정 위기",
+      "link": "https://www.npr.org/2026/09/15/g-s1-143294/up-first-newsletter-bernie-sanders-steve-bannon-ai-mail-in-ballots-kennedy-center-emmys",
+      "publishedAt": "2026-09-15T11:35:49.000Z",
+      "description": "The Supreme Court has rejected Trump's mail-in voting restrictions ahead of the midterm elections. And, the Kennedy Center says it is on the brink of bankruptcy and could close soon.",
+      "author": "Brittney Melton",
+      "summary": "미국 대법원이 중간선거 앞두고 트럼프의 우편투표 제한을 거부했으며, 케네디센터는 파산 위기에 처했다고 발표했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3acaa0b6654b",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "트럼프 행정부 대사관 모니터링 중단 후 대기오염 급증",
+      "link": "https://www.npr.org/2026/09/15/nx-s1-5966503/air-pollution-spiked-after-the-trump-administration-stopped-embassy-monitoring",
+      "publishedAt": "2026-09-15T10:26:08.000Z",
+      "description": "In 2025, the Trump administration ended a long-running program to collect air pollution data at U.S. embassies. A new study suggests that led to a 24-33% increase in local pollution levels.",
+      "author": "Jonathan Lambert",
+      "summary": "2025년 트럼프 행정부가 미국 대사관의 대기오염 자료 수집 프로그램을 중단한 후 현지 오염 수준이 24~33% 증가했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a6e5e6a694e1",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]증인 없는 \"악마\" 청문회… 의혹 규명 없이 삿대질만 오갔다",
+      "link": "https://www.donga.com/news/Opinion/article/all/20260915/134676447/2",
+      "publishedAt": "2026-09-15T14:30:00.000Z",
+      "description": "이형일 부총리 겸 재정경제부 장관 후보자, 김승원 법무부 장관 후보자, 이소영 중소벤처기업부 장관 후보자에 대한 국회 인사청문회가 15일 열렸다. 이날 청문회는 후보자들이 그간 나온 의혹을 제대로 소명할 수 있을지가 관심사였다. 하지만 청문회는 후보자 관련 의혹을 검증할 증인 한 명 없이 진행됐다. 김승원 후보자를 둘러싼 의혹의 핵심은 김 후보자가 2021년 제약업체 제넨셀의 신약 임상시험 승인을 빠르게 처리해달라고 당시 식약처장에게 요청한 것이 부정 청탁인지 여부였다. 김 후보자는 이날도 ‘공익적 고충 민원이었다’고 주장했다. 하지만 제넨셀 설립자 강모 씨, 김 후보자에게 승인을 빨리 받게 해달라고 부탁한 양모 씨는 신약 청탁 대가로 김 후보자에게 정치후원금 500만 원을 주겠다고 한 혐의로 재판을 받고 있다. 제넨셀 관련 여러 의혹이 사실인지 가리려면 이들을 청문회에 불러 직접 확인할 필요가 있었다. 그러나 민주당은 ‘이미 윤석열 정부에서 광범위한 수사가 진행됐다’는 이유로",
+      "author": null,
+      "summary": "부총리·법무부·중소벤처기업부 장관 후보자 인사청문회가 의혹을 검증할 증인 없이 진행되어 의혹 규명이 제대로 이루어지지 못했다고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "35568538f015",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]메가특구 '52시간 특례' 대화… 특구에만 한정할 이유 없다",
+      "link": "https://www.donga.com/news/Opinion/article/all/20260915/134676451/2",
+      "publishedAt": "2026-09-15T14:27:00.000Z",
+      "description": "김영훈 고용노동부 장관이 15일 ‘메가특구특별법’ 노동 특례에 대한 ‘원 포인트 사회적 대화’를 제안했다. 경영계, 양대 노총, 관계 부처가 한자리에 모여 메가특구 내의 근로 시간과 고용 방식에 대한 쟁점을 논의하자는 것이다. 양대 노총 위원장도 3일 이재명 대통령과의 차담회에서 사회적 대화의 필요성을 거론한 만큼 만남을 주저할 이유가 없다. 정부는 반도체, 피지컬 인공지능(AI), AI 데이터 등에 대대적으로 투자하는 ‘3대 메가 프로젝트’의 속도전에 나섰다. 삼성전자와 SK하이닉스도 이에 호응해 대규모 투자 계획을 발표했다. 기업 투자를 뒷받침할 노동 규제 완화와 같은 실질적 지원 정책도 늦지 않게 나와야 한다. 기술 경쟁을 위해 단기간에 모든 핵심 역량을 쏟아부어야 하는 반도체 업계는 그간 주 52시간 근로제 예외 적용을 요구해 왔다. 하지만 노동계의 벽을 넘지 못했다. 반도체 파운드리 선두를 달리는 대만의 TSMC와 격차를 좁히고 미국 일본 중국 메모리 반도체 기업의 추격",
+      "author": null,
+      "summary": "메가특구 투자를 뒷받침하기 위해 반도체 업계가 요구해온 주 52시간 근로제 특례 적용에 대한 사회적 대화가 필요하다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c042d72b2c83",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "개의 지능을 테스트로 알아낼 수 있을까?",
+      "link": "https://www.nytimes.com/2026/09/14/opinion/dog-smart-intelligence-test.html",
+      "publishedAt": "2026-09-15T14:08:31.000Z",
+      "description": "With pets and people, we’re stupid when assessing smarts.",
+      "author": "Frank Bruni",
+      "summary": "반려동물뿐 아니라 사람의 지능도 평가하는 방식이 부족하며, 테스트만으로는 진정한 지능을 측정할 수 없다고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3313e7c5c6b1",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "마드니의 9/11 추도식, 반대 청원이 아팠다",
+      "link": "https://www.theguardian.com/commentisfree/2026/sep/15/zohran-mamdani-9-11-ceremony-petition-islamophobia",
+      "publishedAt": "2026-09-15T14:00:45.000Z",
+      "description": "A petition against the mayor’s presence reeked of Islamophobia – and ran counter to the sense of togetherness that followed the attacks Everyone who was in New York on 11 September 2001 has their 9/11 story. My husband and I were at JFK, boarding a plane to San Francisco. Our two sons were home in lower Manhattan, a block away from my 85-year-old mother. They watched the towers fall from our corner. The weather was radiantly beautiful. For a long time, the faces of the missing were everywhere. Their eyes seemed to follow us from the makeshift shrine outside St Vincent’s hospital to the window ",
+      "author": "Francine Prose",
+      "summary": "9/11 추도식에 참석하려는 시장에 대한 반대 청원이 이슬람 혐오를 드러냈으며 9/11 이후의 하나됨의 정신에 모순된다고 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c78b2261b159",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "불법 엔진 전자자전거는 도로의 진짜 위협이다",
+      "link": "https://www.theguardian.com/commentisfree/2026/sep/15/ebike-powerful-illegal-engine-roads-cyclist",
+      "publishedAt": "2026-09-15T14:00:45.000Z",
+      "description": "As a cyclist I want the authorities to act with clarity. Lime bikes and renters can be annoying, but the true threat is those who dangerously flout the law One of the curiosities of debates about cycling in the UK is that almost all of them centre on the place with the greatest concentration of not only bikes but also politicians and journalists: inner London. Inevitably this is just a small part of the story. Much of the current focus is on so-called share bikes operated by companies such as Lime and Forest – nippy electric-assist machines that can be picked up and left on pavements. On Satur",
+      "author": "Peter Walker",
+      "summary": "라임(Lime) 바이크 같은 공유 전자자전거도 문제이지만, 불법적으로 강력한 엔진을 장착한 자전거가 도로의 더욱 큰 위협이라고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "46859a14e58f",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "유럽이 이민에 집착하는 이유",
+      "link": "https://www.nytimes.com/2026/09/15/opinion/europe-immigration-ceuta-far-right.html",
+      "publishedAt": "2026-09-15T12:35:36.000Z",
+      "description": "Immigration has become a prism through which all the continent’s ills are viewed.",
+      "author": "Anton Jäger",
+      "summary": "유럽이 이민을 대륙의 모든 문제를 설명하는 렌즈로 사용하고 있다고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "fff18af3d51f",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "푸틴의 침략을 감당 불가능하게 만드는 경쟁",
+      "link": "https://www.washingtonpost.com/opinions/2026/09/15/petraeus-ukraine-theory-victory-over-russia-year-five/",
+      "publishedAt": "2026-09-15T11:15:00.000Z",
+      "description": "The Ukrainian theory of victory: Demonstrate military genius on an industrial scale and show Russia that time isn’t on its side.",
+      "author": "David H. Petraeus",
+      "summary": "우크라이나의 승리 전략은 산업 규모의 군사적 능력을 입증하고 러시아에게 시간이 자신의 편이 아님을 보여주는 것이라고 제시했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "962dd93c22b6",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[정희진의 낯선 사이]경찰 무기 수출과 무기 박람회를 생각하며",
+      "link": "https://www.khan.co.kr/article/202609152013015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-09-15T11:13:01.000Z",
+      "description": "‘K살상’의 부흥이 이재명 정권의 업적으로 기록될 판이다. K방산은 이미 국가전략 산업으로 자리매김하고 있다 한국의 무기 수출은 민주주의 도살, 자연 파괴, 직접적 살인 행위다. 자본주의는 본디 ‘경제’ 그 이상이었다 한국은 이제 세계적인 무기 수출국이 됨으로써 낸시 프레이저가 말한 ‘식인 자본주의’를 실현하게 되었다며칠 전 국제정치를 전공하는 이에게 ···",
+      "author": "정희진 월간 오디오매거진 ‘정희진의 공부’ 편집장",
+      "summary": "한국 무기 수출을 민주주의 도살과 살인행위로 규정하며 이것이 '식인 자본주의'의 실현이라고 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "16a3823d9b73",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[기고]원화 강세, 지금은 긍정적 효과가 크다",
+      "link": "https://www.khan.co.kr/article/202609152013005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-09-15T11:13:00.000Z",
+      "description": "최근 원·달러 환율이 빠르게 하락하면서 원화 강세가 한국 경제에 미칠 영향에 대한 관심이 커지고 있다. 불과 얼마 전까지만 해도 고환율을 걱정했지만 상황이 빠르게 바뀐 것이다. 원화가 절상되면 수출기업의 원화 환산 매출이 줄고 가격 경쟁력이 약화될 수 있다는 우려가 먼저 제기된다. 반대로 에너지와 원자재, 중간재의 수입 가격이 낮아지면서 물가 압력이 완화되···",
+      "author": "최상엽 연세대 경제학부 교수",
+      "summary": "최근 원화 강세가 수출기업에는 부담이지만 에너지·원자재 수입가 낮아져 물가 압력 완화라는 긍정적 효과가 더 크다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6d6395631175",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "AI가 다음 AI를 만들도록 하지 마라",
+      "link": "https://www.washingtonpost.com/opinions/2026/09/15/slow-down-ai-development-dont-let-ai-build-its-successors/",
+      "publishedAt": "2026-09-15T11:00:00.000Z",
+      "description": "The United States should draw a bright line against machines automating their own development.",
+      "author": "Emily Otto",
+      "summary": "미국이 기계들이 자신의 개발을 자동화하는 것을 명확히 금지해야 한다고 주장했다.",
+      "summarySource": "llm"
+    }
+  ],
+  "summarizedAt": "2026-09-16T00:03:03.926Z",
+  "summaryStats": {
+    "llm": 50,
+    "fallback": 0,
+    "model": "claude-haiku-4-5"
+  }
+}
