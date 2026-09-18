@@ -1,0 +1,898 @@
+{
+  "date": "2026-09-18",
+  "generatedAt": "2026-09-18T23:54:56.891Z",
+  "categories": [
+    {
+      "id": "it",
+      "label": "IT·과학·AI"
+    },
+    {
+      "id": "economy",
+      "label": "경제·금융"
+    },
+    {
+      "id": "politics",
+      "label": "정치·사회"
+    },
+    {
+      "id": "world",
+      "label": "세계·국제"
+    },
+    {
+      "id": "editorial",
+      "label": "사설·칼럼",
+      "opinion": true,
+      "summaryMaxChars": 220
+    }
+  ],
+  "feedStatus": [
+    {
+      "source": "Ars Technica",
+      "category": "it",
+      "ok": true,
+      "matched": 13
+    },
+    {
+      "source": "Hacker News",
+      "category": "it",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "TechCrunch",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "The Verge",
+      "category": "it",
+      "ok": true,
+      "matched": 2
+    },
+    {
+      "source": "블로터",
+      "category": "it",
+      "ok": true,
+      "matched": 24
+    },
+    {
+      "source": "전자신문",
+      "category": "it",
+      "ok": true,
+      "matched": 26
+    },
+    {
+      "source": "ZDNet Korea",
+      "category": "it",
+      "ok": true,
+      "matched": 22
+    },
+    {
+      "source": "BBC Business",
+      "category": "economy",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "The Guardian",
+      "category": "economy",
+      "ok": true,
+      "matched": 23
+    },
+    {
+      "source": "매일경제 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 30
+    },
+    {
+      "source": "연합뉴스",
+      "category": "economy",
+      "ok": true,
+      "matched": 101
+    },
+    {
+      "source": "경향신문 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 45
+    },
+    {
+      "source": "경향신문 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 31
+    },
+    {
+      "source": "노컷뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 1
+    },
+    {
+      "source": "서울신문",
+      "category": "politics",
+      "ok": true,
+      "matched": 4
+    },
+    {
+      "source": "연합뉴스 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 71
+    },
+    {
+      "source": "연합뉴스 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 106
+    },
+    {
+      "source": "SBS 뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 23
+    },
+    {
+      "source": "Al Jazeera",
+      "category": "world",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC World",
+      "category": "world",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "NPR",
+      "category": "world",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "The Guardian",
+      "category": "world",
+      "ok": true,
+      "matched": 20
+    },
+    {
+      "source": "연합뉴스 국제",
+      "category": "world",
+      "ok": true,
+      "matched": 68
+    },
+    {
+      "source": "매일경제 증권",
+      "category": "economy",
+      "ok": true,
+      "matched": 44
+    },
+    {
+      "source": "경향신문 오피니언",
+      "category": "editorial",
+      "ok": true,
+      "matched": 2
+    },
+    {
+      "source": "NYT Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "The Guardian Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 12
+    },
+    {
+      "source": "Washington Post Opinions",
+      "category": "editorial",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "동아일보 사설",
+      "category": "editorial",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "동아일보 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 26
+    },
+    {
+      "source": "조선일보",
+      "category": "politics",
+      "ok": true,
+      "matched": 1
+    },
+    {
+      "source": "동아일보 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 35
+    },
+    {
+      "source": "머니투데이",
+      "category": "economy",
+      "ok": true,
+      "matched": 19
+    },
+    {
+      "source": "Wired",
+      "category": "it",
+      "ok": true,
+      "matched": 24
+    },
+    {
+      "source": "DW News",
+      "category": "world",
+      "ok": true,
+      "matched": 17
+    }
+  ],
+  "items": [
+    {
+      "id": "7bc772272e4a",
+      "category": "it",
+      "source": "The Verge",
+      "region": "intl",
+      "title": "렌보버 요가 슬림 7X, 1000달러대 최강 윈도우 노트북",
+      "link": "https://www.theverge.com/gadgets/997388/lenovo-yoga-slim-7x-laptop-fire-emblem-switch-2-deal-sale",
+      "publishedAt": "2026-09-18T14:51:26.000Z",
+      "description": "Anyone shopping for a Windows laptop with a $1K budget should head to Best Buy, where for the rest of the day you can get a great deal on a capable Lenovo laptop. The Yoga Slim 7X is a slim 14-inch machine with a 2K 16:10 OLED touchscreen, Snapdragon’s high-end X2 Elite processor with 12 cores, plus 16GB of DDR5 RAM and a 1TB SSD. The specs are about the best you can get these days for $1,000, as worthwhile laptop deals are in short supply during RAMageddon. Lenovo Yoga Slim 7x Where to Buy: $1649.99 $999.99 at Best Buy The Yoga Slim 7X seems like a great alternative to spending more (and gett",
+      "author": null,
+      "summary": "렌보버의 요가 슬림 7X는 1000달러 가격대 최고 사양의 윈도우 노트북으로, 2K OLED 터치스크린과 스냅드래곤 X2 엘리트 프로세서, 16GB 메모리, 1TB 저장소를 갖춘 모델이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "42dfee2f75ed",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "'62억 챙긴' 슈퍼개미…와인 모임서 '47개 계좌' 동원해 시세조종 \"주가 4배 부풀려\"",
+      "link": "https://www.etnews.com/20260918000352",
+      "publishedAt": "2026-09-18T14:51:07.000Z",
+      "description": "'슈퍼개미'로 알려진 30대 개인투자자가 코스닥 상장사 주가를 3년 넘게 조작해 약 62억원의 부당이득을 챙긴 혐의로 구속 기소됐다. 이 투자자는 외부에서 끌어온 자금과 대출 등 레버리지를 활용해 실제 투자자금의 수배에 달하는 주식을 매수하고 시세조종 주문을 반복한 것으로 검찰은 보고 있다. 서울남부지검 금융조사1부는 17일 개인투자자 A씨(35)를 자본시장법 위반 등의 혐의로 구속 기소했다고 18일 밝혔다. A씨의 범행을 도운 전업투자자 B씨",
+      "author": "이상목",
+      "summary": "슈퍼개미로 알려진 35세 개인투자자가 47개 계좌를 이용해 코스닥 상장사 주가를 3년 이상 조작하고 약 62억원의 부당이득을 취한 혐의로 구속 기소됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "50e1af85be9f",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "네이버클라우드, 국방 AI 진출 앞세운 경쟁력 '독자 기술'",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=674008",
+      "publishedAt": "2026-09-18T14:46:20.000Z",
+      "description": "네이버클라우드가 자체 인공지능(AI)과 소프트웨어 기술을 앞세워 국방 분야로 사업을 넓힌다. 검색 서비스를 운영하며 축적한 데이터와 AI 모델 개발 역량을 군의 AI 전환에 활용한다. 국내에서 독자 기술을 확보해온 경험을 자주국방과 연결하고 국방에 접목한 기술의 해외 확장도 추진한다. 검색·AI 개발 역량을 자주국방에 접목김유원 네이버클라우드 대표는 18일 서울 중구 신라호텔에서 열린 '네이버클라우드 국방 AI 전략 세미나' 환영사에서 \"국방을 지원하기 위해서는 저희가 가지고 있는 AI 기술과 소프트웨어 기술이 쓸모가 있을 것 같다",
+      "author": "강준혁 기자",
+      "summary": "네이버클라우드가 검색 서비스로 축적한 데이터와 AI 모델 개발 역량을 활용해 국방 분야 사업을 확대하며, 자주국방 기술 개발과 해외 확장을 추진한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ceee1cf49494",
+      "category": "it",
+      "source": "Hacker News",
+      "region": "intl",
+      "title": "북한 핵실험, 수년간의 지진 유발",
+      "link": "https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes",
+      "publishedAt": "2026-09-18T14:45:32.000Z",
+      "description": "https://archive.is/xjmvA Comments URL: https://news.ycombinator.com/item?id=49755160 Points: 173 # Comments: 149",
+      "author": "rbanffy",
+      "summary": "북한이 실시한 핵실험으로 인해 그 이후 수년간 계속되는 지진 활동이 발생했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e916c019ed57",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "한섬, 배당 확대에 3년간 300억 자사주 소각…주주환원 강화",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=673998",
+      "publishedAt": "2026-09-18T14:30:57.000Z",
+      "description": "한섬이 배당 확대와 정례적인 자기주식 매입·소각을 골자로 한 신규 주주환원 정책을 내놨다. 향후 3년간 매년 100억원 규모의 자사주를 매입해 소각하는 한편 최소 주당배당금(DPS)도 기존 750원에서 800원으로 높인다. 기존 현금배당 중심의 주주환원에서 자사주 소각까지 병행하는 방식으로 정책 범위를 넓힌 셈이다.한섬은 우선 올해 100억원 규모의 자사주 매입에 착수한다. 이후 취득한 물량은 전량 소각할 예정이다. 매년 100억 자사주 매입·소각…첫해 63만주 예정18일 금융감독원 전자공시시스템에 따르면 한섬은 이날 이사회를 열고",
+      "author": "강기목 기자",
+      "summary": "한섬이 최소 주당배당금을 750원에서 800원으로 인상하고 향후 3년간 매년 100억원 규모의 자사주를 매입해 소각하기로 결정했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "161acfd6fde5",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "니콘 스몰 월드 인 모션 영상 대회 우승작 공개",
+      "link": "https://arstechnica.com/science/2026/09/meet-the-winner-of-nikons-small-world-in-motion-video-contest/",
+      "publishedAt": "2026-09-18T13:56:57.000Z",
+      "description": "Ning Xu of Tsinghua University captured tiny cilia beating in airways of a child with rare respiratory disorder.",
+      "author": "Jennifer Ouellette",
+      "summary": "칭화대학교의 닝 쉬가 희귀 호흡기 질환을 앓는 어린이의 기도에서 미세한 섬모가 움직이는 모습을 포착한 영상으로 니콘의 스몰 월드 인 모션 대회를 우승했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7643cf15f7a9",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "국내선 청사 잘못 내린 국제선 승객들…입국심사 없이 9시간 서울 활보한 일본인",
+      "link": "https://www.etnews.com/20260918000351",
+      "publishedAt": "2026-09-18T13:46:27.000Z",
+      "description": "대한항공 국제선 승객 4명이 지난 6월 김포공항에서 램프버스 착오로 국내선 청사에 잘못 하차한 뒤 입국심사를 받지 않고 공항을 빠져나간 사실이 뒤늦게 확인됐다. 이 가운데 일본 국적 승객 1명은 약 9시간이 지난 뒤 공항으로 돌아왔다. 18일 국회 국토교통위원회 소속 더불어민주당 안태준 의원이 국토교통부에서 제출받은 자료에 따르면, 사건은 지난 6월 7일 일본 도쿄 하네다공항을 출발해 김포공항에 도착한 대한항공 KE106편에서 발생했다. 당시",
+      "author": "이상목",
+      "summary": "대한항공 국제선 승객 4명이 6월 김포공항에서 버스 착오로 국내선 청사에 내려 입국심사를 받지 않고 9시간 동안 공항 밖에 있었다가 뒤늦게 발각됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1319f44ace3b",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "데이터센터 우는 인형 베지 출시",
+      "link": "https://www.wired.com/story/adopt-this-data-center-plushie-and-hear-its-piercing-scream/",
+      "publishedAt": "2026-09-18T13:30:00.000Z",
+      "description": "The satirical collaboration between a creative studio and the music producer behind Big Data, “Bezzy” is a cute little doll that spews the sounds of real data centers.",
+      "author": "Boone Ashworth",
+      "summary": "창작 스튜디오와 음악 프로듀서가 협력해 실제 데이터센터의 음향을 내는 귀여운 인형 '베지'를 만들었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3622bc71fc32",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "셀레브라이트, 디지털 포렌식 및 수사 전문가 위한 글로벌 디지털 커뮤니티 'The 101' 확대",
+      "link": "https://zdnet.co.kr/view/?no=20260918221013",
+      "publishedAt": "2026-09-18T13:10:13.000Z",
+      "description": "[지디넷코리아] 고객과 전 세계 동료 및 셀레브라이트 전문가를 상시 연결하는 전용 플랫폼 버지니아 타이슨스 코너 및 이스라엘 페타티크바, 2026년 9월 18일 /PRNewswire/ -- 공공 및 민간 부문을 위한 AI 기반 디지털 수사 및 인텔리전스 솔루션 분야의 글로벌 선도기업인 셀레브라이트(Cellebrite DI Ltd.)(나스닥: CLBT)가 오늘 디지털 포렌식 및 수사 전문가를 위한 전용 글로벌 디지털 커뮤니티 The 101의 확대를 발표했다. The 101은 고객이 MyCellebrite 포털을 통해 이용할 수 있다. 이 커뮤니티는 활발한 토론 그룹에 참여하여 질문을 남기고 전 세계 동료 및 셀레브라이트 전문가와 지식을 공유하는 6만 2,000명의 기존 사용자를 기반으로 매일 성장하고 있다. 매일 디지털 포렌식 및 수사 전문가들은 셀레브라이트 기술을 활용해 인사이트를 발견하고 수사를 진전시키며 지역사회를 더욱 안전하게 만드는 데 기여하고 있다. The 101은 이들이 셀레브라이트의 솔루션과 전문가, 그리고 서로의 지식을 더욱 효과적으로 활용해 이러한 목표를 더 빠르게 달성할 수 있도록 설계됐다. 고객은 제품과 경험 수준에 따라 하위 커뮤니티에 ",
+      "author": "글로벌뉴스",
+      "summary": "셀레브라이트가 디지털 포렌식 및 수사 전문가 6만 2000명이 이용하는 글로벌 커뮤니티 '더 101'을 확대해 고객들이 지식을 공유하고 협력할 수 있는 플랫폼을 강화했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0f226808dd3d",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "DXC 엔지니어링과 록소, 기업 규모 자율주행 상용차 조기 도입 위해 협력",
+      "link": "https://zdnet.co.kr/view/?no=20260918221002",
+      "publishedAt": "2026-09-18T13:10:02.000Z",
+      "description": "[지디넷코리아] DXC 엔지니어링(DXC Engineering)과 록소(LOXO)가 미들마일 및 라스트마일 물류용 레벨 4 자율주행 상용차의 도입을 앞당기기 위해 협력한다. 이번 협력으로 록소의 검증된 자율주행 기술과 DXC의 엔지니어링, AI, 데이터 및 시스템 통합 전문성이 결합해 대규모 자율 물류의 산업화를 지원하게 된다. 양사는 자율 물류를 시범 운영 단계를 넘어 운전자 부족, 비용 압박 및 증가하는 배송 수요에 대응할 수 있는 반복 가능한 기업 운영 단계로 발전시키는 것을 목표로 하고 있다. 애시번, 버지니아, 2026년 9월 18일 /PRNewswire/ -- 선도 기업 기술 및 혁신 파트너 DXC 테크놀로지(DXC Technology)(NYSE: DXC)가 상용차용 레벨 4 자율주행 소프트웨어를 개발하는 스위스 소재 기업 록소와 대규모 자율 물류 솔루션의 도입을 앞당기기 위한 전략적 파트너십을 체결했다고 발표했다. 양사는 록소의 검증된 자율주행 플랫폼과 DXC 엔지니어링의 데이터 및 AI 전문성을 활용해 물류 고객이 차세대 자율주행 솔루션을 더욱 신속하고 안정적으로 도입할 수 있도록 지원할 예정이다. DXC and LOXO 상품을 한 지점에서 다",
+      "author": "글로벌뉴스",
+      "summary": "DXC 엔지니어링과 스위스 기업 록소가 레벨 4 자율주행 상용차의 상용화를 가속하기 위해 전략적 파트너십을 체결하고 미들마일 및 라스트마일 물류 분야의 자율 운송을 본격 추진하기로 했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b1e24bc620ff",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "워렌 버핏, 50년 이상 이끈 버크셔해서웨이 회장직 물러남",
+      "link": "https://www.theguardian.com/business/2026/sep/18/warren-buffett-steps-down-berkshire-hathaway",
+      "publishedAt": "2026-09-18T14:48:56.000Z",
+      "description": "‘Father Time always wins,’ Buffett, 96, says as his son, Howard, steps in as the $1tn conglomerate’s new chair Warren Buffett is stepping down as chair of Berkshire Hathaway, the company that he took from a faltering textile manufacturer into a $1tn conglomerate over the course of 60 years. Buffett’s son, Howard, 71, will take over as chair. Buffett, 96, cited his age as the main reason behind the transition, noting that he has a one-year-old great-grandchild who is “moving a bit faster than I am these days”. Continue reading...",
+      "author": "Lauren Aratani",
+      "summary": "96세 워렌 버핏이 60년간 이끈 버크셔해서웨이 회장직에서 물러나고 71세 아들 하워드가 새 회장으로 취임했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b8f706cd7b32",
+      "category": "economy",
+      "source": "머니투데이",
+      "region": "kr",
+      "title": "'이럴수가' 4시간 20분 혈투 '세베리노 또 홈런포' 두산, '박찬혁 생애 첫 멀티홈런' 키움 '헛심 공방'... 연장 11회 승부 끝에 6-6 무승부 [잠실 현장리뷰]",
+      "link": "https://www.mt.co.kr/sports/2026/09/18/2026091816474650167",
+      "publishedAt": "2026-09-18T14:05:44.000Z",
+      "description": "두산 베어스와 키움 히어로즈가 4시간 20분이나 걸린 맞대결에서 끝내 승부를 가르지 못했다. 두산과 키움은 18일 서울 잠실야구장에서 펼쳐진 키움과 2026 신한 SOL KBO 리그 정규시즌 홈 경기에서 연장 11회말 혈투 끝에 6-6 무승부를 거뒀다. 이날 무승부로 두산은 65승 60패 5무를 마크했다. 리그 순위 단독 5위 자리를 그대로 지켰다. 6위 NC 다이노스가 같은 날 롯데 자이언츠에 패하면서 두산과 NC의 승차는 5.5경기가 됐다. 리그 최하위 키움은 45승 84패 4무를 기록했다. 이날 두산은 박찬호(유격수), 안재석(3루수), 김민석(좌익수), 양의지(포수), 세베리노(지명타자), 양석환(1루수), 정수빈(중견수), 강승호(2루수), 조수행(우익수) 순으로 선발 라인업을 구성했다. 선발 투수는 잭로그였다....",
+      "author": null,
+      "summary": "두산 베어스와 키움 히어로즈가 4시간 20분 경기 끝에 연장 11회에서 6-6 무승부를 기록했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "75e25740cde3",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "테슬라 판 깔고 중국차가 먹는다…한국 차는 어디쯤?",
+      "link": "https://www.mk.co.kr/news/business/12156899",
+      "publishedAt": "2026-09-18T13:55:30.000Z",
+      "description": "‘스마트카 패권 전쟁’의 저자 박정규 카이스트 기술경영전문대학원 초빙교수글로벌 자동차 시장에 거대한 지각변동이 일어나고 있다. 한때 시장을 주도했던 독일과 일본 업체들은 전동화와 ..",
+      "author": "매일경제",
+      "summary": "글로벌 자동차 시장에서 전동화 전환이 진행 중이며 중국 업체들의 약진이 두드러지고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "fa80db00d31f",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "드래곤 드보라, 협상을 형편없는 전술로 시작하다",
+      "link": "https://www.bbc.co.uk/news/videos/cwkgxlze1pr9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T13:49:43.000Z",
+      "description": "Deborah Meaden makes a bold opening move in response to a pitch.",
+      "author": null,
+      "summary": "드래곤 드보라(Deborah Meaden)가 제안에 대응하며 협상 초반부터 형편없는 전술을 펼쳤다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "03308ad9d3a0",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "폭염은 끝났는데 이제 기름값이 문제…휘발유·경유 부담 다시 커진다",
+      "link": "https://www.mk.co.kr/news/economy/12156866",
+      "publishedAt": "2026-09-18T13:00:47.000Z",
+      "description": "폭염에 유가·환율 상승 겹쳐 생산자물가 작년보다 8% 쑥 시금치 51.9%·가스 11%↑ 유류세 인하 11월까지 연장 석유제품 최고가격 다시 동결 추석때 고속도로 기름값 인하올여..",
+      "author": "매일경제",
+      "summary": "유가와 환율 상승으로 휘발유와 경유 가격이 다시 오르고 있으며, 정부가 유류세 인하를 11월까지 연장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6e5ccbe03902",
+      "category": "economy",
+      "source": "동아일보 경제",
+      "region": "kr",
+      "title": "법원, 노란봉투법 하청교섭 첫 제동…포스코 집행정지 인용",
+      "link": "https://www.donga.com/news/Economy/article/all/20260918/134699182/1",
+      "publishedAt": "2026-09-18T12:35:00.000Z",
+      "description": "포스코와 동희오토가 하청 노조와 각각 개별 교섭을 해야 한다는 중앙노동위원회(중노위)의 재심 결정 효력이 정지됐다. 노란봉투법(개정 노동조합법) 시행 후 중노위 결정에 대해 법원이 집행정지 신청을 받아들인 첫 사례다.18일 서울행정법원 행정14부(부장판사 이상덕)는 포스코가 중노위를 상대로 낸 ‘교섭단위 분리 결정 집행정지 신청’을 인용했다. 재판부는 “중노위의 재심 결정으로 인해 신청인에게 회복하기 어려운 손해가 발생할 우려가 있고, 이를 예방하기 위해 집행을 정지할 긴급한 필요가 있다”고 판단했다. 앞서 4월 한국노동조합총연맹(한국노총) 금속노련이 포스코에 단체교섭을 요구하자 또 다른 하청노조인 전국민주노동조합총연맹(민노총) 금속노조·플랜트건설노조가 교섭단위 분리 신청을 했고, 경북지방노동위원회는 이를 받아들였다. 포스코가 하청 노조의 산업 안전을 실질적으로 지배하고 결정할 수 있는 ‘진짜 사장’이라고 본 것이다. 금속노조는 노조 간 이익 대표성이 다르다는 점이, 플랜트컨설노",
+      "author": null,
+      "summary": "법원이 노란봉투법 시행 후 처음으로 중앙노동위원회 결정에 대한 집행정지를 인용하여 포스코의 하청 노조 개별 교섭 명령이 효력을 정지했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0d8c24eca403",
+      "category": "economy",
+      "source": "동아일보 경제",
+      "region": "kr",
+      "title": "한화포레나, 아파트 브랜드 조사 잇단 상위권",
+      "link": "https://www.donga.com/news/list/article/all/20260918/134699838/2",
+      "publishedAt": "2026-09-18T12:28:56.000Z",
+      "description": "한화 건설부문 주거 브랜드 한화포레나가 국내 주요 아파트 브랜드 조사에서 잇달아 상위권에 오르며 브랜드 경쟁력을 높이고 있다. 브랜드 인지도와 실거주 품질에 대한 평가가 개선되는 가운데 도시정비사업 수주도 확대되는 모습이다.한화포레나는 최근 부동산114가 전국 소비자 2843명을 대상으로 진행한 아파트 브랜드 이미지 조사에서 ‘성장이 기대되는 브랜드’ 3위에 올랐다. 응답률은 32.2%로 현대건설 힐스테이트(37.4%), GS건설 자이(33.6%)에 이어 세 번째로 높았다.2019년 출범한 한화포레나는 최근 10여 년간 시공능력평가 상위 20개 건설사가 선보인 신규 브랜드 가운데 유일하게 해당 부문 3위 안에 들었다.한국갤럽의 ‘2026년 브랜드 아파트 체감품질 만족도 지수(ABQI)’에서도 한화포레나는 전체 브랜드 5위를 기록했다. 특히 인테리어 자재 및 마감 품질 부문에서 87.6점으로 2위에 오르며 실거주 품질에 대한 만족도를 입증해냈다.부동산114 조사에서는 한화포레나",
+      "author": null,
+      "summary": "한화포레나가 성장이 기대되는 브랜드 3위, 브랜드 아파트 체감품질 5위에 올랐으며 인테리어 마감 품질에서 높은 평가를 받았다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "13801eeffc18",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "\"언제부터 반도체 회사였지?\"…3조 넘게 쏟아붓고 랠리 합류한 이 그룹",
+      "link": "https://www.mk.co.kr/news/stock/12156848",
+      "publishedAt": "2026-09-18T12:27:45.000Z",
+      "description": "1조 CCL 증설에 두산 3%↑ 두산테스나도 9% 넘게 올라 SK실트론 인수 계약으로 웨이퍼까지 사업 확장시켜두산그룹이 동박적층판(CCL)부터 웨이퍼, 시스템반도체 테스트까지 ..",
+      "author": "매일경제",
+      "summary": "두산그룹이 동박적층판부터 웨이퍼, 시스템반도체까지 3조 원대 투자로 반도체 사업을 확대하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "4bf7e58dd321",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "韓총리, 태릉지구 방문…\"국민신뢰 가늠자, 차질없이 추진\"",
+      "link": "https://www.yna.co.kr/view/AKR20260918180500001",
+      "publishedAt": "2026-09-18T10:38:10.000Z",
+      "description": "(서울=연합뉴스) 이상현 기자 = 한성숙 국무총리는 18일 서울시 노원구의 태릉지구 주택공급 사업 현황을 점검하고 철저한 사업 관리를 당부했다.",
+      "author": "이상현",
+      "summary": "한성숙 국무총리가 태릉지구 주택공급 사업 현황을 점검하고 철저한 사업 관리를 당부했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3e18ec2211d6",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "키움증권, 창사 이후 첫 신종자본증권 발행…4천억원 규모",
+      "link": "https://www.yna.co.kr/view/AKR20260918180400008",
+      "publishedAt": "2026-09-18T10:24:26.000Z",
+      "description": "(서울=연합뉴스) 김유향 기자 = 키움증권[039490]이 자본 확충을 위해 창사 이래 처음으로 4천억원 규모의 신종자본증권을 발행했다.",
+      "author": "김유향",
+      "summary": "키움증권이 창사 이래 처음으로 자본 확충을 위해 4천억 원 규모의 신종자본증권을 발행했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d32271057ddf",
+      "category": "politics",
+      "source": "SBS 뉴스",
+      "region": "kr",
+      "title": "교장·주민 서로 무릎 꿇은 채…\"제발\" 눈물 읍소 무슨 일",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008760878",
+      "publishedAt": "2026-09-18T14:57:00.000Z",
+      "description": "북한이탈주민 청소년을 위한 대안 교육기관인 서울 여명학교에서, 교장과 인근 주민들이 서로 무릎을 꿇고 호소하는 일이 벌어졌습니다. 서울 강서구에 학교 건물을 짓는 방안을 두고, 학생들을 받아달라는 학교 측과 이를 반대하는 주민들의 갈등이 커지고 있습니다.김아영 기자가 취재했습니다.",
+      "author": "nina@sbs.co.kr (김아영 기자)",
+      "summary": "북한이탈주민 청소년을 위한 여명학교의 서울 강서구 신축을 두고 학교와 지역 주민 간 갈등이 심화되어, 교장과 주민들이 서로 무릎을 꿇고 설득하는 상황이 벌어졌다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "56b4e40805fa",
+      "category": "politics",
+      "source": "연합뉴스 사회",
+      "region": "kr",
+      "title": "영동 경부고속도로서 화물차간 추돌 사고…1명 구조 중",
+      "link": "https://www.yna.co.kr/view/AKR20260918188900064",
+      "publishedAt": "2026-09-18T14:20:36.000Z",
+      "description": "(청주=연합뉴스) 이성민 기자 = 18일 오후 9시 38분께 충북 영동군 경부고속도로 서울 방향 영동IC 인근에서 8.5t 화물차가 앞서가던 2...",
+      "author": "이성민",
+      "summary": "18일 오후 9시 30분경 충북 영동군 경부고속도로에서 화물차 간 추돌 사고가 발생해 인명 구조가 진행 중이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "25eb62346fe9",
+      "category": "politics",
+      "source": "연합뉴스 사회",
+      "region": "kr",
+      "title": "'112억 사기 혐의' 제넨셀 창립자, 22일 경기남부청 소환 조사",
+      "link": "https://www.yna.co.kr/view/AKR20260918187000061",
+      "publishedAt": "2026-09-18T13:44:04.000Z",
+      "description": "(수원=연합뉴스) 권준우 기자 = 김승원 법무부 장관 후보자의 '신약 임상시험 승인 청탁 의혹'에 연루된 제약사 제넨셀의 창립자가 100억원대 ...",
+      "author": "권준우",
+      "summary": "법무부 장관 후보자 청탁 의혹에 연루된 제약사 제넨셀의 창립자가 100억원대 사기 혐의로 22일 경기남부경찰청에 소환되어 조사를 받는다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6bc26d4b1640",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "한미 외교장관 회담 시작…'호르무즈 파병·대미 투자' 주목",
+      "link": "https://www.yna.co.kr/view/AKR20260918186200071",
+      "publishedAt": "2026-09-18T13:30:00.000Z",
+      "description": "(워싱턴=연합뉴스) 홍정규 특파원 = 한미 외교장관 회담이 18일(현지시간) 오전 워싱턴 DC의 미국 국무부 청사에서 열렸다.",
+      "author": "홍정규",
+      "summary": "18일 워싱턴에서 한미 외교장관 회담이 열려 호르무즈 해협 파병과 대미 투자 문제를 논의하게 된다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1f16b4f1306c",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "직장 내 괴롭힘 호소 뒤 숨진 연구원···가해·묵인 혐의 3명 송치",
+      "link": "https://www.khan.co.kr/article/202609182208001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-09-18T13:08:00.000Z",
+      "description": "경찰마크. 경향신문 자료사진직장 내 괴롭힘을 일삼고, 이를 묵인한 충남 금산지역 한 연구기관 소장과 연구원들이 검찰로 넘겨졌다.충남 금산경찰서는 폭행 등의 혐의로 지역 한 연구기관 소장 A씨(50대) B씨(40대) 등 연구원 2명을 검찰에 송치했다고 18일 밝혔다.앞서 지난 5월15일 오전 10시30분쯤 이 기관 소속 기간제 연구원 C씨(30대)가 금산군 ···",
+      "author": "이삭 기자",
+      "summary": "직장 내 괴롭힘을 호소했던 기간제 연구원이 숨진 사건 관련, 충남 금산 한 연구기관의 소장과 연구원 2명이 폭행 등의 혐의로 검찰에 송치되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "4b2d94e9e773",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "조작기소 진상 규명하자는 李…법조계 \"공소취소 명분 될수도\"",
+      "link": "https://www.donga.com/news/Politics/article/all/20260918/134699354/1",
+      "publishedAt": "2026-09-18T13:06:00.000Z",
+      "description": "이재명 대통령이 18일 더불어민주당이 추진 중인 ‘조작 기소 특검’에 대해 “악의적 수사 조작이 의심되는 사건에 대해 특검을 통해서 진상을 규명하는 게 맞다”면서도 “진상 규명에만 집중해 달라”고 했다. 조작 기소 특검의 필요성을 강조하면서도 특검법에 포함된 공소 취소 권한은 빼달라고 밝힌 것. 임기 중 연임 개헌 시도 가능성에 대해서는 “저는 연임할 생각이 전혀 없다”고 했다. ● “조작 기소 특검, 진상 규명에만 집중해 달라”이 대통령은 이날 청와대 영빈관에서 열린 기자회견에서 조작 기소 특검에 대해 질문을 받고 이같이 말했다. 이 대통령은 “명백하게 국회 측에 부탁을 드리고 싶은 게 있다. 논란 되는 특검의 기존 기소 사건에 대한 이송 또는 처분에 관한 조항은 삭제하고 진상 규명에만 집중해 달라”고 했다. 올해 6월 취임 1주년 기자회견에선 “(특검을) 안 할 수는 없다. 법과 상식대로 하면 된다”며 특검법에 포함된 공소 취소 조항에 대한 입장을 내놓지 않았으나 이번 기자회",
+      "author": null,
+      "summary": "이재명 대통령이 조작 기소 특검의 필요성을 인정하면서도 기존 기소 사건에 대한 공소 취소 권한은 삭제하고 진상 규명에만 집중해 달라고 요청했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "fe8a72873041",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "金여사, 장애인·가정폭력 피해자 위로…\"나비처럼 희망 퍼져야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260918137951001",
+      "publishedAt": "2026-09-18T11:34:31.000Z",
+      "description": "(서울=연합뉴스) 임형섭 기자 = 이재명 대통령의 부인 김혜경 여사는 18일 서울대학교 치과병원 내에 위치한 중앙장애인구강진료센터 개원 7주년 ...",
+      "author": "황윤기",
+      "summary": "김혜경 여사가 서울대학교 치과병원 내 중앙장애인구강진료센터의 개원 7주년 행사에 참석해 장애인과 가정폭력 피해자들을 위로했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2b13ab5a0456",
+      "category": "politics",
+      "source": "서울신문",
+      "region": "kr",
+      "title": "경기도-민주당, 민선 9기 첫 예산정책협의회 21일 개최",
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20260918500304",
+      "publishedAt": "2026-09-18T09:24:57.000Z",
+      "description": "경기도와 더불어민주당 중앙당이 오는 21일 경기도북부청사에서 민선 9기 첫 예산정책협의회를 열고 경기도 주요 현안과 국비 사업을 논의한다. 예산정책협의회에는 추미애 경기지사와 김민석 더불어민주당 당대표, 한병도 원내대표, 한정애 사무총장, 권칠승 정책위의장, 염태영 참좋은지방정부위원회 위원장, 이광재 국회 예결위원장, 서영석 도당위원장, 남종섭 경기도의회 의장 등, 경기도 행정1부지사, 경제부지사, 정책수석, 정무수석 등 주요 실국장급이 참석할 예정이다. 이 자리에서 경기도는 국민주권정부의 국정과제 이행을 위한 경기도 전략과제로 ▲광역지방정부 재정건전성 확보를 위한 제도 개선 ▲지역개발 인프라 확충 ▲수도권 규제의 합리적 개선을 제시하고 주요 사업 국비 확보를 건의할 계획이다. 재정건전성 확보를 위해서는 지방소비세율 인상과 담배소비분 지방교육세를 소방분 지역자원시설세로 전환하는 방안, 법인세 5%를 광역지방세로 이양하는 방안 등 그동안 추미애 지사가 강조해온 제도 개선안을 거듭 건의할 예정이다. 앞서 추 지사는 지난 7월 박홍근 기획예산처 장관, 9월 9일 이광재 국회 예결위원장을 만나 경기도 주요사업에 대한 필요성을 설명하고 국비 증액과 반영 협조를 요청했",
+      "author": "안승순 기자",
+      "summary": "경기도와 더불어민주당이 21일 경기도북부청사에서 민선 9기 첫 예산정책협의회를 개최해 지방 재정건전성과 지역개발 인프라 등 주요 현안을 논의한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6e8262d9aaa0",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "이 대통령 \"전쟁 관여·개입하는 파병 없다\"…청해부대 임무 확대 고심",
+      "link": "https://www.khan.co.kr/article/202609181750001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-09-18T08:50:00.000Z",
+      "description": "이재명 대통령이 18일 청와대 영빈관에서 열린 기자회견에서 취재진의 질문을 받고 있다. 연합뉴스이재명 대통령이 18일 호르무즈 해협 파병안을 두고 “전쟁에 관여 또는 개입하는 파병은 없다. 명백하게 말씀드릴 수 있다”고 말했다. 이 대통령은 “다만 자국의 상선과 원유 수송로, 국민들의 생명안전을 보호하기 위한 최소한의 활동은 해야 한다는 점도 분명하다”고 ···",
+      "author": "김원진 기자",
+      "summary": "이재명 대통령이 호르무즈 해협 파병에 대해 '전쟁 관여 파병은 없다'고 명시하면서도 자국 상선과 국민 생명 보호를 위한 최소한의 활동은 필요하다고 강조했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "71fb61a86c41",
+      "category": "politics",
+      "source": "조선일보",
+      "region": "kr",
+      "title": "인천 서해구 물류센터 화재 7시간 30분만에 모두 꺼져… 인명피해 없어",
+      "link": "https://www.chosun.com/national/incident/2026/09/18/O2WEGDV2D5FBPAE4DUXVT54EC4/",
+      "publishedAt": "2026-09-18T06:36:24.000Z",
+      "description": "",
+      "author": "인천=이현준 기자",
+      "summary": "인천 서해구의 물류센터에서 발생한 화재가 7시간 30분 만에 완전히 진화되었으며 인명피해는 없었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "791481aa30d2",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "트럼프 '통일' 발언에 놀란 영국·아일랜드 \"벨파스트 협정 준수\"",
+      "link": "https://www.yna.co.kr/view/AKR20260918189600085",
+      "publishedAt": "2026-09-18T14:46:52.000Z",
+      "description": "(런던=연합뉴스) 김지연 특파원 = 도널드 트럼프 미국 대통령이 아일랜드 통일을 지지한다고 발언한 가운데 영국과 아일랜드 정상이 만나 아일랜드 ...",
+      "author": "김지연",
+      "summary": "트럼프 미국 대통령이 아일랜드 통일 지지를 표현한 가운데 영국과 아일랜드 정상이 벨파스트 협정 준수를 강조했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e85b202ab764",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "EU 사상 최고 연료가, 에너지 기업 특별세 논의",
+      "link": "https://www.theguardian.com/world/2026/sep/18/eu-europe-fuel-prices-calls-windfall-tax-energy-firms",
+      "publishedAt": "2026-09-18T14:42:08.000Z",
+      "description": "German minister says companies are ‘exploiting situation’ in Middle East, as sky-high prices become major domestic issue for leaders European governments have discussed imposing a bloc-wide windfall tax on energy companies, as near-record fuel and gas prices pile pressure on leaders desperate to contain mounting public discontent and the challenge of the far right. With elections due next year in eight EU countries including France, Italy, Spain and Poland, leaders are scrambling to head off the potential fallout from what analysts have warned could be one of the continent’s biggest energy sho",
+      "author": "Jon Henley Europe correspondent and Jillian Ambrose Energy correspondent",
+      "summary": "중동 사태로 치솟은 유럽의 연료·가스값에 대응하기 위해 EU 정부들이 에너지 회사에 대한 연립 특별세 부과를 검토하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ad308ed6e4d4",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "EU와 캐나다, 특별 관계 강화 검토",
+      "link": "https://www.dw.com/en/canada-and-eu-a-look-at-the-bloc-s-special-relationships/a-79328797?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-09-18T14:26:00.000Z",
+      "description": "Though Canada may be some distance from Europe geographically, closer political ties are in the cards. With talk of an associate membership, DW takes a look at other arrangements the EU has with particular countries.",
+      "author": null,
+      "summary": "캐나다가 EU의 준회원 자격을 고려하는 등 유럽연합과 양국의 정치적 협력이 심화되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "cc4371075c96",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "美공화 \"최대 225석 하원 다수당 가능…블루웨이브 징후 없다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260918187800071",
+      "publishedAt": "2026-09-18T14:14:23.000Z",
+      "description": "(워싱턴=연합뉴스) 이유미 특파원 = 오는 11월 미국 중간선거를 앞두고 여당인 공화당이 하원에서 최대 225석을 확보할 수 있다는 공화당 지도...",
+      "author": "이유미",
+      "summary": "11월 미국 중간선거를 앞두고 공화당이 하원에서 최대 225석을 확보할 수 있다고 전망했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "81db7e044980",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "예멘 반후티군, 산아 탈환 작전 실패 후 원인 조사",
+      "link": "https://www.theguardian.com/world/2026/sep/18/yemen-anti-houthi-forces-inquest-military-collapse",
+      "publishedAt": "2026-09-18T14:12:10.000Z",
+      "description": "Rout raises questions about coordination and morale as some politicians claim billions of dollars were offered to persuade forces to abandon position A bitter inquest is under way among Yemen’s anti-Houthi forces as to how what was being billed as a decisive assault on Sana’a, the Houthi-controlled capital, suddenly collapsed into a military rout. More than 15 brigades were defeated as the country’s entire west coast fell into Houthi hands. Efforts are now being made to reorganise the anti-Houthi forces representing the UN-recognised Yemeni government in order to capture the Kahbob mountains, ",
+      "author": "Patrick Wintour Diplomatic editor",
+      "summary": "예멘 반후티군의 산아 공략 작전이 갑자기 붕괴되면서 15개 여단이 패배하고 국가 전역 해안이 후티군에 의해 장악되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "85e1bff2b169",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "독일 축구, 복수국적 선수 영입으로 인재 경쟁",
+      "link": "https://www.dw.com/en/dual-citizenship-means-germany-now-in-competition-for-talent/a-79330797?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-09-18T14:04:00.000Z",
+      "description": "Coach Jürgen Klopp has named several players to his first Germany squad who are eligible to play for other countries. Some still aren't committed to playing for thje national team long-term.",
+      "author": null,
+      "summary": "독일 축구 감독이 다른 국가 대표 자격이 있는 선수들을 처음 소집했으나 일부는 장기간 대표팀 참가를 약속하지 않았다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "58ae33c22070",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "로날도, 41세 나이에 포르투갈 대표팀 선발",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T12:45:25.000Z",
+      "description": "Cristiano Ronaldo is named in the first squad selected by new Portugal coach Jorge Jesus for their upcoming Nations League games.",
+      "author": null,
+      "summary": "크리스티아누 로날도가 새 포르투갈 축구 감독 조르제 예수스의 첫 소집명단에 포함돼 국제연맹 리그 경기에 나선다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "85986738c487",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "세우타 경찰, 해변 이민자 이동 시 경고사격",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T11:59:42.000Z",
+      "description": "Police reportedly fired into the air on Friday morning as they struggled to contain crowds jostling to secure a place at the tented site.",
+      "author": null,
+      "summary": "경찰이 금요일 아침 세우타 해변 임시 수용소로 몰려드는 이민자 군중을 통제하기 위해 공중에 발포했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "784040b7c867",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "법원, 트럼프의 케네디센터 철거 불허… 투표 위협 소송도",
+      "link": "https://www.npr.org/2026/09/18/g-s1-143913/up-first-newsletter-kennedy-center-trump-voter-intimidation-lawsuit-poland-russia-ukraine",
+      "publishedAt": "2026-09-18T11:09:24.000Z",
+      "description": "A federal judge ruled yesterday that President Trump cannot tear down the Kennedy Center without a 30-day notice. And, recent lawsuits seek to keep armed federal officers away from polling sites.",
+      "author": "Brittney Melton",
+      "summary": "연방법원이 트럼프 대통령의 케네디센터 철거를 30일 사전 공지 없이 진행할 수 없다고 판결했고, 개표소 무장 장교 배치를 저지하는 소송도 제기되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9f7d264e7c0d",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "미스 레이첼, 본격 음악 활동 개시… 첫 앨범 제작",
+      "link": "https://www.npr.org/2026/09/18/nx-s1-5938847/ms-rachel-mr-aron-new-album-im-so-happy",
+      "publishedAt": "2026-09-18T11:00:00.000Z",
+      "description": "Ms. Rachel has conquered YouTube, Netflix and the toy aisle. Now she's making an album, with real instruments, big feelings and her littlest listeners in mind.",
+      "author": "Leila Fadel",
+      "summary": "유튜브·넷플릭스에서 큰 인기를 끈 미스 레이첼이 유명 악기와 깊이 있는 감정을 담은 첫 앨범을 제작하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c20df4d3b7eb",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]李 \"전쟁 개입 파병은 없다\"… 조율 위한 외교 공간부터 확보를",
+      "link": "https://www.donga.com/news/Opinion/article/all/20260918/134699625/2",
+      "publishedAt": "2026-09-18T14:30:00.000Z",
+      "description": "이재명 대통령은 18일 기자회견에서 호르무즈 해협 파병 문제와 관련해 “전쟁에 관여하거나 개입하는 파병은 없다. 이건 명백하게 말씀드릴 수 있다”며 ‘전쟁 불관여·불개입’ 원칙을 지킬 것이라고 밝혔다. 다만 이 대통령은 “다른 국가들이 하는 것처럼 자국 상선과 원유 수송로, 국민 생명·안전을 보호하기 위한 최소한의 활동은 해야 된다는 점도 분명하다”며 “이미 청해부대가 파견돼 있는데 이를 좀 강화하는 부분에 대해 검토하고 고심하고 있는 건 사실이다”라고 덧붙였다. 이 대통령 발언에선 사실상 호르무즈 파병은 불가피하나 그 위험 부담은 최소화해야 하는 고민이 묻어 있다. 끊임없이 한국의 군사적 기여를 압박하는 미국에는 성의를 보이면서 그 어떤 개입도 적대 행위로 간주하겠다는 이란과도 척지지 않는 절묘한 해법을 찾아야 하는 셈인데, 그건 어쩌면 불가능에 가까운 난제일 수 있다. 나아가 이 문제는 당장 우리 사회를 ‘명분 없는 불법 전쟁에 동참하느냐’와 ‘동맹 강화의 기회를 걷어차느냐’로",
+      "author": null,
+      "summary": "이재명 대통령이 호르무즈 파병과 관련해 전쟁 불개입 원칙을 강조했지만, 실제로는 청해부대 강화를 검토 중이라며 미국과 이란 사이에서 절묘한 외교적 균형을 찾기가 불가능에 가까운 난제라고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "28237cb310c1",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "법정에서의 성차별—검사들의 여성 표현 방식",
+      "link": "https://www.nytimes.com/2026/09/17/opinion/death-row-women-sexism.html",
+      "publishedAt": "2026-09-18T14:28:46.000Z",
+      "description": "We need a legal standard that would prohibit sexism and gender bias in criminal trials.",
+      "author": "Rachel Louise Snyder",
+      "summary": "형사 재판에서 검사들이 여성을 성차별적으로 묘사하는 관행을 비판하며, 성별 편견을 금지하는 법적 기준이 필요하다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "78eb168d89a4",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]\"과정 세심하지 못해\"… 부동산 정책은 '디테일'이 관건",
+      "link": "https://www.donga.com/news/Opinion/article/all/20260918/134699629/2",
+      "publishedAt": "2026-09-18T14:27:00.000Z",
+      "description": "이재명 대통령의 기자회견에서 부동산 시장 불안을 잠재울 추가 카드는 없었다. 세제 개편안 발표 이후 시장의 불만과 혼란이 여전하고, 전월세 시장 불안이 커지고 있지만 구체적 해법을 제시하지는 않았다. 다만 공급·규제·세제 정책을 확고하고 신속하게 집행해 부동산 불패 신화를 깨겠다는 목표는 다시 한번 강조했다. 현 정부 출범 이후 민심이 가장 극적으로 악화한 지점은 부동산이다. 부동산 정상화 의지를 거듭 밝힌 올해 3월에만 해도 정부 정책을 긍정적으로 보는 여론이 절반을 넘었지만, 지난달 세제 개편안 발표 이후엔 국정 운영 부정 평가의 가장 큰 이유로 줄곧 부동산 정책이 꼽히고 있다. 집값 안정이란 방향성은 옳지만 그 과정에서 비거주 1주택자들까지 획일적으로 투기 세력으로 몰아세우면서 거센 조세 저항과 반발을 불렀다. 최근 서울 강남권 집값은 약세를 보이는 대신 강북과 수도권이 오르는 현상에 대해 이 대통령은 “일종의 평탄화 작업”이라고 했는데 주거 불안에 시달리는 서민, 중산층들의",
+      "author": null,
+      "summary": "이 사설은 이재명 대통령의 부동산 정책이 집값 안정이라는 방향성은 옳으나, 비거주 1주택자까지 투기 세력으로 몰아세우면서 실행 과정에서 시장 혼란과 조세 저항을 초래했다고 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b0d4c173b440",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "대학 스포츠의 운동 중 사망은 예방 가능했다",
+      "link": "https://www.theguardian.com/sport/2026/sep/18/college-sports-heatstroke-jordan-mcnair-matthew-mayich",
+      "publishedAt": "2026-09-18T14:10:19.000Z",
+      "description": "Arizona State hockey player Matthew Mayich is fighting for his life after collapsing during practice. Tragedies like this can be avoided Late last month, Arizona State hockey player Matthew Mayich collapsed during a team workout. He is now fighting for his life after suffering from exertional heatstroke and, according to the Mayich family attorney, is unlikely to make a meaningful recovery. This young man was drafted by the St Louis Blues but will never get the opportunity to play in the NHL. While he is not the first young athlete severely harmed by heat-related illness in American sports, he",
+      "author": "Martin McNair with Simon Fitzgerald",
+      "summary": "미국 대학 스포츠에서 운동 중 열사병으로 인한 선수들의 비극이 예방 가능했다고 지적하며, 더 엄격한 안전 기준 마련을 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8be84944d0b1",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "민주주의 수호, 권위주의가 아닌 부패에 초점을",
+      "link": "https://www.theguardian.com/commentisfree/2026/sep/18/democrats-corruption-authoritarianism",
+      "publishedAt": "2026-09-18T12:00:16.000Z",
+      "description": "The party needs to thread the needle between college-educated and working-class voters. Our survey offers a way Resisting authoritarianism is the second-highest priority for Democrats’ college-educated base. But for working-class Americans, it’s only the 19th priority (out of 20), we found in a new survey. The gap between these two groups was larger than on any other issues: elites prioritized resisting authoritarianism an astonishing 33 percentage points more than non-elites did. Democrats’ dilemma is that their college-educated base insists they stand up to Donald Trump’s attacks on democrac",
+      "author": "Jared Abbott and Joan C Williams",
+      "summary": "민주당이 권위주의 저항보다는 부패 퇴치에 초점을 맞춰야 한다고 주장하며, 대학 교육층과 노동 계층 유권자 간의 정책 우선순위 격차를 좁혀야 한다고 제시했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1b665c91cdd9",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "AI의 가장 큰 논쟁이 놓친 것",
+      "link": "https://www.washingtonpost.com/opinions/2026/09/18/ai-autonomy-is-growing-faster-than-human-control/",
+      "publishedAt": "2026-09-18T11:30:00.000Z",
+      "description": "Race ahead or pause? The real question is how to build human accountability.",
+      "author": "Fareed Zakaria",
+      "summary": "AI 발전에 대한 현재의 경쟁과 일시 중단 논쟁이 핵심을 놓치고 있으며, 진정한 문제는 인간 책임성을 확보하는 방법이라고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "93d57fb886e3",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "미국인이 정말 종교를 버리고 있나? 다른 현실",
+      "link": "https://www.washingtonpost.com/opinions/2026/09/18/dont-believe-everything-you-read-about-death-religion/",
+      "publishedAt": "2026-09-18T11:00:00.000Z",
+      "description": "Believe it or not, religion isn’t declining.",
+      "author": "Byron R. Johnson, Thomas S. Kidd",
+      "summary": "미국인들이 종교를 포기하고 있다는 통념과 달리, 종교가 실제로는 쇠퇴하지 않고 있다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3973280fcfdf",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[사설] \"제가 부족했다\"는 이 대통령의 성찰, 국정 운영 변화로 이어가길",
+      "link": "https://www.khan.co.kr/article/202609181840001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-09-18T09:40:00.000Z",
+      "description": "이재명 대통령이 18일 청와대 영빈관에서 기자회견을 하고 있다. 청와대사진기자단이재명 대통령이 18일 청와대에서 열린 기자회견에서 “저는 연임할 생각이 전혀 없다”고 밝혔다. 국회를 향해선 ‘조작기소 특별검사법안’의 공소취소 조항 삭제를 요청했다. 이 대통령은 국정 지지율 하락에 대해 “모두 저의 부족함 때문”이라며 “국민에 대한 존중심이 부족했다”고 자세···",
+      "author": null,
+      "summary": "이 사설은 이재명 대통령이 국정 지지율 하락을 자신의 부족함으로 자인하고 국민 존중이 부족했다고 성찰한 것이 국정 운영의 변화로 이어지기를 기대했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "278b611e99f1",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[사설]생산 차질 줄까 경보기 끄도록 했다는 안전공업, 엄하게 처벌해야",
+      "link": "https://www.khan.co.kr/article/202609181826001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-09-18T09:26:00.000Z",
+      "description": "지난 3월25일 대전 안전공업 화재 참사 현장에서 경찰과 소방, 국립과학수사연구원, 안전보건공단 등 관계기관이 현장 감식을 진행하고 있다. 문재원 기자지난 3월 74명의 사상자를 낸 대전 안전공업 화재 참사가 명백한 인재였던 사실이 경찰 조사로 드러났다. 화재 당시 상황을 보면 한마디로 총체적 안전 불감이라 해도 과언이 아니다. 공장 내 가연성 물질(슬러지···",
+      "author": null,
+      "summary": "이 사설은 지난 3월 74명의 사상자를 낸 대전 안전공업 화재가 생산 차질을 우려해 경보기를 끈 명백한 인재라며, 기업의 안전 불감에 대한 엄격한 처벌을 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "46859a14e58f",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "유럽이 이민에 집착하는 이유",
+      "link": "https://www.nytimes.com/2026/09/15/opinion/europe-immigration-ceuta-far-right.html",
+      "publishedAt": "2026-09-17T20:48:05.000Z",
+      "description": "Immigration has become a prism through which all the continent’s ills are viewed.",
+      "author": "Anton Jäger",
+      "summary": "유럽이 이민 문제에 집착하는 이유는 이를 대륙의 모든 문제를 보는 렌즈로 삼고 있기 때문이라고 분석했다.",
+      "summarySource": "llm"
+    }
+  ],
+  "summarizedAt": "2026-09-18T23:58:37.067Z",
+  "summaryStats": {
+    "llm": 50,
+    "fallback": 0,
+    "model": "claude-haiku-4-5"
+  }
+}
