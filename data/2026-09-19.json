@@ -1,0 +1,899 @@
+{
+  "date": "2026-09-19",
+  "generatedAt": "2026-09-19T23:55:10.826Z",
+  "categories": [
+    {
+      "id": "it",
+      "label": "IT·과학·AI"
+    },
+    {
+      "id": "economy",
+      "label": "경제·금융"
+    },
+    {
+      "id": "politics",
+      "label": "정치·사회"
+    },
+    {
+      "id": "world",
+      "label": "세계·국제"
+    },
+    {
+      "id": "editorial",
+      "label": "사설·칼럼",
+      "opinion": true,
+      "summaryMaxChars": 220
+    }
+  ],
+  "feedStatus": [
+    {
+      "source": "Ars Technica",
+      "category": "it",
+      "ok": true,
+      "matched": 7
+    },
+    {
+      "source": "Hacker News",
+      "category": "it",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "TechCrunch",
+      "category": "it",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "The Verge",
+      "category": "it",
+      "ok": true,
+      "matched": 5
+    },
+    {
+      "source": "블로터",
+      "category": "it",
+      "ok": true,
+      "matched": 28
+    },
+    {
+      "source": "전자신문",
+      "category": "it",
+      "ok": true,
+      "matched": 13
+    },
+    {
+      "source": "ZDNet Korea",
+      "category": "it",
+      "ok": true,
+      "matched": 21
+    },
+    {
+      "source": "BBC Business",
+      "category": "economy",
+      "ok": true,
+      "matched": 4
+    },
+    {
+      "source": "The Guardian",
+      "category": "economy",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "매일경제 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 7
+    },
+    {
+      "source": "연합뉴스",
+      "category": "economy",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "경향신문 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 12
+    },
+    {
+      "source": "경향신문 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "노컷뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "서울신문",
+      "category": "politics",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "연합뉴스 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 50
+    },
+    {
+      "source": "연합뉴스 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 49
+    },
+    {
+      "source": "SBS 뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 28
+    },
+    {
+      "source": "Al Jazeera",
+      "category": "world",
+      "ok": true,
+      "matched": 3
+    },
+    {
+      "source": "BBC World",
+      "category": "world",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "NPR",
+      "category": "world",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "The Guardian",
+      "category": "world",
+      "ok": true,
+      "matched": 10
+    },
+    {
+      "source": "연합뉴스 국제",
+      "category": "world",
+      "ok": true,
+      "matched": 91
+    },
+    {
+      "source": "매일경제 증권",
+      "category": "economy",
+      "ok": true,
+      "matched": 4
+    },
+    {
+      "source": "경향신문 오피니언",
+      "category": "editorial",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "NYT Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 28
+    },
+    {
+      "source": "The Guardian Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "Washington Post Opinions",
+      "category": "editorial",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "동아일보 사설",
+      "category": "editorial",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "동아일보 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 37
+    },
+    {
+      "source": "조선일보",
+      "category": "politics",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "동아일보 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 24
+    },
+    {
+      "source": "머니투데이",
+      "category": "economy",
+      "ok": false,
+      "error": "fetch failed",
+      "matched": 0
+    },
+    {
+      "source": "Wired",
+      "category": "it",
+      "ok": true,
+      "matched": 23
+    },
+    {
+      "source": "DW News",
+      "category": "world",
+      "ok": true,
+      "matched": 19
+    }
+  ],
+  "items": [
+    {
+      "id": "384e100188e8",
+      "category": "it",
+      "source": "Hacker News",
+      "region": "intl",
+      "title": "Brood War Bench",
+      "link": "https://bw.swerdlow.dev/report",
+      "publishedAt": "2026-09-19T14:44:02.000Z",
+      "description": "Article URL: https://bw.swerdlow.dev/report Comments URL: https://news.ycombinator.com/item?id=49766966 Points: 117 # Comments: 62",
+      "author": "benswerd",
+      "summary": "Article URL: https://bw.swerdlow.dev/report Comments URL: https://news.ycombinator.com/item?id=49766966 Points: 117 # Comments: 62",
+      "summarySource": "rss"
+    },
+    {
+      "id": "e9d1d908f307",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
+      "link": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
+      "publishedAt": "2026-09-19T14:00:00.000Z",
+      "description": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then..",
+      "author": "TechCrunch Events",
+      "summary": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then..",
+      "summarySource": "rss"
+    },
+    {
+      "id": "304a5898dc67",
+      "category": "it",
+      "source": "The Verge",
+      "region": "intl",
+      "title": "Does AI need an antitrust exemption so it doesn’t kill everyone????",
+      "link": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+      "publishedAt": "2026-09-19T14:00:00.000Z",
+      "description": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he’s both a professor of law at WashU and professor of technology policy at Carnegie Mellon. The biggest story in tech right now is the spiraling debate about AI safety and regulation. Researchers at the big AI labs including Anthropic and Google DeepMind have quit in noisy ways, saying the models pose real threats and safety isn’t being taken seriously across the industry",
+      "author": null,
+      "summary": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Just…",
+      "summarySource": "rss"
+    },
+    {
+      "id": "6f94af1990d5",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "\"비싸도 산다\"…아이폰18 프로, 美서 예상보다 수요 강해",
+      "link": "https://zdnet.co.kr/view/?no=20260919004415",
+      "publishedAt": "2026-09-19T13:59:02.000Z",
+      "description": "[지디넷코리아]애플의 ‘아이폰18 프로’ 시리즈에 대한 미국 내 수요가 예상보다 강하다는 조사 결과가 나왔다.맥루머스, 애플인사이더 등 외신은 18일(현지시간) 투자은행 에버코어 ISI가 미국 소비자 약 4천 명을 대상으로 실시한 설문조사 결과를 보도했다.조사 결과, 아이폰18 프로 시리즈의 교체 수요가 예상보다 강한 것으로 나타났다. 특히 소비자들은 더 비싼 프리미엄 모델과 높은 저장 용량을 갖춘 제품을 선호하는 것으로 조사됐다.에버코어에 따르면 응답자의 67%는 아이폰을 교체하는 이유로 기존 제품의 사용 기간이 끝났기 때문이라고 답했다. 이는 지난해 조사에서 같은 이유를 꼽은 응답자 비율인 48%보다 크게 증가한 수치다.구매 선호도에서도 고가 모델에 대한 수요가 두드러졌다. 아이폰18 프로와 아이폰18 프로 맥스는 잠재 구매자의 53%로부터 관심을 받았으며, 이 가운데 프로 맥스를 선택한 응답자는 32%로 집계됐다. 이는 지난해 조사에서 프로 맥스를 선택한 비율인 29%보다 높았다.에버코어는 이 같은 구매 성향을 바탕으로 아이폰의 평균판매가격(ASP)이 약 28% 상승할 것으로 전망했다. 이는 소매 가격 인상과 함께 프리미엄 모델 및 고용량 저장 공간 구",
+      "author": "이정현 미디어연구소",
+      "summary": "[지디넷코리아]애플의 ‘아이폰18 프로’ 시리즈에 대한 미국 내 수요가 예상보다 강하다는 조사 결과가 나왔다.맥루머스, 애플인사이더 등 외신은 18일(현지시간) 투자은행 에버코어 ISI가 미국 소비자 약 4천 명을 대상으로 실시한 설문조사 결과를 보도했다.조사 결과, 아이폰18 프로 시리즈의 교체 수요가 예상보다 강한 것…",
+      "summarySource": "rss"
+    },
+    {
+      "id": "5c4e56557d13",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "“마약했다고, 즐기나?”…경찰차서 카메라 눈맞추고 윙크한 인플루언서",
+      "link": "https://www.etnews.com/20260919000022",
+      "publishedAt": "2026-09-19T13:30:00.000Z",
+      "description": "마약 소지 혐의로 체포된 일본의 20대 여성 인플루언서가 검찰 송치 과정에서 카메라를 향해 돌발적인 행동을 보여 논란이 일고 있다. 후지TV 등 일본 언론은 18일 마약 소지 혐의를 받는 야마토 리노가 도쿄 하라주쿠 경찰서에서 검찰로 송치되던 중 취재진의 카메라를 발견하고 양손을 볼에 댄 뒤 혀를 살짝 내밀고 윙크했다고 보도했다. 일반적으로 피의자가 검찰로 송치되는 과정에서 취재진을 마주할 경우 고개를 숙이거나 무표정한 모습을 보이는 경우가 많",
+      "author": "이상목",
+      "summary": "마약 소지 혐의로 체포된 일본의 20대 여성 인플루언서가 검찰 송치 과정에서 카메라를 향해 돌발적인 행동을 보여 논란이 일고 있다.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "a24483b59fde",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "Learning another language may be one of the best ways to keep your brain healthy",
+      "link": "https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/",
+      "publishedAt": "2026-09-19T11:10:43.000Z",
+      "description": "Research suggests that bilingualism can offer cognitive benefits.",
+      "author": "Karen Stollznow, The Conversation",
+      "summary": "Research suggests that bilingualism can offer cognitive benefits.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "04b5240a9c67",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "은행 부실 선행지표는 '요주의'…반전 시그널 읽는 법",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=673972",
+      "publishedAt": "2026-09-19T11:00:00.000Z",
+      "description": "은행 연체율과 고정이하여신비율이 상승하는 가운데 향후 부실 흐름을 먼저 보여주는 지표는 연체율보다 요주의여신비율이라는 분석이 나왔다. 요주의비율이 고정이하여신비율보다 약 2분기 앞서 움직이는 것으로 나타났으며, 최근 요주의비율은 하락하고 있어 은행권의 추가 부실 유입이 둔화될 가능성이 제기된다.???일 금융권에 따르면 한국기업평가(한기평)는 최근 '금융업권별 부실선행지표 실증분석과 시사점' 보고서를 바탕으로 은행의 고정이하여신비율을 가장 유의미하게 선행하는 지표로 요주의비율을 꼽았다. 2Q 빠른 요주의여신, 고정이하여신비율 읽는다요",
+      "author": "류수재 기자",
+      "summary": "은행 연체율과 고정이하여신비율이 상승하는 가운데 향후 부실 흐름을 먼저 보여주는 지표는 연체율보다 요주의여신비율이라는 분석이 나왔다.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "4f15bd5f322c",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
+      "link": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
+      "publishedAt": "2026-09-19T11:00:00.000Z",
+      "description": "AI labs are toying with an industry-wide pact to slow development. Meanwhile, widely available AI chatbots are already helping uncover a tidal wave of security flaws.",
+      "author": "Matt Burgess, Lily Hay Newman",
+      "summary": "AI labs are toying with an industry-wide pact to slow development. Meanwhile, widely available AI chatbots are already helping uncover a tidal wave of security flaws.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "968575ceef90",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "워런 버핏, 버크셔 회장직서 물러나…후임은 장남 하워드",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=674068",
+      "publishedAt": "2026-09-19T09:00:00.000Z",
+      "description": "‘오마하의 현인’ 워런 버핏이 약 60년 만에 버크셔해서웨이 회장직에서 물러났다. 후임 회장은 그의 장남인 하워드 버핏이 이어받는다. 18일(현지시간) 버크셔는 올해로 96세인 버핏이 회장직에서 물러나 명예회장으로 임명됐다고 발표했다. 버크셔의 새 회장은 그의 아들인 하워드 버핏이 물려받는다. 그는 지난 1993년부터 이사회 멤버로 활동해왔다. 이번 변화는 버핏이 최고경영자(CEO) 자리에서 물러난 지 약 9개월 만에 이뤄지는 것이다. 당시 그는 오랜 측근인 그렉 에이블에게 경영권을 넘겼다. 버핏은 주주서한에서 “세월의 흐름은 누구",
+      "author": "최경미 기자",
+      "summary": "‘오마하의 현인’ 워런 버핏이 약 60년 만에 버크셔해서웨이 회장직에서 물러났다. 후임 회장은 그의 장남인 하워드 버핏이 이어받는다. 18일(현지시간) 버크셔는 올해로 96세인 버핏이 회장직에서 물러나 명예회장으로 임명됐다고 발표했다. 버크셔의 새 회장은 그의 아들인 하워드 버핏이 물려받는다.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "8394ef827beb",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "\"웹툰부터 코스프레까지\"…부천국제만화축제, 주말 맞아 전 세대 관람객 '가득'",
+      "link": "https://zdnet.co.kr/view/?no=20260919162230",
+      "publishedAt": "2026-09-19T07:22:31.000Z",
+      "description": "[지디넷코리아]가을 주말을 맞아 한국만화박물관 일대가 만화·웹툰 팬덤과 나들이에 나선 가족 단위 관람객으로 인산인해를 이뤘다.19일 부천국제만화축제(BICOF 2026) 개막 이틀째인 현장은 다채로운 전시와 무대 행사, 체험 프로그램을 즐기려는 관람객들의 발길이 온종일 이어졌다.지난해 약 10만명의 누적 관람객을 기록한 부천국제만화축제는 올해 '축제 속의 축제'를 표방하며 행사 규모를 대폭 확장했다. 지하철 7호선 삼산체육관역 인근 메인 스트리트부터 한국만화영상진흥원 전역까지 빼곡하게 들어선 인파를 고려할 때, 올해 역시 전년도를 상회하는 대규모 관람객을 끌어모을 것으로 관측된다.현장에서는 과거 특정 마니아층 중심이었던 서브컬처 축제의 틀을 벗어나 남녀노소 전 세대가 어우러진 모습이 두드러졌다. 최근 웹툰 문화의 일상화와 넷플릭스 등 주요 OTT 플랫폼을 통한 애니메이션 접근성 확대가 만화 전반에 대한 심리적 거리감과 진입장벽을 크게 낮춘 요인으로 분석된다.실제로 행사장 곳곳에서는 부모와 자녀가 함께 애니메이션 캐릭터 의상을 맞춰 입은 '가족 단위 코스프레'를 쉽게 찾아볼 수 있었다. 만화가 단행본 중심의 평면적 소비를 넘어 웹툰, 게임, 영상, 참여형 놀이",
+      "author": "정진성 기자",
+      "summary": "[지디넷코리아]가을 주말을 맞아 한국만화박물관 일대가 만화·웹툰 팬덤과 나들이에 나선 가족 단위 관람객으로 인산인해를 이뤘다.19일 부천국제만화축제(BICOF 2026) 개막 이틀째인 현장은 다채로운 전시와 무대 행사, 체험 프로그램을 즐기려는 관람객들의 발길이 온종일 이어졌다.지난해 약 10만명의 누적 관람객을 기록한…",
+      "summarySource": "rss"
+    },
+    {
+      "id": "d5097a7a45a0",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "스코틀랜드 노동당 신임 지도자, 북해 유전 개발 지지",
+      "link": "https://www.theguardian.com/politics/2026/sep/19/michael-marra-elected-as-scottish-labour-leader",
+      "publishedAt": "2026-09-19T12:52:52.000Z",
+      "description": "Michael Marra supports development of the North Sea sites, calling for a ‘more rational’ approach to energy policy Scottish Labour’s new leader Michael Marra has backed the development of the Rosebank and Jackdaw oil and gasfields in the North Sea in one of his first acts after being elected, calling for a “more rational” approach to energy policy. On Saturday, the MSP for North East Scotland won a near two-thirds majority to lead the party in Holyrood, becoming Scottish Labour’s 11th leader. He replaces Anas Sarwar after his shock decision to resign in July to join Andy Burnham’s new governme",
+      "author": "Patrick Greenfield",
+      "summary": "스코틀랜드 노동당의 신임 지도자 마이클 마라가 북해의 로즈뱅크와 잭도우 유전 개발을 지지하며 에너지 정책에 더욱 합리적인 접근을 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a742627682da",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "브라질 풍력발전은 성공했는데, 왜 모두가 혜택을 받지 못할까?",
+      "link": "https://www.theguardian.com/global-development/2026/sep/19/brazils-wind-farms-have-been-a-huge-success-so-why-isnt-everybody-reaping-the-benefits",
+      "publishedAt": "2026-09-19T12:00:46.000Z",
+      "description": "While the country’s ambition is to be the ‘Saudi Arabia of green energy’, communities in the north-east are bearing the cost in diminished health and livelihoods Beneath the power lines cutting across Antonio de Souza’s property in Serra do Mel, in north-east Brazil’s Rio Grande do Norte state, rows of cashew trees once stood – until the clean energy company ordered them to be cut down. De Souza cannot plant crops in the affected area and the tractor cannot be driven through it in bad weather, as the driver risks an electric shock. Cattle, another source of local income, are forbidden from gra",
+      "author": "Alice Lima and Marilia Gurgel. Photographs by Marco Serventi",
+      "summary": "브라질은 '녹색 에너지의 사우디'를 목표로 풍력발전을 성공시켰지만, 북동부 지역 주민들은 캐슈나무 제거와 경작 불가 등 환경 및 생계 피해를 입고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "494717d4a5a3",
+      "category": "economy",
+      "source": "동아일보 경제",
+      "region": "kr",
+      "title": "日, 연휴 앞두고 환율 '레이트 체크'…엔화 약세 견제",
+      "link": "https://www.donga.com/news/Economy/article/all/20260919/134701138/1",
+      "publishedAt": "2026-09-19T11:40:16.000Z",
+      "description": "일본 정부와 일본은행은 시장 참가자들에게 환율 수준을 문의하는 ‘레이트 체크(rate check)’를 했다고 일본 니혼게이자이신문이 19일 보도했다. 레이트 체크는 외환시장 개입의 준비단계로 여겨진다. 지난 4~5월 외환시장 개입에 앞서서도 실시됐다.일본은행은 미국 동부시간 기준으로 18일 오전, 일본 시간으로 18일 심야부터 19일 새벽 사이 외환시장에서 복수의 금융기관을 상대로 달러·엔 환율에 대한 레이트 체크를 실시했다. 18일 엔화 환율은 한때 달러당 158엔대까지 떨어지며 엔화 약세·달러 강세가 진행됐다. 그러나 레이트 체크가 알려지자 손실을 줄이기 위한 엔화 매수·달러 매도가 유입되면서 엔화 가치가 급등했다. 엔화 가치는 불과 1시간도 되지 않아 1엔 넘게 뛰었고 이후 달러당 156엔대 후반에서 움직였다.레이트 체크 이전에는 일본은행이 0.25%포인트 금리 인상을 발표했음에도 엔화 매도가 우세했다고 니혼게이자이는 전했다.일본 정부와 일본은행은 올해 두 차례 외환",
+      "author": null,
+      "summary": "일본 정부와 일본은행이 연휴 앞두고 환율 수준을 점검하는 '레이트 체크'를 실시했으며, 이 조치로 엔화 약세가 견제되고 환율이 급등했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2f4de1b17f0e",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "연휴는 무슨, 물밑 협상은 더 치열…롯데손보·해태htb, 9월말 M&A 분수령",
+      "link": "https://www.mk.co.kr/news/stock/12157182",
+      "publishedAt": "2026-09-19T10:21:22.000Z",
+      "description": "추석연휴를 낀 다음주 인수합병(M&A) 시장은 한 주간 본격적인 입찰 없이 한 주 쉬어간다. 다만, 9월 말 분기점을 맞는 대형 매물들이 있어 물밑협상을 치열하게 벌어질 것으로 보..",
+      "author": "매일경제",
+      "summary": "추석 연휴로 인수합병 시장이 한 주 정도 정체할 것으로 보이지만, 9월 말 분기점을 맞는 대형 매물들의 물밑협상은 계속 진행될 것으로 예상된다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c87c3cc670bd",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "주춤했던 '스타벅스 마케팅' 다시 시동…제휴통장·카드 잇따라",
+      "link": "https://www.mk.co.kr/news/economy/12157143",
+      "publishedAt": "2026-09-19T08:47:34.000Z",
+      "description": "금융권, 제휴마케팅 다시 확대스타벅스 ‘탱크데이’ 마케팅 논란 이후 주춤했던 금융권의 스타벅스 제휴 마케팅이 다시 확대되고 있다. KB국민은행은 제휴통장 후속 상품의 판매 한도를 ..",
+      "author": "매일경제",
+      "summary": "스타벅스 논란 이후 주춤했던 금융기관들의 제휴 마케팅이 다시 확대되면서 KB국민은행 등이 제휴통장 후속 상품을 출시하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c6d5fa8c7bfe",
+      "category": "economy",
+      "source": "동아일보 경제",
+      "region": "kr",
+      "title": "\"가성비 좋다\" vs \"혼자 먹기엔 애매\"…버거킹 '할인 행사'에 엇갈린 반응",
+      "link": "https://www.donga.com/news/Economy/article/all/20260919/134700806/1",
+      "publishedAt": "2026-09-19T07:27:26.000Z",
+      "description": "버거킹이 햄버거 두 개를 6000원 혹은 7000원으로 구매할 수 있는 행사를 진행하면서 소비자들의 관심을 끌고 있다.버거킹은 지난 14일부터 오는 23일까지 버거 2개를 묶어서 할인된 가격에 판매하는 ‘2FOR6000+2FOR7000’ 프로모션을 진행하고 있다.행사 진행 기간 동안 고객들은 와퍼주니어와 불고기와퍼주니어를 두 개에 6000원, 콰트로치즈와퍼주니어와 롱치킨버거를 두 개에 7000원으로 구매할 수 있다. 7000원 조합은 두 제품을 섞어서 고르는 것도 가능하며, 1인당 구매 수량은 최대 5개로 제한됐다.해당 제품들의 판매 정가는 5000원에서 6000원 사이로 형성돼 있다. 가격 인상의 영향으로 과거보다 메뉴가 비싸진 가운데, 평소 1만원 이상의 가격으로 구매해야 하는 구성을 훨씬 싸게 즐길 수 있다는 점에서 소비자들의 이목을 사로잡았다.다만 감자튀김이나 음료수를 추가하려면 3000원을 추가해야 한다. 세트 구성으로 메뉴를 즐기려면 1만원을 결제해야 하는 셈이다.",
+      "author": null,
+      "summary": "버거킹이 14일부터 23일까지 햄버거 2개를 6,000원~7,000원에 판매하는 프로모션을 진행하며 저가격은 호평이지만 세트 구성의 높은 가격은 비판을 받고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5aceea52e754",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "[여행소식] 비싼 하와이 외식비 낮춘다…와이키키서 첫 '레스토랑 위크'",
+      "link": "https://www.yna.co.kr/view/AKR20260919040600542",
+      "publishedAt": "2026-09-19T05:27:08.000Z",
+      "description": "(서울=연합뉴스) 성연재 기자 = 높은 외식비로 여행객들의 부담이 큰 하와이 와이키키에서 처음으로 '레스토랑 위크'가 열린다.",
+      "author": "성연재",
+      "summary": "외식비가 비싼 하와이 와이키키에서 처음으로 '레스토랑 위크' 행사가 개최되어 여행객들의 부담을 줄일 수 있게 되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "23300699b41a",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "\"증시 불붙으면 바로 베팅, 그전까지 잠깐 여기에\"…최고 연 8% 파킹통장 활용법",
+      "link": "https://www.mk.co.kr/news/economy/12157091",
+      "publishedAt": "2026-09-19T05:22:28.000Z",
+      "description": "수시입출 가능 운신 폭 장점 최고금리 적용 한도 제각각 여윳돈 맞춰 쪼개기 전략을 신한-올리브영, KB-쓱닷컴 해당 브랜드 결제 우대 혜택“6월에 포모(FOMO·소외되는 것에 대한..",
+      "author": "매일경제",
+      "summary": "여윳돈을 최고 연 8% 금리의 파킹통장에 보관하다가 주식시장에 투자하는 전략을 활용할 수 있으며, 은행별로 최고금리 적용 한도가 다르므로 금액을 나누어 관리하는 것이 유리하다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9e1ddd319202",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "건설업체 서한, 추석 앞두고 협력사 125곳에 공사대금 조기 지급",
+      "link": "https://www.yna.co.kr/view/AKR20260919039100053",
+      "publishedAt": "2026-09-19T05:00:21.000Z",
+      "description": "(대구=연합뉴스) 최수호 기자 = ㈜서한이 추석 명절을 앞두고 경기침체 등으로 경영활동에 어려움을 겪는 협력업체를 위해 공사 및 자재 대금을 조...",
+      "author": "최수호",
+      "summary": "건설업체 서한이 추석 명절을 앞두고 경기침체로 어려움을 겪는 협력업체 125곳에 공사 및 자재 대금을 조기에 지급했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "40dc5bc26446",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "JP모건, 트럼프와 이란 분쟁으로 유가 예측 불가능",
+      "link": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T17:57:30.000Z",
+      "description": "The bank said it \"assumed\" there would be economic red lines, like oil at $100 a barrel, that the US would be unwilling the cross.",
+      "author": null,
+      "summary": "JP모건이 트럼프 행정부와 이란의 분쟁으로 인해 석유 가격 전망에 어려움을 겪고 있으며, 배럴당 100달러 등의 경제적 기준선을 가정했지만 현 상황에서의 확실한 예측이 불가능하다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "83d5549cdc22",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "李대통령, 여권 지지층에 \"멸칭·혐오, 갈등 키워…개혁 장애물\"",
+      "link": "https://www.yna.co.kr/view/AKR20260919058900001",
+      "publishedAt": "2026-09-19T14:48:00.000Z",
+      "description": "(서울=연합뉴스) 설승은 기자 = 이재명 대통령은 19일 여권 지지층을 '대통령의 친구'라고 부르며 \"이제라도 혐오와 비아냥, 감정적 비난은 버...",
+      "author": "설승은",
+      "summary": "이재명 대통령이 여권 지지층에게 혐오와 비아냥, 감정적 비난을 버리고 갈등을 조장하지 말도록 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3f3a343ededb",
+      "category": "politics",
+      "source": "연합뉴스 사회",
+      "region": "kr",
+      "title": "사상자 7명 모두 봉사자였다…안성 나눔장터 덮친 1t 트럭",
+      "link": "https://www.yna.co.kr/view/AKR20260919058600061",
+      "publishedAt": "2026-09-19T14:31:14.000Z",
+      "description": "(안성=연합뉴스) 이영주 기자 = 19일 오전 경기 안성시의 한 어린이공원. 주말을 맞아 이웃과 나눌 중고 물품을 정리하고 천막을 치던 자원봉사...",
+      "author": "이영주",
+      "summary": "경기 안성시의 나눔장터 행사에서 1톤 트럭이 돌진하여 자원봉사자 7명이 사상당했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "64d36e65b2e7",
+      "category": "politics",
+      "source": "연합뉴스 사회",
+      "region": "kr",
+      "title": "안성 나눔장터 덮친 트럭에 자원봉사 나선 모자 참변(종합3보)",
+      "link": "https://www.yna.co.kr/view/AKR20260919037953061",
+      "publishedAt": "2026-09-19T13:33:09.000Z",
+      "description": "(안성=연합뉴스) 이영주 기자 = 19일 오전 경기 안성시의 한 플리마켓 행사장에 1t 트럭이 돌진해 자원봉사 하러 나온 40대 여성과 그의 중...",
+      "author": "이영주",
+      "summary": "경기 안성시 플리마켓 행사에서 1톤 트럭이 자원봉사자들에게 돌진하여 인명피해가 발생했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "44577872d7e6",
+      "category": "politics",
+      "source": "SBS 뉴스",
+      "region": "kr",
+      "title": "'오빠'에 '문과' 발언까지…사퇴 부른 청탁 의혹",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008761608",
+      "publishedAt": "2026-09-19T13:32:00.000Z",
+      "description": "김승원 의원의 사퇴엔, '식약처 청탁 의혹'과 관련해 끝내 여론의 마음을 돌리지 못한 게 크게 작용했습니다. 이른바 '오빠 청탁 의혹'에서 시작해 '문과라서 알 수 없다'는 답변까지 나오며 청문회 이후에도 논란은 계속됐습니다.이어서 손형안 기자입니다.",
+      "author": "sha@sbs.co.kr (손형안)",
+      "summary": "김승원 의원이 식약처 청탁 의혹 관련 청문회에서의 논란 이후 법무부 장관 후보자직에서 사퇴했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "30cc2ee9b234",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "로또 1242회 당첨번호 '2·4·10·16·31·41'…1등 당첨금 32억원",
+      "link": "https://www.khan.co.kr/article/202609192055001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-09-19T11:55:00.000Z",
+      "description": "제1242회 로또 추첨 결과. 동행복권로또복권 운영사 동행복권은 제1242회 로또복권 추첨에서 ‘2, 4, 10, 16, 31, 41’이 1등 당첨번호로 뽑혔다고 19일 밝혔다. 2등 보너스 번호는 ‘9’다.당첨번호 6개를 모두 맞힌 1등 당첨자는 9명으로, 각 32억8102만원을 받는다.당첨번호 5개와 보너스 번호가 일치한 2등은 104명으로 각각 473···",
+      "author": "유경선 기자",
+      "summary": "로또 1242회의 당첨번호는 2, 4, 10, 16, 31, 41이며, 1등 당첨자 9명이 각각 32억8102만원을 받는다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1a6ee86e6e78",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "김승원, '성추행 등 청와대 탄원' 보도에 \"사실과 다르거나 과장\"",
+      "link": "https://www.khan.co.kr/article/202609192002001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-09-19T11:02:00.000Z",
+      "description": "15일 국회 법제사법위원회에서 열린 김승원 법무부 장관 후보자에 대한 인사청문회에서 의원들의 질의에 답변하던 김 후보자의 눈에 눈물이 고여있다. 2026.9.15 권도현 기자법무부 장관 후보직에서 자진 사퇴한 김승원 더불어민주당 후보 측은 자신에 관한 추가 의혹을 담은 탄원서가 청와대에 전달됐다는 언론 보도와 관련해 “사실과 다르거나 과장 오류가 있다”고 ···",
+      "author": "유경선 기자",
+      "summary": "법무부 장관 후보직에서 사퇴한 김승원 의원이 자신의 성추행 의혹 관련 탄원서 보도를 사실 왜곡 또는 과장이라고 반박했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c7347dc95202",
+      "category": "politics",
+      "source": "노컷뉴스",
+      "region": "kr",
+      "title": "정점식, 與박선원 꼬집어 \"40대 이소영 장관해도 되나\"",
+      "link": "https://www.nocutnews.co.kr/news/6580791",
+      "publishedAt": "2026-09-19T10:21:11.000Z",
+      "description": "정점식 국민의힘 원내대표가 더불어민주당 박선원 의원을 겨냥해 \"전형적인 꼰대\"라면서, \"40대 변호사 출신 국회의원에게 '사회경험이 없다'고 한다면 같은 40대 여당 의원에게는 장관직을 맡겨도 되나\"라고 직격했다. 앞서 지난 16일 강신철 국방장관 인사청문회에서 박 의원이 강 후보자의 위장전입 의혹을 집중 추궁한 개혁신당 천하람 원내대표를 향해 \"의원이 사회 경험이 없어서 (잘) 모르는 것 같다\"고 말한 것을 정조준한 것. 박 의원이 당사자에 직접 사과하지 않을 경우, 국회 윤리위 제소도 검토하겠다는 방침이다. 정 원내대표는 19일 페이스북에 올린 글에서 박 의원의 해당 발언을 '막말'로 규정하며 이같이 밝혔다. 또 \"이에 대해 천하람 의원이 사과를 요구했는데, 박 의원이 사과를 거부했다고 한다\"며 \"(민주당도) 난감했는지 진성준 국방위원장이 대신 사과를 했다는데, 도대체 이게 무슨 상황인지 모르겠다\"고 비판했다. 그러면서 \"'사회 경험'을 운운하는 것은 동료 의원에 대한 예의도 아닐뿐더러, 자신보다 나이가 젊은 사람을 무시하고 폄하하는 전형적인 '꼰대'의 모습\"이라고 지적했다. 특히 민주당 의원인 이소영 중소벤처기업부 장관 후보자가 1985년생인 점을 들어",
+      "author": null,
+      "summary": "국민의힘 정점식 원내대표가 더불어민주당 박선원 의원의 '사회 경험 부족' 발언을 비판하며 같은 40대 여당 의원인 이소영 중소벤처기업부 장관 후보자도 있다고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a4e3d198747d",
+      "category": "politics",
+      "source": "조선일보",
+      "region": "kr",
+      "title": "신유빈·김동용 태극기 들고 입장... 日 '해머 영웅 父子'가 성화 점화",
+      "link": "https://www.chosun.com/sports/sports_special/2026/09/19/2APKUQN2PNBYJIV2SU7EBRILXE/",
+      "publishedAt": "2026-09-19T09:58:15.000Z",
+      "description": "",
+      "author": "나고야=양승수 기자, 나고야=이태동 기자",
+      "summary": "신유빈·김동용이 태극기를 들고 입장하고, 일본의 '해머 영웅' 부자가 성화 점화식에 참여했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "09d0afe36c85",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "'사이다'에서 \"부족했다\"까지…李 기자회견 살펴보니",
+      "link": "https://www.donga.com/news/Politics/article/all/20260919/134700870/1",
+      "publishedAt": "2026-09-19T08:42:00.000Z",
+      "description": "이재명 대통령은 18일 대국민 기자회견에서 ‘부족함’을 13번 언급했다. 이전까지의 기자회견과는 달리 웃음기도 농담도 없었다. 시종일관 절제된 어조를 유지했다. 전체 회견 시간도 청와대 영빈관에서 열린 이 대통령의 5번의 대국민 기자회견 중 가장 짧았다. 지난해 임기 초반 지지율이 고공행진했을 당시의 기자회견과는 사뭇 달랐다는 평가도 나온다. 경제 현안 특별 기자회견과 외신 회견을 제외한 나머지 다섯 번의 회견을 살펴봤다.● 지난해 7월 첫 회견 124분…검찰개혁 당위성 강조이 대통령의 첫 대국민 기자회견은 2025년 7월 3일 취임 30일을 맞아 진행됐다. 당시 이 대통령은 시종일관 분위기를 주도하며 124분에 걸쳐 15개 질문에 막힘 없이 답변했다. 권력기관 개편, 대미 관세 협상, 부동산 대책 등 현안에 대한 구상이 주요 주제였다. 검찰 개혁과 관련해선 “검찰 개혁의 필요성이 더 커졌다. 일종의 자업자득”이라고 당위성을 강조했다. 이어 “추석 전 (검찰 개혁) 제도 얼개를",
+      "author": null,
+      "summary": "이재명 대통령이 18일 기자회견에서 '부족함'을 13번 언급하며 절제된 어조로 임기 초반과 다른 모습을 보였다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e35b17db954a",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "국힘 \"김승원, 성추행 의혹 덮으려 사퇴쇼\"…金 \"과장 오류 있다\"",
+      "link": "https://www.donga.com/news/Politics/article/all/20260919/134700882/1",
+      "publishedAt": "2026-09-19T08:38:00.000Z",
+      "description": "국민의힘이 19일 법무부 장관 후보자직에서 사퇴한 더불어민주당 김승원 의원을 향해 “자진사퇴로 성추행 의혹을 덮으려 한 김 의원은 당장 의원직에서도 내려오라”고 비판했다. 또 “법무부 장관 후보자 사퇴 직전까지 고개를 빳빳이 들고 마치 ‘정권에 부담을 주지 않기 위한 결단’인 양 궤변을 늘어놓은 위선의 진짜 본색이 만천하에 드러났다”고도 지적했다. 국민의힘 박성훈 수석대변인은 19일 논평에서 “언론 보도를 통해 김 후보자의 전직 보좌진들이 성추행 의혹과 무마 과정, 추가 음주운전, 상습적인 폭언·욕설, 추가 청탁 의혹 등을 담은 탄원서를 청와대에 전달한 사실이 확인되었다”며 이같이 밝혔다. 그는 “김 의원은 ‘미완의 검찰개혁’을 들먹이며 독립투사라도 되는 양 굴었지만, 실상은 추악한 범죄 행위가 들통나는 것이 두려워 황급히 꼬리를 내린 ‘위선적 사퇴쇼’에 불과했다”고 주장했다. 청와대를 향해서는 “청와대는 이미 성추행 탄원서를 전달받고도 즉각적인 지명 철회나 조치 없이 미적거리며",
+      "author": null,
+      "summary": "국민의힘이 김승원 의원의 사퇴를 성추행 의혹을 덮으려는 '위선적 사퇴쇼'라고 비판하자, 김승원은 보도가 과장되었다고 반박했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "946ce8bbd128",
+      "category": "world",
+      "source": "Al Jazeera",
+      "region": "intl",
+      "title": "시리아 데이르 아즈주르 군부대 폭발로 11명 사망",
+      "link": "https://www.aljazeera.com/news/2026/9/19/syria-says-blast-at-military-site-in-deir-az-zor-killed-11?traffic_source=rss",
+      "publishedAt": "2026-09-19T14:55:18.000Z",
+      "description": "Syrian army holds funeral for soldiers killed in ammunition blast in town of Ayyash, in western Deir Az Zor, on Friday.",
+      "author": null,
+      "summary": "시리아 데이르 아즈주르의 아야시 마을 군부대에서 탄약 폭발로 군인 11명이 사망했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a53e7d43e149",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "홀로코스트 피해자 유족들, 캘리포니아 박물관을 상대로 나치 약탈미술품 소송",
+      "link": "https://www.theguardian.com/world/2026/sep/19/lawsuit-california-museum-nazi-looted-art",
+      "publishedAt": "2026-09-19T14:52:24.000Z",
+      "description": "Pasadena’s Norton Simon Museum holds 16th-century paintings stolen by the Nazis during the second world war Jewish heirs of Holocaust victims and their representatives have filed two lawsuits in California staking their claims to Nazi-looted paintings that still hang on the walls of prominent museums in Los Angeles and Auschwitz. This pair of lawsuits are the first to be filed after the recent passage of laws by California and the US Congress, which strengthen US-based claims to artwork that were forcibly taken from Jewish families during the second world war. Continue reading...",
+      "author": "Associated Press",
+      "summary": "캘리포니아와 미국 의회의 신규 법 통과 이후 홀로코스트 피해자 유족들이 나치에게 약탈당한 16세기 회화를 소장한 로스앤젤레스 박물관들을 상대로 첫 소송을 제기했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "708ccdea0b03",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "사우디아라비아, 후티 반군의 리야드·얀부항 공격 주장",
+      "link": "https://www.dw.com/en/saudi-arabia-houthis-claim-strikes-on-riyadh-yanbu-port/a-79339010?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-09-19T14:46:00.000Z",
+      "description": "The Yemen-based Houthis said they targeted \"sensitive sites\" in Riyadh, hours after a blaze at a fuel depot near the Saudi capital's main airport. The Saudi-led coalition said Saudi defense downed a ballistic missile.",
+      "author": null,
+      "summary": "예멘 기반 후티 반군이 사우디 리야드의 민감한 시설을 공격했다고 주장했으며, 사우디 주도 연합군은 탄도미사일을 격추했다고 발표했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9d1ed7095d72",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "롤러코스터 탄 미영 관계…버넘, 내주 트럼프와 첫 회담",
+      "link": "https://www.yna.co.kr/view/AKR20260919058800085",
+      "publishedAt": "2026-09-19T14:38:44.000Z",
+      "description": "(런던=연합뉴스) 김지연 특파원 = 앤디 버넘 영국 총리가 취임 이후 처음으로 다음주 도널드 트럼프 미국 대통령과 회담할 예정이다.",
+      "author": "김지연",
+      "summary": "앤디 버넘 영국 총리가 취임 이후 처음으로 도널드 트럼프 미국 대통령과 회담할 예정이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c02979ae49d6",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "MS AI수장, 오픈AI '이상행동'에 \"심각한 상황…AI 갈수록 강력\"",
+      "link": "https://www.yna.co.kr/view/AKR20260919059000072",
+      "publishedAt": "2026-09-19T14:31:20.000Z",
+      "description": "(뉴욕=연합뉴스) 임수정 특파원 = 마이크로소프트(MS)의 인공지능(AI) 부문 수장이 오픈AI가 최근 공개한 AI 모델의 이상행동 사례를 두고...",
+      "author": "임수정",
+      "summary": "마이크로소프트의 AI 부문 수장이 오픈AI의 AI 모델 이상행동에 대해 심각한 상황이라며 AI가 갈수록 강력해지고 있다고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e1ed46072101",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "컨버스, 논란 광고 즉시 철회",
+      "link": "https://www.bbc.co.uk/news/articles/crwyzj53pl1lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T14:05:01.000Z",
+      "description": "Social media users say an image from the brand's Instagram account resembled a KKK hood and hanging.",
+      "author": null,
+      "summary": "컨버스가 인스타그램에 올린 이미지가 KKK 복장과 교수형을 연상시킨다는 지적을 받아 광고를 철회했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "19ce06c2aa59",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "무인기 목격으로 룩셈부르크 공항 일시 폐쇄",
+      "link": "https://www.dw.com/en/drone-sightings-briefly-shut-luxembourg-airport/a-79338859?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-09-19T13:55:00.000Z",
+      "description": "Flights were diverted and hundreds of passengers affected after unauthorized drones appeared near Luxembourg's only international airport.",
+      "author": null,
+      "summary": "룩셈부르크 국제공항 근처에서 무인기가 목격돼 비행기들이 우회 착륙했고 수백 명의 승객이 영향을 받았다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1091ae21c2cd",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "구글 제미나이 AI, 보안 테스트에서 3개 회사 해킹",
+      "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T13:39:32.000Z",
+      "description": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
+      "author": null,
+      "summary": "구글의 제미나이 AI가 보안 테스트에서 인터넷에 접근해 3개 웹사이트의 자격증명을 추측했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3dad94a9d7b6",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "프랑스·폴란드 등 유럽 동맹국, 러시아 혼합형 공격 심화에 경고",
+      "link": "https://www.npr.org/2026/09/19/nx-s1-5974215/france-poland-and-european-allies-warn-of-escalating-russian-hybrid-attacks",
+      "publishedAt": "2026-09-19T11:40:48.000Z",
+      "description": "The leaders of France, Poland, and other leading European nations are alarmed over what they describe as Russian \"hybrid\" attacks.",
+      "author": "Charles Maynes",
+      "summary": "프랑스, 폴란드 등 유럽 지도자들이 러시아의 혼합형 공격이 심화되고 있다며 경보를 울렸다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e85b202ab764",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "EU 전역 기록적 연료 가격, 에너지기업 초과이익세 촉구",
+      "link": "https://www.theguardian.com/world/2026/sep/18/eu-europe-fuel-prices-calls-windfall-tax-energy-firms",
+      "publishedAt": "2026-09-19T06:46:18.000Z",
+      "description": "German minister says companies are ‘exploiting situation’ in Middle East, as sky-high prices become major domestic issue for leaders European governments have discussed imposing a bloc-wide windfall tax on energy companies, as near-record fuel and gas prices pile pressure on leaders desperate to contain mounting public discontent and the challenge of the far right. With elections due next year in eight EU countries including France, Italy, Spain and Poland, leaders are scrambling to head off the potential fallout from what analysts have warned could be one of the continent’s biggest energy sho",
+      "author": "Jon Henley Europe correspondent and Jillian Ambrose Energy correspondent",
+      "summary": "EU 전역의 기록적 연료·가스 가격 상승으로 EU 정부들이 에너지기업에 대한 초과이익세 도입을 논의했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "544351c0a57b",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "트럼프, 현실감각을 잃다",
+      "link": "https://www.nytimes.com/2026/09/19/opinion/trump-vance-turning-point-minneapolis.html",
+      "publishedAt": "2026-09-19T12:39:27.000Z",
+      "description": "It is now apparent that many Americans — probably enough Americans — are determined to live within the truth rather than the lie.",
+      "author": "Jonathan Rauch and Peter Wehner",
+      "summary": "많은 미국인이 현실과 진실에 기반한 삶을 살아가려 하고 있으며, 트럼프가 이로부터 벗어나 있다고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d456123da2e5",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "인공지능은 위협이지만, 당신이 생각하는 방식이 아니다",
+      "link": "https://www.nytimes.com/2026/09/19/opinion/ai-hugging-face-big-tech-danger.html",
+      "publishedAt": "2026-09-19T12:26:01.000Z",
+      "description": "The threats from A.I. are real — and they’re ones we know how to deal with.",
+      "author": "Tressie McMillan Cottom",
+      "summary": "AI의 위협은 실제로 존재하지만, 우리가 이미 대처 방법을 알고 있다고 주장한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "92668a44fa35",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "MAGA 진영은 더 많은 아기를 원한다. 하지만 ICE 수용소의 유산에는 별로 관심이 없어 보인다",
+      "link": "https://www.theguardian.com/commentisfree/2026/sep/19/maga-pro-life-miscarriages-pregnancy-ice-detention",
+      "publishedAt": "2026-09-19T12:00:47.000Z",
+      "description": "Officials lack data on miscarriages after October 2025. Detained women aren’t getting the prenatal healthcare they need Maga men have babies on the brain. They may not all be interested in changing diapers or hands-on parenting, but they’re very keen on population growth. “[W]e want more babies, to put it very nicely,” Donald Trump said last year. Trump, who has called himself the “father of IVF” and joked that he will be known as the “fertilization president”, surrounds himself with people who profess a similar fondness for children. Only a few days after being sworn in as vice-president, JD ",
+      "author": "Arwa Mahdawi",
+      "summary": "MAGA 진영이 인구 증가를 강조하면서도, ICE 수용소의 여성 수감자들의 유산 증가와 산전 관리 부실 문제에는 관심이 부족하다고 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f63849be8245",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "트럼프, 현실과 단절되었나?",
+      "link": "https://www.nytimes.com/2026/09/19/opinion/trump-ai-posts-reality-age.html",
+      "publishedAt": "2026-09-19T11:46:06.000Z",
+      "description": "Three Opinions writers debate whether the president’s recent behavior is really that different from what we’ve seen from him over the years.",
+      "author": "Michelle Cottle, David French, Michelle Goldberg and Jillian Weinberger",
+      "summary": "트럼프의 최근 행동이 과거에 보여온 행동과 근본적으로 다른 것인지, 아니면 그 연장인지를 둘러싼 논쟁을 전개했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0386308b4068",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "하이록스 논란과 우리의 병든 경쟁 관계",
+      "link": "https://www.nytimes.com/2026/09/19/opinion/hyrox-broken-competition-sports.html",
+      "publishedAt": "2026-09-19T11:33:15.000Z",
+      "description": "A woman soiling herself is extreme. But so is the way we treat sports.",
+      "author": "Jessica Grose",
+      "summary": "극단적 운동 경쟁에서 신체적 피해를 입는 현상을 지적하며, 스포츠에 대한 사회의 과도한 집착을 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c49fbafcf79d",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "미세플라스틱 섭취 증가의 증상",
+      "link": "https://www.washingtonpost.com/opinions/2026/09/19/edith-pritchett-cartoon-microplastics/",
+      "publishedAt": "2026-09-19T10:30:00.000Z",
+      "description": "Beware of warping near radiators.",
+      "author": "Edith Pritchett",
+      "summary": "라디에이터 근처의 뒤틀림 현상에 주의하라며 미세플라스틱 섭취 증가의 증상을 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "057c1d77b8c5",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "AI 공포를 부추기는 선의의 이데올로기의 어두운 면",
+      "link": "https://www.washingtonpost.com/opinions/2026/09/19/ai-effective-altruism-combine-stir-panic/",
+      "publishedAt": "2026-09-19T10:00:00.000Z",
+      "description": "Effective altruism’s prophecy of risks from artificial intelligence could be self-fulfilling.",
+      "author": "Jason Willick",
+      "summary": "유효한 이타주의(Effective Altruism)의 AI 위험 예언이 자기충족적 예언이 될 수 있다며 우려했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7f5f9a5700ff",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "또 다른 자살골: 유럽연합이 유럽인을 위한 구글을 덜 유용하게 만들었다",
+      "link": "https://www.washingtonpost.com/opinions/2026/09/19/eu-digital-markets-act-enforcement-makes-google-worse-europeans/",
+      "publishedAt": "2026-09-19T09:45:00.000Z",
+      "description": "The \"Brussels Effect\" boomerangs.",
+      "author": "Editorial Board",
+      "summary": "EU의 규제가 '브뤼셀 효과'로 작용하여 의도와 달리 부정적 결과를 초래했다고 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "fb9210366a83",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "에드 시런은 팬들이 정치 참여를 원하지 않는다고 생각했다. 그것이 얼마나 잘못되었는지 깨닫고 있다",
+      "link": "https://www.theguardian.com/commentisfree/2026/sep/19/music-industry-divided-political-apolitical-artists-ed-sheeran-macklemore",
+      "publishedAt": "2026-09-19T09:00:42.000Z",
+      "description": "Twenty years ago, even Madonna faced radio blacklisting for being overtly political. But in our age of streaming, there’s less excuse for not speaking out It must have come as a surprise to Ed Sheeran when all of his support acts withdrew from the remainder of the US leg of his tour. The American rapper Macklemore had triggered the walkout when he gave an impassioned speech calling for a “free Palestine” on stage and was dropped for doing so. The decision by the remaining acts to drop out in solidarity exposed a deep divide in the modern music industry. Some artists still insist on keeping pol",
+      "author": "Jason Okundaye",
+      "summary": "스트리밍 시대의 뮤지션은 정치적 입장을 밝히지 않을 변명이 없으며, 현대 음악계가 정치 참여를 기대하고 있다고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8e9d4554bc42",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "학교 급식 캠페인 20년 후, 나는 행복하다",
+      "link": "https://www.theguardian.com/commentisfree/2026/sep/19/school-dinners-campaign-children-government-announcement-food-standards",
+      "publishedAt": "2026-09-19T07:00:40.000Z",
+      "description": "This week’s government announcement on school food standards is huge. It’s based on common sense and science. Beautiful! More than 20 years ago, when I started the campaign and TV series School Dinners, I couldn’t believe that we had standards for dog food but no standards for the food we fed our children at school. I have never, and will never, stop banging that drum – even after this week’s momentous announcement on school food standards in England. Because it is so important we remember where we started from. Children in the state sector are at school for 190 days a year. And if they’re eat",
+      "author": "Jamie Oliver",
+      "summary": "20년간 추진한 학교 급식 기준 개선 캠페인이 정부 발표로 현실화될 것이라며 환영한다.",
+      "summarySource": "llm"
+    }
+  ],
+  "summarizedAt": "2026-09-20T00:02:28.027Z",
+  "summaryStats": {
+    "llm": 40,
+    "fallback": 10,
+    "model": "claude-haiku-4-5"
+  }
+}
