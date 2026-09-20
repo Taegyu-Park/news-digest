@@ -1,0 +1,900 @@
+{
+  "date": "2026-09-20",
+  "generatedAt": "2026-09-20T23:52:31.220Z",
+  "categories": [
+    {
+      "id": "it",
+      "label": "IT·과학·AI"
+    },
+    {
+      "id": "economy",
+      "label": "경제·금융"
+    },
+    {
+      "id": "politics",
+      "label": "정치·사회"
+    },
+    {
+      "id": "world",
+      "label": "세계·국제"
+    },
+    {
+      "id": "editorial",
+      "label": "사설·칼럼",
+      "opinion": true,
+      "summaryMaxChars": 220
+    }
+  ],
+  "feedStatus": [
+    {
+      "source": "Ars Technica",
+      "category": "it",
+      "ok": true,
+      "matched": 3
+    },
+    {
+      "source": "Hacker News",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "TechCrunch",
+      "category": "it",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "The Verge",
+      "category": "it",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "블로터",
+      "category": "it",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "전자신문",
+      "category": "it",
+      "ok": false,
+      "error": "fetch failed",
+      "matched": 0
+    },
+    {
+      "source": "ZDNet Korea",
+      "category": "it",
+      "ok": true,
+      "matched": 28
+    },
+    {
+      "source": "BBC Business",
+      "category": "economy",
+      "ok": true,
+      "matched": 7
+    },
+    {
+      "source": "The Guardian",
+      "category": "economy",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "매일경제 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 27
+    },
+    {
+      "source": "연합뉴스",
+      "category": "economy",
+      "ok": true,
+      "matched": 68
+    },
+    {
+      "source": "경향신문 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 39
+    },
+    {
+      "source": "경향신문 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 19
+    },
+    {
+      "source": "노컷뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "서울신문",
+      "category": "politics",
+      "ok": true,
+      "matched": 7
+    },
+    {
+      "source": "연합뉴스 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 59
+    },
+    {
+      "source": "연합뉴스 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 43
+    },
+    {
+      "source": "SBS 뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 22
+    },
+    {
+      "source": "Al Jazeera",
+      "category": "world",
+      "ok": true,
+      "matched": 4
+    },
+    {
+      "source": "BBC World",
+      "category": "world",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "NPR",
+      "category": "world",
+      "ok": true,
+      "matched": 4
+    },
+    {
+      "source": "The Guardian",
+      "category": "world",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "연합뉴스 국제",
+      "category": "world",
+      "ok": true,
+      "matched": 75
+    },
+    {
+      "source": "매일경제 증권",
+      "category": "economy",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "경향신문 오피니언",
+      "category": "editorial",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "NYT Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "The Guardian Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "Washington Post Opinions",
+      "category": "editorial",
+      "ok": true,
+      "matched": 4
+    },
+    {
+      "source": "동아일보 사설",
+      "category": "editorial",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "동아일보 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 23
+    },
+    {
+      "source": "조선일보",
+      "category": "politics",
+      "ok": true,
+      "matched": 2
+    },
+    {
+      "source": "동아일보 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "머니투데이",
+      "category": "economy",
+      "ok": false,
+      "error": "fetch failed",
+      "matched": 0
+    },
+    {
+      "source": "Wired",
+      "category": "it",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "DW News",
+      "category": "world",
+      "ok": true,
+      "matched": 16
+    }
+  ],
+  "items": [
+    {
+      "id": "30fe4089849b",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "카카오벤처스, 창업자 몰입 공동체 '템프서울' 공식 개관",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=674086",
+      "publishedAt": "2026-09-20T14:57:42.000Z",
+      "description": "카카오벤처스가 창업자를 위한 몰입 공동체 공간 ‘템프서울(/tmp Seoul)’을 공식 개관하고 ‘언카피어블(Uncopyable)’을 주제로 인사이트 세션을 성료했다고 20일 밝혔다.템프서울은 AI 시대 창업가들이 한 공간에 모여 각자의 제품 개발에 몰입하고, 가까운 거리에서 서로의 경험과 시행착오를 나누며 성장하는 창업자 공동체 공간이다. 빠르게 가설을 세우고 제품을 만드는 창업가들이 서로 자극을 주고받을 수 있도록 높은 밀도의 환경을 만드는 데 초점을 두고 있다. 이날 개관식에는 템프서울 1기 멤버를 비롯해 국내 주요 창업자와",
+      "author": "강기목 기자",
+      "summary": "카카오벤처스가 AI 시대 창업가들이 제품 개발에 몰입하고 경험을 공유할 수 있는 공동체 공간 '템프서울'을 공식 개관했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b16c8ed41d1b",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "[최경진의 未來法道] 프런티어 AI 시대, 한국 답은 검증 가능한 가속",
+      "link": "https://zdnet.co.kr/view/?no=20260920224904",
+      "publishedAt": "2026-09-20T13:49:04.000Z",
+      "description": "[지디넷코리아]앤스로픽 최고경영자 다리오 아모데이가 최근 발표한 글이 전세계적인 AI 개발 중단 논쟁에 다시 불을 붙였다. 정확히는 중단이 아니라 외부 평가자에게 개발과정에 대한 상시 접근권을 주고, 공통 안전기준과 국제 공조를 통해 검증의 시간을 확보하자는 주장이다. 반면 도널드 트럼프 미국 대통령과 젠슨 황 엔비디아 최고경영자는 그와 정반대의 입장에 서 있는 것으로 비춰진다. 이러한 논의의 연장선상에서 다가오는 유엔총회 중에도 중요한 의제로 다룰 예정이다.이러한 논쟁은 처음이 아니다. 2000년 빌 조이는 위험한 기술의 포기를 주장했고, 2014년 스티븐 호킹은 완전한 AI가 인류의 종말을 가져올 수 있다고 경고했다. 2023년에는 GPT-4보다 강한 시스템의 훈련을 최소 6개월 중단하자는 공개서한이 나왔다. 예고됐던 인류 멸종이나 AI의 통제권 장악은 2026년 9월 현재 현실이 되지 않았다. 그러나 발전 속도는 예상을 앞질렀다. 오픈AI의 GPT-5.5는 4월 23일, GPT-5.6은 7월 9일, GPT-6 Astra는 9월 3일 공개됐다. 향상된 모델이 나오는데 걸리는 시간이 빠른 속도로 줄고 있다.과거의 경고가 실현되지 않았다고 해서 미래의 위험까",
+      "author": "최경진 가천대학교 교수(한국정보법학회장)",
+      "summary": "앤스로픽 CEO는 AI 개발 중단 대신 외부 평가자의 상시 접근권과 국제 공조를 통한 검증을 주장했으나, 트럼프와 젠슨 황 등은 반대 입장을 보이고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8f588338704e",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "[K뷰티 밸류체인 지도]⑩더파운더즈, 폭풍성장 뒤 이익률 악화…확장전략 시험대",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=673240",
+      "publishedAt": "2026-09-20T13:48:29.000Z",
+      "description": "K뷰티 산업이 제조·유통·브랜드를 한 몸에 갖춘 대기업 중심 구조에서 벗어나 용기·ODM부터 벤더·유통·브랜드·자본까지 층위별 전문 플레이어 중심의 밸류체인으로 재편되고 있다. 각 층위를 대표하는 기업들을 짚어가며 K뷰티 지형 변화의 승자와 과제를 진단한다.아누아를 앞세운 더파운더즈가 지난해도 폭발적 성장세를 이어갔지만 수익성은 크게 흔들렸다. 무자본 창업 이후 K뷰티 대형 브랜드로 올라선 성공 신화의 다음 도약이 순탄치만은 않다. 제품력과 해외 확장의 저력은 여전하지만 새로운 성장판을 찾는 것보다 기존 브랜드의 입지를 키우는 데",
+      "author": "이진솔 기자",
+      "summary": "아누아를 중심으로 폭발적 성장을 이룬 더파운더즈가 지난해도 높은 성장률을 기록했지만 수익성이 크게 악화됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "04857ef231b4",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "촌 \"사람과 사람 신뢰, 플랫폼 없이 직접 연결 첫 회사\"",
+      "link": "https://zdnet.co.kr/view/?no=20260920223212",
+      "publishedAt": "2026-09-20T13:32:12.000Z",
+      "description": "[지디넷코리아]AI가 사람의 얼굴과 목소리를 복제하고 AI 에이전트가 사람 대신 온라인에서 활동하는 시대, 화면 너머의 상대가 진짜 사람인지 어떻게 확인할까. 블록체인 기반 분산신원인증(DID) 전문기업 촌(대표 신근영)이 그 답으로 사람과 사람 사이의 '관계'를 제시했다.촌은 지난 16일 오후 서울 코엑스 컨퍼런스룸에서 '투자자 데이 2026(CHON Investor Day 2026)' 사업설명회를 열고, 6년여 준비해 온 관계 기반 상호인증 기술과 사업 전략을 처음으로 공개했다. 행사에는 벤처캐피탈과 신기술사업금융회사 투자심사역, 파트너 기업, 초기 사용자 그룹, 종중 관계자, 학계 인사 등 100여 명이 참석했다. 조석준 전 기상청장이 사회를 맡아 행사를 진행했다. 행사의 발표 주제는 '플랫폼이 사라지는 세상'이다. 인터넷 발명 이후 이메일로 대표되는 초기 Web1 시대를 지나, 인류는 지금 거대 플랫폼이 사람과 사람의 연결을 독점하고 이용자의 개인정보와 관계 데이터를 서버에 쌓아 자산으로 삼는 Web2 플랫폼 전성시대를 살고 있다.촌은 이 구조를 뒤집었다. 촌 앱을 설치한 이용자가 가장 먼저 하는 일은 가까운 사람과 서로의 관계를 인증하는 것이며, 양",
+      "author": "방은주 기자",
+      "summary": "블록체인 기반 분산신원인증 전문기업 촌이 사람과 사람 사이의 '관계'를 통한 상호인증 기술을 공개했으며, 플랫폼 없이 직접 연결하는 방식을 제시했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9974b001917b",
+      "category": "it",
+      "source": "The Verge",
+      "region": "intl",
+      "title": "A24의 평판이 SCP 재단 영화로 위험에 처하다",
+      "link": "https://www.theverge.com/entertainment/997853/a24-scp-movie-creative-commons-license",
+      "publishedAt": "2026-09-20T12:45:48.000Z",
+      "description": "After the success of Backrooms, it looks like A24 is trying to cash in on yet another internet horror craze with a new installment in the V/H/S horror anthology series set in the SCP Foundation universe. But as soon as it was announced, the backlash started, and V/H/S: SCP already appears to be on shaky ground. SCP is a creepypasta that, like Backrooms, originated on 4chan. The fictional SCP (Special Containment Procedures) Foundation documents, captures, and contains paranormal or supernatural anomalies. It's a sprawling story told primarily through wiki entries that mimic documentation you m",
+      "author": null,
+      "summary": "A24가 V/H/S 공포 영화 시리즈를 SCP 재단 우주를 배경으로 제작하기로 발표했으나 발표 직후부터 팬들의 강한 반발이 일어나고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f93a3af6d9c6",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "써마셀 LIV 2.0 리뷰: 내 정원 되찾기",
+      "link": "https://www.wired.com/review/thermacell-liv-smart-mosquito-repellent-system-2/",
+      "publishedAt": "2026-09-20T11:07:00.000Z",
+      "description": "Thermacell LIV 2.0 is expensive and imperfect, but it outperforms nearly every mosquito-control method I’ve tried.",
+      "author": "Christopher Null",
+      "summary": "써마셀 LIV 2.0은 가격이 비싼 편이지만 현재까지 시도한 모기 퇴치 방법 중 대부분을 능가하는 성능을 보였다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2fab1312f6e2",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "잠복 중인 구글 분석가가 악명 높은 공급망 해킹 조직 침투",
+      "link": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
+      "publishedAt": "2026-09-20T11:07:00.000Z",
+      "description": "Google’s threat intelligence group said it had a mole inside TeamPCP's inner circle.",
+      "author": "Andy Greenberg, WIRED.com",
+      "summary": "구글의 위협 인텔리전스 팀이 공급망 해킹으로 악명 높은 TeamPCP 내부에 첩자를 배치했다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "34ffd59aabf3",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "개즈 애너니머스: 문제견을 키우는 사람들을 위한 온라인 지원 커뮤니티",
+      "link": "https://www.wired.com/story/inside-dogs-anonymous-the-online-support-group-for-people-with-difficult-dogs/",
+      "publishedAt": "2026-09-20T11:00:00.000Z",
+      "description": "“This is a place where you can come and say, I fucking hate my dog today,” a Dogs Anonymous cofounder tells WIRED. “And there are people who are going to be like, yeah, that was me last Tuesday.”",
+      "author": "Jason Parham",
+      "summary": "'개즈 애너니머스'라는 온라인 지원 커뮤니티는 어려운 개를 키우는 사람들이 자신의 경험을 솔직하게 나누고 공감받을 수 있는 공간을 제공한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2c088408c259",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "플록, 직원 자발적 퇴직 제안으로 인력 감축 추진",
+      "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+      "publishedAt": "2026-09-19T20:39:13.000Z",
+      "description": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+      "author": "Anthony Ha",
+      "summary": "플록이 직원들의 자발적 퇴직을 유도하는 방식으로 인력을 감축하려 하고 있으며, 이 방식이 실패하면 대량 해고를 할 수밖에 없을 것으로 예상되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "589c5060cfaa",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "트럼프, AI의 새로운 이름으로 브랜드 변경을 주장하며 AI 포스(AI Force) 창설",
+      "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+      "publishedAt": "2026-09-19T19:57:47.000Z",
+      "description": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+      "author": "Anthony Ha",
+      "summary": "트럼프는 AI의 새로운 이름으로 브랜드 재편할 시기가 왔다고 주장하면서 AI 포스를 창설할 것이라고 발표했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b522f0dcda29",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "에드 대비, 연료세 10펜스 즉시 인하 촉구",
+      "link": "https://www.bbc.co.uk/news/articles/cr89j514dly2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-20T14:42:42.000Z",
+      "description": "Sir Ed blamed Donald Trump's war with Iran for damaging the UK economy and pushing fuel prices up.",
+      "author": null,
+      "summary": "에드 대비 영국 정치인이 트럼프-이란 분쟁으로 인한 영국 경제 악화와 연료가격 상승을 지적하며 연료세의 즉시 10펜스 인하를 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "43b4ab652d66",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "메타, 온라인안전법 관련 영국 규제당국에 법적 도전",
+      "link": "https://www.theguardian.com/media/2026/sep/20/meta-legal-challenge-uk-media-regulator-ofcom-online-safety-act",
+      "publishedAt": "2026-09-20T14:24:33.000Z",
+      "description": "Action against Ofcom comes as social media companies are being accused of using courts to slow down implementation Meta has launched a fresh legal challenge against Britain’s media regulator in the latest of a slew of actions by social media companies who are accused of using the courts to slow down implementation of the Online Safety Act. Lawyers for the parent company of Facebook served notice during the week in an appeal against placing WhatsApp and Instagram, which are also owned by Meta, in a category that subjects them to additional duties. Continue reading...",
+      "author": "Ben Quinn Political correspondent",
+      "summary": "메타가 페이스북·인스타그램·왓츠앱의 규제 등급 분류에 대해 영국 미디어 규제당국 Ofcom에 항소했으며, 이는 소셜미디어 기업들이 온라인안전법 이행을 지연시키려는 일련의 법적 조치 중 하나다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f2b121feeffe",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "자유민주당, 관료주의식 경제 개혁과 EU 파트너십 강조",
+      "link": "https://www.bbc.co.uk/news/articles/cqrk31k7pprlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-20T14:05:15.000Z",
+      "description": "Deputy leader Daisy Cooper also proposes a Growth and Defence Partnership with the EU in a speech to her party conference.",
+      "author": null,
+      "summary": "자유민주당 부의장 Daisy Cooper가 당 회의에서 관료주의식 정책을 벗어나 경제성장을 촉진하겠다고 천명하고 EU와의 성장·국방 파트너십을 제안했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ec03103f3edc",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "버니 샌더스의 4일 근무제, 취지는 맞으나 추진 방식 논쟁",
+      "link": "https://www.theguardian.com/business/2026/sep/20/four-day-workweek",
+      "publishedAt": "2026-09-20T14:00:17.000Z",
+      "description": "The senator proposed a federal overtime rule mandate, but incentives can better spur employers to reshape the workweek Bernie Sanders, the Vermont senator, recently proposed new legislation that would change federal overtime rules. The new law, if passed, would require employers to pay a minimum 1.5 hours of overtime for each hour worked past 32 hours in a week. Currently, overtime kicks in at 40 hours per week. The requirement would phase in over a few years. Sounds great. Who wouldn’t want that? There’s just one problem: somebody has to pay for it. For business owners, this isn’t an ideologi",
+      "author": "Gene Marks",
+      "summary": "미국 상원의원 Bernie Sanders가 주당 32시간 초과 근무에 대한 시간당 1.5배 이상 특별 급여 의무화 법안을 제안했지만, 전문가들은 규제 명령보다 기업 자발성을 유도하는 인센티브가 더 효과적이라고 평가했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7333ef17c11e",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "신혼부부의 돈 고민, 전문가들이 답한다…'금융문화 토크쇼' 내달 열린다",
+      "link": "https://www.mk.co.kr/news/economy/12157685",
+      "publishedAt": "2026-09-20T13:58:43.000Z",
+      "description": "금융과행복네트워크, 신혼부부 100쌍 초청 “심리·재무·자산관리 ‘맞춤형’ 설계”신혼부부들이 결혼생활에서 부딪히는 돈 문제를 전문가들과 함께 풀어보는 금융문화 토크쇼가 열린다. 생..",
+      "author": "매일경제",
+      "summary": "금융과행복네트워크가 신혼부부 100쌍을 초청해 결혼생활의 금전 문제를 심리·재무·자산관리 분야 전문가들과 맞춤형으로 논의하는 금융문화 토크쇼를 내달에 개최한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "afb5ab6d4c1a",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "美 레버리지ETF 73개 줄상폐…올해 출시 200여 개 후폭풍",
+      "link": "https://www.mk.co.kr/news/stock/12157643",
+      "publishedAt": "2026-09-20T09:45:26.000Z",
+      "description": "올들어 200여개 출시 ‘과열 후폭풍’ 상폐 종목수 직전 5개년 총합 넘어고위험 투자자를 겨냥한 레버리지 상장지수펀드(ETF)가 미국 증시에서 줄줄이 상장폐지되고 있다. 지나치게 ..",
+      "author": "매일경제",
+      "summary": "고위험 레버리지 상장지수펀드(ETF)가 미국 증시에서 대량 상장폐지되고 있으며, 2026년 상폐 종목 수가 직전 5개년 총합을 넘어섰다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5d72c3d920c4",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "대부업 채무조정 거절률 15.9%…은행의 10배 수준",
+      "link": "https://www.mk.co.kr/news/economy/12157642",
+      "publishedAt": "2026-09-20T09:45:06.000Z",
+      "description": "신복위 개인채무조정 분석 금융사 동의 있어야 빚조정 대부업 거절률 반년새 4%P↑ 은행 비동의율의 10배 수준정부가 취약차주의 채무조정과 재기 지원을 확대하는 가운데, 개인채무조정..",
+      "author": "매일경제",
+      "summary": "신용복구위원회 분석 결과 대부업체의 개인채무조정 거절률이 반년 새 4%포인트 증가해 15.9%에 달했으며, 이는 은행의 비동의율 대비 약 10배 수준이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "93dbb8d4a83e",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "삼성전자 30조 배당 임박…고배당주 세제 혜택 적용",
+      "link": "https://www.mk.co.kr/news/stock/12157616",
+      "publishedAt": "2026-09-20T08:49:55.000Z",
+      "description": "30조원에 달하는 천문학적 규모의 삼성전자 3분기 배당기준일이 이달 말로 바짝 다가왔다. 삼성전자는 지난해에 이어 올해도 배당소득에 대한 분리과세 혜택이 적용되는 '고배당 기업'으..",
+      "author": "매일경제",
+      "summary": "삼성전자의 3분기 배당기준일이 이달 말로 다가왔으며, 30조 원 규모의 배당금에 대해 분리과세 혜택이 적용되는 고배당 기업으로 지정됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "453c0dc7e2de",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "국회 산자위, 22일 '대미투자 1호' 관련 보고 청취",
+      "link": "https://www.yna.co.kr/view/AKR20260920037600001",
+      "publishedAt": "2026-09-20T08:05:20.000Z",
+      "description": "(서울=연합뉴스) 조다운 박재하 기자 = 국회 산업통상자원중소벤처기업위원회는 오는 22일 산업통상부로부터 3천500억달러 규모 대미투자 첫 사업...",
+      "author": "조다운",
+      "summary": "국회 산업통상자원중소벤처기업위원회가 22일 산업통상부로부터 3,500억 달러 규모의 대미투자 첫 사업 관련 보고를 청취할 예정이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1db132ac74ee",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "약 배송 확대 정책 철회하라…광화문에 모인 약사들",
+      "link": "https://www.yna.co.kr/view/AKR20260920026100017",
+      "publishedAt": "2026-09-20T06:00:00.000Z",
+      "description": "(서울=연합뉴스) 신선미 기자 = \"검증 없는 약 배송 확대 즉각 중단하라!\"",
+      "author": "신선미",
+      "summary": "약사들이 광화문에 집결해 검증 없는 약 배송 확대 정책의 즉각 철회를 강력히 요구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "11c0f575442f",
+      "category": "politics",
+      "source": "SBS 뉴스",
+      "region": "kr",
+      "title": "'낙마'에 거리 두는 민주…국힘 \"무엇을 감추나\"",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008762476",
+      "publishedAt": "2026-09-20T14:30:00.000Z",
+      "description": "정치권 소식으로 이어갑니다. 김승원 의원은 법무장관 후보자직에서 물러났지만, 그 후폭풍은 계속되고 있습니다. 민주당은 이틀째 거리를 두고 있지만 야권에선 김 의원에 대한 '탄원서'를 고리로 공세 수위를 높이고 있습니다.박재연 기자가 보도합니다.",
+      "author": "mykite@sbs.co.kr (박재연)",
+      "summary": "김승원 법무장관 후보자 사퇴 후 민주당은 거리를 두는 반면 야권은 탄원서를 고리로 공세를 높이고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e712a677c669",
+      "category": "politics",
+      "source": "서울신문",
+      "region": "kr",
+      "title": "상업적 합리성 챙긴 '대미투자 1호' 협상…정부, 내일 국회 보고",
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20260921001007",
+      "publishedAt": "2026-09-20T14:18:13.000Z",
+      "description": "예상 수입, 원리금 상환액 상회해야 ‘텍사스 발전소’에 30조원 투자설 원전 8기‧알래스카 LNG도 윤곽 예상 국회가 앞서 연기했던 대미 투자 첫 사업 관련 정부 보고를 22일 받는 것으로 파악됐다. 투자금 회수 가능성 등 ‘상업적 합리성’을 확보해야 한다는 한국 측 요구를 미국이 일부 수용하면서 양국이 접점을 찾은 것으로 보인다. 대미 투자 1호 사업 양해각서(MOU) 서명·발표는 이르면 23일 이뤄질 가능성이 커졌다. 20일 복수의 여권 관계자에 따르면 정부는 22일 오전 9시 30분 국회 산업통상자원중소벤처기업위원회에 대미투자 협상 내용을 비공개로 보고할 예정이다. 재정경제기획위원회도 같은 시간대에 비공개 보고를 받는 방안을 협의하고 있다. 김정관 산업통상부 장관은 산중위에, 구윤철 부총리 겸 재정경제부 장관은 재경위에 각각 참석하고 일부 실무진은 교차 배석할 것으로 보인다. 여당 소속 산중위 관계자는 서울신문에 “이번 협상안에 구체적인 조건과 세부 사항까지 모두 담기기는 쉽지 않을 것”이라면서도 “국회에 보고할 수 있을 정도로 미국 측이 어느 정도 양보한 것으로 안다”고 전했다. 정부가 협상 원칙으로 내세운 상업적 합리성과 미국 측의 투자 확대 요구 ",
+      "author": "한지은·반영윤 기자",
+      "summary": "정부가 22일 국회에 대미 투자 협상 내용을 보고할 예정이며, 한미 간 상업적 합리성 확보를 둘러싼 협상이 접점을 찾았다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5408391abe47",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "대미투자협상 '상업적합리성' 막판진통…\"파기 가능성 배제못해\"",
+      "link": "https://www.yna.co.kr/view/AKR20260920054600001",
+      "publishedAt": "2026-09-20T13:22:49.000Z",
+      "description": "(서울=연합뉴스) 임형섭 기자 = 한미 간 대미투자 협상이 '상업적 합리성' 보장을 둘러싼 이견으로 막판 진통을 겪고 있는 것으로 20일 알려졌...",
+      "author": "임형섭",
+      "summary": "한미 간 대미 투자 협상이 상업적 합리성 보장을 둘러싸고 막판 이견을 겪고 있으며 파기 가능성도 배제되지 않고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3031776cba07",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "술 취해 남의 차량 훔쳐 10㎞ 운전···경찰 30대 입건",
+      "link": "https://www.khan.co.kr/article/202609202146001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-09-20T12:46:00.000Z",
+      "description": "경찰 마크술에 취해 남의 차량을 훔쳐 운전한 30대가 경찰에 붙잡혔다.경기 분당경찰서는 절도와 음주운전 혐의로 A씨를 입건해 조사하고 있다고 20일 밝혔다.A씨는 지난 19일 오후 11시30분쯤 성남시 분당구의 한 상가 주차장에서 술에 취한 채 주차돼 있던 BMW 승용차를 훔쳐 1시간가량 운전한 혐의를 받고 있다.신고를 받고 출동한 경찰은 이날 0시40분쯤···",
+      "author": "강현석 기자",
+      "summary": "술에 취한 30대가 분당의 상가 주차장에서 BMW를 훔쳐 약 1시간 운전하다 경찰에 적발되어 절도와 음주운전 혐의로 입건됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3aa095b7ea32",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "美, 신속 대미투자 이행 압박하며 반도체 거론…호르무즈 협력도 강조",
+      "link": "https://www.donga.com/news/Politics/article/all/20260920/134705861/1",
+      "publishedAt": "2026-09-20T12:21:00.000Z",
+      "description": "대미(對美) 투자 프로젝트에 관한 한미 간 양해각서(MOU) 체결이 미뤄지고 있는 가운데 미국이 한국에 대미 투자 약속의 “신속한 이행”을 강조하고 나섰다. 미국은 한미 외교장관 회담 보도자료 첫머리에서 “반도체를 비롯한 주요 전략 분야에서 지속적으로 협력하기로 했다”고 밝히는 등 한국 기업의 미국 내 반도체 투자도 강조했다. 여권 내부의 반대와 정부의 신중론으로 호르무즈 해협 파병이 불투명한 상황에서 대미 투자 발표까지 늦어지자 도널드 트럼프 행정부가 신속한 결정을 촉구하며 압박에 나선 것으로 풀이된다.●美, 대미 투자 신속 이행, 호르무즈 기여 재차 강조18일(현지 시간) 미국 워싱턴에서 열린 한미 외교장관 회담 이후 미 국무부는 루비오 장관이 지난해 한미 정상회담 후속조치 ‘조인트 팩트시트(JFS·공동 설명자료)’에 명시된 대미 투자 약속의 “신속한 이행(swift execution)”을 강조했다고 밝혔다. 한미 양국은 대미 투자 1, 2호 프로젝트에 대한 의견을 좁혔지만",
+      "author": null,
+      "summary": "미국이 한미 외교장관 회담 이후 반도체 투자를 포함한 대미 투자의 신속한 이행을 강조하며 결정 촉구 압박을 높이고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a34f26403ea3",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "김승원도 낙마…'인사' 숙제 안은 청",
+      "link": "https://www.khan.co.kr/article/202609202112005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-09-20T12:12:00.000Z",
+      "description": "“국민 눈높이 못 미쳐” 자진사퇴 용혜인 이어 부정여론에 ‘하차’ 여 ‘증인 0’ 청문회 강행 등 비판 후보 추천·검증 개선 목소리도신약 승인 로비 의혹이 제기된 김승원 법무부 장관 후보자(사진)가 자진 사퇴했다. 용혜인 전 성평등가족부 장관 후보자에 이어 김 전 후보자까지, 2차 개각 인사 중 현역 의원 두 명이 국민적 부정 여론 끝에 연쇄 낙마한 ···",
+      "author": "김한솔·김송이 기자",
+      "summary": "신약 승인 로비 의혹으로 지적받던 김승원 법무부 장관 후보자가 자진 사퇴했으며, 용혜인에 이어 현역 의원 두 명이 부정 여론으로 연쇄 낙마했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3203aa7f8132",
+      "category": "politics",
+      "source": "연합뉴스 사회",
+      "region": "kr",
+      "title": "강북구 근린공원 모노레일 선로작업 중 60대 남성 중상",
+      "link": "https://www.yna.co.kr/view/AKR20260920053100004",
+      "publishedAt": "2026-09-20T12:10:39.000Z",
+      "description": "(서울=연합뉴스) 윤민혁 기자 = 서울 강북구 북서울꿈의숲 도시 근린공원 모노레일 선로에서 60대 남성이 작업 중 중상을 입었다.",
+      "author": "윤민혁",
+      "summary": "서울 강북구의 북서울꿈의숲 도시 근린공원 모노레일 선로 작업 중 60대 남성이 중상을 입었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1dc8e21b7782",
+      "category": "politics",
+      "source": "연합뉴스 사회",
+      "region": "kr",
+      "title": "'7명 사상' 안성 나눔장터 돌진사고 운전자 내일 구속심사",
+      "link": "https://www.yna.co.kr/view/AKR20260920052700061",
+      "publishedAt": "2026-09-20T12:10:23.000Z",
+      "description": "(안성=연합뉴스) 김솔 기자 = 경기 안성시의 한 플리마켓 행사장에서 1t 트럭을 몰고 돌진해 7명의 사상자를 낸 60대 운전자가 21일 구속 ...",
+      "author": "김솔",
+      "summary": "경기 안성의 플리마켓 행사장에서 1t 트럭으로 돌진해 7명을 다치게 한 60대 운전자가 21일 구속심사를 받는다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "317433967806",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "당장 내달 문 여는데…공소청장·중수청장 다 공석",
+      "link": "https://www.khan.co.kr/article/202609202105015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-09-20T12:05:01.000Z",
+      "description": "공소청, 법무장관 없이 출범할 듯직제 확정 늦어지면 시스템 혼선공소청장 후보 추천위도 못 꾸리고중수청장은 재검토에 임명 안갯속김승원 법무부 장관 후보자가 사퇴하면서 공소청 개청 준비 작업에도 차질이 생길 것이란 우려가 나온다. 초대 중대범죄수사청장 인선 절차도 진척이 없어 법무부 장관과 공소청장, 중수청장이 모두 공석인 상태로 새로운 형사사법 체계가 시행될···",
+      "author": "김예나 기자",
+      "summary": "김승원의 사퇴로 공소청 개청 준비에 차질이 발생했으며, 내달 문을 여는 공소청이 공소청장·중수청장 모두 공석인 상태에서 시작될 예정이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9689fb2ddea7",
+      "category": "politics",
+      "source": "조선일보",
+      "region": "kr",
+      "title": "[만물상] 엑스포 잔혹사",
+      "link": "https://www.chosun.com/opinion/manmulsang/2026/09/20/7TLZWGNEMRBYZAEQW6KUFGTMDU/",
+      "publishedAt": "2026-09-20T10:54:19.000Z",
+      "description": "",
+      "author": "김태훈 논설위원",
+      "summary": "",
+      "summarySource": "rss"
+    },
+    {
+      "id": "35945523e42b",
+      "category": "world",
+      "source": "Al Jazeera",
+      "region": "intl",
+      "title": "Venezuela quakes rescue dog ‘Tsunami’ honoured with statue",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/venezuela-quakes-rescue-dog-tsunami-honoured-with-statue?traffic_source=rss",
+      "publishedAt": "2026-09-20T14:43:49.000Z",
+      "description": "A Venezuelan rescue dog has been honoured with a statue for his search-and-rescue work after earthquakes in June.",
+      "author": null,
+      "summary": "A Venezuelan rescue dog has been honoured with a statue for his search-and-rescue work after earthquakes in June.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "f1794fb3a741",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "백악관 \"美정부, AI 문제 발생했을 때 대처할 수단 있다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260920056100071",
+      "publishedAt": "2026-09-20T14:25:32.000Z",
+      "description": "(워싱턴=연합뉴스) 홍정규 특파원 = 마이클 크라치오스 백악관 과학기술정책실장은 인공지능(AI) 기술의 안전에 \"문제가 발생했을 때 대처할 수 ...",
+      "author": "홍정규",
+      "summary": "(워싱턴=연합뉴스) 홍정규 특파원 = 마이클 크라치오스 백악관 과학기술정책실장은 인공지능(AI) 기술의 안전에 \"문제가 발생했을 때 대처할 수 ...",
+      "summarySource": "rss"
+    },
+    {
+      "id": "7d049169e751",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "Germany faces energy tax losses as EV sales rise",
+      "link": "https://www.dw.com/en/germany-faces-energy-tax-losses-as-ev-sales-rise/a-79320422?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-09-20T14:02:00.000Z",
+      "description": "The rapid shift to electric vehicles in Germany is cutting fuel tax revenue for the government. As EV sales surge, policymakers face growing pressure to find new ways to fund roads and transportation infrastructure.",
+      "author": null,
+      "summary": "The rapid shift to electric vehicles in Germany is cutting fuel tax revenue for the government.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "0cb1998c6c9f",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "Bear-y good neighbors: humans and animals are learning to live together in an expanding LA",
+      "link": "https://www.theguardian.com/us-news/2026/sep/20/los-angeles-bear-coexistence",
+      "publishedAt": "2026-09-20T14:00:17.000Z",
+      "description": "People are increasingly crossing paths with the wild animals as homes ring the outskirts of forests, sparking a new era of coexistence Every year, as summer draws to a close and fall begins, California’s bears get hungry. Black bears have long roamed the state, hunting for acorns, ants and pine nuts by the bucketload to pack on calories before hibernation. But increasingly, for every berry and root, there’s an even greater temptation: our trash and the detritus of human existence. Continue reading...",
+      "author": "Nick Visser",
+      "summary": "People are increasingly crossing paths with the wild animals as homes ring the outskirts of forests, sparking a new era of coexistence Every year, as summer draws to a close and fa…",
+      "summarySource": "rss"
+    },
+    {
+      "id": "36e5122626ca",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "트럼프 \"워싱턴 개선문 군사겸용으로 짓겠다…저격수도 배치\"",
+      "link": "https://www.yna.co.kr/view/AKR20260920055300071",
+      "publishedAt": "2026-09-20T13:36:27.000Z",
+      "description": "(워싱턴=연합뉴스) 백나리 특파원 = 도널드 트럼프 미국 대통령은 워싱턴DC 인근에 세우려는 76ｍ 높이 개선문을 군사시설 겸용으로 짓겠다고 밝...",
+      "author": "백나리",
+      "summary": "(워싱턴=연합뉴스) 백나리 특파원 = 도널드 트럼프 미국 대통령은 워싱턴DC 인근에 세우려는 76ｍ 높이 개선문을 군사시설 겸용으로 짓겠다고 밝...",
+      "summarySource": "rss"
+    },
+    {
+      "id": "ca8338f4bfca",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "Peter Thiel: Power, Palantir, and the antichrist",
+      "link": "https://www.dw.com/en/peter-thiel-power-palantir-and-the-antichrist/a-79313426?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-09-20T13:29:00.000Z",
+      "description": "He was early to back Facebook, early to back Donald Trump, and is one of the world’s richest people. But from his theories on the antichrist and AI to his distinctive politics, Peter Thiel is hard to pin down.",
+      "author": null,
+      "summary": "He was early to back Facebook, early to back Donald Trump, and is one of the world’s richest people.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "348984b5a79f",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "PHOTOS: The precarious life of fisherfolk",
+      "link": "https://www.npr.org/2026/09/20/g-s1-143447/photos-fishermen-sea-india",
+      "publishedAt": "2026-09-20T12:24:02.000Z",
+      "description": "In the bustling heart of the southern Indian city of Chennai is a market that never sleeps, where residents from the poorest neighborhoods wage a battle of survival with the sea.",
+      "author": "Kamala Thiagarajan",
+      "summary": "In the bustling heart of the southern Indian city of Chennai is a market that never sleeps, where residents from the poorest neighborhoods wage a battle of survival with the sea.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "07dc8d711fc4",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "Michelle Bachelet withdraws from race to become UN secretary general",
+      "link": "https://www.theguardian.com/world/2026/sep/20/former-president-of-chile-withdraws-from-race-to-become-un-secretary-general",
+      "publishedAt": "2026-09-20T12:04:08.000Z",
+      "description": "Former president of Chile drops out after support collapsed in security council straw poll, leaving seven candidates in contest Michelle Bachelet, a former president of Chile, has withdrawn her candidacy to become the next secretary general of the ⁠UN, ending an attempt ​that had struggled to gain traction among security council members. Bachelet, 74, announced ⁠her decision in a video posted on Instagram on Saturday, saying: “I will now continue, with the ⁠same determination as always, my international work.” Continue reading...",
+      "author": "Reuters in Geneva",
+      "summary": "Former president of Chile drops out after support collapsed in security council straw poll, leaving seven candidates in contest Michelle Bachelet, a former president of Chile, has…",
+      "summarySource": "rss"
+    },
+    {
+      "id": "b4a6f4993333",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
+      "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-20T10:45:39.000Z",
+      "description": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.",
+      "author": null,
+      "summary": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "587db06e77e4",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
+      "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-20T04:49:11.000Z",
+      "description": "The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage.",
+      "author": null,
+      "summary": "The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "932e38224094",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]더 길고 높은 '3高 파도'… '밑바닥 경제'부터 챙겨라",
+      "link": "https://www.donga.com/news/Opinion/article/all/20260920/134706110/2",
+      "publishedAt": "2026-09-20T14:50:00.000Z",
+      "description": "중동 전쟁 장기화로 국제 유가가 배럴당 100달러를 다시 돌파한 가운데 미국 일본 유럽 중앙은행이 인플레를 잡기 위해 금리 인상 대열에 속속 동참하고 있다. 더 길고 더 높은 고유가 고금리 고환율의 ‘3고(高) 파도’가 닥칠 가능성을 대비해 민생 경제의 맨 밑바닥부터 세심하게 챙겨야 한다. 한국은 원유를 전량 수입해서 쓰는 에너지 다소비 국가다. 특히 국제 유가 상승이 고환율(원화 가치 하락)과 겹치면 에너지 공급 충격이 배가되는 취약한 구조를 갖고 있다. 겨울철을 대비해 원유 공급처를 서둘러 확보하는 한편 1380원대에 다시 진입한 환율을 안정적으로 관리하는 일이 무엇보다 중요하다. 환율이 급등하면 반도체와 같은 수출 기업의 원화 환산 매출이 늘어나지만, 원자재 부품 장비 수입 의존도가 높은 대부분의 기업은 비용 부담이 커진다. 지난달 수입 물가는 전년 동월 대비로는 15.6% 올랐다. 외식과 장바구니 물가 상승 압력도 여전히 높다. 보조금으로 유가 충격을 막던 일본도 결국",
+      "author": null,
+      "summary": "중동 전쟁으로 인한 고유가와 선진국의 금리 인상이 야기할 '3高 파도'에 대비해 한국은 원유 공급처 확보와 환율 안정화로 민생 경제를 세심하게 챙겨야 한다고 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5a2a34dc2cf2",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]\"볼수록 잘된 인사\"라는 경망함이 인사 참사 불렀다",
+      "link": "https://www.donga.com/news/Opinion/article/all/20260920/134706102/2",
+      "publishedAt": "2026-09-20T14:48:00.000Z",
+      "description": "김승원 더불어민주당 의원이 19일 법무부 장관 후보자에서 자진 사퇴했다. 이재명 대통령이 전날 기자회견에서 김 의원의 장관 임명 문제를 두고 “국민 눈높이 등을 고려해 신중하게 결정하겠다”고 밝힌 지 하루 만이다. 이로써 8·30 개각을 통해 지명된 후보자 6명 중 성평등가족부 장관 후보였던 용혜인 기본소득당 의원에 이어 두 번째로 중도 하차하게 됐다. 김 의원 낙마는 이른바 ‘현역 불패’ 신화가 깨진 세 번째 사례다. 현역 의원은 대체로 국회 인사청문회를 무난하게 통과하는 게 관행이었으나 이재명 정부 들어 강선우 민주당 의원이 하차하면서 그 신화가 깨졌고, 이번에 용 의원이 청문회도 하기 전에 물러난 데 이어 김 의원마저 청문회를 마치고 여권 단독으로 인사청문 경과보고서까지 채택한 상황에서 하차했다. 그만큼 부실한 검증부터 맹탕 청문회까지 이 정부의 인사 프로세스 난맥상을 보여준다. 인사 실패의 원인은 일차적으로 청와대 검증 시스템의 부재에 있다. 특히 이번에는 검증은 둘째치고",
+      "author": null,
+      "summary": "김승원 법무부 장관 후보자의 중도 하차가 청와대의 부실한 검증 시스템과 맹탕 청문회 과정을 드러냈으며, 이 정부의 인사 프로세스 난맥상을 보여줬다고 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b3aa1504bc71",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "트럼프 후계자 경쟁, 뱅스와 루비오만의 일 아니다",
+      "link": "https://www.nytimes.com/video/opinion/100000011138953/its-not-just-a-race-between-vance-and-rubio.html",
+      "publishedAt": "2026-09-20T13:40:50.000Z",
+      "description": "“Donald Trump, of course, will not always be with us,” the columnist Lydia Polgreen says. So who will carry Trumpism forward? Lydia argues Vivek Ramaswamy is an interesting potential successor — similar to Trump in some ways, yet distinct in others. Could he be up to the task?",
+      "author": null,
+      "summary": "트럼프 이후 트럼프주의를 누가 계승할 것인지 논하며, 비벡 라마스와미가 트럼프와 유사하면서도 구별되는 특징의 잠재적 후계자가 될 수 있다고 제시했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ccb7ade6cf3c",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "전쟁과 기후 위기 속 유엔, 새 지도자 필요하지만 트럼프 동의는?",
+      "link": "https://www.theguardian.com/commentisfree/2026/sep/20/un-new-leader-wars-climate-crisis-donald-trump",
+      "publishedAt": "2026-09-20T13:38:46.000Z",
+      "description": "As the organisation meets this week, it remains the best hope for restoring order. But it relies on goodwill from the US president – and that is lacking If all goes to plan, at some stage in the coming weeks 15 diplomats will emerge from a small sound-proofed room deep in the bowels of the United Nations headquarters in New York and announce the organisation’s next secretary-general. The person they choose will face a combination of challenges unlike any that their predecessors have had to deal with. Two of the security council’s permanent members, the US and Russia, are engaged in wars of cho",
+      "author": "Steve Bloomfield",
+      "summary": "유엔의 새 사무총장이 직면할 전례 없는 도전을 논하며, 유엔의 개혁이 필요하나 그 성공은 미국 대통령의 선의에 달려있고 현 상황에서 그것이 부족하다고 우려했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c1940152cd98",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "영매를 비웃어도 괜찮다, 그들은 뭔가에 타당할 수 있다",
+      "link": "https://www.nytimes.com/2026/09/20/opinion/grief-mediums-ghosts-contact.html",
+      "publishedAt": "2026-09-20T13:07:01.000Z",
+      "description": "Research into the benefits of sensing those we’ve lost.",
+      "author": "Sarah Wildman",
+      "summary": "사별한 사람들과의 감각적 연결에 관한 연구 이점을 소개하며, 영매들의 역할을 긍정적으로 재평가해야 한다고 제시했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f49c1feaa8d9",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[알람]제24회 '민족화해상' 후보를 찾습니다",
+      "link": "https://www.khan.co.kr/article/202609202124005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-09-20T12:24:00.000Z",
+      "description": "경향신문사와 민족화해협력범국민협의회는 제24회 ‘민족화해상’ 후보자를 추천받습니다. 민족화해상은 민족화해와 국민통합, 평화통일을 위해 크게 기여하고 있는 개인 또는 단체들의 활동을 격려하고, 모범사례를 확산해 민족화해운동의 활성화를 촉진하기 위해 제정되었습니다. 민족화해를 위해 헌신하고 있는 후보자를 추천해주시기 바랍니다.추천 대상 : 정치, 경제, 학술,···",
+      "author": null,
+      "summary": "경향신문사와 민족화해협력범국민협의회가 민족화해와 국민통합을 위해 헌신하는 개인·단체를 선정하는 '민족화해상' 제24회 후보자 추천을 안내했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "32455e1a6eb2",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "세계적 전쟁이 일어나고 있다, 당신도 전선에 있을 수 있다",
+      "link": "https://www.washingtonpost.com/opinions/2026/09/20/argentine-ant-wars-cast-surprising-light-human-conflict/",
+      "publishedAt": "2026-09-20T11:37:46.000Z",
+      "description": "Argentine ants have been fighting a global war for decades — and the logic looks uncannily human.",
+      "author": "Mark W. Moffett",
+      "summary": "아르헨티나 개미의 전 지구적 전쟁을 다루며, 그 전쟁 논리와 전략이 인간의 그것과 불가사의하게 닮아있다고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "55e3c28ef323",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[아침을 열며]부동산은 계곡이 아니다",
+      "link": "https://www.khan.co.kr/article/202609202009025/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-09-20T11:09:02.000Z",
+      "description": "매주 목요일 오전 10시 한국부동산원의 주간 아파트 통계 자료가 발표된다. 전주와 비교한 서울 평균치를 먼저 보기 마련이다. 곧장 되묻는다. “강남 3구는?”그렇다. 서울 강남 3구 집값은 일종의 ‘계륵’이다. 압구정 현대 아파트가 110억원에서 100억원으로 10억원 떨어진다 한들 보통 사람과 아무 관련 없지만 서울 집값의 방향을 읽으려면 빼놓을 수 없다···",
+      "author": "임지선 경제부장",
+      "summary": "매주 발표되는 아파트 통계에서 강남 3구 집값이 서울 전체 집값의 방향을 읽는 중요한 지표임을 설명하며, 부동산이 단순한 계곡이 아니라는 점을 강조했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "236cb0b9d02c",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "스타트렉 60주년, 약속했던 미래 비전은 더 멀어졌다",
+      "link": "https://www.theguardian.com/commentisfree/2026/sep/20/star-trek-air-force-weapons",
+      "publishedAt": "2026-09-20T11:00:15.000Z",
+      "description": "The US’s deployment of weaponry in space marks the latest backward step from the show’s optimistic conception of the future Who among us doesn’t dream of space in their youth? OK, maybe some of us. Like the ones with lives. While you were out playing hopscotch with little Jimmy and Susie, I was locked in my room mainlining episodes of Star Trek or the weird, sanitized version of Aliens that aired on broadcast TV. Fantastical science-fiction adventure seemed to offer more than playground games and actual human connection. Spaceships over relationships. Dave Schilling is a Los Angeles-based writ",
+      "author": "Dave Schilling",
+      "summary": "스타트렉이 그렸던 낙관적인 미래 우주 비전에 반해, 미국의 우주 무기 배치가 그 비전에서 얼마나 멀어졌는지를 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "509f9f7bb9ef",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "암 환자들이 치료를 위해 대양을 건너지 않아도 된다",
+      "link": "https://www.washingtonpost.com/opinions/2026/09/20/china-united-states-should-collaborate-cancer-research/",
+      "publishedAt": "2026-09-20T11:00:00.000Z",
+      "description": "The United States and China should collaborate on cancer research, even amid strategic mistrust.",
+      "author": "Lizzi Lee, Jennifer Kwan",
+      "summary": "암 환자들의 치료 접근성 향상을 위해 미국과 중국이 전략적 갈등 속에서도 암 연구에 협력해야 한다고 주장했다.",
+      "summarySource": "llm"
+    }
+  ],
+  "summarizedAt": "2026-09-20T23:57:35.287Z",
+  "summaryStats": {
+    "llm": 39,
+    "fallback": 11,
+    "model": "claude-haiku-4-5"
+  }
+}
