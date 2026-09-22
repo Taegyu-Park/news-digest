@@ -1,0 +1,899 @@
+{
+  "date": "2026-09-21",
+  "generatedAt": "2026-09-22T00:37:06.764Z",
+  "categories": [
+    {
+      "id": "it",
+      "label": "IT·과학·AI"
+    },
+    {
+      "id": "economy",
+      "label": "경제·금융"
+    },
+    {
+      "id": "politics",
+      "label": "정치·사회"
+    },
+    {
+      "id": "world",
+      "label": "세계·국제"
+    },
+    {
+      "id": "editorial",
+      "label": "사설·칼럼",
+      "opinion": true,
+      "summaryMaxChars": 220
+    }
+  ],
+  "feedStatus": [
+    {
+      "source": "Ars Technica",
+      "category": "it",
+      "ok": true,
+      "matched": 3
+    },
+    {
+      "source": "Hacker News",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "TechCrunch",
+      "category": "it",
+      "ok": true,
+      "matched": 10
+    },
+    {
+      "source": "The Verge",
+      "category": "it",
+      "ok": true,
+      "matched": 3
+    },
+    {
+      "source": "블로터",
+      "category": "it",
+      "ok": true,
+      "matched": 12
+    },
+    {
+      "source": "전자신문",
+      "category": "it",
+      "ok": false,
+      "error": "fetch failed",
+      "matched": 0
+    },
+    {
+      "source": "ZDNet Korea",
+      "category": "it",
+      "ok": true,
+      "matched": 26
+    },
+    {
+      "source": "BBC Business",
+      "category": "economy",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "The Guardian",
+      "category": "economy",
+      "ok": true,
+      "matched": 12
+    },
+    {
+      "source": "매일경제 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 30
+    },
+    {
+      "source": "연합뉴스",
+      "category": "economy",
+      "ok": true,
+      "matched": 55
+    },
+    {
+      "source": "경향신문 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 43
+    },
+    {
+      "source": "경향신문 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 32
+    },
+    {
+      "source": "노컷뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 1
+    },
+    {
+      "source": "서울신문",
+      "category": "politics",
+      "ok": true,
+      "matched": 10
+    },
+    {
+      "source": "연합뉴스 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 32
+    },
+    {
+      "source": "연합뉴스 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 91
+    },
+    {
+      "source": "SBS 뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 7
+    },
+    {
+      "source": "Al Jazeera",
+      "category": "world",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC World",
+      "category": "world",
+      "ok": true,
+      "matched": 18
+    },
+    {
+      "source": "NPR",
+      "category": "world",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "The Guardian",
+      "category": "world",
+      "ok": true,
+      "matched": 10
+    },
+    {
+      "source": "연합뉴스 국제",
+      "category": "world",
+      "ok": true,
+      "matched": 48
+    },
+    {
+      "source": "매일경제 증권",
+      "category": "economy",
+      "ok": true,
+      "matched": 37
+    },
+    {
+      "source": "경향신문 오피니언",
+      "category": "editorial",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "NYT Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "The Guardian Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 10
+    },
+    {
+      "source": "Washington Post Opinions",
+      "category": "editorial",
+      "ok": true,
+      "matched": 7
+    },
+    {
+      "source": "동아일보 사설",
+      "category": "editorial",
+      "ok": true,
+      "matched": 17
+    },
+    {
+      "source": "동아일보 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 19
+    },
+    {
+      "source": "조선일보",
+      "category": "politics",
+      "ok": true,
+      "matched": 1
+    },
+    {
+      "source": "동아일보 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "머니투데이",
+      "category": "economy",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "Wired",
+      "category": "it",
+      "ok": true,
+      "matched": 11
+    },
+    {
+      "source": "DW News",
+      "category": "world",
+      "ok": true,
+      "matched": 15
+    }
+  ],
+  "items": [
+    {
+      "id": "df3b19eb9448",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "멜론, MMA 2차 라인업 공개...TOP100 상위권 아티스트 합류",
+      "link": "https://zdnet.co.kr/view/?no=20260921235907",
+      "publishedAt": "2026-09-21T14:59:07.000Z",
+      "description": "[지디넷코리아]올해 멜론 차트에서 두각을 나타낸 YENA(최예나), 아일릿, 리센느, 하츠투하츠가 'MMA2026(멜론뮤직어워드)' 무대에 오른다.카카오엔터테인먼트의 음악 플랫폼 멜론은 오는 11월14~15일 서울 고척스카이돔에서 열리는 '제18회 멜론뮤직어워드(MMA2026)' 2차 라인업을 21일 공개했다.이번 라인업에는 YENA를 비롯해 걸그룹 아일릿, 리센느, 하츠투하츠가 이름을 올렸다. 앞서 보이그룹을 중심으로 발표한 1차 라인업에 이어 올해 멜론 차트에서 성과를 낸 여성 아티스트를 추가했다.YENA는 미니앨범 'LOVE CATCHER' 타이틀곡 '캐치 캐치'로 올해 멜론 TOP100 최고 4위에 올랐다. 멜론에 따르면 올해 솔로 아티스트 가운데 처음으로 TOP100 10위권에 진입했다.아일릿은 지난 4월 발표한 미니 4집 타이틀곡 'It's Me'로 TOP100 최고 2위를 기록했다. 아일릿은 MMA2024에서 신인상, MMA2025에서 베스트 퍼포먼스를 수상한 데 이어 올해도 시상식에 참석한다.리센느는 2024년 8월 발매한 'LOVE ATTACK'으로 약 2년 만에 차트 역주행에 성공했다. 지난 7월 멜론 TOP100 정상에 올랐으며 8월 월간",
+      "author": "안희정 기자",
+      "summary": "YENA, 아일릿, 리센느, 하츠투하츠가 11월 14~15일 서울 고척스카이돔에서 열리는 제18회 멜론뮤직어워드 2차 라인업에 합류했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5b05b58b5b3f",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "아이에이의 100억원 유상증자 AI 투자, 재무체력 시험대",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=674118",
+      "publishedAt": "2026-09-21T14:49:37.000Z",
+      "description": "아이에이가 100억원대 주주배정 유상증자를 통해 AI 데이터센터 신사업에 자금을 집중 투입한다. 채무상환이나 기존 자동차 전장·반도체 사업 운영이 아니라 첫 상용 제품 제작에 증자대금 전액을 투입한다는 점에서 신사업 투자 성격이 뚜렷하다.다만 재무 부담은 여전히 남아 있다. 올해 상반기 기준 현금및현금성자산은 52억원인 반면, 차입금과 전환사채를 보유하고 있다. 올해 초 100% 자회사로 편입한 디씨이솔루션 잔여지분 인수대금도 약 166억원이 미지급 상태다. 첫 Neo-Cube가 실제 수주와 현금창출로 이어져야 향후 외부 자금조달",
+      "author": "강기목 기자",
+      "summary": "아이에이가 100억원대 유상증자 자금을 AI 데이터센터 신사업에 전액 투입하나, 현금 부족과 미지급 인수대금 등 재무 부담이 남아있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f5011cf9e159",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "웰컴저축은행, 최초 300억 중간배당…오너 2세 체제서 드러낸 견고함",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=674136",
+      "publishedAt": "2026-09-21T14:47:22.000Z",
+      "description": "웰컴저축은행이 중간배당으로 모회사에 300억원을 지급한다. 불확실한 업황 속에서도 상반기 순이익이 1년 전보다 2배 이상 증가하는 등 실적이 반등한 결과다. 특히 웰컴금융그룹 오너 2세가 최고경영자(CEO)에 등판한 시점을 전후로 회사의 이익 및 자본 구조가 빠르게 전환됐다는 점이 주목된다. 전사적으로 공들인 자산 건전성 관리와 실적 개선이 오너 2세의 경영 성과를 극대화하기 위한 사전 작업이었다는 평가도 나온다. 실적 개선으로 반년 만에 배당 재개 21일 금융권에 따르면 웰컴저축은행은 10월1일을 기준으로 보통주 1주당 1084원",
+      "author": "유한일 기자",
+      "summary": "웰컴저축은행이 상반기 순이익 2배 증가로 중간배당 300억원을 지급했으며, 오너 2세 체제 전환 시점을 전후로 이익과 자본 구조가 빠르게 개선되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a64d88b9df0d",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "글로벌테크놀로지 \"LDI부터 렌즈·모듈까지 직접…구조적 성장 초입\"",
+      "link": "https://zdnet.co.kr/view/?no=20260921151731",
+      "publishedAt": "2026-09-21T14:45:01.000Z",
+      "description": "[지디넷코리아]\"글로벌테크놀로지는 경쟁사와 달리 발광다이오드(LED) 구동 집적회로(LDI)와 렌즈, 패키지, 모듈을 자체 개발·생산한다. 구조적 성장 초입에 와 있다.\" 21일 경기도 화성 본사에서 만난 김민선 글로벌테크놀로지 대표는 성장성을 부각했다. 근거는 두 가지다. 수직 통합 기술력과 디스플레이 광원 시장 패러다임 전환이다.글로벌테크놀로지 주력품은 LDI다. 저전력·정전류 집적회로(IC) 설계와 초소형 패키징·모듈화를 기본으로 LDI, 투명 LED 디스플레이, 마이크로 LED IC·모듈, 차량 반도체 등 4개 분야에서 사업을 펼치고 있다. LDI는 누적 납품 2억개를 넘어섰다.가장 큰 차별점은 제품 전 과정을 아우르는 기술 체계다. 김 대표는 \"LX세미콘·매그나칩반도체·서울반도체·루멘스 등 기존 업체가 IC 설계(팹리스), 패키징 등 하나에만 집중하는 것과 달리, 글로벌테크놀로지는 IC 설계, 광학·렌즈 설계, 패키징, 모듈·바(Bar) 생산을 통합해 제공한다\"고 강조했다. 칩과 광학부품, 패키지를 서로 다른 업체에서 조달하면 최적화에 한계가 생기고 개발기간이 길어진다. 반면 설계부터 모듈 생산까지 한 회사가 맡으면 IC 특성에 맞춰 렌즈와 패키지를",
+      "author": "진운용 기자",
+      "summary": "글로벌테크놀로지는 LED 구동 집적회로(LDI)부터 렌즈, 패키지, 모듈까지 자체 개발·생산하는 수직 통합 체계로 차별화되며, 누적 납품 2억개를 돌파했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "26792917d6d7",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "구글, AI 제미나이 통합 구글북 노트북 출시",
+      "link": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+      "publishedAt": "2026-09-21T14:39:22.000Z",
+      "description": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets, and other parts of the desktop experience.",
+      "author": "Sarah Perez",
+      "summary": "구글이 AI 제미나이를 커서, 받아쓰기, 위젯 등 데스크톱 환경 전체에 통합한 AI 네이티브 노트북 구글북을 899달러에 출시했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e9d235c4c7d8",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "구글 Robby Stein, TechCrunch Disrupt 2026 참여",
+      "link": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-09-21T14:30:00.000Z",
+      "description": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before September 25.",
+      "author": "TechCrunch Events",
+      "summary": "구글의 Robby Stein이 TechCrunch Disrupt 2026 Builders Stage 세션에 참여하며, 9월 25일 전 신청 시 최대 200달러의 할인을 받을 수 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "22aec4ee7f03",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "iPhone 18 Pro의 iFixit 수리 가능성 평가",
+      "link": "https://www.wired.com/story/ifixit-rating-for-the-iphone-18-pro-repairability/",
+      "publishedAt": "2026-09-21T14:15:09.000Z",
+      "description": "It’s actually pretty good for an iPhone, given Apple’s long-standing reticence to make its products repairable.",
+      "author": "Boone Ashworth",
+      "summary": "iPhone 18 Pro는 애플의 수리 거부 전통을 감안할 때 수리 가능성 평가가 상당히 좋은 것으로 평가되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7c3db1c62d46",
+      "category": "it",
+      "source": "The Verge",
+      "region": "intl",
+      "title": "존 터누스, 애플의 차세대 혁신을 이끌 수 있을까",
+      "link": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
+      "publishedAt": "2026-09-21T14:00:00.000Z",
+      "description": "Today, I’m talking with Mark Gurman, who is the world’s best-sourced Apple reporter — both as Bloomberg’s chief Apple correspondent and the host of the upcoming podcast Power On. Earlier this month, Apple hosted its annual iPhone hardware event, virtually every detail of which was reported ahead of time by Mark. But this event was special, for a number of reasons. It was new Apple CEO John Ternus’ first major product launch since he took over for former CEO Tim Cook less than two weeks prior. It was also the debut of the iPhone Duo, Apple’s first foldable smartphone. The timing of those two th",
+      "author": null,
+      "summary": "신임 CEO John Ternus가 취임 2주 만에 첫 번째 대규모 제품 발표회를 개최해 iPhone Duo 폴더블 스마트폰을 출시했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5671b4bec0d8",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "리처의 스핀오프 넬리, 성공적인 드라마로 입증",
+      "link": "https://arstechnica.com/culture/2026/09/review-neagley-is-a-worthy-spinoff-to-megahit-reacher/",
+      "publishedAt": "2026-09-21T13:53:46.000Z",
+      "description": "It's a bit uneven in execution but still delivers as fast-paced, entertaining escapist fare.",
+      "author": "Jennifer Ouellette",
+      "summary": "드라마 넬리는 실행에 다소 불완전한 면이 있지만, 빠르고 재미있는 오락물로서 기대를 충족시키는 작품이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "50cd89ec22b0",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "안드로이드 폰 사용자를 위한 구글의 구글북 노트북",
+      "link": "https://www.wired.com/story/google-launches-googlebook-laptops/",
+      "publishedAt": "2026-09-21T13:00:00.000Z",
+      "description": "Apple lovers have long enjoyed seamless connectivity between their iPhones and Macs. Now, Google’s bringing that experience to Android.",
+      "author": "Julian Chokkattu",
+      "summary": "구글이 아이폰-맥 간의 원활한 연동을 제공하는 애플 생태계에 대응해, 안드로이드 폰과 구글북 노트북 간의 통합 경험을 제공한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d6434e9f0290",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "에이사이 볼에 20달러를 쓰지 마세요: Z세대, 사모펀드의 음식점 인수에 반발",
+      "link": "https://www.theguardian.com/food/2026/sep/21/gen-z-private-equity-restaurants",
+      "publishedAt": "2026-09-21T13:51:54.000Z",
+      "description": "As more PE firms invest in food establishments, people are bemoaning the ‘same-ification’ of NYC’s restaurant scene Los Tacos No 1 is a classic New York success story. After the Mexican-style taco joint opened in 2013, it quickly became a critic’s pick in the city’s paper of record, drawing long lines and a devoted lunchtime crowd. As word spread about its juicy al pastor and handmade tortillas, it expanded to nine locations. Then, this September, bad news struck: Los Tacos No 1 had received an undisclosed amount of funding from private equity firm TSG Consumer. According to a press release, t",
+      "author": "Alaina Demopoulos",
+      "summary": "지난 9월 뉴욕의 유명 멕시코식 타코점 Los Tacos No 1이 사모펀드 TSG Consumer로부터 투자를 받으면서, 사모펀드의 음식점 인수로 인한 뉴욕 레스토랑 시장 획일화에 대한 우려가 제기되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "92da7e6f4454",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "일학개미, 글로벌X 닛케이ETF에 몰렸다…'버핏 픽' 종합상사도 줍줍",
+      "link": "https://www.mk.co.kr/news/stock/12158719",
+      "publishedAt": "2026-09-21T12:50:48.000Z",
+      "description": "‘상승세’ 닛케이255 기업에 투자일학개미(일본 증시에 투자하는 국내 투자자)들이 이달 미래에셋자산운용의 자회사 글로벌X가 일본 증시에 새로 상장한 닛케이225 상장지수펀드(ETF..",
+      "author": "매일경제",
+      "summary": "국내 투자자들이 미래에셋자산운용의 자회사 글로벌X가 상장한 닛케이225 ETF에 몰려 투자하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "082c4bcb694f",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "생보사, '700 종신보험' 못 판다…금감원 감독행정 제동",
+      "link": "https://www.yna.co.kr/view/AKR20260921178400002",
+      "publishedAt": "2026-09-21T12:37:51.000Z",
+      "description": "(서울=연합뉴스) 강수련 기자 = 앞으로 생명보험사들이 가입 후 7년이 지나면 해약환급금을 100% 받을 수 있는 이른바 '700 종신보험' 상...",
+      "author": "강수련",
+      "summary": "금융감시원이 감독행정을 통해 생명보험사들의 가입 7년 후 100% 해약환급금을 받을 수 있는 '700 종신보험' 판매를 제한하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "bdc9ebb70031",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "금리 인상과 고용 악화로 영국 소비자신뢰지수 3년 만에 최저",
+      "link": "https://www.theguardian.com/business/2026/sep/21/interest-rate-rise-jobs-uk-consumer-confidence-budget",
+      "publishedAt": "2026-09-21T12:00:11.000Z",
+      "description": "Blow to John Healey before budget as UK households face ‘notable strain’ on their finances Fears of a steep rise in mortgage payments and increasing job insecurity have sent UK consumer confidence tumbling to a three-month low, according to a leading survey. In a blow to John Healey before next month’s budget, the S&P Global consumer sentiment index dropped to 42.7 in September from 42.9 in August, indicating “a notable strain on financial confidence across UK households”. Continue reading...",
+      "author": "Phillip Inman",
+      "summary": "모기지 금리 인상 우려와 고용 불안정으로 영국의 S&P Global 소비자심박지수가 8월 42.9에서 9월 42.7로 하락했으며, 영국 가계 재정에 상당한 부담이 가중되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "44384b1645ce",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "\"절반이 900점대, 변별력 있나요?\"…무늬만 고신용자 걸러내는 은행",
+      "link": "https://www.mk.co.kr/news/economy/12158688",
+      "publishedAt": "2026-09-21T12:00:00.000Z",
+      "description": "고신용자 5명중 1명 대출거절 총량규제 등 가계대출 조이며 고신용자 심사도 엄격해져 중저신용자는 대출난민 전락 제2금융권서 고신용자와 경쟁 일부 차주 부담이자 20% 육박정부의 강..",
+      "author": "매일경제",
+      "summary": "정부의 가계대출 총량규제로 은행의 고신용자 대출 심사가 엄격해지면서 고신용자 5명 중 1명이 대출을 거절당하고 중저신용자는 제2금융권으로 몰리고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "60c6904058d5",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "메가특구 사회적 대화, 내일 실무회의…의제 선정 본격화(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260921089451530",
+      "publishedAt": "2026-09-21T11:26:03.000Z",
+      "description": "(서울=연합뉴스) 옥성구 기자 = 노사정이 메가특구특별법 내 노동 특례 논의를 위한 '원 포인트 사회적 대화'의 첫 만남을 한 데 이어 이번 주...",
+      "author": "옥성구",
+      "summary": "노사정이 메가특구특별법 내 노동 특례 논의를 위한 사회적 대화의 실무회의를 진행하며 본격적으로 의제 선정을 추진하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "eaf40cf121ed",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "\"1000주에 최대 460만원 예상\"…'27만 전자' 배당 받으려면 이날까지",
+      "link": "https://www.mk.co.kr/news/stock/12158645",
+      "publishedAt": "2026-09-21T11:01:06.000Z",
+      "description": "삼성전자가 21일 4% 넘게 상승하며 27만원대를 회복했다. 외국인이 1조원 넘게 순매수한 가운데 약 30조원 규모의 3분기 현금배당을 받을 수 있는 마지막 매수일도 다가오고 있다..",
+      "author": "매일경제",
+      "summary": "삼성전자가 27만원대를 회복한 가운데 약 30조원 규모의 3분기 현금배당을 받을 수 있는 마지막 매수일이 임박했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a9309ad87038",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "영국 보수당, 관광객 면세쇼핑 제도 부활 추진",
+      "link": "https://www.bbc.co.uk/news/articles/cmd68px5qqddo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-21T10:37:23.000Z",
+      "description": "The party says scrapping the scheme in 2021 left the UK less competitive than European destinations.",
+      "author": null,
+      "summary": "영국 보수당이 2021년 폐지한 관광객 면세쇼핑 제도를 복구하겠다고 공약했으며, 이는 유럽 선진국과의 경쟁력을 높이기 위한 정책이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d2cbdf6eaab0",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "항공편 취소 또는 지연 시 내 권리는 무엇인가?",
+      "link": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-21T10:28:17.000Z",
+      "description": "Flights are affected again owing to air traffic control problems, so what are your rights if you're affected?",
+      "author": null,
+      "summary": "항공교통관제 문제로 인한 항공편 취소 또는 지연 사태가 발생하고 있으며 이 과정에서 승객의 보상 권리가 중요한 쟁점이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1587fdbe1aac",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "\"월급 꼬박꼬박 들어왔는데 대출금리 왜 안깎였죠?\"…급여이체 인정 안 된 까닭",
+      "link": "https://www.mk.co.kr/news/economy/12158603",
+      "publishedAt": "2026-09-21T09:48:02.000Z",
+      "description": "금감원은 21일 ‘주요 민원 사례로 알아보는 은행 이용 시 소비자 유의사항’을 통해 최근 접수된 민원 사례를 소개하며 소비자들에게 주의를 당부했다. 대출 금리 감면 조건으로 급여 ..",
+      "author": "매일경제",
+      "summary": "금감원이 대출 금리 감면 조건인 급여이체를 은행이 인정하지 않아 금리 인하가 되지 않는 민원 사례를 공개하며 소비자 주의를 당부했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "23a8cd2d651e",
+      "category": "politics",
+      "source": "조선일보",
+      "region": "kr",
+      "title": "[한삼희의 환경칼럼] 네팔 빙하 참사, 좀 다른 각도에서 보면",
+      "link": "https://www.chosun.com/opinion/specialist_column/2026/09/22/75NP2KIFAJANTCUR5F2MVPNRTY/",
+      "publishedAt": "2026-09-21T14:55:00.000Z",
+      "description": "",
+      "author": "한삼희 환경칼럼니스트",
+      "summary": "네팔에서 발생한 빙하 참사에 대해 환경 칼럼니스트가 기존의 해석과 달리 다른 각도에서 분석을 제시했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "11a1e89a07ec",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "스틸 美대사·여야 지도부 관저만찬…'DMZ 사고' 놓고 동맹 교감",
+      "link": "https://www.yna.co.kr/view/AKR20260921142452001",
+      "publishedAt": "2026-09-21T14:12:15.000Z",
+      "description": "(서울=연합뉴스) 이정현 권희원 노선웅 기자 = 미셸 스틸 주한미국대사가 21일 여야 지도부를 중구 정동 주한미국대사 관저로 초청해 만찬을 함께...",
+      "author": "권희원",
+      "summary": "미셸 스틸 주한미국대사가 여야 지도부를 만찬에 초청하여 최근 DMZ 사고를 놓고 한미 동맹 관계를 재확인했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "4933cdab68e8",
+      "category": "politics",
+      "source": "SBS 뉴스",
+      "region": "kr",
+      "title": "이 대통령, 미국·멕시코 순방 출국…모레 유엔 기조연설",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008764514",
+      "publishedAt": "2026-09-21T13:36:00.000Z",
+      "description": "이재명 대통령이 미국 뉴욕 UN 총회 참석과 한-멕시코 정상회담을 위해 5박 7일 일정으로 오늘 오후 출국했습니다.이 대통령은 우리 시간으로 모…",
+      "author": "blue@sbs.co.kr (강청완 기자)",
+      "summary": "이재명 대통령이 유엔 총회 참석 및 기조연설과 한-멕시코 정상회담을 위해 미국과 멕시코를 5박 7일 일정으로 순방했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1861f0df5269",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "'총대 멘' 강훈식…청 인적 쇄신 신호탄",
+      "link": "https://www.khan.co.kr/article/202609212127005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-09-21T12:27:00.000Z",
+      "description": "강 실장, ‘인사 실패 책임’ 사의이 대통령, 사표 수리 가능성 커청 3실장 중 비서·정책 공석 돼국힘 “책임은 경기성남 라인이”심각 강훈식 대통령비서실장(왼쪽)이 21일 이재명 대통령을 따라 청와대 수석보좌관회의에 참석하기 위해 회의실에 입장하고 있다. 연합뉴스강훈식 대통령비서실장이 이재명 대통령에게 사의를 표명했다. 지지율 하락과 인사 난맥상으로 국정이···",
+      "author": "민서영 기자",
+      "summary": "강훈식 대통령비서실장이 인사 난맥상에 대한 책임을 지고 사의를 표명했으며, 이에 따라 청와대의 인적 쇄신이 본격화되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c3a30c4beac7",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "여인형 징역 18년…계엄군 지휘부 '중형'",
+      "link": "https://www.khan.co.kr/article/202609212126015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-09-21T12:26:01.000Z",
+      "description": "내란 중요임무종사 혐의 1심 재판이진우 15년·박안수 10년형 선고새 계획 수립 기한 넘겨12·3 내란 당시 부하들에게 여야 정치인 체포 등을 지시한 혐의를 받는 여인형 전 국군방첩사령관이 1심에서 징역 18년을 선고받았다. 함께 기소된 다른 장성급 장교들에게도 중형이 선고됐다.서울중앙지법 형사합의26부(재판장 이현경)는 21일 내란 중요임무종사 혐의로 기···",
+      "author": "최혜린 기자",
+      "summary": "여인형 전 국군방첩사령관이 12·3 내란 중요임무종사 혐의로 1심에서 징역 18년을 선고받았으며, 함께 기소된 다른 장성급 장교들도 중형을 받았다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d1c96ddca655",
+      "category": "politics",
+      "source": "연합뉴스 사회",
+      "region": "kr",
+      "title": "경북남부·울산 앞바다에 풍랑주의보",
+      "link": "https://www.yna.co.kr/view/AKR20260921179700527",
+      "publishedAt": "2026-09-21T12:06:43.000Z",
+      "description": "(울산=연합뉴스) 기상청은 21일 오후 11시를 기해 경북남부 앞바다에 풍랑주의보를 발효한다고 밝혔다.",
+      "author": "기상뉴스",
+      "summary": "기상청이 21일 오후 11시를 기해 경북남부 및 울산 앞바다에 풍랑주의보를 발효했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "258b4d62a1aa",
+      "category": "politics",
+      "source": "노컷뉴스",
+      "region": "kr",
+      "title": "케이크 만들다 보험 가입?…금감원, 무료강연·박람회 영업 '주의'",
+      "link": "https://www.nocutnews.co.kr/news/6581238",
+      "publishedAt": "2026-09-21T12:00:00.000Z",
+      "description": "케이크 만들기 등 무료 체험수업이나 박람회에서 보험 가입을 유도하는 과정에서 불건전 영업행위가 이어지자 금융감독원이 소비자 주의를 당부했다. 지난해 두 차례 소비자경보를 발령했지만 관련 민원이 계속되면서 지난달에는 불시 암행점검도 실시했다. 21일 금감원에 따르면 실제 케이크 만들기 수업에서 설계사가 별도의 사전 안내 없이 보험상품을 홍보하고, 상담 과정에서 휴대전화 사용까지 제한한 사례가 접수됐다. 중도 해지 시 원금 손실이 클 수 있다는 점과 저축에 적합하지 않은 상품이라는 사실도 제대로 설명하지 않았다. 베이비페어에서는 기존 보험을 깎아내리며 승환계약을 유도하고, 주요 특약의 만기 등 불리한 조건을 제대로 알리지 않은 사례도 있었다. 금감원은 보험 홍보·상담 단계에서 설계사의 소속과 성명을 확인하고, 무료 강연에서 보험 브리핑 참석을 원하지 않을 경우 이를 거부하거나 현장을 떠날 수 있다고 안내했다. 안내자료와 녹취, 문자·카카오톡 등 보험상품 설명자료도 챙겨야 한다. 상품 설명 단계에서는 설계사의 설명에만 의존하지 말고 가입 목적과 주요 특징을 충분히 확인해야 한다. 특히 종신보험은 사망을 주로 보장하는 상품으로 저축성 보험이 아닌 만큼, 저축이나 목",
+      "author": null,
+      "summary": "케이크 만들기 등 무료 체험 프로그램에서 설계사들이 부실한 상품 설명으로 보험 가입을 유도하자, 금감원이 소비자 주의를 당부하고 상담 거부 권리 등을 안내했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a7a79097381c",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "김민석 '볼수록 잘된 인사' 발언, 韓 정치역사 최대 망언 중 하나",
+      "link": "https://www.donga.com/news/Politics/article/all/20260921/134711683/1",
+      "publishedAt": "2026-09-21T11:23:00.000Z",
+      "description": "동아일보 정치 라이브 ＜정치를 부탁해＞- 일시: 월·수요일 오전 10~11시- 토크: 정광재 동연정치연구소장, 김성열 전 개혁신당 최고위원- 진행·연출: 강경석 심성주- 동아일보 유튜브 : www.youtube.com/@donga-ilbo 더불어민주당 김승원 의원의 법무부 장관 후보자 사퇴를 둘러싸고 청와대의 ‘인사검증 책임론’이 대두되는 가운데 김 후보자의 인선이 ‘톱 다운’ 방식으로 진행되면서 검증이 부실하게 이뤄졌을 것이라는 분석이 나왔다.김성열 전 개혁신당 최고위원은 21일 동아일보 유튜브 ‘정치를 부탁해’에 출연해 전직 보좌관들이 작성한 김 의원의 성추행과 음주운전 의혹 등을 담은 탄원서를 언급하며 “보좌진들에 대한 사안은 몇 명만 추려도 금방 나와 어려운 세평 조사가 아니다”며 “그럼에도 불구하고 검증이 이뤄지지 않은 것은 처음부터 조사할 의지가 별로 없었던 것”이라고 주장했다. 김 전 최고위원은 “인선이 톱 다운 방식으로 정해져 내려오면 보고서 5페이지 중 장",
+      "author": null,
+      "summary": "더불어민주당 김승원 의원의 법무부 장관 후보자 사퇴 사건에서 청와대의 톱다운 인선으로 인사 검증이 제대로 이루어지지 않았다는 비판이 제기되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f52cff86b931",
+      "category": "politics",
+      "source": "서울신문",
+      "region": "kr",
+      "title": "봉하에선 쌀을, 국회에선 전기를…김정호의 '현장에서 찾은 답'",
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20260921500371",
+      "publishedAt": "2026-09-21T09:49:46.000Z",
+      "description": "김정호 국회 기후에너지환경노동위원장은 3대 메가프로젝트에 필요한 전력을 충분히 공급하기 위한 핵심 조건으로 “태양광·해상풍력발전 등 재생에너지 보급 확대”를 꼽았다. 재생에너지의 간헐성을 보완할 에너지저장장치(ESS)와 양수발전을 확대하고, 노후 대형 원자력발전소의 수명 연장과 소형 원전 상용화도 병행해야 한다고 했다. 김 위원장은 21일 국회 본관 위원장실에서 진행한 서울신문과의 인터뷰에서 첨단산업 경쟁력을 키우기 위한 가장 큰 걸림돌로 “수도권에 집중된 전력 수요와 지방 해안지대에 몰린 공급 사이 불일치”를 지목했다. 그는 이어 “전력을 생산하는 곳에 수요자를 유치하는 구조로 바꿔가야 한다”며 국가기간 전력망 확충과 지역 내 분산형 전원 확대를 함께 추진해야 한다고 강조했다. 지역에서 생산한 전력을 지역에서 소비하는 ‘지산지소’(地産地消) 구상은 국가균형발전과도 맞닿아 있다. 김 위원장은 발전설비가 있는 지역에 공장이 들어서면 장거리 송전에 드는 비용과 시간을 줄이면서 지역 일자리도 늘릴 수 있다고 설명했다. 호남의 반도체 클러스터 역시 지역에 혜택을 주는 차원을 넘어, 재생에너지 공급 여력을 산업 경쟁력으로 연결하는 관점에서 봐야 한다는 것이다. 그는 ",
+      "author": "반영윤 기자",
+      "summary": "김정호 국회 기후에너지환경노동위원장이 첨단산업 경쟁력 강화를 위해 재생에너지 확대와 지산지소 원칙으로 지역 내 전력 순환을 추진해야 한다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a5d74354a42b",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "中칭다오서 한중 오케스트라 합동공연…'음악으로 마음 잇자'",
+      "link": "https://www.yna.co.kr/view/AKR20260921171400083",
+      "publishedAt": "2026-09-21T09:48:57.000Z",
+      "description": "(베이징=연합뉴스) 정성조 특파원 = 한중 음악가들이 중국 동부 산둥성 칭다오에서 합동 공연을 했다.",
+      "author": "정성조",
+      "summary": "한중 음악가들이 중국 산둥성 칭다오에서 합동공연을 개최하여 음악을 매개로 양국 간의 우의를 나누었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "446cdd773d6b",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "폭스바겐의 수모…유럽 우량주 지수서 퇴출",
+      "link": "https://www.yna.co.kr/view/AKR20260921185000082",
+      "publishedAt": "2026-09-21T14:59:27.000Z",
+      "description": "(베를린=연합뉴스) 김계연 특파원 = 유럽 최대 자동차업체 폭스바겐이 유럽 우량주 50개 종목을 모은 유로스톡스50 주가지수에서 퇴출되는 수모를...",
+      "author": "김계연",
+      "summary": "유럽 최대 자동차업체 폭스바겐이 유럽 우량주 50개 종목을 모은 유로스톡스50 주가지수에서 퇴출되는 것으로 알려졌다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "77aa733a89b7",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "온타리오주 회당 근처 총격전으로 경찰과 남성 부상",
+      "link": "https://www.theguardian.com/world/2026/sep/21/gunfire-belleville-ontario-synagogue-yom-kippur",
+      "publishedAt": "2026-09-21T14:56:58.000Z",
+      "description": "Officials say man was critically injured and officer was wounded in Yom Kippur incident near Belleville synagogue A police officer and a man were wounded in an exchange of gunfire on Sunday near a synagogue in Ontario as members of the Jewish community marked Yom Kippur, authorities said. The man was hospitalized in life-threatening condition. The Canadian province’s special investigations unit said the exchange of gunfire happened near the Sons of Jacob Synagogue in Belleville, Ontario, about 110 miles (160km) east of Toronto. Belleville police said the officer encountered the man at about 7.",
+      "author": "Associated Press",
+      "summary": "욤키푸르 기간 중 캐나다 온타리오주 벨빌의 회당 근처에서 경찰과 한 남성이 총격전을 벌였으며, 남성은 생명 위협 상태로 입원했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "da1febc56e46",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "파키스탄, 임란 칸 석방 시위 앞두고 누나들 3명 투옥",
+      "link": "https://www.theguardian.com/world/2026/sep/21/pakistan-jails-sisters-of-imran-khan-before-protest-seeking-his-release",
+      "publishedAt": "2026-09-21T14:48:49.000Z",
+      "description": "Police crack down on family and political supporters of former PM who say authorities are ‘slowly killing’ him in prison Three sisters of Pakistan’s incarcerated former prime minister Imran Khan have been arrested amid a heavy-handed government crackdown on plans for a nationwide protest to demand Khan’s release. The lawyer for the three sisters, Aleema Khan, Uzma Khan and Noreen Niazi, said on Monday that they had all been detained and jailed for 30 days under a warrant that accused them of being a threat to public order. Continue reading...",
+      "author": "Shah Meer Baloch in Islamabad and Hannah Ellis-Petersen in Delhi",
+      "summary": "파키스탄 정부가 구금된 전 총리 임란 칸의 석방을 촉구하는 시위를 앞두고 그의 누나들 3명을 체포하여 30일간 구금하기로 했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "63bde1263120",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "교황 \"인류·가족 유대 강화하는 AI 개발해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260921183400109",
+      "publishedAt": "2026-09-21T14:14:45.000Z",
+      "description": "(바티칸=연합뉴스) 민경락 특파원 = 레오 14세 교황은 21일(현지시간) \"모든 사람의 존엄에 기여하고 인류와 가족의 유대를 강화하는 인공지능...",
+      "author": "민경락",
+      "summary": "레오 14세 교황이 모든 사람의 존엄을 존중하고 인류·가족 간 유대를 강화하는 방향의 인공지능 개발을 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "917baa2461b7",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "예멘 전쟁 격화로 홍해 건너 탈출하는 주민들",
+      "link": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-21T14:14:16.000Z",
+      "description": "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti.",
+      "author": null,
+      "summary": "예멘의 후티 반군과 사우디 지원군 간 전쟁이 격화되면서 시민들이 홍해를 건너 지부티로 탈출하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3bc919ed8b59",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "동남아시아, 오랜 침체 벗은 핵발전 계획 추진",
+      "link": "https://www.dw.com/en/nuclear-power-is-back-on-southeast-asia-s-energy-agenda/a-79358744?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-09-21T13:47:00.000Z",
+      "description": "Rising electricity demand, shocks in energy security and climate commitments are reviving long-stalled plans for nuclear power across Southeast Asia. But proponents of nuclear energy still face major obstacles.",
+      "author": null,
+      "summary": "전력 수요 증가와 기후 공약으로 동남아시아 지역에서 오랜 침체에 있던 핵발전 계획이 재추진되고 있으나, 여전히 많은 장애물에 직면해 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0d756aae0065",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "남아프리카의 지속되는 여성 폭력, 법 이행 강화 필요",
+      "link": "https://www.dw.com/en/why-gender-based-violence-persists-in-southern-africa/a-79356560?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-09-21T13:42:00.000Z",
+      "description": "A series of killings in South Africa has renewed scrutiny of efforts to combat violence against women. Activists say laws alone are not enough without effective implementation.",
+      "author": null,
+      "summary": "남아프리카에서 여성 폭력 사건이 계속되고 있으며, 활동가들은 법 제정만으로는 부족하고 효과적 이행이 필요하다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "87e52ab09ceb",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "독일 메르츠의 정치 위기, 안정성 추구 위협",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgyz1n0v1xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-21T13:30:45.000Z",
+      "description": "Political shifts in Germany are being watched closely in Europe and beyond, Katya Adler writes.",
+      "author": null,
+      "summary": "독일의 정치 변화가 유럽과 국제사회의 주목을 받고 있으며, 메르츠 정치의 위기가 독일의 전통적 안정성 추구를 위협하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ce5400141890",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "현 분쟁에서의 UN 역할 - 전 부사무총장 인터뷰",
+      "link": "https://www.npr.org/2026/09/21/nx-s1-5974141/former-un-deputy-secretary-general-on-the-role-of-the-un-in-todays-biggest-conflicts",
+      "publishedAt": "2026-09-21T10:44:02.000Z",
+      "description": "NPR's Michel Martin speaks with former United Nations Deputy Secretary General Mark Malloch-Brown about the relevance of the U.N.",
+      "author": "Michel Martin",
+      "summary": "NPR이 전 유엔 부사무총장 마크 말로흐브라운(Mark Malloch-Brown)과 현재 주요 분쟁에서의 UN의 역할과 관련성에 대해 인터뷰했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f571ee7a8368",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "독일 총리 메르츠, 주 선거 패배 후에도 개혁 추진 의지 표명",
+      "link": "https://www.npr.org/2026/09/21/g-s1-144231/germany-state-elections-merz",
+      "publishedAt": "2026-09-21T09:00:00.000Z",
+      "description": "German Chancellor Freidrich Merz conceded that the night spells \"disaster\" for the political center, but assured the public he'd push ahead with his federal agenda of tax and welfare reforms.",
+      "author": "Esme Nicholson",
+      "summary": "독일의 프리드리히 메르츠(Friedrich Merz) 총리가 주 선거에서의 당의 패배를 인정하면서도, 세제·복지 개혁 등 연방 의제를 추진할 의지를 표명했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "728492be5cbd",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]홀몸 치매 노인 20만… 국가책임제 10년에 여전한 돌봄 공백",
+      "link": "https://www.donga.com/news/Opinion/article/all/20260921/134714959/2",
+      "publishedAt": "2026-09-21T14:30:00.000Z",
+      "description": "국내 치매 환자 5명 중 1명은 혼자 사는 치매 노인인 것으로 나타났다. 국민건강보험공단에 따르면 치매로 요양 등급을 받은 노인 가운데 ‘자택에서 동거인 없이 산다’고 응답한 수급자는 20만1529명이었다. 전체 치매 환자 약 100만 명의 20%가 넘는 규모가 누구의 돌봄도 받지 못한 채 방치됐다는 뜻이다. 다가오는 명절을 가장 외롭게 보낼 이들이 아닐까 한다. 정부는 2017년 65세 이상 모든 치매 환자가 노인장기요양보험 혜택을 받도록 하고, 전국에 치매안심센터를 설치하겠다는 ‘치매국가책임제’를 약속했다. 하지만 도입 10년째인 지금도 치매는 환자와 그 가족의 삶까지 무너뜨리는 형벌로 남아 있다. 치매 인프라가 양적으로는 팽창했으나 질적으로 부실해 돌봄 공백이 해소되지 않고 있기 때문이다. 치매 환자가 가장 중증인 장기 요양 1등급을 받아도 요양보호사의 방문 시간은 월 지원액을 고려하면 하루 최대 3∼4시간에 불과하다. 나머지 시간에 가족의 도움을 받을 수 없는 홀몸 치매",
+      "author": null,
+      "summary": "동아일보는 치매국가책임제 도입 10년이 지났음에도 20만 명의 홀몸 치매 노인이 최고 요양등급을 받아도 월 3~4시간 돌봄만 받는다고 지적하며, 인프라 양적 팽창에도 질적 부실로 돌봄 공백이 해소되지 않았다고 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "dbbf89e0a504",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]12·3 가담 장성들 1심 중형… '권력의 사병' 다신 없어야",
+      "link": "https://www.donga.com/news/Opinion/article/all/20260921/134714961/2",
+      "publishedAt": "2026-09-21T14:27:00.000Z",
+      "description": "12·3 비상계엄에 가담한 전직 군 고위 장성들이 줄줄이 중형을 선고받았다. 윤석열 전 대통령의 비상계엄 선포 1년 9개월 만이다. 서울중앙지법은 21일 내란중요임무종사 혐의 1심 재판에서 여인형 전 방첩사령관에게 18년, 이진우 전 수도방위사령관에게 15년, 문상호 전 정보사령관에게 12년, 박안수 전 육군참모총장에게 10년, 곽종근 전 특수전사령관에게 9년의 징역형을 선고했다. 이들은 비상계엄 당시 국회와 중앙선거관리위원회에 병력을 투입하고 정치인 체포조를 편성·운영한 혐의 등으로 재판에 넘겨졌다. 재판부는 이들 군 장성들이 윤 전 대통령의 위헌·위법한 비상계엄을 실행에 옮긴 책임을 무겁게 판단했다. 선고 형량은 특검팀이 구형한 징역 20∼30년에 비해 다소 적게 나오긴 했지만 이들의 내란 가담 혐의를 그대로 인정했다. 재판부는 “국가 존립을 위태롭게 하는 내란죄는 어떤 범죄와도 비교할 수 없을 만큼 중대하다”며 “피고인들은 군의 정치적 중립성을 저버리고 특정 세력을 위해 군",
+      "author": null,
+      "summary": "동아일보는 12·3 비상계엄에 가담한 장성들의 중형 판결이 내란죄의 중대성을 반영했다고 평가하며, 군의 정치적 중립성 훼손을 지적하고 권력의 사병화 재발 방지를 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0575a8e273b4",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "개인 노래방은 공동체 정신의 죽음... 펍의 집단 노래 부르기만이 참된 경험",
+      "link": "https://www.theguardian.com/commentisfree/2026/sep/21/the-hill-i-will-die-on-karaoke-sing-strangers-community-socialism",
+      "publishedAt": "2026-09-21T13:56:40.000Z",
+      "description": "Community, camaraderie, connection: I learned about all these things while hosting pub karaoke nights. Sticky private booths are their absolute antithesis On a gloomy Wednesday evening, my best friend and I decided we wanted to scratch our singing itch. We searched for a pub that was hosting karaoke but couldn’t find anything in our area. So we headed to the local branch of a well-known private-booth karaoke bar instead. But it wasn’t just the astounding £18 per hour (per person!) charge or the poor sound quality that made the whole experience so profoundly sad. Private karaoke booths are stic",
+      "author": "Kelli Blanchett",
+      "summary": "Kelli Blanchett는 개인 노래방 부스가 공동체와 동료애를 해치는 사회주의의 대척점이라고 비판하며, 펍에서의 집단 노래 부르기만이 대중을 위한 참된 경험이라고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "93275c7280e4",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "트럼프는 여전히 트럼프다",
+      "link": "https://www.nytimes.com/video/opinion/100000011156740/this-is-trump-its-always-been-trump.html",
+      "publishedAt": "2026-09-21T13:12:26.000Z",
+      "description": "Why do we not obsess over Donald Trump’s aging as much as we did Joe Biden’s? On “The Opinions,” the columnist Michelle Goldberg argues that Trump, with his all-night posting and constant scandals, is still the man America elected in 2016. What is changing, she says, is how threadbare his mythos is becoming.",
+      "author": null,
+      "summary": "Michelle Goldberg는 트럼프가 밤새 SNS 활동과 지속적인 스캔들로 2016년 당선인과 본질적으로 다르지 않다며, 변한 것은 그의 신화가 얼마나 허약해졌는지가 드러났다는 점이라고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9a2c3b09653f",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "억만장자 야만인들의 땅에서",
+      "link": "https://www.nytimes.com/2026/09/21/opinion/silicon-valley-culture-wasteland.html",
+      "publishedAt": "2026-09-21T13:11:35.000Z",
+      "description": "The center of the tech industry is culturally barren because wealthy executives have no interest in communities outside their fiefs.",
+      "author": "Arielle Pardes",
+      "summary": "Arielle Pardes는 테크 산업의 중심이 문화적으로 황폐한 이유를 부유한 경영진들이 자신의 영역 밖 공동체에 관심을 두지 않기 때문이라고 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c7c35c57f9f4",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "미 대법원의 투표권 판결... 진정한 시험은 앞으로",
+      "link": "https://www.theguardian.com/commentisfree/2026/sep/21/supreme-court-mail-in-ballot-ruling",
+      "publishedAt": "2026-09-21T13:00:00.000Z",
+      "description": "The court’s decision was based entirely on the timing of proposed new mail-in ballot rules. The larger question could re-emerge Last week’s supreme court decision upholding the district court’s restraining order on USPS’s mail-in ballot restrictions is being hailed as a victory for electoral integrity by politicians, political commentators and voting rights advocates alike. The senator Chuck Schumer, for example, called the decision “one of the most important cases to protect voting rights before the supreme court”. But the unsigned, three-sentence opinion, with only a brief concurrence and a ",
+      "author": "Claire Finkelstein",
+      "summary": "Claire Finkelstein은 대법원의 투표권 판결을 역사적 승리로 평가하는 것이 과장이라고 경고하며, 우편 투표 시기에만 초점을 맞춰 더 큰 논쟁의 근본 해결이 아니라고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d9813339ecc5",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "1.2조 달러의 주정부 용돈이 미국 성장을 저해한다",
+      "link": "https://www.washingtonpost.com/opinions/interactive/2026/09/21/how-us-government-became-states-piggy-bank/",
+      "publishedAt": "2026-09-21T11:30:00.000Z",
+      "description": "The U.S. government has become states’ piggy bank.",
+      "author": "Editorial Board",
+      "summary": "Washington Post의 사설진은 연방 정부가 주 정부의 '돼지저금통' 역할을 하며 1.2조 달러 규모의 지원이 미국의 경제 성장을 둔화시킨다고 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3faa908c285c",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "의회를 깨울 방법은",
+      "link": "https://www.washingtonpost.com/opinions/2026/09/21/joe-manchin-independent-candidates-could-improve-us-politics/",
+      "publishedAt": "2026-09-21T11:15:00.000Z",
+      "description": "Americans should consider voting independent in November. Here’s why.",
+      "author": "Joe Manchin III",
+      "summary": "Joe Manchin은 미국인들이 11월 선거에서 무소속 투표를 고려해야 한다고 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d18dd7df72d2",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[세상 읽기]기초연금은 줄일수록 좋은 제도? 정말 그런가",
+      "link": "https://www.khan.co.kr/article/202609212012015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-09-21T11:12:01.000Z",
+      "description": "변명할 구실이 별로 없다. 한국의 복지는 여전히 지출 수준으로도, 불평등 개선 효과로도 경제협력개발기구(OECD) 국가들 중 최하위권이다. 특히 노인에 대해 빈곤과 불평등을 낮추는 역할을 제대로 못하고 있다. 오래된 이야기이다. 시대에 따라 변명거리만 달라진다. 과거에는 복지제도의 ‘미성숙함’이나 소위 ‘선성장 후분배론’, 즉 충분히 성장해야 나눌 수 있다···",
+      "author": "주은선 경기대 사회복지학과 교수",
+      "summary": "주은선 교수는 기초연금을 줄이는 것이 좋은 정책이라는 주장을 반박하며, 한국의 복지가 OECD 국가 중 노인 빈곤·불평등 개선에서 최하위권이라고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5fb1070065ec",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[정동칼럼]패배를 끌어안아야 하는 이유",
+      "link": "https://www.khan.co.kr/article/202609212012005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-09-21T11:12:00.000Z",
+      "description": "한국 시간으로 지난 13일 아침에 열린 US오픈 테니스 여자 단식 결승전에서 엘레나 리바키나에게 패배한 아리나 사발렌카는 코트에 라켓을 내려쳐 부쉈다. 시상식이 준비되는 사이 자신을 촬영하는 카메라맨에게 손을 내저으며 욕설을 했고, 라커룸으로 돌아가 라켓 하나를 더 부숴 쓰레기통에 버렸다고 한다. 99주 동안 지켜온 세계랭킹 1위와 US오픈 3연속 우승을 ···",
+      "author": "유정훈 변호사",
+      "summary": "유정훈 변호사는 아리나 사발렌카의 US오픈 패배 후 욕설과 라켓 파괴 행동을 언급하며, 뛰어난 성과가 있더라도 패배를 성숙하게 받아들여야 한다고 주장했다.",
+      "summarySource": "llm"
+    }
+  ],
+  "summarizedAt": "2026-09-22T00:41:39.723Z",
+  "summaryStats": {
+    "llm": 50,
+    "fallback": 0,
+    "model": "claude-haiku-4-5"
+  }
+}
