@@ -1,0 +1,899 @@
+{
+  "date": "2026-09-22",
+  "generatedAt": "2026-09-23T00:02:28.079Z",
+  "categories": [
+    {
+      "id": "it",
+      "label": "IT·과학·AI"
+    },
+    {
+      "id": "economy",
+      "label": "경제·금융"
+    },
+    {
+      "id": "politics",
+      "label": "정치·사회"
+    },
+    {
+      "id": "world",
+      "label": "세계·국제"
+    },
+    {
+      "id": "editorial",
+      "label": "사설·칼럼",
+      "opinion": true,
+      "summaryMaxChars": 220
+    }
+  ],
+  "feedStatus": [
+    {
+      "source": "Ars Technica",
+      "category": "it",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "Hacker News",
+      "category": "it",
+      "ok": true,
+      "matched": 5
+    },
+    {
+      "source": "TechCrunch",
+      "category": "it",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "The Verge",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "블로터",
+      "category": "it",
+      "ok": true,
+      "matched": 19
+    },
+    {
+      "source": "전자신문",
+      "category": "it",
+      "ok": true,
+      "matched": 28
+    },
+    {
+      "source": "ZDNet Korea",
+      "category": "it",
+      "ok": true,
+      "matched": 20
+    },
+    {
+      "source": "BBC Business",
+      "category": "economy",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "The Guardian",
+      "category": "economy",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "매일경제 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 45
+    },
+    {
+      "source": "연합뉴스",
+      "category": "economy",
+      "ok": true,
+      "matched": 91
+    },
+    {
+      "source": "경향신문 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 42
+    },
+    {
+      "source": "경향신문 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 32
+    },
+    {
+      "source": "노컷뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "서울신문",
+      "category": "politics",
+      "ok": true,
+      "matched": 11
+    },
+    {
+      "source": "연합뉴스 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 62
+    },
+    {
+      "source": "연합뉴스 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 93
+    },
+    {
+      "source": "SBS 뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 11
+    },
+    {
+      "source": "Al Jazeera",
+      "category": "world",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC World",
+      "category": "world",
+      "ok": true,
+      "matched": 11
+    },
+    {
+      "source": "NPR",
+      "category": "world",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "The Guardian",
+      "category": "world",
+      "ok": true,
+      "matched": 10
+    },
+    {
+      "source": "연합뉴스 국제",
+      "category": "world",
+      "ok": true,
+      "matched": 49
+    },
+    {
+      "source": "매일경제 증권",
+      "category": "economy",
+      "ok": true,
+      "matched": 46
+    },
+    {
+      "source": "경향신문 오피니언",
+      "category": "editorial",
+      "ok": true,
+      "matched": 11
+    },
+    {
+      "source": "NYT Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "The Guardian Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 12
+    },
+    {
+      "source": "Washington Post Opinions",
+      "category": "editorial",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "동아일보 사설",
+      "category": "editorial",
+      "ok": true,
+      "matched": 13
+    },
+    {
+      "source": "동아일보 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 25
+    },
+    {
+      "source": "조선일보",
+      "category": "politics",
+      "ok": true,
+      "matched": 7
+    },
+    {
+      "source": "동아일보 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "머니투데이",
+      "category": "economy",
+      "ok": false,
+      "error": "fetch failed",
+      "matched": 0
+    },
+    {
+      "source": "Wired",
+      "category": "it",
+      "ok": true,
+      "matched": 25
+    },
+    {
+      "source": "DW News",
+      "category": "world",
+      "ok": true,
+      "matched": 17
+    }
+  ],
+  "items": [
+    {
+      "id": "7fa2fa20906c",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "BOE, IPC서 '15:1 종횡비' TGV 유리 코어 기판 전시",
+      "link": "https://zdnet.co.kr/view/?no=20260922233454",
+      "publishedAt": "2026-09-22T14:59:19.000Z",
+      "description": "[지디넷코리아][베이징(중국)=이기종 기자] BOE가 15대 1 종횡비(AR:Aspect Ratio) 유리관통전극(TGV) 유리 코어 기판을 22일 중국 베이징에서 개막한 자체 연례행사 'IPC 2026'에서 처음 공개했다. BOE는 그간 10대 1 종횡비 TGV 유리 코어 기판을 전시했다. 종횡비는 유리기판 두께(홀 깊이)를 홀 지름(직경)으로 나눈 값이다. 종횡비가 높으면 기판 두께에 비해 비아 홀 크기가 작아 고집적 상호연결 구현에 유리하다. BOE가 전시한 15대 1 종횡비 TGV 유리 코어 기판 두께는 1mm, TGV 직경은 67마이크로미터(μm)다. 1mm(1000μm)를 67μm로 나누면 14.92대 1, 반올림하면 15대 1이다. 빌드업 층수는 24층이다. BOE 관계자는 \"그간 외부에 전시했던 TGV 유리 코어 기판은 종횡비가 10대 1이었고, 빌드업 층수가 20층이었다\"며 \"올해 IPC에서 개선품을 선보였다\"고 밝혔다. BOE는 3년 전부터 반도체 유리기판 기술을 개발해왔다. 반도체 유리기판은 크게 유리 코어, 유리 인터포저, 유리 캐리어 등으로 나뉜다. 반도체 패키지 기판 내부의 유리 코어, 그리고 칩과 패키지 기판 사이의 유리 인터포저는",
+      "author": "이기종 기자",
+      "summary": "BOE가 종횡비 15대 1의 고집적 유리코어 기판을 공개했으며, 이는 기존 10대 1 제품에서 한 단계 진화한 것이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "04c2ebe9115c",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "진코스텍 \"수요가 공급 앞서\"…3공장 짓고 해외 넓힌다",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=674243",
+      "publishedAt": "2026-09-22T14:58:16.000Z",
+      "description": "하이드로겔 화장품 ODM 기업 진코스텍이 코스닥 이전상장을 계기로 생산능력 확대에 나선다. 현재 주력 생산라인이 사실상 풀가동에 들어간 만큼 공모자금을 투입해 3공장을 구축하고 추가 수요를 매출로 연결하겠다는 구상이다. 해외에서는 북미를 넘어 유럽과 동남아로 고객 기반을 넓힌다. 하이드로겔 성장세에 가동률 100% 안팎김임준 진코스텍 대표는 22일 열린 IPO 기자간담회에서 “지금 시장은 수요가 공급을 훨씬 앞서고 있어 상당히 밝은 상태”라며 “하이드로겔 시장은 아직 초기 단계인 만큼 다른 업체와 경쟁하기보다 시장의 파이를 함께 키",
+      "author": "정유진 기자",
+      "summary": "하이드로겔 화장품 ODM 업체 진코스텍이 코스닥 이전상장을 앞두고 생산능력 확대를 위해 3공장을 건설하고 해외 고객 기반을 넓히겠다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "dfd1d2a423f9",
+      "category": "it",
+      "source": "Hacker News",
+      "region": "intl",
+      "title": "오픈AI가 Jev를 빠르게 따라잡을 위치에 있다",
+      "link": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
+      "publishedAt": "2026-09-22T14:42:59.000Z",
+      "description": "Article URL: https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/ Comments URL: https://news.ycombinator.com/item?id=49802161 Points: 249 # Comments: 186",
+      "author": "JohnBerryman",
+      "summary": "오픈AI가 경쟁사 Jev를 빠르게 따라잡을 수 있는 위치에 있다는 분석이 제시되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e71b03c98eee",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "일자리 감소 우려로 독일 자동차산업 시위 확산",
+      "link": "https://arstechnica.com/cars/2026/09/protests-for-germanys-car-industry-as-job-losses-loom/",
+      "publishedAt": "2026-09-22T14:40:47.000Z",
+      "description": "A combination of Chinese competition and US tariffs is causing problems in Germany.",
+      "author": "Jonathan M. Gitlin",
+      "summary": "중국과의 경쟁, 미국 관세로 인한 문제에 직면한 독일 자동차산업에서 일자리 감소 시위가 확산하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0248dc56dafa",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "테크크런치 디스럽트 2026: 헬로 로봇의 Stretch 4 무대 시연",
+      "link": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
+      "publishedAt": "2026-09-22T14:30:00.000Z",
+      "description": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off.",
+      "author": "TechCrunch Events",
+      "summary": "헬로 로봇의 CEO 에런 에드싱거가 테크크런치 디스럽트 2026에서 스트레치 4 로봇을 라이브로 시연할 예정이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7320a947be23",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "SKC, 앱솔릭스 유상증자에 921억 추가 투입…유리기판 상용화 박차",
+      "link": "https://zdnet.co.kr/view/?no=20260922170144",
+      "publishedAt": "2026-09-22T13:28:07.000Z",
+      "description": "[지디넷코리아]SKC가 차세대 유리기판 사업 추진력을 높이기 위해 자회사 앱솔릭스 유상증자에 추가 참여한다. SKC는 22일 앱솔릭스 유상증자에 921억원을 추가 청약한다고 22일 밝혔다. 이번 결정으로 앱솔릭스에 대한 SKC의 전체 청약 규모는 3731억원으로 늘어났다.투자 재원은 SKC가 올해 상반기 1조 1671억원 규모 유상증자로 확보한 자금에서 조달한다. 앞서 SKC는 확보된 재원 중 5900억원을 향후 3년간 유리기판 사업에 투입하겠다는 계획을 밝힌 바 있다. 이번 증자로 4000억원 규모 자금을 확보한 앱솔릭스는 임베딩(Embedding) 유리기판과 논임베딩(Non-Embedding) 유리기판을 동시 개발한다. 임베딩은 기판 내부에 커패시터 등 수동소자를 삽입한 제품이다. 공간 활용도가 높고 패키지 설계 자유도가 커서 고집적 인공지능(AI) 반도체에 적합하다. 논임베딩은 기존 플립칩-볼그리드어레이(FC-BGA)에 사용하는 유기 소재 코어를 유리로 대체하는 방식이다. 유리의 낮은 휨 특성과 높은 평탄도를 활용해 기판 변형을 줄이고 미세회로 구현을 돕는다. 미국 조지아 공장에서 생산한 임베딩 유리기판 샘플은 사전 평가를 통과하고 신뢰성 평가에 들어갔",
+      "author": "진운용 기자",
+      "summary": "SKC가 유리기판 상용화를 위해 자회사 앱솔릭스 유상증자에 921억원을 추가 투입하며 총 청약 규모는 3731억원에 달한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a74093cdcf8b",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "어도비 프리미어, 안드로이드 출시",
+      "link": "https://www.wired.com/story/adobe-premiere-now-on-android/",
+      "publishedAt": "2026-09-22T13:00:00.000Z",
+      "description": "The Android version of Premiere has unique layouts on candy bar phones and foldable devices. It’s free to use and available today.",
+      "author": "Julian Chokkattu",
+      "summary": "어도비 프리미어가 안드로이드에 출시되었으며, 폴더블 기기 등에 최적화된 레이아웃을 제공한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e0f392947b79",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "뷰처 원더 글래스, 카메라 없이 음성으로 일상을 담다",
+      "link": "https://www.wired.com/story/viture-vonder-glasses-are-meant-to-map-your-mind/",
+      "publishedAt": "2026-09-22T13:00:00.000Z",
+      "description": "No cameras? No problem. Viture’s first display-free smart glasses have bone-conduction microphones to privately record your daily musings.",
+      "author": "Boone Ashworth",
+      "summary": "뷰처가 카메라 없이 뼈전도 마이크로 일상을 녹음하는 디스플레이 없는 스마트 안경을 출시했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b3f698508e8c",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "\"하룻밤 새 한국 팬 잃었다\"…파격? 망측? 의상 입었다가 해명까지 한 日 가수",
+      "link": "https://www.etnews.com/20260922000507",
+      "publishedAt": "2026-09-22T12:47:51.000Z",
+      "description": "일본 록밴드 노벨브라이트(Novelbright)의 보컬 다케나카 유다이가 파격적인 무대 의상으로 일부 한국 팬들의 비판을 받은 가운데 직접 해명에 나섰다. 논란은 최근 일본 '이나즈마 록 페스' 무대에서 불거졌다. 유다이는 이날 T.M.Revolution의 대표곡 'HOT LIMIT'을 커버하며 원곡자인 니시카와 타카노리에게 직접 빌린 의상을 입고 무대에 올랐다. 공연 이후 유다이가 무대 사진과 영상을 공개하자 일부 한국 팬들이 낯선 의상에 놀",
+      "author": "이상목",
+      "summary": "일본 락밴드 노벨브라이트의 보컬이 파격적인 무대 의상으로 한국 팬들의 비판을 받았으나 직접 해명에 나섰다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5e8e6cd77a9e",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "\"술은 이제 그만\"…美 Z세대도 술 안마시는데, 5060이 부어라 마셔라?",
+      "link": "https://www.etnews.com/20260922000481",
+      "publishedAt": "2026-09-22T08:55:00.000Z",
+      "description": "미국에서 젊은 세대를 중심으로 음주를 줄이려는 분위기가 확산하는 가운데 중장년층에서는 오히려 과음이 늘고 있는 것으로 나타났다. 특히 18~29세의 음주 비중은 2년 만에 5% 이상 떨어진 반면 50~64세의 과음 비율은 6년 사이 36% 넘게 상승했다. 21일(현지시간) CNN은 미국 서던캘리포니아대(USC) 의과대학 브라이언 리 교수 연구팀이 미국 성인의 음주 행태 변화를 분석한 연구 결과를 보도했다. 해당 논문은 의학 학술지 '내과학 연보",
+      "author": "이원지",
+      "summary": "미국에서 18~29세의 음주 비중이 감소한 반면 50~64세의 과음 비율은 대폭 상승했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "54d63a996d5c",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "닉 클래그, 데이터센터 Nscale 상장으로 40억 원대 수익 예상",
+      "link": "https://www.theguardian.com/business/2026/sep/22/nick-clegg-30m-windfall-datacentre-flotation-nscale",
+      "publishedAt": "2026-09-22T14:57:46.000Z",
+      "description": "The former UK deputy prime minister is a board member of the UK-based company and owns 917,000 shares Nick Clegg could make approximately $40m (£30m) from the planned float of Nscale as the UK-based datacentre company prepares for a US stock market listing. The former UK deputy prime minister owns more than 917,000 shares in the startup, which is reportedly seeking a valuation of up to $35bn in a flotation. Based on Clegg’s stake of 0.12%, that could yield a valuation of about $42m for the ex-Liberal Democrat party leader. Continue reading...",
+      "author": "Dan Milmo Global technology editor",
+      "summary": "전 영국 부총리 닉 클래그가 보유한 데이터센터 스타트업 Nscale의 미국 상장으로 약 40억 파운드의 수익 기대한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "23867c9763b6",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "다올투자증권, 美온라인증권사 플랫폼 기반 'Fi PRO' 출시",
+      "link": "https://www.mk.co.kr/news/stock/12159873",
+      "publishedAt": "2026-09-22T14:27:31.000Z",
+      "description": "글로벌 주문집행 인프라 연결 중간가 주문 등 8종 주문 지원 뉴스 80곳·애널평가 5500개 글로벌 정보·기능 풍부 강점다올투자증권이 미국 온라인 증권사 인터랙티브브로커스(IBKR..",
+      "author": "매일경제",
+      "summary": "다올투자증권이 인터랙티브브로커스(IBKR) 플랫폼을 활용한 'Fi PRO' 서비스를 출시했으며, 8종의 주문 방식과 5500개의 애널리스트 평가 정보를 제공한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7f5058492e5a",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "영국 정부 8월 차입금 급증…증세 압력 가중",
+      "link": "https://www.theguardian.com/business/2026/sep/22/uk-government-borrowing-john-healey-budget-bond-markets",
+      "publishedAt": "2026-09-22T14:04:46.000Z",
+      "description": "Some economists say it is now ‘inevitable’ that chancellor will need to raise taxes in the budget next month The UK government borrowed a higher-than-expected £18.3bn last month, increasing the pressure on John Healey as he attempts to calm jittery bond markets before next month’s budget. Some economists said it was “inevitable” that the chancellor would need to raise taxes on 28 October if he is to meet demands for extra spending on defence without further borrowing from investors on international money markets. Continue reading...",
+      "author": "Phillip Inman",
+      "summary": "영국 정부가 8월에 예상보다 높은 183억 파운드를 차입했으며, 10월 예산 편성을 앞둔 재정부장관이 증세의 필요성을 마주했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0bf0424f8da6",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "[속보] 나스닥 장중 '사상 최고치' 찍었다…미·이란 회담 기대에 4개월만",
+      "link": "https://www.mk.co.kr/news/stock/12159859",
+      "publishedAt": "2026-09-22T13:39:24.000Z",
+      "description": "미국 뉴욕증시가 22일(현지시간) 상승세로 출발했다. 기술주 중심의 나스닥지수는 장중 사상 최고치를 갈아치웠다. 투자자들은 6개월째 이어진 미국과 이란 간 전쟁을 끝낼 돌파구가 마..",
+      "author": "매일경제",
+      "summary": "나스닥지수가 4개월 만에 사상 최고치를 기록했으며, 미·이란 회담 기대감이 상승을 주도했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1a7aec5b74aa",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "파라마운트, 미국 주와의 소송 합의…워너브라더스와의 1100억 달러 합병 진행",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T11:24:48.000Z",
+      "description": "The deal includes an agreement to produce 30 films a year, or Paramount will be forced to sell off parts of its company.",
+      "author": null,
+      "summary": "파라마운트가 미국 주 정부와의 소송을 합의하면서 워너브라더스와의 1100억 달러 규모 합병이 진행 가능해졌다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a25fe4b3a6ef",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "메가특구 사회적 대화 본격화…주 1∼2회 실무협의체 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260922191700530",
+      "publishedAt": "2026-09-22T11:21:34.000Z",
+      "description": "(서울=연합뉴스) 옥성구 기자 = 노사정이 메가특구특별법 내 노동 특례 논의를 위한 '원 포인트 사회적 대화' 첫 실무협의체를 열어 운영 일정 ...",
+      "author": "옥성구",
+      "summary": "노동부·사용자·근로자 대표가 메가특구 노동 특례 논의를 위해 주 1~2회 실무협의체를 개최하기로 합의했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "037cdfa4ce0c",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "영국 수의료 비용 상한제 도입…처방전 수수료 21파운드로 제한",
+      "link": "https://www.bbc.co.uk/news/videos/cmn8eqg2v2xyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T10:57:42.000Z",
+      "description": "Written prescription fees from vets will be capped at £21 as part of a raft of changes that practices will be legally required to bring in over the coming months.",
+      "author": null,
+      "summary": "수의사의 처방전 발급 수수료가 21파운드로 상한선이 설정되며, 진료소들은 향후 이 규정을 법적으로 준수해야 한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c059425984f8",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "'회생절차' 제이알글로벌리츠, 감사의견 '거절'…상폐 사유 발생",
+      "link": "https://www.yna.co.kr/view/AKR20260922188400008",
+      "publishedAt": "2026-09-22T10:23:53.000Z",
+      "description": "(서울=연합뉴스) 정회인 기자 = 회생절차를 밟고 있는 제이알글로벌리츠[348950]가 외부감사인으로부터 감사의견 '거절'을 받으면서 상장폐지 ...",
+      "author": "정회인",
+      "summary": "회생절차를 진행 중인 제이알글로벌리츠가 외부감사인으로부터 감사의견 거절을 받으면서 상장폐지 사유가 발생했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "70f8b3d38fbe",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "\"미·일 금리 더 간다…포트폴리오 재구성할 때\" [딥 머니 토크]",
+      "link": "https://www.mk.co.kr/news/world/12159721",
+      "publishedAt": "2026-09-22T09:27:17.000Z",
+      "description": "백석현 신한은행 이코노미스트 인터뷰최근 두 달 새 원화 가치가 급격한 강세를 보이고 있다. 지난 7월 한때 달러당 1550원까지 떨어졌던 원화값은 두 달여 만에 15% 가까이 뛰며..",
+      "author": "매일경제",
+      "summary": "신한은행 이코노미스트는 미·일 금리 인상 지속에 대비한 포트폴리오 재구성을 권고했으며, 최근 원화가 15% 가까이 강세를 보였다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "044352a7250d",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "신규 원전 찬성 80% 넘는데 또 공론화?…'3개월 숙의' 돌입하는 정부",
+      "link": "https://www.mk.co.kr/news/economy/12159707",
+      "publishedAt": "2026-09-22T09:05:01.000Z",
+      "description": "11명 이내로 위원회 구성 “중립 인사 위원장 위촉” 시민참여단 통해 공론화 12차 전기본도 늦어질듯기후에너지환경부가 12차 전력수급기본계획에 담길 신규 원전 추가 방안을 확정 짓..",
+      "author": "매일경제",
+      "summary": "신규 원전 추가에 대한 국민 찬성이 80% 이상이나, 정부는 12차 전력수급기본계획 반영을 위해 3개월간의 공론화 절차를 시작했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f70cd8e5b880",
+      "category": "politics",
+      "source": "SBS 뉴스",
+      "region": "kr",
+      "title": "[단독] 선거철 '딥페이크' 지운다더니…32%가 '미삭제'",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008766527",
+      "publishedAt": "2026-09-22T14:57:00.000Z",
+      "description": "선거 때 AI 기술로 '딥페이크' 영상을 만들어 사용하면 불법입니다. 선관위가 구글이나 메타에 삭제 요청을 하곤 있지만, 지난 6…",
+      "author": "cbcb@sbs.co.kr (박찬범)",
+      "summary": "선거 시 불법 딥페이크 영상 삭제를 요청했으나 구글, 메타 등에서 32%가 여전히 미삭제 상태로 남아 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9b182e48967b",
+      "category": "politics",
+      "source": "조선일보",
+      "region": "kr",
+      "title": "세금보다 무서운 '4대 보험료 인상' 밀려온다",
+      "link": "https://www.chosun.com/opinion/specialist_column/2026/09/22/2E2IM2JWQVBFNM3SQCRT62MYJY/",
+      "publishedAt": "2026-09-22T14:32:00.000Z",
+      "description": "",
+      "author": "전영수 한양대 국제대학원 교수",
+      "summary": "정부가 세금 인상 외에 국민 부담을 증가시킬 4대 보험료 인상을 추진 중이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a456d3e915ea",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "[속보] 李대통령, 이소영 중기장관·이정현 대검차장 임명안 재가",
+      "link": "https://www.yna.co.kr/view/AKR20260922198600001",
+      "publishedAt": "2026-09-22T14:21:11.000Z",
+      "description": "(",
+      "author": "임형섭",
+      "summary": "이재명 대통령이 이소영 중소벤처기업부 장관과 이정현 대검찰청 차장의 임명안을 재가했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e44562e2b09a",
+      "category": "politics",
+      "source": "서울신문",
+      "region": "kr",
+      "title": "이 대통령, 중기부 장관·대검찰청 차장 임명안 재가",
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20260922500313",
+      "publishedAt": "2026-09-22T14:19:02.000Z",
+      "description": "유엔 총회 참석차 미국 뉴욕을 방문 중인 이재명 대통령은 22일(현지시간) 국회 인사청문경과보고서가 채택된 이소영 중소벤처기업부 장관과 이정현 대검찰청 차장에 대한 임명안을 재가했다고 강유정 청와대 수석대변인이 밝혔다. 앞서 이 대통령은 현지시간 전날 이형일 부총리 겸 재정경제부 장관과 강신철 국방부 장관, 홍지선 국토교통부 장관에 대한 임명안을 재가하기도 했다.",
+      "author": "뉴욕 김진아 기자",
+      "summary": "이재명 대통령이 뉴욕 유엔 총회 방문 중 이소영 중소벤처기업부 장관과 이정현 대검찰청 차장 임명안을 재가했으며, 전날 부총리와 국방부, 국토교통부 장관 임명안도 재가했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "27b834bca3cb",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "조현, UAE 외교장관과 회담…\"중동 평화 회복 희망\"",
+      "link": "https://www.yna.co.kr/view/AKR20260922198200504",
+      "publishedAt": "2026-09-22T14:04:50.000Z",
+      "description": "(서울=연합뉴스) 민선희 기자 = 조현 외교부 장관은 21일(현지시간) 미국 뉴욕에서 압둘라 빈 자이드 알나흐얀 아랍에미리트(UAE) 외교장관과...",
+      "author": "민선희",
+      "summary": "조현 외교부 장관이 뉴욕에서 UAE 외교장관과 회담하며 중동 평화 회복에 대한 희망을 표현했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "62223b90dab6",
+      "category": "politics",
+      "source": "연합뉴스 사회",
+      "region": "kr",
+      "title": "'나를 해치려 해' 망상에 집주인 모자에 흉기 휘두르고 방화 시도 70대",
+      "link": "https://www.yna.co.kr/view/AKR20260922197600063",
+      "publishedAt": "2026-09-22T14:01:35.000Z",
+      "description": "(대전=연합뉴스) 변선진 기자 = 대전 한 다세대주택에서 집주인 모자에게 흉기를 휘두르고 불을 지르려 한 70대가 경찰에 붙잡혔다.",
+      "author": "변선진",
+      "summary": "망상 상태의 70대가 대전의 다세대주택에서 집주인 모자에게 흉기를 휘두르고 방화를 시도했다가 경찰에 붙잡혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6773881abf80",
+      "category": "politics",
+      "source": "연합뉴스 사회",
+      "region": "kr",
+      "title": "2호선 이대역 화재로 인한 무정차 통과 종료…정상 운행 재개",
+      "link": "https://www.yna.co.kr/view/AKR20260922192952004",
+      "publishedAt": "2026-09-22T13:27:15.000Z",
+      "description": "(서울=연합뉴스) 윤민혁 기자 = 22일 저녁 서울 지하철 2호선 이대역에서 기계실에 불이 난 뒤 승강장 안전문(스크린도어) 오작동까지 발생해 ...",
+      "author": "윤민혁",
+      "summary": "서울 지하철 2호선 이대역 기계실 화재로 스크린도어 오작동이 발생했으나 정상 운행이 재개되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5614ce5d12af",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "\"재제청 거부\"…청과 '극한 갈등' 택한 조희대",
+      "link": "https://www.khan.co.kr/article/202609222115015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-09-22T12:15:01.000Z",
+      "description": "조 대법원장, 25일 만에 침묵 깨고 “헌법적 근거 부족”전격 발표 청 “헌법 위배 인식, 대통령 임명권 무력화”…대법관 인선 대립퇴근하는 조 대법원장 청와대의 대법관 후보 재제청 요청에 응할 수 없다는 입장을 밝힌 조희대 대법원장이 22일 서울 서초구 대법원에서 퇴근하고 있다. 문재원 기자조희대 대법원장이 22일 청와대의 대법관 후보자 재제청 요구를 공식···",
+      "author": "김정화 기자",
+      "summary": "조희대 대법원장이 청와대의 대법관 후보 재제청 요청을 공식 거부하며 양측의 갈등이 심화되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ac5fb181c79d",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "제청권-임명권 정면 충돌…대법관 공백 장기화 우려",
+      "link": "https://www.donga.com/news/Politics/article/all/20260922/134719347/1",
+      "publishedAt": "2026-09-22T12:13:00.000Z",
+      "description": "청와대에서 김성수 대법관의 임명장 수여식이 있었던 21일 오전 조희대 대법원장은 수여식 뒤 이재명 대통령과 차담회를 가졌다. 청와대가 지난달 28일 노태악 전 대법관 후보자 재제청을 요구한 뒤 처음으로 이 대통령과 조 대법원장이 비공개로 마주 앉은 것.그러나 하루 뒤인 22일 조 대법원장은 입장문을 내고 “재제청 요청 문서에는 구체적인 사유와 헌법적 근거가 적혀 있지 않다”며 재제청을 거부했다. 청와대와 여권이 반대했던 ‘새 후보군 추천’에서 한 발 더 나아가 재제청 자체를 하지 않겠다는 초강수를 둔 셈이다. 청와대는 “헌법에 위배되는 인식”이라며 즉각 반발했다. 대법관 후보 제청권을 앞세운 조 대법원장과 대통령의 임명권을 강조하는 청와대의 갈등이 극단으로 치달으면서 200일 넘게 이어진 대법관 공백 사태가 장기화될 수 있다는 우려도 나온다.● 法 “헌법상 근거 없어” vs 靑 “헌법적 근거 밝혀”당초 법원 안팎에서는 청와대의 재제청 요구에 따라 조 대법원장이 대법관후보추천위원회를",
+      "author": null,
+      "summary": "조희대 대법원장의 재제청 거부로 청와대와의 제청권·임명권 갈등이 극단화되어 200일 이상 지속된 대법관 공백 사태가 장기화될 우려가 나왔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d68b0033fe1c",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "청 \"대통령 재제청 요청이 흠결 있는 듯 왜곡 발표\" 격앙",
+      "link": "https://www.khan.co.kr/article/202609222110005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-09-22T12:10:00.000Z",
+      "description": "조 “문서에 총리 부서 부재” 주장 반박…여 “쿠데타” 사퇴 촉구조희대 대법원장이 대법관 후보 재제청 요청을 거부하자 청와대는 “대한민국 헌법에 위배되는 인식”이라며 유감을 표명했다. 여당은 “쿠데타적 행태”라며 조 대법원장 사퇴를 촉구했다.청와대 관계자는 22일 “대통령의 제청 반려에도 불구하고 노태악 전 대법관 후임 대법관 후보자를 재제청하지 않겠다는 ···",
+      "author": "김윤나영 기자",
+      "summary": "조희대 대법원장의 재제청 거부에 청와대는 헌법 위배 주장을 반박하고 여당은 조 대법원장 사퇴를 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7043834d9e96",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "트럼프 \"이란과 합의냐 전멸이냐 결정해야…선거뒤 합의할 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260922199700071",
+      "publishedAt": "2026-09-22T14:59:23.000Z",
+      "description": "(워싱턴=연합뉴스) 백나리 이유미 특파원 = 도널드 트럼프 미국 대통령은 22일(현지시간) 이란전 상황과 관련해 이란과 합의할지, 아니면 이란을...",
+      "author": "이유미",
+      "summary": "트럼프 대통령이 이란과의 관계에서 합의 또는 대면 중 하나를 선택해야 하며, 선거 이후에 합의할 계획이라고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "95d588435889",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "[속보] 트럼프 \"필요시 서반구서 압도적 미군 군사력 동원할 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260922199800071",
+      "publishedAt": "2026-09-22T14:55:06.000Z",
+      "description": "(",
+      "author": "백나리",
+      "summary": "트럼프 대통령이 필요시 서반구에서 압도적인 미군 군사력을 동원하겠다고 발표했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "33872ac4dc71",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "중립 장소와 원정팬 금지 - 이스라엘 vs 아일랜드 경기가 논쟁이 된 이유",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T14:23:39.000Z",
+      "description": "BBC Sport explores the backdrop to the Republic of Ireland's matches against Israel, amid fraught tensions between the nations.",
+      "author": null,
+      "summary": "양국 간 긴장 속에서 아일랜드의 이스라엘전이 중립 장소에서 원정팬 없이 진행되는 등 분쟁이 되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b832287a8167",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "BBC 베테랑 아프리카 특파원 마크 도일 67세로 사망",
+      "link": "https://www.bbc.co.uk/news/articles/cq986214den3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T14:16:42.000Z",
+      "description": "Doyle was best known for reporting on African conflicts in the 1990s and 2000s, notably in Rwanda and Sierra Leone.",
+      "author": null,
+      "summary": "1990~2000년대 아프리카 분쟁을 주로 보도한 BBC의 베테랑 특파원 마크 도일이 67세로 사망했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "97419012c992",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "독일 스팡달렘 미군기지 인근에서 군용기 추락",
+      "link": "https://www.dw.com/en/military-aircraft-crashes-near-us-air-base-in-spangdahlem-germany/a-79376025?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-09-22T14:12:00.000Z",
+      "description": "The F-16 pilot was able to safely eject from the plane and was taken to receive medical care. The incident occurred near Spangdahlem Air Base in the German state of Rhineland-Palatinate.",
+      "author": null,
+      "summary": "독일 라인란트팔츠 주 스팡달렘 미군기지 인근에서 F-16 전투기가 추락했지만 조종사는 안전하게 탈출했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ba27c71614a0",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "미중 AI 경쟁: 트럼프가 신규 태스크포스와 AI 특사 임명으로 인공지능 규제 추진하나?",
+      "link": "https://www.dw.com/en/us-china-ai-race-does-trump-want-to-regulate-ai-by-forming-a-new-task-force-and-a-special-envoy-for-artificial-intelligence-in-the-us/a-79372591?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-09-22T14:04:00.000Z",
+      "description": "Do Trump's task force and a special envoy for artificial intelligence in the US indicate a move toward regulating this disputed technology, particularly vis-a-vis China?",
+      "author": null,
+      "summary": "트럼프가 인공지능 태스크포스와 특사 임명으로 중국과의 경쟁을 고려하며 AI 기술 규제를 추진하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "31fb48168202",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "예멘에서 후티 운동권이 홍해 해안 고지 장악을 위해 전투, 최대 169명 사망",
+      "link": "https://www.theguardian.com/world/2026/sep/22/yemen-houthis-battle-strategic-red-sea-heights",
+      "publishedAt": "2026-09-22T13:57:36.000Z",
+      "description": "Thousands flee fighting as Iran-aligned group seeks to consolidate territorial gains against Saudi-backed government forces Middle East live – latest updates As many as 169 people have been reportedly killed in Yemen in the last three days as Iran-aligned Houthis battle Saudi-backed government forces for control of strategic heights on the Red Sea coast, while thousands flee the violence. Houthi military officials said at least 118 people had been killed in clashes as well as Saudi air and artillery strikes on Taiz, al-Jawf, Marib and Saada provinces since Sunday, Agence France-Presse reported",
+      "author": "William Christou in Beirut",
+      "summary": "이란과 연계된 후티 운동권이 사우디 연계 정부군과 홍해 해안의 전략적 고지를 두고 벌인 3일간의 전투로 최대 169명이 사망하고 수천 명이 피난했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "edc41b255b5e",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "영국 은행들, 영국 무역 금지 시작 전 이스라엘 정착촌 투자 자제 경고받아",
+      "link": "https://www.theguardian.com/politics/2026/sep/22/mps-uk-banks-investment-israeli-settlement-trade-ban",
+      "publishedAt": "2026-09-22T13:43:41.000Z",
+      "description": "MPs send out letter as Israeli government seeks bids for construction of large E1 settlement in West Bank British banks and financial institutions are receiving written warnings from MPs that they should not invest in Israel’s E1 settlement project even though new UK laws banning trade with illegal settlements are unlikely to be in place for months. A letter was sent to banks on Tuesday by the all-party Britain-Palestine group of MPs saying the onus was now on banks to review their obligations not to cooperate with new settlements. Continue reading...",
+      "author": "Patrick Wintour Diplomatic editor",
+      "summary": "영국 의원들이 이스라엘의 E1 정착촌 프로젝트에 투자하지 말 것을 영국 은행들에 경고했으며, 이는 영국의 불법 정착촌 무역 금지법 시행 수 개월 전의 조치다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "cdb58649d431",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "스리랑카 법원, 2019년 부활절 테러 관련자 15명 유죄 판결",
+      "link": "https://www.npr.org/2026/09/22/g-s1-144514/sri-lanka-court-convicts-15-over-deadly-2019-easter-bombings",
+      "publishedAt": "2026-09-22T13:30:01.000Z",
+      "description": "The Islamic State group-inspired attacks were among the deadliest in Sri Lanka's history, killing 42 foreigners.",
+      "author": "The Associated Press",
+      "summary": "스리랑카 법원이 2019년 부활절 공격 관련자 15명에게 유죄를 선고했으며, 이 공격은 42명의 외국인을 포함해 스리랑카 역사상 가장 극악의 테러 중 하나였다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e4b6d9e29090",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "CNN, MS NOW, 폴리티코가 트럼프 상대 소송 제기, 파라마운트는 인수합병 소송 합의",
+      "link": "https://www.npr.org/2026/09/22/g-s1-144512/up-first-newsletter-press-lawsuit-cnn-msnow-politico-unga-trump-speech-paramount-deal",
+      "publishedAt": "2026-09-22T11:01:01.000Z",
+      "description": "CNN, MS NOW and Politico have sued Trump after the networks were suspended from the White House. And, Paramount makes concessions to resolve a lawsuit over its massive Warner Bros. Discovery merger.",
+      "author": "Brittney Melton",
+      "summary": "CNN, MS NOW, 폴리티코가 백악관 출입 중단 이후 트럼프를 상대로 소송을 제기했으며, 파라마운트는 워너브로스 디스커버리 인수 관련 소송에 합의했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8a9c28d1361f",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "인공지능이 과학에 미치는 위험",
+      "link": "https://www.nytimes.com/2026/09/22/opinion/artificial-intelligence-ai-danger.html",
+      "publishedAt": "2026-09-22T14:51:41.000Z",
+      "description": "Beware the flashy but unproven A.I.-powered advances.",
+      "author": "Zeynep Tufekci",
+      "summary": "과학 분야에서 검증되지 않은 화려한 AI 기술 발전을 경계해야 한다고 주장했습니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "4dc6dda13c44",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "NATO를 구하려면 미국 국민을 설득하라",
+      "link": "https://www.theguardian.com/commentisfree/2026/sep/22/trump-us-nato-europe-american-people-mark-rutte",
+      "publishedAt": "2026-09-22T14:30:02.000Z",
+      "description": "Mark Rutte has the right idea – go beyond Washington and make the case for the transatlantic alliance to the public. They may well have a willing ear At a moment when Europe is focused on persuading Donald Trump to remain committed to Nato, it needs to convince Americans, too. So the presence this evening of the Nato secretary general, Mark Rutte, in front of a public audience in Des Moines, Iowa, is significant. This is the home town of Trump’s ambassador to Nato, Matthew Whitaker, and the visit brings the debate over Nato’s future directly to a midwestern audience in a red state that operate",
+      "author": "Leslie Vinjamuri",
+      "summary": "유럽이 NATO를 유지하려면 트럼프가 아닌 미국 국민을 설득해야 한다고 주장합니다. 중서부 아이오와주에서 NATO 사무총장이 대중 행사를 하는 것이 의미 있다며 호평했습니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "09b8eeb8f042",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]대미투자 1~3호 국회에 보고… 여야 소통으로 협상 힘 실어야",
+      "link": "https://www.donga.com/news/Opinion/article/all/20260922/134723630/2",
+      "publishedAt": "2026-09-22T14:30:00.000Z",
+      "description": "정부가 2000억 달러 규모의 전략적 대미 투자 사업 구상을 22일 국회에 보고했다. 한국과 미국 정상이 지난해 무역 합의를 한 지 약 10개월 만에 대미 투자 윤곽이 드러난 것이다. 1호 사업으로는 예상대로 텍사스 엔시날 가스복합화력발전소 건설사업이 확정됐다. 2, 3호 사업 후보로 미국 내 원자력발전소 8기 건설과 알래스카 액화천연가스(LNG) 개발 사업에 대한 추진 계획이 보고됐다. 올해 6월 시행된 대미투자특별법에 따르면 대미 투자는 상업적 합리성 확보를 원칙으로 국익에 부합하는 방향으로 추진돼야 한다. 상업적 합리성이 확보되지 않으면 국회 동의를 받아 추진해야 한다. 정부가 여야 소통을 통해 국회를 설득해야 투자 우려를 덜고 미국과의 협상력을 확보할 수 있다. 국회 보고 이후 미국과의 업무협약(MOU) 합의 및 투자 이행 과정에서 상당한 진통이 예상된다. 미국 측은 1호 사업인 텍사스 가스화력발전소의 안정적인 수익 확보에 필요한 장기전력구매 계약에 난색을 보인 것으로 알",
+      "author": null,
+      "summary": "2000억 달러 규모의 대미 투자 사업을 여야가 소통해 국회를 설득할 필요가 있다고 촉구했습니다. 텍사스 가스화력발전소 건설, 미국 원자력발전소 8기, 알래스카 LNG 개발 등 투자가 추진 중이며 협상력 확보가 중요하다고 강조했습니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b665bcfbd577",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]돌연한 대법관 재제청 거부가 던지는 착잡한 질문들",
+      "link": "https://www.donga.com/news/Opinion/article/all/20260922/134723634/2",
+      "publishedAt": "2026-09-22T14:27:00.000Z",
+      "description": "조희대 대법원장이 22일 대법관 후보자를 다시 제청해 달라는 청와대의 요구를 돌연 거부했다. 지난달 조 대법원장이 노태악 대법관의 후임으로 제청한 손봉기 후보자 대신 다른 후보자를 제청해 달라고 청와대가 요청한 지 25일 만이다. 이재명 대통령은 뉴욕 유엔총회 참석을 위해 하루 전인 21일 출국했다. 이날 조 대법원장은 “청와대의 재제청 요구 문서에 헌법적 근거가 적혀 있지 않다”고 했다. 반면 청와대는 “헌법 104조 2항에 근거해 국회에 임명동의안을 제출하지 않기로 했다고 명확히 밝혔다”고 반박했다. 해당 헌법 조항은 ‘대법관은 대법원장의 제청으로 국회의 동의를 얻어 대통령이 임명한다’는 대목이다. 조 대법원장은 3월 퇴임한 노태악 대법관 후임의 공백이 반년 넘게 이어졌음에도 제청을 미루다 청와대와 사전 조율하는 관례까지 깨가며 후보자를 사실상 통보했다. 그러자 청와대는 대법관후보추천위원회의 추천 내용을 존중해 재제청을 진행해 달라고 했다. 당초 대법관후보추천위가 손봉기 후",
+      "author": null,
+      "summary": "조희대 대법원장의 돌연한 재제청 거부로 대법관 공석 문제가 악화될 수 있다고 우려했습니다. 청와대와 대법원 간의 헌법 해석 불일치와 관례 위반이 헌법적 문제를 야기한다고 비판했습니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3db86e8fe4d2",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "기후 재앙은 여전히 현실",
+      "link": "https://www.nytimes.com/2026/09/22/opinion/climate-temperature-extreme.html",
+      "publishedAt": "2026-09-22T13:06:28.000Z",
+      "description": "Harrowing temperature increases remain unnervingly possible.",
+      "author": "David Wallace-Wells and Zeke Hausfather",
+      "summary": "기후 변화로 인한 심각한 기온 상승이 여전히 현실적 위협으로 남아 있다며 경각심을 촉구했습니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d1ffd1d38eff",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "중국의 AI 약점을 악용하는 법",
+      "link": "https://www.washingtonpost.com/opinions/2026/09/22/chinese-ai-is-direct-threat-heres-how-trump-can-derail-it/",
+      "publishedAt": "2026-09-22T11:15:00.000Z",
+      "description": "The president can complicate China’s AI strategy if he’s willing to economically pressure Beijing.",
+      "author": "Thomas J. Duesterberg",
+      "summary": "대통령이 중국에 경제적 압박을 가하면 중국의 AI 전략을 복잡하게 만들 수 있다고 주장했습니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b670567bde1f",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[송두율 칼럼]누구의 전쟁인가…파병과 책임윤리",
+      "link": "https://www.khan.co.kr/article/202609222005015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-09-22T11:05:01.000Z",
+      "description": "박정희의 베트남, 노무현의 이라크 그리고 이재명의 호르무즈는 다른 시대 다른 서사지만 이것을 관통하는 질문은 남아 있다 누구의 전쟁인가. 왜 우리가 참여해야 하는가. 무얼 위해 어떤 위험을 감수하는가. 그리고 결과를 누가 책임질 것인가 파병 역사는 한 나라가 강대국과 관계, 동맹과 자율성, 평화와 국익 사이 어디에 자신의 선을 그어왔는지를 보여주는 역사다전···",
+      "author": "송두율 전 독일 뮌스터대 사회학 교수",
+      "summary": "한국 역사상 파병 결정이 강대국 관계, 동맹, 자율성 사이에서 어떻게 선택되었는지 보여준다며, 누구의 전쟁인가, 왜 참여해야 하는가, 누가 책임질 것인가 하는 근본적 질문을 제기했습니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ec40c13c5772",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[기고]'먹는 임신중지약' 허용에 관하여",
+      "link": "https://www.khan.co.kr/article/202609222005005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-09-22T11:05:00.000Z",
+      "description": "“이건 아주 오랜 싸움이었어. 배 아프고 미식거리는 추운 밤에, 성관계 앞에서 움츠러드는 내 몸과 마음에, 미덥지 않은 남자친구와의 임신 소식에, 탄생력 가진 내 몸이 축복은커녕 재앙이 되지 않기 위해 벌인 나와 우리의 싸움이었어. 혹자들은 생명의 고귀함을 찬양하지만 이 합창은 내게는 아주아주 낯설고 때론 잔인한 것이었지. 생명의 고귀함을 몰라서가 아니라 ···",
+      "author": "양현아 서울대 법학전문대학원 명예교수",
+      "summary": "먹는 임신중지약 허용이 여성의 신체 자율성과 선택권을 존중하는 일이라며, 생명의 고귀함과 여성의 안전 사이에서 균형을 맞춰야 한다고 주장했습니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6ff71a336a25",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "체스 거장들이 증명하는 수학의 미래",
+      "link": "https://www.washingtonpost.com/opinions/2026/09/22/will-ai-doom-math-history-chess-suggests-no/",
+      "publishedAt": "2026-09-22T11:00:00.000Z",
+      "description": "We’ve seen this supposed AI steamroller before.",
+      "author": "Dana Mackenzie",
+      "summary": "AI가 모든 것을 대체할 것이라는 우려는 과장되었다며, 이런 예측은 과거에도 있었다고 지적했습니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2fa5e55baf07",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "AI가 촉발한 미국 포퓰리즘이 전환점이 될 수 있다",
+      "link": "https://www.theguardian.com/commentisfree/2026/sep/22/ai-economic-populism-tipping-point",
+      "publishedAt": "2026-09-22T10:00:52.000Z",
+      "description": "It’s becoming obvious to many Americans that corporations have been raking it in while workers take it on the chin Last week, the unlikely duo of Bernie Sanders and Steve Bannon spoke before a Washington group demanding a stop to AI and its datacenters. Notably, both lambasted the corporate oligarchs behind AI. Continue reading...",
+      "author": "Robert Reich",
+      "summary": "AI 산업의 확장으로 기업들이 부를 축적하는 반면 노동자들이 고통받고 있다며, 기업 올리가르크를 비판하는 새로운 포퓰리즘 물결이 일고 있다고 지적했습니다.",
+      "summarySource": "llm"
+    }
+  ],
+  "summarizedAt": "2026-09-23T00:07:38.488Z",
+  "summaryStats": {
+    "llm": 50,
+    "fallback": 0,
+    "model": "claude-haiku-4-5"
+  }
+}
