@@ -1,0 +1,898 @@
+{
+  "date": "2026-09-23",
+  "generatedAt": "2026-09-24T00:15:51.477Z",
+  "categories": [
+    {
+      "id": "it",
+      "label": "IT·과학·AI"
+    },
+    {
+      "id": "economy",
+      "label": "경제·금융"
+    },
+    {
+      "id": "politics",
+      "label": "정치·사회"
+    },
+    {
+      "id": "world",
+      "label": "세계·국제"
+    },
+    {
+      "id": "editorial",
+      "label": "사설·칼럼",
+      "opinion": true,
+      "summaryMaxChars": 220
+    }
+  ],
+  "feedStatus": [
+    {
+      "source": "Ars Technica",
+      "category": "it",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "Hacker News",
+      "category": "it",
+      "ok": true,
+      "matched": 1
+    },
+    {
+      "source": "TechCrunch",
+      "category": "it",
+      "ok": true,
+      "matched": 4
+    },
+    {
+      "source": "The Verge",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "블로터",
+      "category": "it",
+      "ok": true,
+      "matched": 32
+    },
+    {
+      "source": "전자신문",
+      "category": "it",
+      "ok": true,
+      "matched": 19
+    },
+    {
+      "source": "ZDNet Korea",
+      "category": "it",
+      "ok": true,
+      "matched": 19
+    },
+    {
+      "source": "BBC Business",
+      "category": "economy",
+      "ok": true,
+      "matched": 18
+    },
+    {
+      "source": "The Guardian",
+      "category": "economy",
+      "ok": true,
+      "matched": 26
+    },
+    {
+      "source": "매일경제 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 29
+    },
+    {
+      "source": "연합뉴스",
+      "category": "economy",
+      "ok": true,
+      "matched": 80
+    },
+    {
+      "source": "경향신문 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 46
+    },
+    {
+      "source": "경향신문 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 24
+    },
+    {
+      "source": "노컷뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "서울신문",
+      "category": "politics",
+      "ok": true,
+      "matched": 11
+    },
+    {
+      "source": "연합뉴스 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "연합뉴스 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 89
+    },
+    {
+      "source": "SBS 뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "Al Jazeera",
+      "category": "world",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC World",
+      "category": "world",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "NPR",
+      "category": "world",
+      "ok": true,
+      "matched": 5
+    },
+    {
+      "source": "The Guardian",
+      "category": "world",
+      "ok": true,
+      "matched": 13
+    },
+    {
+      "source": "연합뉴스 국제",
+      "category": "world",
+      "ok": true,
+      "matched": 44
+    },
+    {
+      "source": "매일경제 증권",
+      "category": "economy",
+      "ok": true,
+      "matched": 27
+    },
+    {
+      "source": "경향신문 오피니언",
+      "category": "editorial",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "NYT Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 13
+    },
+    {
+      "source": "The Guardian Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 12
+    },
+    {
+      "source": "Washington Post Opinions",
+      "category": "editorial",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "동아일보 사설",
+      "category": "editorial",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "동아일보 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 30
+    },
+    {
+      "source": "조선일보",
+      "category": "politics",
+      "ok": true,
+      "matched": 2
+    },
+    {
+      "source": "동아일보 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 22
+    },
+    {
+      "source": "머니투데이",
+      "category": "economy",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "Wired",
+      "category": "it",
+      "ok": true,
+      "matched": 29
+    },
+    {
+      "source": "DW News",
+      "category": "world",
+      "ok": true,
+      "matched": 17
+    }
+  ],
+  "items": [
+    {
+      "id": "793d2bc1abe3",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "전시관서 배움터로…새마을금고역사관, 맞춤 금융교육 거점화",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=674387",
+      "publishedAt": "2026-09-23T14:49:40.000Z",
+      "description": "새마을금고가 경남 산청군에서 운영하는 새마을금고역사관이 금융교육과 문화체험을 결합한 지역 복합문화공간으로 운영 범위를 넓히고 있다. 새마을금고의 역사를 전시하는 데 그치지 않고 어린이와 고령층을 대상으로 금융교육 프로그램을 운영하며 지역 주민의 교육·문화 접근성을 높이는 데 초점을 맞췄다.23일 금융권에 따르면 새마을금고역사관 누적 관람객은 2022년부터 2026년 상반기까지 4만5000명에 달한다. 지역 주민과 새마을금고 고객이 생활권 안에서 금융교육과 문화 콘텐츠를 접할 수 있도록 운영 프로그램을 확대하면서다.경남 산청군에 위치",
+      "author": "류수재 기자",
+      "summary": "새마을금고역사관이 금융 전시에서 벗어나 어린이와 고령층을 위한 금융교육 프로그램을 운영하며 지역 복합문화공간으로 확장하고 있으며, 2022년 이후 누적 관람객이 4만5000명에 달했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e79119bd8aef",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "Eight Sleep의 새로운 Pod 6, 소형·싱글 사이즈 출시",
+      "link": "https://techcrunch.com/2026/09/23/eight-sleeps-new-pod-6-comes-in-smaller-and-solo-sizes-starting-at-1999/",
+      "publishedAt": "2026-09-23T14:45:00.000Z",
+      "description": "Eight Sleep said the new pod is 20% faster than the previous generation.",
+      "author": "Ivan Mehta",
+      "summary": "Eight Sleep이 이전 세대보다 20% 빠른 새로운 Pod 6을 소형과 싱글 사이즈로 1999달러부터 출시했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a1b8c3a2d5b3",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "역대 최대 정부 ESS 입찰…배터리 3사 7.08GWh 수주전",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=674353",
+      "publishedAt": "2026-09-23T14:44:30.000Z",
+      "description": "정부가 역대 최대 규모의 에너지저장장치(ESS) 입찰을 시작하면서 배터리 3사의 순위 경쟁이 본격화할 전망이다. 삼성SDI와 SK온은 각각 전국 단위 중앙계약시장 누적 1·2위를 지켜야 하고 LG에너지솔루션은 SK온과의 69메가와트(MW) 격차를 뒤집어야 한다. 3차 입찰 물량이 앞선 1·2차 합계를 웃도는 만큼 배터리 3사의 수주 결과가 누적 순위에 어떤 변화를 불러올지 주목된다. 삼성·SK 격차 345MW…LG는 69MW 차 2위 추격23일 업계에 따르면 기후에너지환경부와 전력거래소는 전날 최대출력 1180MW 규모의 2026년",
+      "author": "이가영 기자",
+      "summary": "정부가 역대 최대 규모의 에너지저장장치 입찰을 시작하면서 삼성SDI·SK온·LG에너지솔루션의 순위 경쟁이 본격화했으며, 3차 입찰 물량이 앞선 1·2차 합계를 웃돈다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "be89b96ab1c8",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "유튜브의 커스텀 피드, 알고리즘에 대한 더 많은 제어권 제공",
+      "link": "https://www.wired.com/story/youtube-custom-feeds-let-you-steer-the-algorithm-without-breaking-it/",
+      "publishedAt": "2026-09-23T14:30:00.000Z",
+      "description": "In YouTube’s latest update, viewers can tweak what the algorithm shows on their front page and curate it to a specific vibe.",
+      "author": "Reece Rogers",
+      "summary": "유튜브의 최신 업데이트로 시청자가 홈페이지 알고리즘을 조정하고 특정 성향에 맞게 콘텐츠를 큐레이션할 수 있게 되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ca5fc52a4d58",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "NHTSA, 다수 사망·부상 후 comma.ai 조사 시작",
+      "link": "https://arstechnica.com/cars/2026/09/aftermarket-driver-assist-under-federal-probe-following-fatal-crashes/",
+      "publishedAt": "2026-09-23T14:20:23.000Z",
+      "description": "Feds know of 5 crashes where cars using comma.ai devices hit slow or stopped vehicles.",
+      "author": "Jonathan M. Gitlin",
+      "summary": "연방도로교통안전국이 comma.ai 기기를 사용한 자동차가 느리거나 정지된 차량과 충돌한 5건의 사고를 파악하고 공식 조사를 개시했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b5a850df8aaa",
+      "category": "it",
+      "source": "Hacker News",
+      "region": "intl",
+      "title": "시애틀 시의회, 식료품 판매의 감시 가격 책정 금지 가결",
+      "link": "https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/",
+      "publishedAt": "2026-09-23T14:04:34.000Z",
+      "description": "Article URL: https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/ Comments URL: https://news.ycombinator.com/item?id=49816374 Points: 288 # Comments: 179",
+      "author": "ortusdux",
+      "summary": "시애틀 시의회가 식료품 판매에서 개인 데이터를 활용한 차별적 가격 책정인 감시 가격 책정을 금지하기로 투표했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "33fb02ba3317",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "美 유명 롤러코스터 탔다가 뇌 손상에 사망까지…\"100명 이상 피해 호소\"",
+      "link": "https://www.etnews.com/20260923000141",
+      "publishedAt": "2026-09-23T13:30:00.000Z",
+      "description": "미국의 유명 테마파크 롤러코스터를 탄 뒤 뇌 손상을 입었다고 주장하는 피해자가 100명을 넘어선 것으로 나타났다. 22일(현지시간) CNN에 따르면 미국 캘리포니아주 발렌시아에 위치한 식스 플래그스 매직 마운틴의 롤러코스터 'X2'를 이용한 뒤 최근 2년 동안 뇌 손상을 입었다고 주장하는 사람이 100명을 넘었다. 지난달 CNN이 X2와 관련한 중상 및 사망 사례를 보도한 이후 피해 제보가 잇따른 것으로 전해졌다. 피해자 측 변호인은 최근 식스",
+      "author": "서희원",
+      "summary": "캘리포니아의 식스 플래그스 매직 마운틴 롤러코스터 X2를 탄 후 뇌 손상을 입었다고 주장하는 피해자가 최근 2년간 100명을 넘어섰다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5f13253bec99",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "커넥셔너리, 한컴위드와 데이터 분류·보안 협력…N2SF 시장공략",
+      "link": "https://zdnet.co.kr/view/?no=20260923222914",
+      "publishedAt": "2026-09-23T13:29:14.000Z",
+      "description": "[지디넷코리아]AI 의사결정 인프라기업 커넥셔너리와 한컴위드(대표 송상엽)가 AI 기반 데이터 분류 기술과 데이터 보안 기술을 연계해 데이터 중심 보안체계 구축에 나선다.양사는 커넥셔너리의 AI 기반 데이터 분류·상태관리 엔진 ‘Classification Studio’와 한컴위드의 데이터 보안 태세 관리(DSPM) 및 데이터 보안 기술을 연계하기 위한 업무협약(MOU)을 체결했다.23일 회사에 따르면, 이번 협력은 국가 망 보안체계(N2SF) 도입 등 데이터 중심으로 변화하는 보안 환경에 대응하기 위한 것이다. 조직이 보유한 데이터 자산을 식별하는 것에서 나아가 데이터 내용과 중요도를 파악하고, 변화하는 상태에 맞춰 적절한 보호조치를 적용할 수 있는 체계를 구현하는 것이 목표다.커넥셔너리는 자체 개발한 AID FRAMEwork(Atomic Intelligence Decomposition)를 기반으로 서로 다른 문서와 데이터를 AI가 비교·판단할 수 있는 구조로 변환하고, 정책과 기준, 판단 근거 및 데이터의 상태 변화를 연결해 관리하는 AI 의사결정 인프라를 개발하고 있다.'Classification Studio'는 이러한 기술을 기반으로 한 AI 데이터 분",
+      "author": "방은주 기자",
+      "summary": "AI 의사결정 인프라 기업 커넥셔너리와 한컴위드가 AI 기반 데이터 분류·상태관리 기술과 데이터 보안 기술을 연계해 국가 망 보안체계에 대응하기 위한 협력을 시작했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "40538cf49665",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "메타 뮤즈 전화 예약, 콜센터 상담원이 걸었다…사내 시험에서 확인",
+      "link": "https://zdnet.co.kr/view/?no=20260923212526",
+      "publishedAt": "2026-09-23T12:25:26.000Z",
+      "description": "[지디넷코리아]메타가 AI 비서 뮤즈의 전화 기능을 사내 시험하면서 일부 통화를 콜센터 상담원이 대신 걸도록 운영한 것으로 확인됐다. 404미디어가 현지 시각 9월 22일 내부 게시물과 직원 발언을 근거로 보도했다.메타는 지난주 뮤즈가 이용자를 대신해 식당 예약이나 미용실 예약 전화를 건다고 발표했다. 뮤즈 수석 엔지니어 라이언 폭스는 9월 16일 X에 \"미국 업체 대상 발신 통화 베타를 확대했다\"고 게시했고, 알렉산더 왕 메타 최고AI책임자도 전화 베타를 확대한다고 게시했다.같은 기능을 사내에 알리는 게시물의 설명은 달랐다. 메타는 직원용 게시판에 \"통화를 완료하기 위해 사람 상담 계층을 추가했다\"고 적고 \"뮤즈 사람 상담 통화가 사내 시험 준비를 마쳤다\"고 공지했다. 게시물은 \"뮤즈는 전화를 걸 때 번호를 누르는 데 그치지 않는다. 이용자를 대신해 업체에 전화하고 대화를 처리한 뒤 요청을 완료하고 전사와 요약을 보고한다\"며 \"이제 혼자 일하지 않는다. 훈련받은 사람 상담원에게 요청을 전달해 통화를 처리하게 할 수 있다\"고 적었다. 어떤 경우에 통화가 사람 상담원에게 연결되고 어떤 경우에 AI만 처리하는지는 공개되지 않았다.직원들은 게시판에서 우려를 제기했",
+      "author": "AI 에디터",
+      "summary": "메타가 공개한 AI 비서 뮤즈의 자동 전화 예약 기능이 사내 시험에서는 콜센터 상담원이 대신 처리하도록 운영된 것으로 밝혀졌다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "30dfbb7af4a1",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "MBK 김병주 불기소 가닥에 여야 비판…\"근거 밝혀라\"",
+      "link": "https://www.etnews.com/20260923000190",
+      "publishedAt": "2026-09-23T08:27:45.000Z",
+      "description": "홈플러스 사태를 수사 중인 검찰이 김병주 MBK파트너스 회장을 불기소하는 방향으로 잠정 결론을 내렸다는 보도가 나오자 정치권에서 비판이 잇따르고 있다. 23일 업계에 따르면 김현정 더불어민주당 의원은 이날 페이스북을 통해 “검찰이 불기소를 검토한다면 근거부터 밝혀야 한다”고 질타했다. 김 의원은 “홈플러스 전단채 사기발행 의혹 사건은 금융감독원이 두 차례나 패스스트랙으로 검찰에 조사를 요구한 심각한 사안”이라고 전했다. 김상훈 국민의힘 의원도",
+      "author": "전소연",
+      "summary": "홈플러스 사태 수사 중인 검찰이 김병주 MBK파트너스 회장을 불기소하려는 방향을 보이자 여야 의원들이 근거 공개를 요구하며 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "265f11d5fe0f",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "EU와 캐나다의 관계 강화, 법적 체계 부족이 과제",
+      "link": "https://www.theguardian.com/world/2026/sep/23/eus-canada-offer-is-more-mood-than-reality-but-it-could-hint-at-a-future-geometry-for-the-bloc",
+      "publishedAt": "2026-09-23T14:30:51.000Z",
+      "description": "While Brussels and Ottawa desire a deeper partnership born of Trump-era volatility, ​the EU has no legal framework to accommodate it Don’t get This Is Europe delivered to your inbox? Sign up here The EU and Canada, Ursula von der Leyen said last week, “see the world with the same eyes”, with shared stances on everything from AI to the climate crisis, the Ukraine war and the unholy chaos unleashed by the current occupant of the White House (OK, she didn’t actually say that last bit. But I like to think she almost certainly thought it.) So, the European Commission president went on, Canada shoul",
+      "author": "Jon Henley, Europe correspondent",
+      "summary": "EU와 캐나다가 트럼프 시대의 변동성에 대응하기 위해 더 깊은 협력을 추구하고 있지만, EU가 이를 뒷받침할 법적 체계가 부족한 상황이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "192e772c70b1",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "중동 분쟁과 기후변화로 영국 경제 둔화 경고",
+      "link": "https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-23T13:50:25.000Z",
+      "description": "Higher energy prices due to the conflict in the Middle East and climate change could hit growth.",
+      "author": null,
+      "summary": "중동 분쟁과 기후변화로 인한 에너지 가격 상승이 영국의 경제 성장을 저해할 수 있다고 경고했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0751b7dd7c76",
+      "category": "economy",
+      "source": "동아일보 경제",
+      "region": "kr",
+      "title": "13년 욜로 끝에 투자 시작…5000만원서 15억 만든 40대의 재테크 전략",
+      "link": "https://www.donga.com/news/Economy/article/all/20260923/134730451/1",
+      "publishedAt": "2026-09-23T12:38:20.000Z",
+      "description": "13년간 이른바 ‘욜로(YOLO)’ 생활을 하며 돈을 모으는 데 큰 관심을 두지 않았던 40대 직장인이 이후 재테크를 시작해 약 15억원의 순자산을 일군 사연이 공개됐다.구독자 51만명을 보유한 유튜브 채널 ‘싱글 파이어’에는 교직과 연구기관 등에서 24년간 직장생활을 한 투자자 팝팝의 이야기가 소개됐다. 아내와 함께 무급휴직을 내고 세계여행 중인 그는 2025년 파이어족을 선언하고, 경제적 자립을 바탕으로 조기 은퇴를 준비하고 있다고 밝혔다.팝팝은 직장생활 초반 여행과 취미 등에 돈을 쓰며 13년간 ‘욜로’ 생활을 했고, 이후 남은 돈은 약 5000만원이었다고 말했다.주거비를 줄이기 위해 사글세로 생활하거나 임대 아파트와 아파트형 기숙사를 이용하기도 했다. 이후 아파트를 마련한 뒤에는 이른바 ‘갈아타기’를 통해 주거 자산을 키웠다.본격적인 재테크는 2015년부터 시작했다. 주식과 부동산 등에 투자하기 시작했고, 2019년에는 연금저축펀드도 개설했다. 이후 개인형퇴직연금(IR",
+      "author": null,
+      "summary": "40대 직장인이 13년간의 욜로 생활 후 5000만원으로 시작한 재테크를 통해 15억원의 순자산을 일궜으며, 2025년 파이어족을 선언했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "93e1e4943e5a",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "트럼프-시 정상회담, AI와 무역이 중심 의제",
+      "link": "https://www.theguardian.com/world/2026/sep/23/trump-xi-summit-us-china-ai-trade-taiwan-climate",
+      "publishedAt": "2026-09-23T12:21:47.000Z",
+      "description": "Two leaders could discuss tech safety issues and US-China trade ties but may skip over climate emergency Analysis: AI looms large over Trump-Xi meeting The leaders of the world’s two superpowers are meeting in the US this week. It is Xi Jinping’s first state visit to the US in more than a decade. The last time the Chinese president was hosted in Washington (by Barack Obama in 2015), the issues on the agenda included cybercrime, technology, the climate crisis and human rights. The star of the day was Ne-Yo, who serenaded Xi and his wife, Peng Liyuan, with Peng reportedly singing along at the st",
+      "author": "Amy Hawkins",
+      "summary": "시 국가주석과 트럼프 대통령의 정상회담에서 인공지능과 무역이 주요 의제로 다루어질 것으로 예상되지만 기후 이슈는 우선순위에서 밀릴 가능성이 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1072daa59a8f",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "케이쓰리아이, 30억 제3자배정 유상증자",
+      "link": "https://www.yna.co.kr/view/AKR20260923183100008",
+      "publishedAt": "2026-09-23T09:33:19.000Z",
+      "description": "(서울=연합뉴스) 코스닥 상장사 케이쓰리아이[431190]는 운영자금 등 약 30억원을 조달하고자 제3자배정 유상증자를 결정했다고 23일 공시했...",
+      "author": "증권부",
+      "summary": "코스닥 상장사 케이쓰리아이가 운영자금 조달을 위해 30억원 규모의 제3자배정 유상증자를 결정했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "4c8288ffb095",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "메타의 뮤즈, 미국 증시 19조원대 반등 견인",
+      "link": "https://www.mk.co.kr/news/stock/12160573",
+      "publishedAt": "2026-09-23T08:55:29.000Z",
+      "description": "메타 11% 불기둥, 코스피에 던진 메시지2026년 9월 22일 새벽 미국 월스트리트에 세 개의 불기둥이 솟아올랐다. 그 기둥은 ARM·인텔·메타플랫폼(메타) 주가다. 이날 ‘반도..",
+      "author": "매일경제",
+      "summary": "메타플랫폼의 주가가 11% 상승하며 반도체와 AI 관련 종목들과 함께 미국 증시 회복을 주도했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "249cae665d8e",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "금리·유가 불안 완화, 외국인 반도체 매수 집중",
+      "link": "https://www.mk.co.kr/news/stock/12160571",
+      "publishedAt": "2026-09-23T08:52:24.000Z",
+      "description": "족집게 3인방의 증시 전망우려됐던 미국 10년물 국채금리가 5%를 넘나들고 있지만 증시에서 인공지능(AI)과 반도체 종목들의 강세는 만만찮다. AI 속도조절론으로 주춤했던 코스피는..",
+      "author": "매일경제",
+      "summary": "미국 국채금리가 5% 수준을 유지하는 가운데 AI와 반도체 종목의 강세로 코스피가 회복세를 보이고 있으며 외국인 투자자들의 반도체 매수가 활발하다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "506c129fc584",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "쿠팡 '현장조사 불복' 집행정지 기각",
+      "link": "https://www.yna.co.kr/view/AKR20260923168651004",
+      "publishedAt": "2026-09-23T08:46:00.000Z",
+      "description": "(서울=연합뉴스) 김수현 이영섭 기자 = 공정거래위원회의 현장조사 효력을 정지해달라는 쿠팡 측 요청을 법원이 받아들이지 않았다.",
+      "author": "이영섭",
+      "summary": "공정거래위원회의 현장조사 효력을 정지해달라는 쿠팡의 요청을 법원이 기각했으며, 공정위는 과태료를 부과할 예정이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0f8694dd8bc8",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "목돈마련 적금에 꽂힌 2030…5년새 76% 증가",
+      "link": "https://www.mk.co.kr/news/economy/12160474",
+      "publishedAt": "2026-09-23T07:02:34.000Z",
+      "description": "은행 적금이 '티끌 모아 티끌'이라고 조롱당하며 전 연령대에서 외면받는 와중에 20·30대에서만 잔액이 늘어난 것으로 나타났다. 정부가 청년층을 겨냥해 잇달아 내놓은 정책성 적금 ..",
+      "author": "매일경제",
+      "summary": "전 연령대에서 외면받는 은행 적금이 20·30대에서만 지난 5년간 76% 증가했으며, 정부의 청년층 정책성 적금이 이를 주도했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b57136670f38",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "코레일 자회사 5곳→3곳, 역 편의점 서비스 개편",
+      "link": "https://www.mk.co.kr/news/economy/12160472",
+      "publishedAt": "2026-09-23T07:02:33.000Z",
+      "description": "한국철도공사(코레일) 산하 자회사 5곳이 3곳으로 통합됐다. 철도역 편의점 할인 행사를 늘리고 KTX 열차 내 수하물 보관 공간을 확대하는 등 이용객 서비스도 개편한다. 국토교통부..",
+      "author": "매일경제",
+      "summary": "한국철도공사의 자회사 5곳이 3곳으로 통합되며, 철도역 편의점 할인 행사 확대와 KTX 수하물 보관 공간 확대 등의 이용객 서비스 개편을 추진한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e3f948bf1374",
+      "category": "politics",
+      "source": "노컷뉴스",
+      "region": "kr",
+      "title": "이란, 미국에 호르무즈 재개방 조건 전달",
+      "link": "https://www.nocutnews.co.kr/news/6582780",
+      "publishedAt": "2026-09-23T14:53:56.000Z",
+      "description": "이란이 호르무즈 해협 재개방 조건을 미국에 전달한 것으로 알려졌다. 외신들에 따르면 이란 아바스 아라그치 외무장관은 22일(현지 날짜) 유엔 총회가 열리고 있는 뉴욕에서 미국의 중동 특사 스티브 위트코프를 만나 해협 재개방 조건을 전달했다. 이란 국영 방송 IRIB는 아라그치 장관이 위트코프 특사에게 이란의 요구 사항을 설명했다고 전했다. '미국 해군의 해협 봉쇄 즉각 해제'와 '동결된 모든 이란 자산의 신속한 지급' 그리고 '모든 싸움터에서 전쟁 종식' 등이다. 이에 앞서 트럼프는 이날 이란과 협상이 가능한지를 두고 위트코프와 자신의 사위인 재러드 쿠슈너가 미국 특사로서 '중재자들'과 논의했다고 전했다. 트럼프가 언급한 중재자들은 자신과 이란 강경파 사이에서 타협을 모색 중인 이란 협상파 즉, 아라그치와 마수드 페제시키안 대통령을 가리킨 것이라는 해석이다. 특히 트럼프는 \"논의가 매우 생산적이었다\"며 \"아주 가까운 시일 안에 추가 만남이 예정돼 있다\"고 말했다. 이에 따라 미국과 이란이 종전과 호르무즈 해협 재개방을 위한 공식 협상을 재개할지 관심이 집중되고 있다. 그러나 여전히 낙관할 수 없는 상황이라는 지적이다. 이슬람혁명수비대(IRGC) 호세인 모헤비",
+      "author": null,
+      "summary": "이란이 호르무즈 해협 재개방을 위해 미국 해군의 봉쇄 해제, 동결 자산 지급, 전쟁 종식 등의 조건을 미국에 제시했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d62740e0c07a",
+      "category": "politics",
+      "source": "SBS 뉴스",
+      "region": "kr",
+      "title": "폭발 지뢰는 2개",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008768348",
+      "publishedAt": "2026-09-23T14:45:00.000Z",
+      "description": "서부전선 지뢰 폭발 사고에 대한 중간 조사 결과가 공개됐습니다. 장병 18명이 수색로 개척 작전을 하던 중에, 지뢰 두 발이 터진 걸로 확인됐습니다.",
+      "author": "oneway@sbs.co.kr (김태훈)",
+      "summary": "서부전선 수색로 개척 작전 중 지뢰 2발이 폭발했으며, 장병 18명이 피해를 입었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b93b8a96aed0",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "李 \"트럼프와 군함 건조 논의…실질적 성과 기대\"",
+      "link": "https://www.donga.com/news/Politics/article/all/20260923/134730631/1",
+      "publishedAt": "2026-09-23T14:27:00.000Z",
+      "description": "이재명 대통령은 23일(현지 시간) “어젯밤에 도널드 트럼프 미국 대통령과 여러가지 이야기를 나눴는데 그 중 하나가 군함 건설을 포함한 조선 분야 협력이었다”고 밝혔다.유엔총회 참석차 미국 뉴욕을 방문 중인 이 대통령은 이날 한미 경제계 주요 인사들이 참석한 ‘대한민국 투자 서밋 2026’을 주재한 자리에서 “한화가 투자할 필리 조선소에서 미국의 전략 함정이 건조될 계획이고 또 미국은 차세대 화력 체계 개발에도 참여했다”며 이같이 말했다. 이어 “앞으로도 좀 더 실제적인 성과가 나지 않을까 기대한다”며 “한미 양국은 서로의 산업과 경제 안보를 뒷받침하는 핵심 파트너이다. 이러한 협력이 번영을 넘어 한반도 평화까지 기여할 것으로 기대한다”고 말했다. 위성락 국가안보실장은 전날 브리핑에서 트럼프 대통령이 조선업 협력에 많은 관심을 보이면서 후속 협의를 이어가기로 했다고 소개한 바 있다.이 대통령은 한미 동맹에 대해 “미래를 향해 진화하는 한미 동맹이야말로 공동 번영의 토대”라며 “미국의",
+      "author": null,
+      "summary": "이재명 대통령이 트럼프 대통령과 미국 전략 함정 건조와 차세대 화력 체계 개발 협력을 논의했다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d94c72e53324",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "인천 검단구 화장품 공장서 불···소방당국 대응 1단계 발령해 진화 중",
+      "link": "https://www.khan.co.kr/article/202609232315001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-09-23T14:15:00.000Z",
+      "description": "23일 오후 9시 45분쯤 인천시 검단구의 한 화장품 제조 공장에서 불이 나 소방대원들이 진화작업을 벌이고 있다. 인천소방본부 제공23일 오후 9시 45분쯤 인천시 검단구의 한 화장품 제조 공장에서 불이 나 소방 당국이 진화작업을 벌이고 있다.소방 당국은 화재 발생 29분 만인 이날 오후 10시 14분쯤 관할 소방서 인력 전체가 출동하는 경보령인 ‘대응 1···",
+      "author": "최승현 기자",
+      "summary": "23일 오후 인천시 검단구 화장품 공장에서 화재가 발생해 소방 당국이 대응 1단계를 발령하여 진화작업을 벌이고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "726f3310167e",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "李대통령 \"트럼프와 군함건조 포함 조선협력 논의…성과 기대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260923198900001",
+      "publishedAt": "2026-09-23T14:13:24.000Z",
+      "description": "(",
+      "author": "임형섭",
+      "summary": "이재명 대통령이 유엔총회 참석 중 트럼프 대통령과 군함 건조를 포함한 조선 분야 협력을 논의했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8604736f5f12",
+      "category": "politics",
+      "source": "연합뉴스 사회",
+      "region": "kr",
+      "title": "인천 오류동 화장품 공장서 큰불…대응 1단계 발령",
+      "link": "https://www.yna.co.kr/view/AKR20260923198500065",
+      "publishedAt": "2026-09-23T14:00:08.000Z",
+      "description": "(인천=연합뉴스) 황정환 기자 = 23일 오후 9시 45분께 인천시 검단구 오류동 화장품 제조 공장에서 불이 나 소방 당국이 진화에 나섰다.",
+      "author": "황정환",
+      "summary": "23일 오후 인천시 검단구 오류동 화장품 공장에서 화재가 발생해 소방 당국이 진화작업을 벌였다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f745516996c4",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "李대통령 \"金여사 생가복원\" 가짜뉴스에 \"명예 훼손하는 범죄\"",
+      "link": "https://www.yna.co.kr/view/AKR20260923198400001",
+      "publishedAt": "2026-09-23T13:58:35.000Z",
+      "description": "(뉴욕=연합뉴스) 임형섭 설승은 기자 = 유엔총회 참석을 위해 미국 뉴욕을 방문 중인 이재명 대통령은 23일(현지시간) 부인 김혜경 여사의 생가...",
+      "author": "임형섭",
+      "summary": "이재명 대통령이 부인 김혜경 여사의 생가복원 관련 가짜뉴스를 명예를 훼손하는 범죄라고 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3152ec8052cc",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "이 대통령 \"청소년 자살률 역행 안타까워…목숨보다 귀한 건 없어\"",
+      "link": "https://www.khan.co.kr/article/202609232126001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-09-23T12:26:00.000Z",
+      "description": "이재명 대통령이 지난 21일 청와대에서 열린 대통령 주재 수석보좌관회의에서 발언하고 있다. 청와대사진기자단미국을 방문 중인 이재명 대통령은 23일(현지시간) “학업 등을 이유로 한 청소년 자살률이 오히려 역행하고 있어 참으로 안타깝다”며 “이 안타까운 현실이 최소화되도록 끊임없이 관심을 가지고 노력하겠다”고 밝혔다.유엔총회 참석차 미국 뉴욕을 방문 중인 이···",
+      "author": "김윤나영 기자",
+      "summary": "이재명 대통령이 청소년 자살률이 오히려 증가하고 있다며 이를 최소화하기 위한 지속적 관심과 노력을 약속했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e7823706a5ae",
+      "category": "politics",
+      "source": "조선일보",
+      "region": "kr",
+      "title": "박지히, 성적표 보고 깜짝 놀라다",
+      "link": "https://www.chosun.com/jp/sports-jp/2026/09/23/EVTTEVSKQZH4HJICDVLUQJMW5I/",
+      "publishedAt": "2026-09-23T10:32:40.000Z",
+      "description": "",
+      "author": "Lee Tae-dong, Yang Seung-su",
+      "summary": "박지히가 성적표를 본 후 깜짝 놀라거나 의외의 반응을 보이는 장면을 담은 기사다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "083dadb9f16a",
+      "category": "politics",
+      "source": "서울신문",
+      "region": "kr",
+      "title": "[단독] 야간·휴일·초과 근무 월평균 97시간…예보관들 지쳐간다",
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20260923500296",
+      "publishedAt": "2026-09-23T09:43:06.000Z",
+      "description": "기상이변 심화로 기상청이 올해 특보구역을 세분화하고 예보 인력을 보강하고 있지만 예보관의 초과근무는 늘어나고 있는 것으로 23일 파악됐다. 위험기상을 판단하는 예보관의 피로가 누적되면 예보 정확성과 특보 발표의 적시성이 떨어져 재난 대응에 차질을 빚을 수 있다는 우려가 나온다. 국회 기후에너지환경노동위원회 소속 박지혜(초선·경기 의정부갑) 더불어민주당 의원이 기상청을 통해 받은 자료를 보면 지난 6월 기준 육상 특보구역은 235개로 2021년 183개보다 28.4% 늘었다. 같은 기간 예보관은 132명에서 168명으로 27.3% 증가했다. 기상청은 지역별 기상·기후와 지형 특성을 고려해 지난 6월부터 육상 특보구역을 세분화해 운영하고 있다. 22년 만에 특보구역을 대폭 세분화해 지역별 위험기상에 보다 촘촘하게 대응하겠다는 취지다. 하지만 인력 보강에도 예보관 1인당 월평균 초과근무시간은 2021년 13.3시간에서 지난해 16.7시간으로 25.6% 늘었다. 올해 상반기 기준(16.8시간)으로도 증가 추세는 확인된다. 연도별로는 2022년 14.3시간, 2023년 15.6시간, 2024년 16.7시간으로 늘었고 지난해 같은 수준을 유지한 뒤 올해 상반기 소폭 증",
+      "author": "반영윤 기자",
+      "summary": "기상이변으로 특보구역이 28.4% 증가하고 예보관이 보강되었으나, 예보관 1인당 월평균 초과근무가 16.8시간으로 늘어 업무 과부하가 심각한 것으로 파악됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f6729184d891",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "베를린 좌파당 정부, 대형 부동산 회사 수용화 가능한가?",
+      "link": "https://www.dw.com/en/could-a-left-party-government-in-berlin-expropriate-large-real-estate-companies/a-79399683?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-09-23T14:49:00.000Z",
+      "description": "The socialist Left Party won the Berlin election partly on the promise to implement the city's 2021 expropriation referendum as a way to solve the city's rent crisis. But can it really happen?",
+      "author": null,
+      "summary": "베를린 좌파당이 임대료 위기 해결을 위해 2021년 국민투표에서 승인된 대형 부동산 회사 수용화를 정부로서 실현할 수 있을지 관심이 모아지고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d37137d12141",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "이란 대통령, 전쟁 중 적국에서 연설…\"우린 美 테러의 희생자\"",
+      "link": "https://www.yna.co.kr/view/AKR20260923199800079",
+      "publishedAt": "2026-09-23T14:46:26.000Z",
+      "description": "(카이로=연합뉴스) 김상훈 특파원 = 마수드 페제시키안 이란 대통령이 23일(현지시간) 현재 진행 중인 전쟁의 상대국인 미국 한복판에서 자국민을...",
+      "author": "김상훈",
+      "summary": "마수드 페제시키안 이란 대통령이 현재 진행 중인 전쟁의 상대국인 미국에서 이란이 미국의 테러의 희생자라고 주장하는 연설을 진행했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6d60fc6c52a2",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "미국 공화당 상원 군사위원장, 트럼프에 \"시진핑에 성대한 환영식 말 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260923199000071",
+      "publishedAt": "2026-09-23T14:32:28.000Z",
+      "description": "(워싱턴=연합뉴스) 이유미 특파원 = 미국 공화당 소속 연방상원 군사위원장이 도널드 트럼프 대통령이 시진핑 중국 국가주석을 국빈 초청해 성대한 ...",
+      "author": "이유미",
+      "summary": "미국 공화당 소속 연방상원 군사위원장이 트럼프 대통령에게 중국의 시진핑 국가주석을 독재자로 규정하며 성대한 국빈 환영식을 하지 말 것을 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "265f11d5fe0f",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "EU의 캐나다 제안, 트럼프 시대 더 깊은 협력 모색하나 법적 틀 부족",
+      "link": "https://www.theguardian.com/world/2026/sep/23/eus-canada-offer-is-more-mood-than-reality-but-it-could-hint-at-a-future-geometry-for-the-bloc",
+      "publishedAt": "2026-09-23T14:30:51.000Z",
+      "description": "While Brussels and Ottawa desire a deeper partnership born of Trump-era volatility, ​the EU has no legal framework to accommodate it Don’t get This Is Europe delivered to your inbox? Sign up here The EU and Canada, Ursula von der Leyen said last week, “see the world with the same eyes”, with shared stances on everything from AI to the climate crisis, the Ukraine war and the unholy chaos unleashed by the current occupant of the White House (OK, she didn’t actually say that last bit. But I like to think she almost certainly thought it.) So, the European Commission president went on, Canada shoul",
+      "author": "Jon Henley, Europe correspondent",
+      "summary": "트럼프 시대의 지정학적 변화 속에서 EU와 캐나다가 더 깊은 협력을 모색하고 있으나 현재 EU의 법적 체계로는 이를 뒷받침하기 어려운 상황이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "078eec863678",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "영국, EU 해양 과학 계획에 참여해 극한 날씨 예측 강화",
+      "link": "https://www.theguardian.com/environment/2026/sep/23/britain-to-join-eu-global-ocean-monitoring-system-oceaneye",
+      "publishedAt": "2026-09-23T14:24:37.000Z",
+      "description": "Cooperation on OceanEye, which aims to create ‘real-time’ model of world’s oceans, comes amid efforts to boost EU ties Britain is to join a major new ocean science programme, led by the EU, to better forecast extreme weather and climate events, the environment secretary is to announce in New York. The announcement on Wednesday will come as Andy Burnham’s government aims to rebuild the UK’s relationship with Europe, and follows warnings this year’s “supersized” El Niño, tracked in the Pacific Ocean, will fuel more extreme weather globally. Continue reading...",
+      "author": "Karen McVeigh",
+      "summary": "영국이 EU가 주도하는 해양 과학 프로그램 '오션아이'에 참여해 극한 날씨와 기후 변화를 더 정확하게 예측하려는 계획을 발표했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a0bcf6cad090",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "중국의 13세 수영 신동, 미성년자 엘리트 경쟁 참여의 적절성 논쟁",
+      "link": "https://www.dw.com/en/china-s-13-year-old-swimming-star-raises-questions-on-child-athletes/a-79394183?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-09-23T14:07:00.000Z",
+      "description": "Three gold medals and three Asian Games records have catapulted China's Yu Zidi, 13, into the sporting spotlight. She is far from the first teen prodigy, but should teens be competing at elite level?",
+      "author": null,
+      "summary": "13세의 유지디가 아시안게임에서 금메달 3개를 획득하며 중국 수영의 신동으로 부상했으나, 미성년자의 엘리트 스포츠 경쟁 참여의 적절성에 대한 논쟁이 일고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ca27bd06d3c8",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "남아공 주택 총기난사로 11명 사망",
+      "link": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-23T14:02:55.000Z",
+      "description": "One of those killed is believed to be a pregnant woman, police said.",
+      "author": null,
+      "summary": "남아공의 한 주택에서 집단 총기 난사 사건이 발생해 11명이 사망했으며, 사망자 중에는 임산부로 추정되는 여성이 포함돼 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e90e4c77a94a",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "에든버러의 투어 가이드, 미술사를 웃음으로 소개하는 코미디 투어",
+      "link": "https://www.npr.org/2026/09/23/g-s1-142427/uk-coco-art-history-comedy-tour",
+      "publishedAt": "2026-09-23T13:31:47.000Z",
+      "description": "For anyone who grew up staring blankly at museum artwork, this is the fun that was missing: Coco leads interactive and (mostly) factual art history comedy tours.",
+      "author": "Rebecca Rosman",
+      "summary": "에든버러의 투어 가이드 코코가 진행하는 대화형 미술사 코미디 투어가 박물관 예술 작품을 재미있게 소개하며 새로운 관광 경험을 선사하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "67995962a180",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "스페인, 87세 여성의 강제퇴거로 주택난 심화 드러나",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-23T12:31:31.000Z",
+      "description": "The tenant of the flat in Madrid, Maricarmen, was unable to pay the rent set by the firm which recently bought it.",
+      "author": null,
+      "summary": "마드리드에 거주하는 87세 세입자 마리카르멘이 신규 소유 기업의 높은 임대료를 감당하지 못해 강제퇴거당했으며, 이는 스페인의 주택난 심화를 보여주는 사례다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8d051e931c5e",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "네팔 홍수, 히말라야 지역 댐·수력발전소 건설의 위험성 제기",
+      "link": "https://www.npr.org/2026/09/23/g-s1-144536/floods-climate-nepal-himalayas-dams-hydropower",
+      "publishedAt": "2026-09-23T11:48:00.000Z",
+      "description": "Building dams and hydropower plants in the Himalayas holds great promise for providing electricity. In the wake of the Nepal disaster, experts are asking about the risks of such construction.",
+      "author": "Mamita Bhandari",
+      "summary": "네팔의 홍수 재해 이후 전문가들이 히말라야 지역의 댐과 수력발전소 건설의 환경적 위험성에 대해 의문을 제기하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "bb26f95d8cf8",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "중간선거가 새로운 정치 운동의 첫 시험",
+      "link": "https://www.nytimes.com/2026/09/23/opinion/independents-midterms-democrats.html",
+      "publishedAt": "2026-09-23T14:47:50.000Z",
+      "description": "A third party can’t fix our politics. But there’s another way.",
+      "author": "David Kirp",
+      "summary": "3당제만으로는 미국의 정치 문제를 해결할 수 없다고 주장하며, 다른 방식의 정치 운동과 혁신이 필요하다고 제안했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d82cd7741046",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]李 '건설적 기여국 연대' 제안… 호르무즈 파도 막을 방파제로",
+      "link": "https://www.donga.com/news/Opinion/article/all/20260923/134729797/2",
+      "publishedAt": "2026-09-23T14:30:00.000Z",
+      "description": "이재명 대통령이 22일 유엔 총회 기조연설에서 중동 전쟁으로 촉발된 글로벌 에너지 공급망 위기에 공동 대응하기 위한 ‘건설적 기여국 연대’ 구상을 밝혔다. 4월 호르무즈 해협 자유 통항을 위한 정상회의에서 “글로벌 책임 강국으로서 역할과 기여”를 약속한 데 이어 구체적인 다자 협력의 틀을 유엔 무대에서 공식 제안한 것이다. 이 대통령은 이날 17분간 연설에서 “모든 국가가 하나의 해법에 합의할 때까지 손 놓고 기다릴 수도 없다”라며 “글로벌 공공재를 공급할 역량과 의지를 갖춘 나라들이 먼저 손을 맞잡고 협력의 공간을 넓혀 가자”라고 했다. 국제사회가 직면한 인공지능(AI), 기후 위기, 에너지 공급망의 과제를 공동 대응하기 위한 다자주의 복원과 국제 연대의 시급성을 강조하고 국제사회의 행동을 촉구한 것이다. 한국은 국제사회 지원으로 6·25전쟁 위기를 극복했고 자유무역을 통해 세계 10위권의 경제 강국으로 성장했다. 이에 역대 대통령들은 유엔 무대에서 다자주의와 연대를 강조하고",
+      "author": null,
+      "summary": "이재명 대통령의 유엔 기조연설에서 제시한 '건설적 기여국 연대' 구상을 중동 에너지 위기 대응을 위한 현명한 다자주의 전략이라고 평가했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3e02c40c73d5",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]읍면동 10곳 중 3곳 '무약촌'… 편의점 상비약이라도 늘려야",
+      "link": "https://www.donga.com/news/Opinion/article/all/20260923/134729801/2",
+      "publishedAt": "2026-09-23T14:27:00.000Z",
+      "description": "약국이나 안전상비의약품(상비약) 판매 편의점이 없는 무약촌(無藥村)이 전국에 1453곳이다. 전국 읍면동 가운데 29%는 동네에서 약을 구할 수 없다는 뜻이다. 인구가 적고 고령인구가 많은 지역일수록 무약촌 비율이 높았다. 전북은 읍면동의 43.9%, 전남광주는 42.1%가 무약촌이다. 만성질환 등 의료 수요가 많은 농산어촌 지역에서 약을 사기 힘든 안타까운 상황이다. 무약촌에 살면 감기약, 해열제 하나를 사려 해도 멀리 차를 타고 가야 한다. 평일 야간, 주말에 응급 상황이 발생하면 시내 병원이나 보건소가 문을 열기를 기다리며 버틸 수밖에 없다. 주민 평균연령이 60.3세인 전북 진안군 동향면이 바로 그런 사례다. 병의원이 없어 주민들은 평소 보건지소에서 진료받고 약을 탄다. 그런데 보건지소는 일주일 중 평일 4일만 문을 열기 때문에 나머지 3일은 무의촌이자 무약촌이다. 약이 급하게 필요하면 승용차로 20분 거리인 진안읍까지 가야 하고, 상태가 위중하면 50분 거리인 전주 병원으",
+      "author": null,
+      "summary": "전국 무약촌 1453곳의 고령 주민들이 기본 의약품조차 구하기 어려운 현실을 비판하며, 편의점의 상비약 판매 확대로 의료 접근성을 높여야 한다고 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "cdc9bce8c90c",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "AI에 대한 우려가 과도하다",
+      "link": "https://www.nytimes.com/video/opinion/100000011159761/jensen-huang-vs-the-ai-doomers.html",
+      "publishedAt": "2026-09-23T14:25:44.000Z",
+      "description": "Jensen Huang, the chief executive of Nvidia, does not want you to be afraid of A.I.",
+      "author": null,
+      "summary": "엔비디아 최고경영자 젠슨 황이 AI에 대한 지나친 우려와 경보주의가 문제라고 지적하며, AI 기술을 두려워할 필요가 없다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d9f2fad64636",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "극우 폭력의 해결책도 1970년대에서 찾다",
+      "link": "https://www.theguardian.com/commentisfree/2026/sep/23/britain-anti-racism-asian-youth-movements-1970s-far-right-violence",
+      "publishedAt": "2026-09-23T13:00:50.000Z",
+      "description": "Young men punched in the street, mosques attacked: Britain badly needs an anti-racist uprising. Let 70s Asian youth movements provide the inspiration There it was: a pool of blood spreading across the pavement. A section of the high street had been cordoned off and a uniformed police officer gestured for bystanders to move along. It was the long hot summer of 1976, and a racist murder had stunned Southall in west London. “What has happened here, officers?” asked Suresh Grover, then a curious 22-year-old, later to be widely known as a leading racial justice activist. “Go away, it’s just Indian ",
+      "author": "Taj Ali",
+      "summary": "영국의 극우 폭력과 혐오 범죄에 대응하려면 1970년대 아시아계 청년들의 반인종차별 집단행동 방식을 현대에 재현해야 한다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "71f71215fa49",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "번험의 트럼프 첫 면담 성공기",
+      "link": "https://www.theguardian.com/commentisfree/2026/sep/23/andy-burnham-donald-trump-meeting-prime-minister-president",
+      "publishedAt": "2026-09-23T11:54:08.000Z",
+      "description": "The PM’s shiny newness could explain the easy ride he got this time. But who would dare predict the ever-shifting weather in the president’s head? Watching footage of Andy Burnham at the UN general assembly on Tuesday was like watching your child from behind a tree in the playground. Are they making friends? How normal do they seem relative to the average? How will they react when they come into contact with that hulking great child who seems to be running things? Burnham’s first face-to-face with Donald Trump was billed as a knife-edge encounter that, due to the latter’s capriciousness, could",
+      "author": "Emma Brockes",
+      "summary": "영국 총리 번험이 트럼프와의 첫 정상회담을 성공적으로 마쳤지만, 트럼프의 예측 불가능한 성격 때문에 향후 관계 전개는 여전히 불확실하다고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "aa61e3b84419",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "자연 보호의 정책 도구는 이미 존재한다",
+      "link": "https://www.washingtonpost.com/opinions/2026/09/23/protecting-nature-is-possible-through-innovative-financing/",
+      "publishedAt": "2026-09-23T11:15:00.000Z",
+      "description": "But government must first stop making environmental destruction worse.",
+      "author": "Henry M. Paulson Jr.",
+      "summary": "자연과 환경을 보호하기 위한 정책 수단은 이미 충분히 존재하지만, 정부가 먼저 환경 파괴를 가속화하는 정책들을 중단해야 한다고 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b413d91bffdd",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "트럼프와 시진핑의 정상회담이 역사를 만들 수 있을까",
+      "link": "https://www.washingtonpost.com/opinions/interactive/2026/09/23/will-xis-visit-washington-be-historic/",
+      "publishedAt": "2026-09-23T11:15:00.000Z",
+      "description": "Most meetings of world leaders are choreographed and forgettable. But not all of them.",
+      "author": "Keith B. Richburg",
+      "summary": "각국 정상회담은 대부분 형식적이고 예측 가능하지만, 트럼프와 시진핑의 만남은 예상을 깨고 역사적 성과를 만들 가능성이 있다고 제시했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0c16575593a5",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[하리하라의 사이언스 인사이드]달항아리에 담긴 마음",
+      "link": "https://www.khan.co.kr/article/202609231850025/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-09-23T09:50:02.000Z",
+      "description": "몇달 전, 달 관련 연구를 하는 분께 귀한 선물을 받았다. 달의 토양 성분을 분석해 이를 복제한 인공 월면토와 그 월면토를 이용해 빚어낸 달항아리였다. 얼핏 보기에는 손가락만 한 유리병에 든 회색 돌가루와 아기 주먹만 한 작고 둥근 도기(陶器)일 뿐이지만, 어쩐지 저 하늘의 달과 직접적으로 이어지는 듯한 느낌이 들었다.아마도 달은 인류가 고차원적인 의식을 ···",
+      "author": "이은희 과학저술가",
+      "summary": "달의 토양을 과학적으로 복제하여 만든 인공 월면토로 빚어낸 달항아리를 통해, 과학적 성취와 인류의 문화적 염원이 만나는 순간의 의미를 담아냈다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f982c6aaf00c",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[역사와 현실]'한가위만 같아라'고?",
+      "link": "https://www.khan.co.kr/article/202609231850015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-09-23T09:50:01.000Z",
+      "description": "한여름 내내 내뿜던 열기도 계절 변화는 이기지 못하나보다. 아침저녁 선선한 바람은 어느새 ‘더도 말고 덜도 말고 한가위만 같아라’는 추석 문 앞에 우리를 데려다 놓았다. 수확과 풍요를 상징하는 절기니, 휘영청 밝은 달만큼이나 몸과 마음도 풍요로워진 듯하다. 풍성한 식탁에서 오랜만에 가족들을 마주하다보면, 일 년 내내 한가위 같기를 얼마나 많은 사람들이 바랄···",
+      "author": "이상호 한국국학진흥원 책임연구위원",
+      "summary": "추석의 풍요와 여유가 일 년 내내 계속되기를 바라는 사람들의 간절한 염원을 성찰하며, 그러한 희망이 현실이 되기를 바라는 마음을 표현했다.",
+      "summarySource": "llm"
+    }
+  ],
+  "summarizedAt": "2026-09-24T00:19:37.171Z",
+  "summaryStats": {
+    "llm": 50,
+    "fallback": 0,
+    "model": "claude-haiku-4-5"
+  }
+}
