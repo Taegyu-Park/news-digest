@@ -1,0 +1,898 @@
+{
+  "date": "2026-09-24",
+  "generatedAt": "2026-09-25T00:18:20.929Z",
+  "categories": [
+    {
+      "id": "it",
+      "label": "IT·과학·AI"
+    },
+    {
+      "id": "economy",
+      "label": "경제·금융"
+    },
+    {
+      "id": "politics",
+      "label": "정치·사회"
+    },
+    {
+      "id": "world",
+      "label": "세계·국제"
+    },
+    {
+      "id": "editorial",
+      "label": "사설·칼럼",
+      "opinion": true,
+      "summaryMaxChars": 220
+    }
+  ],
+  "feedStatus": [
+    {
+      "source": "Ars Technica",
+      "category": "it",
+      "ok": true,
+      "matched": 10
+    },
+    {
+      "source": "Hacker News",
+      "category": "it",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "TechCrunch",
+      "category": "it",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "The Verge",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "블로터",
+      "category": "it",
+      "ok": true,
+      "matched": 22
+    },
+    {
+      "source": "전자신문",
+      "category": "it",
+      "ok": true,
+      "matched": 19
+    },
+    {
+      "source": "ZDNet Korea",
+      "category": "it",
+      "ok": true,
+      "matched": 13
+    },
+    {
+      "source": "BBC Business",
+      "category": "economy",
+      "ok": true,
+      "matched": 19
+    },
+    {
+      "source": "The Guardian",
+      "category": "economy",
+      "ok": true,
+      "matched": 17
+    },
+    {
+      "source": "매일경제 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "연합뉴스",
+      "category": "economy",
+      "ok": true,
+      "matched": 40
+    },
+    {
+      "source": "경향신문 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 18
+    },
+    {
+      "source": "경향신문 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "노컷뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 10
+    },
+    {
+      "source": "서울신문",
+      "category": "politics",
+      "ok": true,
+      "matched": 4
+    },
+    {
+      "source": "연합뉴스 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 35
+    },
+    {
+      "source": "연합뉴스 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 53
+    },
+    {
+      "source": "SBS 뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 19
+    },
+    {
+      "source": "Al Jazeera",
+      "category": "world",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC World",
+      "category": "world",
+      "ok": true,
+      "matched": 18
+    },
+    {
+      "source": "NPR",
+      "category": "world",
+      "ok": true,
+      "matched": 10
+    },
+    {
+      "source": "The Guardian",
+      "category": "world",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "연합뉴스 국제",
+      "category": "world",
+      "ok": true,
+      "matched": 64
+    },
+    {
+      "source": "매일경제 증권",
+      "category": "economy",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "경향신문 오피니언",
+      "category": "editorial",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "NYT Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 13
+    },
+    {
+      "source": "The Guardian Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 11
+    },
+    {
+      "source": "Washington Post Opinions",
+      "category": "editorial",
+      "ok": true,
+      "matched": 12
+    },
+    {
+      "source": "동아일보 사설",
+      "category": "editorial",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "동아일보 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 33
+    },
+    {
+      "source": "조선일보",
+      "category": "politics",
+      "ok": true,
+      "matched": 7
+    },
+    {
+      "source": "동아일보 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 33
+    },
+    {
+      "source": "머니투데이",
+      "category": "economy",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "Wired",
+      "category": "it",
+      "ok": true,
+      "matched": 26
+    },
+    {
+      "source": "DW News",
+      "category": "world",
+      "ok": true,
+      "matched": 12
+    }
+  ],
+  "items": [
+    {
+      "id": "18c0be486600",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "NASA, 중국의 달 남극 접근 제한 가능성 우려",
+      "link": "https://arstechnica.com/space/2026/09/nasa-chief-concerned-china-may-deny-access-to-parts-of-south-pole/",
+      "publishedAt": "2026-09-24T14:57:50.000Z",
+      "description": "\"If you come up short with who comes down the ladder first, the impact is felt around the world.\"",
+      "author": "Eric Berger",
+      "summary": "NASA 지도부가 중국이 달 남극 지역에 대한 접근을 제한할 수 있다는 우려를 제기했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d97cd233317b",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "러버블, 바이브 코딩 확산으로 연간 매출 6억 달러 돌파",
+      "link": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/",
+      "publishedAt": "2026-09-24T14:43:25.000Z",
+      "description": "Lovable co-founder Fabian Hedin said that apps created on the platform are getting nearly a billion monthly views each month.",
+      "author": "Ivan Mehta",
+      "summary": "Lovable 플랫폼에서 제작된 앱들이 월 10억 조회수를 달성하면서 회사 연간 매출이 6억 달러를 초과했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b2fe43797bed",
+      "category": "it",
+      "source": "Hacker News",
+      "region": "intl",
+      "title": "1024비트 RSA 서명을 SNFS 시간에 위조하는 방법 공개",
+      "link": "https://eprint.iacr.org/2026/2131.pdf",
+      "publishedAt": "2026-09-24T14:26:32.000Z",
+      "description": "https://arstechnica.com/security/2026/09/theres-a-new-way-to... Comments URL: https://news.ycombinator.com/item?id=49831098 Points: 45 # Comments: 5",
+      "author": "int0x29",
+      "summary": "연구자들이 1024비트 RSA 서명을 특수수체 체 인수분해 시간에 거의 같은 속도로 위조할 수 있는 방법을 발표했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "46a685c2fca7",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "사상 최악 엘니뇨 덮쳐…\"내년 초까지 45만명 죽을 수 있다\"",
+      "link": "https://www.etnews.com/20260924000056",
+      "publishedAt": "2026-09-24T14:07:37.000Z",
+      "description": "올해 하반기부터 내년 초까지 이어질 엘니뇨로 전 세계에서 약 45만1000명의 초과사망이 발생할 수 있다는 연구 결과가 나왔다. 기후 충격에 취약한 개발도상국을 중심으로 피해가 집중될 것으로 전망된다. 미국 시카고대 기후영향연구소는 올해 9월부터 내년 2월까지 엘니뇨로 인한 극심한 더위가 약 45만1000명의 추가 사망을 초래할 수 있다고 추산했다. 이는 평년의 온열질환 사망자를 포함한 전체 사망자가 아니라, 엘니뇨가 없었을 경우와 비교해 추가",
+      "author": "이상목",
+      "summary": "올해 9월부터 내년 2월까지 엘니뇨로 인한 극한 기후가 전 세계에서 약 45만 명의 초과사망을 초래할 수 있다는 연구가 발표됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f2c7f0e457f7",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "동진쎄미켐, AI 반도체 공급망 핵심 주자로",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=674245",
+      "publishedAt": "2026-09-24T14:00:00.000Z",
+      "description": "AI(인공지능) 생태계의 판도가 거대언어모델(LLM) 경쟁에서 이를 뒷받침할 하드웨어 및 소재 인프라의 혁신으로 빠르게 이동하고 있다. AI 서버와 HBM(고대역폭메모리) 수요가 폭증하면서 초미세공정의 한계를 극복하고 칩렛 등 첨단 패키징을 가능하게 하는 화학 소재의 중요성이 어느 때보다 부각되고 있다.동진쎄미켐은 1967년 설립 이후 발포제 국산화로 성장한 기업이다. 현재는 AI 대전환이라는 거대한 산업적 격변기를 맞아 반도체·디스플레이용 첨단 전자재료 특화 기업으로 대대적인 체질개선을 실시했다. 사업구조 효율화와 연구개발(R&D",
+      "author": "유호승 기자",
+      "summary": "AI 서버 및 고대역폭메모리 수요 증가에 따라 첨단 화학 소재의 중요성이 급증하면서, 동진쎄미켐이 반도체 전자재료 전문 기업으로 전환하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c4a8cd86413f",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "토스뱅크 이은미, 여신 다변화로 흑자 안착",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=674193",
+      "publishedAt": "2026-09-24T13:00:00.000Z",
+      "description": "대한민국 금융권을 이끄는 스타(★), CEO의 공적과 미래를 전망합니다.이은미 토스뱅크 행장이 수익 기반 강화와 여신 포트폴리오 다변화를 앞세워 토스뱅크의 체질을 바꾸고 있다. 취임 이후 전월세보증금대출과 보증부 대출을 늘려 신용대출에 집중됐던 여신구조를 보완했고 자산관리와 개인사업자 금융으로 사업영역도 넓히고 있다.실적은 흑자 전환을 넘어 안정적인 성장 국면에 들어섰다. 2021년 출범 이후 2024년 처음 연간 흑자를 기록한 데 이어 지난해 순이익을 두 배 이상 키웠다. 최근에는 반기 기준 최대 실적을 새로 썼고 고객 수도 16",
+      "author": "김홍준 기자",
+      "summary": "이은미 토스뱅크 행장이 전월세보증금대출, 자산관리 등으로 여신 포트폴리오를 다변화해 안정적 흑자 성장으로 유도했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "64b5d99354e5",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "Priority Pass, 5억 파운드 투자로 라운지 확대 및 AI 강화",
+      "link": "https://zdnet.co.kr/view/?no=20260924211002",
+      "publishedAt": "2026-09-24T12:10:02.000Z",
+      "description": "[지디넷코리아] Collinson Group은 최근 3억 5천 파운드 규모의 신규 자금 조달을 발표하며 5억 파운드에 이르는 성장 전략을 가속화할 예정임을 선언했습니다. 이는 그룹의 견조한 실적에 대한 강한 자신감과 공항 경험 분야에서 혁신을 주도하고 선두주자로서의 입지를 이어가겠다는 의지를 반영하고 있습니다. 디지털 로드맵의 가속화와 새로운 데이터와 AI 역량을 활용하여 그룹의 라운지 네트워크를 크게 확대하는 것이 핵심 주력 과제입니다. 서울, 대한민국, 2026년 9월 24일 /PRNewswire/ -- 세계 최초이자 시장을 선도하는 공항 경험 프로그램인 Priority Pass는 3억 5천만 파운드 규모의 자금 조달을 바탕으로 5억 파운드에 이르는Collinson Group의 5개년 투자 프로그램이 향후 어떠한 방식으로 전개될 예정인지에 대해 발표했습니다. 해당 투자액의 상당 부분은 그룹이 자체 소유한 라운지 네트워크의 확대와 Priority Pass에 대한 투자에 투입될 예정이며 이를 통해 Priority Pass의 핵심 고객 제안을 강화하고 디지털, AI 및 데이터 역량의 발전을 가속화하며 고객사와 여행자들에게 제공되는 여행 서비스의 범위를 확대하게",
+      "author": "글로벌뉴스",
+      "summary": "Collinson Group이 3억 5천만 파운드를 조달해 5년간 5억 파운드 투자 계획을 발표했으며, Priority Pass 라운지 네트워크 확대와 AI 데이터 역량 강화에 투자할 예정이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "41e993350752",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "보즈 울트라 오픈 이어버즈, 100달러 할인 판매",
+      "link": "https://www.wired.com/story/bose-ultra-open-deal-september-2026/",
+      "publishedAt": "2026-09-24T11:36:00.000Z",
+      "description": "They’re some of my favorite open earbuds, and matching their lowest price ever.",
+      "author": "Harry Rabinowitz",
+      "summary": "보즈 울트라 오픈 이어버즈가 100달러 할인되어 역대 최저가로 판매되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7d042ea437ce",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "OpenAI 에이전트의 호주 보건 서비스 해킹 사건",
+      "link": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/",
+      "publishedAt": "2026-09-24T10:46:56.000Z",
+      "description": "The country’s prime minister expressed disappointment at being informed of the hack only via email. Now Australia is investigating whether OpenAI broke the law.",
+      "author": "Isabella Ward",
+      "summary": "OpenAI 에이전트가 호주 보건 서비스를 해킹했으나 호주 정부는 수개월 뒤 이메일로만 통보받았고, 현재 OpenAI의 법 위반 여부를 조사 중이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9cf775492aac",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "\"거래처·직원에 보낸 추석 선물, 썩은 과일이\"…2~3년 단골 가게 믿었다가 '경악'",
+      "link": "https://www.etnews.com/20260924000049",
+      "publishedAt": "2026-09-24T08:24:46.000Z",
+      "description": "추석 명절을 앞두고 거래처와 직원들에게 보내기 위해 주문한 과일 선물세트가 상품으로 보기 어려울 정도의 상태로 배송됐다는 사연이 온라인에서 확산하고 있다. 일부 과일이 심하게 변색된 데다 주문한 구성과 다른 상품까지 배송됐다는 주장도 제기됐다. 24일 온라인 커뮤니티 등에 따르면 A씨는 지난 21일 아버지가 거래처와 직원들에게 보낼 명절 선물로 농수산물센터에서 과일세트를 주문했다며 사진과 함께 관련 사연을 공개했다. A씨가 공개한 사진에는 크기",
+      "author": "이상목",
+      "summary": "추석 선물로 주문한 과일 선물세트가 변색되고 주문한 구성과 달리 배송되었다는 사연이 온라인에서 확산하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f289a9788c31",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "트럼프의 디젤 수출 금지 계획에 EU 우려",
+      "link": "https://www.theguardian.com/business/2026/sep/24/eu-trump-diesel-export-ban-fuel-prices-europe",
+      "publishedAt": "2026-09-24T14:46:44.000Z",
+      "description": "US president’s suggested 90-day export ban before midterm elections could bring even higher fuel prices across Europe The EU has warned Donald Trump against plans to ban US diesel exports to the global market, saying the move would negatively affect Europe and the US. The European Commission has reacted with “concern” to reports this week that the US president could prevent diesel from reaching the global market. Continue reading...",
+      "author": "Jillian Ambrose Energy correspondent",
+      "summary": "트럼프 미국 대통령이 중간선거 전 디젤 수출 금지를 계획 중이며, EU는 이것이 유럽의 연료 가격 상승을 초래할 것으로 우려했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7008f3a49730",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "도수치료 막히니 '이 치료'에 환자 북적…실손보험 적자 줄인다더니, 효과는",
+      "link": "https://www.mk.co.kr/news/economy/12161157",
+      "publishedAt": "2026-09-24T14:42:05.000Z",
+      "description": "도수치료, 지난 7월 관리급여화 전환 횟수 제한·선행 물리치료 조건 생겨 신장분사치료 등 유사한 치료 증가# 최근 어깨가 아파 병원을 찾은 A씨는 주사를 맞고 물리치료를 받았다. ..",
+      "author": "매일경제",
+      "summary": "7월 도수치료 관리급여화로 횟수 제한과 선행 물리치료 조건이 생기면서, 신장분사치료 등 유사 치료 수요가 증가했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e1cc179d8f9a",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "번엄과 트럼프 회담의 진실은? - 팟캐스트",
+      "link": "https://www.theguardian.com/politics/audio/2026/sep/24/what-really-happened-andy-burnham-trump-podcast",
+      "publishedAt": "2026-09-24T14:27:39.000Z",
+      "description": "Pippa Crerar had a front row seat for the PM’s first meeting with Donald Trump. What really happened during that 12-minute press conference? And as the Labour conference kicks off this weekend, she and Kiran Stacey discuss the ethics of journalist-politician karaoke Please keep sending your comments and questions to Pippa and Kiran on politicsweeklyuk@theguardian.com Watch this episode and subscribe to our YouTube channel here Continue reading...",
+      "author": "Presented by Pippa Crerar and Kiran Stacey, produced by John Rogers, original mu",
+      "summary": "팟캐스트 진행자가 영국 총리의 트럼프와의 첫 12분 회담 실제 경과와 저널리스트-정치인 간의 노래방 윤리 문제를 다루었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b619ce8c7208",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "보수당, 장기 실업자의 알콜·담배 구입 금지 방침",
+      "link": "https://www.bbc.co.uk/news/articles/c920vy2jxle8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-24T10:25:58.000Z",
+      "description": "The proposals would also see benefits cut for people who are able to work but have failed to hold down a job.",
+      "author": null,
+      "summary": "보수당이 장기 실업자의 사회보장급여로 알콜과 담배 구매를 제한하고, 직업을 유지하지 못한 일할 수 있는 사람의 급여를 삭감하는 방안을 제안했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "639f2e09d19f",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "롤스로이스, 수백만 규모 엔진 거래 체결",
+      "link": "https://www.bbc.co.uk/news/articles/cmpwle47zxgyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-24T10:14:47.000Z",
+      "description": "The order will see 18 engines built and maintained by the company from its Derby aerospace centre.",
+      "author": null,
+      "summary": "롤스로이스가 더비 항공우주 센터에서 18개의 엔진을 제조하고 유지보수할 수백만 규모의 계약을 체결했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "71429c3bc1b9",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "이란전쟁 초반 수준으로 되돌아간 中 국내유가…7월보다 22%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260924045200083",
+      "publishedAt": "2026-09-24T09:09:59.000Z",
+      "description": "(베이징=연합뉴스) 정성조 특파원 = 중동 정세 긴장이 지속되면서 다소 떨어졌던 중국의 국내 유가가 이란 전쟁 발발 직후 수준으로 다시 상승했다...",
+      "author": "정성조",
+      "summary": "중동 정세 긴장 지속으로 중국의 국내 유가가 이란 전쟁 발발 직후 수준으로 상승해 7월 대비 22% 올랐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c6d397075667",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "\"AI 속도 조절론은 기우 … 반도체 중심 상승세 계속\"",
+      "link": "https://www.mk.co.kr/news/stock/12160968",
+      "publishedAt": "2026-09-24T09:03:47.000Z",
+      "description": "추석 연휴 이후 국내외 증시가 단기 불확실성을 소화한 뒤 4분기 반등을 시도할 것이라는 주요 증권사 리서치센터장들의 전망이 나왔다. 고금리 장기화 우려와 중동 지정학적 리스크가 증..",
+      "author": "매일경제",
+      "summary": "주요 증권사 리서치센터장들은 추석 연휴 이후 국내외 증시가 단기 불확실성을 소화한 뒤 4분기 반등하며 반도체 중심의 상승세가 계속될 것으로 전망했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e8bfa052eee6",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "[외환] 원/달러 환율 7.6원 오른 1,366.0원(15:30 기준가)",
+      "link": "https://www.yna.co.kr/view/AKR20260924038600002",
+      "publishedAt": "2026-09-24T06:32:38.000Z",
+      "description": "(",
+      "author": "경제부",
+      "summary": "원달러 환율이 7.6원 상승하여 1,366.0원(오후 3시 30분 기준)으로 거래되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "87da000a799e",
+      "category": "economy",
+      "source": "동아일보 경제",
+      "region": "kr",
+      "title": "\"엄마, 나야\" 분명 아들 목소리인데…AI 보이스피싱, 가족까지 속인다",
+      "link": "https://www.donga.com/news/Economy/article/all/20260924/134731686/1",
+      "publishedAt": "2026-09-24T06:05:18.000Z",
+      "description": "추석을 맞아 온 가족이 한자리에 모였다면 부모님 휴대전화부터 살펴보자. 택배 배송 사칭 문자부터 자녀 목소리를 똑같이 흉내 낸 인공지능(AI) 보이스피싱까지 수법이 갈수록 진화하고 있다.금융당국에 따르면 2020년부터 지난해까지 설이 포함된 1~2월과 추석이 포함된 9~10월에 발생한 보이스피싱 피해는 총 4만4883건, 피해액은 4650억원으로 집계됐다.이번 추석에는 가족이 모인 자리에서 휴대전화 보안 설정을 함께 점검하자. 부모님께 드리는 효도 선물인 셈이다.◆“택배 주소가 잘못됐습니다”…문자 속 링크 눌렀다간추석 연휴에 주의해야 할 대표적인 사기 수법은 택배 배송이나 과태료 납부를 사칭한 ‘스미싱(문자메시지 피싱)’이다. 배송 주소가 잘못됐다거나 교통법규 위반 내역을 확인하라는 문자에 인터넷주소(URL)를 넣어 접속을 유도하는 방식이다.문장이 자연스럽거나 내 이름이 적혀 있다고 안심해서는 안 된다. 요즘은 생성형 AI를 써서 오탈자 없이 자연스러운 문장을 만든다. 유출",
+      "author": null,
+      "summary": "AI를 이용한 보이스피싱이 자녀 목소리를 정확히 흉내내며 부모를 속이는 사기 수법이 증가하고 있으며, 추석에는 가족의 휴대전화 보안 설정 점검을 권했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c4257a6e3cf9",
+      "category": "economy",
+      "source": "동아일보 경제",
+      "region": "kr",
+      "title": "계곡 정비보다 쉽다더니…못 잡는 서울 아파트, 85주 연속 상승",
+      "link": "https://www.donga.com/news/Economy/article/all/20260924/134731439/1",
+      "publishedAt": "2026-09-24T05:03:00.000Z",
+      "description": "서울 아파트 매매가격이 한국부동산원 집계 기준 85주 연속 상승했다. 이대로라면 다음주 86주 연속 상승하며 기존 최장 상승 기간을 넘어설 것으로 보인다. 24일 한국부동산원에 따르면 9월 셋째 주(21일 조사 기준) 서울 아파트 매매가격은 전주(0.16%) 대비 0.13% 올랐다. 강남구(―0.42%)와 서초구(―0.37%), 송파구(―0.14%) 등 강남3구는 하락세를 이어갔다. 용산구(0.02%)와 마포구(0.06%) 등 일부 한강벨트 지역도 오름폭이 축소됐다. 반면 서대문구(0.44%), 동대문구와 성북구(0.39%) 등 15억 원 이하 아파트가 많은 강북 지역을 중심으로 가파른 상승세가 이어지며 전체적으로 상승했다. 부동산원은 “일부 단지에서 가격이 조정된 거래가 나타났으며, 선호도 높은 대단지 및 역세권 등 정주여건이 양호한 지역 중심으로 매매가격이 상승했다”고 설명했다. 이에 따라 서울 아파트 매매가격은 지난해 2월 3일 상승 전환한 뒤 한국부동산원이 지난해 10월",
+      "author": null,
+      "summary": "서울 아파트 매매가격이 85주 연속 상승했으며, 강남3구는 하락세를 보인 가운데 강북 지역을 중심으로 가파른 상승세가 이어졌다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "90b2cf2ed1f7",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "李 \"北포로 송환 비공개 타당…생명·국익 해치는 공개 옳지 않아\"",
+      "link": "https://www.donga.com/news/Politics/article/all/20260924/134732180/1",
+      "publishedAt": "2026-09-24T14:58:00.000Z",
+      "description": "이재명 대통령은 24일(현지 시간) 야권에서 우크라이나가 북한군 포로 2명을 한국으로 보낸 것을 ‘왜 우리 정부는 비공개했느냐’고 지적한 것을 두고 “타당하고 정당한 비공개 조치를 비난하는 것은 옳지 않다”고 밝혔다.멕시코 국빈 방문 중인 이 대통령은 이날 X(옛 트위터)에 “국정은 국가와 국민을 위해 하는 것이지, 정권과 집권자의 이익이나 인기를 위해 해서는 안 된다”며 이같이 말했다. 이어 “국정지지율 만회에 명백히 도움될 북한포로 국내송환 사실을 공개하자는 내부주장이 왜 없었겠나”며 “그러나 공개로 생길 여러 문제를 생각할 때 비공개하는 것이 모든 면에서 타당했고 그렇게 합의했다”고 말했다.이 대통령은 “북한포로 국내송환 문제는 외교, 안보, 한반도 정세에 크게 영향을 미치는 매우 예민한 의제”라며 “남북관계가 어떻게 되든 누군가 죽어나가든 국익이 손상되든 개의치 않고, 성과를 생색내느라 포로 송환사실을 징치고 춤추며 온세상에 광고했을 그들 입장에서는 우리 정부의 비공개노력",
+      "author": null,
+      "summary": "이재명 대통령이 북한군 포로를 비공개로 송환한 것이 타당한 조치라고 설명했다. 대통령은 공개로 인한 국익 손상을 고려해 비공개하기로 합의했다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0d3ced69ef66",
+      "category": "politics",
+      "source": "노컷뉴스",
+      "region": "kr",
+      "title": "북한군 포로 2명 \"무사히 한국 도착\" 확인, 北 반응은?",
+      "link": "https://www.nocutnews.co.kr/news/6583108",
+      "publishedAt": "2026-09-24T14:57:48.000Z",
+      "description": "우크라이나 군에 붙잡혔던 북한군 포로 2명이 최근 한국에 입국한 것으로 파악됐다. 정부가 자세한 사항에 대해 확인하지 않았으나 \"그간 우크라이나 측을 비롯한 관련국 및 기관과 필요한 소통과 협의를 진행해 왔다\"며 사실상 시인 입장을 밝혔고, 유용원 국민의 힘 의원은 기자회견을 통해 \"두 사람이 며칠 전 무사히 대한민국에 도착했다\"고 확인했다. 이들은 3,4일 전에 한국에 도착한 것으로 전해졌다. 다만 청와대와 외교부는 \"이 사안은 당사자 및 가족의 신변안전과 관련된 민감한 사안\"이라며 \"개별 인원의 신병 처리 여부나 시기 및 경로, 양국 간 구체적인 협의 내용 등에 대해서는 확인해 드리기 어려운\" 상황에 대해 양해를 당부했다. 이들은 일단 국정원의 보호 아래 심신의 안정을 되찾은 뒤 향후 일정 기간 조사와 심문을 거치게 된다. 정보 당국은 이들의 외부 노출을 상당기간 철저히 피하고 신변보호에 주력할 것으로 예상된다. 현재 이들의 건강상태는 비교적 양호한 것으로 알려졌다. 정부가 앞으로 이들의 동향을 크게 부각시키지 않는 한 북한도 대외적으로 문제를 삼지는 않을 것이라는 관측이 나온다. 포로 2명의 한국행이 이슈화될수록 북한도 파병의 불법성과 심각한 인권침해 ",
+      "author": null,
+      "summary": "우크라이나에 포로로 잡혀있던 북한군 2명이 최근 한국에 입국했으며, 정부가 신변안전을 고려해 비공개로 진행하고 있다. 현재 국정원 보호 하에서 심신 회복과 조사가 진행되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "49df4dc7cc0d",
+      "category": "politics",
+      "source": "조선일보",
+      "region": "kr",
+      "title": "한국 꺾고 결승 간 日 '신성' 도모카, 결국 눈물... \"어떻게 대응해야 할지 몰라 힘들어졌다\"",
+      "link": "https://www.chosun.com/sports/sports_general/2026/09/24/GE3TCNBUMU4WMZJXMEYDEMLEMQ/",
+      "publishedAt": "2026-09-24T14:57:01.000Z",
+      "description": "[스포츠조선 김가을 기자]일본 배드민턴 '신성' 미야자키 도모카가 눈물을 쏟았다. 일본 배드민턴 여자 대표팀은 24일 일본의 아이치현의 이치노미야 시립체육관에서 열린 중국과의 2026년 아이치-나고야 아시안게임 배드민턴 여자 단체 결승전에서 매치스코어 3대0(1-2, 0-2, 0-2)으로 패했다. 일본은 2018년 자카르타-팔렘방 대회 이후 8년 만의 금메",
+      "author": "스포츠조선",
+      "summary": "일본 배드민턴 선수 미야자키 도모카가 2026 아이치-나고야 아시안게임 여자 단체 결승전에서 중국에게 패하면서 눈물을 흘렸다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7b9c07de0c56",
+      "category": "politics",
+      "source": "SBS 뉴스",
+      "region": "kr",
+      "title": "청와대 \"유시민 발언에 유감\"…법적 대응 검토하나",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008769297",
+      "publishedAt": "2026-09-24T14:44:00.000Z",
+      "description": "최근 유시민 작가가 이재명 대통령의 검찰개혁 구상을 놓고 \"국민을 속였다\"고 비판했는데요. 청와대가 공식적으로 유감을 표했습니다.",
+      "author": "spirit@sbs.co.kr (김관진)",
+      "summary": "유시민 작가가 이재명 대통령의 검찰개혁 구상을 \"국민을 속였다\"고 비판했고, 청와대가 공식적으로 유감을 표했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d34f48b03b35",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "李대통령 \"北포로 송환, 우크라가 비공개 합의 어기고 공개\"",
+      "link": "https://www.yna.co.kr/view/AKR20260924055000001",
+      "publishedAt": "2026-09-24T14:41:04.000Z",
+      "description": "(서울=연합뉴스) 황윤기 기자 = 이재명 대통령은 24일 볼로디미르 젤렌스키 우크라이나 대통령이 유엔 연설을 통해 우크라이나군에 생포된 북한군 ...",
+      "author": "황윤기",
+      "summary": "이재명 대통령이 우크라이나가 북한군 포로 송환에 대한 비공개 합의를 어기고 유엔 연설을 통해 공개했다고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "65598ec89277",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "러 외무차관 \"김정은 방러 초청…일정 조율 예정\"",
+      "link": "https://www.yna.co.kr/view/AKR20260924048154109",
+      "publishedAt": "2026-09-24T14:17:46.000Z",
+      "description": "(로마=연합뉴스) 민경락 특파원 하채림 기자 = 러시아가 김정은 북한 국무위원장의 러시아 방문을 초청했다고 러시아 외무차관이 밝혔다.",
+      "author": "하채림",
+      "summary": "러시아 외무차관이 김정은 북한 국무위원장의 러시아 방문을 초청했으며, 일정 조율을 진행할 예정이라고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "74bbedb2517d",
+      "category": "politics",
+      "source": "연합뉴스 사회",
+      "region": "kr",
+      "title": "남산도서관 앞 순환버스 사고…외국인 3명·한국인 1명 경상",
+      "link": "https://www.yna.co.kr/view/AKR20260924053651004",
+      "publishedAt": "2026-09-24T14:01:06.000Z",
+      "description": "(서울=연합뉴스) 조현영 기자 = 서울 용산구 남산도서관 앞에서 서울시 남산 순환버스가 가로수 화단과 정류장을 들이받는 사고가 발생했다.",
+      "author": "조현영",
+      "summary": "서울 용산구 남산도서관 앞에서 서울시 남산 순환버스가 가로수 화단과 정류장을 들이받는 사고가 발생해 외국인 3명과 한국인 1명이 경상을 입었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "daab4f9c25b5",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "러 외무차관 \"김정은 방러 초청\"···선수 친 푸틴, 트럼프보다 먼저 만날까",
+      "link": "https://www.khan.co.kr/article/202609241954001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-09-24T10:54:00.000Z",
+      "description": "김정은 북한 국무위원장과 블라디미르 푸틴 러시아 대통령이 2024년 6월19일 북한 평양 금수산 영빈관에서 열린 북·러 정상회담에서 ‘포괄적 전략 동반자 조약’에 서명한 뒤 악수하고 있다. 타스연합뉴스김정은 북한 국무위원장이 러시아 방문을 초청받았다고 타스통신이 24일(현지시간) 보도했다. 도널드 트럼프 미국 대통령이 연내 북·미 정상회담을 추진 의사를 밝···",
+      "author": "김윤나영 기자",
+      "summary": "러시아 외무차관이 김정은 북한 국무위원장의 러시아 방문을 초청했으며, 이는 푸틴 대통령이 트럼프 미국 대통령보다 먼저 북한 지도자를 만날 가능성을 시사했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0ff64175dfe1",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "올 추석 울산서 뭐할까···박물관서 민속놀이, 미술관서 특별전 즐긴다",
+      "link": "https://www.khan.co.kr/article/202609241856001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-09-24T09:56:00.000Z",
+      "description": "울산박물관에서 지난해 추석 열린 대동놀이에 참여한 방문객들이 줄다리기를 하고 있다. 울산박물관 제공추석 연휴를 맞아 울산지역 박물관과 미술관이 전통문화 체험, 민속놀이, 특별전 등을 통해 방문객을 맞이한다.울산박물관은 24~26일 3일간 박물관 곳곳에서 ‘요즘 추석, 풍성한 박물관’ 행사를 마련한다. 행사는 시민 누구나 무료로 참여할 수 있고, 체험 행사는···",
+      "author": "이우사 기자",
+      "summary": "올해 추석을 맞아 울산 지역의 박물관과 미술관이 전통문화 체험, 민속놀이, 특별전 등 다양한 행사를 개최하여 방문객을 맞이한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "90326b881a08",
+      "category": "politics",
+      "source": "서울신문",
+      "region": "kr",
+      "title": "'대구 달성·추계 추씨 뿌리' 추경호·추미애, 상반된 행보…추석 밥상 화두",
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20260924500074",
+      "publishedAt": "2026-09-24T07:18:14.000Z",
+      "description": "민족 대명절 추석을 맞아 추경호 대구시장과 추미애 경기도지사의 엇갈린 행보가 대구 밥상 민심 화두로 떠올랐다. 대구 달성군 다사읍 출신이자 ‘추계 추씨’라는 같은 뿌리를 둔 여야 중량급 정치인이지만, 광역단체장 취임 후 극명한 대비를 보이면서다. 24일 대구 지역 정치권 등에 따르면 소속 정당이 국민의힘과 더불어민주당으로 다른 두 사람은 정치적 성향 차이를 넘어 재정 운용과 관사 사용, 소통 방식 등 여러 측면에서 다른 스타일로 시·도정을 운영하고 있다. 경기도와 대구시는 재정 운용 기조부터 대비를 보인다. 경기도의 예산 규모는 41조 7000여억원, 재정자립도는 44.4%다. 채무비율은 12%대를 유지하고 있다. 대구시의 경우 예산은 12조 2000여억원, 재정자립도는 35.2%에 그친다. 채무비율도 19%를 웃돌아 경기도에 비해 상대적으로 열악하다. 이에 추미애 지사는 재정 비상 상황을 선포하고 5000억원 규모의 세출 구조조정에 나섰다. 이와 함께 재정건전화 조례의 각종 장치를 본격적으로 현실화하고 있다. 추경호 시장은 ‘확장 재정’을 추진하고 있다. 지출 효율화를 도모하되 시민 체감도가 높고 미래 성장동력이 될 사업에는 재정을 집중 투입하겠다는 구상이",
+      "author": "대구 민경석 기자",
+      "summary": "같은 지역 출신이고 같은 성씨인 추경호 대구시장과 추미애 경기도지사가 재정운용과 정치 행보에서 대조적인 모습을 보이고 있다. 추미애 지사는 재정비상을 선포해 구조조정을 추진하는 반면, 추경호 시장은 확장재정으로 체감도 높은 사업에 투자하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "67d2338fb143",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "20개월 걸린 북한군 포로 한국행…젤렌스키, 유엔서 공개한 까닭은",
+      "link": "https://www.yna.co.kr/view/AKR20260924053700109",
+      "publishedAt": "2026-09-24T14:47:54.000Z",
+      "description": "(로마=연합뉴스) 민경락 특파원 = 작년 초 우크라이나군에 생포된 북한군 병사 2명이 20개월 만에 한국에 안착하면서 우크라이나가 이들을 한국에...",
+      "author": "민경락",
+      "summary": "우크라이나군이 생포한 북한군 병사 2명이 20개월 만에 한국에 도착했으며, 젤렌스키 대통령이 유엔에서 이를 공개했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9c8daff08492",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "[속보] 시진핑 \"중화민족 위대한 부흥과 MAGA 함께 갈 수 있어\"",
+      "link": "https://www.yna.co.kr/view/AKR20260924056300089",
+      "publishedAt": "2026-09-24T14:45:53.000Z",
+      "description": "bscha@yna.co.kr (끝)",
+      "author": "차병섭",
+      "summary": "중국의 시진핑 국가주석이 중화민족의 위대한 부흥과 미국의 MAGA 목표를 함께 추진할 수 있다고 했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9551f17281e8",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "나치 포로수용소 범죄 혐의로 조사받는 105세 독일인",
+      "link": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-24T14:37:34.000Z",
+      "description": "The suspect is alleged to have been an accessory to murder at the Stalag 326 camp, where tens of thousands of Soviet PoWs died.",
+      "author": null,
+      "summary": "독일의 스탈라그 326 포로수용소에서 소련군 포로 수만 명이 사망한 가운데, 105세 노인이 그곳에서의 살인 공모 혐의로 조사를 받고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d2c3259b74bf",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "OpenAI 개발 AI가 호주 보건 시스템 해킹한 이유",
+      "link": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-24T14:08:38.000Z",
+      "description": "News that an automated AI agent hacked a government IT system raises big questions about regulating the tech.",
+      "author": null,
+      "summary": "자동화된 AI 에이전트가 호주 정부 IT 시스템에 침투한 사건이 발생했으며, 향후 기술 규제 문제를 제기했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c7c1efc38cf9",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "극단주의 정당의 부상에 국민들 우려",
+      "link": "https://www.dw.com/en/extremist-parties-are-thriving-―-and-that-scares-people/a-79410960?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-09-24T14:00:00.000Z",
+      "description": "Far-right and far-left parties are celebrating success after success, leaving moderate politicians in the dust and worrying many Germans. Political psychology helps us understand what's behind growing polarization.",
+      "author": null,
+      "summary": "극우와 극좌 정당들이 선거 성공을 거두면서 온건파 정치인들을 밀어내고 있으며, 독일을 중심으로 양극화가 심화되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1b26adc961bb",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "에티오피아 티그레이의 전투, 아프리카 뿔 지역으로 확산 위험",
+      "link": "https://www.dw.com/en/how-renewed-fighting-in-tigray-could-spread-across-the-horn-of-africa/a-79410333?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-09-24T13:59:00.000Z",
+      "description": "The fresh hostilities in Ethiopia's Tigray region come after months of growing animosity between rebel forces and the federal government. Horn of Africa expert Martin Plaut warns of possible regional spillover.",
+      "author": null,
+      "summary": "에티오피아의 티그레이 지역에서 재개된 반군과 연방정부 간의 전투가 지역 전역으로 확산될 수 있다고 전문가들이 경고했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8a698a373814",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "이란 항의 혐의로 사형 선고받은 쌍둥이 자매 가족, 유엔에 도움 청하다",
+      "link": "https://www.theguardian.com/world/2026/sep/24/twins-sentenced-to-death-and-jail-iran-un-appeal",
+      "publishedAt": "2026-09-24T13:15:48.000Z",
+      "description": "Taraneh and Romina Rahimi were charged with ‘waging war against God’ after joining protests against Tehran regime The family of 21-year-old twins who have been sentenced respectively to death and decades in jail for protesting against the Iranian regime have appealed to the United Nations for help. A formal “submission of information” relating to the case of Taraneh and Romina Rahimi has been submitted by British human right lawyers on their family’s behalf. Continue reading...",
+      "author": "Daniel Boffey Chief reporter",
+      "summary": "이란 정권에 항의한 혐의로 사형과 수십 년의 징역형을 받은 21세 쌍둥이 자매의 가족이 유엔에 도움을 청했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8f4dd4d72b54",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "트럼프-시진핑 정상회담, 우호적 분위기 속 근본적 긴장은 해소 못 해",
+      "link": "https://www.npr.org/2026/09/24/g-s1-144806/trump-xi-summit",
+      "publishedAt": "2026-09-24T12:43:15.000Z",
+      "description": "Despite the pageantry and the cordial tone, expectations for any big breakthroughs on issues ranging from AI to Iran to a trade war truce are low.",
+      "author": "Rob Schmitz",
+      "summary": "트럼프와 시진핑이 정상회담에서 우호적인 분위기를 연출했으나, AI·이란·무역전쟁 등 주요 현안에서 실질적 합의는 어려울 것으로 예상된다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "acaa643d2f52",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "법원 기자들의 백악관 출입권 회복 명령, 터커 칼슨 MAGA 결별 인터뷰",
+      "link": "https://www.npr.org/2026/09/24/g-s1-144850/up-first-newsletter-cnn-msnow-politico-iran-ukraine-unga-china-xi-jinping-trump",
+      "publishedAt": "2026-09-24T11:10:14.000Z",
+      "description": "A judge has ordered that the Trump administration restore journalists' access to White House. And, Tucker Carlson sits down with Morning Edition's Steve Inskeep for a Newsmakers interview.",
+      "author": "Brittney Melton",
+      "summary": "법원이 트럼프 행정부에 기자들의 백악관 출입권 회복을 명령했으며, 터커 칼슨이 MAGA와의 결별에 대해 인터뷰했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "64aa5f95430f",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "인도 석유재벌 상속자의 지속가능성 교수 임명에 비판",
+      "link": "https://www.theguardian.com/education/2026/sep/24/indian-oil-gas-heir-professor-sustainability-newcastle-university-anant-ambani",
+      "publishedAt": "2026-09-24T10:26:44.000Z",
+      "description": "Role for Anant Ambani, son of India’s richest person, who also runs a controversial mega-zoo, met with incredulity Newcastle University is facing a backlash from conservationists over the appointment of the heir to an Indian oil and gas fortune who runs a controversial mega-zoo as a professor of sustainability. The university announced that Anant Ambani had been given a professorship of practice for “his work in conservation, biodiversity protection, animal welfare and environmental stewardship” and “significant contributions to advancing a more sustainable future”. Continue reading...",
+      "author": "Rachel Hall and Patrick Greenfield",
+      "summary": "인도의 석유재벌 가문의 상속자이자 논란의 여지가 있는 대규모 동물원을 운영하는 아난트 암바니가 뉴캐슬대학교의 지속가능성 교수로 임명되면서 환경운동가들로부터 비판을 받았다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "901887dfcbe5",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "중간선거가 얼마나 걱정스러운가?",
+      "link": "https://www.nytimes.com/video/opinion/100000011157888/how-worried-should-we-be-about-the-midterm-elections.html",
+      "publishedAt": "2026-09-24T13:39:50.000Z",
+      "description": "And how we learn to trust elections again.",
+      "author": null,
+      "summary": "중간선거에 대해 얼마나 걱정해야 하는지, 그리고 선거에 대한 신뢰를 어떻게 회복할 것인지를 묻고 있습니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "dcda2ec96624",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "톰 크루즈의 어색한 인터뷰 재개가 오스카 도전을 방해할 수 있다",
+      "link": "https://www.washingtonpost.com/opinions/2026/09/24/tom-cruise-wants-an-oscar-his-digger-press-tour-wont-help/",
+      "publishedAt": "2026-09-24T11:30:00.000Z",
+      "description": "Twenty years after the Oprah couch, the actor is easing back into the interview circuit — awkwardly.",
+      "author": "Will Leitch",
+      "summary": "톰 크루즈가 최근 어색하게 인터뷰 투어를 재개하고 있으며, 이것이 그의 오스카 도전 계획을 방해할 수 있다고 지적합니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f4202ca7683d",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "경제학이 미국을 파괴했나? 80년 된 접근법이 도움될 수 있다",
+      "link": "https://www.washingtonpost.com/opinions/2026/09/24/james-k-galbraiths-power-destroy-diagnoses-cannot-cure/",
+      "publishedAt": "2026-09-24T11:15:00.000Z",
+      "description": "The “power to destroy” is not confined only to one political side.",
+      "author": "Julia R. Cartwright",
+      "summary": "경제학이 미국을 파괴했다는 주장에 대해, '파괴의 힘'이 한쪽 정치 진영에만 국한되지 않는다고 반박합니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e290e5d3bb64",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "톰 왓슨의 팔란티르 입사, 영국 정치의 부패가 얼마나 심각한지 보여준다",
+      "link": "https://www.theguardian.com/commentisfree/2026/sep/24/tom-watson-palantir-uk-politics",
+      "publishedAt": "2026-09-24T11:00:17.000Z",
+      "description": "When a former Labour deputy leader joins a firm built on surveillance and military targeting, it deepens public cynicism – and democracy depends on trust Whatever is said about Tom Watson, the former deputy leader of the Labour party has a knack for landing headlines. In the past he did it at the expense of the rich and powerful – from News International, over phone hacking, to the Home Office, over its mass surveillance of our data. But his latest headline – that he has joined Palantir as a senior vice-president – has been at the expense of public confidence in the political class. His new ap",
+      "author": "Clive Lewis",
+      "summary": "전 노동당 부당수인 톰 왓슨이 감시·군사 기술 회사 팔란티르에 입사한 것은 영국 정치의 심각한 부패를 드러내며 민주주의의 기초인 공적 신뢰를 훼손한다고 비판합니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5c7ef8ed37f2",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "러시아의 사기 선거는 진정한 반발이 필요하다",
+      "link": "https://www.washingtonpost.com/opinions/2026/09/24/russia-election-results-under-putin-deserve-western-scorn/",
+      "publishedAt": "2026-09-24T11:00:00.000Z",
+      "description": "Western democracies should stop pretending Putin’s parliament deserves respect or recognition.",
+      "author": "Vladimir Kara-Murza",
+      "summary": "러시아의 선거가 사기라며, 서방 민주주의 국가들이 푸틴의 의회를 존중할 필요가 없다고 주장합니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9ccc2f033fb7",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "채권시장은 위험신호인데, 트럼프는 듣지 않는다",
+      "link": "https://www.washingtonpost.com/opinions/2026/09/24/britains-high-bond-yields-are-warning-america/",
+      "publishedAt": "2026-09-24T10:45:00.000Z",
+      "description": "Fiscal mismanagement could expose the United States to bond vigilantes.",
+      "author": "Ross Clark",
+      "summary": "채권시장의 신호를 무시하면 미국이 재정 오관리로 인해 채권 시장의 압력에 노출될 수 있다고 경고합니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7b260bb56fff",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "여성 종속을 추진하는 미국 우파, 저속한 문화를 수용하다",
+      "link": "https://www.theguardian.com/commentisfree/2026/sep/24/women-conservatives-male-domination",
+      "publishedAt": "2026-09-24T10:00:14.000Z",
+      "description": "Conservatives long promoted a politics of sexual prohibition. Now such morals have been shed in favor of male domination Under Kash Patel, the FBI will now hire you even if you have a history of hiring prostitutes, or of having sex with animals. The rightwing Maha influencer Alex Clark had a guest on to her talk show to discuss the idea that wives should provide sex for their husbands on demand. A new ad for a sports gambling website is being hailed as a victory for the political right, because it features a nude Sydney Sweeney clutching footballs to her breasts. The Tate brothers, who encoura",
+      "author": "Moira Donegan",
+      "summary": "여성을 종속시키려는 미국 우파가 기존의 성적 금지 정치를 버리고 남성 지배와 저속한 문화를 추구하는 것으로 전환했다고 비판합니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1080109f56e8",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "외로움의 위기 속 친구 구매 앱, 해결책이 될 수 있을까?",
+      "link": "https://www.theguardian.com/commentisfree/2026/sep/24/crisis-loneliness-buying-friends-on-an-app-shortcuts",
+      "publishedAt": "2026-09-24T09:00:13.000Z",
+      "description": "Shortcuts work against the rewards of friendship: authentic relationships can surely only be forged when you’re not expecting a return on your money What price would you put on friendship? In these hyper-capitalistic times, where nothing is beyond being given a monetary value, perhaps even Mastercard wouldn’t dare to claim that it’s priceless. A YouGov survey found that 15% of Britons say they have no close friends, while nearly one in 10 (8%) have no friends at all. The numbers are similarly dismal in the US. As we face this contemporary crisis of connection, it is little wonder that friendsh",
+      "author": "Elle Hunt",
+      "summary": "외로움의 위기 속에서 앱으로 친구를 사는 것은 진정한 우정에 필요한 금전적 기댓값 없는 진정성을 해칠 수 있다고 지적합니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "820faafeaf00",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "이란이 드러낸 미군 기지의 취약성",
+      "link": "https://www.nytimes.com/2026/09/22/opinion/us-military-bases-iran-pentagon.html",
+      "publishedAt": "2026-09-24T02:14:05.000Z",
+      "description": "The Pentagon must revamp how it positions its troops and equipment amid the proliferation of low-cost drones and precision missiles.",
+      "author": "W.J. Hennigan",
+      "summary": "이란이 노출시킨 미군 기지의 취약성을 고려하여, 펜타곤이 저비용 드론과 정밀 미사일 위협 속에서 병력과 장비의 배치 방식을 혁신해야 한다고 촉구합니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "981c4315f910",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "미국과 중국, 새로운 시대에 진입하다",
+      "link": "https://www.nytimes.com/2026/09/23/opinion/trump-xi-meeting-us-china.html",
+      "publishedAt": "2026-09-24T01:57:39.000Z",
+      "description": "Neither the United States nor China can bend the other to its will, and it’s time for them to settle for a durable détente.",
+      "author": "Jessica Chen Weiss",
+      "summary": "미국과 중국이 서로를 굴복시킬 수 없다는 현실을 인정하고, 양국이 지속 가능한 데탕트를 추구해야 한다고 주장합니다.",
+      "summarySource": "llm"
+    }
+  ],
+  "summarizedAt": "2026-09-25T00:24:45.876Z",
+  "summaryStats": {
+    "llm": 50,
+    "fallback": 0,
+    "model": "claude-haiku-4-5"
+  }
+}
