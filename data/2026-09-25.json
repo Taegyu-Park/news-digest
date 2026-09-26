@@ -1,0 +1,898 @@
+{
+  "date": "2026-09-25",
+  "generatedAt": "2026-09-26T00:23:51.574Z",
+  "categories": [
+    {
+      "id": "it",
+      "label": "IT·과학·AI"
+    },
+    {
+      "id": "economy",
+      "label": "경제·금융"
+    },
+    {
+      "id": "politics",
+      "label": "정치·사회"
+    },
+    {
+      "id": "world",
+      "label": "세계·국제"
+    },
+    {
+      "id": "editorial",
+      "label": "사설·칼럼",
+      "opinion": true,
+      "summaryMaxChars": 220
+    }
+  ],
+  "feedStatus": [
+    {
+      "source": "Ars Technica",
+      "category": "it",
+      "ok": true,
+      "matched": 13
+    },
+    {
+      "source": "Hacker News",
+      "category": "it",
+      "ok": true,
+      "matched": 7
+    },
+    {
+      "source": "TechCrunch",
+      "category": "it",
+      "ok": true,
+      "matched": 2
+    },
+    {
+      "source": "The Verge",
+      "category": "it",
+      "ok": true,
+      "matched": 2
+    },
+    {
+      "source": "블로터",
+      "category": "it",
+      "ok": true,
+      "matched": 12
+    },
+    {
+      "source": "전자신문",
+      "category": "it",
+      "ok": true,
+      "matched": 27
+    },
+    {
+      "source": "ZDNet Korea",
+      "category": "it",
+      "ok": true,
+      "matched": 30
+    },
+    {
+      "source": "BBC Business",
+      "category": "economy",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "The Guardian",
+      "category": "economy",
+      "ok": true,
+      "matched": 20
+    },
+    {
+      "source": "매일경제 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 12
+    },
+    {
+      "source": "연합뉴스",
+      "category": "economy",
+      "ok": true,
+      "matched": 44
+    },
+    {
+      "source": "경향신문 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "경향신문 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "노컷뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 10
+    },
+    {
+      "source": "서울신문",
+      "category": "politics",
+      "ok": true,
+      "matched": 5
+    },
+    {
+      "source": "연합뉴스 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 30
+    },
+    {
+      "source": "연합뉴스 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 49
+    },
+    {
+      "source": "SBS 뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 25
+    },
+    {
+      "source": "Al Jazeera",
+      "category": "world",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC World",
+      "category": "world",
+      "ok": true,
+      "matched": 13
+    },
+    {
+      "source": "NPR",
+      "category": "world",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "The Guardian",
+      "category": "world",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "연합뉴스 국제",
+      "category": "world",
+      "ok": true,
+      "matched": 76
+    },
+    {
+      "source": "매일경제 증권",
+      "category": "economy",
+      "ok": true,
+      "matched": 7
+    },
+    {
+      "source": "경향신문 오피니언",
+      "category": "editorial",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "NYT Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "The Guardian Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 10
+    },
+    {
+      "source": "Washington Post Opinions",
+      "category": "editorial",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "동아일보 사설",
+      "category": "editorial",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "동아일보 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "조선일보",
+      "category": "politics",
+      "ok": true,
+      "matched": 3
+    },
+    {
+      "source": "동아일보 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 20
+    },
+    {
+      "source": "머니투데이",
+      "category": "economy",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "Wired",
+      "category": "it",
+      "ok": true,
+      "matched": 26
+    },
+    {
+      "source": "DW News",
+      "category": "world",
+      "ok": true,
+      "matched": 17
+    }
+  ],
+  "items": [
+    {
+      "id": "88351a4a7db5",
+      "category": "it",
+      "source": "Hacker News",
+      "region": "intl",
+      "title": "Jev, 포켓몬 레드 자동 플레이",
+      "link": "https://jev-pokemon.vercel.app/",
+      "publishedAt": "2026-09-25T14:28:07.000Z",
+      "description": "Hey HN! Wanted to share a fun project I've been hacking on. Given Jev can make decisions really fast (but not fast enough to play Doom yet sadly), I wanted to try and push it to play a more complex game than Tetris. So I went with Pokémon. I've spent endless hours playing this game as a child so building this was a ton of fun. I open sourced everything in case you want to hack on it yourself here: https://github.com/christianmat/jev-pokemon The game is being streamed live including the tokens and cost - hopefully we get all the badges and don't get stuck in a cave :) Comments URL: https://news",
+      "author": "pancomplex",
+      "summary": "AI 모델 Jev가 포켓몬 레드 게임을 자동으로 플레이하는 프로젝트가 실시간 스트리밍되고 있으며, 개발자가 전체 코드를 오픈소스로 공개했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d4722f05c10f",
+      "category": "it",
+      "source": "The Verge",
+      "region": "intl",
+      "title": "크리컷, 인쇄·절단·라미네이트 기능의 컴팩트 스티커머신 출시",
+      "link": "https://www.theverge.com/tech/1000655/cricut-sticker-pix-print-cut-crafting-printer-machines-stickers",
+      "publishedAt": "2026-09-25T14:21:25.000Z",
+      "description": "Cricut announced its first crafting machines with printing capabilities that are primarily designed as all-in-one solutions for turning photos and other images into precut stickers. The Cricut StickerPix Print plus Cut and Cricut StickerPix Print are also two of the smallest machines in the company's current lineup and seem ideal for those whose crafting aspirations may be limited by their available storage space. Starting at $299, the Cricut StickerPix Print plus Cut is the larger and more expensive of the two new machines and is also available as part of pricier bundles that include more con",
+      "author": null,
+      "summary": "크리컷이 사진과 이미지를 미리 잘린 스티커로 변환하는 올인원 기능의 컴팩트 공예 기계 2종을 299달러부터 출시했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9a2813986ec0",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "테크크런치 디스럽트 2026 엑스포+ 패스 75달러 한정 할인",
+      "link": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+      "publishedAt": "2026-09-25T14:15:00.000Z",
+      "description": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
+      "author": "TechCrunch Events",
+      "summary": "테크크런치 디스럽트 2026 엑스포+ 패스가 처음 100명 한정으로 75달러에 판매되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "dac2c0379fa6",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "NASA, PRIMA로 Webb 부품 활용한 저비용 우주망원경 개발",
+      "link": "https://arstechnica.com/space/2026/09/nasa-green-lights-billion-dollar-infrared-observatory-for-launch-in-early-2030s/",
+      "publishedAt": "2026-09-25T14:07:46.000Z",
+      "description": "NASA's PRIMA mission will use spare parts from Webb to do major science at a lower cost.",
+      "author": "Stephen Clark",
+      "summary": "NASA의 PRIMA 미션이 제임스 웹 우주 망원경의 여분 부품을 활용해 낮은 비용으로 주요 과학 임무를 수행한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "63a3eea9eebc",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "[금융★들의 궤적] 76조 카카오뱅크 일군 윤호영, 다음은 AI·글로벌",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=674214",
+      "publishedAt": "2026-09-25T14:00:00.000Z",
+      "description": "대한민국 금융권을 이끄는 스타(★), CEO의 공적과 미래를 전망합니다.지점은 없었지만 고객은 모였다. 직원 한 명으로 시작한 태스크포스(TF)는 12년 만에 고객 2763만명, 총자산 75조9171억원의 은행이 됐다. 윤호영 카카오뱅크 대표가 바꾼 것은 은행의 크기만이 아니다. 점포와 창구를 거쳐야 했던 금융을 스마트폰 안으로 옮기고 편의성을 은행의 핵심 경쟁력으로 끌어올렸다.이제 윤 대표는 두 번째 실험대에 섰다. 국내 모바일은행에서 확인한 성공 공식을 인공지능(AI)과 비은행, 해외시장으로 확장하는 도전이다. 지난 12년이 은",
+      "author": "이나리 기자",
+      "summary": "윤호영 카카오뱅크 대표가 12년 만에 지점 없는 모바일 은행을 2763만 고객, 75조원 자산 규모로 성장시켰으며, 이제 AI와 글로벌 시장으로 사업을 확대하려 한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1ccd04a0801c",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "격투기 링 위에서 로봇 3대와 '맞짱' 뜬 남성",
+      "link": "https://www.etnews.com/20260923000121",
+      "publishedAt": "2026-09-25T13:30:00.000Z",
+      "description": "인간과 휴머노이드 로봇이 링에서 치고받는 이색 격투 영상이 공개됐습니다. 미국 휴머노이드 로봇 격투 리그 REK는 최근 콘텐츠 크리에이터 '프랭키 라페나'가 여러 대의 휴머노이드 로봇과 차례로 격투를 벌이는 영상을 공개했습니다. 라페나는 키 약 130cm인 소형 로봇을 시작으로 약 180cm 크기의 로봇 2대와 차례로 격투를 벌였습니다. 특히 주최 측은 마지막에 등장한 '프레데터' 로봇을 '최종 보스'라고 소개하며 앞서 나온 로봇들보다 더 단단",
+      "author": "이창민",
+      "summary": "콘텐츠 크리에이터 프랭키 라페나가 미국의 휴머노이드 로봇 격투 리그 REK에서 130cm부터 180cm 크기의 로봇 3대와 차례로 경기했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "12d8e9763564",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "트럼프 행정부, 머스크의 X 소송 지원",
+      "link": "https://www.wired.com/story/trump-administration-is-trying-to-get-musk-and-x-out-of-a-dollar137-million-eu-fine/",
+      "publishedAt": "2026-09-25T11:32:17.000Z",
+      "description": "The US government filed an application to support the company’s legal challenge against a fine issued under the bloc’s Digital Services Act, which Trump has described as “overseas extortion.”",
+      "author": "Isabella Ward",
+      "summary": "미국 정부가 디지털 서비스법 위반으로 EU가 부과한 1억3700만 달러 벌금에 대한 머스크의 X의 법적 이의를 지원하기 위해 신청서를 제출했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b7b9f316ba9b",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "AI 투자축 GPU서 CPU·메모리로 확장…판 뒤집힌다 \"삼전닉스 가치 재평가\"",
+      "link": "https://www.etnews.com/20260925000044",
+      "publishedAt": "2026-09-25T10:15:00.000Z",
+      "description": "인공지능(AI) 인프라 투자의 중심축이 그래픽처리장치(GPU)에서 중앙처리장치(CPU)와 메모리 반도체로 빠르게 이동하면서 삼성전자와 SK하이닉스의 전략적 가치가 재평가될 수 있다는 분석이 나왔다. AI 에이전트 확산으로 추론 연산이 늘어나면서 고대역폭메모리(HBM)는 물론 DDR5와 기업용 솔리드스테이트드라이브(eSSD)까지 AI 데이터센터 전반의 메모리 수요가 확대될 수 있다는 전망이다. 김동원 KB증권 리서치본부장은 지난 24일 최근 뉴욕",
+      "author": "이상목",
+      "summary": "AI 에이전트 확산으로 추론 연산이 늘어나면서 AI 인프라 투자 축이 GPU에서 CPU와 메모리로 이동하고 있으며, 이에 따라 삼성전자와 SK하이닉스의 가치가 재평가될 수 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "be669c2f9694",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "Xinhua Silk Road: MAZU 기상 조기 경보 솔루션 장학금, 중국은행 및 푸톈 상인들로부터 기부 받아",
+      "link": "https://zdnet.co.kr/view/?no=20260925181003",
+      "publishedAt": "2026-09-25T09:10:03.000Z",
+      "description": "[지디넷코리아]베이징 2026년 9월 25일 /PRNewswire/ -- 중국의 전통적인 바다의 여신 마주(Mazu)의 이름을 따 글로벌 기상재해 예방을 지원하기 위해 제정된 마주 장학금(MAZU Scholarship)이 최근 중국은행(Bank of China, BOC)과 국내외 푸톈 상인들로부터 기부금을 받았다. 중국 남동부에 위치한 마주의 고향 푸톈시의 상인들과 해외 동포 상인들은 중국은행과 함께 장학금 및 네팔 맞춤형 'MAZU' 클라우드 플랫폼 구축을 지원하기 위해 각각 100만 위안과 200만 위안을 기부했다. 중국기상국(China Meteorological Administration, CMA)이 2025년 출시한 중국 자체 개발 AI 기반 기상 솔루션 제품군 'MAZU'는 유엔의 모두를 위한 조기 경보(Early Warnings for All) 이니셔티브에 부응한 최초의 솔루션이다. 40개 이상의 국가에서 클라우드 시험 운영을 지원하는 'MAZU'는 파키스탄, 에티오피아, 솔로몬제도, 요르단, 스리랑카, 몽골, 지부티 등 여러 국가에서 활용되고 있다. 국경을 초월한 기상 기술 교류를 촉진하고 전 세계의 조기 경보 역량을 높이기 위해 중국기상국은 지",
+      "author": "글로벌뉴스",
+      "summary": "중국기상국의 AI 기반 기상 조기 경보 솔루션 MAZU가 중국은행과 푸톈 상인들로부터 기부금을 받았으며, 40개국 이상에서 클라우드 시험 운영을 지원하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "45508ec790f1",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "머스크, '콜로서스 2' 투자 고삐…연내 엔비디아 칩 탑재 2배 늘린다",
+      "link": "https://zdnet.co.kr/view/?no=20260925153817",
+      "publishedAt": "2026-09-25T09:05:01.000Z",
+      "description": "[지디넷코리아]일론 머스크 테슬라 최고경영자(CEO)가 창업한 인공지능(AI) 스타트업 'xAI'가 대규모 AI 데이터센터 '콜로서스(Colossus) 2' 규모를 확장한다. 올 연말까지 엔비디아 칩 사용량을 기존 대비 2배 이상 늘리기로 했다.일론 머스크 테슬라 최고경영자(CEO)는 25일(현지시간) 사회관계망서비스(SNS) X를 통해 이같은 계획을 밝혔다.머스크는 \"콜로서스 2에는 현재 그레이스블랙웰200(GB200) 칩 11만개와 GB300 44만개가 탑재돼 있다\"며 \"다음 주에는 22만개의 GB300 칩이 완전 가동될 예정이고, 11월에 22만개가 추가된다\"고 밝혔다. 그는 \"운이 좋다면, 12월 말까지 22만개가 더 추가될 수 있을 것\"이라고 덧붙였다. 머스크의 계획이 순항하는 경우, 올 하반기에만 66만개 칩이 추가되는 셈이다.GB200과 GB300은 엔비디아의 초고성능 AI 반도체다. 블랙웰 울트라 그래픽처리장치(GPU)와 그레이스 중앙처리장치(CPU), 5세대 고대역폭메모리(HBM3E) 등을 탑재했다.콜로서스는 머스크가 미국 테네시주 멤피스 지역에 운영 중인 세계 최대 규모 AI 데이터센터다. xAI의 AI 모델인 그록(Grok) 학습을 위해 ",
+      "author": "장경윤 기자",
+      "summary": "일론 머스크의 AI 스타트업 xAI가 콜로서스 2 데이터센터의 엔비디아 칩 사용량을 연말까지 2배 이상 늘리고 있으며, 10월부터 12월까지 66만 개의 칩이 추가될 예정이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d72fc95aae72",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "아프리카 부자, 에티오피아-지부티 연료 파이프라인 6억 6000만 달러 자금 지원",
+      "link": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-25T14:24:19.000Z",
+      "description": "The pipeline would strengthen energy security in landlocked Ethiopia, while creating jobs at Djibouti's port.",
+      "author": null,
+      "summary": "아프리카 최부자가 에티오피아와 지부티를 연결하는 6억 6000만 달러 규모의 연료 파이프라인 자금을 지원하며, 이는 내륙국 에티오피아의 에너지 안보 강화와 지부티 항만의 일자리 창출로 이어질 것으로 예상된다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7739f87617a5",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "FBI 해킹으로 특수요원들의 혈액·소변 검사 결과 도용",
+      "link": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-25T13:56:16.000Z",
+      "description": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
+      "author": null,
+      "summary": "FBI 해킹으로 특수요원들의 혈액 및 소변 검사 결과가 도용되어, 전문가들은 해당 요원들이 사기, 갈취, 표적 공격에 취약해질 수 있다고 경고했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2eb90c9d5d2d",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "산재보험 1억6천만원 받았는데 또?…추락한 철근공 회사에 소송 낸 까닭 [어쩌다 세상이]",
+      "link": "https://www.mk.co.kr/news/economy/12161486",
+      "publishedAt": "2026-09-25T13:03:36.000Z",
+      "description": "고정 안 된 상판 뒤집혀 추락 척추·쇄골 등 크게 다쳐 산재보험 외 치료비·간병비·위자료 청구 법원 “회사 책임 60% 인정”공사장에서 다치면 산재보험으로 요양급여와 휴업급여, 장..",
+      "author": "매일경제",
+      "summary": "고정 장치가 없는 상판이 뒤집혀 철근공이 추락하여 척추와 쇄골 등이 큰 손상을 입었고, 산재보험 1억 6천만 원 외에 치료비·간병비·위자료 청구에서 법원이 회사의 책임을 60% 인정했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6b737f86a032",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "시진핑의 트럼프와의 미국 정상회담, 중국의 승리…허례 앞세우고 실질 성과는 없어",
+      "link": "https://www.theguardian.com/us-news/2026/sep/25/donald-trump-xi-jinping-china-president-us-visit-red-carpet-treatment",
+      "publishedAt": "2026-09-25T12:41:14.000Z",
+      "description": "While US president hailed visit as ‘great’, almost nothing of substance was achieved on resolving thorny issues Key takeaways from the Trump-Xi summit in Washington If the Beijing meeting between Donald Trump and Xi Jinping in May was the “stalemate summit”, the second round of talks between the presidents of the US and China this week seemed to give up entirely on the idea of breakthroughs. Instead, it was described as a celebration of “diplotainment” rather than diplomacy, where pomp prevailed over progress and where one of the main outcomes was the news that two giant pandas would soon be s",
+      "author": "Amy Hawkins Senior China correspondent",
+      "summary": "트럼프 미국 대통령이 방문을 대성공이라고 칭했으나, 미-중 정상회담에서는 민감한 현안들을 해결하기 위한 실질적인 성과가 거의 없었으며 주요 결과는 판다 두 마리 제공이었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7383f98a553c",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "가설이 아니다: AI의 위험은 이미 현실이다",
+      "link": "https://www.theguardian.com/commentisfree/2026/sep/25/ai-israel-gaza-iran-police-surveillance",
+      "publishedAt": "2026-09-25T12:00:50.000Z",
+      "description": "Israel and the US have used AI to kill in Gaza and Iran, while law enforcement uses it in surveillance and arrests. The future is here In recent weeks, concerns about AI have forged unlikely alliances in the tech and policy worlds. Tech moguls such as Sam Altman, Elon Musk and Demis Hassabis joined Dario Amodei, Satya Nadella and Bill Gates in sounding the alarm about the dangers of AI and called for a slowdown of the technology’s development despite years of racing for dominance. The senator Bernie Sanders teamed up with Steve Bannon to urge Congress to regulate AI, which has become one of th",
+      "author": "Granate Kim and Mohamed Hussein",
+      "summary": "이스라엘과 미국이 가자지구와 이란에서 AI를 이용한 살상을 하고 있으며, 법 집행 기관도 감시와 체포에 AI를 사용하고 있어 AI의 위험이 이미 현실화되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d2f8ca09cb06",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "삼전으로 번 1천만원은 0원, 엔비디아는 165만원…추석에 정리하는 투자세금",
+      "link": "https://www.mk.co.kr/news/stock/12161462",
+      "publishedAt": "2026-09-25T11:54:20.000Z",
+      "description": "해외주식 年250만원 기본공제 손익통산하면 세금 줄어들어 ETF·배당도 과세방식 제각각올해 삼성전자와 엔비디아에 각각 투자해 똑같이 1000만원씩 벌었다면 내야 할 세금도 같을까...",
+      "author": "매일경제",
+      "summary": "삼성전자와 엔비디아에서 동일하게 1000만 원씩 수익을 올렸으나, 해외주식 연간 250만 원 기본공제와 손익통산 방식의 차이로 내야 할 세금이 크게 달랐으며 ETF와 배당금도 과세 방식이 각각 다르다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6d2197416c11",
+      "category": "economy",
+      "source": "동아일보 경제",
+      "region": "kr",
+      "title": "약국 제품이 더 효과 좋을 것 같아…외국인 몰리는 'K뷰티 약국' [트렌디깅]",
+      "link": "https://www.donga.com/news/Economy/article/all/20260923/134725482/2",
+      "publishedAt": "2026-09-25T10:30:00.000Z",
+      "description": "외국인 관광객들이 틱톡과 샤오홍슈 등 SNS를 통해 한국 약국의 K뷰티 제품을 찾아 구매하는 사례가 늘고 있다. 아이소이·VT 등 기존 H&B·온라인 중심 브랜드도 약국 유통을 확대하면서 약국이 새로운 K뷰티 쇼핑 채널로 떠오르고 있다.",
+      "author": null,
+      "summary": "외국인 관광객들이 틱톡과 샤오홍슈 등 SNS를 통해 한국 약국의 K뷰티 제품을 구매하는 사례가 늘어나고 있으며, 아이소이·VT 등 브랜드도 약국 유통을 확대하면서 약국이 새로운 K뷰티 쇼핑 채널로 성장하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5d3035cf607c",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "수은, 멕시코 대외무역개발은행과 1억달러 금융협력",
+      "link": "https://www.yna.co.kr/view/AKR20260924040400002",
+      "publishedAt": "2026-09-25T06:45:01.000Z",
+      "description": "(서울=연합뉴스) 이도흔 기자 = 한국수출입은행은 멕시코 대외무역개발은행과 1억달러 규모의 전대금융 지원을 위한 금융협력 업무협약(MOU)을 체...",
+      "author": "이도흔",
+      "summary": "한국수출입은행이 멕시코 대외무역개발은행과 1억 달러 규모의 전대금융 지원을 위한 금융협력 업무협약을 체결했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0640137cdec9",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "한-멕시코 투자보장 협정 개정 협상 타결…개시 이후 7년만",
+      "link": "https://www.yna.co.kr/view/AKR20260925033600504",
+      "publishedAt": "2026-09-25T06:41:17.000Z",
+      "description": "(서울=연합뉴스) 이은정 기자 = 한국과 멕시코 정부 간 '투자 증진 및 상호보호를 위한 협정'의 개정 협상이 23일 타결됐다고 외교부가 25일...",
+      "author": "이은정",
+      "summary": "한국과 멕시코 정부 간 투자 증진 및 상호보호를 위한 협정의 개정 협상이 개시 이후 7년 만에 타결되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "cd40ee1e1812",
+      "category": "economy",
+      "source": "동아일보 경제",
+      "region": "kr",
+      "title": "더 고급스럽게 비싸게…비즈니스 늘리고 이코노미 줄이는 항공사들 [이원주의 날飛]",
+      "link": "https://www.donga.com/news/Economy/article/all/20260925/134730633/1",
+      "publishedAt": "2026-09-25T05:00:00.000Z",
+      "description": "얼마 전까지만 해도 항공사들은 이코노미석에 다양한 ‘옵션’을 붙여 판매하는 전략을 썼었습니다. 소위 ‘프리미엄 이코노미’라고 부르는 좌석으로 형태가 다양했죠. 3열 좌석 중 가운데 좌석을 비워놓는다든가, 좌석 간격을 일반 이코노미보다 조금 더 넓게 만든다든가 하는 식으로 조금 더 편한 (혹은 조금 덜 불편한) 좌석을 웃돈 받고 파는 형식이었습니다.그런데 최근 항공사들이 이런 ‘좌석 급나누기’를 이코노미석이 아닌 비즈니스석에서 하고 있습니다. 다양한 형태의 비즈니스 좌석을 만들고 추가 요금을 받는 식입니다. 오늘 ‘날飛’는 이런 항공사들의 ‘프리미엄석 전쟁’에 대해 알아보겠습니다.●나누고 나누고 나누고독일의 플래그 캐리어이자 유럽 아니 전 세계 항공사를 놓고 봐도 순위권에 드는 대형 항공사인 루프트한자는 최근 자신들의 좌석에 ‘알레그리스’라는 브랜드명을 붙였습니다. 알레그리스라는 브랜드는 좌석 등급에 상관 없이 붙인 이름이지만, 내용만 보면 철저하게 고급 좌석을 통한 수익성 확보",
+      "author": null,
+      "summary": "항공사들이 이전에는 이코노미석을 옵션으로 세분화했으나, 최근에는 비즈니스석을 다양한 등급으로 나누어 추가 요금을 부과하는 방식으로 전략을 바꾸고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "bc9d5297820c",
+      "category": "politics",
+      "source": "노컷뉴스",
+      "region": "kr",
+      "title": "\"제사 대신 가족 나들이\"…저마다 다른 '나만의 한가위'",
+      "link": "https://www.nocutnews.co.kr/news/6583216",
+      "publishedAt": "2026-09-25T14:46:32.000Z",
+      "description": "\"명절이지만 나만의 시간을 가질 수 있어 행복해요.\" \"제사 등 노동에서 여성들이 조금 편해지면 좋겠어요\" 추석 당일인 25일 서울 도심은 나들이객으로 붐볐다. 종로구 광화문광장에는 한복을 곱게 차려입은 가족들로 가득했다. 외국인 관광객도 곳곳에서 사진을 찍느라 분주했다. 차례상 대신 저마다의 방식으로 연휴를 보내는 모습이었다. 출근길 한산한 도심…광화문엔 '추억' 쌓는 시민들오전 9시 광화문으로 향하는 지하철 안은 조용했다. 평소라면 출근하는 직장인들로 붐빌 시간이다. 이날은 빈자리가 있어 앉아서 갈 수 있을 정도로 한산했다. 경복궁 앞을 지나는 시내버스도 마찬가지였다. 버스에 있는 승객은 5~6명뿐이었다. 광화문광장 세종대왕 동상 앞에는 사진을 찍으려는 줄이 길게 늘어서기도 했다. 모두 기념사진을 찍으려는 시민들이었다. 아이들은 평소 입지 않던 한복을 곱게 차려입었다. 부모들은 \"여기 보세요!\", \"브이\"를 외치며 연신 셔터를 눌렀다. 금방이라도 빗방울이 떨어질 듯 흐린 날씨였지만 시민들 표정은 맑음이었다. 먼 길을 온 시민도 있었다. 오준혁(40)씨는 경남 김해에서 자녀들과 함께 올라왔다. 오씨는 \"원래는 고향 제주도에 가려고 했는데 둘째 아들이 경복궁",
+      "author": null,
+      "summary": "추석 당일 광화문광장에는 한복을 차려입은 시민들이 몰려 가족 나들이로 명절을 보냈다. 차례상 대신 저마다의 방식으로 연휴를 즐기는 모습이 전개되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8e7cebbc15d4",
+      "category": "politics",
+      "source": "연합뉴스 사회",
+      "region": "kr",
+      "title": "원주 판부면 화재…비닐하우스 등 태우고 1시간 만에 진화",
+      "link": "https://www.yna.co.kr/view/AKR20260925046000062",
+      "publishedAt": "2026-09-25T13:07:55.000Z",
+      "description": "(원주=연합뉴스) 이재현 기자 = 25일 오후 8시 20분께 강원 원주시 판부면 서곡리의 한 주택 인근 쉼터에서 불이 났다.",
+      "author": "이재현",
+      "summary": "25일 오후 원주시 판부면의 주택 인근 쉼터에서 화재가 발생해 비닐하우스 등을 태웠다. 약 1시간 만에 진화되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5983628ae297",
+      "category": "politics",
+      "source": "SBS 뉴스",
+      "region": "kr",
+      "title": "\"자신들 선명함 위해 과한 주장 …개혁 방해\"",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008770117",
+      "publishedAt": "2026-09-25T13:07:00.000Z",
+      "description": "멕시코를 국빈 방문 중인 이재명 대통령이, 선명함을 드러내기 위한 과한 주장은 개혁의 방해 요인이라고 지적했습니다. 최근 검찰 개혁 등을 놓고 이 대통령을 비판해온 유시민 작가를 겨냥한 것으로 해석됩니다.멕시코시티에서 강민우 기자입니다.",
+      "author": "khanporter@sbs.co.kr (강민우)",
+      "summary": "멕시코 국빈 방문 중인 이재명 대통령이 선명함을 드러내기 위한 과한 주장은 개혁의 방해 요인이라고 지적했다. 이는 최근 검찰 개혁을 비판해온 유시민 작가를 겨냥한 것으로 해석되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0d8c11873741",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "준강간 가해 남성에게서 달아나던 피해 여성의 음주운전은 무죄",
+      "link": "https://www.khan.co.kr/article/202609252004001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-09-25T11:04:00.000Z",
+      "description": "준강간 피해를 본 뒤 가해 남성에게서 달아나다 음주운전을 한 여성에게 죄를 물을 수 없다는 법원 판결이 나왔다. 청주지법 충주지원 형사1단독 김연수 부장판사는 도로교통법 위반 혐의(음주운전)로 기소된 A씨에게 무죄를 선고했다고 연합뉴스가 25일 보도했다.A씨는 지난해 6월 충주의 한 숙박업소에서 혈중알코올농도 0.094% 상태로 10여㎞를 운전···",
+      "author": "김종목 기자",
+      "summary": "법원이 준강간 피해 후 가해자로부터 도망치며 음주운전을 한 여성에게 무죄를 선고했다. 청주지법이 긴급 상황에서의 도주행위를 고려한 판결을 내렸다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "27b88251846f",
+      "category": "politics",
+      "source": "조선일보",
+      "region": "kr",
+      "title": "\"일단 낡은 사진부터 지워\"...장수 브랜드 '헤지스'가 젊어졌다",
+      "link": "https://www.chosun.com/economy/industry-company/2026/09/25/EUANKK7JR5GOZCAK3UGPB4BK3Y/",
+      "publishedAt": "2026-09-25T09:00:00.000Z",
+      "description": "",
+      "author": "정해민 기자",
+      "summary": "헤지스가 오래된 이미지부터 정리하며 브랜드를 새롭게 리뉴얼하고 있다. 장수 브랜드의 젊어진 이미지 전환이 진행 중이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "660597653ed5",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "연휴 끝나면 식품·유통업계 '국감 모드'···쿠팡·홈플러스·배달앱 등 최대 현안",
+      "link": "https://www.khan.co.kr/article/202609251711011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-09-25T08:11:01.000Z",
+      "description": "경찰과 고용노동부가 지난 8월23일 발생한 지게차 끼임 사고와 관련해 지난 2일 경기 광주시 쿠팡 물류센터에서 압수수색 영장을 집행했다. 사진은 당시 경기 광주시 쿠팡 물류센터 모습. 문재원 기자추석 연휴가 끝나면 얼마 지나지 않아 국회 국정감사가 시작된다. 유통·식품업계도 본격적인 국감 대비에 들어간다. 다음달 6일부터 27일까지 열리는 국감에서는 정무위···",
+      "author": "정대연 기자",
+      "summary": "추석 연휴 후 국회 국정감사가 시작되면 쿠팡, 홈플러스, 배달앱 등 유통·식품업계가 국감 대비에 돌입한다. 지난 8월 지게차 끼임 사고 등이 주요 현안으로 거론될 예정이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "489692556a6a",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "합참 \"지뢰 부상자 美헬기 후송? 사실 아냐… 우리軍 메디온 헬기였다\"",
+      "link": "https://www.donga.com/news/Politics/article/all/20260925/134733124/1",
+      "publishedAt": "2026-09-25T07:34:00.000Z",
+      "description": "합동참모본부가 최근 경기 파주시 최전방 비무장지대(DMZ)에서 발생한 지뢰 폭발 사고와 관련해 정치권 및 일각에서 제기된 ‘미군 헬기 후송설’과 ‘유엔사 조사 지연설’에 대해 “전혀 사실이 아니다”라며 정면으로 반박했다.합참은 25일, 진영승 합참의장이 육군 제25사단을 전격 방문해 지상작전사령관, 1군단장 직무대리, 25사단장 등 현장 지휘관 및 ‘합동 현장조사 TF’ 관계자들과 함께 사고 관련 전반적인 진행 상황을 평가하고 작전 대비 태세를 점검했다고 밝혔다.이날 진 의장은 “합동 현장조사를 시행함에 있어 지휘통제 및 통신, 예행연습, 안전대책 강구 등을 주도면밀하게 추진해 우리 장병들의 안전이 확보된 가운데 철저한 조사가 이뤄지도록 하라”고 강력히 주문했다.현재 합참차장을 팀장으로 하는 합동 현장조사 TF는 추석 연휴 기간에도 쉬지 않고 임무를 수행 중이다. 현장에 직접 투입될 현장조사팀은 지뢰 위험 등에 대비한 안전대책 강구 및 제반 준비가 완료되는 대로 즉각 임무에 착",
+      "author": null,
+      "summary": "합동참모본부가 최전방 DMZ의 지뢰 폭발 사고 관련 미군 헬기 후송설을 부인하고 우리군 메디온 헬기로 후송했다고 밝혔다. 유엔사 조사 지연설도 사실이 아니라고 반박했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9a6c39cb11da",
+      "category": "politics",
+      "source": "서울신문",
+      "region": "kr",
+      "title": "조국 \"새 대법원장과 채우면 그만\"… 대법관 공석 배수진 친 사법개혁 논란",
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20260925500061",
+      "publishedAt": "2026-09-25T07:11:09.000Z",
+      "description": "조국 조국혁신당 혁신정책연구원장이 조희대 대법원장의 대법관 후보자 재제청 거부 결정에 대해 강력히 비판하며 대법관 한 자리를 공석으로 두더라도 사법개혁을 밀어붙이겠다는 강경한 입장을 밝혔다. 조 원장은 25일 페이스북을 통해 이재명 대통령이 해외 순방을 마치고 귀국하는 대로 이번 문제를 직접 매듭지어야 한다고 요구했다. 그는 “대법원장의 대법관 제청은 협의적 참여권일 뿐 대통령의 임명권에 대한 거부권이 아니다”라며 최종 의견이 불일치함에도 대법원장이 일방적으로 제청을 강행한 것은 대통령의 임명권을 중대하게 훼손한 첫 사례라고 주장했다. 특히 조 원장은 “모든 문제의 출발점은 조희대 대법원이 이재명 대통령을 인정하지 않는 데 있다”고 지적하며 대선 직전 ‘유죄 취지 파기환송’ 판결을 내렸던 대법관들의 시각을 문제 삼았다. 이어 “조 대법원장이 재제청을 거부한 이상 후임 대법원장이 임명될 때까지 대법관 한 석은 공석일 수밖에 없다”며 “새로운 대법원장과 협의해 한 석을 채우면 돼, 조 대법원의 오만한 정치 행위를 수용해서는 안 된다”고 배수진을 쳤다. 그는 더불어민주당을 향해서도 “조희대 사퇴 현수막을 거는 것만으로는 아무것도 해결되지 않는다”며 조국혁신당이 당",
+      "author": "문경근 기자",
+      "summary": "조국 혁신정책연구원장이 조희대 대법원장의 대법관 후보자 재제청 거부를 비판했다. 대법관 한 자리를 공석으로 두어도 사법개혁을 밀어붙이겠다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0640137cdec9",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "한-멕시코 투자보장 협정 개정 협상 타결…개시 이후 7년만",
+      "link": "https://www.yna.co.kr/view/AKR20260925033600504",
+      "publishedAt": "2026-09-25T06:41:17.000Z",
+      "description": "(서울=연합뉴스) 이은정 기자 = 한국과 멕시코 정부 간 '투자 증진 및 상호보호를 위한 협정'의 개정 협상이 23일 타결됐다고 외교부가 25일...",
+      "author": "이은정",
+      "summary": "한국과 멕시코 정부가 투자 증진 및 상호보호를 위한 협정의 개정 협상을 7년 만에 타결했다. 외교부가 25일 이를 발표했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "01666fe6edc8",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "靑 \"우크라 '송환北포로' 발표前 한국 알려와…명료하진 않았다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260925030900001",
+      "publishedAt": "2026-09-25T06:00:02.000Z",
+      "description": "(멕시코시티=연합뉴스) 임형섭 설승은 기자 = 청와대 고위관계자는 24일(현지시간) 북한군 포로 2명의 한국 송환이 볼로디미르 젤렌스키 우크라이...",
+      "author": "임형섭",
+      "summary": "청와대는 우크라이나의 북한군 포로 2명 송환 발표가 사전에 한국에 알려졌으나 구체적인 내용이 명확하지 않았다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d8727b0df998",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "시진핑, 미국 방문 끝으로 국립 기록관 방문",
+      "link": "https://www.dw.com/en/xi-wraps-up-us-visit-with-trip-to-national-archives/live-79404511?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-09-25T14:59:00.000Z",
+      "description": "On the last day of his visit to the US, Chinese leader Xi Jinping visited the National Archives with President Donald Trump. The Archives store the Declaration of Independence and the US Constitution.",
+      "author": null,
+      "summary": "시진핑 국가주석이 미국 방문의 마지막날 트럼프 대통령과 함께 미국 독립선언서와 헌법이 보관된 국립 기록관을 방문했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8f2e6cb3c1b5",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "미중 정상, 차담으로 사흘연속 대면…'美상징' 문서기록청 방문",
+      "link": "https://www.yna.co.kr/view/AKR20260925049300071",
+      "publishedAt": "2026-09-25T14:58:48.000Z",
+      "description": "(워싱턴=연합뉴스) 박성민 특파원 = 도널드 트럼프 미국 대통령과 시진핑 중국 국가주석이 25일(현지시간) 백악관에서 차담을 나누며 다시 마주 ...",
+      "author": "박성민",
+      "summary": "미국의 트럼프 대통령과 중국의 시진핑 국가주석이 워싱턴 백악관에서 차담을 나누며 4일 연속으로 만났다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5e4117fb1b91",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "EU, 우크라 군사 지원에 10조원 기금 쓰기로 합의",
+      "link": "https://www.yna.co.kr/view/AKR20260925049200085",
+      "publishedAt": "2026-09-25T14:57:03.000Z",
+      "description": "(런던=연합뉴스) 김지연 특파원 = 유럽연합(EU) 회원국들이 오랫동안 묶여 있던 특별 기금을 우크라이나 군사 지원을 위해 쓰는 데 합의를 이뤘...",
+      "author": "김지연",
+      "summary": "유럽연합 회원국들이 우크라이나의 군사 지원을 위해 오랫동안 보관해온 특별 기금을 사용하기로 합의했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ab5987ebb7cd",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "교황 레오 14세, 프랑스 방문에서 과학발전의 위험 경고",
+      "link": "https://www.npr.org/2026/09/25/nx-s1-5981140/pope-leo-france",
+      "publishedAt": "2026-09-25T14:55:12.000Z",
+      "description": "Pope Leo XIV raised existential concerns about scientific progress, life and human rights during a speech on his first papal visit to France.",
+      "author": "The Associated Press",
+      "summary": "교황 레오 14세는 프랑스 첫 방문 연설에서 과학 발전이 인류의 생명과 인권을 훼손할 수 있다는 실존적 우려를 표명했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "02e2f724c5db",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "독일 CDU-AfD, 홀로코스트 추모 징검돌 설치 금지",
+      "link": "https://www.dw.com/en/afd-cdu-ban-new-holocaust-stumbling-stones-in-heidenau/a-79433919?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-09-25T14:51:00.000Z",
+      "description": "Activists, politicians and representatives of Holocaust victims reacted with anger after the center-right CDU party joined forces with the AfD to ban new Stolpersteine (stumbling stones) in the eastern town of Heidenau.",
+      "author": null,
+      "summary": "CDU가 극우 AfD와 연대하여 홀로코스트 추모 스톨퍼슈타이네 설치를 금지하려 하자 활동가와 희생자 대표들이 분노했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d72fc95aae72",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "아프리카 최부자, 에티오피아-지부티 연료 파이프라인 자금 지원",
+      "link": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-25T14:24:19.000Z",
+      "description": "The pipeline would strengthen energy security in landlocked Ethiopia, while creating jobs at Djibouti's port.",
+      "author": null,
+      "summary": "아프리카 최부자가 에티오피아-지부티 간 연료 파이프라인 건설에 자금을 지원하여 에티오피아의 에너지 안보와 지부티 항구의 고용 창출을 기대하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b5a5c8ff10c9",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "파키스탄, 이마란 칸 석방 시위 저지 위해 이슬라마바드 봉쇄",
+      "link": "https://www.theguardian.com/world/2026/sep/25/pakistan-lockdown-islamabad-imran-khan-party-march",
+      "publishedAt": "2026-09-25T13:44:55.000Z",
+      "description": "Tens of thousands of police deployed and roads barricaded as PTI party demands release of jailed former PM Leaders from Imran Khan’s party have vowed to go ahead with a nationwide demonstration in Pakistan to demand the former prime minister’s release, even as the government deployed tens of thousands of police to Islamabad, barricaded highways and issued arrest warrants to try to stop the march. The state has taken extreme measures to prevent Khan’s Pakistan Tehreek-e-Insaf (PTI) party from proceeding with the march. It was announced after mounting concerns of the treatment of Khan, who has b",
+      "author": "Shah Meer Baloch in Islamabad and Hannah Ellis-Petersen in Delhi",
+      "summary": "파키스탄 정부가 이마란 칸 석방을 요구하는 PTI 당의 시위를 저지하기 위해 수만 명의 경찰을 배치하고 이슬라마바드의 고속도로를 차단했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "12954f77282f",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "2024년 트럼프 유세장 총격 사건 피해자 사망",
+      "link": "https://www.bbc.co.uk/news/articles/c5dj401d88l3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-25T13:23:33.000Z",
+      "description": "A gunman shot Jim Copenhaver twice while also killing another man and grazing Trump's ear with a bullet.",
+      "author": null,
+      "summary": "2024년 버틀러 트럼프 유세장에서 발생한 총격 사건에서 피해자 짐 코펜헤이버가 사망했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6b737f86a032",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "트럼프-시진핑 정상회담, 판다 외교로 마무리",
+      "link": "https://www.theguardian.com/us-news/2026/sep/25/donald-trump-xi-jinping-china-president-us-visit-red-carpet-treatment",
+      "publishedAt": "2026-09-25T12:41:14.000Z",
+      "description": "While US president hailed visit as ‘great’, almost nothing of substance was achieved on resolving thorny issues Key takeaways from the Trump-Xi summit in Washington If the Beijing meeting between Donald Trump and Xi Jinping in May was the “stalemate summit”, the second round of talks between the presidents of the US and China this week seemed to give up entirely on the idea of breakthroughs. Instead, it was described as a celebration of “diplotainment” rather than diplomacy, where pomp prevailed over progress and where one of the main outcomes was the news that two giant pandas would soon be s",
+      "author": "Amy Hawkins Senior China correspondent",
+      "summary": "트럼프-시진핑 정상회담에서는 실질적 외교 성과 없이 화려한 의식 중심으로 진행되었으며, 주요 성과로는 중국이 판다 2마리를 기증하기로 한 소식이 발표되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7b038e43c628",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "트럼프-시진핑 정상회담과 네타냐후의 UN 강경 입장",
+      "link": "https://www.npr.org/2026/09/25/g-s1-144994/up-first-newsletter-trump-xi-netanyahu-united-nations-mortgage-rates",
+      "publishedAt": "2026-09-25T11:18:52.000Z",
+      "description": "Trump and Xi's U.S. summit continues after a state dinner Thursday night. And, Netanyahu returns to Israel after giving a defensive and defiant speech at the U.N. General Assembly.",
+      "author": "Suzanne Nuyen",
+      "summary": "트럼프와 시진핑의 국빈 만찬과 정상회담이 진행되는 동안 네타냐후는 유엔 총회에서 강경한 입장을 표명한 후 이스라엘로 귀국했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "bb694ec6ad2f",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "뛰어난 미국 화가가 마침내 정당한 평가를 받다",
+      "link": "https://www.nytimes.com/2026/09/25/opinion/krasner-pollock-artist-wife.html",
+      "publishedAt": "2026-09-25T14:56:31.000Z",
+      "description": "Only by being exhibited alongside her husband, Jackson Pollock, can Lee Krasner fully and finally emerge from his shadow.",
+      "author": "Mary Gabriel",
+      "summary": "Lee Krasner는 남편 Jackson Pollock과 함께 전시되어야만 그의 그림자에서 완전히 벗어날 수 있다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f52af7c329d1",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "AI 경고론자들은 '무책임하다'",
+      "link": "https://www.nytimes.com/video/opinion/100000011159768/jensen-huang-ai-alarmists-are-irresponsible.html",
+      "publishedAt": "2026-09-25T14:14:59.000Z",
+      "description": "Employees of OpenAI and Anthropic have been sounding the alarm on the dangers of the systems their companies are developing. But Jensen Huang, the chief executive of Nvidia, argues on “The Ezra Klein Show” that some alarmists have gone too far.",
+      "author": null,
+      "summary": "Nvidia CEO Jensen Huang은 OpenAI와 Anthropic 직원들의 AI 위험성 경고가 과도하다고 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "841c64288411",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "중간선거를 얼마나 걱정해야 할까?",
+      "link": "https://www.nytimes.com/2026/09/24/opinion/interesting-times-sarah-isgur-rick-pildes.html",
+      "publishedAt": "2026-09-25T14:10:29.000Z",
+      "description": "And how we learn to trust elections again.",
+      "author": "Sarah Isgur, Raina Raskin and Charlotte Gartenberg",
+      "summary": "중간선거의 신뢰성 문제와 그에 대한 우려, 그리고 선거 신뢰 회복 방안을 논의했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7e8fc14d72b1",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "항공사 신용카드가 전체 산업을 망치고 있다",
+      "link": "https://www.nytimes.com/2026/09/24/opinion/flights-airlines-spirit-loyalty-credit-cards.html",
+      "publishedAt": "2026-09-25T14:02:45.000Z",
+      "description": "Airline loyalty programs are anticompetitive and hurting consumers.",
+      "author": "Mark Kahan",
+      "summary": "항공사의 신용카드 기반 마일리지 프로그램이 경쟁을 저해하고 소비자에게 해로운 구조라고 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9525bd47adf2",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "경기장 음주는 좋지만, 번햄의 제안은 현대 축구와 동떨어져 있다",
+      "link": "https://www.theguardian.com/commentisfree/2026/sep/25/drink-football-stands-burnham-beer-discrimination",
+      "publishedAt": "2026-09-25T14:00:08.000Z",
+      "description": "Focusing on the right to drink at your seat is an odd place to start when discrimination in the game runs much deeper Andy Burnham is right that football fans have historically been treated differently from other sports fans. But if we’re going to talk about discrimination in football, the ban on drinking at your seat feels like a strange place to start. The rule may have its roots in a very different era of football, but for many fans today, being able to take a pint to your seat may not be top of their list of changes they’d like to see in the game. Especially at a time when discrimination i",
+      "author": "Marva Kreel",
+      "summary": "경기장 음주 허용보다는 축구 산업의 더 근본적인 차별 문제 해결이 우선이어야 한다고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "da40a4c18cce",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "자유민주당은 지역주의로 단일 이슈 정치 시대에 대응해야 한다",
+      "link": "https://www.theguardian.com/commentisfree/2026/sep/25/liberal-democrats-localism-single-issue-politics-ed-davey-local-democracy",
+      "publishedAt": "2026-09-25T13:02:14.000Z",
+      "description": "Ed Davey’s party are the obvious candidates to push for the deeper local democracy the public is crying out for September is the cruellest month for political commentators because it is when something has to be said about the Liberal Democrats. They are a play without a plot, a chorus line of seemingly endless “don’t knows”. Their leader, Ed Davey, recently warned that “we’re in the fight of our lives” to defend the values of liberty and equality. Really? How can this be when Davey is becoming about as relevant as Count Binface? The Lib Dems’ central predicament has remained unchanged for a ce",
+      "author": "Simon Jenkins",
+      "summary": "Liberal Democrats는 단일 이슈 정치 시대에 지역 민주주의를 강조함으로써 정당의 관련성을 유지할 수 있다고 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7383f98a553c",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "AI의 위험은 가설이 아니라 현실이다",
+      "link": "https://www.theguardian.com/commentisfree/2026/sep/25/ai-israel-gaza-iran-police-surveillance",
+      "publishedAt": "2026-09-25T12:00:50.000Z",
+      "description": "Israel and the US have used AI to kill in Gaza and Iran, while law enforcement uses it in surveillance and arrests. The future is here In recent weeks, concerns about AI have forged unlikely alliances in the tech and policy worlds. Tech moguls such as Sam Altman, Elon Musk and Demis Hassabis joined Dario Amodei, Satya Nadella and Bill Gates in sounding the alarm about the dangers of AI and called for a slowdown of the technology’s development despite years of racing for dominance. The senator Bernie Sanders teamed up with Steve Bannon to urge Congress to regulate AI, which has become one of th",
+      "author": "Granate Kim and Mohamed Hussein",
+      "summary": "이스라엘과 미국이 가자지구와 이란에서 AI를 사용해 공격했고, 법 집행 기관이 감시에 활용하는 등 AI의 위험이 이미 현실화되고 있다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5fd4e273921d",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "트럼프와 시진핑이 자연의 법칙과 씨름하다",
+      "link": "https://www.washingtonpost.com/opinions/2026/09/25/china-us-can-coexist-prosper/",
+      "publishedAt": "2026-09-25T11:30:00.000Z",
+      "description": "Survival depends on adaptation. For the U.S. and China, that may include cooperation.",
+      "author": "Fareed Zakaria",
+      "summary": "미국과 중국의 생존이 자연의 법칙에 대한 적응에 달려 있으며, 여기에는 두 나라 간의 협력이 포함될 수 있다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b2e79c6a039f",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "보수진영의 종교적 통합주의자들, 사회주의자와 같은 영혼이다",
+      "link": "https://www.washingtonpost.com/opinions/2026/09/25/what-religious-integralists-right-socialists-share/",
+      "publishedAt": "2026-09-25T11:00:00.000Z",
+      "description": "Where, exactly, do JD Vance and Zohran Mamdani differ on “the warmth of collectivism”?",
+      "author": "George F. Will",
+      "summary": "보수진영의 종교적 통합주의자(JD Vance)와 진보진영의 사회주의자(Zohran Mamdani)가 '집단주의의 온기'에서 공통점을 가진다고 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9e43b21860b8",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "아미시에게서 배우는 미래 대처의 교훈",
+      "link": "https://www.washingtonpost.com/opinions/2026/09/25/spiritual-response-ai-learn-amish/",
+      "publishedAt": "2026-09-25T11:00:00.000Z",
+      "description": "As AI saturates life, spiritual asceticism may become alluring.",
+      "author": "Paul Kingsnorth",
+      "summary": "AI가 삶을 포화시키는 미래에 아미시 공동체의 영적 금욕주의가 사회의 변화에 대처하는 방법으로 도움이 될 수 있다고 제시했다.",
+      "summarySource": "llm"
+    }
+  ],
+  "summarizedAt": "2026-09-26T00:30:21.880Z",
+  "summaryStats": {
+    "llm": 50,
+    "fallback": 0,
+    "model": "claude-haiku-4-5"
+  }
+}
