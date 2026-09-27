@@ -1,0 +1,898 @@
+{
+  "date": "2026-09-26",
+  "generatedAt": "2026-09-27T00:18:23.260Z",
+  "categories": [
+    {
+      "id": "it",
+      "label": "IT·과학·AI"
+    },
+    {
+      "id": "economy",
+      "label": "경제·금융"
+    },
+    {
+      "id": "politics",
+      "label": "정치·사회"
+    },
+    {
+      "id": "world",
+      "label": "세계·국제"
+    },
+    {
+      "id": "editorial",
+      "label": "사설·칼럼",
+      "opinion": true,
+      "summaryMaxChars": 220
+    }
+  ],
+  "feedStatus": [
+    {
+      "source": "Ars Technica",
+      "category": "it",
+      "ok": true,
+      "matched": 12
+    },
+    {
+      "source": "Hacker News",
+      "category": "it",
+      "ok": true,
+      "matched": 10
+    },
+    {
+      "source": "TechCrunch",
+      "category": "it",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "The Verge",
+      "category": "it",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "블로터",
+      "category": "it",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "전자신문",
+      "category": "it",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "ZDNet Korea",
+      "category": "it",
+      "ok": true,
+      "matched": 30
+    },
+    {
+      "source": "BBC Business",
+      "category": "economy",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "The Guardian",
+      "category": "economy",
+      "ok": true,
+      "matched": 20
+    },
+    {
+      "source": "매일경제 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "연합뉴스",
+      "category": "economy",
+      "ok": true,
+      "matched": 31
+    },
+    {
+      "source": "경향신문 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "경향신문 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "노컷뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "서울신문",
+      "category": "politics",
+      "ok": true,
+      "matched": 1
+    },
+    {
+      "source": "연합뉴스 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 24
+    },
+    {
+      "source": "연합뉴스 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 34
+    },
+    {
+      "source": "SBS 뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 18
+    },
+    {
+      "source": "Al Jazeera",
+      "category": "world",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC World",
+      "category": "world",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "NPR",
+      "category": "world",
+      "ok": true,
+      "matched": 4
+    },
+    {
+      "source": "The Guardian",
+      "category": "world",
+      "ok": true,
+      "matched": 12
+    },
+    {
+      "source": "연합뉴스 국제",
+      "category": "world",
+      "ok": true,
+      "matched": 82
+    },
+    {
+      "source": "매일경제 증권",
+      "category": "economy",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "경향신문 오피니언",
+      "category": "editorial",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "NYT Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 25
+    },
+    {
+      "source": "The Guardian Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 10
+    },
+    {
+      "source": "Washington Post Opinions",
+      "category": "editorial",
+      "ok": true,
+      "matched": 4
+    },
+    {
+      "source": "동아일보 사설",
+      "category": "editorial",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "동아일보 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "조선일보",
+      "category": "politics",
+      "ok": true,
+      "matched": 3
+    },
+    {
+      "source": "동아일보 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 21
+    },
+    {
+      "source": "머니투데이",
+      "category": "economy",
+      "ok": true,
+      "matched": 1
+    },
+    {
+      "source": "Wired",
+      "category": "it",
+      "ok": true,
+      "matched": 11
+    },
+    {
+      "source": "DW News",
+      "category": "world",
+      "ok": true,
+      "matched": 14
+    }
+  ],
+  "items": [
+    {
+      "id": "6ea691e13aab",
+      "category": "it",
+      "source": "Hacker News",
+      "region": "intl",
+      "title": "Go 동시성 개념 정리",
+      "link": "https://antonz.org/go-concurrency-distilled/",
+      "publishedAt": "2026-09-26T14:34:49.000Z",
+      "description": "Article URL: https://antonz.org/go-concurrency-distilled/ Comments URL: https://news.ycombinator.com/item?id=49856988 Points: 7 # Comments: 0",
+      "author": "chmaynard",
+      "summary": "Go 프로그래밍 언어의 동시성 처리 방식과 goroutine 등 핵심 개념을 종합적으로 설명한 기술 글이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c6fb97f6187a",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "나의 AI 아바타를 만들었다",
+      "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+      "publishedAt": "2026-09-26T14:00:00.000Z",
+      "description": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+      "author": "Dominic-Madori Davis",
+      "summary": "저자가 벤처 사기 논의를 학습시킨 인터랙티브 AI 아바타를 제작했으며, AI 클론 생성에 대해 상충된 감정을 드러냈다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9c71a567c993",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "집값 오르지만…건설 현장 '수주 한파'",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=674366",
+      "publishedAt": "2026-09-26T14:00:00.000Z",
+      "description": "주택가격 상승세가 이어지지만 건설 현장의 수주 체감경기는 악화됐다. 전월세 불안과 공급 부족 우려에 실수요자의 매수세가 이어지는 반면, 건설업체는 미분양과 공사비 부담을 안고 있다. 최근 발표된 세 연구보고서는 집값 상승이 곧 건설경기 회복을 뜻하지 않는다는 점을 보여준다.한국건설산업연구원이 최근 발표한 '2026년 3분기 부동산시장동향'에 따르면 8월 수도권 아파트 매매가격은 전월보다 0.69% 올랐다. 7월 상승률 0.97%보다는 낮아졌지만 지난해 2월 이후 19개월 연속 상승했다. 지방 아파트값도 0.11% 상승했다.김성환 한",
+      "author": "김호연 기자",
+      "summary": "주택가격은 상승세를 이어가지만 건설 현장의 수주 체감경기는 악화되었으며, 실수요자 매수와 건설업체의 미분양·공사비 부담이 대비된다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7c2c4d9670af",
+      "category": "it",
+      "source": "The Verge",
+      "region": "intl",
+      "title": "클라우드플레어 CEO, 웹을 AI로부터 지킬 수 있을까",
+      "link": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+      "publishedAt": "2026-09-26T14:00:00.000Z",
+      "description": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two and a half years ago, at what we thought then was a wild pivot point for the internet — and now it turns out things are even wilder because of AI, and Matthew and Cloudflare are right at the center of it. Cloudflare found in June that bots made up more than half of internet traffic. That number just keeps going up as more and more AI companies scrape more and more of the web, and now as more and more AI agents try an",
+      "author": null,
+      "summary": "클라우드플레어 CEO 매튜 프린스는 인터넷 트래픽의 절반 이상을 차지하는 봇 증가와 AI 기업의 웹 스크래핑 급증을 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2336005af9b8",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "구식 신용카드 사기의 부활",
+      "link": "https://www.wired.com/story/kernel-panic-old-timey-credit-card-scams/",
+      "publishedAt": "2026-09-26T12:00:00.000Z",
+      "description": "In an era of increasingly sophisticated AI-fueled scams, a retro threat may be lurking in your mailbox.",
+      "author": "Lily Hay Newman, Matt Burgess",
+      "summary": "AI 기반 정교한 사기가 증가하는 시대에도 우편으로 배달되는 구식 신용카드 사기가 여전히 주요 위협으로 남아있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e899f09f9f93",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "테슬라 전기 트럭, 충전 인프라 부족 직면",
+      "link": "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/",
+      "publishedAt": "2026-09-26T10:45:09.000Z",
+      "description": "The 500-mile Semi arrives as charging gaps still limit electric trucking.",
+      "author": "Aarian Marshall, wired.com",
+      "summary": "500마일 주행 거리의 테슬라 세미(Semi)가 출시되었으나 충전 인프라 부족이 전기 트럭 보급의 지속적인 제약 요소로 작용하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0b0867e9b68b",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "크리에이터 커머스 문턱 낮아졌다…웃다가·혜인도 효과 톡톡",
+      "link": "https://zdnet.co.kr/view/?no=20260926155225",
+      "publishedAt": "2026-09-26T09:30:01.000Z",
+      "description": "[지디넷코리아]쇼핑몰 개설부터 주문 처리, 배송까지 지원하는 서비스가 확대되면서 크리에이터의 커머스 진입장벽이 낮아지고 있다. 콘텐츠와 팬덤을 갖춘 크리에이터가 별도의 운영 조직이나 물류망 없이도 상품 판매에 도전할 수 있는 여건이 마련된 것도 커머스 진출을 가속하고 있다.26일 플랫폼업계에 따르면 구독자 약 50만 명의 유튜브 채널 ‘웃다가’는 티셔츠와 수건 등 채널 개성을 담은 첫 자체 굿즈 ‘반려세트’ 등 3종을 총 900개 한정 수량으로 선보였다. 준비한 물량은 공개 48시간 만에 모두 팔렸다. 매출은 2400만원을 넘어섰다.기존에는 팬덤과 상품 아이디어가 있어도 재고 관리와 포장·배송, 고객 응대 등 판매에 수반되는 실무가 부담이었지만 최근 많이 줄었다. 이제는 쇼핑몰에 등록한 상품을 유튜브 영상에 연결해 구매를 유도하고, 보관·출고는 물류 서비스에 맡길 수 있다.웃다가는 판매 준비와 운영에 카페24의 커머스 인프라를 활용했다. 상품 등록과 마케팅, 고객 응대 등 쇼핑몰 운영 전반을 지원하는 ‘카페24 프로’로 자체 굿즈몰을 구축했다. 여기에 유튜브 쇼핑을 연동해 시청자는 영상에서 소개된 상품 구매 페이지로 바로 이동할 수 있다. 물류는 ‘카페24 ",
+      "author": "박서린 기자",
+      "summary": "쇼핑몰 개설부터 배송까지 지원하는 서비스 확대로 크리에이터들이 별도의 운영 조직 없이도 상품 판매에 진출할 수 있게 되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6e9c2073cb66",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "[보안칼럼] 클라우드 서비스의 사이버보안 확장 통제",
+      "link": "https://zdnet.co.kr/view/?no=20260926181957",
+      "publishedAt": "2026-09-26T09:19:57.000Z",
+      "description": "[지디넷코리아]작년에 통신사, 금융, 플랫폼사업자 등 국민 생활 밀접 분야에서 연이어 발생한 대규모 침해사고로 국민 불안감이 고조됨에 따라 사이버보안 및 개인정보 보호 법제도가 개편됐다. '정보통신망법(시행 2026.10.1)'과 '개인정보 보호법(시행 2026.9.11)' 개정은 사고 예방 및 대응, 기업 정보보호 역량 강화 등 광범위한 영역을 포괄한다.정보보호·개인정보보호 관련 기존 제도 강화와 함께 다양한 신규 제도를 도입하고 그 실효성 확보를 위한 제재를 강화하는 등 관련 제도 전반에 대한 대폭적인 개선을 추진했다. 특히, 침해사고의 규모·횟수가 모두 증가하고 있는 상황에서 정부 차원의 사고 대응 역량 강화만으로는 한계가 있는 만큼, 기업 스스로 대응할 수 있는 보안 관리 체계를 갖출 수 있게 보안 거버넌스 관련 내용을 신설 및 강화했다.사회 전 분야에 걸친 인공지능 확산 및 인공지능이 국가 경쟁력 핵심 요소로써 안전한 인공지능 이용을 위한 인공지능 투명성 확보, 인공지능 활용 범죄 대응 등 인공지능기본법 개정을 통해 인공지능 전반에 대한 지원 체계를 고도화하는 한편, 인공지능 데이터센터 등과 같이 별도 지원 체계가 필요하거나 분야별 특수성을 고려해 ",
+      "author": "공병철 한국사이버감시단 이사장(국제사이버보안인증협회장)",
+      "summary": "정보통신망법과 개인정보 보호법 개정으로 기업이 스스로 보안 관리 체계를 갖추고 인공지능 투명성 확보 등을 강화하도록 하였다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "cdd0febde10b",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "비 와도 '부캉이' 보러 북항으로…추석 연휴에만 23만명 몰렸다",
+      "link": "https://www.etnews.com/20260926000041",
+      "publishedAt": "2026-09-26T08:43:38.000Z",
+      "description": "추석 연휴 부산 북항 친수공원 인공수로에 머물고 있는 상어 '부캉이'를 보기 위해 시민들이 몰리면서 북항 일대가 북새통을 이뤘다. 26일 연합뉴스에 따르면 이날 오전 부산 동구 북항 친수공원 인공수로 주변에는 비가 내리는 가운데서도 우산을 쓴 시민들이 부캉이를 보기 위해 줄지어 섰다. 부캉이가 지느러미를 드러내며 모습을 보일 때마다 곳곳에서 감탄사가 터져 나왔다. 부캉이는 지난 18일 처음 인공수로에 들어온 뒤 가장자리를 따라 유영하며 모습을",
+      "author": "서희원",
+      "summary": "부산 북항 친수공원에 들어온 상어 부캉이를 보기 위해 추석 연휴 기간 동안 23만명의 시민들이 방문했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1fe1b6ab723e",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "메타 커넥트, 스마트 안경이 주인공",
+      "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+      "publishedAt": "2026-09-26T01:08:57.000Z",
+      "description": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
+      "author": "Lucas Ropek",
+      "summary": "페이스북과 인스타그램의 모회사 메타는 지속적으로 확대되는 스마트 안경 제품군을 통해 소비자들을 디지털 세계에 연결하려 하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ad9035b065a9",
+      "category": "economy",
+      "source": "머니투데이",
+      "region": "kr",
+      "title": "아시안게임 결승은 '숙명의 한일전'…0대5 대패 설욕 기회 잡았다",
+      "link": "https://www.mt.co.kr/society/2026/09/26/2026092623141737105",
+      "publishedAt": "2026-09-26T14:25:28.000Z",
+      "description": "아시안게임 5연패에 도전하는 한국 야구대표팀이 결승에서 일본과 다시 맞붙는다. 슈퍼라운드에서 일본에 0 대 5로 완패했던 한국은 금메달을 놓고 설욕에 나선다. 류지현 감독이 이끄는 한국 야구대표팀은 26일 일본 아이치현 도요하시 시민야구장에서 열린 2026 아이치·나고야 아시안게임 야구 슈퍼라운드 2차전에서 중국을 9 대 2로 꺾었다. 조별리그 대만전 승리를 포함해 슈퍼라운드 2승 1패를 기록한 한국은 일본(3승)에 이어 2위로 결승에 올랐다. 일본은 이날 대만(1승 2패)을 꺾고 결승행을 확정했다. 한일전 결승은 27일 오후 6시30분 같은 장소에서 열린다. 한국은 지난 25일 슈퍼라운드 1차전에서 실업(사회인) 야구선수로 구성된 일본에 한 점도 뽑지 못한 채 패했다....",
+      "author": null,
+      "summary": "한국 야구대표팀이 아시안게임 슈퍼라운드에서 일본에 0:5로 완패한 후 결승에서 일본과 다시 맞붙어 설욕의 기회를 얻었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a5eba4fb44b1",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "트럼프, 이란의 호르무즈 해협 개방 제안 거절",
+      "link": "https://www.theguardian.com/world/2026/sep/26/trump-dismiss-iran-seven-day-peace-deal-hormuz",
+      "publishedAt": "2026-09-26T12:38:46.000Z",
+      "description": "US president is said to expect renewed strikes after midterms US president Donald Trump has said he has rejected an Iranian proposal to reopen the strait of Hormuz within a week and resume nuclear talks in return for the lifting of the US naval blockade of Iranian ports. “They made a proposal but I reject it,” he told reporters at the White House. Continue reading...",
+      "author": "Donna Ferguson and agencies",
+      "summary": "도널드 트럼프 미국 대통령이 이란이 호르무즈 해협 개방과 핵 협상 재개를 제안했지만 이를 거절했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "58e8081b55cc",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "\"NYSE·나스닥 러브콜 받아도 한국 먼저\"…딥엑스, 내년 IPO 준비 검토",
+      "link": "https://www.mk.co.kr/news/stock/12161712",
+      "publishedAt": "2026-09-26T12:27:35.000Z",
+      "description": "김녹원 딥엑스 대표 “피지컬AI 반도체 글로벌 수주 승부” ‘DX-M1’ 1300만달러 구매주문 확보글로벌 증권거래소들의 러브콜을 받아온 피지컬 인공지능(AI) 반도체 기업 딥엑..",
+      "author": "매일경제",
+      "summary": "피지컬AI 반도체 기업 딥엑스가 미국 증권거래소의 상장 제안을 받았지만 한국 상장을 먼저 고려하며 내년 IPO를 준비 검토 중이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ff56c1e4136c",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "\"달러 환전만 하던 시대는 끝\"…인뱅 외환 서비스 경쟁 불붙었다",
+      "link": "https://www.mk.co.kr/news/economy/12161701",
+      "publishedAt": "2026-09-26T11:27:17.000Z",
+      "description": "카뱅, 내달 외화통장 통화 18개로 예금 등 다양한 외환 서비스 내세워최근 ‘환테크’의 중심이 달러 일변도에서 벗어나 다양한 통화로 분산되면서, 모바일 편의성을 앞세운 인터넷전문은..",
+      "author": "매일경제",
+      "summary": "카카오뱅크가 다음 달 외화통장을 18개 통화로 확대하면서 인터넷전문은행들이 외환 서비스 경쟁을 벌이고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b944ef8b0f17",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "유엔, 이스라엘 정착촌 관련 61개 기업을 인권침해 제재 명단에 추가",
+      "link": "https://www.theguardian.com/world/2026/sep/26/un-companies-israeli-settlements-blacklist-alleged-palestinian-rights-violations",
+      "publishedAt": "2026-09-26T11:10:09.000Z",
+      "description": "Israel ‘categorically rejects’ publication and says businesses on database have committed no wrongdoing The UN human rights office has added 61 more companies to a blacklist of firms that it says are involved in violating Palestinian human rights through business ties to Israeli settlements in the occupied West Bank. The vast majority of the total 214 companies, which are based in 11 countries, are Israeli. Five of the 158 companies listed last year were removed in the latest update. Continue reading...",
+      "author": "Associated Press",
+      "summary": "유엔 인권사무소가 이스라엘 정착촌의 팔레스타인 인권 침해에 연루된 혐의로 61개 기업을 제재 명단에 추가했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5dcbd2152f24",
+      "category": "economy",
+      "source": "동아일보 경제",
+      "region": "kr",
+      "title": "\"아버지 빚 상속포기했는데\"…2년 전 응급실비는 왜 내가 내야 하나 [상속리포트]",
+      "link": "https://www.donga.com/news/Economy/article/all/20260923/134725840/2",
+      "publishedAt": "2026-09-26T10:30:00.000Z",
+      "description": "상속포기를 마쳤는데도 고인이 생전에 내지 못한 응급실비 상환 안내가 유족에게 올 수 있다. 응급의료비 미수금 대지급금이 일반 상속채무와 다른 이유와 가족의 상환의무, 3년 시효, 가족관계 단절 때 대응 방법을 짚어본다.",
+      "author": null,
+      "summary": "상속포기를 해도 고인이 생전에 내지 못한 응급의료비는 일반 상속채무와 달라 유족이 상환해야 할 수 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "cc8751cb81f8",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "아이스 커피가 채용에 방해가 될 수 있을까?",
+      "link": "https://www.bbc.co.uk/news/articles/cv62k9p1rz4do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-26T10:05:36.000Z",
+      "description": "Employees and recruiters weigh into the online debate around interview etiquette.",
+      "author": null,
+      "summary": "직원과 채용담당자들이 면접 에티켓으로 아이스 커피 섭취 여부 등을 두고 온라인 논쟁을 벌였다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "535717d1c277",
+      "category": "economy",
+      "source": "동아일보 경제",
+      "region": "kr",
+      "title": "보호무역 확산에 韓 수출품 수입규제 241건…반년 새 11건 늘어",
+      "link": "https://www.donga.com/news/Economy/article/all/20260926/134734852/1",
+      "publishedAt": "2026-09-26T08:52:26.000Z",
+      "description": "보호무역주의가 확산하면서 한국 수출품을 겨냥한 수입규제도 증가한 것으로 나타났다.26일 대한무역투자진흥공사(코트라)의 ‘2026년 상반기 대(對)한 수입규제 동향과 전망’ 보고서에 따르면 지난 6월 말 기준 한국 수출품에 수입규제 조치를 적용한 국가는 26개국으로 집계됐다.전체 규제 건수는 241건으로 지난해 하반기 230건보다 11건 늘었다. 상반기 중 기존 규제 14건이 종료됐지만 신규 조사 25건이 시작되면서 전체 건수가 증가했다.새로 조사를 시작한 건수는 인도가 6건으로 가장 많았다. 마다가스카르가 4건으로 뒤를 이었고 일본·미국·유라시아경제연합(EAEU)·남아프리카공화국은 각각 2건이었다.품목별 신규 조사는 철강·금속과 화학이 각각 7건으로 가장 많았다. 플라스틱·고무가 3건, 기타 품목이 8건이었다.신규 조사와 기존 조치 종료를 모두 반영한 전체 규제 건수를 국가별로 보면 미국이 54건으로 가장 많았다. 이어 인도 28건, 튀르키예 27건, 마다가스카르·캐나다 각",
+      "author": null,
+      "summary": "보호무역주의 확산으로 한국 수출품 수입규제가 26개국에서 241건으로 늘어났으며 지난해 하반기 대비 11건 증가했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "86c6c231b39d",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "한국제품 수입규제 상반기 241건…작년 하반기보다 11건 늘어",
+      "link": "https://www.yna.co.kr/view/AKR20260923164700003",
+      "publishedAt": "2026-09-26T02:31:00.000Z",
+      "description": "(서울=연합뉴스) 장보인 기자 = 보호무역주의가 확산하는 흐름 속에서 올해 상반기 한국 제품에 대한 수입규제 조치도 지난해 하반기보다 증가한 것...",
+      "author": "장보인",
+      "summary": "보호무역주의 확산으로 올해 상반기 한국 제품 수입규제가 작년 하반기보다 11건 증가한 241건으로 집계됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ba1eec05022f",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "UAE와 방산협력에 수혜 기대…\"방산주 추세전환 동력 전망\"",
+      "link": "https://www.yna.co.kr/view/AKR20260923166300008",
+      "publishedAt": "2026-09-26T02:00:00.000Z",
+      "description": "(서울=연합뉴스) 김유아 기자 = 한화가 아랍에미리트(UAE)와 통합방공망 구축을 추진한다는 소식이 알려지며 국내 방산업계를 바라보는 증권가 시...",
+      "author": "김유아",
+      "summary": "한화가 아랍에미리트와 통합방공망 구축을 추진한다는 소식으로 국내 방산업계의 긍정적 전망을 이끌었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b01923e63ceb",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "1243회 로또 1등 '9, 18, 24, 38, 43, 44'",
+      "link": "https://www.khan.co.kr/article/202609262248001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-09-26T13:48:00.000Z",
+      "description": "로또복권 운영사 동행복권은 제1243회 로또복권 추첨에서 ‘9, 18, 24, 38, 43, 44’가 1등 당첨번호로 뽑혔다고 26일 알렸다. 2등 보너스 번호는 ‘35’다.당첨번호 6개를 모두 맞힌 1등 당첨은 12게임으로, 각 당첨금은 25억9252만원이다.당첨번호 5개와 보너스 번호가 일치한 2등은 115게임, 각 당첨금 4508만원이다. 당첨번호 5···",
+      "author": "김종목 기자",
+      "summary": "제1243회 로또 1등 당첨번호는 9, 18, 24, 38, 43, 44이고 보너스번호는 35다. 1등은 12게임으로 각 25억9252만원씩 배분된다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "bd2473924418",
+      "category": "politics",
+      "source": "SBS 뉴스",
+      "region": "kr",
+      "title": "한-멕시코 무역협정 필요…함께 'K팝 콘서트'도",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008770801",
+      "publishedAt": "2026-09-26T13:45:00.000Z",
+      "description": "멕시코를 국빈 방문한 이재명 대통령이 한국-멕시코 간 포괄적 경제동반자협정, CEPA의 추진을 사실상 공식화했습니다. 중남미 최대 K-콘텐츠 시장인 멕시코에서 열린 K팝 콘서트장도 찾았습니다.멕시코시티에서 강민우 기자가 보도합니다.",
+      "author": "khanporter@sbs.co.kr (강민우)",
+      "summary": "이재명 대통령이 멕시코 국빈 방문 중 한국-멕시코 CEPA 추진을 공식화하고 중남미 최대 K-콘텐츠 시장에서 열린 K팝 콘서트를 관람했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5ffb41490d1c",
+      "category": "politics",
+      "source": "노컷뉴스",
+      "region": "kr",
+      "title": "추석에도 많이 먹는 과자·음료·소시지…뇌졸중·암 위험 높인다",
+      "link": "https://www.nocutnews.co.kr/news/6582833",
+      "publishedAt": "2026-09-26T13:00:00.000Z",
+      "description": "과자, 케이크, 냉동식품, 햄, 소시지 등 초가공식품을 많이 먹으면 먹을수록 건강을 위협한다는 연구 결과가 나왔다. 싱가포르 듀크-NUS 의과대학 샤오 류 박사가 이끄는 연구팀은 지난 23일(현지시간) 1차 의료 학술지 '가정의학과 지역사회 건강'에 51개 전향적 코호트 연구(특정 요인에 노출된 집단과 노출되지 않은 집단을 추적 관찰해 질병 발생률을 비교하는 방법)에 참여한 881만 9894명의 성인을 대상으로 조사한 결과, 초가공식품 섭취량이 많을수록 각종 질환의 위험이 증가한다고 발표했다. 참가자의 평균 연령은 23.9~77세, 추적 관찰 기간은 2~32년이다. 초가공식품(UPF)이란 일반적으로 5가지 이상의 성분을 포함하고, 향료·유화제·감미료 등 가정에서 조리할 때는 잘 사용되지 않는 첨가물이 들어 있는 식품을 말한다. 대표적으로 과자, 사탕, 케이크, 탄산음료, 가당 음료, 햄·소시지 등 가공육, 즉석·냉동식품 등이 있다. 전 세계적으로 초가공식품 소비량은 수십 년 동안 증가하고 있다. 연구에 따르면 미국 성인의 경우 2021~2023년 총에너지 섭취량의 53.0%가 초가공식품이었다. 스페인에서는 지난 30년 동안 11.0%에서 31.7%로, 멕시코",
+      "author": null,
+      "summary": "싱가포르 연구팀이 881만 명 이상의 성인을 대상으로 한 대규모 추적 연구를 통해 초가공식품의 과다섭취가 뇌졸중과 암 등 각종 질환의 위험을 높인다는 결과를 발표했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0788044d5839",
+      "category": "politics",
+      "source": "연합뉴스 사회",
+      "region": "kr",
+      "title": "부산역서 이동하던 무궁화호 열차 궤도 이탈…인명피해 없어",
+      "link": "https://www.yna.co.kr/view/AKR20260926046400051",
+      "publishedAt": "2026-09-26T12:32:18.000Z",
+      "description": "(부산=연합뉴스) 김선호 기자 = 26일 오후 7시 10분께 부산 동구 부산역에서 이동하던 무궁화호 기관차 바퀴 1개가 궤도를 이탈했다.",
+      "author": "김선호",
+      "summary": "26일 오후 부산역에서 이동 중이던 무궁화호 기관차의 바퀴 1개가 궤도에서 이탈하는 사고가 발생했으나 인명피해는 없었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "71c56ed1f009",
+      "category": "politics",
+      "source": "연합뉴스 사회",
+      "region": "kr",
+      "title": "통영 앞바다서 22명 탄 낚시어선 좌초…인명피해 없어",
+      "link": "https://www.yna.co.kr/view/AKR20260926046100057",
+      "publishedAt": "2026-09-26T12:31:08.000Z",
+      "description": "(통영=연합뉴스) 장지현 기자 = 26일 오후 5시 24분께 경남 통영시 용남면의 한 바위섬에 22명이 승선한 낚시어선 A호(9.77t급)가 좌...",
+      "author": "장지현",
+      "summary": "26일 오후 경남 통영시 앞바다에서 22명이 탄 낚시어선이 바위섬에 좌초하는 사고가 발생했으나 인명피해는 없었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5655b6567d88",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "군·유엔군사령부, 지뢰폭발 추정 현장조사 준비 위해 DMZ 병력 투입",
+      "link": "https://www.khan.co.kr/article/202609262105001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-09-26T12:05:00.000Z",
+      "description": "군과 유엔군사령부가 26일 비무장지대(DMZ)에 병력을 투입해 최근 서부전선에서 발생한 지뢰 추정 폭발 사고 현장조사를 위한 준비 활동을 벌였다고 연합뉴스가 25일 보도했다.합동참모본부(합참)은 이날 “군과 유엔사는 오늘 합동으로 DMZ 내 지뢰 추정 폭발 상황 관련 현장조사를 위한 기동로 확보 및 작전환경 조사를 했다. 이날 DMZ에 투입된 인원은 이동로···",
+      "author": "김종목 기자",
+      "summary": "군과 유엔군사령부가 26일 비무장지대(DMZ)에 병력을 투입해 서부전선의 지뢰 추정 폭발 사고 현장조사를 위한 준비 활동을 벌였다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "98f917a0e12d",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "군·유엔사, 지뢰 폭발 5일만에 DMZ 진입…합동 조사 준비",
+      "link": "https://www.donga.com/news/Politics/article/all/20260926/134734970/1",
+      "publishedAt": "2026-09-26T10:58:00.000Z",
+      "description": "합동참모본부와 유엔군사령부 군사정전위원회(군정위)가 지뢰 추정 폭발 사고 합동 조사 전 사전 점검을 위해 비무장지대(DMZ)를 진입했다고 26일 밝혔다.이날 현장에는 사고의 합동 현장조사 태스크포스(TF)장인 권대원 합참차장과 군정위 비서장, 작전병력 20여명이 투입됐다. 지난 21일 사고 당시 수색로 개척에 참여했던 장병 일부도 자발적으로 참여했다고 합참은 설명했다.투입 인원들은 이동로에 대한 안전성 평가, 감시 및 통신상태 점검 등 작전환경 전반을 조사한 뒤 현장에서 철수했다. 합참은 “우리 군은 장병 안전이 확보된 가운데 유엔사와 철저한 합동 현장 조사가 이뤄질 수 있도록 지속적으로 준비하고 있다”며 “사고 원인을 철저히 조사해 국민 여러분께 객관적이고 투명하게 설명드릴 것”이라고 밝혔다.이어 “현장 조사 일정 등 작전계획은 보안사항”이라며 “노출 시 우리 군 장병들과 조사단 안전에 중대한 위협이 될 수 있으므로 신중을 기해줄 것을 당부드린다”고 덧붙였다.앞서 21일 육군 25",
+      "author": null,
+      "summary": "합동참모본부와 유엔군사령부 군사정전위원회가 지뢰 폭발 사고 발생 5일 만에 DMZ에 진입하여 합동 현장조사를 위한 사전점검을 실시했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ecb98b9963a7",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "군·유엔사, DMZ에 인력 투입해 현장조사 준비…기동로 확보",
+      "link": "https://www.yna.co.kr/view/AKR20260926043300504",
+      "publishedAt": "2026-09-26T10:38:19.000Z",
+      "description": "(서울=연합뉴스) 김효정 기자 = 군과 유엔군사령부가 26일 비무장지대(DMZ)에 병력을 투입해 최근 서부전선에서 발생한 지뢰 추정 폭발 사고 ...",
+      "author": "김효정",
+      "summary": "군과 유엔사가 DMZ에 인력을 투입해 서부전선 지뢰 폭발 사고 현장조사를 위한 기동로 확보 및 작전환경 조사를 진행했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "41846a9821b0",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "여 \"지뢰사고 28일 현장부대 검증\"…국힘 \"현안질의로 규명\"",
+      "link": "https://www.yna.co.kr/view/AKR20260926039600001",
+      "publishedAt": "2026-09-26T08:25:14.000Z",
+      "description": "(서울=연합뉴스) 박수윤 박재하 기자 = 국회 국방위원회 소속 여야 간사들은 26일 비무장지대(DMZ) 내 지뢰 추정 폭발 사고의 현장 검증과 ...",
+      "author": "박재하",
+      "summary": "국회 국방위 여야 간사들이 DMZ 지뢰 폭발 사고를 28일 현장부대 검증과 현안질의로 규명하기로 했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f518a608c745",
+      "category": "politics",
+      "source": "조선일보",
+      "region": "kr",
+      "title": "이 대통령, 스트레이키즈 공연 관람",
+      "link": "https://www.chosun.com/jp/politics-national-jp/2026/09/26/N3ANWWTZUJBGXLJ3FVSSZPVTOA/",
+      "publishedAt": "2026-09-26T08:22:43.000Z",
+      "description": "",
+      "author": "Park Sang-ki",
+      "summary": "대통령이 케이팝 아이돌 그룹 스트레이키즈(Stray Kids)의 공연을 관람했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "777cbe658d95",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "트럼프, 이란의 호르무즈 개방 '7일 계획' 제안에 \"거절했다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260926049000071",
+      "publishedAt": "2026-09-26T14:31:43.000Z",
+      "description": "(워싱턴=연합뉴스) 이유미 특파원 = 이란이 미국에 호르무즈 해협 재개방을 위한 이른바 '7일 계획' 평화안을 제안한 가운데, 도널드 트럼프 미...",
+      "author": "이유미",
+      "summary": "트럼프 대통령이 호르무즈 해협 재개방을 위한 이란의 '7일 계획' 평화안을 거절했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1874d4855bee",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "파키스탄 경찰 초소 자살 폭탄 테러로 최소 11명 사망",
+      "link": "https://www.dw.com/en/pakistan-suicide-attack-at-police-stop-kills-at-least-11/a-79443050?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-09-26T14:27:00.000Z",
+      "description": "The blast was claimed by the Pakistani Taliban, which has stepped up attacks on Pakistani security forces in recent years.",
+      "author": null,
+      "summary": "파키스탄 경찰 초소에서 발생한 자살 폭탄 테러로 최소 11명이 사망했으며, 파키스탄 탈레반이 이 공격을 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "757aace42ace",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "트럼프 \"시진핑과 대만 문제 논의…내 입장 이해하고 있어\"",
+      "link": "https://www.yna.co.kr/view/AKR20260926048600071",
+      "publishedAt": "2026-09-26T14:15:00.000Z",
+      "description": "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령은 26일(현지시간) 시진핑 중국 국가주석과 대만 문제에 대해 논의했다고 밝혔다....",
+      "author": "이유미",
+      "summary": "트럼프 미국 대통령이 중국 시진핑 국가주석과 대만 문제에 관해 논의했다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5526005d3f9c",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "아테네 아크로폴리스 근처 건물 폭발로 6명 사망",
+      "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-26T12:47:25.000Z",
+      "description": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.",
+      "author": null,
+      "summary": "아테네 아크로폴리스 근처 건물에서 의심되는 가스 폭발이 발생해 영국인 1명을 포함한 미국인 4명과 그리스인 1명이 사망했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "97302e72b839",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "독일 올림픽위원회, 뮌헨을 2036~2044년 올림픽 입찰 도시로 선택",
+      "link": "https://www.dw.com/en/german-olympic-committee-names-munich-as-bid-city-choice/a-79441284?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-09-26T12:47:00.000Z",
+      "description": "Munich has been voted as the city that will bid for the Olympics in 2036, 2040 or 2044. Berlin had been in the running but withdrew on Thursday.",
+      "author": null,
+      "summary": "독일 올림픽위원회가 2036년, 2040년 또는 2044년 올림픽 유치를 위한 입찰 도시로 뮌헨을 선택했으며, 베를린은 입찰에서 철회했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a5eba4fb44b1",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "트럼프, 호르무즈 해협 재개방을 위한 이란의 7일 평화안 거부",
+      "link": "https://www.theguardian.com/world/2026/sep/26/trump-dismiss-iran-seven-day-peace-deal-hormuz",
+      "publishedAt": "2026-09-26T12:38:46.000Z",
+      "description": "US president is said to expect renewed strikes after midterms US president Donald Trump has said he has rejected an Iranian proposal to reopen the strait of Hormuz within a week and resume nuclear talks in return for the lifting of the US naval blockade of Iranian ports. “They made a proposal but I reject it,” he told reporters at the White House. Continue reading...",
+      "author": "Donna Ferguson and agencies",
+      "summary": "트럼프 미국 대통령이 호르무즈 해협 1주일 내 재개방 및 해양 봉쇄 해제 대가로 핵협상 재개를 제안한 이란의 평화안을 거부했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c96e2e20beee",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "피지의 급증하는 HIV 감염 위기",
+      "link": "https://www.npr.org/2026/09/26/g-s1-144667/hiv-crystal-meth-epidemic-fiji",
+      "publishedAt": "2026-09-26T11:31:18.000Z",
+      "description": "In mid-September, Fiji's government declared a national emergency because of a startling rise in HIV infections. The country's crystal meth epidemic is a strong contributing factor.",
+      "author": "David Cox",
+      "summary": "피지 정부가 HIV 감염의 급격한 증가로 9월 중순 국가비상사태를 선포했으며, 크리스탈 메스 중독이 주요 원인이었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b944ef8b0f17",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "UN, 팔레스타인 인권 침해 혐의 기업 61곳 제재 명단에 추가",
+      "link": "https://www.theguardian.com/world/2026/sep/26/un-companies-israeli-settlements-blacklist-alleged-palestinian-rights-violations",
+      "publishedAt": "2026-09-26T11:10:09.000Z",
+      "description": "Israel ‘categorically rejects’ publication and says businesses on database have committed no wrongdoing The UN human rights office has added 61 more companies to a blacklist of firms that it says are involved in violating Palestinian human rights through business ties to Israeli settlements in the occupied West Bank. The vast majority of the total 214 companies, which are based in 11 countries, are Israeli. Five of the 158 companies listed last year were removed in the latest update. Continue reading...",
+      "author": "Associated Press",
+      "summary": "UN 인권사무소가 점령지 서안지구 이스라엘 정착촌과의 사업 관련 팔레스타인 인권 침해 혐의로 61개 기업을 제재 명단에 추가했으며, 총 11개국 214개 기업이 목록에 포함됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "46331549a3e0",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "아일랜드, 논란의 이스라엘 경기 앞 기자회견 진행 확정",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c962jjl18g3ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-26T10:44:37.000Z",
+      "description": "The Republic of Ireland will now hold their delayed news conference at 14:30 BST before they face Israel in tomorrow's Nations League fixture in Hungary - a fixture campaigners have called on them to boycott.",
+      "author": null,
+      "summary": "아일랜드가 헝가리에서 열리는 이스라엘과의 네이션스리그 경기 전에 기자회견을 진행하기로 확정했으며, 캠페이너들은 이 경기 불참을 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e50761658c6d",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "교황, 프랑스 방문 중 \"기계의 낙원\"이 인류 위협할 수 있다고 경고",
+      "link": "https://www.npr.org/2026/09/26/g-s1-145150/pope-warns-a-paradise-of-machines-could-undermine-humanity",
+      "publishedAt": "2026-09-26T06:59:45.000Z",
+      "description": "Pope Leo XIV has warned that a \"paradise of machines\" could undermine humanity. He raises concerns about artificial intelligence, nuclear arms, and human rights during his visit to France.",
+      "author": "The Associated Press",
+      "summary": "교황이 프랑스 방문 중 인공지능, 핵무기, 인권 침해에 대한 우려를 제기하며 \"기계의 낙원\"이 인류를 위협할 수 있다고 경고했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "aa6c3240b320",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "우리 선거 과정에서 빠진 필터",
+      "link": "https://www.nytimes.com/video/opinion/100000011159540/the-missing-filter-on-our-election-process.html",
+      "publishedAt": "2026-09-26T13:50:18.000Z",
+      "description": "Election reforms in the 1970s made voting much more populist, but at what cost? The shift away from the convention system drastically changed the kind of people who get elected, favoring those with celebrity status and name recognition.",
+      "author": null,
+      "summary": "1970년대 선거 개혁이 투표 과정을 더 민주화했지만 결과적으로 유명인과 높은 인지도의 인물이 당선되기 더 쉬워졌다고 지적했습니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e3b058181496",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "손을 잡다, 마음을 나누다",
+      "link": "https://www.nytimes.com/2026/09/26/opinion/holding-hands-love.html",
+      "publishedAt": "2026-09-26T13:42:27.000Z",
+      "description": "Two of the things that count most in life are love and usefulness. Holding hands offers both.",
+      "author": "Roger Rosenblatt",
+      "summary": "인생에서 가장 중요한 것은 사랑과 유용성이며, 손을 잡는 행위가 이 둘을 모두 제공한다고 주장합니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a3e5ef05ca1e",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "카말라 해리스의 진보파 구애, 너무 늦지는 않았을까",
+      "link": "https://www.theguardian.com/commentisfree/2026/sep/26/kamala-harris-progressives-arab-americans",
+      "publishedAt": "2026-09-26T12:00:35.000Z",
+      "description": "As she mulls another presidential run, the former VP is building bridges with progressive and Arab American leaders Does Donald Trump secretly want Republicans to get annihilated in the midterms? Because he’s certainly acting that way. He continues to brush off concerns about the cost of living, saying last week that high gas prices are a very “inexpensive price to pay” for the war on Iran. And, of course, the president seems to have no plans to end that disastrous war, apart from making vague threats about blowing the entire country up. Trust me, he keeps saying, everything will get better af",
+      "author": "Arwa Mahdawi",
+      "summary": "카말라 해리스 전 부통령이 진보파 및 아랍계 지도자들과의 관계를 구축하려 한다고 보도합니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "45b8bada3b83",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "'MAGA 깃발이 산산이 부서졌다'",
+      "link": "https://www.nytimes.com/2026/09/26/opinion/midterm-elections-midwest-political-realignment.html",
+      "publishedAt": "2026-09-26T11:32:34.000Z",
+      "description": "This week in politics: Midwest realignment and what’s next for conservatives.",
+      "author": "Robert Siegel, E.J. Dionne Jr., Timothy P. Carney and Derek Arthur",
+      "summary": "보수진영의 MAGA 운동이 중서부 정치 재정렬 속에서 정치적 영향력을 잃어가고 있다고 평가합니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0c2e1bff8a07",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "UN은 형편없다. 하지만 UN이 필요하다",
+      "link": "https://www.nytimes.com/2026/09/26/opinion/un-united-nations-failure.html",
+      "publishedAt": "2026-09-26T11:05:41.000Z",
+      "description": "Trump’s attack on global institutions leaves us helpless before a growing array of challenges.",
+      "author": "Nicholas Kristof",
+      "summary": "국제 기구는 불완전하지만 필수적이며, 트럼프의 글로벌 기구 공격이 증가하는 국제 도전에 대응 불가능하게 만든다고 비판합니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2389a37af8a0",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "Trump TV의 채널들",
+      "link": "https://www.washingtonpost.com/opinions/2026/09/26/edith-pritchett-cartoon-trump-tv-rfk-jr/",
+      "publishedAt": "2026-09-26T10:30:00.000Z",
+      "description": "Breaking: Everything’s perfect!",
+      "author": "Edith Pritchett",
+      "summary": "모든 것이 완벽하다며 현 대미디어 환경과 정부 선전을 풍자적으로 비판합니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "4db53884b945",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "ICE가 대학 운동선수를 납치했다. NCAA와 대학들은 무엇을 할 것인가",
+      "link": "https://www.theguardian.com/sport/2026/sep/26/aminata-seck-ice-international-college-athletes",
+      "publishedAt": "2026-09-26T09:00:33.000Z",
+      "description": "Aminata Seck’s detention shows the bargain facing international college athletes: universities eagerly recruit them, but support can disappear when their immigration status becomes precarious Earlier this week, news broke for the first time that Senegalese Division II Kentucky State women’s basketball player Aminata Seck was abducted by Immigration and Customs Enforcement (ICE) at Louisville’s Muhammad Ali International Airport on 7 August during a trip to attend the HBCU All-Star game in New York. Seck is listed as a Kentucky State senior and last year started 20 of 26 games, earning third-te",
+      "author": "Nathan Kalman-Lamb, Simran Kaur Sethi and Derek Silva",
+      "summary": "국제 대학 운동선수 아미나타 섹의 ICE 체포 사건을 통해, 대학들이 모집 시엔 적극적이나 이민 상태 문제 발생 시 지원을 철회한다고 비판합니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8535e2793cc4",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "Amazon의 Ring이 지역 WhatsApp을 대체하려 한다. 이는 참사의 씨앗이다",
+      "link": "https://www.theguardian.com/commentisfree/2026/sep/26/amazon-ring-local-whatsapp-group-digital-message-board",
+      "publishedAt": "2026-09-26T09:00:31.000Z",
+      "description": "Do we really want a slick digital message board overseen by Amazon? It’s the neighbourhood nonsense we treasure Ring, the Amazon subsidiary of camera-enabled doorbells fame, wants to be an even bigger part of your neighbourhood. Next month in the UK, it will be launching Neighbours, a community app that seeks to replace the now traditional neighbourhood Facebook or WhatsApp group. It will be available inside the Ring app, free to everybody, including people without Ring products, and will include a community requests feature wherein the police can ask for footage from residents living near rep",
+      "author": "Imogen West-Knights",
+      "summary": "Amazon의 Ring 커뮤니티 앱이 지역 그룹채팅을 대체하려 하는데, Amazon의 감시 아래서 진행되는 이런 플랫폼이 정말 필요한지 의문을 제기합니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6f18d3fe9555",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "Kennedy Center가 우리에게 의미하는 것",
+      "link": "https://www.washingtonpost.com/opinions/2026/09/25/what-closing-kennedy-center-means-us/",
+      "publishedAt": "2026-09-25T20:50:43.000Z",
+      "description": "The Kennedy Center and Trump's plan to militarize arch, in readers' eyes.",
+      "author": "Letters to the Editor",
+      "summary": "Kennedy Center와 트럼프의 군사화 정책에 대해 독자들이 우려와 반발을 표시하는 의견 편지입니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "adb60bf8abee",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "한 단어로 트럼프의 이란 위협이 경악스럽다",
+      "link": "https://www.washingtonpost.com/opinions/2026/09/25/annihilate-isnt-most-alarming-word-trumps-threat-against-iran/",
+      "publishedAt": "2026-09-25T18:32:06.000Z",
+      "description": "Iran dealmaking, politicized science grants and an anti-vaccine conference, in readers' eyes.",
+      "author": "Letters to the Editor",
+      "summary": "이란 외교, 정치화된 과학 보조금, 백신 정책에 대한 독자들의 우려를 담은 의견 편지입니다.",
+      "summarySource": "llm"
+    }
+  ],
+  "summarizedAt": "2026-09-27T00:25:32.440Z",
+  "summaryStats": {
+    "llm": 50,
+    "fallback": 0,
+    "model": "claude-haiku-4-5"
+  }
+}
