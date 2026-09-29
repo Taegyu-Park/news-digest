@@ -1,0 +1,899 @@
+{
+  "date": "2026-09-28",
+  "generatedAt": "2026-09-29T01:30:31.959Z",
+  "categories": [
+    {
+      "id": "it",
+      "label": "IT·과학·AI"
+    },
+    {
+      "id": "economy",
+      "label": "경제·금융"
+    },
+    {
+      "id": "politics",
+      "label": "정치·사회"
+    },
+    {
+      "id": "world",
+      "label": "세계·국제"
+    },
+    {
+      "id": "editorial",
+      "label": "사설·칼럼",
+      "opinion": true,
+      "summaryMaxChars": 220
+    }
+  ],
+  "feedStatus": [
+    {
+      "source": "Ars Technica",
+      "category": "it",
+      "ok": true,
+      "matched": 1
+    },
+    {
+      "source": "Hacker News",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "TechCrunch",
+      "category": "it",
+      "ok": true,
+      "matched": 1
+    },
+    {
+      "source": "The Verge",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "블로터",
+      "category": "it",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "전자신문",
+      "category": "it",
+      "ok": true,
+      "matched": 23
+    },
+    {
+      "source": "ZDNet Korea",
+      "category": "it",
+      "ok": true,
+      "matched": 10
+    },
+    {
+      "source": "BBC Business",
+      "category": "economy",
+      "ok": true,
+      "matched": 11
+    },
+    {
+      "source": "The Guardian",
+      "category": "economy",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "매일경제 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 42
+    },
+    {
+      "source": "연합뉴스",
+      "category": "economy",
+      "ok": true,
+      "matched": 40
+    },
+    {
+      "source": "경향신문 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 33
+    },
+    {
+      "source": "경향신문 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 32
+    },
+    {
+      "source": "노컷뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "서울신문",
+      "category": "politics",
+      "ok": true,
+      "matched": 5
+    },
+    {
+      "source": "연합뉴스 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "연합뉴스 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 79
+    },
+    {
+      "source": "SBS 뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "Al Jazeera",
+      "category": "world",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC World",
+      "category": "world",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "NPR",
+      "category": "world",
+      "ok": true,
+      "matched": 5
+    },
+    {
+      "source": "The Guardian",
+      "category": "world",
+      "ok": true,
+      "matched": 11
+    },
+    {
+      "source": "연합뉴스 국제",
+      "category": "world",
+      "ok": true,
+      "matched": 59
+    },
+    {
+      "source": "매일경제 증권",
+      "category": "economy",
+      "ok": true,
+      "matched": 34
+    },
+    {
+      "source": "경향신문 오피니언",
+      "category": "editorial",
+      "ok": true,
+      "matched": 13
+    },
+    {
+      "source": "NYT Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "The Guardian Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 10
+    },
+    {
+      "source": "Washington Post Opinions",
+      "category": "editorial",
+      "ok": true,
+      "matched": 10
+    },
+    {
+      "source": "동아일보 사설",
+      "category": "editorial",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "동아일보 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 18
+    },
+    {
+      "source": "조선일보",
+      "category": "politics",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "동아일보 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "머니투데이",
+      "category": "economy",
+      "ok": false,
+      "error": "fetch failed",
+      "matched": 0
+    },
+    {
+      "source": "Wired",
+      "category": "it",
+      "ok": true,
+      "matched": 11
+    },
+    {
+      "source": "DW News",
+      "category": "world",
+      "ok": true,
+      "matched": 15
+    }
+  ],
+  "items": [
+    {
+      "id": "85804db81ac0",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "신세계아이앤씨, 메타 AI글래스 국내 유통 확대…9개 모델 출시",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=674509",
+      "publishedAt": "2026-09-28T14:58:13.000Z",
+      "description": "신세계아이앤씨가 메타의 인공지능(AI) 글래스 국내 유통을 확대한다. 기존 레이밴·오클리 브랜드 제품에 이어 메타가 자체 브랜드를 내건 신규 제품까지 공급하면서 국내 AI 웨어러블 유통 포트폴리오를 넓힌다.신세계아이앤씨는 28일 메타 디바이스 제품군 국내 총판사로서 신규 AI 글래스 9개 모델, 21종을 국내에 출시한다고 밝혔다.이번에 국내에 공급되는 제품은 메타가 이달 23일(현지시간) 미국 캘리포니아주 멘로파크 본사에서 열린 '메타 커넥트 2026'에서 공개한 신제품과 레이밴 메타 3세대 등이다. 메타는 이번 행사를 통해 AI",
+      "author": "강준혁 기자",
+      "summary": "신세계아이앤씨가 메타의 AI 글래스 9개 모델을 국내에 출시했다. 기존 레이밴·오클리 브랜드에 이어 메타 자체 브랜드 신제품도 공급되며 국내 AI 웨어러블 유통을 확대했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "66aa70f3a26b",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "에피소드컴퍼니, '꼬마캐리 탐구생활2' MBC 방영",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=674489",
+      "publishedAt": "2026-09-28T14:57:45.000Z",
+      "description": "코스닥 상장사 에피소드컴퍼니가 자사 캐리 IP를 활용한 유아동 교육 애니메이션 '꼬마캐리 탐구생활 시즌2'를 지난 19일부터 MBC를 통해 방영하기 시작했다고 28일 밝혔다.​'꼬마캐리 탐구생활'은 2019 개정 누리과정의 5개 영역을 기반으로 제작된 유아동 대상 교육 콘텐츠다. 지난해 3월부터 8월까지 방영된 시즌1은 천체, 지구, 기상 등 40개 과학탐구 주제를 다뤘다. 시즌2는 자연환경, 문화, 경제 등 26개 사회탐구 주제로 내용을 구성했다. 방송은 회당 10분 분량으로 편성된다.​주요 교육 내용으로는 플라스틱 해양 오염,",
+      "author": "최종원 기자",
+      "summary": "에피소드컴퍼니가 캐리 IP 기반 유아동 교육 애니메이션 '꼬마캐리 탐구생활 시즌2'를 MBC에서 방영하기 시작했다. 시즌2는 자연환경·문화·경제 등 26개 사회탐구 주제로 구성했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e7e6903e935d",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "BOE \"삼성·LG와 전략적 협력 가능\"",
+      "link": "https://zdnet.co.kr/view/?no=20260928163029",
+      "publishedAt": "2026-09-28T14:57:21.000Z",
+      "description": "[지디넷코리아][베이징(중국)=이기종 기자] BOE가 \"삼성전자, LG전자와 전략적 협력관계를 구축할 수 있다\"고 밝혔다. BOE는 \"최종 소비자 브랜드 사업에 진출하지 않았기 때문에 서로 강점을 활용할 수 있는 분야가 있다\"고 설명했다.지디넷코리아는 지난 22일 중국 베이징에서 개막한 BOE의 자체 연례행사 'IPC 2026'에서 BOE 본사 임원 등 관계자와 대면 인터뷰를 했다. 이후 추가 서면 인터뷰로 보완했다. 지디넷코리아의 'BOE와 삼성전자, LG전자의 사업 협력 방향을 말해달라'는 질문에, BOE 관계자는 \"삼성전자와 LG전자는 세계적인 소비자 제품 브랜드\"라며 \"TV와 모니터, 노트북, 스마트폰, 생활가전, 차량 전장 부문에서 사업을 전개하고 있고, 글로벌 유통망과 프리미엄 제품 기획 역량을 보유하고 있다\"고 밝혔다. 이어 \"BOE는 세계 최대 패널 기업으로 액정표시장치(LCD), 유기발광다이오드(OLED), 완제품 주문자개발생산(ODM) 라인 등 생산체계를 갖추고 있다\"며 \"TV와 IT, 모바일, 차량·상업 디스플레이 제품을 폭넓게 생산하고 있고, 지속적인 기술 고도화 역량과 글로벌 공급 역량을 보유하고 있다\"고 설명했다.BOE는 \"올해 IP",
+      "author": "이기종 기자",
+      "summary": "BOE가 삼성전자, LG전자와 전략적 협력관계 구축이 가능하다고 밝혔다. 최종 소비자 브랜드 사업에 미진출한 BOE는 패널 제조 분야에서 양사와 협력할 수 있다고 설명했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "78b147e233ea",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "'30조' 역대급 배당 막차에도…삼성전자 외국인 매도 폭탄 왜?",
+      "link": "https://www.etnews.com/20260928000395",
+      "publishedAt": "2026-09-28T14:51:55.000Z",
+      "description": "30조원에 달하는 삼성전자의 3분기 배당을 받을 수 있는 마지막 매수일, 주가는 오히려 급락했다. 대규모 배당을 앞두고도 외국인 매도세가 쏟아지면서 투자자들의 관심이 배당보다 메모리 업황과 실적 전망에 집중되는 모습이다. 삼성전자는 28일 전 거래일보다 5.43% 내린 27만2000원에 거래를 마쳤다. 장 초반 0.35% 하락한 28만4500원에서 출발했지만 낙폭을 크게 확대했다. 외국인은 이날 유가증권시장에서 3조2427억원을 순매도했고, 삼",
+      "author": "이상목",
+      "summary": "30조 원 규모의 삼성전자 3분기 배당 마지막 매수일에 주가가 5.43% 급락했다. 외국인 매도세가 계속되며 투자자들의 관심이 배당보다 메모리 업황과 실적 전망에 쏠렸다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "52035eff27e3",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "FBI, 요원 개인정보 탈취 후 '사이버보안 사건' 선언",
+      "link": "https://techcrunch.com/2026/09/28/fbi-reportedly-declares-cyber-security-incident-after-hackers-steal-agents-personal-data/",
+      "publishedAt": "2026-09-28T14:50:30.000Z",
+      "description": "The bureau has not yet publicly confirmed a breach, but has told its agents that their personal information and Social Security numbers were exposed.",
+      "author": "Zack Whittaker",
+      "summary": "FBI가 해커들에 의해 요원들의 개인정보와 사회보장번호가 유출되었다고 내부 통보했다. 공식 확인은 아직 이루어지지 않았다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "34219e10640f",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "극단주의자들, 11월 선거 출마",
+      "link": "https://www.wired.com/story/these-extremists-are-running-for-election-in-november/",
+      "publishedAt": "2026-09-28T14:41:08.000Z",
+      "description": "With the threat of political violence at unprecedented levels, state and federal GOP candidates are openly sharing racist, pro-militia, anti-vaccine, sexist, antisemitic, and secessionist views.",
+      "author": "David Gilbert",
+      "summary": "정치 폭력 위협이 사상 최고조인 가운데 미국 GOP 후보들이 인종차별적·친민병대·반백신 등 극단적 입장을 공개적으로 표명하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1a8cb150358e",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "이소영 중기 장관 취임...\"규제개혁 장관 될 것\"",
+      "link": "https://zdnet.co.kr/view/?no=20260928224144",
+      "publishedAt": "2026-09-28T13:41:44.000Z",
+      "description": "[지디넷코리아]이소영 중기부 장관은 28일 취임사에서 '규제개혁 장관'이 되겠다면서 \"벤처·스타트업이 혁신을 이끌고, 중소기업과 소상공인이 변화의 주체가 된다면 AI 전환은 새로운 도약의 기회가 될 것\"이라고 밝혔다. 이어 지금 우리 경제가 마주한 가장 큰 과제는 양극화라면서 \"동시에 AI 전환이 국가 경쟁력의 판도를 바꾸고 있어, 급격하게 진행되고 있는 AI 전환은 이 격차를 더 벌릴 수도, 좁힐 수도 있다\"며 AI전환을 강조했다.이 장관은 대기업과 중소기업, 수도권과 지역, 거대 플랫폼과 골목상권 사이의 간극이 갈수록 벌어지고 있다면서 \"성장의 과실은 일부에 집중되고, 대다수 국민이 일하는 현장에는 그 온기가 충분히 닿지 못하고 있다\"고 진단했다. 갈림길에서 방향을 정하는 부처가 중기부고, 양극화를 해소하는 일이 곧 중기부의 일이라고도 했다.이어 \"'우리 소관이 아니다'라고 선을 긋는 순간, 현장의 문제는 누구의 문제도 아니게 된다\"며 \"금융이든, 노동이든, 유통과 플랫폼이든, 중소기업과 소상공인의 삶을 좌우하는 문제라면 중기부가 먼저 문제를 제기하고 답을 내놓아야 한다. 이 과정에서 다른 부처와 생각이 다를 수 있다. 두려워할 일이 아니다. 이견은 더 ",
+      "author": "방은주 기자",
+      "summary": "이소영 중기부 장관이 취임사에서 규제개혁 추진을 천명했다. AI 전환이 양극화를 해소할 수도, 심화할 수도 있으므로 벤처·스타트업과 중소기업이 이를 주도해야 한다고 강조했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d4a87bb02c4a",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "폐품 줍던 20세 여성, 하루아침에 모델로…전업 계약은 거절?",
+      "link": "https://www.etnews.com/20260928000334",
+      "publishedAt": "2026-09-28T13:30:00.000Z",
+      "description": "중국의 한 폐품 수거장에서 일하던 20세 여성이 우연한 계기로 모델로 데뷔해 패션쇼 무대까지 진출해 화제다. 하지만 유명세를 얻은 뒤에도 생계를 위해 해오던 일을 포기하지 않기로 했다. 전속 모델 활동 제의를 받았지만 자신의 일과 꿈을 함께 이어가겠다는 뜻을 밝힌 것이다. 27일(현지시간) 홍콩 사우스차이나모닝포스트(SCMP)에 따르면 '차오런렁'이라는 이름으로 활동하는 렁밍후이는 중국 동부 안후이성 푸양의 한 농촌 지역에서 태어났다. 현재는",
+      "author": "이원지",
+      "summary": "중국 폐품 수거장에서 일하던 20세 여성이 우연히 모델로 데뷔해 패션쇼 무대까지 진출했다. 유명세를 얻은 후에도 생계를 위한 원래 일을 포기하지 않기로 결정했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0538d8d3ef07",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "2026년 최고의 외장 하드드라이브: SanDisk, Samsung 등",
+      "link": "https://www.wired.com/story/best-portable-external-storage-drives/",
+      "publishedAt": "2026-09-28T13:15:00.000Z",
+      "description": "Need an ultrafast drive for video editing or a rugged option to back up your photos in the field? We’ve got a solution for every situation.",
+      "author": "Scott Gilbertson",
+      "summary": "동영상 편집용 초고속 드라이브부터 야외에서의 백업용 견고한 제품까지 각 상황에 맞는 외장 하드드라이브를 소개했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d6ebb3bfb87e",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "교회 단체의 데이터센터 비용 1% 배분 요청에 마이크로소프트 침묵",
+      "link": "https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs/",
+      "publishedAt": "2026-09-28T11:00:09.000Z",
+      "description": "“Microsoft claims to want to be a good neighbor, but the jury is still out.\"",
+      "author": "Ashley Belanger",
+      "summary": "마이크로소프트가 교회 단체들의 데이터센터 비용 1% 배분 요청에 침묵으로 일관했다. 좋은 이웃이 되겠다는 주장의 실천 의지는 여전히 의문의 여지가 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5306ec021ae0",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "첫 주택 구매자 지원 'Your First Home' 스킴 설명",
+      "link": "https://www.theguardian.com/money/2026/sep/28/first-home-scheme-first-time-buyers-what-you-need-to-know",
+      "publishedAt": "2026-09-28T14:53:22.000Z",
+      "description": "Government announcement sparks a rally in FTSE-listed housebuilders, but there are still a lot of unknowns Labour’s modest reheat of help to buy is worth a try The government will unveil a fresh scheme to help people on to the housing ladder next month but a debate is already raging over whether it is first-time buyers or housebuilders who will be the biggest winners. At the weekend, Andy Burnham announced plans for Your First Home, which aims to give a helping hand to first-time buyers who do not have the luxury of being able to call on the “bank of mum and dad”. Continue reading...",
+      "author": "Rupert Jones",
+      "summary": "영국 정부가 첫 주택 구매 희망자를 위해 'Your First Home' 스킴을 도입해 상장된 주택건설업체 주가가 상승했으나, 실제 수혜자가 초보 구매자인지 건설업체인지에 대한 논쟁이 이어지고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "935b8fb2290c",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "에너지 가격 상한제 변경이 내 요금에 미치는 영향",
+      "link": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-28T14:20:12.000Z",
+      "description": "The regulator Ofgem says the price cap increases by 4% in October for millions of households.",
+      "author": null,
+      "summary": "영국 규제기관 오프젬이 10월부터 수백만 가구의 에너지 가격 상한이 4% 인상된다고 발표했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "87cdda62f926",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "알디, 영국에 9억 파운드 투자해 내년 40개 점포 추가 개점",
+      "link": "https://www.theguardian.com/business/2026/sep/28/aldi-900m-investment-uk-open-40-new-supermarkets",
+      "publishedAt": "2026-09-28T14:20:11.000Z",
+      "description": "Supermarket chain declares ‘increasing confidence’ in its growth plans after posting record annual revenue of £19bn Business live – latest updates Aldi says it is stepping up investment in the UK with plans to spend £900m and open more than 40 stores. The company, which operates 1,092 budget supermarkets in the UK and Ireland, revealed sales rose 5% to a record £19bn last year. It opened 40 stores but profits slipped by £2.6m to £433m as it cut prices despite cost inflation. Continue reading...",
+      "author": "Sarah Butler",
+      "summary": "알디가 영국 사업에 9억 파운드를 투자하고 40개 이상의 점포를 개점할 계획을 발표했으며, 지난해 연간 매출이 사상 최고인 190억 파운드에 도달했으나 가격 인하로 인해 이익은 260만 파운드 감소했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3fa9f65e711d",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "에너지 요금을 낮추는 네 가지 방법",
+      "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-28T13:07:08.000Z",
+      "description": "Household energy bills are due to rise again in October but there are ways to keep a lid on your expenditure.",
+      "author": null,
+      "summary": "10월 가정용 에너지 요금이 인상될 예정이지만 실질적인 지출을 줄이는 방법들이 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "68040b47fb6d",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "대통령 호언장담한 이 무역협정…가입만 하면 8조원 경제효과라는데",
+      "link": "https://www.mk.co.kr/news/economy/12163145",
+      "publishedAt": "2026-09-28T12:15:35.000Z",
+      "description": "정부, 경제효과 잠정치 분석 향후 10년 GDP 0.38%P 상승 농림수산업은 年 8천억 타격 12개국 참여…세계 GDP 14% 美교두보 멕시코와 FTA효과 中 먼저 가입땐 조건 ..",
+      "author": "매일경제",
+      "summary": "정부가 예비 분석한 무역협정은 향후 10년 GDP를 0.38%P 올릴 경제효과를 기대하지만 농림수산업은 연 8천억 원의 타격을 받을 것으로 예측된다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2959e03958c8",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "은행장 16명과 머리 맞댄 한은 총재 \"현장 얘기 많이 들어\"",
+      "link": "https://www.yna.co.kr/view/AKR20260928161100002",
+      "publishedAt": "2026-09-28T11:50:38.000Z",
+      "description": "(서울=연합뉴스) 이도흔 기자 = 신현송 한국은행 총재는 28일 시중 은행장들과 취임 후 첫 간담회를 열고 가계부채 등 현안을 논의했다.",
+      "author": "이도흔",
+      "summary": "신현송 한국은행 총재가 취임 후 처음으로 시중 은행장 16명과 간담회를 열어 가계부채 등 현안을 논의했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ec04691d4630",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "이형일, 한은 총재 만나 \"경제위험 선제대응\"",
+      "link": "https://www.mk.co.kr/news/economy/12163078",
+      "publishedAt": "2026-09-28T11:11:55.000Z",
+      "description": "이형일 부총리 겸 재정경제부 장관이 취임한 지 6일 만에 신현송 한국은행 총재와 처음 만났다. 두 경제 수장은 금융시장의 변동성과 대외 불확실성이 커지는 상황에서 위험 요인에 선제..",
+      "author": "매일경제",
+      "summary": "이형일 부총리 겸 재정경제부 장관이 취임 6일 만에 신현송 한국은행 총재와 만나 금융시장의 변동성과 대외 불확실성에 대한 선제적 대응을 논의했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "bc196893b9bc",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "금융위, 고빈도매매 규율방안 검토…레버리지·신용·미수도 조인다",
+      "link": "https://www.mk.co.kr/news/stock/12163073",
+      "publishedAt": "2026-09-28T11:09:18.000Z",
+      "description": "고빈도매매 2월 거래대금 3927조원·전체 58% 6~7월 증시 급변동 계기 시장안정 대응체계 재정비 베어허그·코스닥 개편도 지속 추진금융당국이 최근 국내 증시의 급격한 변동을 키..",
+      "author": "매일경제",
+      "summary": "금융위가 고빈도매매 규제 방안을 검토하고 있으며, 2월 기준 고빈도매매가 전체 거래의 58%를 차지하면서 6~7월 주식시장 급변동의 원인이 되자 레버리지와 신용 거래 제한도 함께 추진할 방침이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b8fe382057dd",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "성남시, 내년 분당재건축 2만5천호 선정…'예비구역' 첫 도입",
+      "link": "https://www.yna.co.kr/view/AKR20260928159900061",
+      "publishedAt": "2026-09-28T10:58:31.000Z",
+      "description": "(성남=연합뉴스) 이우성 기자 = 경기 성남시가 내년에 분당 노후계획도시 재건축 정비물량 1만호와 함께 2028~2030년 예정물량의 절반 규모...",
+      "author": "이우성",
+      "summary": "성남시가 내년 분당 재건축 정비물량 1만호를 선정하고 2028~2030년 예정 물량의 절반 규모를 '예비구역'으로 처음 도입하기로 했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5ceab9846b34",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "K증시에 지친 투자자들…대피처로 꼽히는 이곳은? [주린이 ABC]",
+      "link": "https://www.mk.co.kr/news/stock/12163024",
+      "publishedAt": "2026-09-28T10:05:38.000Z",
+      "description": "MMF·고배당·커버드콜로 머니무브미국의 재정적자 확대와 AI(인공지능) 수익성 우려 등으로 최근 글로벌 금리가 5%대까지 올라갔습니다. 금리 불안으로 올 상반기까지 치솟았던 국내외..",
+      "author": "매일경제",
+      "summary": "미국의 재정적자 확대와 AI 수익성 우려로 글로벌 금리가 5%대까지 올라가면서 국내 증시에 지친 투자자들이 MMF와 고배당주, 커버드콜 펀드 등으로 자금을 옮기고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3c8a58eac073",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "북한군 고의 매설 지뢰? 혹은 유실 지뢰?…추가규명 쟁점 남아",
+      "link": "https://www.yna.co.kr/view/AKR20260928168400504",
+      "publishedAt": "2026-09-28T14:42:28.000Z",
+      "description": "(서울=연합뉴스) 김효정 윤보람 기자 = 군이 지난 21일 서부전선 비무장지대(DMZ)에서 우리 병력을 다치게 한 폭발 원인은 북한군 지뢰일 가...",
+      "author": "김효정",
+      "summary": "21일 서부전선 비무장지대에서 발생한 폭발은 북한군 지뢰로 추정되지만 고의 매설인지 유실인지 여부가 명확하지 않다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "560e1308dcdb",
+      "category": "politics",
+      "source": "조선일보",
+      "region": "kr",
+      "title": "[기자의 시각] ‘병역 브로커’ 야구의 금메달",
+      "link": "https://www.chosun.com/opinion/journalist_view/2026/09/28/CE5GAPWHHZEALC7RK4YKATKBJQ/",
+      "publishedAt": "2026-09-28T14:38:00.000Z",
+      "description": "",
+      "author": "양승수 기자",
+      "summary": "",
+      "summarySource": "rss"
+    },
+    {
+      "id": "383e29e5f3b0",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "군사분계선·北지뢰 추정지대 10여ｍ 접근 위험작전 중 연쇄폭발",
+      "link": "https://www.yna.co.kr/view/AKR20260928168000504",
+      "publishedAt": "2026-09-28T14:27:48.000Z",
+      "description": "(서울=연합뉴스) 윤보람 기자 = 지난 21일 서부전선 비무장지대(DMZ)에서 발생한 지뢰 폭발 사고 당시 군은 군사분계선(MDL)에서 10여ｍ...",
+      "author": "윤보람",
+      "summary": "21일 서부전선 비무장지대에서 군이 군사분계선으로부터 10여 미터 거리의 북한군 지뢰 추정지대에 접근한 작전 중 연쇄폭발이 발생했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "542c4870e537",
+      "category": "politics",
+      "source": "SBS 뉴스",
+      "region": "kr",
+      "title": "'비공개 합의 없었다'는 거짓…우크라 대사대리 초치",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008773569",
+      "publishedAt": "2026-09-28T14:27:00.000Z",
+      "description": "'북한군 포로 송환'을 비공개하기로 합의한 적 없다는 우크라이나 측 주장에, 청와대가 정면으로 반박했습니다. 비공개 합의를 깨더니 거짓 발표까지 했다며, 해명과 사과를 요구했습니다.",
+      "author": "yeah@sbs.co.kr (박예린)",
+      "summary": "청와대가 북한군 포로 송환 비공개 합의가 없었다는 우크라이나 측 주장을 거짓으로 규정하고 우크라이나 대사대리를 초치했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "af867c168629",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "작전 철수 중 왼발 내딛자 '펑'…대대장이 구조 접근 중 '또 폭발'",
+      "link": "https://www.khan.co.kr/article/202609282310005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-09-28T14:10:00.000Z",
+      "description": "합참이 공개한 당시 상황 합동참모본부가 28일 공개한 서부전선 비무장지대 내 지뢰 폭발 사고 당시 한국군 참여 병력 대열과 폭발 지점을 보여주는 자료(위 사진). 오른쪽은 폭발 당시 부상당한 군 간부의 방탄 헬멧과 군복 사진. 연합뉴스합참이 밝힌 사고 순간 재구성군사분계선 이남 10여m 지점서 탐지조·지휘조 등 작전 병력 18명 ‘북 지뢰 탐지’ 수색로···",
+      "author": "김병관 기자",
+      "summary": "서부전선 비무장지대에서 지뢰 제거 작전 중 병사가 다쳤고, 구조에 나선 대대장이 또 다른 폭발에 더 다친 연쇄 사고가 발생했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "910c486db2ef",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "우루과이전 완패, 모레노 기대감 '와르르'···한국 축구 '민낯' 그대로",
+      "link": "https://www.khan.co.kr/article/202609282240005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-09-28T13:40:00.000Z",
+      "description": "국가대표팀 허술한 조직력…우루과이와 평가전 1 - 4 완패이강인 크로스·손흥민 만회골, 빛바랜 ‘A매치 최다골’ 타이뻥 뚫린 골문 우루과이 남자축구대표팀 공격수 다르윈 누녜스(왼쪽)가 28일 서울월드컵경기장에서 열린 한국과의 평가전에서 전반 13분 선취골을 넣고 있다. 연합뉴스로베르트 모레노 한국 남자축구대표팀 감독이 4만8000여 관중이 들어찬 상암벌에서···",
+      "author": "양승남 기자",
+      "summary": "한국 남자축구대표팀이 우루과이와의 평가전에서 1대4로 완패하며 로베르트 모레노 감독의 기대감이 무너졌다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d4f4451625a0",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "與 \"北, 정전협정 위반\" vs 野 \"현장 바디캠 영상 공개하라\"",
+      "link": "https://www.donga.com/news/Politics/article/all/20260928/134748171/1",
+      "publishedAt": "2026-09-28T13:40:00.000Z",
+      "description": "더불어민주당이 21일 발생한 DMZ 내 지뢰 폭발 사고 관련, 우리 군이 “북한군 지뢰일 가능성이 매우 높다”고 발표하자 북한의 사죄를 촉구하고 나섰다. 국민의힘은 같은 날 정부의 늑장 대응과 은폐 의혹을 제기하며 국방위 현안질의에서 추궁하겠다고 밝혔다.민주당 박성준 수석대변인은 이날 합참 발표 후 서면브리핑에서 대한민국의 안보를 위협하는 행위에는 단호하게 대처하겠다고 밝혔다. 박성준 수석대변인은 “합참의 현장조사 결과대로 북한이 군사분계선 인근에 지뢰를 매설해 우리 장병의 생명을 위협한 것이 사실이라면 이는 결코 용납할 수 없다”며 “정전협정과 남북 간 합의를 정면으로 위반한 것”이라고 지적했다.그는 이어 “북한은 이번 사태의 진상을 낱낱이 규명하는 데 즉각 협조해야 한다”고 촉구했다. 또 “심각한 부상을 입은 우리 장병과 국민께 사죄해야 마땅하다”고 했다.이날 국민의힘 박성훈 수석대변인은 논평에서 합참 발표를 두고 “참으로 비겁하고 한심한 늑장 대응”이라고 비판했다.",
+      "author": null,
+      "summary": "더불어민주당은 북한의 정전협정 위반을 지적하며 사죄를 촉구했고, 국민의힘은 현장 바디캠 영상 공개를 요구하며 정부의 늑장 대응을 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c064d65b7af2",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "DMZ 사고 현장 장병 \"목함지뢰와 유사한 형상 지뢰 봤다\"",
+      "link": "https://www.khan.co.kr/article/202609282228005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-09-28T13:28:00.000Z",
+      "description": "군 “다른 진술도 있어, 특정 어려워”우천 인한 증거 유실 의심엔 “미미”부상자 장구류 등 감정 마무리 단계전문가 “남·북 지뢰 폭발력 5배 차, 구덩이만 봐도 판정”지뢰 탐지 이렇게… 지난 21일 발생한 지뢰 폭발 사고 현장 인근인 경기 연천군 육군 25사단에서 28일 국회 국방위원회 현장 점검이 실시돼 군인이 지뢰 탐지작업을 시연하고 있다. 박민규 선임···",
+      "author": "김병관 기자",
+      "summary": "DMZ 지뢰 폭발 사고 현장 장병이 목함지뢰와 유사한 형상의 지뢰를 봤다고 증언했으나 군은 다른 진술도 있어 특정이 어렵다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a150e4f2f3ba",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "인권위원장 \"北 포로 입국 환영\"…과도한 보도 자제 당부",
+      "link": "https://www.khan.co.kr/article/202609282216005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-09-28T13:16:00.000Z",
+      "description": "북에 머무는 가족 안전 위협 우려상처 회복·새출발하도록 도와야우크라이나에서 생포된 북한군 포로 2명이 한국에 입국한 것과 관련해 안창호 국가인권위원장(사진)이 환영의 뜻을 표하며 당사자들의 자유의사 존중과 신변 보호를 촉구했다.안 위원장은 28일 성명에서 “우크라이나에서 포로가 된 북한군 2명이 대한민국에 입국하게 된 것을 환영한다”면서 “두 사람이 전쟁과···",
+      "author": "김은송 기자",
+      "summary": "안창호 국가인권위원장은 우크라이나에서 생포된 북한군 포로 2명의 한국 입국을 환영하며 과도한 보도 자제와 신변 보호를 당부했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "784245e05737",
+      "category": "politics",
+      "source": "서울신문",
+      "region": "kr",
+      "title": "충남도의회 감사 요구 자료 '폭탄'…정작 의원은 '해외 연수'",
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20260928500206",
+      "publishedAt": "2026-09-28T08:08:44.000Z",
+      "description": "충청남도공무원노동조합이 28일 충남도의회의 행정사무감사 자료 요구가 ‘과도’하다고 지적했다. 노조는 이날 성명에서 “제13대 충남도의회의 첫 행정사무감사를 앞두고 최대 규모의 자료 요구 폭탄을 받았다”면서 “공무원들에게는 가족과 함께 쉴 시간마저 행정사무감사 자료 걱정으로 채워야 하는 추석이었다”고 주장했다. 노조에 따르면 지난 23일 기준 감사 요구 자료는 2690건으로 지난해(2136건)와 비교해 25.9%(554건) 증가했다. 상임위별로는 보건복지환경위원회가 853건으로 가장 많았고 도시안전건설소방위원회 607건, 기획경제위원회 463건 등의 순이다. 100건 이상 자료를 요구한 의원도 7명에 달했다. 더욱이 자료 요구 한 건에 여러 세부 항목과 수년 치 자료가 묶여 있어 실제 작성 부담은 건수보다 크고 중복·유사 요구도 적지 않다고 노조는 주장했다. 지자체 내부 제출 기한은 10월 2일, 도의회 제출일은 10월 15일로 전해졌다. 노조는 “행정사무감사 자료 검토 시간을 확보한다며 제출 기한을 앞당겨 놓고 정작 자료 제출 이후 4개 상임위가 국외 출장 일정을 잡아놓은 것으로 안다”면서 “의회의 감사권만큼 공무원의 시간과 노동도 존중받아야 한다”고 지적했",
+      "author": "홍성 박승기 기자",
+      "summary": "충청남도공무원노동조합이 도의회의 2690건에 달하는 감사 자료 요구가 과도하다고 지적했으며, 의원들이 자료 제출 후 해외 출장을 계획해 비판을 받았다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "4afc063aa381",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "터키 코미디언, 에르도안 모욕죄로 유죄 판결",
+      "link": "https://www.dw.com/en/turkey-comedian-convicted-for-insulting-erdogan-in-show/a-79455759?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-09-28T14:51:00.000Z",
+      "description": "Deniz Goktas was convicted of two of three charges, including \"insulting\" the president, but was released pending the appeal process. Nominally, Turkey is a secular country with free speech.",
+      "author": null,
+      "summary": "터키의 코미디언이 대통령을 모욕한 혐의 등으로 유죄 판결을 받았으며, 항소 절차 중 석방되어 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "71a9d6e49745",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "美中, 81조원어치 상호관세 인하…트럼프 공들인 美대두는 빠져(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260928075252083",
+      "publishedAt": "2026-09-28T14:34:47.000Z",
+      "description": "(베이징·워싱턴=연합뉴스) 한종구 백나리 특파원 = 미중 양국이 정상회담 합의 후속조치로 각각 300억 달러, 총 600억 달러(81조5천억원)...",
+      "author": "백나리",
+      "summary": "미국과 중국이 정상회담 합의 후속으로 총 600억 달러어치의 상호 관세를 인하했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1f9068778f17",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "러, 키이우 대낮 맹폭… 국립 과학연구기관 피격(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260928136451109",
+      "publishedAt": "2026-09-28T14:27:18.000Z",
+      "description": "(로마=연합뉴스) 민경락 특파원 = 러시아가 우크라이나 수도 키이우를 포함한 전역에 대낮에도 공격을 퍼부으면서 국립과학연구기관, 비즈니스 센터 ...",
+      "author": "민경락",
+      "summary": "러시아가 우크라이나 수도 키이우를 포함한 전역에 낮 시간에 공격을 가해 국립과학연구기관 등이 피격되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0f406aaf22b9",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "맨체스터 시티의 재정규칙 위반 적발, 독일 축구의 함의 분석",
+      "link": "https://www.dw.com/en/what-do-manchester-city-s-charges-mean-for-german-football/a-79460412?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-09-28T14:18:00.000Z",
+      "description": "Manchester City have reportedly been found guilty of major financial rule breaches. What does this mean for German football?",
+      "author": null,
+      "summary": "맨체스터 시티가 주요 재정규칙 위반으로 유죄 판결을 받았으며, 이것이 독일 축구에 미치는 영향을 살펴본다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9e753ac80f10",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "스페이스X 스타쉽, 14번째 발사로 궤도 시험 성공",
+      "link": "https://www.bbc.co.uk/news/videos/c6ge4lp442npo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-28T13:59:06.000Z",
+      "description": "A thunderous lift off, rapid satellite deployments and a fiery ending. That's how SpaceX's 14th launch of its Starship rocket panned out today.",
+      "author": null,
+      "summary": "SpaceX의 스타쉽 로켓이 위성 배치를 포함한 14번째 궤도 시험비행을 완료하고 화려한 방식으로 착수했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2413c1966757",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "유럽 열펌프 판매 11% 증가, 전기세 인하와 유가 급등의 효과",
+      "link": "https://www.theguardian.com/environment/2026/sep/28/heat-pump-sales-soar-across-europe-after-ciuntries-cut-electricity-taxes-data-shows",
+      "publishedAt": "2026-09-28T13:53:52.000Z",
+      "description": "EU to push member states to cut tax rate below duty on gas, with 11% surge in sales also put down to fallout from Iran war Business live – latest updates Europe live – latest updates Sales of residential heat pumps increased 11% across Europe in the first six months of the year as the Iran war sent oil and gas prices rocketing and some countries lowered electricity taxes. Homeowners bought 1.16m heat pumps across 12 European countries, up from 1.05m in the first half of 2025, according to the European Heat Pump Association (EHPA). Continue reading...",
+      "author": "Julia Kollewe",
+      "summary": "일부 국가들의 전기세 인하와 유가 급등으로 인해 유럽 전역의 열펌프 판매량이 전반기 대비 11% 증가했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "558c49c4d823",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "논란의 시드니 데이터센터 프로젝트 폐기",
+      "link": "https://www.bbc.co.uk/news/articles/c6n9wrqpj4yqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-28T12:47:09.000Z",
+      "description": "Goodman Group, the property giant behind the Project Mars data centre, says the decision is due to changes to the \"policy and regulatory environment\".",
+      "author": null,
+      "summary": "부동산 대형사 굿맨 그룹의 마스 프로젝트 데이터센터 계획이 정책 및 규제 환경의 변화로 폐기되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3074cd52b6d5",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "영국 공군기지 인근 의심 테러 음모와 중동 정세 분석",
+      "link": "https://www.npr.org/2026/09/28/g-s1-145248/up-first-newsletter-uk-us-air-base-iran-strait-hormuz-media-outlets-cnn-trump",
+      "publishedAt": "2026-09-28T12:15:05.000Z",
+      "description": "What we know — and still don't — about the suspected terror plot near a U.K. air base. Trump rejects Iran's offer to pause fighting. And CNN prepares for new owners with ties to Trump.",
+      "author": "Majd Al-Waheidi",
+      "summary": "영국 공군기지 인근에서 의심되는 테러 음모가 적발되었으며, 트럼프가 이란의 휴전 제안을 거부했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b83a900d1239",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "영국 해협 횡단 시도 중 아동 포함 3명 사망",
+      "link": "https://www.theguardian.com/uk-news/2026/sep/28/people-dead-english-channel-crossing",
+      "publishedAt": "2026-09-28T11:45:11.000Z",
+      "description": "Official says deaths – and dozens of injuries – were probably caused by crushing on boat carrying 105 people A 10-year-old child and two women died ⁠attempting ​to cross the Channel on Monday, French authorities have said. Their deaths and the injuries of dozens of others in a large dinghy were probably caused by crushing, according to a French official. Continue reading...",
+      "author": "Rajeev Syal and agencies",
+      "summary": "영국으로 건너가려던 105명의 난민을 싣은 보트에서 혼잡으로 인해 10세 아이를 포함한 3명이 사망했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "71b314ff475f",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "영국, 미군 기지 인근 저지된 공격에 이란·러시아 개입 여부 조사",
+      "link": "https://www.npr.org/2026/09/28/g-s1-145245/britain-us-base-suspected-foiled-attack",
+      "publishedAt": "2026-09-28T10:51:25.000Z",
+      "description": "Five men arrested on terror charges near a U.S.-run air force base were released on bail, as detectives investigate lines of inquiry, including whether a foreign state or armed group was involved.",
+      "author": "The Associated Press",
+      "summary": "미군이 사용하는 공군기지 인근에서 테러 혐의로 체포된 5명이 보석으로 석방되었으며, 외국 국가 개입 여부를 조사 중이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "77c34abadbf8",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]200조 정부 미래기금, 국회가 인출-지출 빗장 걸라",
+      "link": "https://www.donga.com/news/Opinion/article/all/20260928/134747912/2",
+      "publishedAt": "2026-09-28T14:30:00.000Z",
+      "description": "반도체 초호황으로 세금이 예상보다 더 걷히면서 이 초과 세수를 재원으로 내년에 신설될 미래대응기금(미래기금) 규모가 200조 원을 넘어설 수 있다는 전망이 나온다. 이렇게 되면 정부가 국회에 제출한 내년도 예산안(820조 원)의 약 4분의 1에 해당하는 규모의 ‘메가 기금’이 새로 생기는 것이다. 당연히 정부가 쉽게 꺼내 쓸 수 있는 ‘기금 쌈짓돈’에 대한 우려가 나오고 있다. 미래기금은 일시적 호황으로 걷힌 세금을 한 번에 다 쓰지 말고 미래를 위해 적립하자는 취지로 추진되고 있다. 정부는 잠재성장률 반등을 위한 전략적 투자와 세수 변동성을 완화 흡수하는 재정 안정화 장치로 이 기금을 쓰겠다고 했다. 지난달 설치 근거와 재원 마련을 위해 ‘미래대응기금법’ 제정안도 발의했다. 문제는 이처럼 덩치가 커진 미래기금을 실제로 어디에 어떻게 쓰느냐다. 국가재정법상 비금융성 기금의 경우 국회 심의 없이 정부가 재량으로 변경할 수 있는 한도는 지출액의 20%로 묶여 있다. 하지만 미래기금은",
+      "author": null,
+      "summary": "동아일보가 200조 규모 미래기금이 정부의 재량으로 허비될 우려를 제기하며, 국회가 인출과 지출을 엄격히 감시해야 한다고 촉구하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0f2bf1acd327",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]귀국한 李, 인사 공백 해소-시스템 정비 서둘러야",
+      "link": "https://www.donga.com/news/Opinion/article/all/20260928/134747917/2",
+      "publishedAt": "2026-09-28T14:27:00.000Z",
+      "description": "강훈식 대통령비서실장이 사의를 표명한 지 일주일이 지났다. 김용범 전 정책실장은 이달 초 자리에서 물러났다. 다음 달 2일부터는 수사와 기소가 완전히 분리되는 새 형사소송법이 시행되지만 중대범죄수사청, 경찰청, 공소청 등 주요 사정기관의 수장 역시 모두 공석이다. 5박 7일간의 미국 멕시코 순방을 마치고 귀국한 이재명 대통령 앞에 ‘집권 2기 정부 구성’이라는 시급한 과제가 놓인 셈이다. 대통령의 눈과 귀 역할을 하는 비서실장과 정책의 총괄자인 정책실장은 청와대 정무와 정책 보좌 시스템의 양대 축이다. 비서실장의 사표 수리 여부가 결정되지 않은 채 정책실장 공백까지 장기화되면 청와대의 국정 조정 기능에 빈틈이 생길 수도 있다. 이 대통령은 새 비서실장과 정책실장 인선을 통해 국정 전반의 쇄신 의지와 방향을 분명히 제시할 필요가 있다. 72년 만인 형사사법 체계 대전환의 성패는 수사를 전담하는 경찰과 중수청, 기소와 공소 유지를 담당하는 공소청이 긴밀한 협력을 통해 수사와 피해자",
+      "author": null,
+      "summary": "동아일보가 이재명 대통령에게 비서실장·정책실장 등 주요 인사 공백을 신속히 채우고, 형사사법 개혁의 성공을 보장할 국정 쇄신을 촉구하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0bed107f2175",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "트럼프가 왕처럼 행동할 수 있다고 생각하는 이유",
+      "link": "https://www.nytimes.com/2026/09/26/opinion/trump-voting-mail-supreme-court.html",
+      "publishedAt": "2026-09-28T14:08:25.000Z",
+      "description": "The Supreme Court has had a lot to do with it.",
+      "author": "Jamelle Bouie",
+      "summary": "NYT의 Jamelle Bouie가 트럼프가 왕처럼 행동하려는 태도를 비판하며, 이것이 대법원의 판결과 결정들에 의해 가능해졌다고 지적하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "68f3458f9348",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "냉정한 소녀들의 대통령제",
+      "link": "https://www.nytimes.com/2026/09/27/opinion/donald-trump-administration-mean-girls.html",
+      "publishedAt": "2026-09-28T14:06:35.000Z",
+      "description": "Our government is being run by a clique of middle-aged guys.",
+      "author": "Molly Jong-Fast",
+      "summary": "NYT의 Molly Jong-Fast가 현 정부가 중년 남성 파벌에 의해 독점적으로 운영되고 있다고 비판하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "127cfac982d7",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "Netanyahu가 재선 캠페인에서 Mamdani를 이용하고 있다",
+      "link": "https://www.theguardian.com/commentisfree/2026/sep/28/netanyahu-re-election-mamdani",
+      "publishedAt": "2026-09-28T14:00:36.000Z",
+      "description": "The Israeli prime minister’s remarks at the UN weren’t just motivated by personal animosity In a boastful and defiant speech to the United Nations on Thursday, Benjamin Netanyahu called out a list of villains he insisted are intent on destroying Israel and promoting an anti-Jewish conspiracy by accusing Israel of committing a genocide in Gaza. He singled out the leaders of Hamas, Iran, Qatar and Turkey, among others. But Netanyahu spent considerable time on the global stage attacking an unusual target: Zohran Mamdani, the mayor of New York City. Netanyahu accused Mamdani of promoting antisemit",
+      "author": "Mohamad Bazzi",
+      "summary": "The Guardian의 Mohamad Bazzi가 Netanyahu 총리의 Mamdani 뉴욕시장 공격이 개인적 감정을 넘어 재선 전략의 일환이라고 분석하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7d6500100175",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "왜 낙태가 미국의 국가적 대화에서 사라졌는가",
+      "link": "https://www.theguardian.com/commentisfree/2026/sep/28/abortion-bans-republicans",
+      "publishedAt": "2026-09-28T12:00:33.000Z",
+      "description": "The US has already grown used to the horror caused by abortion bans. And Republicans have sought to quash the stories Abortion has faded from the headlines since the Dobbs decision of 2022, and Republicans like it that way. In the immediate aftermath of the supreme court’s overturning of Roe v Wade, as millions of women lost access to the dignity and self-determination that abortion provided them, clinics shut their doors, and the extent of Dobbs’s horrendously adverse public health implications started to become clear, abortion was always, it seemed, in the headlines. There were plenty of sto",
+      "author": "Moira Donegan",
+      "summary": "The Guardian의 Moira Donegan이 Dobbs 판결 이후 낙태 금지의 참담한 결과에 미국 사회가 익숙해졌고, 공화당이 관련 논의를 억압하고 있다고 지적하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a949d6508ac5",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[서영채의 인 / 문학 현장]절정 이후를 살기",
+      "link": "https://www.khan.co.kr/article/202609282032005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-09-28T11:32:00.000Z",
+      "description": "역사가 보여주는 건 어떤 흐름도 직선적인 것은 존재할 수 없다는 사실이다. 상승과 하강의 흐름 속에서 출렁거리고 때로는 용솟음치기도 한다 절정이 있으면 환멸은 필연적이다. 그럼에도 멀리 떨어져서 보면 장기 우상향 곡선을 만들어온 것이 지난 백년 우리 공동체의 역사적 흐름이다 그래서 우리는 말하곤 한다. 지나고 나면 모두 다 별것 아니다. 그렇게 공동체의 ···",
+      "author": "서영채 서울대 교수·문학평론가",
+      "summary": "경향신문의 서영채 교수가 절정 이후의 환멸은 피할 수 없지만, 우리 공동체의 역사는 장기적으로 상승 곡선을 이루어왔다고 주장하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "930f3c690289",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "Tocqueville 여행의 잊힌 선구자",
+      "link": "https://www.washingtonpost.com/opinions/interactive/2026/09/28/future-british-prime-minister-travels-through-antebellum-america/",
+      "publishedAt": "2026-09-28T11:30:00.000Z",
+      "description": "Edward Stanley visited in 1824, when Americans feared the possibility of a Black president one day.",
+      "author": "Andrew O'Shaughnessy",
+      "summary": "Washington Post의 Andrew O'Shaughnessy가 1824년 미국을 방문한 Edward Stanley의 기록을 통해 당시 미국인들이 흑인 대통령의 가능성을 두려워했음을 밝히고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "90ee0271fa01",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "미국의 채무가 넘칠 때",
+      "link": "https://www.washingtonpost.com/opinions/interactive/2026/09/28/nations-success-depends-fiscal-space-america-is-almost-out/",
+      "publishedAt": "2026-09-28T11:30:00.000Z",
+      "description": "A nation’s success depends on fiscal space. The U.S. is almost out.",
+      "author": "Editorial Board",
+      "summary": "Washington Post 사설진이 국가의 번영은 재정적 여력에 달려 있으나, 미국의 재정 여력이 거의 남지 않았다고 경고하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e2aebe025b7b",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[하승우의 풀뿌리]비상계엄 사태는 잘 정리되고 있을까",
+      "link": "https://www.khan.co.kr/article/202609282027005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-09-28T11:27:00.000Z",
+      "description": "사상가 해나 아렌트는 나치의 아우슈비츠 강제수용소를 총괄했던 아이히만의 재판을 지켜본 뒤 ‘악의 평범성’이란 개념을 제안했다. 당시 아이히만은 자신의 행위가 독일법상 불법이 아니었고, 자신은 성실하고 진정성 있게 국가의 명령을 따랐다고 일관되게 주장했다. 아이히만은 인류 역사에 없던 대학살에 큰 책임이 있음에도 단 한 번도 희생자의 입장에서 생각하거나 사과···",
+      "author": "하승우 이후연구소 소장",
+      "summary": "경향신문의 하승우 소장이 Hannah Arendt의 '악의 평범성' 개념을 인용하며 비상계엄 사태 책임자들이 희생자 입장에서 성찰하고 사과하는지 검증해야 한다고 주장하고 있다.",
+      "summarySource": "llm"
+    }
+  ],
+  "summarizedAt": "2026-09-29T01:35:16.919Z",
+  "summaryStats": {
+    "llm": 49,
+    "fallback": 1,
+    "model": "claude-haiku-4-5"
+  }
+}
