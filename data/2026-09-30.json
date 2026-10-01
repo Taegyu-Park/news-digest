@@ -1,0 +1,898 @@
+{
+  "date": "2026-09-30",
+  "generatedAt": "2026-10-01T01:05:42.839Z",
+  "categories": [
+    {
+      "id": "it",
+      "label": "IT·과학·AI"
+    },
+    {
+      "id": "economy",
+      "label": "경제·금융"
+    },
+    {
+      "id": "politics",
+      "label": "정치·사회"
+    },
+    {
+      "id": "world",
+      "label": "세계·국제"
+    },
+    {
+      "id": "editorial",
+      "label": "사설·칼럼",
+      "opinion": true,
+      "summaryMaxChars": 220
+    }
+  ],
+  "feedStatus": [
+    {
+      "source": "Ars Technica",
+      "category": "it",
+      "ok": true,
+      "matched": 3
+    },
+    {
+      "source": "Hacker News",
+      "category": "it",
+      "ok": true,
+      "matched": 5
+    },
+    {
+      "source": "TechCrunch",
+      "category": "it",
+      "ok": true,
+      "matched": 3
+    },
+    {
+      "source": "The Verge",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "블로터",
+      "category": "it",
+      "ok": true,
+      "matched": 11
+    },
+    {
+      "source": "전자신문",
+      "category": "it",
+      "ok": true,
+      "matched": 18
+    },
+    {
+      "source": "ZDNet Korea",
+      "category": "it",
+      "ok": true,
+      "matched": 13
+    },
+    {
+      "source": "BBC Business",
+      "category": "economy",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "The Guardian",
+      "category": "economy",
+      "ok": true,
+      "matched": 27
+    },
+    {
+      "source": "매일경제 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 36
+    },
+    {
+      "source": "연합뉴스",
+      "category": "economy",
+      "ok": true,
+      "matched": 18
+    },
+    {
+      "source": "경향신문 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 43
+    },
+    {
+      "source": "경향신문 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 39
+    },
+    {
+      "source": "노컷뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "서울신문",
+      "category": "politics",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "연합뉴스 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "연합뉴스 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 83
+    },
+    {
+      "source": "SBS 뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "Al Jazeera",
+      "category": "world",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC World",
+      "category": "world",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "NPR",
+      "category": "world",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "The Guardian",
+      "category": "world",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "연합뉴스 국제",
+      "category": "world",
+      "ok": true,
+      "matched": 53
+    },
+    {
+      "source": "매일경제 증권",
+      "category": "economy",
+      "ok": true,
+      "matched": 33
+    },
+    {
+      "source": "경향신문 오피니언",
+      "category": "editorial",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "NYT Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "The Guardian Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 11
+    },
+    {
+      "source": "Washington Post Opinions",
+      "category": "editorial",
+      "ok": true,
+      "matched": 13
+    },
+    {
+      "source": "동아일보 사설",
+      "category": "editorial",
+      "ok": true,
+      "matched": 12
+    },
+    {
+      "source": "동아일보 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 30
+    },
+    {
+      "source": "조선일보",
+      "category": "politics",
+      "ok": true,
+      "matched": 5
+    },
+    {
+      "source": "동아일보 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "머니투데이",
+      "category": "economy",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "Wired",
+      "category": "it",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "DW News",
+      "category": "world",
+      "ok": true,
+      "matched": 14
+    }
+  ],
+  "items": [
+    {
+      "id": "5dfc7d3de960",
+      "category": "it",
+      "source": "Hacker News",
+      "region": "intl",
+      "title": "콜트레인의 톤 서클",
+      "link": "https://jtomschroeder.com/blog/tone-circle/",
+      "publishedAt": "2026-09-30T14:59:42.000Z",
+      "description": "Article URL: https://jtomschroeder.com/blog/tone-circle/ Comments URL: https://news.ycombinator.com/item?id=49909908 Points: 25 # Comments: 4",
+      "author": "jtomschroeder",
+      "summary": "jtomschroeder의 블로그에서 콜트레인의 톤 서클에 관한 글이 공개되어 해커뉴스에 공유되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "baca091793af",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "하나금융 청라HQ 내부 동선의 미학…데이터센터는 철옹성",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=674719",
+      "publishedAt": "2026-09-30T14:55:20.000Z",
+      "description": "인천 청라 하나금융그룹 헤드쿼터 1층에서 고개를 들자 층과 층을 잇는 곡선형 공간이 천장까지 이어졌다. 건물 중앙을 감싸는 개방형 동선은 위층을 오가는 사람들의 움직임까지 한눈에 들어오게 했다. 직원들이 각자 사무실로 곧장 흩어지는 기존 업무공간과 달리 이동 과정에서 자연스럽게 서로 마주치도록 설계했다는 게 하나금융의 설명이다.30일 가 찾은 하나금융 청라 헤드쿼터에는 지주 전 직원과 하나은행·하나금융티아이 일부 직원이 첫 업무를 개시했다. 하나에프앤아이는 21일 이전을 마쳤고 하나은행·하나캐피탈에 이어 하나생명·하나증권·",
+      "author": "류수재 기자",
+      "summary": "하나금융그룹이 인천 청라에 신축 헤드쿼터를 개설하였으며, 직원들의 자연스러운 상호작용을 유도하는 곡선형 개방형 동선으로 설계했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c40803f1cbdc",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "트럼프 대통령과 AI 지도자들의 서약문에 철자 오류",
+      "link": "https://techcrunch.com/2026/09/30/pledge-signed-by-president-trump-and-top-ai-leaders-misspells-the-united-states/",
+      "publishedAt": "2026-09-30T14:50:55.000Z",
+      "description": "On Tuesday, President Donald Trump and top AI leaders announced a signed pledge called a “Joint Commitment on Frontier Responsibilities” — a voluntary promise to implement more controls and safety measures as the rapid development of artificial intelligence continues. But there seems to be a catch.",
+      "author": "Dominic-Madori Davis",
+      "summary": "트럼프 대통령과 주요 AI 업체 지도자들이 AI 안전 조치에 관한 약속에 서명했으나, 문서에 국명의 철자 오류가 발견됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "11770b882ca1",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "BMW 미국 3시리즈 가격 공개: EV 모델에 높은 프리미엄",
+      "link": "https://arstechnica.com/cars/2026/09/bmw-opens-us-order-books-for-the-new-gas-and-electric-3-series/",
+      "publishedAt": "2026-09-30T14:42:58.000Z",
+      "description": "The 2027 BMW 330 starts at $49,900, the i3 50 xDrive at $61,500.",
+      "author": "Jonathan M. Gitlin",
+      "summary": "BMW가 2027년형 330의 미국 기본 가격을 4만9900달러, 전기차 모델 i3 50 xDrive를 6만1500달러로 책정했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "33a14da9dd35",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "생명공학 창업자, 인간 배아 유전자 편집의 도덕적 정당성 제시",
+      "link": "https://www.wired.com/story/biotech-founder-cathy-tie-moral-case-gene-editing-human-embryos/",
+      "publishedAt": "2026-09-30T14:30:00.000Z",
+      "description": "The practice of editing the genes of embryos remains highly controversial and risky, but Origin Genomics founder Cathy Tie argues its a “moral imperative” to address hereditary diseases.",
+      "author": "Kristen V. Brown",
+      "summary": "Origin Genomics의 설립자 캐시 타이가 유전질환 해결을 위한 인간 배아 유전자 편집의 도덕적 필연성을 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6214d0132b04",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "KT알파쇼핑, 가을 쇼핑 공략…패션·식품·리빙 할인",
+      "link": "https://zdnet.co.kr/view/?no=20260930230619",
+      "publishedAt": "2026-09-30T14:06:19.000Z",
+      "description": "[지디넷코리아]KT알파 쇼핑이 가을 쇼핑 수요를 겨냥해 10월 한 달간 패션과 식품, 리빙 상품을 대상으로 할인·적립 행사를 진행한다. 개천절과 한글날 연휴에는 할인쿠폰과 추가 적립 혜택도 제공한다.KT알파 쇼핑은 10월 1일부터 31일까지 모바일앱에서 '10월엔 텐텐(10+10)' 프로모션을 진행한다고 30일 밝혔다.패션 상품 구매 고객에게는 10% 청구할인과 10% 적립금을 제공한다. 패션 이외 상품에는 10% 할인쿠폰과 10% 적립금을 지급한다.개천절과 한글날 연휴를 겨냥한 별도 행사도 마련했다. 10월 3~5일과 9~11일 각각 72시간 동안 '연휴엔 보너스' 프로모션을 진행한다.모바일앱에서 5만원 이상 TV방송 상품을 구매하면 1만원 할인쿠폰을 제공하고 결제 금액의 5%를 추가 적립한다. 추가 적립금은 상품당 최대 2만원이다. 구매 고객 가운데 100명을 추첨해 GS칼텍스 주유권 1만원권도 지급한다.가을·겨울(FW) 패션 상품도 확대한다. 자체 전략 브랜드 '르투아'를 비롯해 드킴과 로디에, 까스텔바작, 베네통, 아쿠아리모네, 비버리힐즈 폴로클럽 등의 니트와 가디건, 코듀로이 팬츠 등을 판매한다.가을철 식품으로는 표고버섯 찜갈비와 부세보리굴비, 한우",
+      "author": "안희정 기자",
+      "summary": "KT알파 쇼핑이 10월 한 달간 패션·식품·리빙 상품을 대상으로 10% 할인과 10% 적립금 혜택을 제공하는 행사를 진행한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "04974074ecc9",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "3배 비싸도 완판…김장철 앞두고 '프리미엄 김치' 잘 팔린다",
+      "link": "https://zdnet.co.kr/view/?no=20260930230106",
+      "publishedAt": "2026-09-30T14:01:06.000Z",
+      "description": "[지디넷코리아]김장철을 앞두고 홈쇼핑에서 고가 김치 판매가 늘고 있다. 일반 홈쇼핑이나 대형마트 상품보다 가격이 3배가량 높은 겉절이가 준비 물량을 모두 소진하는 등 가격보다 맛과 원재료를 따지는 소비자를 겨냥한 프리미엄 김치가 새로운 상품군으로 자리 잡는 모습이다.신세계라이브쇼핑은 최근 처음 판매한 조선호텔 겉절이 김치가 방송 목표를 20% 초과 달성하며 준비 물량을 모두 소진했다고 30일 밝혔다. 회사는 추가 물량을 확보해 10월 초 후속 방송을 진행할 예정이다.이번에 판매한 제품은 백화점 식품관에서 판매되는 조선호텔 프리미엄 김치와 같은 상품이다. 일반 홈쇼핑이나 대형마트 김치와 비교하면 가격이 약 3배 높다. 신세계라이브쇼핑은 홈쇼핑 구매 특성을 고려해 대용량 구성으로 판매했다.다른 종류의 프리미엄 김치도 판매가 이어지고 있다. 조선호텔 파김치는 500g 기준 약 4만5000원에 판매되고 있으며 갓김치와 열무김치 가격도 1kg당 2만~3만원 수준이다.홈쇼핑 김치 상품 구성도 달라지고 있다. 과거에는 여러 포기를 한꺼번에 판매하는 대용량 포기김치가 주를 이뤘지만 최근에는 겉절이와 파김치, 갓김치, 열무김치 등으로 종류가 다양해지고 있다.직접 김치를 담그",
+      "author": "안희정 기자",
+      "summary": "김장철을 앞두고 일반 제품보다 3배 이상 비싼 프리미엄 김치가 홈쇼핑에서 인기를 얻었으며, 신세계라이브쇼핑의 조선호텔 겉절이는 목표 판매량을 20% 초과 달성했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9dff04f9e98c",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "산란하는 바다거북 등에서 '찰칵'… 무개념 우크라 커플에 법적 조치",
+      "link": "https://www.etnews.com/20260930000371",
+      "publishedAt": "2026-09-30T13:30:00.000Z",
+      "description": "우크라이나 인플루언서 커플이 산란을 위해 해변으로 나온 바다거북 등에 올라타 사진과 영상을 촬영했다가 오만 당국의 조사를 받게 됐다. 29일(현지시간) 폭스뉴스·아웃킥 등에 따르면 맨몸운동(캘리스데닉스) 인플루언서 바딤 올레이니크와 약혼녀 올레나 크라브첸코는 최근 오만 라스 알 진즈 거북 보호구역을 방문한 모습을 사회관계망서비스(SNS)에 공개했다. 영상에는 두 사람이 산란 중인 바다거북 등에 올라타 포즈를 취하는 모습이 담겼다. 올레이니크가",
+      "author": "서희원",
+      "summary": "우크라이나 인플루언서 커플 바딤 올레이니크와 올레나 크라브첸코가 산란 중인 바다거북에 올라탄 사진을 촬영하여 오만 당국의 조사를 받았다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ffac5d7c3a2b",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "3000원대 주식을 5만원대로…14배 폭등시킨 영풍제지 시세조종 사건 판결",
+      "link": "https://www.etnews.com/20260930000463",
+      "publishedAt": "2026-09-30T12:42:50.000Z",
+      "description": "국내 단일 종목 기준 최대 규모의 주가조작 사건으로 꼽히는 영풍제지 시세조종 사건의 핵심 피고인들에게 실형이 선고됐다. 다만 법원이 검찰이 산정한 부당이득 7898억원 가운데 약 1324억원만 인정하면서 검찰의 구형보다 형량과 벌금 규모가 크게 낮아졌다. 서울남부지법 형사합의12부(부장판사 박종열)는 30일 자본시장법 위반 등의 혐의로 기소된 이진훈씨에게 징역 15년과 벌금 3973억원을 선고했다. 약 1324억원의 추징과 밀항 과정에서 소지했",
+      "author": "이상목",
+      "summary": "국내 단일 종목 최대 규모 주가조작 사건인 영풍제지 시세조종 사건의 핵심 피고인 이진훈에게 징역 15년과 벌금 3973억원이 선고됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "076c58def22c",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "책 애호가를 위한 최고의 선물(2026): 전자책 단말기, 액세서리, 도서 세트",
+      "link": "https://www.wired.com/story/gifts-for-book-lovers/",
+      "publishedAt": "2026-09-30T11:36:00.000Z",
+      "description": "Any one of these gift ideas will make your favorite bookworm very happy, from e-readers and accessories to handy reading essentials.",
+      "author": "Nena Farrell",
+      "summary": "전자책 단말기부터 편리한 액세서리, 책 세트까지 다양한 독서 관련 선물 아이템들을 소개했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "af6cdcfe7681",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "영국 가구 에너지 요금 4년 만에 최대 인상 예상",
+      "link": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-30T14:36:45.000Z",
+      "description": "A typical household faces an annual gas and electricity bill of £1,999 from January, based on a key forecast.",
+      "author": null,
+      "summary": "영국의 일반 가구가 내년 1월부터 연간 가스·전기 요금으로 1,999파운드를 부담하게 될 것으로 예측됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "703f50197f9f",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "이란전쟁 소풍 끝나면 유가 정상화…금리발작 못본체하는 트럼프",
+      "link": "https://www.mk.co.kr/news/economy/12165415",
+      "publishedAt": "2026-09-30T14:35:54.000Z",
+      "description": "10년물도 2007년 이후 최고 전쟁 장기화 우려 국채 투매 트럼프 “곧 종전해 유가 급락”국제유가 변동성에 따른 물가 상승 압력에 미국 국채 금리가 연일 급등하고 있다. 연방준..",
+      "author": "매일경제",
+      "summary": "중동 전쟁 장기화 우려로 국채 투매가 이어지면서 10년물 국채금리가 2007년 이후 최고 수준까지 올랐으며, 트럼프는 전쟁 종료 시 유가 급락을 예상했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2e6f34bcdd94",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "자원봉사자들의 생일 케이크 베이킹",
+      "link": "https://www.bbc.co.uk/news/articles/cm74k2kkld3eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-30T14:14:24.000Z",
+      "description": "The Hampshire group says it has seen a rise in demand and it needs more volunteer bakers.",
+      "author": null,
+      "summary": "햄프셔의 자원봉사 그룹은 생일 케이크 수요 증가로 인해 더 많은 자원봉사 베이커 모집을 시작했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "86479087149d",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "영국 가계 소득 증가율 상향 조정, 경제 회복력 평가",
+      "link": "https://www.theguardian.com/business/2026/sep/30/uk-income-growth-john-healey-budget-gdp-ons",
+      "publishedAt": "2026-09-30T14:13:55.000Z",
+      "description": "Boost for John Healey before budget as GDP figure shows UK economy grew faster than first estimated in second quarter Business live – latest updates UK household income grew at a stronger pace than previously estimated during the first six months of the year, according to revisions of official data. The rise in income per head to 1.1% between January and June followed an increase in the level of economic growth that illustrated the resilience of the UK economy since the outbreak of hostilities in the Middle East more than seven months ago. Continue reading...",
+      "author": "Phillip Inman",
+      "summary": "공식 통계 수정에 따라 올해 상반기 영국 가구 소득 증가율이 이전 예상보다 높은 1.1%로 나타났으며, 이는 중동 분쟁 이후 경제의 회복력을 보여주는 결과다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "fbea928d45f5",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "영국 200만 명, 자신의 주택 홍수 위험 인식 미흡",
+      "link": "https://www.theguardian.com/environment/2026/sep/30/two-million-people-uk-unaware-flooding-risk",
+      "publishedAt": "2026-09-30T13:50:05.000Z",
+      "description": "Environment Agency warns residents of 6m at-risk properties to prepare for wet and windy three months ahead More than two million people in England are unaware their properties are at risk of flooding, as the UK braces for a wet and stormy start to the winter, according to the Environment Agency. Experts say the next three months are more likely than usual to be wet and windy – due to a combination of large-scale weather patterns and the “subtle” impact of a supercharged El Niño – increasing the risk of flooding. Continue reading...",
+      "author": "Matthew Taylor",
+      "summary": "영국 환경청은 약 600만 명이 홍수 위험 지역에 거주하나 이 중 200만 명 이상이 그 사실을 모르고 있으며, 향후 3개월간 강풍과 습기로 홍수 위험이 높아질 것으로 경고했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f203f3957394",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "독일 9월 소비자물가 3.3％↑…ECB 금리인상 압박",
+      "link": "https://www.yna.co.kr/view/AKR20260930196400082",
+      "publishedAt": "2026-09-30T13:43:10.000Z",
+      "description": "(베를린=연합뉴스) 김계연 특파원 = 이달 독일 소비자물가가 작년 9월보다 3.3％, 지난달에 비해 0.6％ 오른 것으로 독일 연방통계청이 30...",
+      "author": "김계연",
+      "summary": "독일의 9월 소비자물가가 작년 같은 달 대비 3.3% 상승하면서 유럽중앙은행의 금리 인상 압력이 커질 것으로 보인다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9111e8cf5f53",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "증선위, 대표 시세조종행위 등 불공정거래 3건 檢 고발·통보",
+      "link": "https://www.yna.co.kr/view/AKR20260930190900002",
+      "publishedAt": "2026-09-30T12:18:00.000Z",
+      "description": "(서울=연합뉴스) 강류나 기자 = 금융위원회 산하 증권선물위원회는 제17차 정례회의에서 미공개 중요정보 이용행위, 시세조종행위 금지 위반 등 3...",
+      "author": "강류나",
+      "summary": "금융위원회 산하 증권선물위원회가 미공개 중요정보 이용행위 및 시세조종행위 위반 등 불공정거래 3건을 검찰에 고발·통보했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "264653f85900",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "예전 같지 않은 미국…예전과 다른 非미국 ETF",
+      "link": "https://www.mk.co.kr/news/stock/12165319",
+      "publishedAt": "2026-09-30T11:54:08.000Z",
+      "description": "국채금리 5% 긴축의 시대 돌파구 ETF미국 10년물 국채금리가 5.24%를 기록하며 19년 만의 최고치를 경신했다. ‘절대 안전 자산’ 미국 국채가 매년 5%씩 이자를 주는데 누..",
+      "author": "매일경제",
+      "summary": "미국 10년물 국채금리가 5.24%로 19년 만의 최고치를 기록하면서 절대 안전 자산이던 미국 국채가 매년 5% 이상의 이자를 제공하게 됨에 따라 투자 전략이 변화하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "be8c7035e01a",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "한화證, 9000억원 자본확충 …'종투사로 도약'",
+      "link": "https://www.mk.co.kr/news/stock/12165275",
+      "publishedAt": "2026-09-30T10:30:55.000Z",
+      "description": "한화투자증권이 5000억원 규모의 유상증자와 신종자본증권 발행을 통해 종합금융투자사업자(종투사) 진입에 나선다. 한화생명이 애큐온캐피탈 인수 계약을 체결해 저축은행 분야에 진출하는..",
+      "author": "매일경제",
+      "summary": "한화투자증권이 5000억 원 규모의 유상증자와 신종자본증권 발행을 통해 종합금융투자사업자로 진입하며, 한화생명은 애큐온캐피탈 인수로 저축은행 분야에 진출한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "01787cf7ab3a",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "금융권 최초 '무선 오피스'…하나금융 청라 신사옥 가보니",
+      "link": "https://www.mk.co.kr/news/economy/12165237",
+      "publishedAt": "2026-09-30T09:11:04.000Z",
+      "description": "자유롭게 이동하며 타부서와 소통 IT 인재 모아 AI금융서비스 강화30일 찾은 인천 서구 청라국제도시 하나금융그룹 청라헤드쿼터(신사옥)에선 직원들이 노트북 하나만 들고 원하는 자리..",
+      "author": "매일경제",
+      "summary": "하나금융그룹의 청라헤드쿼터 신사옥에 도입된 무선 오피스 시스템으로 직원들이 노트북만 들고 자유롭게 이동하며 업무를 보면서 부서 간 소통과 AI 금융 서비스 강화가 가능해졌다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "da5a2014eeba",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "李대통령 \"김지용, 친윤 아닌 반윤…추미애 장관때 검사장 발탁\"",
+      "link": "https://www.yna.co.kr/view/AKR20260930197400001",
+      "publishedAt": "2026-09-30T14:58:40.000Z",
+      "description": "(서울=연합뉴스) 고동욱 기자 = 이재명 대통령은 30일 김지용 중대범죄수사청장 후보자에 대한 여권 일각의 비판에 대해 \"이런 사람을 '친윤(친...",
+      "author": "고동욱",
+      "summary": "이재명 대통령이 김지용 중대범죄수사청장 후보자를 둘러싼 '친윤' 비판에 대해 그는 추미애 전 법무장관이 승진시킨 인물이라며 반박했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "bc0e3742bc3b",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "李, 김지용 '친윤' 논란에 직접 반박…\"억지 주장은 비방-국정방해\"",
+      "link": "https://www.donga.com/news/Politics/article/all/20260930/134764771/1",
+      "publishedAt": "2026-09-30T14:55:00.000Z",
+      "description": "이재명 대통령이 30일 김지용 초대 중대범죄수사청장 후보자를 ‘친윤 검사’라고 비판한 X(옛 트위터) 이용자의 글을 리트윗하면서 “허위임을 알면서도 공격을 하기 위해 거짓에 기반해서 하는 억지 주장이라면 그건 비판이 아니라 비방이고, 국정에 대한 조언이 아니라 국정방해”라고 지적했다.●李 “김지용, 추미애 전 법무장관이 승진시킨 사람”이 대통령은 30일 X(엑스)에서 ‘친윤계 검사 김지용을 쓰지 말라’는 취지의 글을 올린 한 이용자에게 답하며 “국정은 모든 국민의 것이라 객관적이고 공정해야 한다”며 이같이 말했다. 이어 “국정에 대한 비판이나 조언은 얼마든지 할 수 있지만 사실에 기초해서 해야 진정한 비판과 조언으로서 의미가 있다”고 말했다. 이 대통령은 “정부에서 객관적 증거에 따라 확인한 바”라며 김 후보자가 △문재인 정부 당시 추미애 법무장관이 검사장으로 발탁 승진시켰고 △윤석열 검찰총장 때 대검 형사부장으로서 윤 전 총장의 장모 최은순 씨의 모해위증교사 무혐의 사건에 재",
+      "author": null,
+      "summary": "이재명 대통령이 김지용 청장 후보자에 대한 '친윤' 비판을 거짓 주장이라 반박하며, 사실에 기반한 비판만이 진정한 의미가 있다고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "810af6533e84",
+      "category": "politics",
+      "source": "조선일보",
+      "region": "kr",
+      "title": "[김창균 칼럼] 노태우·이승만은 못마땅한 제청도 받아들였다",
+      "link": "https://www.chosun.com/opinion/column/2026/09/30/4D6O6PPEPJEJHOIH73UVAH4W7M/",
+      "publishedAt": "2026-09-30T14:55:00.000Z",
+      "description": "",
+      "author": "김창균 주필",
+      "summary": "노태우와 이승만 대통령도 불만족스러운 인사 제청을 받아들인 사례가 있었다는 내용을 담은 칼럼이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "22f585fcaaa7",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "이 대통령 \"김지용, 친윤 비난 납득 어려워···억지 주장이라면 국정 방해\"",
+      "link": "https://www.khan.co.kr/article/202609302354001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-09-30T14:54:00.000Z",
+      "description": "이재명 대통령이 30일 울산 HD현대중공업 조선소에서 열린 대호김종서함 진수식에서 축사를 하고 있다. 청와대사진기자단이재명 대통령이 30일 김지용 중대범죄수사청장 내정자를 둘러싼 비판에 대해 “억지 주장이라면 그건 비판이 아니라 비방이고, 국정에 대한 조언이 아니라 국정 방해”라며 “이런 사람(김 내정자)을 친윤 검사라는 이유로 비난하는 것은 납득하기 어렵···",
+      "author": "민서영 기자",
+      "summary": "이재명 대통령이 김지용 청장 내정자에 대한 '친윤' 논란을 비판하며, 억지 주장은 국정 방해라고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b14a277e5bac",
+      "category": "politics",
+      "source": "SBS 뉴스",
+      "region": "kr",
+      "title": "9일 만에 입 연 김여정 \"명백한 자작극…실사격엔 보복\"",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008777471",
+      "publishedAt": "2026-09-30T14:46:00.000Z",
+      "description": "서부전선에서 북한군이 매설한 지뢰가 폭발한 지 9일 만에, 북한 김여정이 직접 입장을 냈습니다. 이번 사건이 우리 측의 \"명백한 자작극\"이라는 억지 주장을 폈습니다.",
+      "author": "khy@sbs.co.kr (김혜영)",
+      "summary": "서부전선 지뢰 폭발 사건 9일 후 김여정이 이를 자작극이라고 주장하며 실사격에 대한 보복을 예고했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "86e1df326947",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "유엔사 \"정전협정 위반\"…북한 \"명백한 자작극\"",
+      "link": "https://www.khan.co.kr/article/202609302152005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-09-30T12:52:00.000Z",
+      "description": "김여정 “국경 한 번도 안 넘었다”…남측 발표 하루 만에 반박군, 북 담화 공개되자 “북에 책임 있는 사과·조치 촉구” 성명여당 “10년 만에 또 우리 장병 쓰러뜨려…북, 억지 주장 멈추고 사과하라”북, 해안 철책 보수 작업 경기 김포시 애기봉 생태평화공원 조강전망대에서 1.4㎞ 떨어진 북한 개풍군 해안가에서 30일 주민과 군인들이 철책 보수작업을 하고 있···",
+      "author": "김원진·김윤나영 기자",
+      "summary": "서부전선 지뢰 폭발 사건을 두고 유엔사는 정전협정 위반이라 지적한 반면, 북한은 이를 자작극이라고 반박했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e7840f8de69c",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "[포토뉴스]세번째 '8200톤급' 차세대 이지스구축함",
+      "link": "https://www.khan.co.kr/article/202609302148005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-09-30T12:48:00.000Z",
+      "description": "청와대사진기자단세번째 ‘8200톤급’ 차세대 이지스구축함 이재명 대통령이 30일 울산 HD현대중공업 조선소에서 열린 대호김종서함 진수식에서 축사하고 있다.",
+      "author": null,
+      "summary": "이재명 대통령이 울산 HD현대중공업에서 개최된 세 번째 8200톤급 차세대 이지스구축함 대호김종서함의 진수식에서 축사했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6c7aeb721f30",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "靑, 지뢰사고에 \"先진상규명 후 응분의 필요 조치 분명히 할 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260930191900001",
+      "publishedAt": "2026-09-30T12:31:12.000Z",
+      "description": "(서울=연합뉴스) 설승은 기자 = 성기홍 청와대 홍보소통수석은 30일 서부전선 비무장지대(DMZ) 내 지뢰 추정 폭발 사고와 관련, \"선(先) ...",
+      "author": "설승은",
+      "summary": "청와대 홍보소통수석이 서부전선 지뢰 사건에 대해 먼저 진상을 규명한 후 응분의 조치를 취하겠다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "65ba0909e1a6",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "범죄 피해자들 \"담당 경찰 따라 달라지는 사건 처리 없애야\"",
+      "link": "https://www.khan.co.kr/article/202609302126005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-09-30T12:26:00.000Z",
+      "description": "‘개정 형소법 D-1’ 경찰 향한 당부“피해자 보호 지원·안내 확대하고가해자 감시 강화, 정보도 통지를”검사선서는 그대로 검찰청 폐지와 공소청·중수청 출범을 이틀 앞둔 30일 서울 서초구 서울중앙지검 청사에 걸린 검사선서 앞으로 직원이 지나가고 있다.“최소한 피해자들에게 2차 가해는 하지 않았으면 좋겠어요. 피해자들은 마치 ‘랜덤 게임’처럼 어떤 경찰을 만···",
+      "author": "최서은 기자",
+      "summary": "범죄 피해자들이 담당 경찰에 따라 달라지는 사건 처리 문제를 지적하며 피해자 보호 지원과 정보 통지 확대를 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "37589bfca54d",
+      "category": "politics",
+      "source": "서울신문",
+      "region": "kr",
+      "title": "지뢰는 서부서 터졌는데… 동부전선 21사단 보복한다는 김여정, 왜",
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20261001003001",
+      "publishedAt": "2026-09-30T09:18:07.000Z",
+      "description": "김여정 북한 노동당 부장이 30일 담화에서 지뢰 폭발 사고가 발생한 서부전선이 아닌 동부전선 ‘육군 21사단’을 특정해 “반격 증강 조치”를 언급하며 그 배경에 관심이 쏠린다. 군 안팎에선 우리 군의 경고사격 등 군사분계선(MDL) 침범 대응을 위축시키려는 의도라는 분석이 나온다. 김 부장은 담화에서 ‘국경선 일대에서 벌어지는 적대행위’를 언급한 뒤 “이미 그에 대한 대응 행동 지침은 국경선방어구분대들에 하달된 상태이며 최근 도발이 잦은 한국군 3군단 21보병사단 비무장지대 방향에 우리 군대는 전술적 반격 수단들을 증강하는 조치를 취하기로 했다”고 밝혔다. 3군단 예하 21사단은 동부전선 최전방인 강원 양구군 일대의 DMZ 등이 작전 구역이다. 이 지역은 이른바 ‘국경 요새화’ 작업 이후 북한군의 MDL 침범이 빈번하게 일어나는 곳으로 알려졌다. 군 관계자는 “동부 전선은 산세가 험해 MDL 식별이 어렵다 보니 북한군이 자주 침범할 수 있다”고 전했다. 군은 MDL 침범에 교전수칙에 따라 경고사격으로 대응하고 있다. 최근 월선이 늘어나면서 21사단의 경고사격도 빈번해지는 것으로 알려졌다. 북한군은 경고사격 이후 물러났다가 위치를 바꿔 지뢰를 매설하는 모습도 ",
+      "author": "이주원 기자",
+      "summary": "김여정이 서부전선 지뢰 폭발과 무관하게 동부전선 21사단을 특정해 보복하겠다고 언급한 것은 우리 군의 경고사격을 위축시키려는 의도로 분석된다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "35b5c09af546",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "러시아, 봄 이후 최대 규모의 우크라이나 에너지 인프라 공격",
+      "link": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-30T14:53:02.000Z",
+      "description": "In total 11 regions of the country were attacked overnight, with residential buildings and railways also targeted, the Ukrainian PM says.",
+      "author": null,
+      "summary": "러시아가 우크라이나 11개 지역을 야간에 공격했으며, 주택과 철도 시설도 목표로 삼았다고 우크라이나 총리가 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "462bad597458",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "독일, 2027년부터 독일란트티켓 월정액을 66.80유로로 인상",
+      "link": "https://www.dw.com/en/germany-raises-deutschlandticket-price-to-€66-80-a-month-from-2027-under-new-cost-based-formula/a-79492524?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-09-30T14:32:00.000Z",
+      "description": "A new cost-based formula has pushed up the price of Germany's nationwide public transport pass for 2027.",
+      "author": null,
+      "summary": "새로운 비용 기반 공식에 따라 독일의 전국 대중교통 정기권 가격이 2027년부터 인상된다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a8679166e4f8",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "뉴욕증시, 예상 밑돈 PCE에 안도…강세 출발",
+      "link": "https://www.yna.co.kr/view/AKR20260930197000009",
+      "publishedAt": "2026-09-30T14:26:36.000Z",
+      "description": "(뉴욕=연합뉴스) 진정호 연합인포맥스 특파원 = 뉴욕증시의 3대 주가지수가 강세를 보이고 있다.",
+      "author": "국제뉴스공용1",
+      "summary": "PCE 물가 상승률이 시장 예상을 밑돌면서 뉴욕증시 3대 지수가 강세를 보였다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2a06a8829433",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "남아공 대통령, 여성 폭력 문제 해결 위해 남성들의 책임 촉구",
+      "link": "https://www.theguardian.com/world/2026/sep/30/south-africa-gender-based-violence-women-killings",
+      "publishedAt": "2026-09-30T14:16:33.000Z",
+      "description": "President announces measures amid anger at authorities over recent murders of women South Africa’s president has called on men to take more responsibility for violence against women as he announced measures to tackle the problem, amid anger at authorities over a recent wave of murders. Cyril Ramaphosa acknowledged that not enough had been done to protect women. He said police would be reviewing unsolved murders, attempted murders and serious sexual offences against women and children, as well as producing a funded plan to reduce the forensic backlog for such cases, both within 60 days. Continu",
+      "author": "Rachel Savage in Johannesburg",
+      "summary": "시릴 라마포사 대통령이 여성 폭력 문제에 더 많은 책임을 다할 것을 남성들에게 촉구하며, 미해결 살인 사건 재검토 및 법의학 체계 개선 대책을 60일 내에 추진하겠다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5df4ae74049d",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "美 8월 PCE 물가 3.4%↑…전망 밑돌며 10월 금리인상 부담 완화(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260930194151072",
+      "publishedAt": "2026-09-30T14:07:19.000Z",
+      "description": "(뉴욕=연합뉴스) 임수정 특파원 = 미국의 8월 개인소비지출(PCE) 물가 상승률이 시장 전망을 밑돈 것으로 나타났다.",
+      "author": "임수정",
+      "summary": "미국의 8월 개인소비지출 물가 상승률이 3.4%를 기록하며 시장 전망을 밑돌면서 금리 인상 부담이 완화되는 것으로 보인다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2352d802d511",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "이란, 핵확산금지조약 탈퇴 검토 중 핵 프로그램 불투명성 심화",
+      "link": "https://www.dw.com/en/iran-s-nuclear-program-remains-shrouded-in-mystery-as-the-regime-debates-ditching-non-proliferation/a-79488197?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-09-30T14:01:00.000Z",
+      "description": "Iran's nuclear program is entering a critical phase as Tehran debates dropping out of a nuclear non-proliferation treaty. Satellite images also show activity at known nuclear sites.",
+      "author": null,
+      "summary": "이란이 핵 비확산 조약 탈퇴를 검토 중이며, 위성 이미지는 알려진 핵 시설에서의 활동을 보여주고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3d911a33480c",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "MI5의 중국 첩보 경고, 자금난 겪는 영국 대학들 어려움",
+      "link": "https://www.theguardian.com/education/2026/sep/30/mi5-china-alert-uk-universities-funding-financing",
+      "publishedAt": "2026-09-30T13:36:25.000Z",
+      "description": "Institutions have for years turned to China for funding opportunities but national security concerns are mounting MI5 issues spy alert to UK universities over Chinese front company stealing research The security alert issued by MI5 regarding a Chinese state-owned conglomerate accused of conducting espionage in the UK reveals the extent to which British intelligence remains concerned about Beijing’s influence, and risks casting a shadow over UK-China cooperation at a time when the bilateral relationship is enjoying a revival. The UK’s domestic security service on Wednesday warned researchers an",
+      "author": "Amy Hawkins Senior China correspondent",
+      "summary": "영국 정보기관 MI5가 중국 국영 대기업을 첩보 활동 혐의로 경고하면서, 오랫동안 중국 자금에 의존해온 영국 대학들의 국제 협력에 그림자를 드리우고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "33d30b6c9581",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "이스라엘 향 비행기 조종사 피습, 승객들이 공격자 제압",
+      "link": "https://www.npr.org/2026/09/30/nx-s1-5985806/flydubai-flight-dubai-tel-aviv-israel",
+      "publishedAt": "2026-09-30T13:35:11.000Z",
+      "description": "As the plane went into a spin and began to plunge, passengers and crew members got into the cockpit, subdued the pilot and diverted the flight to land in Saudi Arabia, Israel's leader says.",
+      "author": "Kat Lonsdorf",
+      "summary": "항공기가 급강하하자 승객과 승무원들이 조종실로 들어가 조종사를 제압하고 비행기를 사우디아라비아로 착륙시켰다고 이스라엘 지도자가 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d86d96b0a26b",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "보츠와나, 독립 기념식 위해 코끼리 23마리 도살해 국제 비난",
+      "link": "https://www.bbc.co.uk/news/articles/cxm2qmpy57ggo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-30T12:06:28.000Z",
+      "description": "The government authorises the hunting of elephants and dozens of other wild animals for independence day feasts.",
+      "author": null,
+      "summary": "보츠와나 정부가 독립 기념일 연회를 위해 코끼리와 수십 마리의 야생동물 사냥을 허가했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "784995e51f39",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "미군 이라크 철수, 대법원 트럼프 강제 송환 정책 지지",
+      "link": "https://www.npr.org/2026/09/30/g-s1-145604/up-first-newsletter-iraq-us-troops-scotus-deportations-trump-ai",
+      "publishedAt": "2026-09-30T11:13:17.000Z",
+      "description": "The U.S. has withdrawn its final troops from Iraq, leaving its defense future uncertain. And, the Supreme Court has sided for now with the Trump administration on third-country deportations.",
+      "author": "Brittney Melton",
+      "summary": "미국이 이라크에서 최종 병력을 철수하면서 방위 미래가 불확실해진 가운데, 연방대법원이 트럼프 행정부의 제3국 강제 송환 정책을 지지했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "843cdc3361ad",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "선거제도 개혁은 번하(Burnham)에게 도박이 될 수 있다",
+      "link": "https://www.theguardian.com/commentisfree/2026/sep/30/electoral-reform-gamble-andy-burnham-labour-proportional-representation",
+      "publishedAt": "2026-09-30T14:55:28.000Z",
+      "description": "Though proportional representation poses risks for Labour, it’s a change that feels necessary for today’s volatile politics A number of people have admitted to tears during Andy Burnham’s Labour party conference speech, and most of them mean when he talked about his father, who died very recently. But then there were a few (not me) who welled up when he announced a commission on electoral reform. It was just the sheer shock of it: that we may finally have a prime minister who will follow through on his own long-held beliefs and remain loyal to his long-term support base, even if it makes him a",
+      "author": "Zoe Williams",
+      "summary": "Andy Burnham이 선거제도 개혁에 대한 위원회를 발표했으며, 비례대표제는 노동당에 위험을 초래할 수 있지만 현대의 불안정한 정치에 필요한 변화라고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "daa773ebb9e4",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]정전협정 위반 명백한데 北 \"자작극\" 발뺌… 엄중 책임 물어야",
+      "link": "https://www.donga.com/news/Opinion/article/all/20260930/134764308/2",
+      "publishedAt": "2026-09-30T14:30:00.000Z",
+      "description": "북한이 30일 서부전선 비무장지대(DMZ) 지뢰 폭발과 관련해 “서울의 자작 광대극”이라고 주장했다. 김여정 노동당 총무부장 명의의 담화는 나아가 “우리 군인들은 단 한 번도 국경선을 넘어선 적이 없다”며 “총탄 한 발이라도 우리 땅에 탄착되면 즉시 가차 없이 보복할 것”이라고 위협했다. 이에 우리 군은 “북한군 지뢰에 의해 우리 장병이 심각한 부상을 당한 사건”이라며 북측에 DMZ 요새화 중단과 사과, 책임 있는 조치를 촉구했다. 전날 강신철 국방부 장관은 “정전협정 위반이 명백하다”며 ‘상응하는 조치’를 예고했다. 북한의 전면 부인과 보복 위협은 예상됐던 반응이다. 우리 측이 현장 조사를 통해 군사분계선(MDL) 이남에 매설된 북한군 지뢰의 실물까지 확인했고, 그간 신중한 태도를 보이던 유엔사도 “정전협정 위반”이라는 판단을 내렸다. 그런데도 북한은 “10여 년 전 ‘목함지뢰 사건’을 방불케 하는 자작극”이라고 주장했다. 2015년 목함지뢰 사건 때도 북한은 ‘날조’ ‘모략’이",
+      "author": null,
+      "summary": "북한이 DMZ 지뢰 사건을 '자작극'이라고 주장하고 보복을 위협했으나, 한국 군부는 정전협정 위반이 명백하다며 북한의 책임을 엄중하게 물어야 한다고 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5c69405d4788",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "다섯 세대, 한 신문사",
+      "link": "https://www.nytimes.com/2026/09/30/opinion/new-york-times-family-ownership-stewardship.html",
+      "publishedAt": "2026-09-30T14:28:45.000Z",
+      "description": "How on earth did The New York Times, a seemingly ossified institution in a dying industry, survive the most destabilizing period in its history — and emerge stronger?",
+      "author": "A.G. Sulzberger",
+      "summary": "뉴욕타임스(NYT)가 쇠락하는 신문업계에서 가장 불안정한 시기를 어떻게 견뎌내고 더욱 강해질 수 있었는지 탐색했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "fe5a637ef312",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]'쉬었음' 청년 61만, 중년 67만… 스타트도, 리스타트도 어렵다",
+      "link": "https://www.donga.com/news/Opinion/article/all/20260930/134764312/2",
+      "publishedAt": "2026-09-30T14:27:00.000Z",
+      "description": "‘쉬었음’으로 분류된 40, 50대가 작년 기준 67만 명이라고 한다. 이 나이대 비(非)경제활동인구 5명 중 1명이 구직활동을 중단하고 교육·훈련도 받지 않은 채 그냥 쉬고 있다는 뜻이다. 39세 미만 청년 중에도 61만 명이 같은 상태에 놓여 있다. 국회미래연구원에 따르면 ‘쉬었음 청년’과 ‘쉬었음 중년’은 2010년보다 각각 25만 명, 15만 명 늘었다. 국내 노동시장이 출발점(스타트)에 서기도, 또 한 번 이탈하면 재진입(리스타트)하기도 어려워진 것이다. 최근의 청년 채용 시장이 차갑게 식은 배경으로 가장 많이 지목돼 온 것이 인공지능(AI)의 일자리 대체와 함께 기업들의 경력직 선호 현상이었다. 하지만 ‘쉬었음’ 통계에서 보듯 장기간 업무 경험을 쌓은 경력직들의 재취업 역시 녹록지 않은 게 사실이다. 중장년층이 쉬는 이유로 과거에는 ‘아파서’가 많았는데, 이젠 ‘일자리가 없어서’가 대부분이라고 한다. 일자리 자체가 부족하니 건강하고 경험도 쌓은 이들이 눈높이를 낮춰도 노",
+      "author": null,
+      "summary": "노동시장에서 구직활동을 포기한 청년 61만 명, 중년 67만 명이 급증했으며, 일자리 부족과 경력직 선호로 인해 처음 진출도, 재진출도 어려워졌다고 우려했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e763d8324b19",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "트럼프 경제정책의 역설",
+      "link": "https://www.nytimes.com/video/opinion/100000011172489/the-irony-of-trumps-economic-policies.html",
+      "publishedAt": "2026-09-30T13:26:06.000Z",
+      "description": "President Trump had an advantage with working-class voters, but that edge is starting to give way, argues E.J. Dionne on “The Opinions.” He and Tim Carney, a columnist for The Washington Examiner, discuss how Trump’s economic policies — which Carney believes are starting to resemble Democratic ones — could alienate the very voters who helped build Trump’s coalition.",
+      "author": null,
+      "summary": "트럼프(Trump)의 경제정책이 노동계층 유권자들에게 초기 우위를 제공했으나, 오히려 민주당식 정책과 유사해지며 지지층 결집력을 약화시킬 수 있다고 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "164a60418bac",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[알림]가을 들녘 옮겨 온 정동…잔치 '판' 연다",
+      "link": "https://www.khan.co.kr/article/202609302206005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-09-30T13:06:00.000Z",
+      "description": "제28회 정동문화축제…16~17일 행사풍성한 가을, 서울 중구 정동길 일대에서 제28회 정동문화축제가 열립니다. 경향신문~서울시립미술관~덕수궁 대한문으로 이어지는 정동길은 대한제국의 역사와 근대문화가 공존하는 서울의 대표적 문화거리입니다.오는 10월16일부터 17일까지 열리는 축제는 ‘네오-정동 : 판’을 콘셉트로 정동의 역사와 전통을 오늘의 감각으로 새롭···",
+      "author": null,
+      "summary": "제28회 정동문화축제를 10월 16~17일 정동길에서 개최한다고 안내했으며, '네오-정동: 판'을 콘셉트로 정동의 역사와 전통을 현대적 감각으로 재해석한 행사를 펼친다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8106e6b9f80b",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[전중환의 진화의 창]생물학적 성은 두 가지다",
+      "link": "https://www.khan.co.kr/article/202609302022005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-09-30T11:22:00.000Z",
+      "description": "대다수 생물종에는 암컷 혹은 수컷이라는 성별 차이가 있다. 생물학적 성은 생식세포의 크기 차이로 정의된다. 진화생태학자 조안 러프가든이 저서 에서 썼듯이, “‘수컷’은 작은 생식세포를 만들고, ‘암컷’은 큰 생식세포를 만든다… 생식세포의 크기 외에 암수를 구분하는 다른 보편적인 차이는 없다.”(역서 42쪽)다 아는 당연한 이야기를···",
+      "author": "전중환 경희대 후마니타스칼리지 교수",
+      "summary": "생물학적 성은 생식세포의 크기 차이로 정의되며, 수컷과 암컷이라는 두 가지 성별만 존재한다고 설명했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c6a60d06f020",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "무대 뒤의 변화: 인간 공무원인가, AI 봇인가",
+      "link": "https://www.theguardian.com/commentisfree/2026/sep/30/humans-or-ai-bots-uk-civil-service",
+      "publishedAt": "2026-09-30T11:00:38.000Z",
+      "description": "Rapidly expanding AI use within the government is numbing departments to its profound threats. And try arguing with a faceless digital bureaucrat Another day, another apocalyptic warning about the likelihood that rampantly uncontrollable artificial intelligence will solve all of our problems, including the problem of being alive. Hot on the heels of disgruntled Anthropic researchers announcing the end of civilisation by 2030, we’ve now had the portentously named Hugging Face incident, as well as the Australian government’s grim discovery of a rogue AI’s attack on its Medicare website. Swarms o",
+      "author": "The civil servant",
+      "summary": "정부의 급속한 AI 도입이 그 심각한 위협을 과소평가하게 만들고 있으며, 책임 없는 디지털 관료 체계의 위험성을 경고했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "19a14ea2cf12",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "캘리포니아 도시의 요가 전쟁",
+      "link": "https://www.washingtonpost.com/opinions/2026/09/30/san-diego-yoga-teacher-fights-protracted-legal-battle-against-city/",
+      "publishedAt": "2026-09-30T11:00:00.000Z",
+      "description": "San Diego’s crackdown on free yoga classes in public parks has led to a protracted legal battle.",
+      "author": "Matt Fleming",
+      "summary": "샌디에이고(San Diego)가 공공공원의 무료 요가 수업 단속을 벌이면서 장기적인 법적 분쟁이 이어지고 있다고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "16214da1373e",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "문해력 상실 시대의 암울한 미래",
+      "link": "https://www.washingtonpost.com/opinions/2026/09/30/james-marriott-new-dark-ages-warns-about-post-literate-future/",
+      "publishedAt": "2026-09-30T11:00:00.000Z",
+      "description": "James Marriott's “The New Dark Ages” on the death of reading may not be sufficiently pessimistic.",
+      "author": "George F. Will",
+      "summary": "James Marriott의 저서 'The New Dark Ages'를 통해 독서 문화의 쇠락을 다루며, 그 책의 비관적 전망도 충분히 비관적이지 않을 수 있다고 주장했다.",
+      "summarySource": "llm"
+    }
+  ],
+  "summarizedAt": "2026-10-01T01:10:30.226Z",
+  "summaryStats": {
+    "llm": 50,
+    "fallback": 0,
+    "model": "claude-haiku-4-5"
+  }
+}
