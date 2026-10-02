@@ -1,0 +1,898 @@
+{
+  "date": "2026-10-01",
+  "generatedAt": "2026-10-02T01:18:41.820Z",
+  "categories": [
+    {
+      "id": "it",
+      "label": "IT·과학·AI"
+    },
+    {
+      "id": "economy",
+      "label": "경제·금융"
+    },
+    {
+      "id": "politics",
+      "label": "정치·사회"
+    },
+    {
+      "id": "world",
+      "label": "세계·국제"
+    },
+    {
+      "id": "editorial",
+      "label": "사설·칼럼",
+      "opinion": true,
+      "summaryMaxChars": 220
+    }
+  ],
+  "feedStatus": [
+    {
+      "source": "Ars Technica",
+      "category": "it",
+      "ok": true,
+      "matched": 10
+    },
+    {
+      "source": "Hacker News",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "TechCrunch",
+      "category": "it",
+      "ok": true,
+      "matched": 4
+    },
+    {
+      "source": "The Verge",
+      "category": "it",
+      "ok": true,
+      "matched": 1
+    },
+    {
+      "source": "블로터",
+      "category": "it",
+      "ok": true,
+      "matched": 11
+    },
+    {
+      "source": "전자신문",
+      "category": "it",
+      "ok": true,
+      "matched": 25
+    },
+    {
+      "source": "ZDNet Korea",
+      "category": "it",
+      "ok": true,
+      "matched": 21
+    },
+    {
+      "source": "BBC Business",
+      "category": "economy",
+      "ok": true,
+      "matched": 11
+    },
+    {
+      "source": "The Guardian",
+      "category": "economy",
+      "ok": true,
+      "matched": 19
+    },
+    {
+      "source": "매일경제 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 40
+    },
+    {
+      "source": "연합뉴스",
+      "category": "economy",
+      "ok": true,
+      "matched": 34
+    },
+    {
+      "source": "경향신문 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 39
+    },
+    {
+      "source": "경향신문 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 33
+    },
+    {
+      "source": "노컷뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "서울신문",
+      "category": "politics",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "연합뉴스 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "연합뉴스 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 95
+    },
+    {
+      "source": "SBS 뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "Al Jazeera",
+      "category": "world",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC World",
+      "category": "world",
+      "ok": true,
+      "matched": 18
+    },
+    {
+      "source": "NPR",
+      "category": "world",
+      "ok": true,
+      "matched": 7
+    },
+    {
+      "source": "The Guardian",
+      "category": "world",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "연합뉴스 국제",
+      "category": "world",
+      "ok": true,
+      "matched": 55
+    },
+    {
+      "source": "매일경제 증권",
+      "category": "economy",
+      "ok": true,
+      "matched": 36
+    },
+    {
+      "source": "경향신문 오피니언",
+      "category": "editorial",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "NYT Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "The Guardian Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 13
+    },
+    {
+      "source": "Washington Post Opinions",
+      "category": "editorial",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "동아일보 사설",
+      "category": "editorial",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "동아일보 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 26
+    },
+    {
+      "source": "조선일보",
+      "category": "politics",
+      "ok": true,
+      "matched": 1
+    },
+    {
+      "source": "동아일보 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "머니투데이",
+      "category": "economy",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "Wired",
+      "category": "it",
+      "ok": true,
+      "matched": 29
+    },
+    {
+      "source": "DW News",
+      "category": "world",
+      "ok": true,
+      "matched": 17
+    }
+  ],
+  "items": [
+    {
+      "id": "5b715f9d56d4",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "[삼성 인사 시그널]④ DS엔 보상·DX는 쇄신…'차등인사' 예고",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=674812",
+      "publishedAt": "2026-10-01T14:53:39.000Z",
+      "description": "삼성전자의 올해 정기 임원인사는 AI(인공지능) 반도체 호황의 수혜를 본 디바이스솔루션(DS)부문과 수익성 부담이 커진 디바이스경험(DX)부문의 희비가 엇갈릴 전망이다.메모리사업부에서는 HBM(고대역폭메모리)와 고부가 D램 성과를 반영한 승진 인사가 예상되는 반면 DX부문은 전체 승진 규모를 줄이면서 AI와 로봇, 냉난방공조(HVAC) 등 성장 분야에 인사를 집중할 가능성이 크다. HBM4 개발·고객 대응 성과…황상준·김재준 승진 가능성1일 재계에 따르면 삼성전자는 최근 연말 정기 임원 인사를 위한 임원 평가에 착수했다. 사업부별",
+      "author": "이가영 기자",
+      "summary": "삼성전자 임원인사에서 AI 반도체 호황의 수혜를 본 DS부문은 HBM, D램 성과로 승진을 늘리고 DX부문은 승진을 줄이면서 성장 분야에 인력을 집중할 예정이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3c146db021a8",
+      "category": "it",
+      "source": "The Verge",
+      "region": "intl",
+      "title": "뉴욕시, 미국 최초 클릭 취소 규칙 도입",
+      "link": "https://www.theverge.com/policy/1003426/nyc-click-to-cancel-subscriptions-rule",
+      "publishedAt": "2026-10-01T14:49:25.000Z",
+      "description": "Image: Angela Weiss / AFP via Getty Images | AFP via Getty Images New York City residents struggling to get out of recurring subscription fees can now submit complaints to the city government. As of Thursday, the city's click-to-cancel rule has taken effect, which requires businesses to make it as easy to cancel a subscription as it is to sign up. That means a gym that lets you join online, for example, can't make you call or go in person to end your subscription. It's the first municipality to see the rule take effect, after an appeals court struck down a federal version for procedural issues",
+      "author": null,
+      "summary": "뉴욕시가 구독 취소 규칙을 시행해 가입만큼 취소도 쉽게 하도록 의무화했고, 이는 미국에서 처음으로 실시되는 규정이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "35ebca384076",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "공정위, '어펄마-도레이첨단소재 FCCL' 기업결합 공청회 이르면 이달 개최",
+      "link": "https://zdnet.co.kr/view/?no=20261001144900",
+      "publishedAt": "2026-10-01T14:09:04.000Z",
+      "description": "[지디넷코리아]공정거래위원회가 사모투자(PE) 운용사 어펄마캐피탈이 지난해 6월 신고한 '도레이첨단소재 연성동박적층판(FCCL) 사업 기업결합' 심사 공청회를 이르면 이달 개최할 예정인 것으로 1일 파악됐다. 한 업계 관계자는 \"공정위가 4분기 관련 공청회 개최를 검토하고 있다\"며 \"공청회는 이르면 10월 열릴 수 있다\"고 밝혔다. 어펄마가 도레이첨단소재 FCCL 사업부와 기업결합을 공정위에 신고한 것은 지난해 6월이다. 이미 1년이 넘었다. 어펄마는 지난 2025년 4월 SKC로부터 플렉시온(옛 SK넥실리스 FCCL 사업부)을 인수한 뒤, 도레이첨단소재와 FCCL 사업 인수 계약을 체결했다. 기업결합 신고 후 공정위는 어펄마가 도레이첨단소재 FCCL 사업부를 인수할 경우 나타날 수 있는 시장 독과점 가능성과 영향 등을 조사해 왔다. 공정위는 지난 8월 '기업결합 심사가 늦다'는 여러 매체 보도에 대해 \"도레이첨단소재 FCCL 사업부 매각 심사는 시장 획정, 기업결합으로 인한 경쟁 상황 변화·영향 등을 경제 분석, 전문가 자문 등을 통해 심도 있게 검토하는 과정에서 시일이 소요됐다\"며 \"최대한 신속히 심사를 완료할 예정\"이라고 밝혔다. 동시에 \"기업결합 심사",
+      "author": "이기종 기자",
+      "summary": "공정거래위원회가 지난해 6월 신고된 어펄마캐피탈의 도레이첨단소재 FCCL 사업 인수 심사 공청회를 10월에 개최할 예정이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2be59ecee0ce",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "포톤, AI 에이전트로 모바일 앱 대체 추진",
+      "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+      "publishedAt": "2026-10-01T14:00:00.000Z",
+      "description": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
+      "author": "Sarah Perez",
+      "summary": "포톤이 개발자들이 iMessage, SMS/RCS, 이메일 등 메시징 플랫폼에서 작동하는 AI 에이전트를 만들 수 있도록 지원하기 위해 450만 달러를 투자했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c7e08b472b64",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "현실판 터미네이터?…스스로 용광로에 뛰어든 로봇",
+      "link": "https://www.etnews.com/20261001000422",
+      "publishedAt": "2026-10-01T13:30:00.000Z",
+      "description": "휴머노이드 로봇이 스스로 용광로에 뛰어드는 이색적인 장면이 공개됐습니다. 미국 로봇 스타트업 피규어 AI는 최근 휴머노이드 로봇 '피규어02'를 폐기하는 영상을 공개했습니다. 차세대 모델 피규어03 생산이 확대되면서 기존 모델을 퇴역시키기로 한 겁니다. 특이한 점은 로봇을 단순히 용광로에 넣은 것이 아니라 직접 뛰어들도록 훈련했다는 점입니다. 피규어 AI는 로봇이 자율적으로 점프하도록 AI를 학습시킨 뒤 75톤급 전기로 속 용강으로 직접 뛰어들",
+      "author": "이창민",
+      "summary": "피규어 AI가 차세대 모델 피규어03의 생산을 확대하면서 피규어02를 퇴역시킬 때 로봇이 스스로 용강에 뛰어들도록 AI를 훈련했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "50abb453ba00",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "2026년 최고의 킨들은?",
+      "link": "https://www.wired.com/gallery/best-kindle/",
+      "publishedAt": "2026-10-01T13:00:00.000Z",
+      "description": "I’ve tested every single Kindle. Here’s how Amazon’s ebook readers stack up.",
+      "author": "Nena Farrell",
+      "summary": "저자가 아마존의 모든 킨들 전자책 리더를 테스트하고 각 모델의 성능과 특성을 비교했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1c7b537ab906",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "지식재산처 출범 1주년…80년 발자취 위에 새 도약 그린다",
+      "link": "https://www.etnews.com/20260930000459",
+      "publishedAt": "2026-10-01T13:00:00.000Z",
+      "description": "지식재산처가 출범 1주년을 맞아 지난 80년간 이어져 온 우리나라 지식재산 행정의 발자취를 되짚고, 미래 10년을 향한 새로운 도약을 다짐했다. 지식재산처는 1일 정부대전청사에서 김용선 처장과 직원들이 참석한 가운데 '지식재산처 출범 1주년 기념행사'를 개최했다. 이번 행사는 지난해 10월 특허청에서 지식재산처로 새롭게 출범한 이후 지난 1년간 주요 성과를 돌아보고 향후 정책 방향을 공유하기 위해 마련했다. 올해는 우리나라 지식재산 행정이 본격",
+      "author": "양승민",
+      "summary": "지식재산처가 출범 1주년을 맞아 80년간의 지식재산 행정 업적을 돌아보고 향후 10년의 새로운 도약을 다짐했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9a5507b2c27a",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "아마존 킨들 2026: 사양, 가격, 출시일",
+      "link": "https://www.wired.com/story/amazon-kindle-paperwhite-colorsoft-2026-refresh/",
+      "publishedAt": "2026-10-01T13:00:00.000Z",
+      "description": "Ahead of the Kindle’s 20th anniversary next year, Amazon is refreshing its entire range of e-readers with fresh colors, an aluminum build, and a new frame design that’s both thinner and lighter.",
+      "author": "Julian Chokkattu",
+      "summary": "아마존이 킨들의 20주년을 앞두고 새로운 색상, 알루미늄 소재, 더 얇고 가벼운 디자인의 전자책 리더를 출시할 예정이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "4c31b1b83e96",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "2회 '미래기술 전략포럼' 열려…'피지컬AI로 미래 선도'",
+      "link": "https://zdnet.co.kr/view/?no=20261001214530",
+      "publishedAt": "2026-10-01T12:45:30.000Z",
+      "description": "[지디넷코리아]인공지능(AI), 반도체, 양자 등 미래 기술간 시너지를 통해 국가경쟁력 향상을 도모하는 민간주도 단체인 '미래기술 전략포럼' 두번째 행사가 1일 오후 서울 여의도 국회의원회관 제8간담회의실에서 열렸다.행사에는 포럼 공동회장인 송승현 한국정보통신기술협회(TTA) 회장과 최경진 한국인공지능법학회장(가천대 교수)을 비롯해 간사를 맡고 있는 유승재 인공지능산업협회 부회장, 최형두 의원(국민의 힘), 정은아 수산아이앤티 대표, 윤석주 페르소나에이아이 이사, 이임평 서울시립대 교수, 임성국 에티버스EPA 본부장 등이 참석했다.이날 행사는 '피지컬AI'를 주제로 다뤘다. 이에 관한 전문가 발제는 정수진 정보통신산업진흥원(NIPA) 지역AX 본부장과 도재영 서울대 전기정보공학부 교수 2인이 했다.정 본부장은 대형 국책사업으로 피지컬 AI 핵심 거점을 조성중인 경남과 전북의 사례를 설명했다. 두 지역 합쳐 향후 5년간 1조 3천억이 투입된다. 전북은 차세대 협업지능 피지컬AI 연구생태계로 피지컬AI 1등 국가로 도약한다는 목표하에 올해부터 2030년까지 5년간 총 사업비 7368억 원을 투입한다. 정식 사업 명칭은 '협업지능 피지컬AI 기반 SW플랫폼 연구개",
+      "author": "방은주 기자",
+      "summary": "미래기술 전략포럼이 피지컬AI를 주제로 두 번째 행사를 개최했고, 경남과 전북에서 향후 5년간 1조 3천억 규모의 국책사업을 추진할 예정이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f738c6cb8943",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "PC에서 PS5 에뮬레이션 빠르게 발전",
+      "link": "https://arstechnica.com/gaming/2026/10/ps5-emulation-is-suddenly-making-big-strides-on-pc/",
+      "publishedAt": "2026-10-01T11:30:41.000Z",
+      "description": "Games like Astro Bot and Demon’s Souls are running ably without a console.",
+      "author": "Kyle Orland",
+      "summary": "PC의 PS5 에뮬레이션이 애스트로봇, 데몬즈 소울 등 주요 게임을 성공적으로 실행할 수 있는 수준까지 발전했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5e17e209e9f4",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "트래블로지 숙박객들 안전 위험, 성폭력 사건 후 검토에서 밝혀져",
+      "link": "https://www.theguardian.com/business/2026/oct/01/travelodge-report-guests-still-at-risk-room-intrusions-sexual-assault",
+      "publishedAt": "2026-10-01T13:10:40.000Z",
+      "description": "Report finds complaints of room intrusions at nearly one in 10 hotels, after woman attacked by man given a copy of her key An independent review into Travelodge after a serious sexual assault has found that guests are still at risk, with room intrusions reported at nearly one in 10 of its hotels this summer. The damning findings were published in a 70-page report on Thursday, which was commissioned earlier this year after a man was convicted of a serious sexual assault against a Travelodge guest in Maidenhead in 2022. Creating a new policy to address violence against women and girls. Improving",
+      "author": "Kalyeena Makortoff",
+      "summary": "성폭력 사건 후 진행된 독립 검토 결과, 트래블로지 호텔 거의 10곳 중 1곳에서 객실 침입 사건이 보고되어 숙박객들의 안전이 위협받고 있는 것으로 나타났다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "351ae29119f1",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "중소형주 비중 의무화, 증권사 대형주 쏠림 현상 개선",
+      "link": "https://www.mk.co.kr/news/stock/12166550",
+      "publishedAt": "2026-10-01T12:53:56.000Z",
+      "description": "금융위, 대형주 쏠림구조 손질 “리포트의 25% 스몰캡다뤄야” 정책 기대감에 코스닥 치솟아대형주에 편중된 증권사 리서치 관행을 개선하기 위해 종합금융투자사업자(종투사)에 중소형주 ..",
+      "author": "매일경제",
+      "summary": "금융위가 증권사의 대형주 편중 현상을 개선하기 위해 중소형주 비중을 리서치 리포트의 25% 이상으로 의무화하는 정책을 추진했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e503809dc13b",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "베드퍼드 열차 충돌, 신호위반 경고 후에도 가속한 것으로 조사",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/01/bedford-rail-crash-report-train-sped-up-red-light-warning",
+      "publishedAt": "2026-10-01T12:40:56.000Z",
+      "description": "Driver of East Midlands train, who died in June crash, received automatic warning after passing red light but train continued to accelerate The train that ran into the back of another in the Bedford rail crash sped up after the driver received a warning he had passed a red light, rail investigators have reported. The driver of the East Midlands train, who died in the crash in June, acknowledged the automatic warning but did not appear to act after passing a danger signal that was rarely ever red. Continue reading...",
+      "author": "Gwyn Topham Transport correspondent",
+      "summary": "6월 베드퍼드에서 발생한 열차 충돌 사고에서 피해 열차의 운전자가 적신호 경고를 받았음에도 불구하고 열차가 계속 가속한 것으로 조사됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "4d52b3cd7f21",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "트럼프의 AI 재브랜딩, 슬로베니아 도메인 수요 급증",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-01T11:37:46.000Z",
+      "description": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains.",
+      "author": null,
+      "summary": "트럼프 대통령이 AI를 '슈퍼인텔리전스(SI)'로 부르자는 제안으로 인해 슬로베니아의 SI 도메인에 대한 수요가 전례 없는 수준으로 증가했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "64c8d94e22b7",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "골동품 산업, TV 쇼에서의 표현 정확도 검토",
+      "link": "https://www.bbc.co.uk/sounds/play/m00325cs?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-01T11:30:00.000Z",
+      "description": "How does the antiques industry work and is it accurately portrayed on television shows?",
+      "author": null,
+      "summary": "골동품 산업의 운영 방식과 텔레비전 쇼에서의 표현이 현실을 정확히 반영하는지를 다루고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "485fa06fa369",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "'AI 에이전트'에 당했다…신한은행 보안 허점 노출",
+      "link": "https://www.yna.co.kr/view/AKR20261001145452002",
+      "publishedAt": "2026-10-01T11:00:09.000Z",
+      "description": "(서울=연합뉴스) 한지훈 강수련 기자 = 신한은행이 고객 개인정보를 탈취당하는 과정에 고도의 인공지능(AI) 에이전트가 활용된 것으로 전해졌다.",
+      "author": "강수련",
+      "summary": "신한은행 고객 개인정보 탈취 사건에서 고도의 인공지능 에이전트가 활용된 것으로 알려지며 은행의 보안 허점이 노출됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "af25d15f101f",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "울산 동구 환경미화원 노사, 동구청 중재로 대화 개시",
+      "link": "https://www.yna.co.kr/view/AKR20261001190700057",
+      "publishedAt": "2026-10-01T10:52:16.000Z",
+      "description": "(울산=연합뉴스) 장지현 기자 = 임금 문제로 갈등을 빚어온 울산 동구 환경미화원 노사가 동구청 중재로 만나 대화의 물꼬를 텄다.",
+      "author": "장지현",
+      "summary": "임금 문제로 갈등이 계속되던 울산 동구의 환경미화원 노동조합과 사측이 동구청의 중재로 대화의 물꼬를 텄다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9428acd64fda",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "종합투자계좌(IMA) 성적 우수, 투자 성향별 선택지 제시",
+      "link": "https://www.mk.co.kr/news/stock/12166455",
+      "publishedAt": "2026-10-01T10:02:53.000Z",
+      "description": "종합투자계좌(IMA) 개인 투자전략 [IMA 2편]기대와 우려 속에 등장했던 종합투자계좌(IMA)의 현재까지 성적표는 ‘우수’란 평가가 지배적이다. 가장 주목되는 지표는 4조원대를..",
+      "author": "매일경제",
+      "summary": "종합투자계좌(IMA)의 성적표가 우수하게 평가되고 있으며, 투자자들의 성향에 따라 다양한 상품 선택지를 제공하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7fc4e06defed",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "인플레이션 시대, 주식·부동산투자 등 다양한 투자처 모색 필요",
+      "link": "https://www.mk.co.kr/news/economy/12166351",
+      "publishedAt": "2026-10-01T08:37:16.000Z",
+      "description": "\"시중은행 예금 금리가 3%대인데 인플레이션(물가 상승)이 다 갉아먹으니 도대체 어디에 투자해야 할까요.\" 은행 예금 이자로 간신히 물가 상승률을 방어하는 시대다. 미국이 기준금리..",
+      "author": "매일경제",
+      "summary": "은행 예금 이자율이 인플레이션에 미치지 못하면서 투자자들이 주식, 부동산 등 다양한 투자 수단을 모색하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9d6824bf5237",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "글로벌 시장 개척 강화, 한화생명 해외 조직 개편",
+      "link": "https://www.mk.co.kr/news/economy/12166346",
+      "publishedAt": "2026-10-01T08:37:15.000Z",
+      "description": "한화생명이 글로벌 투자 기능을 강화하기 위한 새로운 조직을 신설하고, 자산관리(WM)와 신사업 조직을 재편하는 등 작업에 착수했다. 국내 보험시장이 저출생·고령화와 시장 포화로 성..",
+      "author": "매일경제",
+      "summary": "국내 보험시장의 저성장 속에서 한화생명이 글로벌 투자 기능을 강화하기 위해 새 조직을 신설하고 자산관리 부문을 재편했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5159fb5422da",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "李대통령, 정청래와 만찬…靑 \"당내 사안 진솔 대화·공감대\"",
+      "link": "https://www.yna.co.kr/view/AKR20261001199900001",
+      "publishedAt": "2026-10-01T14:19:33.000Z",
+      "description": "(서울=연합뉴스) 설승은 기자 = 이재명 대통령은 1일 더불어민주당 정청래 전 대표를 청와대로 초청해 만찬을 함께 했다.",
+      "author": "설승은",
+      "summary": "이재명 대통령이 건강 악화로 입원했다 퇴원한 정청래 전 더불어민주당 대표를 청와대로 초청하여 만찬을 가졌으며, 국정 현안과 당내 사안에 대해 4시간 동안 깊은 대화를 나누었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6d0fb6ef2a90",
+      "category": "politics",
+      "source": "연합뉴스 사회",
+      "region": "kr",
+      "title": "제주 서부 앞바다에 내일 풍랑주의보",
+      "link": "https://www.yna.co.kr/view/AKR20261001200500527",
+      "publishedAt": "2026-10-01T14:03:12.000Z",
+      "description": "(제주=연합뉴스) 기상청은 2일 오전 1시를 기해 제주도서부앞바다에 풍랑주의보를 발효한다고 1일 밝혔다.",
+      "author": "기상뉴스",
+      "summary": "기상청은 2일 오전 1시를 기해 제주도서부앞바다에 풍랑주의보를 발효한다고 1일 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "fa8f164d7fcd",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "\"가출했다\" SNS 보고 접근, 오피스텔 감금하고 성범죄···경찰, 30대 현행범 체포",
+      "link": "https://www.khan.co.kr/article/202610012247001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-10-01T13:47:00.000Z",
+      "description": "경찰마크. 경향신문 자료사진휴대전화 촬영···회초리로 때리기도가출한 10대를 오피스텔에 감금하고 성범죄를 저지른 30대가 경찰에 붙잡혔다.경기 수원팔달경찰서는 1일 아동·청소년의 성보호에 관한 법률 위반 및 감금, 폭행 등 혐의로 A씨를 현행범 체포해 조사 중이다.경찰에 따르면 A씨는 지난달 30일 오후 4시쯤 경기도 안양에서 B양을 자신의 차에 태워 수원···",
+      "author": "김준용 기자",
+      "summary": "SNS를 보고 접근한 30대가 가출한 10대를 오피스텔에 감금하고 성범죄를 저지른 혐의로 경찰에 현행범 체포되어 조사 중이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "111ad4887c44",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "李, 정청래와 4시간 만찬…靑 \"국정 및 당내 사안에 깊은 공감대\"",
+      "link": "https://www.donga.com/news/Politics/article/all/20261001/134772541/1",
+      "publishedAt": "2026-10-01T13:42:00.000Z",
+      "description": "이재명 대통령이 1일 정청래 전 더불어민주당 대표를 청와대로 불러 만찬 회동했다. 청와대 강유정 수석대변인은 이날 언론 공지를 통해 “이 대통령 정 전 대표와 강훈식 비서실장 배석으로 만찬을 가졌다”고 밝혔다. 최근 건강 악화로 입원했다 퇴원한 정 전 대표를 위로차 청와대로 초청한 것이다. 정 전 대표는 이 대통령의 대국민 기자회견이 있던 지난달 18일 입원 사실을 공개했다. 앞서 6월 지방선거, 8·17 민주당 전당대회 등 일정으로 피로가 누적돼 입원했다가 최근 퇴원했다. 정 전 대표는 전대에서 ‘친이재명계’인 김민석 민주당 대표와 당 대표직을 놓고 경쟁했지만 패배했다. 이 대통령은 지난달 21일 유엔(UN) 총회 참석과 멕시코 순방을 위해 출국하면서 입원 중인 정 전 대표에게 전화를 걸어 안부를 묻기도 했다. 이날 회동은 퇴원한 정 전 대표를 격려하는 차원인 것으로 알려졌다.강 수석대변인은 “이 대통령과 정 전 대표는 4시간 동안 다양한 국정 현안 및 당내 사안에 대해 진",
+      "author": null,
+      "summary": "최근 입원했다 퇴원한 정청래 전 대표를 위로하기 위해 이재명 대통령이 청와대로 초청해 4시간 동안 국정 현안 및 당내 사안에 대해 진솔한 대화를 나누었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7b7636f375fd",
+      "category": "politics",
+      "source": "서울신문",
+      "region": "kr",
+      "title": "李대통령, 정청래 전 대표와 만찬…\"국정 현안·당내 사안 진솔한 대화\"",
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20261001500306",
+      "publishedAt": "2026-10-01T13:41:07.000Z",
+      "description": "이재명 대통령이 1일 최근 건강 악화로 입원했다 퇴원한 정청래 전 더불어민주당 대표와 만찬 회동을 했다. 강유정 청와대 수석대변인은 이날 이 대통령이 정 전 대표와 청와대에서 강훈식 비서실장이 배석한 가운데 만찬을 했다고 밝혔다. 이 대통령과 정 전 대표는 4시간 동안 다양한 국정 현안 및 당내 사안에 대해 진솔한 대화를 나누고 깊은 공감대를 형성했다고 강 수석대변인은 전했다. 앞서 이 대통령은 지난달 미국·멕시코 순방 전에 입원 중인 정 전 대표에게 전화해 건강 상태와 안부를 묻고 퇴원 후 별도 만남을 제안한 것으로 알려졌다. 정 전 대표는 지난달 23일 소셜미디어(SNS)에 “그동안 염려해 주시고 성원해 주신 많은 분들께 감사드린다”며 “건강하게 잘 살겠다”고 퇴원 소식을 전했다.",
+      "author": "김헌주 기자",
+      "summary": "이재명 대통령이 건강 악화로 입원했다 퇴원한 정청래 전 대표와 청와대에서 만찬을 가지며 국정 현안과 당내 사안에 대해 4시간 동안 진솔한 대화를 나누고 공감대를 형성했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8f31627c47c7",
+      "category": "politics",
+      "source": "SBS 뉴스",
+      "region": "kr",
+      "title": "이 대통령 \"상업성 확인·법절차 부합 전제로 사업 착수\"",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008779520",
+      "publishedAt": "2026-10-01T13:34:00.000Z",
+      "description": "이재명 대통령은 '알래스카 LNG 사업'에 대해서 상업성의 확인을 전제로 착수할 거라고 설명했습니다. 민주당에선 확정된 게 아니란…",
+      "author": "blue@sbs.co.kr (강청완)",
+      "summary": "이재명 대통령이 알래스카 LNG 사업에 대해 상업성의 확인을 전제로 착수할 것이라고 설명했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a0eaf2358288",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "[개정 형소법 시행]중수청 개청 전날 인사…초대 차장에 전종민·서울청장 최재민",
+      "link": "https://www.khan.co.kr/article/202610012231035/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-10-01T13:31:03.000Z",
+      "description": "지방중수청장 등에 판검사 출신 안배…조직 안착 고려한 선택광주청장 임은정…수원 김형근·대전 문홍주 ‘민중기 특검’ 출신전종민, 최재민, 임은정(왼쪽부터)중대범죄수사청(중수청) 개청을 하루 앞둔 1일 행정안전부가 중수청 고위급 수사관들에 대한 첫 인사를 단행했다. 초대 청장을 제외한 차장과 지방중수청장은 모두 판검사 출신으로 인선됐다.행안부 중대범죄수사청 개···",
+      "author": "김예나·이홍근 기자",
+      "summary": "중대범죄수사청(중수청) 개청을 하루 앞두고 행정안전부가 초대 차장 전종민과 서울청장 최재민 등 고위급 수사관들에 대한 인사를 단행했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "43d7a0cb7081",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "[포토뉴스]텅 빈 중수청 앞…국힘 '규탄' 의원총회",
+      "link": "https://www.khan.co.kr/article/202610012231015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-10-01T13:31:01.000Z",
+      "description": "텅 빈 중수청 앞…국힘 ‘규탄’ 의원총회 장동혁 대표를 포함한 국민의힘 의원들이 1일 서울 중구 중대범죄수사청 앞에서 ‘형사사법 체계 파괴 규탄 의원총회’를 하고 있다.",
+      "author": "문재원 기자",
+      "summary": "국민의힘 의원들이 서울 중구 중대범죄수사청 앞에서 형사사법 체계 파괴를 규탄하는 의원총회를 개최했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3fd7127ddcaf",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "우크라이나 전역에 대규모 공습…외교부, 안전대책 점검",
+      "link": "https://www.yna.co.kr/view/AKR20261001187100504",
+      "publishedAt": "2026-10-01T10:01:58.000Z",
+      "description": "(서울=연합뉴스) 민선희 기자 = 외교부는 1일 우크라이나 현지 정세와 우리 국민 안전대책을 점검했다고 밝혔다.",
+      "author": "민선희",
+      "summary": "외교부가 우크라이나 전역에서 발생한 대규모 공습 상황과 관련해 현지 정세 및 국민 안전대책을 점검했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b0dad8879aa9",
+      "category": "politics",
+      "source": "조선일보",
+      "region": "kr",
+      "title": "분당의 중식당에 낙서하고 국외로 도주한 중국인 4명에 체포영장",
+      "link": "https://www.chosun.com/jp/politics-national-jp/2026/10/01/OC7RZHB6MFCPRLY3XWNZCAPHGM/",
+      "publishedAt": "2026-10-01T06:03:22.000Z",
+      "description": "",
+      "author": "城南＝キム・ヒョンス記者",
+      "summary": "분당의 중식당에 낙서한 후 국외로 도주한 중국인 4명에 대해 체포영장이 청구되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7bb4399ef304",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "美 9월 제조업 PMI 54.5…9개월 연속 확장",
+      "link": "https://www.yna.co.kr/view/AKR20261001201600072",
+      "publishedAt": "2026-10-01T14:57:19.000Z",
+      "description": "(뉴욕=연합뉴스) 임수정 특파원 = 미국의 9월 제조업 활동이 9개월 연속 확장세를 이어갔으나 성장 속도는 소폭 둔화했다.",
+      "author": "임수정",
+      "summary": "미국의 9월 제조업은 지난 9개월 동안 계속 확장했으나 성장 속도는 다소 둔화했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2c9faa3a24bd",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "뉴욕증시, 마이크론 호실적에도 불안한 투심…하락 출발",
+      "link": "https://www.yna.co.kr/view/AKR20261001201400009",
+      "publishedAt": "2026-10-01T14:45:11.000Z",
+      "description": "(뉴욕=연합뉴스) 진정호 연합인포맥스 특파원 = 뉴욕증시의 3대 주가지수가 약세를 보이고 있다.",
+      "author": "국제뉴스공용1",
+      "summary": "마이크론의 호실적에도 불구하고 뉴욕 증시의 3대 주가지수는 약세를 보이며 하락으로 출발했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f9ed79e1751f",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "미국 시민 피해자 가족, 트럼프 행정부 상대 ICE 총격 고소",
+      "link": "https://www.dw.com/en/renee-good-s-family-sues-trump-admin-over-fatal-ice-shooting/a-79504836?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-10-01T14:43:00.000Z",
+      "description": "The family of Renee Good, one of two US citizens fatally shot by federal immigration agents in Minneapolis in January, has sued President Donald Trump's administration alleging negligence and civil rights violations.",
+      "author": null,
+      "summary": "1월 미니애폴리스에서 연방 이민단속국(ICE) 요원의 총격으로 사망한 미국 시민 르니 굿의 유족이 과실과 시민권 침해를 주장하며 트럼프 행정부를 고소했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "868b187bfccd",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "핀란드 총리, 국회의원 집 침입이 외국 세력의 소행일 수 있다고 제기",
+      "link": "https://www.theguardian.com/world/2026/oct/01/finland-suspected-break-ins-mp-homes-foreign-power",
+      "publishedAt": "2026-10-01T14:29:26.000Z",
+      "description": "Police investigating reports of politicians’ homes being broken into in last year with nothing being stolen The Finnish prime minister, Petteri Orpo, has said a foreign power could be responsible for a series of suspected break-ins at the homes of several members of parliament. Police said on Thursday they were investigating multiple reports of MPs’ homes being broken into in the Helsinki area in the last year in which nothing was stolen but subtle signs of breaking and entering were left. Continue reading...",
+      "author": "Miranda Bryant Nordic correspondent",
+      "summary": "지난 1년간 헬싱키 지역의 여러 국회의원 집에 도난 없이 침입당한 사건들이 발생했으며, 핀란드 총리는 외국 세력이 관여했을 가능성을 제기했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8d031688eb3b",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "독일, 몬테네그로의 EU 가입에 낙관적 평가",
+      "link": "https://www.dw.com/en/germany-expresses-optimism-over-montenegro-s-eu-ambitions/a-79504069?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-10-01T14:14:00.000Z",
+      "description": "Germany's top diplomat said Montenegro has made \"remarkable progress\" in the accession process. The small Balkan state is being seen as a frontrunner among six regional candidates.",
+      "author": null,
+      "summary": "독일은 몬테네그로가 EU 가입 절차에서 현저한 진전을 이루었다고 평가하며, 몬테네그로는 6개 지역 후보국 중 최우선으로 여겨지고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6c6cd4742e2d",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "런던 자선 전통의 상징 펄리 킹 조지 메이저 별세",
+      "link": "https://www.npr.org/2026/10/01/nx-s1-5928148/pearly-king-peckham-george-major-london-cockney",
+      "publishedAt": "2026-10-01T14:13:38.000Z",
+      "description": "In mother-of-pearl suits, the Pearly Kings used to canvass East London for charity. The most famous one, George Major, died in August. A look back on this larger-than-life figure and the Pearly King tradition.",
+      "author": "Lauren Frayer",
+      "summary": "동부 런던에서 자선 활동을 해온 펄리 킹 전통의 대표 인물인 조지 메이저가 8월에 사망했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "4ddad2c6df3a",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "체스 거장 카스파로프, 미국으로부터 생명 위협 경고받았다고 밝혀",
+      "link": "https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-01T14:05:55.000Z",
+      "description": "\"My family and I will not truly be safe as long as Putin is in power,\" says the former chess world champion.",
+      "author": null,
+      "summary": "전 체스 세계 챔피언 카스파로프는 미국으로부터 생명 위협을 경고받았으며, 푸틴이 권력에 있는 한 자신과 가족이 안전할 수 없다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c75981e59bb6",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "영국 시크교도 인권활동가, 9년 감금 후 인도에서 석방",
+      "link": "https://www.theguardian.com/world/2026/oct/01/british-sikh-activist-jagtar-singh-johal-released-delhi-jail-india",
+      "publishedAt": "2026-10-01T13:10:51.000Z",
+      "description": "Indian government issued with warning it would be in contempt of court if it failed to release Jagtar Singh Johal The British Sikh activist Jagtar Singh Johal has been released from a Delhi prison after the Indian high court warned the government it would be found in contempt of court if it continued to attempt to keep him in jail despite an 18 September court order releasing him on bail. Johal has been incarcerated for nine years without any full trial. The court order was issued after Johal’s lawyers issued a writ of habeas corpus alleging he was being detained against the express direction ",
+      "author": "Patrick Wintour Diplomatic editor",
+      "summary": "영국 시크교도 인권활동가 자그타르 싱 조할이 인도 고등법원의 법정모욕죄 경고 후 9년의 감금을 거쳐 석방되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "761d375b5d07",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "프랑스 학생 시위, 과밀 교실과 교사 부족으로 확산",
+      "link": "https://www.bbc.co.uk/news/videos/cwy8z8rney97o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-01T12:31:18.000Z",
+      "description": "The BBC's Hugh Schofield is in Paris as a wave of school protests over overcrowded classes and teacher shortages spreads across France.",
+      "author": null,
+      "summary": "교실 과밀과 교사 부족 문제로 인한 학생 시위가 프랑스 전역으로 확산되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e4008109edeb",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "텔아비브행 항공편 긴장 상황과 FBI의 직원 정보 해킹 수사",
+      "link": "https://www.npr.org/2026/10/01/g-s1-145879/up-first-newsletter-tel-aviv-flight-passengers-fbi-employee-data-hack",
+      "publishedAt": "2026-10-01T11:37:10.000Z",
+      "description": "What we know so far about the tense moments aboard a Tel Aviv-bound flight. And, the FBI investigates a cyberattack involving sensitive employee data.",
+      "author": "Brittney Melton",
+      "summary": "텔아비브행 항공편에서 발생한 긴장 상황에 대해 승객들이 증언했으며, FBI는 민감한 직원 정보를 대상으로 한 사이버공격을 수사하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9f299401ca46",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "스탈린의 폭정을 이해하려는 중학생들",
+      "link": "https://www.nytimes.com/2026/10/01/opinion/joseph-stalin-middle-school.html",
+      "publishedAt": "2026-10-01T14:44:11.000Z",
+      "description": "Middle school introduces us to complicated history. These kids wrote a play about Joseph Stalin.",
+      "author": "Ora DeKornfeld and Bianca Giaever",
+      "summary": "저자들은 중학교에서 학생들이 복잡한 역사인 스탈린의 폭정을 연극을 통해 창의적으로 이해하고 표현하는 과정이 효과적인 교육 방식이라고 소개했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "cc28574a3123",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "유가 상승도 문제지만 피할 수 없는 폭락",
+      "link": "https://www.nytimes.com/2026/10/01/opinion/gas-prices-oil-crash.html",
+      "publishedAt": "2026-10-01T14:30:41.000Z",
+      "description": "An oil bust is on the horizon.",
+      "author": "Philip Delves Broughton",
+      "summary": "필자는 현재의 유가 상승은 일시적이며, 곧 불가피한 유가 폭락이 임박했다고 경고했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2ba5e05a9588",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]트럼프발 '알래스카 리스크'… 협상 끝까지 놓지 말아야",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261001/134771923/2",
+      "publishedAt": "2026-10-01T14:30:00.000Z",
+      "description": "도널드 트럼프 미국 대통령이 한국의 대미(對美) 투자 프로그램에 알래스카 액화천연가스(LNG) 개발 사업이 포함된다고 발표했다. 대미 투자 ‘1호 사업’으로 확정된 텍사스 가스발전소 외에도 아직 협의 중인 프로젝트까지 일방적으로 공식화한 것이다. 반면 한국 정부는 알래스카 LNG와 관련해 “검토에 착수하기로 합의했다”는 입장이다. 대미 투자 프로그램이 이제 막 첫발을 떼자마자 ‘알래스카 리스크’를 만난 셈이다. 작년 10월 한미 관세 협상을 통해 미국이 한국 수출품에 대한 관세를 25%에서 15%로 낮추는 대신 한국은 3500억 달러(약 475조 원) 규모의 대미 투자를 약속했다. 양국은 조선 협력 분야에 들어갈 1500억 달러를 제외한 나머지 2000억 달러의 투자 대상을 놓고 1년 가까이 협상을 벌여왔다. 그러다 223억 달러 규모의 텍사스 가스발전소에 대해 가장 먼저 세부 합의가 완료됐다. 그런데 미 정부는 추진 여부가 정해지지 않은 원자력발전소 8기 건설과 알래스카 LNG",
+      "author": null,
+      "summary": "미국 정부가 대미 투자 협상에서 합의되지 않은 알래스카 LNG 개발을 일방적으로 공식화하는 것을 문제 삼으며, 한국 정부가 협상의 팽팽함을 끝까지 유지해야 한다고 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a6ef528692a2",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]정부가 뿌린 민생쿠폰-유가지원금 부담에 빚내는 지자체",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261001/134771927/2",
+      "publishedAt": "2026-10-01T14:27:00.000Z",
+      "description": "정부가 작년부터 민생회복소비쿠폰과 고유가피해지원금을 나눠주는 과정에서 지방자치단체 17곳 중 7곳이 지방채를 발행한 것으로 나타났다. 민생쿠폰은 작년 하반기 전 국민에게, 고유가지원금은 올 상반기 소득 하위 70%에게 지급됐다. 가뜩이나 재정 상태가 나쁜 지자체들이 빚까지 내가며 ‘중산층 이상’에게까지 지원금을 준 것이다. 나머지 10개 지자체 중에서도 지방채를 발행할 예정이거나 내부의 다른 기금에서 빌려온 ‘우회집행’ 사례들이 있었다고 한다. 중앙정부와 국회의 결정에 의해 지자체들이 민생쿠폰과 고유가지원금 지급을 위해 떠안은 금액은 3조 원이 넘는다. 사업이 진행되는 서울, 부산, 인천, 광주(전남과 통합하기 이전), 경기, 전북, 경남 7곳이 지방채를 발행해 자금을 조달했다. 이 중 서울과 경기를 제외하면 모두 재정자립도가 50% 미만이고, 전북은 20%대에 불과하다. 전북의 경우 민생쿠폰 비용 중 지자체 몫의 42%를 빚을 내 조달했다. 이런 지자체들이 지방채를 발행해 주민",
+      "author": null,
+      "summary": "중앙정부의 포퓰리즘 정책인 민생쿠폰과 고유가지원금으로 재정이 약한 지자체들이 3조 원 이상의 빚을 떠안게 됨을 지적하며, 정책 결정의 책임성이 부족하다고 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a8785ad479a3",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "'살상력과 전투 준비'는 항상 멋있었다",
+      "link": "https://www.washingtonpost.com/opinions/2026/10/01/hegseth-pentagon-changes-like-obama-biden-era-dont-help-military/",
+      "publishedAt": "2026-10-01T14:26:15.000Z",
+      "description": "Pete Hegseth takes Pentagon policies to the next level in distracting the military from effective warfighting.",
+      "author": "John Teichert",
+      "summary": "필자는 Pete Hegseth 국방부의 정책이 군을 효과적인 전쟁 수행에 집중하지 못하게 하고, '살상력과 전투 준비'라는 명목 아래 군의 실질적 역할에서 벗어나게 한다고 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f237291e3d41",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "노동당이 EU 재가입을 주장해야 하는 이유",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/01/andy-burnham-sadiq-khan-hope-labour-rejoining-the-eu-brexit-growth-security",
+      "publishedAt": "2026-10-01T13:04:31.000Z",
+      "description": "Brexit was a disastrous act of national self-harm. Britain needs EU membership to bring growth and security in an increasingly volatile world Hope again. That was the prime minister’s message to the country this week. A national social care system, greater public control of water and energy, help for first-time buyers and a crackdown on rogue landlords and empty homes. With clarity and conviction, Andy Burnham set out a bold plan to put Britain on a new path, steeped in Labour values. It felt like a conference speech that would be remembered for years to come, marking a decisive break with a b",
+      "author": "Sadiq Khan",
+      "summary": "Sadiq Khan은 브렉시트가 국가적 자해였으며, 영국의 성장과 안보를 위해 노동당이 EU 재가입을 공식 정책으로 주장해야 한다고 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "259065277f63",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "화장실 문제를 입에 달고 사는 트럼프",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/01/trump-lettuce-diarrhea-midterms",
+      "publishedAt": "2026-10-01T13:00:52.000Z",
+      "description": "As the midterms approach, Americans’ digestive health has become a bizarre talking point Donald Trump seems to spend an unusual amount of time thinking about toilets. Back in 2019, he bizarrely claimed: “People are flushing toilets 10 times, 15 times as opposed to once.” He repeated this claim at a Michigan rally the following year. “Ten times, right, 10 times,” Trump complained. “Not me, of course not me, but you,” he added while pointing at an unfortunate audience member. Continue reading...",
+      "author": "Arwa Mahdawi",
+      "summary": "칼럼니스트는 트럼프가 화장실 물내림에 대해 근거 없는 주장을 반복해온 것을 풍자하며, 정치인의 과학적 근거 없는 발언이 정책에 영향을 미치는 현상을 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "bc45019a467c",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[김봉석의 문화유랑]사랑은 가능하다",
+      "link": "https://www.khan.co.kr/article/202610012039025/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-10-01T11:39:02.000Z",
+      "description": "서로 다른 계급과 가치관을 지닌 두 부부의 이야기를 그린 이창동 감독의 포스터.매달 한 번, 호러북클럽에 참가한다. 주로 호러 소설을 읽고 가끔 미스터리와 SF, 판타지의 경계도 넘나드는 독서 모임이다. 메리 셸리의 , 스티븐 킹의 , 대프니 듀 모리에의 ···",
+      "author": "김봉석 문화평론가",
+      "summary": "문화평론가는 호러 문학을 읽는 북클럽의 경험을 통해 메리 셸리, 스티븐 킹 등의 작품이 그리는 복잡한 인간관계가 사랑의 가능성을 보여준다고 성찰했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ca9814cacfd2",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[사유와 성찰]문질빈빈을 생각한다",
+      "link": "https://www.khan.co.kr/article/202610012039015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-10-01T11:39:01.000Z",
+      "description": "가까이에서 지켜본 정치인들 가운데는 서로 다른 유형의 두 사람이 있다. 한 사람은 서민의 삶을 살피는 정책을 입안하는 데 진심이고, 식견과 추진력도 뛰어나다. 하지만 신념이 강한 만큼 다른 생각에 배타적인 성향이 있다. 정의를 향한 열정은 훌륭하지만, 다정함이 아쉽다. 반면 다른 한 사람은 사람을 대하는 태도가 정중하고 겸손하지만, 그의 정책과 행보에는 구···",
+      "author": "법인 스님 화순 불암사 주지",
+      "summary": "법인 스님은 정치인의 두 가지 유형을 관찰하며, 정의를 향한 신념과 겸손한 태도 사이의 균형이 필요하다고 성찰했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "22be841a6146",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "사라진 대형 스크린 코미디 영화",
+      "link": "https://www.washingtonpost.com/opinions/2026/10/01/hollywood-comedies-are-vanishing-where-did-they-go/",
+      "publishedAt": "2026-10-01T11:30:00.000Z",
+      "description": "How horror movies became the funniest thing in movie theaters.",
+      "author": "Will Leitch",
+      "summary": "칼럼니스트는 현대 영화관에서 대형 화면의 코미디 영화가 사라지고, 공포 영화가 웃음을 주는 역할을 대신하고 있는 현상을 지적했다.",
+      "summarySource": "llm"
+    }
+  ],
+  "summarizedAt": "2026-10-02T01:23:37.702Z",
+  "summaryStats": {
+    "llm": 50,
+    "fallback": 0,
+    "model": "claude-haiku-4-5"
+  }
+}
