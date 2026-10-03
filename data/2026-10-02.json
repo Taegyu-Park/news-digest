@@ -1,0 +1,899 @@
+{
+  "date": "2026-10-02",
+  "generatedAt": "2026-10-03T00:57:49.555Z",
+  "categories": [
+    {
+      "id": "it",
+      "label": "IT·과학·AI"
+    },
+    {
+      "id": "economy",
+      "label": "경제·금융"
+    },
+    {
+      "id": "politics",
+      "label": "정치·사회"
+    },
+    {
+      "id": "world",
+      "label": "세계·국제"
+    },
+    {
+      "id": "editorial",
+      "label": "사설·칼럼",
+      "opinion": true,
+      "summaryMaxChars": 220
+    }
+  ],
+  "feedStatus": [
+    {
+      "source": "Ars Technica",
+      "category": "it",
+      "ok": true,
+      "matched": 10
+    },
+    {
+      "source": "Hacker News",
+      "category": "it",
+      "ok": true,
+      "matched": 10
+    },
+    {
+      "source": "TechCrunch",
+      "category": "it",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "The Verge",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "블로터",
+      "category": "it",
+      "ok": true,
+      "matched": 26
+    },
+    {
+      "source": "전자신문",
+      "category": "it",
+      "ok": false,
+      "error": "fetch failed",
+      "matched": 0
+    },
+    {
+      "source": "ZDNet Korea",
+      "category": "it",
+      "ok": true,
+      "matched": 26
+    },
+    {
+      "source": "BBC Business",
+      "category": "economy",
+      "ok": true,
+      "matched": 20
+    },
+    {
+      "source": "The Guardian",
+      "category": "economy",
+      "ok": true,
+      "matched": 19
+    },
+    {
+      "source": "매일경제 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 35
+    },
+    {
+      "source": "연합뉴스",
+      "category": "economy",
+      "ok": true,
+      "matched": 102
+    },
+    {
+      "source": "경향신문 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 40
+    },
+    {
+      "source": "경향신문 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 18
+    },
+    {
+      "source": "노컷뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 1
+    },
+    {
+      "source": "서울신문",
+      "category": "politics",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "연합뉴스 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 67
+    },
+    {
+      "source": "연합뉴스 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 104
+    },
+    {
+      "source": "SBS 뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 22
+    },
+    {
+      "source": "Al Jazeera",
+      "category": "world",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC World",
+      "category": "world",
+      "ok": true,
+      "matched": 18
+    },
+    {
+      "source": "NPR",
+      "category": "world",
+      "ok": true,
+      "matched": 3
+    },
+    {
+      "source": "The Guardian",
+      "category": "world",
+      "ok": true,
+      "matched": 13
+    },
+    {
+      "source": "연합뉴스 국제",
+      "category": "world",
+      "ok": true,
+      "matched": 64
+    },
+    {
+      "source": "매일경제 증권",
+      "category": "economy",
+      "ok": true,
+      "matched": 31
+    },
+    {
+      "source": "경향신문 오피니언",
+      "category": "editorial",
+      "ok": true,
+      "matched": 2
+    },
+    {
+      "source": "NYT Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 18
+    },
+    {
+      "source": "The Guardian Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "Washington Post Opinions",
+      "category": "editorial",
+      "ok": true,
+      "matched": 13
+    },
+    {
+      "source": "동아일보 사설",
+      "category": "editorial",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "동아일보 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 34
+    },
+    {
+      "source": "조선일보",
+      "category": "politics",
+      "ok": true,
+      "matched": 3
+    },
+    {
+      "source": "동아일보 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 34
+    },
+    {
+      "source": "머니투데이",
+      "category": "economy",
+      "ok": true,
+      "matched": 3
+    },
+    {
+      "source": "Wired",
+      "category": "it",
+      "ok": true,
+      "matched": 23
+    },
+    {
+      "source": "DW News",
+      "category": "world",
+      "ok": true,
+      "matched": 14
+    }
+  ],
+  "items": [
+    {
+      "id": "d3446779ff0f",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "엔비디아 Shield TV, AI 추가로 100달러 인상",
+      "link": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/",
+      "publishedAt": "2026-10-02T14:52:16.000Z",
+      "description": "Initially launched in 2019, the Nvidia Shield TV Pro now retails for $299.99.",
+      "author": "Ryan Whitwam",
+      "summary": "2019년 출시된 엔비디아 Shield TV Pro가 AI 기능 추가로 100달러 인상되어 현재 $299.99에 판매 중이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "25be8601d340",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "트럼프 '슈퍼인텔리전스' 행정명령 후 슬로베니아 .si 도메인 가입 급증",
+      "link": "https://techcrunch.com/2026/10/02/slovenias-si-domain-sees-a-surge-in-registrations-after-trumps-super-intelligence-order/",
+      "publishedAt": "2026-10-02T14:47:46.000Z",
+      "description": "The .si domain name is seeing unprecedented demand after President Trump's super intelligence executive order.",
+      "author": "Dominic-Madori Davis",
+      "summary": "트럼프 대통령의 슈퍼인텔리전스 행정명령 이후 슬로베니아의 .si 도메인 가입이 전례 없는 수준으로 증가했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "703fde9f25b6",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "은행권 정보 유출 '초비상'…신한 이어 KB국민도 시스템 뚫렸다",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=674940",
+      "publishedAt": "2026-10-02T14:27:06.000Z",
+      "description": "KB국민은행에서 직원용 모바일 업무지원시스템을 통한 고객정보 유출 사고가 발생했다. 외부 침해로 고객 119명의 개인신용정보가 빠져나갔다. 은행은 인터넷·모바일뱅킹 등 금융거래 시스템과는 무관한 사고라고 설명했지만 고객이 직접 이용하지 않는 업무지원 채널에서도 개인정보 보호에 문제가 드러났다.국민은행은 사고 관련 서버와 접근경로를 차단하고 고객 피해가 발생하면 전액 보상하겠다고 밝혔다. 신한은행의 대출모집인용 서비스에 이어 국민은행의 직원용 시스템에서도 정보가 유출되면서 금융거래 채널 밖의 보안 관리가 은행권의 과제로 떠올랐다.국민",
+      "author": "이나리 기자",
+      "summary": "KB국민은행의 직원용 모바일 업무지원시스템에서 고객 119명의 개인정보가 외부 침해로 유출되었으며, 금융거래 채널 외 직원 시스템의 보안 관리가 은행권의 과제로 부각되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9e56ae424590",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "현대홈쇼핑, 한섬 지분 42.92%로 확대",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=674939",
+      "publishedAt": "2026-10-02T14:25:59.000Z",
+      "description": "한섬의 최대주주인 현대홈쇼핑이 보유 주식을 921만8140주로 늘렸다.2일 금융감독원 전자공시시스템에 따르면 현대홈쇼핑은 한섬 보통주 13만1000주를 추가로 장내 매수했다. 보유 주식은 종전 908만7140주에서 921만8140주로 증가했다. 신고서상 지분율은 40.50%에서 42.92%로 2.42%포인트 높아졌다.현대홈쇼핑은 9월23일 5만9541주를 시작으로 9월28일 1만459주, 9월29일 1만400주, 9월30일 1만주, 10월1일 2만주를 장내에서 매수했다. 이와 함께 10월2일 8주, 10월6일 1만592주, 10월7",
+      "author": "최이담 기자",
+      "summary": "현대홈쇼핑이 한섬 보통주를 추가로 매수하여 보유 지분을 40.50%에서 42.92%로 2.42%포인트 늘렸다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "47992b567ab4",
+      "category": "it",
+      "source": "Hacker News",
+      "region": "intl",
+      "title": "건망증 있는 CPU (Linux on M4)",
+      "link": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+      "publishedAt": "2026-10-02T14:22:12.000Z",
+      "description": "Article URL: https://yuka.dev/blog-2026-10-02-linux-m4.html Comments URL: https://news.ycombinator.com/item?id=49933869 Points: 69 # Comments: 5",
+      "author": "signa11",
+      "summary": "M4 프로세서의 Linux 구동 메커니즘에 관한 기술 콘텐츠가 Hacker News에 공유되어 69포인트를 획득했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f5426fc3fd27",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "로켓 리포트: SpaceX 3연속 발사 완료, Rocket Lab 대규모 계약 체결",
+      "link": "https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/",
+      "publishedAt": "2026-10-02T13:54:34.000Z",
+      "description": "Blue Origin seeks FAA approval for up to 50 New Glenn launches and 50 booster landings per year.",
+      "author": "Stephen Clark",
+      "summary": "SpaceX가 3번의 연속 발사를 완료한 가운데, Blue Origin은 연간 최대 50회의 New Glenn 발사를 위해 FAA 승인을 신청했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6464da49679d",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "군보르, 센탈리온으로 사명 변경",
+      "link": "https://zdnet.co.kr/view/?no=20261002221003",
+      "publishedAt": "2026-10-02T13:10:03.000Z",
+      "description": "[지디넷코리아] 본사 싱가포르 이전 추진에 따라 파트너십, 센탈리온을 새로운 글로벌 브랜드로 승인 제네바, 2026년 10월 2일 /PRNewswire/ -- 군보르 그룹(Gunvor Group Ltd, 이하 '회사'의 소유주인 임직원 파트너십이 새로운 소유 구조와 리더십 모델, 미래를 향한 전략적 전망 아래 이뤄진 회사의 진화를 반영하기 위해 회사명을 센탈리온 그룹(Centalion Group Ltd)으로 변경하는 안을 의결했다. 회사는 이와 동시에 본사 소재지를 키프로스에서 싱가포르로 이전할 계획을 발표했다. Centalion Chairman & CEO Gary Pedersen. 센탈리온의 게리 피더슨(Gary Pedersen) 회장 겸 최고경영자는 \"센탈리온이라는 이름은 글로벌 에너지 시장의 중심에서 하나가 되어 함께 움직이는 우리 팀의 모습을 반영한다\"고 말했다. 이어 \"우리는 강점을 지닌 위치에서 이번 결정을 추진했다. 함께 규율과 기업가 정신을 갖춘 회사를 만들어 왔으며, 회사는 세계 최고 수준의 실물 에너지 및 금속 트레이딩 기업 중 하나로서 입지를 넓혀가고 있다. 싱가포르와 새로운 정체성은 그 이야기의 다음 장이다\"라고 덧붙였다. 회사가 200",
+      "author": "글로벌뉴스",
+      "summary": "에너지 트레이딩 회사인 군보르 그룹이 새로운 소유 구조와 전략을 반영하여 센탈리온 그룹으로 사명을 변경하고 본사를 키프로스에서 싱가포르로 이전할 계획을 발표했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a49eefa3f54b",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "아마존, 데이터센터 NDA 사용 중단 선언",
+      "link": "https://www.wired.com/story/amazon-says-it-is-going-to-stop-using-ndas-for-data-centers/",
+      "publishedAt": "2026-10-02T11:47:58.000Z",
+      "description": "The company announced it has stopped using secret agreements with county officials and acknowledged that community backlash is leading to data center moratoriums across the country.",
+      "author": "Molly Taft",
+      "summary": "아마존이 카운티 관리자들과의 비밀 협약 사용을 중단했으며, 지역 사회의 반발로 인한 데이터센터 유보가 전국적으로 확산되고 있음을 인정했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "28d92724f014",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "2026년 최고의 스마트 고양이 추적기: Fi Mini vs. Tractive",
+      "link": "https://www.wired.com/story/best-smart-cat-tracker/",
+      "publishedAt": "2026-10-02T11:35:00.000Z",
+      "description": "After months of monitoring Basil’s activity and sleep, I found that Fi and Tractive cat trackers come with their own trade-offs.",
+      "author": "Molly Higgins",
+      "summary": "필자가 고양이의 활동과 수면을 수개월간 모니터링한 결과, Fi와 Tractive 스마트 추적기는 각각 고유한 장단점을 가지고 있었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f2ef4afccdb5",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "포스코노조 김성호 위원장 3연임 성공…임금협상 다시 속도",
+      "link": "https://zdnet.co.kr/view/?no=20261002192207",
+      "publishedAt": "2026-10-02T10:22:07.000Z",
+      "description": "[지디넷코리아]포스코 대표 교섭노조인 한국노총 금속노련 포스코노동조합의 차기 위원장에 김성호 현 위원장이 당선됐다. 노조 임원 선거가 마무리되면서 중단됐던 올해 임금협상도 다음 주부터 다시 본격화될 전망이다.2일 포스코노조에 따르면 이날 치러진 제21대 임원 선거에서 김 위원장은 6382표(73.53%)를 얻어 2298표(26.47%)를 받은 김대억 전 포항부위원장을 제치고 당선됐다. 선거에는 전체 유권자 8972명 가운데 8680명이 참여했다. 새 집행부 임기는 오는 12월 1일부터 2029년 11월 30일까지 3년이다.선거를 앞두고 노조 내부에서는 김 위원장이 지난 7월 임금교섭 결렬 선언 직전 회사 측 교섭 책임자인 경영지원본부장과 골프를 친 사실이 알려지며 논란이 일었다. 일부 노조 간부들은 노조 독립성에 의문을 제기하며 집행부 사퇴를 예고했다. 김 위원장은 이에 대해 사측으로부터 부당한 지원이나 대가를 받은 사실이 없으며 조합원 권익을 거래한 적도 없다고 반박했다.노조 선거가 끝나면서 노사 간 임금협상도 재개될 예정이다. 포스코노조는 협상 난항으로 지난달 두 차례 부분파업을 벌였으며, 이는 1968년 창사 이후 58년 만의 첫 파업이었다. 노조는 기",
+      "author": "류은주 기자",
+      "summary": "포스코 노동조합의 김성호 위원장이 전체 투표의 73.53%를 획득하여 3연임에 성공했으며, 노조 선거 완료로 중단되었던 임금협상이 다음 주부터 재개될 전망이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ba73cc4bba67",
+      "category": "economy",
+      "source": "동아일보 경제",
+      "region": "kr",
+      "title": "입장료 단숨에 2배 올려도…日 유명 관광지 몰리는 이유는",
+      "link": "https://www.donga.com/news/Inter/article/all/20261002/134779625/1",
+      "publishedAt": "2026-10-02T14:53:43.000Z",
+      "description": "일본 나고야시가 물가와 인건비 상승에 따른 시설 관리·운영 비용 증가를 이유로 공공시설 752곳의 사용료를 인상했다. 대표 관광지인 나고야성의 성인 관람료는 기존의 2배인 1000엔으로 올랐다.2일 일본 아사히신문에 따르면 나고야시는 지난 1일부터 시내 공공시설의 사용료를 개정해 인상했다. 시설 관리와 운영에 필요한 비용이 증가하면서 이용자에게도 이에 상응하는 부담을 요구하기로 한 데 따른 조치다.이번 인상 대상에서는 문화소극장과 시립체육관 등을 비롯해 모두 752개 시설이 포함됐다. 나고야시는 급격한 부담 증가를 막기 위해 대부분의 시설에서 기존 요금의 1.5배를 넘지 않는 범위에서 이용료를 조정했다.다만 시설별 인상 폭에는 차이가 있다. 히가시야마 동식물원의 성인 입장료는 기존 500엔에서 800엔으로 올랐으며, 나고야성은 500엔에서 1000엔으로 인상됐다.요금 인상에 따른 기존 이용자들의 부담을 줄이기 위한 방안도 마련됐다. 9월 30일 이전에 시설을 예약한 경우에는",
+      "author": null,
+      "summary": "나고야시가 물가와 인건비 상승을 이유로 공공시설 752곳의 사용료를 인상했으며, 나고야성의 성인 입장료는 기존의 2배인 1000엔으로 올랐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e4267e10ffee",
+      "category": "economy",
+      "source": "머니투데이",
+      "region": "kr",
+      "title": "트럼프 \"한국, 美 석유 증산에 84억달러 투자\"…또 일방 발표",
+      "link": "https://www.mt.co.kr/world/2026/10/02/2026100223264099617",
+      "publishedAt": "2026-10-02T14:53:03.000Z",
+      "description": "[대미투자 발표]산업부 \"美 측에 확인 중\" 도널드 트럼프 미국 대통령이 한국의 대미 투자 프로젝트에 84억달러(약 11조3000억원) 규모의 원유 증산 계획이 포함된다고 2일(현지시간) 밝혔다. 이는 트럼프 대통령이 지난달 30일(한국시간 1일) 백악관에서 발표한 한국의 대미 투자 사업 3가지에서 확인되지 않는 내용이다. 트럼프 대통령은 2일 소셜미디어(SNS) 트루스소셜을 통해 \"한국과의 협상이 계속해서 더 좋아지고 있다는 소식을 발표하게 돼 매우 기쁘다\"며 \"원유회수증진(EOR) 프로젝트에 84억달러가 투입된다\"고 밝혔다. 이어 \"더 많은 석유와 가스를 생산한다는 것은 미국의 에너지 지배력과 미래 세계의 에너지 안보를 의미한다\"고 덧붙였다. EOR 프로젝트는 이산화탄소를 유전에 주입, 내부 압력을 높여 원유 생산량을 늘리는 것을 말한다....",
+      "author": null,
+      "summary": "트럼프 대통령이 한국이 미국 원유 증산 사업에 84억달러를 투자할 것이라고 발표했으나, 이는 한국 정부가 이전에 발표한 대미 투자 사업에 포함되지 않은 내용이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9ab631d23bb8",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "산업부 \"트럼프 언급 84억불 석유프로젝트, 배경 확인 중\"",
+      "link": "https://www.yna.co.kr/view/AKR20261002185600003",
+      "publishedAt": "2026-10-02T14:38:02.000Z",
+      "description": "(서울=연합뉴스) 신창용 기자 = 도널드 트럼프 미국 대통령이 석유 관련 프로젝트에 한국이 84억 달러를 투자할 것이라고 2일(현지시간) 밝힌 ...",
+      "author": "신창용",
+      "summary": "산업부는 트럼프 대통령이 언급한 84억 달러 규모의 원유 증산(EOR) 프로젝트에 대해 미국 측과 배경을 확인 중이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "12c77a08ec0b",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "중간 선거 앞두고 미국 고용시장 급속 둔화",
+      "link": "https://www.bbc.co.uk/news/articles/cm2d6gg0642yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-02T14:30:48.000Z",
+      "description": "Unemployment rose slightly as American employers paused hiring with midterm elections just a month away.",
+      "author": null,
+      "summary": "미국의 중간 선거를 앞두고 고용주들의 채용이 일시 중단되면서 실업률이 소폭 상승했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "36353ea6cfef",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "미국 9월 신규 일자리 2만9천 개…지난달보다 급격한 감소",
+      "link": "https://www.theguardian.com/business/2026/oct/02/september-jobs-report",
+      "publishedAt": "2026-10-02T14:04:29.000Z",
+      "description": "Final jobs report before the midterm elections also shows the US unemployment rate rose slightly to 4.2% US employers added just 29,000 jobs in September, a sharp drop from last month’s gains, and unemployment rose slightly to 4.2%, a sign of a cooling labor market in the final jobs report before the midterm election. The numbers were under half of economists’ expectations of just under 70,000 new jobs. Most job gains were concentrated in the healthcare industry, which added 17,000 new jobs, while the information, financial and professional industries saw losses, according to the latest data f",
+      "author": "Gaya Gupta",
+      "summary": "미국이 9월에 2만9천 개의 일자리를 추가했으며, 이는 지난달보다 급격하게 감소했고 실업률은 4.2%로 소폭 올랐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2a3c90b10db2",
+      "category": "economy",
+      "source": "동아일보 경제",
+      "region": "kr",
+      "title": "페이커 없이도…韓 LoL 대표팀, 결승서 2세트 연속 '역전승'",
+      "link": "https://www.donga.com/news/It/article/all/20261002/134779355/1",
+      "publishedAt": "2026-10-02T13:27:55.000Z",
+      "description": "대한민국 리그 오브 레전드(LoL·롤) 국가대표팀이 결승전에서 대만을 상대로 두 세트 연속 역전승을 거뒀다. 금메달까지 한 걸음 남았다.한국 대표팀은 2일 일본 아이치현 도코나메 아이치 스카이 엑스포에서 열린 아이치·나고야 아시안게임 e스포츠 롤 결승전 2세트에서 승리했다.1세트에 이어 2세트에서도 △‘제우스’ 최우제(한화생명e스포츠) △‘캐니언’ 김건부(젠지) △‘제카’ 김건우(한화생명e스포츠) △‘구마유시’ 이민형(한화생명e스포츠) △‘케리아’ 류민석(T1)이 선발로 나섰다. ‘페이커’ 이상혁(T1)은 2세트에도 출전하지 않았다.밴픽에서 한국 대표팀은 카밀·바이·로크·칼리스타·레나타 글라스크를 골랐다. 이에 대해 대만은 암베사(천이친)·녹턴(위쥔자)·블라디미르(차이밍훙)·드레이븐(추쯔취안)·블리츠크랭크(류자하오)로 맞섰다.초반 대만 팀이 다이브에 성공하며 먼저 2킬을 챙겼다. 글로벌 골드 격차도 2000이상 벌어졌다.중반부까지도 대만이 글로벌 골드에서 앞서 나가며 주도권",
+      "author": null,
+      "summary": "한국 리그 오브 레전드 국가대표팀이 아시안게임 결승전에서 대만을 상대로 두 세트 연속 역전승으로 금메달까지 한 걸음 남겼다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "100303ffc724",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "국민참여성장펀드 판매 3일차 목표액 절반 남아…온라인 비중↑",
+      "link": "https://www.yna.co.kr/view/AKR20261002178500002",
+      "publishedAt": "2026-10-02T12:38:00.000Z",
+      "description": "(서울=연합뉴스) 강수련 기자 = 2차 국민참여형 국민성장펀드(국민참여성장펀드)가 판매 사흘간 목표액의 절반 가량 판매된 것으로 나타났다.",
+      "author": "강수련",
+      "summary": "2차 국민참여성장펀드 판매 4일 차 목표액의 절반 정도가 판매되었으며, 온라인 판매 비중이 증가했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "50d14e121d95",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "AI가 돈을 쓸 때 필요한 것...스테이블코인이 '기계의 화폐'로 주목받는 이유",
+      "link": "https://www.mk.co.kr/news/stock/12167560",
+      "publishedAt": "2026-10-02T12:35:32.000Z",
+      "description": "안녕하세요 엠블록레터의 AI 인턴입니다. 세계 최대 자산운용사 블랙록이 AI 에이전트의 확산을 가상자산과 블록체인 인프라의 새로운 구조적 수요 촉발 요인으로 지목했어요. 블랙록은 ..",
+      "author": "매일경제",
+      "summary": "세계 최대 자산운용사 블랙록(BlackRock)이 AI 에이전트의 확산이 가상자산과 블록체인 인프라의 새로운 수요를 촉발할 것으로 지목했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c3d8070e9b2b",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "\"하마터면 5대 은행 다 뚫릴 뻔\"…AI 해킹에 3곳 고객정보 유출",
+      "link": "https://www.mk.co.kr/news/economy/12167528",
+      "publishedAt": "2026-10-02T11:28:49.000Z",
+      "description": "5대 은행 일제히 AI 해킹 공격 받아 신한·국민·하나 고객정보 실제 유출 금융당국 긴급회의…전산망 전수점검신한은행에 이어 KB국민은행과 하나은행에서도 해킹으로 고객 정보가 유..",
+      "author": "매일경제",
+      "summary": "신한·국민·하나은행이 AI 해킹 공격으로 고객 정보가 유출되었으며, 금융당국이 긴급회의를 소집하고 전산망 전수점검을 지시했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "21f3847df40f",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "5대은행 다 공격당했다 … AI 해킹에 떠는 금융사",
+      "link": "https://www.mk.co.kr/news/economy/12167516",
+      "publishedAt": "2026-10-02T10:51:04.000Z",
+      "description": "지난 1일 신한은행의 고객 정보 유출 사실이 알려진 지 하루 만인 2일 KB국민·하나·부산은행에서도 외부 침입에 따른 개인정보 유출 사고가 확인되면서 금융권의 보안 불안이 커지고 ..",
+      "author": "매일경제",
+      "summary": "신한은행에 이어 KB국민·하나·부산은행도 AI 해킹으로 고객 정보가 유출되어 금융권의 보안 불안이 커지고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1a85aec7848b",
+      "category": "politics",
+      "source": "연합뉴스 사회",
+      "region": "kr",
+      "title": "공소청, '고교생 살해범' 장윤기 무기징역 불복 항소",
+      "link": "https://www.yna.co.kr/view/AKR20260930123054054",
+      "publishedAt": "2026-10-02T14:59:45.000Z",
+      "description": "(전남광주=연합뉴스) 정회성 기자 = 길 가는 여고생을 성범죄 목적으로 살해해 무기징역형을 선고받은 장윤기(23)의 1심 판결에 불복해 검사가 ...",
+      "author": "정회성",
+      "summary": "길을 가던 여고생을 성범죄 목적으로 살해해 무기징역을 선고받은 장윤기(23)에 대해 검사가 항소했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "85d1d6754f37",
+      "category": "politics",
+      "source": "SBS 뉴스",
+      "region": "kr",
+      "title": "김지용 청문요청안 재가…정청래와 4시간 만찬",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008781285",
+      "publishedAt": "2026-10-02T14:58:00.000Z",
+      "description": "이재명 대통령이 김지용 중수청장 후보자에 대한 인사청문요청안을 재가했습니다. 상당수 범여권 검찰 개혁 강경파들이 김 후보자의 지명 철회를 요구하는 상황에서, 이 대통령은 강경파로 꼽히는 정청래 전 대표와 만찬을 함께 했습니다.하정연 기자입니다.",
+      "author": "ha@sbs.co.kr (하정연)",
+      "summary": "이재명 대통령이 김지용 중수청장 후보자에 대한 인사청문요청안을 재가했으며, 검찰 개혁 강경파로 꼽히는 정청래 전 대표와 만찬을 가졌다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "50e0793ec2a6",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "靑, 김여정 '광대극' 비판에 \"비방적 언사는 도움 안 돼\"",
+      "link": "https://www.yna.co.kr/view/AKR20261002186000001",
+      "publishedAt": "2026-10-02T14:41:20.000Z",
+      "description": "(서울=연합뉴스) 황윤기 기자 = 청와대는 2일 김여정 북한 노동당 총무부장이 한국 정부를 향해 '자작 광대극'이라고 비난하자 \"우리 정부와 대...",
+      "author": "황윤기",
+      "summary": "청와대는 김여정 북한 노동당 총무부장의 한국 정부 비난에 대해 비방적 언사는 신뢰 구축에 도움이 안 된다고 대응했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "abd14ed44e26",
+      "category": "politics",
+      "source": "노컷뉴스",
+      "region": "kr",
+      "title": "KB국민은행 \"119명 개인정보 유출…피해 전액 보상\"",
+      "link": "https://www.nocutnews.co.kr/news/6586557",
+      "publishedAt": "2026-10-02T14:29:33.000Z",
+      "description": "신한은행에 이어 KB국민은행에서도 해킹으로 고객 정보가 무더기로 유출되는 사고가 발생해 금융당국이 대응에 나섰다. KB국민은행은 \"고객명, 전화번호, 주소, 암호화된 주민등록번호 등 119명의 개인 신용정보가 외부 침해에 의해 유출됐다\"고 2일 밝혔다. 다만 개인 정보가 유출된 시스템은 직원용 모바일 업무지원시스템으로, 인터넷뱅킹, 모바일뱅킹 등 고객 금융거래와는 전혀 관련이 없다고 은행측은 설명했다. KB국민은행은 지난달 30일 밤 비정상적인 외부 접근을 통한 정보 유출 가능성을 인지해 해당 서버와 접근경로를 원천 차단하고 금융당국에 신고했다. 정보유출 피해 고객에게는 각각 개별적으로 정보 유출 사실과 2차 피해 예방 방법에 대해 안내했으며, 피해 신고와 기타 문의에 신속히 대응하기 위해 KB국민은행 대표 콜센터(☏1588-9999)와 더불어 전담 상담센터(☏1566-8331)도 운영한다. KB국민은행은 \"이번 정보 유출로 인한 고객 피해가 발생할 경우 전액 보상할 예정\"이라고 밝혔다. KB국민은행 관계자는 \"이번 상황을 매우 엄중하게 받아들이고 있으며, 향후 추가 피해 및 재발 방지를 위해 관련 프로세스 전체를 원점에서 철저히 점검하는 등 전사적 비상대응",
+      "author": null,
+      "summary": "KB국민은행이 해킹으로 인한 119명 고객의 개인정보 유출 사건을 공개하고 피해를 전액 보상하겠다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "384120b59ed8",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "추미애, 김지용 두고 \"적임자 아니다\" 재차 비판",
+      "link": "https://www.khan.co.kr/article/202610022309001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-10-02T14:09:00.000Z",
+      "description": "추미애 경기도지사가 지난달 28일 국회 의원회관에서 열린 3기 신도시 자족강화와 신속추진을 위한 제도개선 과제 토론회에서 환영사를 하고 있다. 연합뉴스중대범죄수사청이 개청한 2일 추미애 경기도지사가 김지용 초대 중수청장 후보자에 대해 재차 “전혀 적임자가 아니다”라고 주장했다.추 지사는 이날 페이스북에 “저의 사람 보는 실력이 형편없음을 고백하고 가슴을 칩···",
+      "author": "김송이 기자",
+      "summary": "추미애 경기도지사가 중대범죄수사청 개청일인 2일 김지용 중수청장 후보자에 대해 적임자가 아니라고 재차 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3413611b5e81",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "김여정 막말에도…靑 \"비방은 신뢰에 도움 안 돼…대화 재개 필요\"",
+      "link": "https://www.donga.com/news/Politics/article/all/20261002/134779267/1",
+      "publishedAt": "2026-10-02T12:38:00.000Z",
+      "description": "청와대와 통일부가 2일 김여정 북한 노동당 총무부장이 비무장지대(DMZ) 지뢰 폭발사고 후에도 ‘남북 긴장 완화’를 언급한 이재명 대통령을 지목하며 “광대극의 절정 장면”이라고 담화를 낸 것 관련, “만나서 소통하자”는 입장을 밝혔다.청와대는 이날 ‘김여정 발언 관련‘ 언론 공지를 통해 “우리 정부와 대통령에 대한 비방적 언사는 상호 신뢰를 쌓아가는 데 도움이 안 된다”면서도 “이러한 문제가 재발되지 않도록, 남북간 군사적 긴장을 완화하고 대화와 소통을 재개하는 것이 필요하다”고 밝혔다. 청와대는 또 “정부는 이번 지뢰 폭발 사건에 대해 신속하고 철저한 조사를 통해 사건의 진상을 투명하게 밝히고, 필요한 조치를 취해 나갈 것”이라며 “북측은 소모적인 비난을 멈추고, 우리의 한반도 평화 공존을 위한 노력에 동참할 것을 촉구한다”고 했다.통일부 역시 ‘김여정 부장 담화 관련’ 언론 공지를 통해 “우리는 북을 적대할 생각이 없다는 점을 이미 여러 차례 밝힌 바 있다”고 밝혔다. 통일",
+      "author": null,
+      "summary": "청와대는 김여정의 비난에 대해 비방적 언사는 신뢰 구축에 도움이 안 되며 남북 간 대화와 소통을 재개해야 한다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0091bde434bd",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "與 \"노무현에 무릎 꿇고 사과하라\"…한동훈 \"고발해보라\"",
+      "link": "https://www.yna.co.kr/view/AKR20261002176200001",
+      "publishedAt": "2026-10-02T11:18:38.000Z",
+      "description": "(서울=연합뉴스) 박수윤 기자 = 더불어민주당과 무소속 한동훈 의원은 2일 한 의원이 연일 고(故) 노무현 전 대통령의 금품수수 의혹 수사 과정...",
+      "author": "박수윤",
+      "summary": "더불어민주당이 한동훈 의원에게 노무현 전 대통령에 사과할 것을 촉구했고, 한동훈 의원은 역으로 \"고발해보라\"고 맞대응했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a172d0828bdf",
+      "category": "politics",
+      "source": "서울신문",
+      "region": "kr",
+      "title": "추미애, 국토부 장관에 '경기도형 주택공급 전략' 제안",
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20261002500266",
+      "publishedAt": "2026-10-02T09:19:53.000Z",
+      "description": "추미애, “주택 물량뿐 아니라 일자리 해결해야 청년들에게 희망 줄 수 있어” 홍지선 장관, “실무협의체 구성해 경기도의 목소리 최대한 반영하겠다” 추미애 경기도지사가 2일 홍지선 국토교통부 장관을 만나 지역의 산업·일자리와 주거를 함께 설계하는 ‘경기도형 주택공급 전략’을 제안했다. 공급물량을 중심으로 한 기존 방식에서 나아가, 경기도의 산업·일자리·교통 등 지역 특성을 반영해 주거와 자족기능을 함께 조성하자는 전략이다. 추 지사는 “경기도는 서울을 둘러싸고 있기 때문에 서울 집값이 많이 올라 공급 대책을 세우면 신규택지 공급을 경기도가 떠안게 된다”며 “그러다 보니 경기도 나름의 도시 비전을 가지고, 도민들의 삶의 질을 끌어올리는 도시계획 정책을 펴야 하는데 정부의 공급 물량 목표만 따라가게 된다. 경기도의 도시계획 비전을 전개할 여유가 없다”라고 밝혔다. 그러면서 “서울에 일자리가 있고 경기도에 집이 있다. 일자리와 주거가 따로 놀고 있기 때문에 교통수요를 가중시키고 교통 대책이 따라가지 못하는 것”이라며 “이렇게 따로따로인 정책들을 한꺼번에 같이 논의하고 연결했으면 좋겠다. K-반도체 산업거점과 주거를 연결하는 산업연계형, 대학·기업·연구시설을 연계하는",
+      "author": "안승순 기자",
+      "summary": "추미애 경기도지사가 홍지선 국토교통부 장관에게 산업과 일자리를 주거와 함께 설계하는 경기도형 주택공급 전략을 제안했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ee315974047d",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "경찰, 새 형소법 첫날 '수사 주재 기대반 우려반'",
+      "link": "https://www.khan.co.kr/article/202610021802001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-10-02T09:02:00.000Z",
+      "description": "지난 1일 서울 서대문구 경찰청에서 열린 ‘전국 경찰 수사 지휘관 회의’에서 김종철 경찰청장 직무대행(앞줄 왼쪽)과 홍석기 경찰청 국가수사본부장(앞줄 오른쪽) 등 전국 경찰 지휘관들이 국기에 경례하고 있다. 연합뉴스새 형사사법 체계가 시행된 2일 수사를 전담하게 된 경찰은 전국 시·도경찰청과 일선 경찰서에서 수사 구성원들을 모아 제도 안착 준비에 집중했다.···",
+      "author": "박민규 기자",
+      "summary": "새 형사사법 체계 시행에 따라 수사를 전담하게 된 경찰이 전국 경찰서에서 제도 안착을 위한 준비에 집중했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a6a4f1aeb9b4",
+      "category": "politics",
+      "source": "조선일보",
+      "region": "kr",
+      "title": "유니클로, 목동점 2배 확장해 재개업…의왕에도 첫 출점",
+      "link": "https://www.chosun.com/jp/economy-jp/2026/10/02/B7NNVMCRKNGMVAYCL7O4VSQDDI/",
+      "publishedAt": "2026-10-02T07:58:32.000Z",
+      "description": "ユニクロは2日、ソウルの現代百貨店木洞店をリニューアルして再オープンし、京畿道義王市のロッテプレミアムアウトレット義王店に新店舗を出した。両店舗はユニクロの今年下半期初のオープン店舗だ。ソウル西南圏を代表する商圏に位置する木洞店は、2009年に初めて開店して以来17年ぶりに大規模なリニューアルを行った。売り場面積は1220平方メートル（369坪）で、従来のほぼ2倍に拡大した。現代百貨店",
+      "author": "장우정 기자(조선비즈)",
+      "summary": "유니클로(Uniqlo)가 서울 현대백화점 목동점을 리뉴얼해 판매면적을 2배로 확대해 재개업하고 경기도 의왕시 롯데프리미엄아울렛에 첫 매장을 개설했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c6340f008b74",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "러 공격으로 키이우 공포에 잠기다",
+      "link": "https://www.theguardian.com/world/2026/oct/02/terror-kyiv-russia-ramps-up-attacks-ukraine",
+      "publishedAt": "2026-10-02T14:50:59.000Z",
+      "description": "Mayor Vitali Klitschko says Kyivans can no longer pretend it is ‘peacetime’ amid strikes on school, hospital and bridge Valeriya Tkachenko was dropping her son off at school in central Kyiv when the air raid alert sounded. Staff hurried the children and parents into the shelter, where the frightened lawyer spent the next two hours with her son. “I’m scared to death all day about what could happen to my son,” she said as she emerged from the shelter, already late for work. Continue reading...",
+      "author": "Pjotr Sauer in Kyiv",
+      "summary": "러시아의 집중 공격으로 키이우의 학교, 병원, 다리 등 민간 시설이 피해를 입고 있으며, 주민들이 일상적인 공습 경보와 대피로 극심한 공포를 겪고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "51152606150f",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "\"키이우 갈기갈기 찢겨\"…러 공격에 교량 폐쇄·교통 마비(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261002154251109",
+      "publishedAt": "2026-10-02T14:46:30.000Z",
+      "description": "(로마=연합뉴스) 민경락 특파원 = 러시아의 공격으로 우크라이나 수도 키이우에서 피해가 커지면서 의도적으로 민간 시설을 겨냥한 것이라는 비판이 ...",
+      "author": "민경락",
+      "summary": "러시아의 공격으로 키이우에서 교량이 폐쇄되고 교통이 마비되는 등 민간 시설에 대한 의도적 타격이라는 비판이 나오고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3d08546201a2",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "인도 청년 운동, 선거인 명부 변경에 항의 시위 벌이다",
+      "link": "https://www.theguardian.com/world/2026/oct/02/india-cockroach-movement-protests-mumbai-changes-voter-roll",
+      "publishedAt": "2026-10-02T14:42:16.000Z",
+      "description": "Thousands gather in Mumbai with heavy police presence as concerns mount that millions will be denied voting rights India’s youth-led Cockroach movement kicked off more nationwide protests on Friday as thousands of people gathered in Mumbai, amid mounting concerns that millions of citizens are being unfairly stripped of their vote. The movement, which calls itself the Cockroach Janta party (CJP) and has massive support among the country’s gen Zs, returned to the streets to demand the resignation of the chief election commissioner, Gyanesh Kumar. Continue reading...",
+      "author": "Hannah Ellis-Petersen in Mumbai",
+      "summary": "인도의 청년 주도 'Cockroach Janta party'가 선거인 명부 변경으로 수백만 명이 투표권을 박탈당할 것을 우려하며 전국 시위를 재개했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "aad79ade8d3c",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "익명의 이스라엘 병사들, 민간인 대량 살상 증언 기록하다",
+      "link": "https://www.npr.org/2026/10/02/nx-s1-5987714/naza-review-israel-palestine",
+      "publishedAt": "2026-10-02T14:37:27.000Z",
+      "description": "NAZA is an acronym for nezek agavi, Hebrew for \"collateral damage.\" It refers to the number of civilian casualties the Israeli military deems acceptable. The documentary is made by Israeli filmmakers.",
+      "author": "Justin Chang",
+      "summary": "이스라엘 다큐멘터리 제작자들이 익명의 병사들을 통해 이스라엘 군이 '우발적 피해'로 분류하는 민간인 대량 살상 사건들을 기록했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "033565251b44",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "세계 식량가격 3개월 연속 상승…2022년 11월 이후 최고",
+      "link": "https://www.yna.co.kr/view/AKR20261002185200099",
+      "publishedAt": "2026-10-02T14:37:14.000Z",
+      "description": "(요하네스버그=연합뉴스) 나확진 특파원 = 세계 식량가격지수가 3개월 연속 상승했다.",
+      "author": "나확진",
+      "summary": "세계 식량가격지수가 3개월 연속으로 상승하여 2022년 11월 이후 최고 수준에 도달했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "38a07e9f52d2",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "독일 프란츠 라인들, 국제빙구연맹 새 회장 당선",
+      "link": "https://www.dw.com/en/germany-s-franz-reindl-elected-new-iihf-president/a-79521799?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-10-02T14:29:00.000Z",
+      "description": "Franz Reindl has been elected president of ice hockey's world governing body. The former forward was a member of West Germany's Olympic bronze medal-winning team.",
+      "author": null,
+      "summary": "전직 빙구 포워드 프란츠 라인들이 국제빙구연맹(IIHF) 신임 회장으로 당선되었으며, 그는 서독의 올림픽 동메달팀 멤버였다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "dc08925d1d39",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "아르헨티나, 현금으로 시민권 얻는 제도 시작",
+      "link": "https://www.dw.com/en/argentina-launches-cash-for-citizenship-scheme/a-79520708?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-10-02T14:26:00.000Z",
+      "description": "Investors seeking the fastest but most costly route to Argentine citizenship can choose between a non-refundable gift of $350,000, or buying a government bond for $800,000, if they think that will pay off in the end.",
+      "author": null,
+      "summary": "아르헨티나가 투자자들이 35만 달러 기부 또는 80만 달러의 정부 채권 구매로 빠르게 시민권을 얻을 수 있는 제도를 시작했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "54e180143652",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "거의 500건의 사형 취재한 기자, 크리스타 파이크 사건은 처음",
+      "link": "https://www.bbc.co.uk/news/articles/c6d949gq47x9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-02T14:01:09.000Z",
+      "description": "Texas reporter Michael Graczyk has seen botched executions in his time, but not one in which an inmate survived.",
+      "author": null,
+      "summary": "텍사스 기자 마이클 그래칙은 거의 500건의 사형을 취재했지만, 수감자가 생존한 크리스타 파이크 사건처럼 실패한 경우는 처음이라고 했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "eec431ee0e6c",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "학교 시위가 프랑스 정부를 떨게 하다",
+      "link": "https://www.bbc.co.uk/news/articles/c69wzjjxex8po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-02T12:43:02.000Z",
+      "description": "A movement that started nearly two weeks ago has spread, and in France young people on the streets spells trouble, writes Hugh Schofield.",
+      "author": null,
+      "summary": "2주 전에 시작된 학교 시위 운동이 전국으로 확대되고 있으며, 역사적으로 프랑스 청년들의 거리 시위는 정부에 큰 영향을 미쳐왔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5cdc359de78f",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "코넬대 강간 사건에 특별 검사 투입, 르네 굿 유족 정부 소송",
+      "link": "https://www.npr.org/2026/10/02/g-s1-146075/up-first-newsletter-cornell-assault-case-christa-pike-jobs-report-renee-good",
+      "publishedAt": "2026-10-02T11:22:38.000Z",
+      "description": "New legal action in two closely watched cases: one at Cornell, the other over Renee Good's death. We take a closer look.",
+      "author": "Brittney Melton",
+      "summary": "코넬대학의 강간 사건에 특별 검사가 투입되었으며, 르네 굿의 사망과 관련해 유족이 정부를 상대로 소송을 제기했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c3e5fa31d37f",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "바이든을 망친 실수, 트럼프도 같은 함정에 빠지다",
+      "link": "https://www.nytimes.com/2026/10/02/opinion/trump-biden-economic-message.html",
+      "publishedAt": "2026-10-02T14:55:13.000Z",
+      "description": "When leaders ignore people’s lived experience, their political messaging collapses.",
+      "author": "Karine Jean-Pierre",
+      "summary": "카린 장-피에르가 지도자들이 국민의 실제 경험을 무시하면 정치적 메시지가 무너진다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a40aaed0269f",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "우리는 앞으로 올 일을 알지 못한다",
+      "link": "https://www.nytimes.com/2026/10/01/opinion/interesting-times-podcast-spencer-klavan-nick-bostrom.html",
+      "publishedAt": "2026-10-02T14:32:24.000Z",
+      "description": "Nick Bostrom is no longer worried about the apocalypse. Now he’s worried about utopia.",
+      "author": "Spencer A. Klavan and Sophia Muniz",
+      "summary": "스펜서 클래반과 소피아 무니즈가 닉 보스트롬(Nick Bostrom)이 더 이상 핵전쟁 같은 대재앙은 걱정하지 않고 오히려 유토피아의 위험성에 우려한다고 소개했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c3dd70e03af9",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]김지용 청문 요청… 이제라도 역량·도덕성 검증을",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261002/134779401/2",
+      "publishedAt": "2026-10-02T14:30:00.000Z",
+      "description": "이재명 대통령이 2일 김지용 중대범죄수사청장 후보자에 대한 인사청문 요청안을 국회에 보냈다. 이 대통령이 지난달 김 후보자를 지명한 지 24일 만에 국회 인사청문회 절차에 들어가게 된 것이다. 여권 내 강경파들은 김 후보자 지명 직후부터 거세게 반발했고, 이에 이 대통령이 지난달 중순 김 후보자에 대한 추가 검증을 지시하면서 임명 절차가 보류됐었다.여권 내 강경파들은 김 후보자가 친윤 검사였다고 주장하며 지명 철회를 요구해 왔다. 하지만 청와대는 추가 검증을 마친 뒤 김 후보자가 윤석열 전 대통령 장모의 모해위증교사 무혐의 사건에 재기수사 명령을 내려 기소했다는 점 등을 거론하며 해당 주장이 사실이 아니라고 반박했다. 강경파들은 아예 검찰 출신이 중수청장을 맡아서는 안 된다는 논리도 펴고 있다. 하지만 부패와 마약 등 6대 대형 범죄 수사를 맡은 중수청의 성패는 관련 분야에서 축적된 검찰의 수사 역량을 얼마나 안정적으로 이어받느냐에 크게 좌우될 수 있다. 이런 수사 기구의 수장 후",
+      "author": null,
+      "summary": "동아일보가 김지용 중대범죄수사청장 후보자가 검찰 출신이라는 점만으로 배제할 수 없으며, 중수청의 성패는 검찰의 수사 역량을 얼마나 이어받느냐에 달려 있다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "afbc60e4d743",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]은행 4곳 동시다발 개인정보 유출… AI에 뚫렸다면 더 심각",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261002/134779405/2",
+      "publishedAt": "2026-10-02T14:27:00.000Z",
+      "description": "신한, KB국민, 하나은행 등 국내 대형 시중은행 3곳과 지방은행인 BNK부산은행 등 모두 4곳의 은행에서 고객 정보가 동시다발적으로 유출되는 초유의 해킹 사고가 발생했다. 우리은행과 NH농협은행 역시 해킹 공격을 받았으나 아직까지는 정보 유출 피해가 없는 것으로 확인됐다. 과거 은행권의 개인정보 유출은 주로 내부 직원의 일탈이나 외부 업체의 부주의 때문이었다. 하지만 이번엔 인공지능(AI)을 활용한 것으로 추정되는 외부 해커의 직접 침투에 의해 뚫렸다는 점에서 사안이 심각하다.유출 피해가 가장 큰 신한은행(2만5729명)을 비롯해 국민은행(119명), 하나은행(89명), 부산은행(외주직원 11명) 등은 일반 고객이 주로 이용하는 인터넷·모바일뱅킹이 아니라, 상대적으로 보안 관리가 허술한 대출모집인 조회 시스템이나 직원용 업무지원시스템 등 ‘뒷문’을 노출당했다. 공격 과정에서 해커들이 AI 에이전트를 활용한 자동화된 해킹 기법을 동원했을 가능성이 높다고 보안업계는 보고 있다. 실제",
+      "author": null,
+      "summary": "동아일보가 은행 정보 유출이 AI를 활용한 외부 해커의 직접 침투로 추정되며, 보안 관리가 허술한 대출모집인 조회 시스템 등 '뒷문'을 통해 이루어진 것이라고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9cc60ccc951b",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "국민, 지구, 성장을 모두 챙기는 방법이 있다 – '웰빙 경제'",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/02/people-planet-britain-growth-wellbeing-economy",
+      "publishedAt": "2026-10-02T13:01:29.000Z",
+      "description": "Imagine the UK with a 20-year investment plan, with green homes and fast transport. We already have the tools to make it happen You’ve just left school. What’s your future? I know a physics graduate making flat whites; a 30-year-old living in his childhood bedroom who feels like a failure; a lad in Blyth who turned down a job 15 miles away because there’s no bus, and for young people his age car insurance is almost £2,000 a year. Britain’s young people are our greatest resource, and we are failing them because capital markets won’t allocate investment where it is needed. Saying “hope” in a con",
+      "author": "Jamie Driscoll",
+      "summary": "제이미 드리스콜이 20년 장기 투자 계획과 녹색 주택, 빠른 교통으로 영국의 청년 미래를 개선할 수 있다며 웰빙 경제를 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "37ae6b112bde",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "트럼프, 난민들을 고문자의 손에 넘기고 보상을 주다",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/02/trump-refugees-equatorial-guinea-torture",
+      "publishedAt": "2026-10-02T13:00:07.000Z",
+      "description": "Refugees from third countries are being sent to Equatorial Guinea, where they are often sent back to the very countries they fled For nearly a year, the Hotel Bamy in Malabo, Equatorial Guinea, has been Adam’s prison. He is confined alone to a hotel room, under constant watch by the security officers and soldiers of a notoriously oppressive regime who control his movements. Not long ago, they barged into his room, handcuffed and beat him, and warned him not to tell anyone. There is no cell to point to, no charges or formal sentence, and nothing on paper to document his plight. Adam, 26, has ch",
+      "author": "Tutu Alicante and Uzra Zeya",
+      "summary": "투투 알리칸테와 우즈라 제야가 미국이 난민들을 적도기니 같은 제3국으로 송환하며 법적 절차 없이 고문 정권의 손에 넘기는 행위라고 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2edf86cfb446",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "공화당의 대참패를 반기되, 이 두 상원 후보는 살려두자",
+      "link": "https://www.washingtonpost.com/opinions/2026/10/02/republican-midterm-carnage-nears-spare-susan-collins-mike-rogers/",
+      "publishedAt": "2026-10-02T11:27:42.000Z",
+      "description": "It is sensible to hope that on Nov. 3 most of the Republican Party will be smashed to atoms.",
+      "author": "George F. Will",
+      "summary": "조지 윌이 11월 3일 중간선거에서 공화당 대부분이 괴멸되기를 바라는 것이 합리적이라고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e86c9ebf2c66",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "역사상 가장 강력한 기술이다. 위험성을 간과하지 말라",
+      "link": "https://www.washingtonpost.com/opinions/2026/10/02/why-regulating-ai-could-help-america-beat-china/",
+      "publishedAt": "2026-10-02T11:15:00.000Z",
+      "description": "The history of banking and nuclear power suggests safety rules can strengthen rather than cripple American industry.",
+      "author": "Fareed Zakaria",
+      "summary": "파리드 자카리아가 은행과 핵전력의 역사를 들어, 안전 규칙이 미국 산업을 약화시키지 않고 오히려 강화할 수 있다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "eca39c0ebaa9",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[사설]'전두환 내란' 부정한 김태규, 국민 대표 자격 의심스럽다",
+      "link": "https://www.khan.co.kr/article/202610021834001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-10-02T09:34:00.000Z",
+      "description": "국민의힘 김태규 의원이 지난 1일 국회에서 열린 정기국회 제10차 본회의에서 5분 발언을 하고 있다. 연합뉴스김태규 국민의힘 의원이 전직 대통령 전두환씨의 12·12 군사반란 및 5·18 광주민주화운동 유혈진압을 두고 “내란이 아니다”라고 주장해 파문이 일고 있다. 전씨의 헌정질서 유린 행위는 대법원에서 내란 등의 혐의로 무기징역이 확정돼 역사적 평가가 끝···",
+      "author": null,
+      "summary": "경향신문이 김태규 의원이 전두환의 12·12 군사반란과 5·18 광주민주화운동 유혈진압을 '내란이 아니다'라고 주장한 것이 대법원의 역사적 판단을 부정한다고 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "976810900546",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[사설]이 대통령 SNS 소통 활발히 하더라도 표현 정제해야",
+      "link": "https://www.khan.co.kr/article/202610021810001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-10-02T09:10:00.000Z",
+      "description": "이 대통령이 지난 1일 엑스에 작성한 게시글이재명 대통령이 지난 1일 엑스에 지지자 계정 ‘이잼위키’가 올린 정책 성과 소개 글을 공유하면서 “많이들 함께 해주세요. 좌아하게 말입니다”라고 적었다. 생소한 용어인 ‘좌아하게’는 ‘우아하게’라는 말에서 ‘우’를 ‘좌’로 바꾼 것이다. 이 대통령 지지층이 ‘우아하게’라는 뜻에서 사용하는 밈이라고 한다. 이 대통···",
+      "author": null,
+      "summary": "경향신문이 이 대통령이 SNS에서 '좌아하게' 같은 네트 밈을 사용하는 것이 지지층과의 소통은 좋지만 대통령의 표현으로서는 정제되어야 한다고 주장했다.",
+      "summarySource": "llm"
+    }
+  ],
+  "summarizedAt": "2026-10-03T01:00:57.542Z",
+  "summaryStats": {
+    "llm": 50,
+    "fallback": 0,
+    "model": "claude-haiku-4-5"
+  }
+}
