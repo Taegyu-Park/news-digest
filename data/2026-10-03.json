@@ -1,0 +1,898 @@
+{
+  "date": "2026-10-03",
+  "generatedAt": "2026-10-04T00:22:40.489Z",
+  "categories": [
+    {
+      "id": "it",
+      "label": "IT·과학·AI"
+    },
+    {
+      "id": "economy",
+      "label": "경제·금융"
+    },
+    {
+      "id": "politics",
+      "label": "정치·사회"
+    },
+    {
+      "id": "world",
+      "label": "세계·국제"
+    },
+    {
+      "id": "editorial",
+      "label": "사설·칼럼",
+      "opinion": true,
+      "summaryMaxChars": 220
+    }
+  ],
+  "feedStatus": [
+    {
+      "source": "Ars Technica",
+      "category": "it",
+      "ok": true,
+      "matched": 12
+    },
+    {
+      "source": "Hacker News",
+      "category": "it",
+      "ok": true,
+      "matched": 1
+    },
+    {
+      "source": "TechCrunch",
+      "category": "it",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "The Verge",
+      "category": "it",
+      "ok": true,
+      "matched": 7
+    },
+    {
+      "source": "블로터",
+      "category": "it",
+      "ok": true,
+      "matched": 26
+    },
+    {
+      "source": "전자신문",
+      "category": "it",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "ZDNet Korea",
+      "category": "it",
+      "ok": true,
+      "matched": 27
+    },
+    {
+      "source": "BBC Business",
+      "category": "economy",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "The Guardian",
+      "category": "economy",
+      "ok": true,
+      "matched": 22
+    },
+    {
+      "source": "매일경제 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 10
+    },
+    {
+      "source": "연합뉴스",
+      "category": "economy",
+      "ok": true,
+      "matched": 23
+    },
+    {
+      "source": "경향신문 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 10
+    },
+    {
+      "source": "경향신문 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 10
+    },
+    {
+      "source": "노컷뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "서울신문",
+      "category": "politics",
+      "ok": true,
+      "matched": 1
+    },
+    {
+      "source": "연합뉴스 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 54
+    },
+    {
+      "source": "연합뉴스 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 27
+    },
+    {
+      "source": "SBS 뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 13
+    },
+    {
+      "source": "Al Jazeera",
+      "category": "world",
+      "ok": true,
+      "matched": 1
+    },
+    {
+      "source": "BBC World",
+      "category": "world",
+      "ok": true,
+      "matched": 20
+    },
+    {
+      "source": "NPR",
+      "category": "world",
+      "ok": true,
+      "matched": 5
+    },
+    {
+      "source": "The Guardian",
+      "category": "world",
+      "ok": true,
+      "matched": 17
+    },
+    {
+      "source": "연합뉴스 국제",
+      "category": "world",
+      "ok": true,
+      "matched": 81
+    },
+    {
+      "source": "매일경제 증권",
+      "category": "economy",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "경향신문 오피니언",
+      "category": "editorial",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "NYT Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 17
+    },
+    {
+      "source": "The Guardian Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 7
+    },
+    {
+      "source": "Washington Post Opinions",
+      "category": "editorial",
+      "ok": true,
+      "matched": 11
+    },
+    {
+      "source": "동아일보 사설",
+      "category": "editorial",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "동아일보 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 31
+    },
+    {
+      "source": "조선일보",
+      "category": "politics",
+      "ok": true,
+      "matched": 12
+    },
+    {
+      "source": "동아일보 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 32
+    },
+    {
+      "source": "머니투데이",
+      "category": "economy",
+      "ok": true,
+      "matched": 35
+    },
+    {
+      "source": "Wired",
+      "category": "it",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "DW News",
+      "category": "world",
+      "ok": true,
+      "matched": 16
+    }
+  ],
+  "items": [
+    {
+      "id": "559aae7bd25c",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "수중익선으로 해운을 혁신하려는 베셉",
+      "link": "https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/",
+      "publishedAt": "2026-10-03T14:42:00.000Z",
+      "description": "Vessev hopes its electric hydrofoil ferry will change the way people and cities think about boats.",
+      "author": "Tim De Chant",
+      "summary": "베셉이 개발한 전기 수중익선 페리는 거의 물 위를 날아다니는 수준의 성능으로 선박 산업에 대한 인식을 바꾸려 한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "73cf1fef21e2",
+      "category": "it",
+      "source": "The Verge",
+      "region": "intl",
+      "title": "OpenAI 안전담당자의 경고와 사직",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+      "publishedAt": "2026-10-03T14:31:56.000Z",
+      "description": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable if you're feeling a bit cynical about everyone suddenly coming out of the woodwork to warn about how dangerous the thing they helped build is. They did, after all, make this mess. But that doesn't mean we should discount their warnings. Robinson says that the culture in industry is fundamentally broken. That this is a deeper issue than simply slapping a few new rules or regulat",
+      "author": null,
+      "summary": "OpenAI의 안전 보고서 작성자였던 데이비드 로빈슨이 직을 떠났으며, 업계 문화가 근본적으로 깨져 있다고 경고했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8f4f28a2a75a",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "글로벌 통신사 투자, 기지국에서 AI 컴퓨팅으로 향했다",
+      "link": "https://zdnet.co.kr/view/?no=20261003231624",
+      "publishedAt": "2026-10-03T14:17:01.000Z",
+      "description": "[지디넷코리아]5G 구축에 막대한 자금을 쏟았던 글로벌 통신사들의 투자 무게중심이 AI 컴퓨팅 인프라로 빠르게 이동하고 있다. 기지국과 코어망 등 전통적인 통신망 투자는 줄이는 대신 데이터센터와 컴퓨팅 자원을 늘리는 흐름이 뚜렷하다. AI 확산이 통신사의 새로운 사업을 넘어 자본투자 구조까지 바꾸기 시작한 셈이다.시장조사업체 델오로에 따르면 중국 3대 통신사의 올해 컴퓨팅 관련 설비투자(CAPEX)는 전년보다 40% 증가할 것으로 예상된다. 기존 연결성 중심의 통신망 투자는 24% 감소할 것으로 분석됐다.통신사의 투자 중심이 이동하는 배경에는 5G 구축이 성숙 단계에 접어든 반면 AI 서비스 확산으로 컴퓨팅 수요가 급증한 점이 꼽힌다. 실제 중국 통신사들은 서버와 데이터센터 등 AI 연산 인프라에 자금을 집중하고 있다.이를테면 차이나모바일이 올해 통신망 투자를 20% 줄였고 컴퓨팅 인프라 투자는 60% 늘린 것으로 추정된다. 차이나유니콤 역시 올해 전체 설비투자를 줄이는 가운데 약 35%를 컴퓨팅 역량 확충에 배정했다. 차이나텔레콤은 자체 AI 컴퓨팅 용량을 상반기에 24.8EFLOPS 추가해 총 70.8EFLOPS로 늘렸으며, GPU 1만개 규모의 이기종 ",
+      "author": "박수형 기자",
+      "summary": "글로벌 통신사들의 자본투자가 5G 기지국 구축에서 AI 데이터센터로 빠르게 전환되고 있으며, 중국 통신사들의 컴퓨팅 설비 투자는 전년보다 40% 증가할 것으로 예상된다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0e0bd826801c",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "정보보호기업들 '기술로 경쟁하겠다' 선언",
+      "link": "https://zdnet.co.kr/view/?no=20261003224232",
+      "publishedAt": "2026-10-03T13:42:32.000Z",
+      "description": "[지디넷코리아]한국정보보호산업협회(KISIA, 회장 김진수)는 지난 1일 서울 가락동 회의실에서 국내 정보보호기업들과 함께 ‘정보보호산업 공정경쟁 캠페인 선언식’을 개최했다.이번 선언식은 국내 정보보호산업의 지속적인 성장과 경쟁력 강화를 위해 기술력·서비스 품질·신뢰를 중심으로 경쟁하는 건전한 산업 문화를 확산하기 위해 마련됐다.최근 정보보호산업은 고도화하는 사이버 위협에 대응하기 위해 전문 인력 확보와 지속적인 기술개발, 안정적인 서비스 품질의 중요성이 더욱 커졌다. 이러한 산업 특성상 가격 중심 경쟁이 심화할 경우 사업 수행에 필요한 인력과 비용이 충분히 반영되기 어렵고, 장기적으로 기술개발과 서비스 품질 향상을 위한 투자에도 영향을 미칠 수 있다.이에 국내 정보보호기업들이 공정한 경쟁이 기업의 기술 투자와 서비스 품질, 나아가 산업의 지속 가능한 성장으로 이어진다는 데 뜻을 모았다. 이날 참여기업들은 “기술로 경쟁하고, 신뢰로 성장합니다”를 캠페인의 슬로건으로 정하고, 기술과 서비스 가치가 제대로 평가받는 시장환경과 기업 간 상호 존중을 바탕으로 함께 성장하는 산업 문화를 만들어 나갈 것을 '정보보호산업 공정경쟁 실천 선언문' 낭독을 통해 선언했다.실천",
+      "author": "방은주 기자",
+      "summary": "한국정보보호산업협회가 정보보호기업들과 함께 기술·서비스·신뢰를 중심으로 경쟁하는 건전한 산업 문화를 확산하기로 선언했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7034785253d2",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "수중 드론 116대 동시 자율주행…기네스 기록",
+      "link": "https://www.etnews.com/20261002000223",
+      "publishedAt": "2026-10-03T13:30:00.000Z",
+      "description": "수중 드론 116대가 사람의 조종 없이 동시에 움직이며 기네스 세계 기록을 세웠습니다. 중국 서북공업대와 현지 수중 로봇 업체는 수중 드론 'TH-618' 116대를 동시에 운용하는 시험에 성공했습니다. 이번 기록은 기네스 세계기록으로 공식 인증됐습니다. 드론들은 수영장에 투입된 뒤 완전 자율 모드로 전환돼 34분 동안 사전에 설정된 항로를 따라 500m 이상 이동했습니다. 이동 중에는 서로 편대를 유지하고 경로에서 벗어나면 스스로 위치를 수정",
+      "author": "이창민",
+      "summary": "중국 서북공업대와 수중 로봇 업체가 수중 드론 116대를 동시에 자율 운용하는 데 성공했으며, 이는 기네스 세계기록으로 공식 인증되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "aa422811b595",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "카카오뱅크, 잔금대출 승부수…외형 넘어 이익 키울까",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=674949",
+      "publishedAt": "2026-10-03T13:00:00.000Z",
+      "description": "카카오뱅크가 분양잔금대출로 주택담보대출 영업 범위를 넓혔다. 단지별 입주 수요를 확보해 대출 성장을 끌어올릴 수 있지만 금리 경쟁력을 앞세운 상품의 비중이 커지면 전체 마진에는 부담이 생길 수 있다. 새 시장에서 확보한 대출이 수익성으로 이어지는지가 이번 전략의 핵심이다. 금융권에서는 분양잔금대출을 연말 대출 성장의 변수로 보고 있다. 카카오뱅크는 물량 확대보다 비대면 서비스와 안정적인 초기 운영에 집중하겠다는 입장이다. 3일 은행권에 따르면 카카오뱅크는 지난달 16일 분양잔금대출을 출시했다. 취급 대상은 수도권 11곳과 비수도권",
+      "author": "이나리 기자",
+      "summary": "카카오뱅크가 분양잔금대출 상품을 출시해 주택담보대출 사업 범위를 넓혔으며, 물량 확대보다 비대면 서비스와 수익성 개선에 중점을 두고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1b60f80f3f86",
+      "category": "it",
+      "source": "Hacker News",
+      "region": "intl",
+      "title": "슈퍼컴퓨터 역사의 기록, 1963년 CDC 6600 메모",
+      "link": "https://www.computerhistory.org/revolution/supercomputers/10/33/62",
+      "publishedAt": "2026-10-03T12:27:31.000Z",
+      "description": "Article URL: https://www.computerhistory.org/revolution/supercomputers/10/33/62 Comments URL: https://news.ycombinator.com/item?id=49943685 Points: 13 # Comments: 6",
+      "author": "mooreds",
+      "summary": "1963년 작성된 CDC 6600 슈퍼컴퓨터에 대한 Watson Jr.의 메모 원문으로, 초기 슈퍼컴퓨터 개발 과정을 보여주는 컴퓨터 역사 자료이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "615b42e8c188",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "메타의 AI 에이전트 뮤즈, 지인 프로필 생성으로 프라이버시 논쟁",
+      "link": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
+      "publishedAt": "2026-10-03T12:00:00.000Z",
+      "description": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
+      "author": "Lily Hay Newman, Matt Burgess",
+      "summary": "메타의 AI 에이전트 뮤즈가 수백만 번 다운로드되면서 인기를 얻었지만, 사용 과정에서 친구 및 가족의 상세한 프로필을 생성함으로써 프라이버시 문제를 야기했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f42f54107540",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "외골격 기술, 실무에서 가치 입증",
+      "link": "https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/",
+      "publishedAt": "2026-10-03T11:15:33.000Z",
+      "description": "The devices continue to show noticeable benefits for users in various real-world tasks.",
+      "author": "Ildar Farkhatdinov, The Conversation",
+      "summary": "외골격 로봇이 실제 작업에서 사용자들에게 현저한 이점을 제공하는 것으로 입증되었으며, 외골격 기술 시대의 도래를 알리고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a9c04dcd0b55",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "[DB증권 재무체력]① 커진 몸집, 자본 완충력 변수",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=674911",
+      "publishedAt": "2026-10-03T10:00:00.000Z",
+      "description": "DB증권이 지난 10년 동안 자산 외형을 두 배 이상 키운 것으로 나타났다. 자본총계도 함께 늘었지만 차입부채와 발행사채, 금융자산 운용 규모가 동시에 확대되면서 자본 완충력이 감당해야 할 위험도 커졌다. 순자본비율은 개선됐지만 외형 확대 이후 조달과 운용 변동성을 함께 봐야 하는 구조다.3일 DB증권 사업보고서와 반기보고서에 따르면 연결 기준 자산총계는 2017년 말 6조9983억원에서 올해 반기 말 16조382억원으로 늘었다. 같은 기간 자본총계는 7078억원에서 1조4500억원으로 증가했다. 자산은 약 2.3배, 자본은 약 2",
+      "author": "조윤호 기자",
+      "summary": "DB증권이 지난 10년간 자산을 2.3배 늘렸지만, 차입부채와 금융자산 운용 규모의 동시 확대로 자본 완충력이 감당해야 할 위험도 커졌다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "316a4810e598",
+      "category": "economy",
+      "source": "머니투데이",
+      "region": "kr",
+      "title": "홍해 물류 막히자 \"사우디 대공세 며칠내 개시\"…미국은 '후방지원'",
+      "link": "https://www.mt.co.kr/world/2026/10/03/2026100323275764108",
+      "publishedAt": "2026-10-03T14:34:26.000Z",
+      "description": "사우디아라비아와 예멘 정부군이 홍해 해상 무역로를 위협하는 예멘의 친(親)이란 무장세력 후티 반군을 상대로 대규모 지상·공중 작전을 준비 중이고 며칠 안에 실행할 것으로 전해졌다. 미국은 확전 우려를 감안해 정보 제공 등 후방 지원 역할에만 나설 것으로 알려졌다. 3일(현지시간) 로이터 통신 등 주요 외신에 따르면 사우디아라비아는 홍해 연안과 바브엘만데브 해협 일대를 점령한 후티 반군을 퇴출하고 전략 수송로의 제어권을 탈환하기 위해 대규모 군사 작전을 검토·준비하고 있다. 사우디 지휘를 받는 예멘 정부군이 지상 작전을 주도하고 사우디군은 공습으로 지원하는 방안이다. 작전 규모에 따라 예멘 정부군과 친정부 무장세력이 10만명 이상 동원될 수도 있을 것으로 전해진다....",
+      "author": null,
+      "summary": "사우디아라비아와 예멘 정부군이 홍해 해상 무역로를 위협하는 후티 반군을 격퇴하기 위해 며칠 내 대규모 군사 작전을 시행할 예정이며, 미국은 후방 지원에 나설 것으로 알려졌다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6a75cf65796b",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "AI 직업 상실 우려에 대응하는 캘리포니아 신법",
+      "link": "https://www.theguardian.com/technology/2026/oct/03/california-ai-laws-worker-protection",
+      "publishedAt": "2026-10-03T14:00:00.000Z",
+      "description": "The state, which is home to many AI companies, is one of the first to roll out workplace regulations targeting the technology California’s laws aimed at protecting workers from the impacts of artificial intelligence could pave the way for broader workplace safeguards across the US as calls for regulating the technology mount. As the federal government goes hands-off on AI, California is taking the reins to address workers’ biggest fears. On Thursday, California governor Gavin Newsom signed a suite of new laws that ban bosses from relying entirely on AI to decide whether to fire workers, using ",
+      "author": "Danielle Abril",
+      "summary": "캘리포니아 주지사가 AI를 이용한 일방적 해고 결정을 금지하는 법안을 서명했으며, 이는 직장 내 AI 규제의 모범 사례로 주목받을 것으로 예상된다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3ef326d9c15f",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "30분 단축? 점심에 은행창구 더 몰릴텐데…저녁·주말 금융서비스는 어디에",
+      "link": "https://www.mk.co.kr/news/economy/12167852",
+      "publishedAt": "2026-10-03T13:24:24.000Z",
+      "description": "금융노사가 내년 4월부터 은행 점포 영업시간을 30분 단축하기로 잠정 합의하면서 일반 창구 운영시간 외 이용할 수 있는 금융서비스가 주목받고 있다. 일부 은행은 저녁까지 운영하는 ..",
+      "author": "매일경제",
+      "summary": "금융노사가 내년 4월부터 은행 점포 영업시간을 30분 단축하기로 잠정 합의하면서, 저녁·주말 등 기존 영업시간 외 금융서비스 이용 방안이 주목받고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b01bd59f4cdc",
+      "category": "economy",
+      "source": "동아일보 경제",
+      "region": "kr",
+      "title": "1244회 로또 1등 18명 16억씩 받는다…자동 11명·수동 7명",
+      "link": "https://www.donga.com/news/Economy/article/all/20261003/134780756/1",
+      "publishedAt": "2026-10-03T13:15:00.000Z",
+      "description": "3일 제1244회 로또 1등 당첨번호는 ‘1·13·18·26·34·38’로 결정됐다. 보너스 번호는 ‘25’다.당첨번호 6개를 모두 맞힌 1등은 18명이다. 1인당 16억 468만 6625원을 받는다.당첨번호 5개와 보너스 번호를 맞힌 2등은 80명으로 각각 6017만 5749원을 받는다. 당첨번호 5개가 일치한 3등은 3731명으로 1인당 129만 287원을 수령한다.당첨번호 4개를 맞힌 4등은 17만 9216명으로 고정 당첨금 5만 원을 받는다. 당첨번호 3개가 일치한 5등은 284만 8954명으로 고정 당첨금은 5000원이다.1등 당첨자 18명 가운데 11명은 자동, 7명은 수동으로 번호를 선택했다.자동 1등 배출점은 △대박천하복권방(서울 은평구) △복권마트(서울 서대문구) △가로판매대(서울 강동구) △대원슈퍼마켓(부산 수영구) △인생로또(울산 북구) △로또25시(울산 남구) △로또왕대박(경기 화성시) △지제역로또(경기 평택시) △지니로또복권방(경기 오산시) △평촌역",
+      "author": null,
+      "summary": "제1244회 로또 1등이 18명으로 결정되었으며, 각 당첨자는 16억 468만 6625원을 받는다. 당첨자 중 11명은 자동, 7명은 수동으로 번호를 선택했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "917baa740c46",
+      "category": "economy",
+      "source": "머니투데이",
+      "region": "kr",
+      "title": "진흙탕 속 주민들 수해 복구하는데…더러워질까봐? 공무원 '어부바'",
+      "link": "https://www.mt.co.kr/society/2026/10/03/2026100321591614543",
+      "publishedAt": "2026-10-03T13:04:57.000Z",
+      "description": "대구의 수해 복구 현장에서 구청 직원으로 추정되는 남성이 다른 사람에게 업혀 진흙탕을 건너는 모습이 포착돼 논란이 불거졌다. 3일 JTBC '사건반장'에 따르면 지난 8월 말 대구 북구 한 동네의 침수 피해 복구 현장에서 다른 사람에게 업힌 남성이 목격됐다. 침수 당시 해당 지역은 도로 곳곳이 진흙탕으로 변했다. 주민들은 비를 맞으면서 온몸에 진흙을 묻혀가며 복구 작업을 했다. 복구 도중 구청 직원으로 추정되는 사람이 현장에 도착해 진흙을 밟지 않으려고 동행한 사람의 등에 업히는 모습이 포착됐다. 한 주민은 \"공무원이라는 사람이 신발 조금 더러워지는 게 싫다고 업혀 가는 모습을 보니 기가 막혔다\"고 토로했다....",
+      "author": null,
+      "summary": "대구의 수해 복구 현장에서 구청 직원으로 추정되는 남성이 진흙을 밟지 않으려고 동행자에게 업혀가는 모습이 포착되어 논란이 일었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "755802ce7ddd",
+      "category": "economy",
+      "source": "동아일보 경제",
+      "region": "kr",
+      "title": "은행·2금융권 줄줄이 'AI 해킹'에…당국, 내일 全금융사 CEO 긴급대응 회의",
+      "link": "https://www.donga.com/news/Economy/article/all/20261003/134780685/1",
+      "publishedAt": "2026-10-03T12:23:25.000Z",
+      "description": "시중은행에 이어 저축은행과 캐피탈사 등 제2금융권까지 해킹 사고가 잇따르자, 금융당국이 전체 금융회사 최고경영자(CEO)들을 긴급 소집해 전면적인 대응 방안 마련에 착수했다. 3일 금융권에 따르면 금융위원회와 금융감독원은 오는 4일 오후 정부서울청사에서 은행, 금융투자, 보험, 여신전문, 저축은행, 상호금융, 가상자산, 핀테크 등 전 금융권 CEO, 업권별 협회장들과 함께 ‘긴급 상황대응 회의’를 개최한다.이번 회의는 이억원 금융위원장이 직접 주재하며, 이찬진 금융감독원장도 참석하는 것으로 알려졌다. 최근 주요 금융회사들을 대상으로 인공지능(AI) 에이전트를 활용한 신종 사이버 공격과 고객 정보 유출 사고가 이어지자, 당국 차원의 고강도 종합 대책을 마련하기 위해서다. 현재 모든 금융회사는 금융당국의 지침에 따라 IT 전산망 접근통제 및 보안 취약점에 대한 자체 점검에 들어간 상태다.최근 금융권은 해킹 세력의 AI 기반 사이버 공격에 잇따라 노출되며 고객 정보가 유출되는 피해",
+      "author": null,
+      "summary": "금융당국이 AI 에이전트를 활용한 사이버 공격으로 인한 고객 정보 유출 사고 증가에 대응하기 위해 4일 전 금융업권 CEO들을 긴급 소집한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "55f962c8d8ec",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "질산염 제거 베이컨 판매 급증, 건강 우려 반영",
+      "link": "https://www.theguardian.com/food/2026/oct/03/nitrite-free-bacon-sales-consumers-health-risks",
+      "publishedAt": "2026-10-03T12:00:58.000Z",
+      "description": "Shoppers are switching from traditional product despite little evidence alternative is safer Bacon has long been a favourite of carnivores, but there is growing consumer concern about the health risks posed by nitrites, chemicals used to cure meats. While many experts argue there is no evidence processed meat made without nitrites is safer, retailers have responded to consumer concerns by offering “nitrite-free” products to meet demand. Continue reading...",
+      "author": "Sarah Marsh Consumer affairs correspondent",
+      "summary": "영국에서 육포 제조 시 사용되는 질산염 화학물질의 건강 위험 우려로 무질산염 베이컨 판매가 증가하고 있으나, 안전성 향상의 과학적 근거는 부족하다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "acb0944f7568",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "당국, '해킹피해' 2금융권 확산에 내일 全업권 긴급소집",
+      "link": "https://www.yna.co.kr/view/AKR20261003047100002",
+      "publishedAt": "2026-10-03T11:07:06.000Z",
+      "description": "(서울=연합뉴스) 배영경 한지훈 강수련 김지연 강류나 기자 = 금융당국이 오는 4일 전 금융업권 협회장과 침해사고가 발생한 금융사 대표들을 긴급...",
+      "author": "배영경",
+      "summary": "금융당국이 사이버 공격으로 인한 고객 정보 유출 피해가 확산되자, 전 금융업권 협회장과 침해사고 발생 금융사 대표들을 긴급소집했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "4c19b18139b8",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "에너지 요금 위기, 공급사 정부 대책 촉구",
+      "link": "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-03T08:58:44.000Z",
+      "description": "Immediate action is needed to help households struggling with bills this winter, says trade body Energy UK.",
+      "author": null,
+      "summary": "영국 에너지 산업 협회는 겨울철 에너지 요금으로 어려움을 겪는 가구들을 지원하기 위해 정부의 즉시 조치가 필요하다고 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "de45ee52baf2",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "\"평생 월급 500만원, 꿈이 아닙니다\"…연금박사가 공개한 노후 설계법",
+      "link": "https://www.mk.co.kr/news/stock/12167807",
+      "publishedAt": "2026-10-03T08:14:47.000Z",
+      "description": "은퇴 후에도 매달 500만원의 소득을 확보할 수 있을까. 연금 전문가인 이영주 연금박사 대표는 국민연금과 퇴직연금, 개인연금을 적절히 조합하면 충분히 도전해볼 수 있는 목표라고 강..",
+      "author": "매일경제",
+      "summary": "연금 전문가는 국민연금, 퇴직연금, 개인연금을 적절히 조합하면 은퇴 후에도 매달 500만원의 소득 확보가 가능하다고 제시했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a4a217c93ac8",
+      "category": "politics",
+      "source": "노컷뉴스",
+      "region": "kr",
+      "title": "'여기가 좋아요' 부캉이, 그물 넘어 다시 수로로 '유턴'",
+      "link": "https://www.nocutnews.co.kr/news/6586861",
+      "publishedAt": "2026-10-03T14:21:32.000Z",
+      "description": "부산 북항 친수공원에서 열흘 넘게 머물고 있는 상어 '부캉이'를 바다로 돌려보내기 위한 2차 유도 작전 이후 그물이 설치됐지만, 부캉이가 하루 만에 그물을 넘어 수로 안쪽으로 되돌아왔다. 3일 국립수산과학원에 따르면, 이날 정오쯤 부캉이는 전날 구조 작업 당시 수로 출구 앞 150m쯤에 설치된 대형 그물을 위로 넘어 수로 안쪽으로 돌아왔다. 부산해경 등 관계 기관은 전날 부캉이를 먼바다로 돌려보내기 위해 친수공원 수로에서 대형 그물을 이용한 유도 작업을 펼쳤다. 바다로 나가는 수로 출구 방향으로 그물을 끌며 부캉이를 유도했지만, 수로 출구에서 150m 지점에서 부캉이가 더 움직이지 않는 데다 그물이 수로 바닥에 걸리자, 그물을 고정하고 작업을 중단했다. 당국은 애초 부캉이가 수로로 되돌아오지 않도록 그물을 설치한 뒤 자연스럽게 먼바다로 가도록 경과를 지켜본다는 방침이었다. 그러나 이후에도 그물 주변을 배회하던 부캉이는 이날 정오쯤 그물을 넘어 다시 수로 안쪽으로 돌아왔다. 부캉이는 원래 자주 출몰하던 제4 보도교와 제5 보도교 사이 수로에서 모습을 보이고 있다. 부산시와 국립수산과학원 등 관계 기관은 이날 오후에 대책 회의를 열고 앞으로의 대응 방안 등을 논",
+      "author": null,
+      "summary": "부산 북항에서 며칠간 머물던 상어 부캉이가 해경의 구조 작업 후 설치된 그물을 하루 만에 넘어 다시 수로 안쪽으로 돌아왔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f6320fbe72ec",
+      "category": "politics",
+      "source": "SBS 뉴스",
+      "region": "kr",
+      "title": "국힘, 1년 만에 장외집회…민주 \"반민생 정당\"",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008782108",
+      "publishedAt": "2026-10-03T14:12:00.000Z",
+      "description": "국민의힘이 오늘 서울 도심에서 대규모 집회를 열었습니다. '사법파괴, 안보참사'를 주장하며 대여 공세 수위를 끌어올리자, 민주당은 \"당 대표 한 사람을 지키기 위해, 민생을 내팽개치고 거리로 나섰다\"고 비난했습니다.보도에 김진우 기자입니다.",
+      "author": "hitrun@sbs.co.kr (김진우)",
+      "summary": "국민의힘이 '사법파괴, 안보참사'를 주장하며 서울 도심에서 대규모 집회를 열자 민주당은 당 대표를 지키기 위해 민생을 외면했다고 비난했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f36ce0e1df31",
+      "category": "politics",
+      "source": "조선일보",
+      "region": "kr",
+      "title": "이 대통령 사건 재조사, 검사 독립성 위협 우려",
+      "link": "https://www.chosun.com/jp/politics-national-jp/2026/10/03/P4IGR54S5FFX3A5Q2M63JPFXRU/",
+      "publishedAt": "2026-10-03T13:50:32.000Z",
+      "description": "",
+      "author": "パク・ヘヨン 記者",
+      "summary": "이전 대통령 사건의 재조사 과정이 검사의 독립성을 위협할 수 있다는 주장이 제기되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "fb5b827c714f",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "로또 1244회 당첨번호 '1·13·18·26·34·38'···1등 당첨금 16억469만원",
+      "link": "https://www.khan.co.kr/article/202610032135001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-10-03T12:35:00.000Z",
+      "description": "제1244회 로또복권 추첨 결과. 동행복권 홈페이지 갈무리로또복권 운영사 동행복권은 제1244회 로또복권 추첨에서 ‘1·13·18·26·34·38’이 1등 당첨번호로 뽑혔다고 3일 밝혔다. 2등 보너스 번호는 ‘25’다.당첨번호 6개를 모두 맞힌 1등 당첨자는 18명으로, 각 16억469만원을 받는다.당첨번호 5개와 보너스 번호가 일치한 2등은 80명으로 ···",
+      "author": "강한들 기자",
+      "summary": "제1244회 로또복권의 1등 당첨번호는 1·13·18·26·34·38이며, 1등 당첨자 18명이 각 16억469만원을 받게 되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1eb3d4ad68aa",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "여야 대표, '단식 농성' 공공노련 위원장 예방…\"국회가 노력할 것\"",
+      "link": "https://www.donga.com/news/Politics/article/all/20261003/134780678/1",
+      "publishedAt": "2026-10-03T12:16:58.000Z",
+      "description": "여야 대표는 3일 단식 농성 중인 이지웅 전국공공산업노조연맹(공공노련) 위원장을 각각 예방했다. 신현영 더불어민주당 대변인은 이날 오후 브리핑에서 “김민석 당대표가 오늘 단식 6일차에 접어든 이지웅 공공노련 위원장을 예방해 국회가 공공기관 통폐합 과정에서의 어려움을 해결하기 위해 노력할 것이라고 약속했다”고 전했다.신 대변인은 “당대표는 정부가 추진 중인 공공기관 통폐합 과정에서 현장의 의견수렴 및 소통의 미비점들에 대한 의견을 청취하고 단식으로 인한 위원장의 건강 악화를 깊이 우려했다”고 전했다.또 “노정간 협력적 방안이 잘 이뤄질 수 있도록 소통 창구로서의 역할을 약속했다”고 했다.그러면서 “더불어민주당은 이지웅 위원장의 단식이 조속히 마무리될 수 있도록 그리고 관계자들과 협력적 관계를 통해 통폐합 과정이 추진될 수 있게 더 경청하고 소통하겠다”고 덧붙였다. 장동혁 국민의힘 대표는 이지웅 위원장을 만나 “이재명 정부의 모든 정책들은, 일단 우선 해놓고 문제가 생기면 그",
+      "author": null,
+      "summary": "여야 대표가 단식 농성 중인 공공노련 위원장을 예방하여 공공기관 통폐합 과정의 어려움을 해결하겠다고 약속했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "572c350c0159",
+      "category": "politics",
+      "source": "연합뉴스 사회",
+      "region": "kr",
+      "title": "김제 묘지서 불…쓰레기 소각 부주의 추정",
+      "link": "https://www.yna.co.kr/view/AKR20261003049100055",
+      "publishedAt": "2026-10-03T12:06:31.000Z",
+      "description": "(김제=연합뉴스) 김문경 기자 = 3일 오후 2시 9분께 전북 김제시 금산면의 한 묘지에서 불이 나 2시간 5분여 만에 진화됐다.",
+      "author": "김문경",
+      "summary": "전북 김제시의 한 묘지에서 쓰레기 소각 부주의로 인한 화재가 발생했으나 2시간여 만에 진화되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "287c55dfc4e1",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "北, 동해로 탄도미사일 발사…극초음속 중거리 화성-16나 가능성(종합3보)",
+      "link": "https://www.yna.co.kr/view/AKR20261003010753504",
+      "publishedAt": "2026-10-03T12:04:00.000Z",
+      "description": "(서울=연합뉴스) 김철선 기자 = 북한이 김여정 노동당 총무부장의 '남북대화 일축' 반응 하루 만인 3일 동해상으로 탄도미사일을 발사했다.",
+      "author": "김철선",
+      "summary": "북한이 김여정의 남북대화 일축 반응 하루 만에 동해상으로 탄도미사일을 발사했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2bba6fb81a10",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "김여정 \"한·일, 북 미사일 추적 실패…특수 비행방식 우월성 검증\"",
+      "link": "https://www.khan.co.kr/article/202610032103001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-10-03T12:03:00.000Z",
+      "description": "김여정 북한 노동당 총무부장. 조선중앙통신·연합뉴스북한이 3일 탄도미사일 발사 12시간여 만에 ‘중거리 전략미사일’ 발사 훈련을 했다고 공개했다. 기술 우월성으로 인해 한·일 군 당국이 추적에 실패했다고도 주장했다.김여정 노동당 총무부장은 이날 조선중앙통신을 통해 “오늘 새벽 우리나라 동해상으로 전략무기 발사훈련이 진행되었다”고 발표했다.김 부장은 “훈련에···",
+      "author": "강한들 기자",
+      "summary": "북한이 탄도미사일 발사 이후 중거리 전략미사일 발사 훈련을 실시했으며 기술 우월성으로 한·일 군 당국의 추적을 회피했다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6dc4638bce56",
+      "category": "politics",
+      "source": "연합뉴스 사회",
+      "region": "kr",
+      "title": "[동포의 창] 한창우·박상익·김예자·박동우, 첫 세계한민족지도자상 수상",
+      "link": "https://www.yna.co.kr/view/AKR20261003046500371",
+      "publishedAt": "2026-10-03T11:45:54.000Z",
+      "description": "(서울=연합뉴스) 박현수 기자 = 전 세계 한민족 지도자들이 한자리에 모여 재외동포사회의 연대와 차세대 육성 등 한민족 공동체의 미래를 논의했다...",
+      "author": "박현수",
+      "summary": "전 세계 한민족 지도자들이 재외동포사회의 연대와 차세대 육성, 한민족 공동체의 미래 등을 논의하기 위해 한자리에 모였다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "592f92e4a1dd",
+      "category": "politics",
+      "source": "서울신문",
+      "region": "kr",
+      "title": "출범하자마자 '선장' 때리기… 추미애, 김지용 중수청장 임명에 \"등 돌릴 사람\" 맹폭",
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20261003500017",
+      "publishedAt": "2026-10-03T03:28:09.000Z",
+      "description": "김지용 초대 중대범죄수사청장 후보자 임명을 연일 비판해 온 추미애 경기도지사가 중수청 공식 출범 당일 김 후보자를 향한 공세 수위를 최고조로 끌어올렸다. 3일 경기도 등에 따르면 추 지사는 전날 밤 페이스북을 통해 “언제든 국민과 정의에 등을 돌릴 수 있는 자를 왜 개혁의 사명을 띠고 출범하는 배의 선장으로 중용하는가”라며 강도 높게 비판했다. 추 지사는 “내란으로 국헌을 흔든 검찰 세력이 온전히 수사되지도 않은 때에 내란 극복을 해내야 하는 중수청 수장으로는 전혀 적임자가 아니다”라고 주장했다. 추 지사는 최근 이재명 대통령이 김 후보자에 대한 여권 일각의 반발을 두고 “김 후보자는 친윤이 아닌 반윤이며, 문재인 정부 당시 추미애 법무부 장관이 검사장으로 발탁 승진시킨 인물”이라고 해명한 데 대해서도 조목조목 반박했다. 추 지사는 “법무부 장관 시절 차관의 추천으로 검사장으로 발탁했으나, 이후 윤석열 검찰총장에 대한 징계 절차에 돌입하자 차관이 사표를 냈고 김지용 역시 징계 부당 집단 항명에 이름을 올렸다”며 “저의 사람 보는 실력이 형편없었음을 고백하니, 제가 검사장으로 발탁한 것을 그를 신뢰하는 근거로 삼지 말아 달라”고 밝혔다. 앞서 추 지사는 지난 ",
+      "author": "문경근 기자",
+      "summary": "추미애 경기도지사가 중대범죄수사청장 임명자 김지용을 국민과 정의에 등을 돌릴 수 있는 자라 비판하고, 자신의 검사장 발탁이 신뢰의 근거가 되어서는 안 된다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "44e2e2c0a4ea",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "그리스, 귀중한 유물 반환 후 영국의 파르테논 대리석 반환 촉구",
+      "link": "https://www.theguardian.com/world/2026/oct/03/remains-czar-samuel-return-bulgaria-greece-talks",
+      "publishedAt": "2026-10-03T14:46:50.000Z",
+      "description": "Greek PM hopes handover of Tsar Samuel to Bulgaria will persuade Britain that time has come for ‘truth, reason, justice and morality’ In a ceremony replete with the sort of fanfare usually reserved for great events, Greece and Bulgaria have formally exchanged “a treasury” of relics and bones, sealing a cultural deal negotiated over decades. The handover involved priceless religious objects removed from Greece at the height of the first world war, as well as remains thought to belong to Tsar Samuel, Bulgaria’s revered medieval warrior ruler. Continue reading...",
+      "author": "Helena Smith in Athens",
+      "summary": "그리스와 불가리아가 1차 세계대전 당시 반출된 종교 유물과 중세 황제 차르 사무엘의 유해를 교환했으며, 그리스는 영국의 파르테논 대리석 반환을 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "434e3c3f9d48",
+      "category": "world",
+      "source": "Al Jazeera",
+      "region": "intl",
+      "title": "케냐 교통사고로 종교 순례자 포함 17명 이상 사망",
+      "link": "https://www.aljazeera.com/news/2026/10/3/at-least-17-people-mostly-pilgrims-killed-in-kenya-road-crash?traffic_source=rss",
+      "publishedAt": "2026-10-03T14:30:40.000Z",
+      "description": "The multi-vehicle crash occurred in the Salama area, 90km southeast of Nairobi, killing mostly Catholic pilgrims.",
+      "author": null,
+      "summary": "나이로비 남동쪽 살라마 지역에서 다중 차량 충돌이 발생하여 주로 가톨릭 순례자들을 포함한 17명 이상이 사망했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "750d6a1aabd0",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "스페인, 주택 법안 부결로 대규모 시위",
+      "link": "https://www.dw.com/en/spain-massive-protests-after-housing-bills-voted-down/a-79532124?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-10-03T14:18:00.000Z",
+      "description": "Organizers estimated that 500,000 people turned out in the streets of Madrid to demand affordable housing. Similar protests were held in around 50 other Spanish cities.",
+      "author": null,
+      "summary": "저렴한 주택 공급을 요구하는 시위로 마드리드에 50만 명이 거리로 나왔으며, 스페인 전역 50개 도시에서 유사한 시위가 열렸다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "545346ed344d",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "외국인 키이우 떠나라…러, '타격 계속' 또 경고",
+      "link": "https://www.yna.co.kr/view/AKR20261003052600108",
+      "publishedAt": "2026-10-03T14:02:45.000Z",
+      "description": "(이스탄불=연합뉴스) 김동호 특파원 = 러시아 외무부는 3일(현지시간) 우크라이나 수도 키이우에 있는 외국인과 외교관을 상대로 재차 대피를 촉구...",
+      "author": "김동호",
+      "summary": "러시아 외무부는 우크라이나 수도 키이우의 외국인과 외교관들에게 재차 대피를 촉구하며 계속된 타격을 경고했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b8707a06b498",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "브라질, 미국의 선거 개입 지적",
+      "link": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-03T13:52:13.000Z",
+      "description": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
+      "author": null,
+      "summary": "브라질에서 대통령 선거가 예정되어 있으며, 룰라 다 시우바와 자이르 볼소나루가 주권, 안보, 미국과의 관계를 놓고 대립하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "76f7a7d64760",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "예멘 수도서 폭음…사우디 아람코 시설에서도 화염",
+      "link": "https://www.yna.co.kr/view/AKR20261003052200108",
+      "publishedAt": "2026-10-03T13:41:05.000Z",
+      "description": "(이스탄불=연합뉴스) 김동호 특파원 = 예멘 수도 사나에서 사우디아라비아의 공습에 따른 것으로 추정되는 강한 폭음이 관측됐다고 AFP 통신이 3...",
+      "author": "김동호",
+      "summary": "예멘 수도 사나에서 사우디아라비아의 공습으로 추정되는 강한 폭음과 화염이 관측되었으며, 사우디 아람코 시설도 피해를 입었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "faf547d0e8f7",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "스페인 주택 위기로 수만 명 거리 시위",
+      "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-03T13:34:11.000Z",
+      "description": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament.",
+      "author": null,
+      "summary": "정부가 긴급 주택 법안을 의회에 통과시키지 못한 후 스페인 전역 50곳 이상에서 주택 위기 항의 시위가 열렸다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6a9417cb8a59",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "녹색당, 템스강과 동남부 수도국 보상 없는 국유화 촉구",
+      "link": "https://www.theguardian.com/politics/live/2026/oct/03/green-party-conference-zack-polanski-uk-politics-latest-news-updates-labour-conservatives-reform",
+      "publishedAt": "2026-10-03T13:16:31.000Z",
+      "description": "This live blog is now closed, you can find more of our UK political coverage here Ali says Britain is a multiracial, multicultural democracy that needs to protect “everyone’s equal right to belong.” At a time when Britain is facing unprecedented levels of racist violence and intimidation, the country needs leadership. So I’m calling on Andy Burnham to recognise this as a national emergency. Because this is not just a policing problem. It’s a test of whether a diverse democracy can protect the equal right of everyone to belong. People making the journey to the green party because they see we of",
+      "author": "Frances Mao",
+      "summary": "녹색당 부지도자가 템스강과 동남부 수도국의 보상 없는 국유화를 촉구했으며, 다양한 민주주의 사회에서 모두의 평등한 귀속권을 보호해야 한다고 강조했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "4163f0f78185",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "그리스, 불가리아 황제 차르 사무엘의 유해 반환",
+      "link": "https://www.dw.com/en/greece-returns-remains-of-czar-samuel-to-bulgaria/a-79530104?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-10-03T12:17:00.000Z",
+      "description": "A warrior emperor who ruled the Bulgarian Empire in the Middle Ages, Czar Samuel is a symbol of Bulgarian national identity. But his remains have been in Greece for decades – and he is also claimed by North Macedonia.",
+      "author": null,
+      "summary": "불가리아 국가 정체성의 상징인 중세 불가리아 제국의 황제 차르 사무엘의 유해가 그리스에 수십 년간 보관되다가 불가리아로 반환되었으며, 북마케도니아도 소유권을 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6549b4bbe9ba",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "브라질 대선, 룰라 vs 볼소나루 아들의 정치적 재대결",
+      "link": "https://www.npr.org/2026/10/02/nx-s1-5989727/brazil-election-lula-bolsonaro-flavio-democracy",
+      "publishedAt": "2026-10-03T02:57:07.000Z",
+      "description": "Four years after President Lula narrowly defeated Jair Bolsonaro, Brazil is back at the ballot box. This time, Lula faces Bolsonaro's son, Flávio, in a high-stakes rematch.",
+      "author": "Catherine Osborn",
+      "summary": "4년 전 룰라 대통령이 자이르 볼소나루를 간신히 제치고 당선된 지 4년 만에 브라질이 다시 선거를 치르며, 이번엔 룰라가 볼소나루의 아들 플라비우와 고위험 재대결을 펼친다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1bff960066e9",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "조흐란 맘다니(Zohran Mamdani), 세계에 모범을 보이다",
+      "link": "https://www.nytimes.com/2026/10/03/opinion/zohran-mamdani-united-nations.html",
+      "publishedAt": "2026-10-03T14:43:45.000Z",
+      "description": "The New York City mayor has an antidote to globe-spanning distemper.",
+      "author": "Lydia Polgreen",
+      "summary": "필자는 뉴욕시장 조흐란 맘다니(Zohran Mamdani)가 전 지구적 불안정에 대한 해법을 제시할 수 있다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "10b232a18b08",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "존 메이너드 케인즈(John Maynard Keynes)는 AI를 어떻게 볼까?",
+      "link": "https://www.nytimes.com/video/opinion/100000011156856/what-would-john-maynard-keynes-say-about-ai.html",
+      "publishedAt": "2026-10-03T13:41:37.000Z",
+      "description": "Nearly a century ago, John Maynard Keynes predicted technology would revolutionize how we live and work. To find out what he would think of our current A.I. moment, a Princeton economist brought back the legendary thinker using the technology.",
+      "author": "Markus Brunnermeier, Sarah Kramer and Mehron Abdi",
+      "summary": "필자들은 케인즈의 기술 예측과 AI 혁명을 비교하며, AI를 통해 케인즈의 현대적 통찰을 구해보고자 했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "bbfd4c42f3ae",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "트럼프의 전쟁이 이란 극단주의를 강화한다",
+      "link": "https://www.nytimes.com/2026/10/03/opinion/trump-empowers-iranian-extremists.html",
+      "publishedAt": "2026-10-03T12:27:04.000Z",
+      "description": "Threats to withdraw from the Nuclear Nonproliferation Treaty are growing in Tehran.",
+      "author": "Nicholas Kristof",
+      "summary": "필자는 트럼프의 정책이 이란의 극단주의를 강화해 핵비확산조약(NPT) 탈퇴까지 위협하게 한다고 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "347f9d8ebe4f",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "피트 헤그세스(Pete Hegseth)의 종교 십자군, 새로운 단계로",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/03/pete-hegseth-office-of-religious-affairs",
+      "publishedAt": "2026-10-03T12:00:58.000Z",
+      "description": "The US defense secretary who hates ‘beardos, weirdos and wimps’ has announced an Office of Religious Affairs at the Pentagon Apart from money and McDonald’s, there’s nothing Donald Trump seems to love more than a “big, beautiful” wall. The government is currently spending billions of taxpayer dollars to fulfill the president’s fantasy of lining the US-Mexico border with 30ft steel bollard walls and high-tech surveillance. What the Trump administration is apparently not so keen on is the wall of separation between church and state. While the president may hawk bibles as a side hustle, he is not",
+      "author": "Arwa Mahdawi",
+      "summary": "필자는 국방부가 펜타곤에 종교담당국을 신설하는 것이 종교와 국가 분리 원칙을 침해한다고 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f97670b47f09",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "모든 것을 '걸'이라 부르지 말자 - 여성 활동의 젠더화를 멈춰야 한다",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/03/the-hill-i-will-die-on-girl-thing-stop-gendering-infantilising",
+      "publishedAt": "2026-10-03T11:00:57.000Z",
+      "description": "No, I don’t want to go for a girl walk before my girl dinner with my girl mates: I am a grown woman who walks and eats and votes – and, patriarchy, I am on to you This morning, after waking up with my girl cats, I made myself a cup of girl coffee then got stuck into some girl work. I took a break to lift some girl weights, then sent some more girl emails. Finally, after my girl dinner, it was time to get some sleep ahead of another long, hard day of being a girl. I know what you’re thinking: why is this woman so insistent on gendering her unremarkable activities, and infantilising herself when",
+      "author": "Elle Hunt",
+      "summary": "필자는 일상적 활동을 '걸(girl)' 표현으로 젠더화하고 아동화하는 현상을 비판하며, 이것이 부당한 가부장적 문화라고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "448237a9adae",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "AI와 인류의 위협을 통제하기 위하여",
+      "link": "https://www.nytimes.com/2026/10/03/opinion/letters/ai-threats-risks.html",
+      "publishedAt": "2026-10-03T11:00:06.000Z",
+      "description": "Readers respond to an editorial and various articles about how best to avoid catastrophe.",
+      "author": null,
+      "summary": "독자들은 AI와 인류 멸망의 위협을 방지하기 위한 통제 방안에 대해 각자의 의견을 제기했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "074422dd0899",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "낙농 산업의 최적화",
+      "link": "https://www.washingtonpost.com/opinions/2026/10/03/edith-pritchett-cartoon-dairy-cows-farming-livestock-optimization/",
+      "publishedAt": "2026-10-03T10:30:00.000Z",
+      "description": "Traditional Bessie will soon be a thing of the past.",
+      "author": "Edith Pritchett",
+      "summary": "필자는 낙농 산업의 최적화로 인해 전통적인 젖소 사육 모델이 곧 사라질 것이라고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e27d8f955b82",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "강간 문화 속의 사회 - 코넬 대학교(Cornell) 사건이 드러내는 현실",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/03/cornell-rape-case-male-supremacy",
+      "publishedAt": "2026-10-03T10:00:55.000Z",
+      "description": "Public outcry to punish the alleged perpetrators in the Cornell case misses the point – the only solution is political, legal and cultural equality of women Sometimes a story is so so appalling, it captures the public’s attention, including the attention of people who don’t focus on the issue otherwise. Such is the case with the alleged 2024 gang rape at Cornell University. For feminists who focus on violence against women or anyone who has ever cared about campus rape, the claims made in Jane Doe’s civil lawsuit against the alleged perpetrators may be unusual in its severity – but we know the",
+      "author": "Rebecca Solnit",
+      "summary": "필자는 코넬 대학교 성폭력 사건의 처벌도 중요하지만, 근본적 해결은 정치·법·문화적 성평등 실현이라고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5896dc0ff441",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "가격 규제의 폐해는 변하지 않았다",
+      "link": "https://www.washingtonpost.com/opinions/2026/10/03/price-controls-dont-work-that-doesnt-make-them-unpopular/",
+      "publishedAt": "2026-10-03T09:45:00.000Z",
+      "description": "They're still destroying investment and causing shortages around the world.",
+      "author": "Editorial Board",
+      "summary": "편집국은 가격 규제 정책이 투자를 훼손하고 전 세계에서 공급 부족을 초래한다며 시장 자유주의를 옹호했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "85e94e558bd8",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "테네시의 사형 집행 실패, 보수 진영의 맹점을 드러내다",
+      "link": "https://www.washingtonpost.com/opinions/2026/10/02/christa-pike-bungled-execution-shows-death-penalty-cruelty/",
+      "publishedAt": "2026-10-02T22:15:46.000Z",
+      "description": "With the Christa Pike debacle, the state has twice failed to administer lethal injections properly this year.",
+      "author": "Robert Gebelhoff",
+      "summary": "필자는 테네시 주의 크리스타 파이크(Christa Pike) 사형 집행 실패가 보수 진영의 맹점을 드러낸다고 비판했다.",
+      "summarySource": "llm"
+    }
+  ],
+  "summarizedAt": "2026-10-04T00:26:45.614Z",
+  "summaryStats": {
+    "llm": 50,
+    "fallback": 0,
+    "model": "claude-haiku-4-5"
+  }
+}
