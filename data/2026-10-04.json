@@ -1,0 +1,898 @@
+{
+  "date": "2026-10-04",
+  "generatedAt": "2026-10-05T00:28:17.706Z",
+  "categories": [
+    {
+      "id": "it",
+      "label": "IT·과학·AI"
+    },
+    {
+      "id": "economy",
+      "label": "경제·금융"
+    },
+    {
+      "id": "politics",
+      "label": "정치·사회"
+    },
+    {
+      "id": "world",
+      "label": "세계·국제"
+    },
+    {
+      "id": "editorial",
+      "label": "사설·칼럼",
+      "opinion": true,
+      "summaryMaxChars": 220
+    }
+  ],
+  "feedStatus": [
+    {
+      "source": "Ars Technica",
+      "category": "it",
+      "ok": true,
+      "matched": 2
+    },
+    {
+      "source": "Hacker News",
+      "category": "it",
+      "ok": true,
+      "matched": 10
+    },
+    {
+      "source": "TechCrunch",
+      "category": "it",
+      "ok": true,
+      "matched": 4
+    },
+    {
+      "source": "The Verge",
+      "category": "it",
+      "ok": true,
+      "matched": 4
+    },
+    {
+      "source": "블로터",
+      "category": "it",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "전자신문",
+      "category": "it",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "ZDNet Korea",
+      "category": "it",
+      "ok": true,
+      "matched": 21
+    },
+    {
+      "source": "BBC Business",
+      "category": "economy",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "The Guardian",
+      "category": "economy",
+      "ok": true,
+      "matched": 17
+    },
+    {
+      "source": "매일경제 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 23
+    },
+    {
+      "source": "연합뉴스",
+      "category": "economy",
+      "ok": true,
+      "matched": 60
+    },
+    {
+      "source": "경향신문 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 34
+    },
+    {
+      "source": "경향신문 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 32
+    },
+    {
+      "source": "노컷뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 5
+    },
+    {
+      "source": "서울신문",
+      "category": "politics",
+      "ok": true,
+      "matched": 4
+    },
+    {
+      "source": "연합뉴스 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 23
+    },
+    {
+      "source": "연합뉴스 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 42
+    },
+    {
+      "source": "SBS 뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 18
+    },
+    {
+      "source": "Al Jazeera",
+      "category": "world",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC World",
+      "category": "world",
+      "ok": true,
+      "matched": 11
+    },
+    {
+      "source": "NPR",
+      "category": "world",
+      "ok": true,
+      "matched": 5
+    },
+    {
+      "source": "The Guardian",
+      "category": "world",
+      "ok": true,
+      "matched": 12
+    },
+    {
+      "source": "연합뉴스 국제",
+      "category": "world",
+      "ok": true,
+      "matched": 66
+    },
+    {
+      "source": "매일경제 증권",
+      "category": "economy",
+      "ok": true,
+      "matched": 11
+    },
+    {
+      "source": "경향신문 오피니언",
+      "category": "editorial",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "NYT Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "The Guardian Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "Washington Post Opinions",
+      "category": "editorial",
+      "ok": true,
+      "matched": 7
+    },
+    {
+      "source": "동아일보 사설",
+      "category": "editorial",
+      "ok": true,
+      "matched": 12
+    },
+    {
+      "source": "동아일보 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 25
+    },
+    {
+      "source": "조선일보",
+      "category": "politics",
+      "ok": true,
+      "matched": 2
+    },
+    {
+      "source": "동아일보 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 21
+    },
+    {
+      "source": "머니투데이",
+      "category": "economy",
+      "ok": true,
+      "matched": 17
+    },
+    {
+      "source": "Wired",
+      "category": "it",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "DW News",
+      "category": "world",
+      "ok": true,
+      "matched": 14
+    }
+  ],
+  "items": [
+    {
+      "id": "7950990b72fe",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "2.8만 기업에 보안점검 권고…과기정통부-KISA, 해킹 총력 대응",
+      "link": "https://www.etnews.com/20261004000031",
+      "publishedAt": "2026-10-04T14:59:35.000Z",
+      "description": "과학기술정보통신부가 최근 발생한 금융권 해킹 사고 관련 한국인터넷진흥원(KISA)과 긴급 대응체계를 가동한다. 유사 사고 확산을 방지하기 위한 총력 대응 차원이다. 현재 금융권 해킹사고는 금융위원회·금융감독원·금융보안원 중심 조사·대응이 이뤄지고 있다. 과기정통부와 KISA는 유사 공격 민간 분야 확산과 추가 피해 방지를 위한 사이버 위협 대응을 강화하고 있다. 금융권에서 발생한 해킹으로 추가 피해 가능성에 신속 대응할 수 있도록 KISA 인터",
+      "author": "박종진",
+      "summary": "금융권 해킹 사고 대응으로 과기정통부와 한국인터넷진흥원(KISA)이 약 2.8만 기업에 보안점검을 권고하고 민간 분야 사이버 위협 대응을 강화했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a065a84b85ab",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "韓 스타트업 투자, 4년 만에 10조 돌파…AI 반도체·우주항공 쏠림",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=675013",
+      "publishedAt": "2026-10-04T14:00:00.000Z",
+      "description": "올해 3분기 국내 스타트업 누적 투자 금액이 4년 만에 10조원을 돌파하며 투자 빙하기 이전 수준을 회복하고 있다. 전체 투자 건수는 하락세를 이어가고 있으나 인공지능(AI) 반도체와 우주항공 등 딥테크 분야에 자본이 집중되고 있다.​3일 더브이씨(The VC)에 따르면 올해 3분기 국내 비상장 스타트업 및 중소기업 대상 투자 건수는 286건, 투자 금액은 2조2097억원으로 집계됐다.이에 따라 3분기까지의 누적 투자 건수는 854건, 누적 투자 금액은 10조1880억원을 기록했다. 이는 2024년(7조2709억원)과 2025년(7",
+      "author": "최종원 기자",
+      "summary": "올해 3분기 국내 스타트업 누적 투자 금액이 4년 만에 10조원을 넘어섰으며, 인공지능 반도체와 우주항공 등 딥테크 분야에 투자가 집중되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b718070365ef",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "로보파티, IROS에서 고성능 풀스택 오픈소스 휴머노이드 로봇 RP1 공개",
+      "link": "https://zdnet.co.kr/view/?no=20261004221002",
+      "publishedAt": "2026-10-04T13:10:02.000Z",
+      "description": "[지디넷코리아]피츠버그, 2026년 10월 4일 /PRNewswire/ -- 로보파티가 2026년 9월 28일 IROS 2026에서 RP1(ROBOTO 01)을 공개하며 글로벌 데뷔를 알렸다. 2026년 1월 출시하여 GitHub에서 2500개 이상의 스타를 확보한 완전 오픈소스 휴머노이드 프로젝트 RPO(ROBOTO ORIGIN)를 기반으로, 로보파티는 RP1을 연구자, 교육자, 로봇 개발자 및 체화된 AI 팀을 위해 설계된 세계 최초의 고성능 풀스택 오픈소스 이족 보행 휴머노이드 로봇으로 내세우고 있다. （RoboParty’s RP1 humanoid robot on display at IROS 2026） 로보파티의 IROS 부스에서 진행된 'Kick Me' 인터랙티브 시연에서는 방문객들이 로봇을 직접 밀고 발로 찰 수 있었다. RP1은 이러한 외부 충격에도 신속하게 자세를 조정하고 균형을 회복하며 동적 안정성, 기체 성능 및 시스템 수준의 견고성을 입증했다. 이러한 기능은 휴머노이드 로봇 연구개발을 위한 로보파티의 개방형 기반 플랫폼 PartyOS가 뒷받침했다. PartyOS에는 사전에 정의된 동작 궤적에 의존하지 않고 비지도 강화학습을 통해 휴머노이드의",
+      "author": "글로벌뉴스",
+      "summary": "로보파티가 IROS 2026에서 오픈소스 휴머노이드 로봇 RP1을 공개했으며, PartyOS 기반으로 외부 충격에도 자세 조정과 균형 회복 능력을 입증했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "77cde09495fe",
+      "category": "it",
+      "source": "The Verge",
+      "region": "intl",
+      "title": "AirPods Pro 3이 $179로 탁월한 가격에 판매 중",
+      "link": "https://www.theverge.com/gadgets/1004242/airpods-pro-3-amazon-october-prime-day-deal-sale",
+      "publishedAt": "2026-10-04T13:00:00.000Z",
+      "description": "AirPods Pro 3 | Photo by Amelia Holowaty Krales / The Verge It’s been a while since we’ve seen a good discount on the Apple AirPods Pro 3, but like the latest iPad Mini and the M5 MacBook Airs, a great one is happening now for October Prime Day. You can snag a pair of the noise-canceling earbuds that include five ear tip sizes, live translation, and fantastic sound for $179 at Amazon (originally $249). I expect other retailers to offer a similar price in the coming days. This is the first time the price has gone below $190 since Prime Day in June. Since then, Apple launched the AirPods 5, and ",
+      "author": null,
+      "summary": "Apple AirPods Pro 3이 10월 Prime Day에 원가 $249에서 $179로 할인 중이며, 노이즈 캔슬링과 라이브 번역 기능을 갖추고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "bca476fd3463",
+      "category": "it",
+      "source": "Hacker News",
+      "region": "intl",
+      "title": "소비자용 GPU(RTX 4090)에서 Qwen 3.8 Flash Next 125B를 100토큰/초로 실행",
+      "link": "https://github.com/Niko1221/Strata",
+      "publishedAt": "2026-10-04T12:51:53.000Z",
+      "description": "Article URL: https://github.com/Niko1221/Strata Comments URL: https://news.ycombinator.com/item?id=49953495 Points: 573 # Comments: 274",
+      "author": "snehesht",
+      "summary": "Qwen 3.8 Flash Next 모델을 RTX 4090 등 소비자용 그래픽카드에서 100토큰/초 속도로 실행하는 방법이 공개되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "21d6dbdb3c5f",
+      "category": "it",
+      "source": "Hacker News",
+      "region": "intl",
+      "title": "벤처캐피탈리스트 빌 드레이퍼 별세",
+      "link": "https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html",
+      "publishedAt": "2026-10-04T12:21:35.000Z",
+      "description": "https://archive.ph/YRgDY Comments URL: https://news.ycombinator.com/item?id=49953288 Points: 68 # Comments: 17",
+      "author": "bookofjoe",
+      "summary": "벤처캐피탈 투자자로 알려진 빌 드레이퍼가 사망하여 기술 업계의 영향력 있는 인물을 잃었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "4594e1656659",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "경제 전기화, 해결해야 할 어려운 과제들",
+      "link": "https://arstechnica.com/science/2026/10/all-hail-electrification-but-lets-talk-about-the-hard-part/",
+      "publishedAt": "2026-10-04T11:05:53.000Z",
+      "description": "The IEA and climate negotiators want to set a target for shifting the economy to run on electricity.",
+      "author": "Dan Gearino, Inside Climate News",
+      "summary": "국제에너지기구(IEA)와 기후 협상가들이 경제의 전기화를 목표로 설정하려고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8dc55f899963",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "2026년 최고의 사무용 의자 15개",
+      "link": "https://www.wired.com/gallery/best-office-chairs/",
+      "publishedAt": "2026-10-04T11:03:00.000Z",
+      "description": "Upgrade your WFH setup and work in style with these comfy, WIRED-tested seats.",
+      "author": "Julian Chokkattu, Matthew Korfhage",
+      "summary": "WIRED가 70개의 사무용 의자 제품을 직접 테스트하여 최고의 15개 제품을 선정했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "be3ff0ac3ecd",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "과기정통부, 금융권 해킹 대응 긴급 대응 체계 가동",
+      "link": "https://zdnet.co.kr/view/?no=20261004190923",
+      "publishedAt": "2026-10-04T10:09:23.000Z",
+      "description": "[지디넷코리아]과학기술정보통신부(과기정통부)가 최근 발생한 금융권 해킹 사고와 관련해 한국인터넷진흥원(KISA)과 긴급 대응체계를 가동했다. 유사 사고 민간 확산을 방지하기 위한 총력 대응에 나섰다.현재 금융권의 해킹사고는 소관 기관인 금융위원회, 금융감독원, 금융보안원을 중심으로 조사·대응이 이뤄지고 있는데, 과기정통부와 KISA는 유사 공격의 민간 분야 확산 및 추가 피해방지를 위한 사이버위협 대응을 강화했다.4일 과기정통부에 따르면, 금융권에서 발생한 해킹으로 인한 추가 피해 가능성에 신속하게 대응할 수 있게 KISA 인터넷침해대응센터(KISC)의 대응체계를 강화했다. 주요 기업의 홈페이지 등에 대한 모니터링을 강화하고 침해사고 대응인력을 보강하는 한편, 비상출동조를 상시 대기시키는 등 비상 대응체계도 가동했다.또 보호나라와 사이버위협정보 분석 및 공유 체계(C-TAS)를 통해 사이버위협 정보를 제공, 각 기관과 기업이 자체적인 보안조치를 강화도록 3일 안내했다. 'C-TAS'(Cyber Threat Analysis & Sharing)는 사이버 침해사고에 신속하게 대응하기 위해 악성코드, 공격자 인터넷 주소, 최신 사이버위협동향 등을 공유하는 플랫폼으로",
+      "author": "방은주 기자",
+      "summary": "과기정통부가 금융권 해킹 사고 대응으로 한국인터넷진흥원과 긴급 대응체계를 가동하고 사이버 위협 정보를 제공했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7d68a08898b4",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "연방 판사, 차량번호판 인식 시스템 Flock을 '무분별한 대량 감시'로 지적",
+      "link": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+      "publishedAt": "2026-10-03T19:33:15.000Z",
+      "description": "A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant.",
+      "author": "Anthony Ha",
+      "summary": "연방 판사가 영장 없이 차량번호판 인식 시스템 Flock으로 여성을 검색한 경찰 대리인의 행동이 헌법 권리를 침해했다고 판결했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1c5ca8cc4c5b",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "소매업체의 반품 제한 정책은 비용 적립의 표준 원칙을 무시한 결과다",
+      "link": "https://www.theguardian.com/business/2026/oct/04/retailers-returns-small-business",
+      "publishedAt": "2026-10-04T14:00:30.000Z",
+      "description": "A standard business practice offsets future costs by funding a reserve for returns – but many small businesses don’t do it In my 30-plus years of being an accountant I have learned many business lessons from people who were much smarter than me. Jerry Crawford was one of those people. Jerry taught me about product returns. Jerry – who sadly passed away a decade ago – sold carpets wholesale from a nondescript little building in south Jersey. He employed about 50 people and counted many local and national carpet retailers as his customers. When I reviewed Jerry’s books, I noticed a large reserve",
+      "author": "Gene Marks",
+      "summary": "소매업체들이 반품을 어렵게 만드는 정책은 반품 비용을 미리 적립하는 표준 관례를 무시한 결과로, 이는 결국 비즈니스에 손실을 초래한다는 것을 저자의 경험에서 배웠다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "119d8ff76192",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "시가총액 기준 상폐요건 강화에 법원 제동",
+      "link": "https://www.yna.co.kr/view/AKR20261004043100008",
+      "publishedAt": "2026-10-04T13:31:22.000Z",
+      "description": "(서울=연합뉴스) 황철환 기자 = 시가총액 요건 강화를 통한 코스피·코스닥 상장기업 신속퇴출을 추진해 온 금융당국과 한국거래소의 움직임에 법원이...",
+      "author": "황철환",
+      "summary": "금융당국이 시가총액을 기준으로 상장기업의 신속한 퇴출을 추진하려는 움직임에 법원이 비례 원칙에 어긋난다는 이유로 제동을 걸었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "45bdfe53aa72",
+      "category": "economy",
+      "source": "머니투데이",
+      "region": "kr",
+      "title": "평택 공원에서 외국인 10여 명 패싸움, 2명 체포",
+      "link": "https://www.mt.co.kr/society/2026/10/04/2026100422212752856",
+      "publishedAt": "2026-10-04T13:25:54.000Z",
+      "description": "경찰이 경기 평택시 한 공원에서 패싸움을 벌인 외국인 10여명에 대해 추적에 나섰다. 4일 뉴스1·뉴시스와 평택경찰서에 따르면 전날 오후 11시30분쯤 평택시 포승읍 한 공원에서 외국인 다수가 패싸움을 벌이고 있다는 신고가 접수됐다. 현장에 출동한 경찰은 러시아 국적 20대 A씨와 키르기스스탄 국적 20대 B씨 등 2명을 폭력행위 등 처벌에 관한 법률 위반 혐의로 현행범 체포했다. 당시 현장에는 A씨와 B씨를 포함해 10여명이 있었던 것으로 추정된다. 경찰은 현장에서 도주한 나머지 외국인들의 행방을 추적하고 있다. A씨와 B씨는 골절 등 부상을 입고 현재 병원에서 치료 중이다. 경찰은 치료가 끝나는 대로 구체적인 범행 경위를 파악할 예정이다....",
+      "author": null,
+      "summary": "평택시 공원에서 외국인 다수가 패싸움을 벌인 사건으로 러시아와 키르기스스탄 국적자 2명이 폭력행위 혐의로 현행범 체포됐고, 나머지 도주자들의 추적이 진행 중이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b8e4ee4db011",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "X세대가 온라인의 새로운 영향력자들인가",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/04/my-gen-x-peers-influencers",
+      "publishedAt": "2026-10-04T13:00:29.000Z",
+      "description": "Their careers are peaking, they’re rich in money and time – and young people think they’re cool. But maybe it’s not as simple as that ‘Stop sleeping on gen X.” I heard this on TikTok recently. I misinterpreted it, with a guilty start, as: “Stop sleeping, gen X,” because I am 51 (peak X), so always tired; while not sleeping at the time, I may have been resting my eyes. In fact, Joel Marlinarson, a marketing guru, was suggesting my generation have become a powerful, if underrated, force online. Aged between 46 and 61, gen Xers with proper jobs are peaking, career-wise (although it’s a different ",
+      "author": "Emma Beddington",
+      "summary": "46~61세 X세대는 경력이 정점에 달하고 경제적으로 충분하며 젊은 세대들에게 영향력을 행사하는 온라인의 강력하지만 과소평가된 세력으로 평가되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "78f15bc0658f",
+      "category": "economy",
+      "source": "동아일보 경제",
+      "region": "kr",
+      "title": "신지애, 일본오픈우승으로 '커리어 그랜드 슬램' 달성",
+      "link": "https://www.donga.com/news/Sports/article/all/20261004/134784455/1",
+      "publishedAt": "2026-10-04T12:27:00.000Z",
+      "description": "신지애(38)가 일본 여자 오픈 골프 선수권대회정상에 오르며 일본여자프로골프(JLPGA) 투어 ‘커리어 그랜드 슬램’을 달성했다. 신지애는 이날 우승으로 통산 30번째 우승을 달성하며 영구 시드도 획득했다. 신지애는 4일 일본 효고현 다카라즈카 골프 클럽(파70)에서 치러진 일본 여자골프 메이저 대회 일본 여자 오픈 선수권대회 최종일 4라운드에서 4언더파 66타를 쳤다. 최종 합계 11언더파 269타를 기록한 신지애는 지난 8월 미국여자프로골프(LPGA)투어 메이저대회 AIG 여자오픈 우승자인 일본의 구와키 시호와 동타로 정규 홀을 마쳤다. 18번홀(파4)에서 치러진 연장전에서 두 선수는 1, 2차 연장까지 모두 파를 기록해 승부를 가리지 못했다. 그리고 3차 연장에서 신지애가 버디를 낚으면서 파에 그친 구와키를 따돌리고 우승 트로피와 우승 상금 3000만 엔(약 2억5000만 원)을 차지했다.신지애는 이번 시즌 첫 우승과 함께 작년 5월 메이저 대회인 월드 레이디스 챔피언십 살롱파",
+      "author": null,
+      "summary": "신지애가 일본 여자 오픈 선수권대회에서 연장전 끝에 우승하며 JLPGA 투어의 커리어 그랜드 슬램을 달성했고, 통산 30번째 우승 기록을 세웠다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "573836a752bb",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "정부 162조 미래기금 국회 우회 추진에 재경위 반발",
+      "link": "https://www.mk.co.kr/news/economy/12168209",
+      "publishedAt": "2026-10-04T11:06:26.000Z",
+      "description": "정부, 기금 지출 30% 한도 국회의결 없이 사용 추진에 재경위 반발…국감 쟁점으로정부가 도입을 추진 중인 162조원 규모 미래대응기금을 놓고 국회 재정경제기획위원회가 국회의 재정..",
+      "author": "매일경제",
+      "summary": "정부가 162조원 규모의 미래대응기금 지출의 30% 한도를 국회의결 없이 사용하려는 방안에 국회 재정경제기획위원회가 재정 심의권 침해를 우려하며 반발했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b12a5a379e5a",
+      "category": "economy",
+      "source": "동아일보 경제",
+      "region": "kr",
+      "title": "금융권 AI 연쇄해킹, 무차별 동시다발 공격으로 정보 탈취",
+      "link": "https://www.donga.com/news/Economy/article/all/20261004/134782776/1",
+      "publishedAt": "2026-10-04T10:57:00.000Z",
+      "description": "최근 금융권에 확산 중인 연쇄 해킹은 악성코드를 심고 서버를 장악하던 기존 방식에서 벗어나 인공지능(AI)을 활용한 무차별 동시다발적 공격을 통해 상대적으로 취약한 ‘뒷문’을 노렸다. AI의 무수한 반복 작업으로 시간과 비용을 절감한 흔적이 서버에서 발견된 것이다. AI 사이버 위협이 일상화되고 있지만 주요 시중은행들의 대응 역량과 정보 보호 투자는 제자리걸음인 것으로 나타났다. 금융권 AI 해킹으로 대규모 금전 피해가 2차 범죄가 나타나지 않을지 국민들의 불안감이 커지는 가운데, 금융 당국은 연휴에 은행장 등을 소집해 긴급회의를 열었다. ● 악성코드로 서버 장악→무차별 동시다발 공격4일 금융권에 따르면 은행 4곳과 저축은행 2곳, 캐피털사 1곳 등 금융회사 7곳을 대상으로 진행된 외부 공격은 시스템을 장악하지 않고 접속해 조회하는 방식으로 고객과 임직원 등의 정보를 가져간 것으로 파악됐다.신한은행을 공격한 해커는 ‘대출상담사 접수 대출 진행 현황 조회’ 서비스에 고객번호를 무작위로",
+      "author": null,
+      "summary": "금융권의 신규 해킹은 AI를 이용한 무차별 동시다발 공격으로 상대적으로 취약한 시스템 뒷문을 겨냥했으며, 주요 시중은행들의 보안 대응 역량과 보안 투자는 제자리걸음 상태인 것으로 파악됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "cff54ebe15a1",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "외국인 소비 부진으로 K뷰티·K식품 대표주들 주가 조정",
+      "link": "https://www.mk.co.kr/news/stock/12168202",
+      "publishedAt": "2026-10-04T10:14:18.000Z",
+      "description": "‘수출효자’ K소비재 옥석 가리기 외국인 소비부진 우려에 주가 뚝 뷰티 급락불구 수출견조해 ‘맑음’ 식품주는 중국소비 회복이 관건외국인 소비 열풍을 타고 ‘수출주’로 각광받던 ..",
+      "author": "매일경제",
+      "summary": "수출 효자로 각광받던 K소비재 기업들이 외국인 소비 부진 우려로 주가 조정을 받고 있으며, 중국 소비 회복 여부가 향후 이들 종목의 흐름을 결정할 관건이 되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "60e761c6fd26",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "금융권 해킹 대응, 정부 비상체계 가동 기업 보안점검 권고",
+      "link": "https://www.yna.co.kr/view/AKR20261004035700017",
+      "publishedAt": "2026-10-04T09:18:40.000Z",
+      "description": "(서울=연합뉴스) 권하영 기자 = 과학기술정보통신부는 최근 발생한 금융권 해킹 사고와 관련해 한국인터넷진흥원(KISA)과 긴급 대응체계를 가동하...",
+      "author": "권하영",
+      "summary": "과학기술정보통신부가 최근 금융권 해킹 사고에 대응하기 위해 한국인터넷진흥원과 긴급 대응체계를 가동하고 전국 2만8천여 기업에 보안점검을 권고했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1419b548d57e",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "은행권 AI 연쇄해킹, 공격 서버에서 중국어 문자열 발견",
+      "link": "https://www.mk.co.kr/news/economy/12168186",
+      "publishedAt": "2026-10-04T08:55:38.000Z",
+      "description": "금융권 동시해킹 3대 쟁점 ① AI 해킹 첫 공격 막은 우리銀 24시간 감시 AI 방패로 차단 ② AI 해킹 우려 쏟아졌지만 업무망, 상대적 보안 취약 ③ 中 서비스 이용 흔적 발..",
+      "author": "매일경제",
+      "summary": "금융권 AI 해킹 사건에서 공격 서버에 중국어 문자열이 발견됐으며, 상대적으로 보안이 취약한 업무망과 중국 서비스 이용 흔적이 조사의 주요 쟁점으로 부각되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "296503308ed0",
+      "category": "politics",
+      "source": "서울신문",
+      "region": "kr",
+      "title": "국감 전부터 격돌… 與, 조희대 불출석에 동행명령 시사",
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20261005006002",
+      "publishedAt": "2026-10-04T14:50:19.000Z",
+      "description": "野, 지뢰 사고·北포로 등 검증 별러 오세훈·추미애 국감도 격전 전망 이재명 정부 2년 차 국정감사를 통해 더불어민주당은 부진했던 국정 동력 회복을, 국민의힘은 전방위 검증으로 정권의 실정을 낱낱이 알리겠다며 4일 막바지 전략 점검에 나섰다. 국감 첫 주 최대 쟁점으로 꼽히는 6일 대법원 감사에는 민주당이 일반증인 채택을 강행한 조희대 대법원장이 불출석하기로 했다. 조 대법원장은 “현재 제청권 행사와 관련해 고발이 이루어진 상황에서 향후 수사절차가 진행될 가능성도 배제하기 어렵다”는 불출석 사유서를 국회에 제출했다. 이에 법제사법위원회 간사인 김의겸 민주당 의원은 이날 “헌법기관 간 상호존중을 말하며 국회의 헌법상 권한 행사를 거부하는 것이야말로 의무에 반하는 것”이라고 비판했다. 같은 당 서영교 법사위원장은 국회 기자회견에서 동행명령장 발부 가능성도 시사했다. 반면 최은석 국민의힘 원내수석대변인은 “불리한 증인은 빼고, 망신줄 사람은 불러 세우고, 민주당 입맛대로 증인을 골라 세우는 것이 국정감사인가”라며 “조 대법원장을 겁박하기 전에, 자신들이 막아 세운 증인들부터 국민 여러분 앞에 세우기 바란다”고 했다. 정무위는 국민의힘이 ‘게이트’로 규정하고 특검 ",
+      "author": "손지은 기자",
+      "summary": "이재명 정부 2년 차 국정감사를 앞두고 민주당이 일반증인 채택을 강행한 조희대 대법원장의 불출석에 대해 동행명령장 발부를 시사하며 여야가 대립 양상을 보였다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "59d97b991f9b",
+      "category": "politics",
+      "source": "노컷뉴스",
+      "region": "kr",
+      "title": "李대통령 '개혁, 누군가 공격 수단되면 안돼…실제 성과로 이어져야'",
+      "link": "https://www.nocutnews.co.kr/news/6586961",
+      "publishedAt": "2026-10-04T14:42:47.000Z",
+      "description": "이재명 대통령은 4일 \"개혁은 목표이어야지 선명함을 드러내고 주목받고 누군가를 공격하는 수단이어서는 안 된다\"고 밝혔다. 이 대통령은 이날 엑스(X·옛 트위터)에 \"개혁은 국민과 국가를 위해 하는 것이지, 누군가의 정치적 성과와 환호를 위해 하는 것이 아니다\"고 남겼다. 이 대통령은 \"개혁은 민생 개선과 국가 발전에 기여하는 실제 성과로 이어져야지, 눈길을 끌기 위해 과정만 요란해서 성과 창출을 방해해서도 안 된다\"며 \"국민의 삶을 실제로 개선하는 실용 개혁을 흔들림 없이 추진해 가겠다\"고 밝혔다. 이날 이 대통령이 남긴 해당 글을 두고 일각에선 김지용 초대 중대범죄수사청장 후보자 임명 문제를 둘러싼 반응이라는 해석도 나온다. 청와대의 추가 검증과 이 대통령의 설명에도 범여권 강성 지지층의 비판이 지속되는 상황을 다독이기 위한 의도가 담겼단 분석이다.",
+      "author": null,
+      "summary": "이재명 대통령은 개혁이 누군가를 공격하는 수단이 아닌 민생 개선과 국가 발전에 기여하는 실제 성과로 이어져야 한다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e24680982c8b",
+      "category": "politics",
+      "source": "SBS 뉴스",
+      "region": "kr",
+      "title": "北, 극초음속 미사일 시험 발사 공개",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008782777",
+      "publishedAt": "2026-10-04T14:11:00.000Z",
+      "description": "북한이 어제했다고 밝힌 중거리 극초음속 미사일 발사 시험 사진을 공개했습니다. 이 미사일은 괌까지 사정권에 둘 수 있는 걸로 분석됩니다.지뢰 폭…",
+      "author": "stillyoung@sbs.co.kr (최재영)",
+      "summary": "북한이 괌까지 사정권에 둘 수 있는 중거리 극초음속 미사일 발사 시험을 실시하고 관련 사진을 공개했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c6ac01190a8b",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "지금 민둥산엔 억새물결",
+      "link": "https://www.khan.co.kr/article/202610042206005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-10-04T13:06:00.000Z",
+      "description": "개천절 연휴 둘째 날인 4일 강원 정선군 민둥산에 만발한 억새꽃 사이로 탐방객들이 가을 정취를 만끽하고 있다. 민둥산 일대에서 열리는 제31회 민둥산은빛억새축제는 오는 11월8일까지 펼쳐진다.",
+      "author": "정선 | 김정근 선임기자",
+      "summary": "강원 정선군 민둥산의 만발한 억새꽃 사이로 탐방객들이 가을 정취를 만끽하고 있으며 제31회 민둥산은빛억새축제는 11월 8일까지 펼쳐진다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a5bc3592f863",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "北, 적대적 군사 긴장 키우며 남북 단절 추진",
+      "link": "https://www.khan.co.kr/article/202610042203035/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-10-04T13:03:03.000Z",
+      "description": "대화 일축…극초음속 미사일 발사김여정 북한 노동당 총무부장이 서부전선 비무장지대(DMZ) 지뢰 사고에 대응해 낸 두 번째 담화에서 “적은 역시 적”이라며 자신들의 국경선 요새화 추진이 “한국과 마주 설 일이 없게, 들짐승마저도 드나들 수 없게 영영 문을 닫아 매자는 데 목적이 있는 것”이라고 밝혔다. 북한이 ‘적대적 두 국가’ 기조에 따른 남북 간 단절 의···",
+      "author": "김원진 기자",
+      "summary": "북한 김여정 총무부장은 DMZ 지뢰 사고에 대응해 국경선을 요새화함으로써 한국과 마주 설 일이 없게 하려는 것이 목적이라고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "270c7df70d9d",
+      "category": "politics",
+      "source": "연합뉴스 사회",
+      "region": "kr",
+      "title": "떠나지 않는 '부캉이' 식지 않는 인기…누적 방문객 90만명",
+      "link": "https://www.yna.co.kr/view/AKR20261004025001051",
+      "publishedAt": "2026-10-04T11:36:05.000Z",
+      "description": "(부산=연합뉴스) 손형주 기자 = 두차례의 구조 시도에도 수로에 계속 머무는 상어 '부캉이'의 인기가 식을 줄 모르고 있다.",
+      "author": "손형주",
+      "summary": "부산 수로에 계속 머물고 있는 상어 '부캉이'의 인기가 지속되고 있으며 누적 방문객이 90만명을 기록했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f96f82b6b2c0",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "李 '한계 도전한 선수들, 응원한 국민들 모두 주인공'",
+      "link": "https://www.donga.com/news/Politics/article/all/20261004/134783784/2",
+      "publishedAt": "2026-10-04T09:53:00.000Z",
+      "description": "4일 2026 아이치-나고야 아시안게임이 막을 내린 가운데 이재명 대통령은 “정정당당하게 경쟁하고 경기 하나하나에 최선을 다하며 자신의 한계에 도전한 선수들, 승패를 떠나 한마음으로 선수들을 응원한 국민들이 모두 이번 대회를 빛낸 주인공”이라고 했다.이 대통령은 이날 자신의 X(엑스·옛 트위터)에 “41개 종목에서 800여 명의 우리 선수들이 대한민국을 대표해 뜨겁게 뛰었다”며 이 같이 올렸다. 이어 “기쁜 순간도, 아쉬운 순간도 있었다”며 “메달의 색깔과 숫자만으로는 다 헤아릴 수 없는 땀과 노력이 있었을 것”이라고 했다. 이 대통령은 “선수 여러분이 보여주신 열정과 투지가 앞으로 더 큰 꿈을 향해 나아가는 힘이 되길 바란다”며 지도자와 관계자 등에도 감사 인사를 전했다. 그러면서 “대한민국 선수단 여러분, 정말 수고 많으셨다”며 “여러분 모두 대한민국의 자랑스러운 챔피언”이라고 말했다. 아이치·나고야 아시안게임은 이날 폐회식을 끝으로 16일간의 열전을 마감했다. 한국 선수단",
+      "author": null,
+      "summary": "이재명 대통령은 아이치-나고야 아시안게임 폐회를 맞아 자신의 한계에 도전한 선수들과 이를 응원한 국민들이 대회의 주인공이라고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "35f492e2ef97",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "北 '탐지제한·요격불가' 주장에 軍 '한미 자산으로 가능' 반박",
+      "link": "https://www.yna.co.kr/view/AKR20261004029551504",
+      "publishedAt": "2026-10-04T08:33:03.000Z",
+      "description": "(서울=연합뉴스) 김효정 기자 = 국방부는 최근 북한이 발사한 극초음속 주장 미사일은 한미 방어자산으로 충분히 탐지·요격 가능한 수준이라고 4일...",
+      "author": "김효정",
+      "summary": "국방부는 북한의 극초음속 미사일이 탐지 불가능하다는 주장에 대해 한미 방어자산으로 충분히 탐지·요격이 가능한 수준이라고 반박했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "db3cf56d55c3",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "국힘, 싱가포르영화제 '암살자(들)' 상영철회 추진",
+      "link": "https://www.yna.co.kr/view/AKR20261004026751001",
+      "publishedAt": "2026-10-04T08:17:40.000Z",
+      "description": "(서울=연합뉴스) 이정현 박경준 이율립 기자 = 국민의힘은 4일 싱가포르국제영화제에 육영수 여사 피격 사건을 다룬 영화 '암살자(들)'의 개막작...",
+      "author": "박경준",
+      "summary": "국민의힘은 싱가포르국제영화제에서 육영수 여사 피격 사건을 다룬 영화 '암살자(들)'의 개막작 상영 철회를 추진했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ec58d9390805",
+      "category": "politics",
+      "source": "조선일보",
+      "region": "kr",
+      "title": "군면제 실언 국대 3인 사과문 '국방 의무 다하는 분들께 죄송'",
+      "link": "https://www.chosun.com/sports/sports_special/2026/10/04/26L45C67DZC2FCVR7TIW7CE7MA/",
+      "publishedAt": "2026-10-04T07:07:38.000Z",
+      "description": "",
+      "author": "강우석 기자",
+      "summary": "아시안게임 국대 선수 3명이 군면제 관련 실언으로 국방 의무를 다하는 국민들에게 사과했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "bcc9f8a73418",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "젤렌스키 \"美, 10월 중 러·우크라와 3자 평화회담 개최 제안\"",
+      "link": "https://www.yna.co.kr/view/AKR20261004043900108",
+      "publishedAt": "2026-10-04T14:50:19.000Z",
+      "description": "(이스탄불=연합뉴스) 김동호 특파원 = 미국이 러시아와 우크라이나 사이에서 중재하는 평화 회담을 이달 내로 개최하는 방안을 제안했다고 볼로디미르...",
+      "author": "김동호",
+      "summary": "미국이 10월 중 러시아와 우크라이나 사이에서 중재하는 3자 평화 회담을 개최하는 방안을 제안했다고 젤렌스키가 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "52f5f4ef249d",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "프랑스 교육장관, 학생 시위로 월요일 500개교 폐쇄 예고",
+      "link": "https://www.theguardian.com/world/live/2026/oct/04/friedrich-merz-german-chancellor-ukraine-kyiv-russia-strikes-war-zelenskyy-putin-europe-latest-news-updates",
+      "publishedAt": "2026-10-04T14:35:31.000Z",
+      "description": "At least 5,000 people, mainly teenagers, have been arrested while dozens of people, including students and teachers, have been injured Germany is Ukraine’s largest donor and has sent Kyiv more than €43.3 billion ($48.8 billion) since the war began, along with equipment and weapons. Zelenskyy thanked Merz for visiting the Ukrainian capital describing him as “A leader of a country that consistently demonstrates leadership in protecting the lives of Ukrainians from Russian strikes. We are grateful for all the support, and today we are preparing decisions to give us in Ukraine, and all of Europe, ",
+      "author": "Frances Mao",
+      "summary": "학생 시위로 프랑스의 최대 500개 학교가 월요일 전면 또는 부분 폐쇄될 예정이며, 시위 과정에서 5,000명 이상이 체포되고 여러 명이 부상했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "33c0df19a3ed",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "열악한 교육환경에 뿔난 佛고교생 시위 들불…\"500개교 휴업\"",
+      "link": "https://www.yna.co.kr/view/AKR20261004043600098",
+      "publishedAt": "2026-10-04T14:31:37.000Z",
+      "description": "(브뤼셀=연합뉴스) 현윤경 특파원 = 열악한 교육환경에 분노해 들고 일어난 고등학생들의 시위가 좀처럼 진정 기미를 보이지 않으면서, 전면 또는 ...",
+      "author": "현윤경",
+      "summary": "교육 환경 악화에 항의하는 프랑스 고등학생들의 시위가 확산되어 500개 학교의 전면 또는 부분 폐쇄가 예정되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3dd9ea09fcbd",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "러시아의 키예프 다리 공격",
+      "link": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-04T14:25:32.000Z",
+      "description": "BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.",
+      "author": null,
+      "summary": "BBC 우크라이나 특파원이 러시아의 키예프 북쪽 다리에 대한 2일 연속 공격 현장을 취재했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "eb683dcbe396",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "공습 중 독일 메르츠 총리 키예프 방문, 러시아와의 전쟁 종료 촉구",
+      "link": "https://www.dw.com/en/germany-s-merz-visits-kyiv-as-russia-strikes-bridge/a-79534734?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-10-04T14:24:00.000Z",
+      "description": "As air raid sirens sounded in Kyiv, Chancellor Merz called on President Putin to end his \"senseless war\" and announced new measures to support Ukraine, including plans for joint Ukrainian-German drone production.",
+      "author": null,
+      "summary": "공습 경보 중 독일의 메르츠 총리가 키예프를 방문해 푸틴의 전쟁 종료를 촉구하고 우크라이나-독일 드론 공동 생산 등 지원 방안을 발표했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0dc9ce8f281f",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "호주의 이민 제한이 경제에 미칠 영향, 캐나다 사례로 살펴보다",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/05/canada-migration-technical-recession-economy-lessons-for-australia",
+      "publishedAt": "2026-10-04T14:00:32.000Z",
+      "description": "Annual population growth for the North American nation has slowed to just 0.5% – and the economy is ‘adjusting’ Get our breaking news email, free app or daily news podcast Would slashing net overseas migration “trash the economy” or deliver the necessary population “reset” to restore Australia’s stagnant living standards? Labor and an ascendant One Nation have presented starkly different visions of what a migration program in the national interest looks like. Continue reading...",
+      "author": "Patrick Commins",
+      "summary": "호주가 해외 이민 규모를 대폭 축소할 경우 경제와 생활수준에 미칠 영향을 놓고 논쟁이 벌어지고 있으며, 캐나다의 인구 감소 사례가 참고 자료가 될 수 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f833f7fdd34b",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "트럼프, 백악관 AI 태스크포스 주도자 임명",
+      "link": "https://www.dw.com/en/trump-names-ai-czar-to-head-white-house-task-force/a-79537966?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-10-04T13:34:00.000Z",
+      "description": "US President Donald Trump has chosen members to lead a new AI task force to coordinate the administration's response to the rapidly evolving technology.",
+      "author": null,
+      "summary": "미국의 트럼프 대통령이 급속히 발전하는 인공지능 기술에 대응하기 위해 백악관 AI 태스크포스를 이끌 지도자들을 임명했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "67a5970673c0",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "에티오피아 반군세력, 티그레이 지역 수도에서 철수",
+      "link": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-04T13:33:05.000Z",
+      "description": "Two residents in Mekelle tell the BBC pro-government forces have taken control of the city.",
+      "author": null,
+      "summary": "에티오피아의 티그레이 지역 수도 멕켈레에서 반군세력이 철수하고 정부군이 도시 통제권을 장악했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5a9459aa5bc8",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "Fox News 우크라이나 전쟁 취재 중 사망한 기자 가족, 네트워크 제소",
+      "link": "https://www.npr.org/2026/10/04/nx-s1-5737621/fox-news-ukraine-deaths",
+      "publishedAt": "2026-10-04T10:00:00.000Z",
+      "description": "The family members of two Fox News journalists killed while covering the war in Ukraine are suing the network, saying it put getting the story ahead of its people.",
+      "author": "David Folkenflik",
+      "summary": "우크라이나 전쟁 취재 중 사망한 Fox News 기자 2명의 가족이 네트워크를 상대로 소송을 제기하며, 뉴스 획득을 기자 안전보다 우선시했다고 비난했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7332fdc4d486",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "브라질 선거, 트럼프의 영향력에 대한 투표로 해석",
+      "link": "https://www.npr.org/2026/10/03/nx-s1-5989699/for-some-brazilians-this-election-is-a-vote-on-trump",
+      "publishedAt": "2026-10-03T21:57:36.000Z",
+      "description": "President Trump says he's been having success winning races in Latin America. As Brazilian voters go to the polls, they're also deciding how much influence Trump should have in their country.",
+      "author": "Tara Neill",
+      "summary": "브라질 총선에서 유권자들이 국내 정치뿐 아니라 트럼프의 라틴아메리카 영향력 확대에 대한 입장을 표현하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "75587938bf62",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]北 지뢰에 막말, 미사일… 불안한 시험대 오른 페이스메이커",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261004/134784128/2",
+      "publishedAt": "2026-10-04T14:30:00.000Z",
+      "description": "북한이 3일 중거리 극초음속 미사일을 동해로 발사했다. 미사일 발사를 참관한 김정은 북한 국무위원장은 핵 억제력 고도화를 중단 없이 계속해야 한다고 했다. 하루 전에는 김 위원장의 여동생 김여정이 나서 ‘지뢰 폭발 자작극’ 운운하는 막말로 이재명 대통령의 남북 대화 복원 제의를 거부했다. 이번에는 고속·변칙 비행으로 탐지와 요격이 어려운 극초음속 미사일을 쏘는 도발을 감행한 것이다. 사거리가 최대 3000km인 중거리탄도미사일은 서태평양 괌의 미군 전력까지 타격할 수 있다. 이날 발사는 도널드 트럼프 미국 대통령이 연일 북-미 대화 가능성을 흘리는 상황에서 나왔다. 트럼프 대통령은 3일에도 핵무기를 가진 김 위원장과 잘 지내고 있다고 언급했다. 북한은 올해만 15차례 미사일을 발사했다. 지난해 6차례보다 횟수가 크게 늘었다. 트럼프 1기 때도 북한은 2017년 도발 수위를 높였고, 이듬해 북-미 회담이 성사됐다. 극초음속 미사일 발사는 대미 긴장을 높여 더 큰 보상을 받아내려는 몸",
+      "author": null,
+      "summary": "북한의 잇따른 미사일 도발과 강경 입장이 트럼프 대통령의 대화 가능성 제시와 겹치면서 한반도 긴장을 높이고 있다고 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6b1c1f670ff8",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]2금융권까지 동시다발 해킹… '정보 짜깁기' 2차 피싱 막아야",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261004/134784132/2",
+      "publishedAt": "2026-10-04T14:27:00.000Z",
+      "description": "지난달 28일부터 신한, KB국민, 하나, BNK부산은행에 이어 예가람저축은행, 웰컴저축은행, 현대캐피탈 등 제2금융권까지 동시다발적 해킹 공격을 받고 고객, 임직원 개인정보가 유출됐다. 우리은행과 NH농협은행까지 국내 5대 은행이 모두 해킹 공격을 받았지만, 일부 금융사는 공격과 피해 사실을 수십 시간이 지나서 알아차릴 정도로 정보보안이 허술했다. 이번 공격은 외부망과 연결되고 상대적으로 보안이 취약한 대출모집인이나 직원용 업무 지원 시스템을 표적으로 삼았다. 다수의 시스템에 접근해 무작위 입력으로 고객 번호를 확보하고 정보를 빼내는 단순 반복 공격을 동시다발적으로 시도했다. 과거처럼 특정 회사의 서버에 몰래 악성코드를 심어 정보를 대량으로 빼가는 표적 공격 수법과 달랐다. 특히 이번 침투 과정에서 인공지능(AI) 에이전트가 활용된 정황도 드러나고 있다. 신종 해킹 위협의 취약점이 드러난 만큼 대비가 필요하다. 지난해부터 SK텔레콤, 쿠팡, 티빙 같은 대형 플랫폼에서 수천만",
+      "author": null,
+      "summary": "금융사들이 동시다발 해킹 공격으로 고객 정보가 유출된 만큼, AI 기반 신종 해킹 위협에 적극 대비해야 한다고 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5912bc4f1b0c",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "Z세대 학생들을 매료시키는 킹제임스 성경",
+      "link": "https://www.nytimes.com/2026/10/04/opinion/bible-gen-z-king-james.html",
+      "publishedAt": "2026-10-04T14:24:09.000Z",
+      "description": "The King James Version is a master class in cooperative intellectual struggle.",
+      "author": "Pasquale S. Toscano",
+      "summary": "킹제임스 성경(King James Version)이 지적 협력과 투쟁의 모범을 보여주는 교과서 역할을 한다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "eec53001d6fd",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "메트 갈라는 밥 매키처럼 화려한 재출발이 필요하다",
+      "link": "https://www.nytimes.com/2026/10/04/opinion/met-gala-bob-mackie-john-galliano.html",
+      "publishedAt": "2026-10-04T14:19:55.000Z",
+      "description": "“Bob did costumes, and fashion people looked down on him for some reason.”",
+      "author": "David Colman",
+      "summary": "밥 매키(Bob Mackie)의 의상 디자인이 패션 업계로부터 부당하게 저평가받았으며, 메트 갈라의 정체성 재정립이 시급하다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "eed25b766a92",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "답을 얻기는 쉽지만, 불확실성 속에서 지혜를 찾는다",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/05/making-sense-of-it-sitting-with-uncertainty-can-ultimately-bring-wisdom",
+      "publishedAt": "2026-10-04T14:00:30.000Z",
+      "description": "Even the greatest prophets had questions but they learned to wait to see the full picture We live in an age that has become profoundly uncomfortable with not knowing. A delayed email reply becomes a source of anxiety. A medical symptom is immediately searched online. We refresh news feeds, ask AI for instant explanations, and expect the answers to life’s biggest questions to arrive at the same speed as food deliveries. Continue reading...",
+      "author": "Muhammad Abdulsater",
+      "summary": "현대 사회가 즉각적인 답을 추구하지만, 불확실성을 마주하고 기다리는 태도가 더 큰 지혜로 이어질 수 있다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c4c154944351",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "웨일스 분권 투쟁: 스코틀랜드처럼 대우받아야 한다",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/04/demands-welsh-devolution-scotland-andy-burnham",
+      "publishedAt": "2026-10-04T12:21:16.000Z",
+      "description": "Andy Burnham is a Westminster leader whom Welsh nationalists could finally work with - but only if he stands up to the devo-sceptics in UK Labour As I sat in the first Plaid Cymru conference since the party won the Welsh election and started leading the Welsh government, I heard things I had never heard before. I have been to a lot of Plaid conferences and not once have I heard people being really positive about a UK Labour leader. But there was no mistaking it: the Welsh nationalist party feels that Andy Burnham is a man it can work with. When I interviewed Welsh first minister Rhun ap Iorwer",
+      "author": "Will Hayward",
+      "summary": "웨일스가 스코틀랜드 수준의 분권을 요구하며, 앤디 번햄 영국 노동당 지도자가 이를 뒷받침하고 분권 회의론자들에 맞서야 한다고 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ad0a8f61d2e4",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "고양이가 개를 능가할까?",
+      "link": "https://www.washingtonpost.com/opinions/interactive/2026/10/04/what-new-cat-ownership-data-says-about-americans/",
+      "publishedAt": "2026-10-04T11:30:00.000Z",
+      "description": "New trends in pet ownership reflect the state of the U.S. economy.",
+      "author": "Robert Granader",
+      "summary": "미국 내 애완동물 소유 추세의 변화가 현재의 경제 상황을 반영하고 있다고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f143e92911d4",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "AI로 죽은 자를 되살릴 수 있을까",
+      "link": "https://www.washingtonpost.com/opinions/2026/10/04/using-ai-grief-tech-is-playing-with-fire/",
+      "publishedAt": "2026-10-04T11:15:00.000Z",
+      "description": "Grief and technology is a classic combination. But it’s also playing with fire.",
+      "author": "Sherry Turkle",
+      "summary": "인공지능이 죽은 사람을 추도하는 데 활용될 수 있지만, 슬픔과 기술의 결합은 위험한 도박이 될 수 있다고 경고했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f60bd18a8d49",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[미디어세상]역사적 사건이란 영원한 떡밥",
+      "link": "https://www.khan.co.kr/article/202610042007015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-10-04T11:07:01.000Z",
+      "description": "차라리 잘됐다. 이참에 다 꺼내놓고 이야기해보자. 영화 을 둘러싼 논쟁이 산을 넘어 안드로메다로 가는 걸 보니, 역사적 사건의 재현이야말로 최대의 떡밥이 되는구나 싶다. 영화든 다큐든, 기사든 논문이든 할 것 없이 그렇다.일단 인터넷에서 1993년 ‘월간조선’ 4월호를 검색해서 이정훈의 ‘문세광의 비밀’이란 기사를 읽어보자. 이 글···",
+      "author": "이준웅 서울대 언론정보학과 교수",
+      "summary": "역사적 사건을 소재로 한 영화나 미디어 콘텐츠가 영원한 논쟁의 주제가 되며, 이를 통해 다양한 해석과 담론을 계속 생성한다고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "94acdabf2c54",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[정동칼럼]'중국 변수'를 놓치고 있다",
+      "link": "https://www.khan.co.kr/article/202610042007005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-10-04T11:07:00.000Z",
+      "description": "9월 말 미·중 정상회담이 끝났다. 언론은 ‘맹탕 회담’ ‘전술적 휴전’ 등으로 평가했지만, 달라진 미·중관계의 한 단면을 보여주기에 충분했다. 11년 만에 미국을 국빈방문한 시진핑 주석은 대만 문제는 더 이상 협상 의제가 아닌 ‘핵심 이익 중의 핵심’이라는 점을 분명히 했다. 아울러 미·중관계를 미국이 주장한 ‘전략 경쟁’이 아니라 자국의 ‘건설적 전략 ···",
+      "author": "이희옥 성균관대 정치외교학과 명예교수",
+      "summary": "미·중 정상회담에서 시진핑이 대만을 협상 의제가 아닌 핵심 이익으로 강조한 것처럼, 한국이 국제 정세 변화 속 중국의 영향력을 충분히 고려하지 못하고 있다고 지적했다.",
+      "summarySource": "llm"
+    }
+  ],
+  "summarizedAt": "2026-10-05T00:32:35.562Z",
+  "summaryStats": {
+    "llm": 50,
+    "fallback": 0,
+    "model": "claude-haiku-4-5"
+  }
+}
