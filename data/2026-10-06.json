@@ -1,0 +1,898 @@
+{
+  "date": "2026-10-06",
+  "generatedAt": "2026-10-07T01:13:59.267Z",
+  "categories": [
+    {
+      "id": "it",
+      "label": "IT·과학·AI"
+    },
+    {
+      "id": "economy",
+      "label": "경제·금융"
+    },
+    {
+      "id": "politics",
+      "label": "정치·사회"
+    },
+    {
+      "id": "world",
+      "label": "세계·국제"
+    },
+    {
+      "id": "editorial",
+      "label": "사설·칼럼",
+      "opinion": true,
+      "summaryMaxChars": 220
+    }
+  ],
+  "feedStatus": [
+    {
+      "source": "Ars Technica",
+      "category": "it",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "Hacker News",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "TechCrunch",
+      "category": "it",
+      "ok": true,
+      "matched": 5
+    },
+    {
+      "source": "The Verge",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "블로터",
+      "category": "it",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "전자신문",
+      "category": "it",
+      "ok": true,
+      "matched": 22
+    },
+    {
+      "source": "ZDNet Korea",
+      "category": "it",
+      "ok": true,
+      "matched": 23
+    },
+    {
+      "source": "BBC Business",
+      "category": "economy",
+      "ok": true,
+      "matched": 12
+    },
+    {
+      "source": "The Guardian",
+      "category": "economy",
+      "ok": true,
+      "matched": 17
+    },
+    {
+      "source": "매일경제 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 44
+    },
+    {
+      "source": "연합뉴스",
+      "category": "economy",
+      "ok": true,
+      "matched": 49
+    },
+    {
+      "source": "경향신문 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 43
+    },
+    {
+      "source": "경향신문 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 45
+    },
+    {
+      "source": "노컷뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "서울신문",
+      "category": "politics",
+      "ok": true,
+      "matched": 11
+    },
+    {
+      "source": "연합뉴스 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 5
+    },
+    {
+      "source": "연합뉴스 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 90
+    },
+    {
+      "source": "SBS 뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "Al Jazeera",
+      "category": "world",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC World",
+      "category": "world",
+      "ok": true,
+      "matched": 17
+    },
+    {
+      "source": "NPR",
+      "category": "world",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "The Guardian",
+      "category": "world",
+      "ok": true,
+      "matched": 11
+    },
+    {
+      "source": "연합뉴스 국제",
+      "category": "world",
+      "ok": true,
+      "matched": 59
+    },
+    {
+      "source": "매일경제 증권",
+      "category": "economy",
+      "ok": true,
+      "matched": 33
+    },
+    {
+      "source": "경향신문 오피니언",
+      "category": "editorial",
+      "ok": true,
+      "matched": 11
+    },
+    {
+      "source": "NYT Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "The Guardian Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 13
+    },
+    {
+      "source": "Washington Post Opinions",
+      "category": "editorial",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "동아일보 사설",
+      "category": "editorial",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "동아일보 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 35
+    },
+    {
+      "source": "조선일보",
+      "category": "politics",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "동아일보 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "머니투데이",
+      "category": "economy",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "Wired",
+      "category": "it",
+      "ok": true,
+      "matched": 25
+    },
+    {
+      "source": "DW News",
+      "category": "world",
+      "ok": true,
+      "matched": 16
+    }
+  ],
+  "items": [
+    {
+      "id": "784423386ef8",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "[현대모비스 재편 셈법]① '램프' 매각 달라진 기업가치, 거버넌스 영향은",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=674926",
+      "publishedAt": "2026-10-06T14:59:10.000Z",
+      "description": "현대자동차그룹의 사실상 지주사 역할을 하는 현대모비스가 자동차용 램프사업을 매각한 뒤 고부가사업으로 포트폴리오 재편을 꾀한다. 램프사업을 떼어내고 전장·전동화·차량용 반도체·로보틱스 등 미래 사업의 비중을 높이는 방향이다.이번 거래 자체가 현대차그룹의 순환출자 구조를 바꾸는 것은 아니다. 물적분할 전후 현대모비스 주주의 지분율은 그대로 유지된다.다만 매각 이후 현대모비스의 기업가치가 달라지면 영향이 있을 수 있다. 현대모비스의 가치 변화는 그룹 지배구조를 손질할 때 적용되는 상대가치와 지분 확보 비용에 영향을 미친다. 일부에서는 현",
+      "author": "나영찬 기자",
+      "summary": "현대자동차그룹의 사실상 지주사 역할을 하는 현대모비스가 자동차용 램프사업을 매각한 뒤 고부가사업으로 포트폴리오 재편을 꾀한다. 램프사업을 떼어내고 전장·전동화·차량용 반도체·로보틱스 등 미래 사업의 비중을 높이는 방향이다.이번 거래 자체가 현대차그룹의 순환출자 구조를 바꾸는 것은 아니다.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "9c43780395ea",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "삼성화재, 기본자본 K-ICS 반년새 49%p↑…자본 효율화 잇는다",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=675087",
+      "publishedAt": "2026-10-06T14:47:35.000Z",
+      "description": "삼성화재의 기본자본 신지급여력제도(K-ICS) 비율이 6개월 만에 50%p 가까이 상승했다. 지급여력금액인 가용자본 가운데서도 기본자본이 15조원 넘게 늘어난 결과다. 특히 증가분 대부분이 금융자산 평가이익 변동이 반영되는 기타포괄손익누계액에서 발생했다.보험 영업에서 축적한 이익만으로 자본이 늘어난 것이 아니라 금융자산의 평가가치 변화가 자본 증가에 크게 작용했다는 의미다. 6일 삼성화재에 따르면 상반기 말 기본자본 K-ICS 비율은 220.16%다. 지난해 말 170.72%에서 49.44%p 상승했다. 같은 기간 전체 K-ICS",
+      "author": "박준한 기자",
+      "summary": "삼성화재의 기본자본 신지급여력제도(K-ICS) 비율이 6개월 만에 50%p 가까이 상승했다. 지급여력금액인 가용자본 가운데서도 기본자본이 15조원 넘게 늘어난 결과다.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "971e63141b25",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "Bluesky wants to give you your own domain on the open web",
+      "link": "https://techcrunch.com/2026/10/06/bluesky-wants-to-give-you-your-own-domain-on-the-open-web/",
+      "publishedAt": "2026-10-06T14:41:52.000Z",
+      "description": "Bluesky says the process will still take 18-24 months, so don't expect your new, shortened 'bsky' handle any time soon.",
+      "author": "Sarah Perez",
+      "summary": "Bluesky says the process will still take 18-24 months, so don't expect your new, shortened 'bsky' handle any time soon.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "6fae91c9cbb1",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "커리앤브라운 연구: 불확실성으로 전 세계 건설 비용 약 2조 달러 증가",
+      "link": "https://zdnet.co.kr/view/?no=20261006231014",
+      "publishedAt": "2026-10-06T14:10:14.000Z",
+      "description": "[지디넷코리아]연례 건설 확실성 지수, 성숙도가 높은 조직들이 혼란 속에서 회복탄력성을 구축하는 방식 제시 런던, 2026년 10월 6일 /PRNewswire/ -- 지난 1년간 불확실성으로 인해 전 세계 건설 프로젝트 파이프라인 비용이 평균 12.4% 증가한 것으로 나타났다. 이를 전 세계 건설 지출 전망치에 적용하면 2026년 기준 거의 미화 2조 달러에 달하는 규모다. 이 같은 결과는 아메리카, 유럽, 아시아태평양 지역의 건설 및 인프라 의사결정권자 1300명 이상을 대상으로 실시한 설문조사에 기반한 커리앤브라운(Currie & Brown)의 연례 건설 확실성 지수(Construction Certainty Index)에서 도출됐다. 모든 프로젝트 목표 달성에 대한 자신감이 하락했다. 현재 기한 내 프로젝트를 완료할 수 있다고 자신하는 조직은 절반에도 못 미치는 46%에 그쳤다. 예산 범위 내에서 프로젝트를 완료할 수 있다고 자신하는 조직은 40%에 불과해, 전년 대비 각각 12%포인트와 14%포인트 하락했다. 응답자의 70%는 자재비 인플레이션이 프로젝트 수행에 큰 영향을 미치고 있다고 답했으며, 에너지 가격 변동성(64%)과 공급망 차질(59%)이 그",
+      "author": "글로벌뉴스",
+      "summary": "[지디넷코리아]연례 건설 확실성 지수, 성숙도가 높은 조직들이 혼란 속에서 회복탄력성을 구축하는 방식 제시 런던, 2026년 10월 6일 /PRNewswire/ -- 지난 1년간 불확실성으로 인해 전 세계 건설 프로젝트 파이프라인 비용이 평균 12.4% 증가한 것으로 나타났다.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "bc50c50dcb59",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "캐나다조폐국, 세계적으로 유명한 슈퍼히어로 데드풀과 울버린의 캐나다 뿌리를 금화와 은화 수집품으로 기념",
+      "link": "https://zdnet.co.kr/view/?no=20261006231003",
+      "publishedAt": "2026-10-06T14:10:03.000Z",
+      "description": "[지디넷코리아] 오타와, 온타리오, 2026년 10월 6일 /PRNewswire/ -- 웨이드 윌슨(Wade Wilson)이 농담 대신 일본도를 휘두르고 제임스 하울릿(James Howlett)이 마블(Marvel)의 울버린(Wolverine)이 되기 전에 두 사람은 모두 캐나다 땅에서 태어났다. 웨이드는 서스캐처원에서, 제임스는 앨버타에서 태어났다. 마블의 데드풀(Deadpool)과 울버린은 마침내 2024년 블록버스터 마블 스튜디오의 데드풀과 울버린(Marvel Studios' Deadpool & Wolverine)으로 한 화면에 등장했고, 이 결합은 이제 캐나다조폐국(Royal Canadian Mint)이 99.99% 순금 4분의 1온스 수집품(라운드라고도 함)에 정교하게 주조해 팬들과 동전 수집가들에게 선보이게 됐다. 이 희귀 금 수집품은 공식 라이선스를 받고 귀금속 수집품을 제작하는 글로벌 기업 아고로(Agoro)가 공급하며 데드풀과 울버린이 각각 새겨진 은 수집품과 함께 출시된다. 톰 프로갯(Tom Froggatt) 캐나다조폐국 최고상업책임자는 \"조폐국은 캐나다의 정체성을 보여주고 국가적 자부심을 표현할 창의적인 방법을 항상 찾고 있으며, 이에 아",
+      "author": "글로벌뉴스",
+      "summary": "[지디넷코리아] 오타와, 온타리오, 2026년 10월 6일 /PRNewswire/ -- 웨이드 윌슨(Wade Wilson)이 농담 대신 일본도를 휘두르고 제임스 하울릿(James Howlett)이 마블(Marvel)의 울버린(Wolverine)이 되기 전에 두 사람은 모두 캐나다 땅에서 태어났다.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "fbb2e747741a",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "황소 뿔에 불 붙인 콜롬비아 축제…동물학대 논란",
+      "link": "https://www.etnews.com/20261006000413",
+      "publishedAt": "2026-10-06T13:50:00.000Z",
+      "description": "콜롬비아의 한 전통 행사에서 황소 뿔에 화약 장치를 달아 불을 붙인 영상이 공개돼 동물학대 논란이 일고 있습니다. 지난 2일 콜롬비아 아틀란티코주 사바날라르가에서 열린 전통 행사 '코랄레하'에서 참가자들이 황소의 양쪽 뿔에 불꽃이 나는 화약 장치를 묶은 뒤 불을 붙였습니다. 영상이 확산되자 현지 동물보호단체는 황소의 건강 상태 공개와 사건 조사를 요구했습니다. 이에 주최 측은 황소가 다치지 않았으며 상태도 양호하다고 해명했습니다. 콜롬비아는 현",
+      "author": "이창민",
+      "summary": "콜롬비아의 한 전통 행사에서 황소 뿔에 화약 장치를 달아 불을 붙인 영상이 공개돼 동물학대 논란이 일고 있습니다. 지난 2일 콜롬비아 아틀란티코주 사바날라르가에서 열린 전통 행사 '코랄레하'에서 참가자들이 황소의 양쪽 뿔에 불꽃이 나는 화약 장치를 묶은 뒤 불을 붙였습니다.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "7e3eeb0bbd44",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "Big Oil asks Supreme Court to kill climate lawsuits before trial",
+      "link": "https://arstechnica.com/tech-policy/2026/10/big-oil-asks-supreme-court-to-kill-climate-lawsuits-before-trial/",
+      "publishedAt": "2026-10-06T13:29:46.000Z",
+      "description": "Oil companies say federal law should block state climate deception claims.",
+      "author": "Nicholas Kusnetz, Inside Climate News",
+      "summary": "Oil companies say federal law should block state climate deception claims.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "c62a3c84f99b",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China",
+      "link": "https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/",
+      "publishedAt": "2026-10-06T13:15:23.000Z",
+      "description": "With the release of its new trillion-parameter model, Mistral is hoping to demonstrate it’s “still in the race” to build frontier-level artificial intelligence.",
+      "author": "Joel Khalili",
+      "summary": "With the release of its new trillion-parameter model, Mistral is hoping to demonstrate it’s “still in the race” to build frontier-level artificial intelligence.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "3095a97cb040",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "A First Ride With Lightfoot, a Solar-Powered Scooter",
+      "link": "https://www.wired.com/story/lightfoot-scooter-first-ride/",
+      "publishedAt": "2026-10-06T13:00:00.000Z",
+      "description": "Otherlab’s Lightfoot looks like a box on wheels, but this head-turning urban scooter is designed to go farther thanks to the power of the sun.",
+      "author": "Julian Chokkattu",
+      "summary": "Otherlab’s Lightfoot looks like a box on wheels, but this head-turning urban scooter is designed to go farther thanks to the power of the sun.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "3cc2112ea843",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "4살 아들에게 고환 걷어차인 아빠…“병원 갔다가 '암' 발견”",
+      "link": "https://www.etnews.com/20261006000265",
+      "publishedAt": "2026-10-06T12:10:00.000Z",
+      "description": "네 살 아들과 장난을 치다 고환을 걷어차인 한 남성이 통증이 계속돼 병원을 찾았다가 고환암 진단을 받은 사연이 전해졌다. 4일(현지시간) 영국 BBC 방송에 따르면 웨일스 카디프에 사는 벤 리지 씨는 몇 년 전 집 정원에서 아들과 장난을 치던 중 우연히 고환을 발로 맞았다. 처음에는 대수롭지 않게 여겼지만 일주일이 지나도록 통증이 가라앉지 않았다. 결국 병원을 찾은 그는 검사 끝에 고환암 진단을 받았다. 그는 “당시 (고환이) 크리켓 공처럼 느",
+      "author": "서희원",
+      "summary": "네 살 아들과 장난을 치다 고환을 걷어차인 한 남성이 통증이 계속돼 병원을 찾았다가 고환암 진단을 받은 사연이 전해졌다. 4일(현지시간) 영국 BBC 방송에 따르면 웨일스 카디프에 사는 벤 리지 씨는 몇 년 전 집 정원에서 아들과 장난을 치던 중 우연히 고환을 발로 맞았다.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "5bcf670617bc",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "파라마운트, 111조원에 워너브로스 인수해 스카이댄스 설립",
+      "link": "https://www.theguardian.com/business/2026/oct/06/paramount-warner-bros-skydance-merger",
+      "publishedAt": "2026-10-06T14:14:56.000Z",
+      "description": "David Ellison and ex-Mattel CEO Ynon Kreiz to oversee both film studios, HBO Max, CNN and CBS News as co-executives Paramount completed its $111bn acquisition of Warner Bros Discovery on Tuesday, consolidating some of the world’s most recognizable studios and news outlets after a bidding war with Netflix and months of legal turmoil. The new company, now called Skydance, will have David Ellison, the son of a billionaire tech mogul, at its helm, with the former CEO of Mattel, Ynon Kreiz, as co-executive. They will oversee Paramount and Warner Bros’ movie studios, HBO Max, CBS News and CNN. Conti",
+      "author": "Gaya Gupta",
+      "summary": "파라마운트가 $111bn에 워너브로스 디스커버리를 인수해 스카이댄스를 설립했으며, 데이비드 엘리슨과 이전 매텔 CEO 이논 크라이츠가 이 미디어 제국의 공동 경영진으로 영화사, HBO Max, CBS News, CNN을 관리하게 된다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a5b95c6badcd",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "호주는 데이터센터 붐에 준비되어 있나",
+      "link": "https://www.theguardian.com/australia-news/audio/2026/oct/06/is-australia-ready-for-a-datacentre-boom-full-story-podcast",
+      "publishedAt": "2026-10-06T14:00:17.000Z",
+      "description": "As technology companies push to expand AI infrastructure across Australia, residents from suburban Melbourne to regional Queensland are raising concerns over noise, power demands and local impacts. Could growing community opposition slow down plans for a nationwide infrastructure boom? Technology reporter Josh Taylor joins Reged Ahmad to unpack why Australians are becoming so uneasy about datacentres – and whether government regulation can address their fears Read more: Rural Queenslanders have seen gas projects come and go – but a 725-hectare datacentre poses a whole new level of ‘stupidity’ ",
+      "author": "Presented by Reged Ahmad with Josh Taylor. Produced by Taylah Strano and Lu Hill",
+      "summary": "호주에서 AI 인프라 확장 계획에 대해 주민들이 소음, 전력 수요, 지역 영향에 대한 우려를 제기하고 있으며, 정부 규제가 이러한 문제를 해결할 수 있을지 의문이 제기되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ace9ec86f82a",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "대형교회 2곳 당했다…개인정보 유출 정황",
+      "link": "https://www.mk.co.kr/news/stock/12169859",
+      "publishedAt": "2026-10-06T13:59:47.000Z",
+      "description": "금융권에서 인공지능(AI)을 활용한 해킹 파문이 커지고 있는 가운데 국내 대형 교회 2곳이 사이버 공격을 받아 교인들의 개인정보와 헌금 내역 등이 유출된 정황이 파악됐다. 종교단체..",
+      "author": "매일경제",
+      "summary": "국내 대형 교회 2곳이 AI를 활용한 사이버 공격으로 교인들의 개인정보와 헌금 내역이 유출된 정황이 파악됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d011ebfa7484",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "국민성장펀드 2차 판매 3162억원…목표액 절반 넘겨",
+      "link": "https://www.mk.co.kr/news/economy/12169854",
+      "publishedAt": "2026-10-06T13:48:08.000Z",
+      "description": "1차 펀드 수익률 1.40%2차 국민참여형 국민성장펀드가 판매를 시작한 지 나흘 만에 목표액의 절반 이상을 채웠다. 6일 연합뉴스에 따르면 금융위원회는 2차 국민참여형 국민성장펀드..",
+      "author": "매일경제",
+      "summary": "2차 국민참여형 국민성장펀드가 나흘 만에 목표액 6천억원의 절반을 초과한 3162억원을 판매했으며, 1차 펀드의 수익률은 1.40%였다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2f2460908632",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "영국 NHS 의료용품 배송 운전사들 임금 분쟁으로 파업",
+      "link": "https://www.bbc.co.uk/news/articles/ckqxnwev78dro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-06T13:43:15.000Z",
+      "description": "Drivers who deliver medical equipment to hospitals across England reject a 4% pay increase.",
+      "author": null,
+      "summary": "영국 병원에 의료 장비를 배송하는 운전사들이 4% 임금 인상 제안을 거부하고 파업에 나섰다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "aa550cf08160",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "국민참여성장펀드 나흘간 3천억원 남짓 팔려…목표액의 52.7%",
+      "link": "https://www.yna.co.kr/view/AKR20261006195600002",
+      "publishedAt": "2026-10-06T13:06:16.000Z",
+      "description": "(서울=연합뉴스) 강수련 기자 = 금융위원회는 6일까지 나흘간 2차 국민참여형 국민성장펀드의 누적 판매액이 3천162억원으로, 목표액(6천억원)...",
+      "author": "강수련",
+      "summary": "2차 국민참여형 국민성장펀드가 나흘간 3162억원이 판매되어 목표액 6천억원의 52.7%를 달성했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a09947044c47",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "화이트칼라 초과근무 없인 나라 미래 없어…전 한은총재의 경고",
+      "link": "https://www.mk.co.kr/news/economy/12169834",
+      "publishedAt": "2026-10-06T12:53:55.000Z",
+      "description": "서울대 인구클러스터 포럼서 쓴소리 ‘재량근로제’는 법률 리스크 못 덜어줘 한은 ‘화이트칼라 이그젬션’ 도입 제안이창용 전 한국은행 총재(서울대 특임교수)가 “화이트칼라(사무·전문직..",
+      "author": "매일경제",
+      "summary": "이창용 전 한국은행 총재가 화이트칼라 노동자의 초과근무가 필요하다고 경고했으며, 현재 재량근로제만으로는 법률 리스크를 해결할 수 없다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "37ac45cb567b",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "웰컴저축은행 해킹 120분 가까이 지속…사고 닷새 후 인지",
+      "link": "https://www.yna.co.kr/view/AKR20261006184400002",
+      "publishedAt": "2026-10-06T10:03:06.000Z",
+      "description": "(서울=연합뉴스) 한지훈 김지연 기자 = 웰컴저축은행이 120분 가까이 해킹 공격을 받았지만, 사고 발생 닷새가 지나서야 금융당국 지적으로 뒤늦...",
+      "author": "김지연",
+      "summary": "웰컴저축은행이 약 120분 동안 해킹 공격을 받았으나 사고 발생 5일 후 금융당국의 지적으로 뒤늦게 인지했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b8ee281d180e",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "[인기검색TOP5] HLB, 알멕, 삼천당제약, 안랩, LG전자",
+      "link": "https://www.mk.co.kr/news/stock/12169649",
+      "publishedAt": "2026-10-06T09:35:47.000Z",
+      "description": "최적의 매매타이밍을 실시간으로 전송하여 투자자들에게 도움이 되고 있는 주식 AI 라씨 매매비서가 오늘 분석한 인기검색종목은 HLB +17.92%, 알멕 +16.25%, 삼천당제약 ..",
+      "author": "매일경제",
+      "summary": "주식 AI 매매비서가 분석한 인기검색종목 상위 5개는 HLB(+17.92%), 알멕(+16.25%), 삼천당제약, 안랩, LG전자였다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f57c7231f42c",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "자녀를 위해 월 100파운드씩 저축하지만 57살까지 받을 수 없다",
+      "link": "https://www.bbc.co.uk/news/articles/cme3r9eq2w0lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-06T08:16:11.000Z",
+      "description": "Why a growing number of parents are opening pensions for their children.",
+      "author": null,
+      "summary": "점점 많은 부모들이 자녀를 위해 연금 계좌를 개설해 미래를 대비하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "641ef757a488",
+      "category": "politics",
+      "source": "연합뉴스 사회",
+      "region": "kr",
+      "title": "나주 주택서 60대 부부 피살…경찰, 용의자 추적",
+      "link": "https://www.yna.co.kr/view/AKR20261006199151054",
+      "publishedAt": "2026-10-06T14:59:48.000Z",
+      "description": "(나주=연합뉴스) 정다움 기자 = 전남광주 나주에서 부부가 몸이 묶여 숨진 채 발견돼 경찰이 수사에 나섰다.",
+      "author": "정다움",
+      "summary": "전남 나주의 주택에서 60대 부부가 결박된 상태로 발견되어 경찰이 살인 용의자를 추적하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "df69dbad0511",
+      "category": "politics",
+      "source": "SBS 뉴스",
+      "region": "kr",
+      "title": "김정관 \"알래스카 LNG, 전략적 가치…상업성 전제 검토\"",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008785533",
+      "publishedAt": "2026-10-06T14:55:00.000Z",
+      "description": "국정감사에 출석한 김정관 산업부 장관이 트럼프 대통령이 언급한 '알래스카 LNG 사업'에 대해 \"새로운 전략적 가치가 생겼다\"고 평가했습니다.",
+      "author": "hitrun@sbs.co.kr (김진우 기자)",
+      "summary": "산업부 장관이 국정감사에서 알래스카 LNG 사업에 새로운 전략적 가치가 있다고 평가하면서 상업성을 전제로 검토하겠다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d1c70d491522",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "조현 \"그정도 北대응 예측했다…지뢰 입장 표변 않을 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20261006093252504",
+      "publishedAt": "2026-10-06T14:53:33.000Z",
+      "description": "(서울=연합뉴스) 김지헌 민선희 기자 = 조현 외교부 장관은 6일 비무장지대(DMZ) 지뢰 폭발과 관련한 북한의 대응은 예상한 수준이라고 밝혔다...",
+      "author": "김지헌",
+      "summary": "외교부 장관이 DMZ 지뢰 폭발에 대한 북한의 대응 수위는 예상 범위 내라며 지뢰 정책 입장에는 변함이 없을 것이라고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "92c32bd3d7b0",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "\"전기본 위원 공개하라\"·\"尹정부도 안해\"…국힘·김성환 충돌",
+      "link": "https://www.yna.co.kr/view/AKR20261006202100001",
+      "publishedAt": "2026-10-06T14:47:21.000Z",
+      "description": "(서울=연합뉴스) 박경준 정연솔 기자 = 국회 기후에너지환경노동위원회가 6일 기후에너지환경부를 대상으로 연 국정감사에서는 12차 전력수급기본계획...",
+      "author": "정연솔",
+      "summary": "국정감사에서 야당 의원이 전력수급기본계획 위원명 공개를 요구했으나 국힘 의원들은 전 정부도 하지 않았다며 반박했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ea8e7bb5d949",
+      "category": "politics",
+      "source": "서울신문",
+      "region": "kr",
+      "title": "[단독] BTS 흥행 실적 준용한 '패노메논 1조'…\"장밋빛 전망 근거 부족\"",
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20261006500314",
+      "publishedAt": "2026-10-06T14:43:41.000Z",
+      "description": "대통령 직속 대중문화교류위원회가 추진하는 글로벌 K팝 팬덤 축제 ‘패노메논’의 경제효과 전망과 관련해 산출 근거에 대한 지적이 7일 제기됐다. 정부는 패노메논 개최로 약 1조원의 경제효과를 낼 수 있다고 기대하고 있다. 그러나 외국인 관람객 비중과 1인당 소비액 등 핵심 변수 설정에 따라 경제효과 예측치는 50% 넘게 차이가 나는 것으로 나타났다. 국회 문화체육관광위원회 소속 김재원 조국혁신당 의원이 한국문화관광연구원(문광연)으로부터 받은 ‘패노메논 경제적 파급효과 중간 추정치’를 보면 문광연은 내년 12월 서울 창동 서울아레나와 경기 고양 킨텍스에서 열리는 패노메논에 총방문객 52만명이 참여하고, 약 1조원의 경제효과가 발생할 것으로 예측했다. 문광연은 총방문객 규모는 유지한 채 외국인 관람객 비중을 달리하는 세 가지 시나리오로 경제효과를 추정했다. 공연 등의 외국인 관람객 비중은 30%·50%·60%, 전시·컨벤션은 10%·20%·40%로 각각 설정했다. 외국인 관람객 비중을 가장 높게 잡은 시나리오에서는 생산유발효과(직간접적인 경제효과)가 1조 1951억원으로 추산됐다. 외국인 단기체류객은 항공료와 숙박비, 식음료·쇼핑비 등을 함께 지출하는 만큼 국내 ",
+      "author": "반영윤 기자",
+      "summary": "정부가 추진하는 K팝 팬덤 축제 패노메논의 경제효과 1조원 전망에 대해 외국인 관람객 비중 등 변수에 따라 예측치가 50% 이상 달라진다는 지적이 제기됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "52b861345925",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "조희대 '李 파기환송심-계엄 회의' 답변 안 해…\"더 질의 받기 어렵다\"",
+      "link": "https://www.donga.com/news/Politics/article/all/20261006/134797993/2",
+      "publishedAt": "2026-10-06T14:13:00.000Z",
+      "description": "조희대 대법원장이 대법관 공석 사태 및 대법관 후보 제청 갈등에 대해 “국민 여러분께 불편과 심려를 끼쳐드린 데 대해 거듭 송구하다”며 “대법원이 온전한 구성을 갖출 수 있도록 필요한 노력을 다 하겠다”고 밝혔다.조 대법원장은 6일 국회 법제사법위원회의 대법원 국정감사 마무리 발언에서 “사법부의 업무 전반을 세심하게 살펴 주신 위원님들의 말씀을 경청하며 저를 비롯한 사법 구성원 모두는 업무처리에 미흡한 점이 많음을 다시 한 번 확인했다”며 이같이 말했다.이어 “위원님들께서 전해 주신 말씀은 사법권을 맡겨 주신 국민의 준엄한 목소리라고 생각한다”며 “오늘 주신 질책과 조언을 국민의 냉철한 평가로 겸허히 받아들여 국민께서 실제로 체감하실 수 있는 변화로 이어 가겠다”고 덧붙였다.격려금과 업무추진비 집행 문제에 대해서도 “사법행정의 최종 책임자로서 관련 예산을 집행하고 그 내용을 국회에 설명 드리는 과정에서 미흡한 점이 있었음을 인식하게 됐다”며 “사법부의 예산은 국민의 소중한 세금",
+      "author": null,
+      "summary": "조희대 대법원장이 국정감사에서 대법관 공석 사태에 대해 사과하며 대법원의 온전한 구성을 위해 노력하겠다고 약속했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "836c0d298055",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "조희대 \"대법원 온전한 구성 위해 노력하겠다\"…대법관 공석에 재차 사과",
+      "link": "https://www.khan.co.kr/article/202610062308001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-10-06T14:08:00.000Z",
+      "description": "조희대 대법원장이 6일 국회 법제사법위원회에서 열린 대법원 등에 대한 국정감사에 출석해 의원들의 질의에 답변하고 있다. 권도현 기자조희대 대법원장이 6일 국회 법제사법위원회의 대법원 국정감사 종합답변에서 대법관 공석 문제에 대해 재차 사과하고 “대법원이 온전한 구성을 갖출 수 있도록 필요한 노력을 다하겠다”고 밝혔다.조 대법원장은 이날 대법원 국감에서 오전···",
+      "author": "김정화 기자",
+      "summary": "조희대 대법원장이 국회 국정감사에서 대법관 공석에 대해 재차 사과하고 온전한 대법원 구성을 위해 노력하겠다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c2d00b88f4c4",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "나주에서 60대 부부 결박된 상태로 숨진 채 발견···경찰 용의자 추적",
+      "link": "https://www.khan.co.kr/article/202610062232001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-10-06T13:32:00.000Z",
+      "description": "경찰 마크전남광주 나주에서 부부가 숨진 채 발견돼 경찰이 수사에 착수했다.전남 나주경찰서는 6일 오후 7시49분쯤 나주시의 한 주택에서 60대 부부가 숨진 채 발견됐다고 이날 밝혔다.부부는 발견 당시 결박된 상태로 숨져 있었던 것으로 알려졌다.경찰은 이들이 흉기에 찔려 숨진 것으로 보고 용의자를 추적 중이다.",
+      "author": "김준용 기자",
+      "summary": "전남 나주의 주택에서 60대 부부가 결박된 상태로 발견되었으며 흉기에 찔려 숨진 것으로 보여 경찰이 용의자 추적에 나섰다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7f1d09b1e86d",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "\"성역 없이 질문하라\" \"허구 걷어내는 언론\"…방점은 '진실'",
+      "link": "https://www.khan.co.kr/article/202610062223015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-10-06T13:23:01.000Z",
+      "description": "각계 인사 300여명 참석·축하경향이 걸어온 80년 경향신문 창간 80주년 비전 선포식이 열린 6일 서울 중구 신라호텔에서 참석자들이 경향신문이 지난 80년간 걸어온 길을 담은 영상을 시청하고 있다. 문재원 기자 mjw@kyunghyang.com남인순 “향후 100년 진실의 나침반” 오세훈 “80년 현대사 무게 오롯이” 민주주의 향한 ‘참언론’ 역할 강···",
+      "author": "김예나 기자",
+      "summary": "경향신문이 창간 80주년을 맞이해 성역 없는 질문과 진실 보도를 강조하는 비전 선포식을 개최했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ad1900be3b6e",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "이 대통령 \"미디어 전환기 혼란…경향신문의 진실·정확성·독립성 원칙 빛 발할 것\"",
+      "link": "https://www.khan.co.kr/article/202610062222005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-10-06T13:22:00.000Z",
+      "description": "이재명 대통령은 경향신문 창간 80주년을 맞은 6일 신뢰할 수 있는 뉴스가 적어지는 시대에 ‘진실’ ‘정확성’ ‘권력으로부터의 독립’이라는 경향신문의 원칙들이 빛을 발할 것이라고 밝혔다.이 대통령은 이날 경향신문 창간 80주년 축사에서 “지금 우리는 정보는 넘쳐나지만 신뢰할 수 있는 뉴스는 오히려 부족한 미디어 전환기를 맞이하고 있다”면서 이같이 밝혔다. ···",
+      "author": "유정인 기자",
+      "summary": "이재명 대통령은 경향신문 창간 80주년 축사에서 신뢰할 수 있는 뉴스가 부족한 시대에 언론의 진실성과 독립성이 중요하다고 강조했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "eb9cbd16a010",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "독일 극우정당 AfD, 지역의회 의장직 처음 차지",
+      "link": "https://www.bbc.co.uk/news/articles/c54g1m2g1pg3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-06T14:44:03.000Z",
+      "description": "Although Tobias Rausch's role is largely symbolic, opponents have described the result as a watershed moment.",
+      "author": null,
+      "summary": "독일의 우익 정당 AfD가 지역의회 의장직을 처음 차지했으며, 정치권은 이를 역사적 분기점으로 평가했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a4c27f913776",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "美 8월 무역적자 작년 3월 이후 최대…수입은 사상 최대",
+      "link": "https://www.yna.co.kr/view/AKR20261006201700072",
+      "publishedAt": "2026-10-06T14:38:49.000Z",
+      "description": "(뉴욕=연합뉴스) 김연숙 특파원 = 지난 8월 미국의 무역적자가 늘며 수입액이 사상 최대 규모를 기록했다.",
+      "author": "김연숙",
+      "summary": "미국의 8월 무역적자가 작년 3월 이후 최대 규모로 확대되었고, 수입액도 사상 최대를 기록했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2965d5c4722b",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "트럼프, 중간선거 '깜짝승리론' 꺼내…\"서프라이즈 지켜봐라\"",
+      "link": "https://www.yna.co.kr/view/AKR20261006201600071",
+      "publishedAt": "2026-10-06T14:36:21.000Z",
+      "description": "(워싱턴=연합뉴스) 박성민 특파원 = 도널드 트럼프 미국 대통령이 6일(현지시간) 중간선거 '깜짝 승리론'을 꺼내 들었다.",
+      "author": "박성민",
+      "summary": "도널드 트럼프 미국 대통령이 중간선거에서 깜짝 승리가 나올 것 같다며 기대감을 드러냈다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c006fdcc8c6c",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "스페인 법원, 푸이그데몬트 체포영장 해제…11월 선거 앞두고 귀국 길 열려",
+      "link": "https://www.dw.com/en/spain-court-lifts-puigdemont-arrest-warrant-clearing-way-for-his-return-home-ahead-of-november-elections/a-79565853?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-10-06T14:06:00.000Z",
+      "description": "Catalan separatist leader Carles Puigdemont fled Spain in 2017 after launching an independence bid. The court's decision means he can return home without fear of arrest after almost a decade in exile.",
+      "author": null,
+      "summary": "스페인 법원이 카탈로냐 분리주의 지도자 푸이그데몬트의 체포영장을 해제해 2017년 망명 이후 처음으로 안전하게 귀국할 수 있는 길을 열었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "4411dc348e88",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "이란 여성들의 히잡 거부 확산, 정권이 강제 준수 방법 모색",
+      "link": "https://www.dw.com/en/as-more-iranian-women-reject-hijab-rules-regime-looks-at-new-ways-to-force-compliance/a-79564962?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-10-06T13:50:00.000Z",
+      "description": "As more women in Iran reject rules on wearing hijab headscarves, hardliners are shifting focus from \"morality police\" street enforcement towards social pressure in workplaces, services and businesses.",
+      "author": null,
+      "summary": "이란 여성들의 히잡 착용 거부가 증가하자 정권이 도덕경찰을 통한 거리 단속 대신 직장과 서비스 업체 등에서의 사회적 압력으로 강제 방안을 전환했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "616b75ff71f7",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "러시아, 미국 페스트 연구원 사망 후 대응 방식",
+      "link": "https://www.bbc.co.uk/news/videos/c8e36y796enno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-06T13:32:42.000Z",
+      "description": "The US and Russia have each offered to help each other tackling infectious diseases.",
+      "author": null,
+      "summary": "미국과 러시아가 전염병 연구원의 사망을 계기로 감염병 퇴치에 상호 협력할 의사를 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "4111300ef0c7",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "콩고에서 에볼라 급증, 케냐가 첫 감염 확인",
+      "link": "https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc",
+      "publishedAt": "2026-10-06T12:46:56.000Z",
+      "description": "Health minister says 28 contacts identified after death of citizen who arrived from DRC on Saturday Kenya has reported its first-ever Ebola death, the health minister announced on Tuesday, as the disease continues to spread rapidly through the north-east of the Democratic Republic of Congo (DRC), where the outbreak was announced in May. This is the 17th outbreak of the highly infectious, often deadly disease in the DRC. As of 2 October, 4,082 people had died out of 8,463 confirmed cases in the country since the emergence of the Bundibugyo strain of the Ebola virus, for which there is still no ",
+      "author": "Rachel Savage and agencies",
+      "summary": "케냐가 콩고민주공화국에서 입국한 시민의 에볼라 사망으로 첫 감염 사례를 확인했으며, 콩고에서는 번디부기요 바이러스 변종이 확산되며 8천여 명 중 4천 명 이상 사망했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e0d835f50f5a",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "미국·이스라엘·유럽 극우 인사들, 예루살렘 컨퍼런스에 집결",
+      "link": "https://www.theguardian.com/us-news/2026/oct/06/us-israel-far-right-conference",
+      "publishedAt": "2026-10-06T12:21:01.000Z",
+      "description": "Trump’s counter-terrorism ‘czar’, Sebastian Gorka, was scheduled to speak at conference but White House says he will no longer attend A National Conservatism (NatCon) conference beginning today in Jerusalem advertises a talk from the Trump administration’s anti-terrorism czar alongside speeches from far-right Israeli politicians, European figures who have faced disciplinary action over alleged antisemitism, and Christian nationalist and far-right figures from the United States. The Jerusalem event is perhaps the most significant recent gathering to feature large contingents of Israeli national",
+      "author": "Jason Wilson",
+      "summary": "미국·이스라엘·유럽의 극우 인사들이 참여하는 국민보수주의 컨퍼런스가 예루살렘에서 개최되는 가운데, 트럼프 행정부의 대테러 담당자는 참석하지 않기로 했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "740fcddd7018",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "인도 선거명부 변경 반발, 전국 시위 발생",
+      "link": "https://www.npr.org/2026/10/06/g-s1-146636/what-to-know-about-nationwide-protests-in-india-over-voter-list-changes",
+      "publishedAt": "2026-10-06T11:44:06.000Z",
+      "description": "The campaign is led in part by India's \"Cockroach\" youth movement, which previously forced the education minister to resign.",
+      "author": "The Associated Press",
+      "summary": "인도에서 선거명부 변경에 반발하는 전국 시위가 확산되고 있으며, 이는 교육장관 사임을 강제한 청년운동 '바퀴벌레'가 주도하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c278b9ea59e5",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "베트남, 고양이 밀렵단 12명 체포…야간에 최대 10마리씩 포획",
+      "link": "https://www.npr.org/2026/10/06/g-s1-146634/vietnamese-police-arrest-12-suspected-of-prowling-city-streets-at-night-snatching-cats-for-meat",
+      "publishedAt": "2026-10-06T11:38:48.000Z",
+      "description": "State media cited investigators who said the network recruited people to ride motorcycles through neighborhoods at night, trapping up to 10 cats a night.",
+      "author": "The Associated Press",
+      "summary": "베트남 경찰이 밤에 오토바이를 타고 동네를 돌아다니며 고양이를 포획해 판매하는 밀렵단 12명을 체포했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "763276894d52",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "스페인의 산체스, 조기 총선은 진보진영에 위험한 도박이 될 수 있다",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/06/pedro-sanchez-snap-election-spain-economy-green-transition-progressives",
+      "publishedAt": "2026-10-06T14:57:19.000Z",
+      "description": "A thriving economy, a model green transition, social advances – Spain’s PM shouldn’t be in trouble. Yet he is, and it’s a lesson for progressives everywhere To progressives across the west, Spain has been a rare glimmer of hope in a world where far-right parties are increasingly entering government. Under Pedro Sánchez, who became prime minister in 2018, the country has combined a post-Covid economic boom with a bold green energy transition programme, and a pro-immigration stance with a principled opposition to the war agenda of Donald Trump and Benjamin Netanyahu. Yet, at the end of next mont",
+      "author": "Paolo Gerbaudo",
+      "summary": "산체스 총리는 스페인의 경제 호황과 녹색 에너지 전환을 이뤘지만, 조기 총선 소집은 진보 진영 전체의 미래에 위험한 도박이 될 수 있다고 우려합니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "596ffb7418c9",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "트럼프의 그림자 속 공화당 지도부 경쟁",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/06/jd-vance-ted-cruz-fighting-control-gop-trump-midterms",
+      "publishedAt": "2026-10-06T14:46:05.000Z",
+      "description": "Having seemingly written off the midterms, the Republican bigwigs are making their pitches for 2028. But the current commander-in-chief could be looking closer to home The US midterm elections are a month away and it’s looking rough for the Republicans. I wouldn’t discount devious schemes behind the scenes, but, on the face of it, the president and his entourage seem to be flailing. Donald Trump is desperately dangling money in front of voters and promising “a big surprise”. Meanwhile, the vice-president, JD Vance, and the GOP senator Ted Cruz seem more concerned with fighting over who will be",
+      "author": "Arwa Mahdawi",
+      "summary": "중간선거를 앞두고 공화당 부통령과 상원의원이 2028년 대선을 향해 경쟁하고 있지만, 현 대통령이 직접 개입할 가능성도 있다고 지적합니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "20e76b71dfba",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]공소·중수·경찰청장은 국무회의 참석 않는 게 옳다",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261006/134797678/2",
+      "publishedAt": "2026-10-06T14:30:00.000Z",
+      "description": "최근 출범한 공소청과 중대범죄수사청(중수청)의 청장 직무대행을 맡고 있는 이정현 차장과 전종민 차장이 6일 국무회의에 참석했다. 김종철 경찰청장 직무대행도 참석했다. 수사·기소 기관 수장들의 정례적인 국무회의 참석은 이재명 정부 들어서 새롭게 생긴 관행이다. 청와대는 국정 과제를 효율적으로 공유하고 기관 간 협조를 강화하기 위해서라고 설명한다. 하지만 야당에선 “정권 수사와 직결되는 기관의 수장들이 국무회의에 반복적으로 참석하는 모습은 형사사법기관에 대한 국민의 신뢰를 흔들 수 있다”고 주장하고 있다. 검사와 수사관의 정치적 중립 의무는 올해 제정된 공소청법과 중수청법에 각각 규정돼 있다. 경찰 역시 경찰공무원법 등에 유사한 조항을 두고 있다. 법 규정을 떠나, 인신구속과 압수수색 등 강제적 권한을 가진 기관들은 고도의 정치적 중립성이 요구된다. 그렇지 않으면 법치주의에 대한 신뢰 자체가 흔들릴 수 있다. 더구나 공소청과 중수청, 경찰은 집권 세력의 부정부패 의혹에 대해서도 엄정한",
+      "author": null,
+      "summary": "수사·기소 기관 수장들의 정기적 국무회의 참석은 정치적 중립성을 훼손하고 법치주의에 대한 국민 신뢰를 약화시킬 수 있다고 비판합니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "cffd72e8c839",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "다섯 칼럼니스트가 추천하는 팟캐스트",
+      "link": "https://www.washingtonpost.com/opinions/2026/10/06/always-good-morning-five-writers-favorite-podcasts/",
+      "publishedAt": "2026-10-06T14:27:30.000Z",
+      "description": "While away your commute with these hosts.",
+      "author": "Washington Post Opinions",
+      "summary": "다섯 명의 저자들이 출퇴근길에 즐겨 듣는 팟캐스트 프로그램들을 각각 소개합니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "943f20678c1a",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]4대 과기원 수시 지원 급증… 이공계 인재 잘 키우고 잘 지켜야",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261006/134797668/2",
+      "publishedAt": "2026-10-06T14:27:00.000Z",
+      "description": "한국과학기술원(KAIST)을 포함한 4대 과기원의 수시모집 지원자가 3만 명을 넘어선 것으로 나타났다. 전년보다 37%나 급증한 것이다. 인공지능(AI)과 반도체 등에 대한 관심이 실제 공대 진학 열기를 끌어올렸다는 분석이 나온다. 미래의 첨단 기술 패권 경쟁에서 뒤처지지 않으려면 이런 기회를 잘 살려 이공계 핵심 인재를 충분히 확보해 나갈 필요가 있다. 입시전문기관에 따르면 KAIST, 울산과학기술원(UNIST), 대구경북과학기술원(DGIST), 광주과학기술원(GIST) 등 4곳의 2027학년도 수시 지원생은 3만3000여 명이었다. 1년 전 2만4000여 명에서 약 9000명 늘었다. 전체 평균 경쟁률도 14 대 1에서 16 대 1로 올랐다. 다만 과기원은 ‘수시 6회 제한’에서 예외 적용을 받아 이른바 ‘의치한약수’에 중복 지원한 수험생이 많을 수밖에 없다. ‘공대 선호’ 현상이 ‘의대 쏠림’에 실질적인 균열을 낸 것인지는 중복 합격자들의 최종 선택을 봐야 알 수 있을 것이다",
+      "author": null,
+      "summary": "4대 과기원 지원이 37% 급증한 것은 이공계 인재 확보의 기회인만큼, 우수 인재를 효과적으로 육성하고 확보해야 한다고 촉구합니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "fb397802a130",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "텍사스에서 좁혀지는 종교적 간극",
+      "link": "https://www.nytimes.com/2026/10/04/opinion/talarico-paxton-texas-senate-evangelicals.html",
+      "publishedAt": "2026-10-06T13:40:34.000Z",
+      "description": "It may not be enough for James Talarico to win. But might it also be a sign of a change to come?",
+      "author": "David French",
+      "summary": "텍사스에서 종교적 신앙의 간극이 줄어들고 있으며, 이것이 향후 정치적 변화의 신호가 될 수 있다고 제시합니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d1c8581ee086",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "소형 원자로, 주요 이정표 달성",
+      "link": "https://www.washingtonpost.com/opinions/2026/10/06/small-nuclear-reactor-permit-approval-tennessee-is-big-milestone/",
+      "publishedAt": "2026-10-06T11:15:00.000Z",
+      "description": "The technology could help scale advanced nuclear power to meet America's energy needs.",
+      "author": "Editorial Board",
+      "summary": "소형 원자로 기술이 미국의 에너지 수요 충족을 위한 첨단 원자력 확대에 도움이 될 것이라고 평가합니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c08d6263405e",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[강준만의 화이부동]호남이 화합과 통합을 주도하면 안 되나",
+      "link": "https://www.khan.co.kr/article/202610062005015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-10-06T11:05:01.000Z",
+      "description": "호남인의 사전에서 다양성이 사라진 지 오래다. 민주당은 그들을 믿고 오만의 극치로 자멸의 길로 내달리곤 한다 두 진영 모두 사실상 자멸 경쟁을 하고 있다고 해도 과언이 아니다. 이젠 호남인들 스스로가 결단을 내릴 때가 되었다 호남몰표란 ‘전략적 선택’과 5·18을 승패의 문제로 보는 틀서 벗어날 때가 되지 않았나? 모두에게 꼭 묻고 싶은 질문이다나는 31···",
+      "author": "강준만 전북대 명예교수",
+      "summary": "호남이 기존의 지역 정치 관행과 지역 트라우마를 벗어나 주도적으로 화합과 통합의 역할을 해야 한다고 주장합니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "da27ee894d2d",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[기고]대미투자의 성패, 어떻게 실행하느냐에 달렸다",
+      "link": "https://www.khan.co.kr/article/202610062005005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-10-06T11:05:00.000Z",
+      "description": "한국의 대미투자는 지난해 미국의 관세 압박 속에서 시작됐다. 자동차 같은 주력 상품의 미국 시장 접근을 지키고 수출과 고용 충격을 줄이기 위한 현실적 선택이었다. 일본과 유럽이 먼저 협상의 큰 틀에 합의한 상황에서 우리 기업만 높은 관세를 떠안을 수는 없었다. 이제 중요한 것은 얼마를 약속했느냐가 아니라, 투자금을 어떻게 돌려받고 우리 산업의 실익으로 연결···",
+      "author": "장상식 한국무역협회 국제무역통상연구원장",
+      "summary": "한국의 대미투자 성공은 약속한 투자규모보다는 투자금 회수와 산업 실익 창출이라는 실행 방안에 달려있다고 지적합니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2541eaecea94",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "이스라엘, 10월 7일의 그림자를 극복하려면",
+      "link": "https://www.nytimes.com/2026/10/06/opinion/israel-palestinians-netanyahu-flydubai.html",
+      "publishedAt": "2026-10-06T09:03:47.000Z",
+      "description": "What it will take for Israel to overcome the ghosts of Oct. 7.",
+      "author": "Bret Stephens",
+      "summary": "이스라엘이 10월 7일 테러 이후의 집단 트라우마를 극복하기 위해 필요한 조건들을 제시합니다.",
+      "summarySource": "llm"
+    }
+  ],
+  "summarizedAt": "2026-10-07T01:19:03.126Z",
+  "summaryStats": {
+    "llm": 40,
+    "fallback": 10,
+    "model": "claude-haiku-4-5"
+  }
+}
