@@ -1,0 +1,899 @@
+{
+  "date": "2026-10-08",
+  "generatedAt": "2026-10-09T01:46:04.856Z",
+  "categories": [
+    {
+      "id": "it",
+      "label": "IT·과학·AI"
+    },
+    {
+      "id": "economy",
+      "label": "경제·금융"
+    },
+    {
+      "id": "politics",
+      "label": "정치·사회"
+    },
+    {
+      "id": "world",
+      "label": "세계·국제"
+    },
+    {
+      "id": "editorial",
+      "label": "사설·칼럼",
+      "opinion": true,
+      "summaryMaxChars": 220
+    }
+  ],
+  "feedStatus": [
+    {
+      "source": "Ars Technica",
+      "category": "it",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "Hacker News",
+      "category": "it",
+      "ok": true,
+      "matched": 7
+    },
+    {
+      "source": "TechCrunch",
+      "category": "it",
+      "ok": true,
+      "matched": 2
+    },
+    {
+      "source": "The Verge",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "블로터",
+      "category": "it",
+      "ok": true,
+      "matched": 24
+    },
+    {
+      "source": "전자신문",
+      "category": "it",
+      "ok": true,
+      "matched": 22
+    },
+    {
+      "source": "ZDNet Korea",
+      "category": "it",
+      "ok": true,
+      "matched": 17
+    },
+    {
+      "source": "BBC Business",
+      "category": "economy",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "The Guardian",
+      "category": "economy",
+      "ok": true,
+      "matched": 13
+    },
+    {
+      "source": "매일경제 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 33
+    },
+    {
+      "source": "연합뉴스",
+      "category": "economy",
+      "ok": true,
+      "matched": 86
+    },
+    {
+      "source": "경향신문 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 36
+    },
+    {
+      "source": "경향신문 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 31
+    },
+    {
+      "source": "노컷뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "서울신문",
+      "category": "politics",
+      "ok": true,
+      "matched": 7
+    },
+    {
+      "source": "연합뉴스 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 42
+    },
+    {
+      "source": "연합뉴스 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 101
+    },
+    {
+      "source": "SBS 뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 13
+    },
+    {
+      "source": "Al Jazeera",
+      "category": "world",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC World",
+      "category": "world",
+      "ok": true,
+      "matched": 21
+    },
+    {
+      "source": "NPR",
+      "category": "world",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "The Guardian",
+      "category": "world",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "연합뉴스 국제",
+      "category": "world",
+      "ok": true,
+      "matched": 69
+    },
+    {
+      "source": "매일경제 증권",
+      "category": "economy",
+      "ok": true,
+      "matched": 31
+    },
+    {
+      "source": "경향신문 오피니언",
+      "category": "editorial",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "NYT Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 11
+    },
+    {
+      "source": "The Guardian Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 13
+    },
+    {
+      "source": "Washington Post Opinions",
+      "category": "editorial",
+      "ok": true,
+      "matched": 11
+    },
+    {
+      "source": "동아일보 사설",
+      "category": "editorial",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "동아일보 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 37
+    },
+    {
+      "source": "조선일보",
+      "category": "politics",
+      "ok": true,
+      "matched": 5
+    },
+    {
+      "source": "동아일보 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 20
+    },
+    {
+      "source": "머니투데이",
+      "category": "economy",
+      "ok": false,
+      "error": "fetch failed",
+      "matched": 0
+    },
+    {
+      "source": "Wired",
+      "category": "it",
+      "ok": true,
+      "matched": 33
+    },
+    {
+      "source": "DW News",
+      "category": "world",
+      "ok": true,
+      "matched": 18
+    }
+  ],
+  "items": [
+    {
+      "id": "1e19a85a20e3",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "스포티파이, 기업용 소프트웨어 판매 본격화",
+      "link": "https://techcrunch.com/2026/10/08/spotify-is-getting-more-serious-about-selling-enterprise-software/",
+      "publishedAt": "2026-10-08T14:34:33.000Z",
+      "description": "The company launched technology.spotify.com, a new site that will make its internal tech available to outsiders.",
+      "author": "Sarah Perez",
+      "summary": "스포티파이가 자체 기술을 기업용으로 판매하기 위해 새로운 기술 사이트 technology.spotify.com을 출시했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a9ad0abbc615",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "김영종 DXVX 신임 대표 \"적자 탈출…실적 성장 이미 시작\"[현장+]",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=675299",
+      "publishedAt": "2026-10-08T14:33:16.000Z",
+      "description": "고(故) 임성기 한미약품 창업주의 장남인 임종윤 코리그룹 회장이 최대주주 지위를 유지하는 DXVX의 신임 대표에 김영종 사장(60)이 신규 선임됐다. 그는 최근 복귀한 이용구 대표와 각자대표 체제로 회사를 이끌게 됐다.DXVX는 지난해 말 임 회장이 제3자배정 방식 유상증자를 통해 약 1000억원을 수혈하면서 재무적 위기에서 한숨을 돌린 상태다. 다만 올해 상반기 기준으로 현금성자산이 벌써 약 200억원밖에 남지 않았다는 시장의 우려가 나온다. 이에 대해 김 신임 대표는 대주주 차원의 추가 자금 투입이 더 이상 필요하지 않도록 하겠",
+      "author": "주샛별 기자",
+      "summary": "DXVX의 신임 대표 김영종 사장이 적자 탈출과 실적 성장을 약속하며 이용구 대표와 각자대표 체제로 경영을 이끌게 되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "54a050e81c8c",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "[LG 인사 시그널]④문혁수 체제 굳히는 이노텍, 부사장 승진자 나올까",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=675259",
+      "publishedAt": "2026-10-08T14:17:05.000Z",
+      "description": "올해로 취임 3년을 맞은 문혁수 LG이노텍 대표이사 사장이 첫 연임을 앞두고 입지를 굳히고 있다. 지난해 말 사장으로 승진하며 그룹의 신임을 확인한 만큼 연말 인사에서도 자리를 지킬 가능성이 높다는 관측이 나온다. 문 사장이 연임에 성공하면 LG이노텍의 중장기 성장 전략에도 한층 힘이 실릴 것으로 보인다.문 사장의 유임에 무게가 실리는 가운데 그의 뒤를 받칠 차세대 주자들에게도 시선이 향한다. 광학사업의 노승원 전무와 기판사업의 조지태 전무가 그 주인공이다. LG이노텍의 현재와 미래를 각각 책임지는 두 사람이 연말 인사에서 승진 명",
+      "author": "김나영 기자",
+      "summary": "문혁수 LG이노텍 대표의 첫 연임이 유력한 가운데 차세대 경영진으로 광학과 기판 사업 담당 전무들이 주목받고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ca59508492d9",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "보리카와 오픈웨이, 불가리아 유로 결제 혁신으로 페이360 어워즈 수상",
+      "link": "https://zdnet.co.kr/view/?no=20261008231013",
+      "publishedAt": "2026-10-08T14:10:13.000Z",
+      "description": "[지디넷코리아] 불가리아의 결제 혁신과 성공적인 유로화 전환에 기여한 공로 인정받아 최우수 파트너십 이니셔티브상 영예 런던, 2026년 10월 8일 PRNewswire / -- 보리카(BORICA AD)와 오픈웨이(OpenWay)가 불가리아의 결제 인프라와 성공적인 유로화 전환에 기여한 공로로 페이360 어워즈 2026(PAY360 Awards 2026)에서 최우수 파트너십 이니셔티브상(Best Partnership Initiative Award)을 공동 수상했다. BORICA and OpenWay receive the Best Partnership Initiative Award at the PAY360 Awards 2026 in London. 이 상은 절대로 멈춰서는 안 되는 과제에 집중한 장기 파트너십의 공을 인정해 수여한 것이다. 여기서 과제란 유로화 도입 첫 순간부터 일상적인 카드 결제와 현금자동입출금기(ATM) 서비스가 이어지게 하면서 중요한 국가 결제 인프라를 혁신하는 일이었다. 보리카와 오픈웨이는 2018년부터 보리카의 국가 결제 서비스 및 생태계 조정에 대한 전문성과 오픈웨이의 Way4 실시간 디지털 결제 소프트웨어 플랫폼 및 결제 기술 전문성",
+      "author": "글로벌뉴스",
+      "summary": "보리카(BORICA)와 오픈웨이(OpenWay)가 불가리아 결제 인프라 혁신과 유로화 도입을 지원한 공로로 페이360 어워즈 2026에서 최우수 파트너십상을 수상했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "92570ca80d28",
+      "category": "it",
+      "source": "Hacker News",
+      "region": "intl",
+      "title": "오르쿠트(Orkut.com) 복귀",
+      "link": "https://orkut.com/",
+      "publishedAt": "2026-10-08T14:09:53.000Z",
+      "description": "Article URL: https://orkut.com/ Comments URL: https://news.ycombinator.com/item?id=50006012 Points: 140 # Comments: 101",
+      "author": "andreynering",
+      "summary": "소셜 네트워크 플랫폼 오르쿠트(Orkut.com)가 온라인에서 복귀하여 관심층의 주목을 받고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9523a2fdd9f2",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "엑손모빌 기후변화 기만 캠페인 증거 추가로 드러나",
+      "link": "https://arstechnica.com/tech-policy/2026/10/exxonmobils-own-scientists-doubted-climate-fixes-the-company-hyped/",
+      "publishedAt": "2026-10-08T14:04:42.000Z",
+      "description": "Court filings reveal new details about Exxon's decades of internal climate deliberations.",
+      "author": "Nicholas Kusnetz, Inside Climate News",
+      "summary": "법원 제출 문서를 통해 엑손모빌(ExxonMobil)이 수십 년 동안 기후변화에 관한 내부 논의를 진행했던 증거가 새롭게 공개되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "279520fe4c5d",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "\"노벨상감 맞네\"…광유전학으로 실명 환자 '다시 봤다'",
+      "link": "https://www.etnews.com/20261008000308",
+      "publishedAt": "2026-10-08T13:45:00.000Z",
+      "description": "빛으로 신경세포의 활동을 켜거나 끄는 '광유전학' 기술을 활용한 유전자 치료가 실명 환자의 시력을 일부 회복시키는 데 효과가 있다는 연구 결과가 나왔다. 7일(현지시간) 영국 가디언 등에 따르면 스위스 바젤분자의학·임상의학안과연구소와 미국 피츠버그대 의료센터 연구진은 광유전학 기반 치료를 받은 망막색소변성증 환자 10명을 최대 5년간 추적 관찰한 결과를 국제학술지 '뉴잉글랜드저널오브메디신(NEJM)'에 발표했다. 광유전학은 빛에 반응하도록 특정",
+      "author": "서희원",
+      "summary": "광유전학 기반의 유전자 치료로 망막색소변성증 환자의 시력이 일부 회복되었다는 연구 결과가 국제학술지 뉴잉글랜드저널오브메디신에 발표되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7ceb60470f9c",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "\"잔소리 기분 나빠\"…전 직장동료 차량에 '붉은색 래커로 욕설' 테러한 중국인",
+      "link": "https://www.etnews.com/20261008000399",
+      "publishedAt": "2026-10-08T13:42:54.000Z",
+      "description": "전 직장동료의 잔소리에 앙심을 품고 그의 차량에 욕설을 적고 둔기로 차량을 파손한 30대 중국인 여성이 실형을 선고받았다. 8일 법조계에 따르면 인천지법 형사2단독 김지후 판사는 특수재물손괴 혐의로 기소된 중국인 A씨에게 징역 6개월을 선고했다. A씨는 지난 6월 29일 오전 10시20분께 인천 연수구 송도동의 한 상가건물 지하주차장에서 전 직장동료인 50대 여성 B씨의 차량을 훼손한 혐의를 받았다. A씨는 미리 준비한 붉은색 래커 스프레이로",
+      "author": "이상목",
+      "summary": "전 직장동료의 잔소리에 화풀이한 30대 중국인 여성이 상대방 차량에 욕설을 적고 파손하여 징역 6개월을 선고받았다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7c8f06f082df",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "새로운 알렉사 태블릿, 아마존 스마트폰의 청사진",
+      "link": "https://www.wired.com/story/alexa-tablets-blueprint-for-upcoming-amazon-phone/",
+      "publishedAt": "2026-10-08T13:00:00.000Z",
+      "description": "Amazon is rumored to be making a smartphone, and the Alexa-powered experiences on its new tablets give us a taste of what might come if that happens.",
+      "author": "Julian Chokkattu",
+      "summary": "아마존이 스마트폰 개발 중이라는 루머가 있는 가운데, 새로운 알렉사 태블릿의 인공지능 기능이 향후 스마트폰의 방향성을 시사하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7c5fbb2bc850",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "아마존 알렉사 태블릿 3종 출시",
+      "link": "https://www.wired.com/story/amazon-alexa-tablets-2026/",
+      "publishedAt": "2026-10-08T13:00:00.000Z",
+      "description": "The three new aluminum Alexa Tablets now run Android with full access to the Google Play Store. There are versions for kids too.",
+      "author": "Julian Chokkattu",
+      "summary": "아마존의 새로운 알렉사 태블릿 3종이 안드로이드 기반으로 구글 플레이 스토어에 완전히 접근 가능하고, 어린이용 버전도 함께 출시되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8bbba31af185",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "국내 금융권 해킹 배후는 '26세 중국인'?…지목된 남성은 \"휴대전화 도용당했다\"",
+      "link": "https://www.mk.co.kr/news/economy/12172047",
+      "publishedAt": "2026-10-08T14:14:06.000Z",
+      "description": "美 사이버보안 기업 공개 보고서 “현재 확보 정보만으론 특정못해”국내 금융사 7곳을 겨냥한 해킹 공격의 배후가 중국 광둥성에 거주하는 26세 인물일 수 있다는 분석이 나왔다. 공격..",
+      "author": "매일경제",
+      "summary": "국내 금융사 7곳 해킹의 배후로 지목된 중국 광둥성 26세 인물이 휴대전화 도용을 주장하고 있으며, 미국 사이버보안 기업은 현재 확보 정보만으로는 특정할 수 없다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c0bce80daf7f",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "Asos, 고객 명단·연락처·검색 기록 해킹 피해",
+      "link": "https://www.theguardian.com/business/2026/oct/08/asos-customer-data-accessed-hacker-posing-impersonated",
+      "publishedAt": "2026-10-08T13:54:58.000Z",
+      "description": "Experts say breadth of data accessed could help attackers devise “highly convincing” phishing scams Asos hackers gained access to millions of customers’ recent search histories as well as names, addresses and phone numbers, the online fashion retailer has revealed. Terms typed in by customers such as “glamorous wide fit” and “Asos petite” were in the data accessed in the cyber-attack, which emerged on Tuesday after app users received a notification titled “Asos hacked” with a link to the Telegram messaging service. Continue reading...",
+      "author": "Sarah Butler",
+      "summary": "온라인 패션 소매업체 Asos의 고객 수백만 명의 검색 기록과 이름, 주소, 전화번호가 해킹당했으며, 이러한 데이터가 피싱 사기에 악용될 수 있다고 전문가들이 경고했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f5d4d67ceeff",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "\"3개월 새 300% 뛰었는데 아직 시작도 안 했다\"…대박난 '이 주식' 뭐길래",
+      "link": "https://www.mk.co.kr/news/economy/12172028",
+      "publishedAt": "2026-10-08T13:45:41.000Z",
+      "description": "미국의 대표 메모리 반도체 기업 마이크론테크놀로지 주가가 최근 1년 새 470% 넘게 치솟았으나 여전히 기업 가치에 비해 낮다는 분석이 나왔다. 인공지능(AI) 투자 확대로 메모리..",
+      "author": "매일경제",
+      "summary": "마이크론테크놀로지 주가가 최근 1년 새 470% 이상 상승했으나, AI 투자 확대에도 불구하고 여전히 기업 가치 대비 낮다는 분석이 제시됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "fc68db352db2",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "이억원 \"가상자산 거래소 지분 규제, 누구의 지시 아냐\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261008208300002",
+      "publishedAt": "2026-10-08T13:23:05.000Z",
+      "description": "(서울=연합뉴스) 유동현 기자 = 이억원 금융위원장은 8일 가상자산 거래소 대주주 지분 제한 규정을 추진하는 것과 관련해 \"누구의 지시가 아니다...",
+      "author": "유동현",
+      "summary": "이억원 금융위원장은 가상자산 거래소 대주주 지분 제한 규정 추진이 누구의 지시가 아니라고 명확히 했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0160294b533b",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "국토부, '아시안게임 논란' 우수선수 주택 특공 제도 개선 검토",
+      "link": "https://www.yna.co.kr/view/AKR20261008210100003",
+      "publishedAt": "2026-10-08T12:55:27.000Z",
+      "description": "(세종=연합뉴스) 오진송 기자 = 국토교통부가 최근 2026 아이치·나고야 아시안게임을 계기로 논란이 된 우수선수 주택 특별공급 제도의 개선 여...",
+      "author": "오진송",
+      "summary": "국토교통부가 2026 아이치·나고야 아시안게임을 계기로 논란이 된 우수선수 주택 특별공급 제도의 개선을 검토 중이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "fda4fee349c5",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "크라이슬러 빌딩, 매각 후 왕관 부분 복원 진행",
+      "link": "https://www.bbc.co.uk/news/articles/c8g47z3r4dzvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-08T12:49:12.000Z",
+      "description": "The distinctive Manhattan skyscraper will undergo a major renovation and provide a new supply of offices.",
+      "author": null,
+      "summary": "맨해튼의 상징적 마천루 크라이슬러 빌딩이 매각 후 왕관 부분을 복원하고 새로운 사무실을 제공하는 대규모 리노베이션을 추진한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2fee33414f23",
+      "category": "economy",
+      "source": "동아일보 경제",
+      "region": "kr",
+      "title": "'카카오골프예약' 고객 3만4000명 정보 유출…숙박-결제 내역까지",
+      "link": "https://www.donga.com/news/Economy/article/all/20261008/134812307/1",
+      "publishedAt": "2026-10-08T12:13:00.000Z",
+      "description": "카카오 VX가 운영하는 골프장 예약 서비스 ‘카카오골프예약’에서 고객 약 3만4000명의 개인정보가 유출됐다. 이름과 전화번호는 물론 언제 골프를 치고 어디서 숙박하는지, 얼마를 결제했는지 알 수 있는 정보까지 빠져나갔다.카카오 VX는 8일 홈페이지에 공지문을 올리고 전날 외부 비인가자가 고객 정보를 유출한 사실을 확인했다고 밝혔다. 카카오골프예약은 가입자 약 300만 명을 보유한 서비스로, 골프장 예약 중개 외에도 여행사와 연계해 골프 라운드와 숙박 등을 묶은 국내 여행 상품을 판매하고 있다. 이번에 정보가 유출된 고객은 지난해 1월부터 올해 10월까지 해당 여행 상품을 예약한 약 3만4000명이다.유출된 정보에는 이름과 전화번호 외에도 예약 상품명, 골프 라운드 날짜, 숙박 정보, 결제 금액, 주문번호, 결제 및 취소 일시, 가상계좌번호 등이 포함됐다. 카드번호와 주민등록번호 등은 유출되지 않았다는 게 회사 측 설명이다. 다만 구체적인 예약 내역과 연락처가 함께 유출된 만큼 실제",
+      "author": null,
+      "summary": "카카오 VX가 운영하는 카카오골프예약 서비스의 약 3만4000명 고객 정보가 유출됐으며, 골프 일정과 숙박, 결제 정보 등이 포함되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "000107e63e25",
+      "category": "economy",
+      "source": "동아일보 경제",
+      "region": "kr",
+      "title": "韓-이집트 정상회담 계기 CEPA 협상 개시…조선 등 12건 MOU",
+      "link": "https://www.donga.com/news/Politics/article/all/20261008/134812046/1",
+      "publishedAt": "2026-10-08T11:39:00.000Z",
+      "description": "한국과 이집트가 8일 정상회담을 계기로 포괄적경제동반자협정(CEPA) 협상을 개시하기로 했다. 한국이 북아프리카 국가와 CEPA 협상 개시를 선언한 것은 처음이다. 이재명 대통령은 이날 청와대에서 10년만에 방한한 압둘팟타흐 시시 이집트 대통령과 정상회담을 한 뒤 공동언론발표를 갖고 “양국은 CEPA 협상을 개시할 것을 공식 선언했다”며 “협정이 조속히 타결돼 양국 교역과 투자는 물론 광범위한 분야로 경제협력이 확대되는 든든한 기반이 될 것으로 기대한다”고 밝혔다. CEPA는 자유무역협정(FTA)의 하나로 상품·서비스 시장 개방뿐 아니라 양국 간 포괄적인 경제협력을 강화하는 협정이다. 양 정상은 지난해 11월 한·이집트 CEPA 추진에 합의했고, 이어 올해 1월 산업통상부가 이집트를 찾아 CEPA 추진을 위한 공동선언문에 서명한 바 있다. 한국은 현재 인도, 인도네시아, 아랍에미리트 등 3개국과 CEPA를 체결한 상태다. 양국은 ‘전략적 동반자 관계’로 격상하기로 했다. 양국이 20",
+      "author": null,
+      "summary": "한국과 이집트가 정상회담을 계기로 포괄적경제동반자협정(CEPA) 협상 개시를 공식 선언했으며, 한국이 북아프리카 국가와 CEPA를 개시한 것은 처음이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9946dca648e8",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "\"단일 종목 레버리지 도입, 청와대 지시 아냐\"...고개 숙인 금융위원장",
+      "link": "https://www.mk.co.kr/news/stock/12171969",
+      "publishedAt": "2026-10-08T11:38:38.000Z",
+      "description": "국감 달군 ‘삼전닉스 레버리지’ 野 “靑 주도, 출시도 앞당겨” 李 “금융위서 절차대로 추진” 54조 vs 2.3조...손실 공방도삼성전자·SK하이닉스 단일종목 레버리지 상품의 도..",
+      "author": "매일경제",
+      "summary": "금융위원장이 삼성전자·SK하이닉스 단일종목 레버리지 상품 도입이 청와대의 지시가 아니라는 점을 국감에서 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a060491ea2fe",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "\"단순 분석을 스트레스 테스트라 하나\"…박대출, 단일종목레버리지 위험검증 부실 지적",
+      "link": "https://www.mk.co.kr/news/stock/12171968",
+      "publishedAt": "2026-10-08T11:36:08.000Z",
+      "description": "8일 금융위 국감서 자체 분석모형 공개 “최소 7개 시나리오·14개 산출물 검토했어야” 주가 급락·반등 때 손실·시장 충격 분석 이억원 “기관별·단계별 필요 사항 검토” 종합감사 ..",
+      "author": "매일경제",
+      "summary": "박대출 의원이 단일종목레버리지 상품의 위험 검증이 부실하다고 지적하며, 최소 7개 시나리오와 14개 산출물을 검토해야 한다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2b62e4b11417",
+      "category": "politics",
+      "source": "SBS 뉴스",
+      "region": "kr",
+      "title": "\"정부의 쌈짓돈\" \"성장 동력\"…미래대응기금 놓고 '충돌'",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008789697",
+      "publishedAt": "2026-10-08T14:52:00.000Z",
+      "description": "기획예산처 국정감사에서는 미래대응기금을 두고 여야가 또 날카롭게 대립했습니다. 국민의힘이 국회의 감시망을 우회하는 이재명 정부의 쌈짓돈에 불과하다며 기금 철회를 요구하자, 정부와 민주당은 성장 동력을 위한 기금에 정치 공세를 펴고 있다고 반박했습니다.김진우 기자가 보도합니다.",
+      "author": "hitrun@sbs.co.kr (김진우 기자)",
+      "summary": "미래대응기금을 두고 국민의힘은 이재명 정부의 국회 감시 우회라며 철회를 요구한 반면, 정부와 민주당은 경제 성장 동력으로 반박했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "684405f0f4df",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "국힘 \"서영교, 野의원만 발언권 정지\"…徐 \"위원장 의사진행\"",
+      "link": "https://www.yna.co.kr/view/AKR20261008089151001",
+      "publishedAt": "2026-10-08T14:28:30.000Z",
+      "description": "(서울=연합뉴스) 최평천 기자 = 여야는 8일 법무부 등에 대한 국회 법제사법위원회의 국정감사에서 더불어민주당 소속인 서영교 법사위원장의 야당 ...",
+      "author": "최평천",
+      "summary": "법제사법위원회 국정감사에서 국민의힘과 민주당이 서영교 위원장의 야당 의원 발언권 정지 처리를 두고 대립했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0ae20a9a0345",
+      "category": "politics",
+      "source": "서울신문",
+      "region": "kr",
+      "title": "\"순이익 10%에 관객당 200원까지\"…주진우, '암살자(들)' 배우 인센티브 공개 파장",
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20261008500310",
+      "publishedAt": "2026-10-08T14:19:15.000Z",
+      "description": "역사 왜곡 논란의 중심에 선 영화 ‘암살자(들)’를 둘러싼 정쟁이 주연 배우들의 ‘러닝개런티’(흥행 인센티브) 파문으로 확대되고 있다. 주진우 국민의힘 의원이 주요 배우들의 구체적인 인센티브 계약 조건을 공개하며 제작진과 출연진을 향한 공세의 수위를 높였다. 주진우 의원은 8일 페이스북을 통해 ‘패륜영화 암살자(들)로 얻게 되는 배우들의 인센티브’라는 제목의 글과 함께 주연 배우 유해진·박해일·이민호의 인센티브 내역이 담긴 자료를 공개했다. 공개된 자료에 따르면 배우 유해진은 4차 정산까지 영화 순이익의 10%를 인센티브로 지급받는 조건인 것으로 나타났다. 박해일과 이민호는 극장 손익분기점을 넘어선 시점부터 관객 1명당 각각 200원과 180원의 러닝개런티를 받는 구조다. 주 의원은 “배우들이 개런티 외에도 막대한 인센티브 수익을 얻는 구조”라며 “출연진이 역사 왜곡 논란에도 사과를 주저하는 이유가 흥행 추가 수익을 염두에 둔 것 아니냐”는 취지의 의혹을 제기했다. 공세는 정부 및 공공 펀드로도 이어졌다. 주 의원은 “이재명 정부 모태펀드가 투자 당시 이미 유족들의 명예훼손 및 소송 리스크를 인지하고 있었다”면서 “국민의 혈세로 역사 왜곡을 정당화하고, 역사",
+      "author": "문경근 기자",
+      "summary": "영화 '암살자(들)'를 둘러싼 정쟁이 배우들의 인센티브로 확대됐으며, 국민의힘 주진우 의원이 유해진·박해일·이민호의 구체적 계약 조건을 공개했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6a4d74bb2014",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "'빈총 경계' 질타에 굳은 표정… 고개 숙인 국감장의 장성들",
+      "link": "https://www.donga.com/news/Politics/article/all/20261008/134812866/1",
+      "publishedAt": "2026-10-08T14:08:00.000Z",
+      "description": "합동참모본부의 국정감사가 열린 8일 진영승 합동참모의장과 주요 참모들의 표정은 감사 내내 좋지 못했다. 이날 오후 서울 용산구 국방부에서 열린 국감에서는 육군 1군단의 빈총 경계 논란 등으로 여야의 질타가 이어졌고 진 의장을 비롯한 장성들은 감사 내내 고개를 숙인 채 자리를 지켰다.후반부 비공개로 진행됐던 오전 질의가 끝난 뒤, 오후 3시 30분께 속개된 감사는 시작부터 무거운 분위기가 이어졌다. 지난 8월 ‘빈총 경계’ 논란으로 직무배제 조치된 한기성 전 육군 1군단장이 출석한 뒤 증인석의 참모들은 곤란한 표정을 감추기에 급급한 모습이었다. 일부 의원들이 언성을 높여 한 전 군단장을 질책하기 시작하자, 진 의장을 비롯한 참석자들은 숙연한 표정으로 다음 질의를 기다렸다.",
+      "author": null,
+      "summary": "합동참모본부 국정감사에서 지난 8월 빈총 경계 논란을 두고 여야 질타가 이어졌으며, 진영승 의장 등 장성들이 어려운 표정으로 감사에 임했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "edbb2308bb09",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "트럼프는 흔드는데, 미국인 64% \"한·미 동맹, 미국 이익에 부합\"",
+      "link": "https://www.khan.co.kr/article/202610082300001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-10-08T14:00:00.000Z",
+      "description": "유엔 총회 참석차 미국을 방문 중인 이재명 대통령이 22일(현지시간) 뉴욕 한 호텔에서 도널드 트럼프 미국 대통령과 정상회담을 하고 있다. 연합뉴스도널드 트럼프 미국 행정부가 한·미 연합훈련 축소, 관세 부과, 호르무즈 파병 압박 등으로 연일 한·미 동맹에 대한 불만을 드러내고 있지만, 미국인의 64%는 한·미 동맹이 미국의 국가안보 이익에 부합한다고 여기···",
+      "author": "워싱턴 | 정유진 특파원",
+      "summary": "트럼프 행정부가 한·미 동맹에 불만을 드러내며 훈련 축소·관세 부과 등을 추진하지만, 미국인의 64%는 동맹이 미국 국가안보에 필수적이라고 평가했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "21300f953521",
+      "category": "politics",
+      "source": "연합뉴스 사회",
+      "region": "kr",
+      "title": "금융권 해커 지목된 중국인 '번호도용' 주장…경찰 \"가능성 열어둬\"",
+      "link": "https://www.yna.co.kr/view/AKR20261008211400004",
+      "publishedAt": "2026-10-08T13:19:58.000Z",
+      "description": "(서울=연합뉴스) 한지은 기자 = 국내 금융기관 해킹 공격자로 지목된 중국인 남성이 자신의 휴대전화 번호가 도용됐다며 해킹에 관여하지 않았다는 ...",
+      "author": "한지은",
+      "summary": "국내 금융기관 해킹 공격 용의자로 지목된 중국인 남성이 자신의 휴대전화 번호가 도용됐다며 관여를 부인했고, 경찰은 도용 가능성을 검토 중이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9e148b37512d",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "한글날 100돌…'재 너머 배나무에 새가 우네' 이토록 고운 우리말",
+      "link": "https://www.khan.co.kr/article/202610082216005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-10-08T13:16:00.000Z",
+      "description": "한글날 제정 100주년을 하루 앞둔 8일 서울 종로구 대한민국역사박물관에서 열리고 있는 기획특별전 ‘일구이륙 무한이륙’에 전시된 1961년 성인용 교재 ‘한글공부’를 한 어린이가 살펴보고 있다. 일제강점기였던 1926년 조선어연구회가 민족정신을 고취하기 위해 지정한 ‘가갸날’은 2년 후인 1928년 ‘한글날’로 개칭됐다.",
+      "author": "권도현 기자",
+      "summary": "한글날 제정 100주년을 맞아 대한민국역사박물관에서 기획특별전이 열렸으며, 1926년 조선어연구회가 지정한 '가갸날'이 1928년 '한글날'로 개칭된 역사가 전시되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f6d5220ee7b6",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "강화서 北유실지뢰 또 발견, 올해만 17번째…폭파 처리",
+      "link": "https://www.donga.com/news/Politics/article/all/20261008/134812853/2",
+      "publishedAt": "2026-10-08T12:41:00.000Z",
+      "description": "인천 강화군 주문도에서 지뢰가 발견돼 해병대가 현장에서 폭파 처리했다. 8일 해병대사령부에 따르면 해병대 2사단은 이날 오후 3시 30분경 인천 강화군 서도면 주문도 대빈창해수욕장 인근에서 ‘지뢰 추정 물체가 발견됐다’는 신고를 접수하고 폭발물처리반(EOD)을 현장에 투입했다.EOD는 오후 5시 30분경 현장에서 지뢰를 안전하게 폭파 처리했다. 지뢰 발견 및 폭파 과정에서 인명이나 재산 피해는 발생하지 않았다.해병대는 자체 조사 결과 해당 지뢰가 북한에서 유실된 반보병지뢰로 추정된다고 밝혔다. 강화도에서 지뢰가 발견된 것은 올해만 17번째다. 이번 발견은 지난 8월 15일 이후 54일 만이다.해병대는 “지역주민들이 안전하게 해안을 이용할 수 있도록 수색 및 예방활동을 지속하고 있다”며 “지역주민 및 관광객들께서는 위험지역 출입을 삼가주시고, 의심물체 발견 시 경찰이나 군으로 즉시 신고해 달라”고 당부했다.",
+      "author": null,
+      "summary": "인천 강화군 주문도에서 북한 유실 반보병지뢰가 발견되어 해병대가 폭파 처리했으며, 올해 들어 17번째 지뢰 발견 사건이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d45077353754",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "국힘 경기 용인갑 조직위원장에 윤재복…경선서 양향자 제쳐",
+      "link": "https://www.yna.co.kr/view/AKR20261008205100001",
+      "publishedAt": "2026-10-08T11:44:25.000Z",
+      "description": "(서울=연합뉴스) 권희원 기자 = 국민의힘 조직강화특별위원회(조강특위)는 경기 용인갑 조직위원장 결선 투표 결과 윤재복 후보가 최고위원인 양향자...",
+      "author": "권희원",
+      "summary": "국민의힘 조직강화특별위원회가 경기 용인갑 조직위원장 결선 투표에서 윤재복 후보를 선출했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f5889535fe3c",
+      "category": "politics",
+      "source": "조선일보",
+      "region": "kr",
+      "title": "서울 잠수교, 개통 50년 만에 보행자 전용 교량으로…26일부터 차량 규제",
+      "link": "https://www.chosun.com/jp/politics-national-jp/2026/10/08/S5FVUS7EZRHXDNGXHQ4NZZJIAA/",
+      "publishedAt": "2026-10-08T09:31:57.000Z",
+      "description": "",
+      "author": "ユン・ソンウ 記者",
+      "summary": "서울 잠수교가 개통 50년 만에 보행자 전용 교량으로 전환되며, 26일부터 차량 통행이 규제된다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "913af2487423",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "\"문제는 경제야\"…美선거광고서 민주 '물가' 공화 '감세' 방점",
+      "link": "https://www.yna.co.kr/view/AKR20261008215600071",
+      "publishedAt": "2026-10-08T14:42:58.000Z",
+      "description": "(워싱턴=연합뉴스) 이유미 특파원 = 11월 미국 중간선거를 앞두고 공화당과 민주당이 모두 경제를 선거 광고의 핵심 주제로 내세우는 것으로 나타...",
+      "author": "이유미",
+      "summary": "11월 미국 중간선거를 앞두고 민주당은 물가 문제를, 공화당은 감세 정책을 각각 경제 광고의 핵심 주제로 삼고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "26152555a298",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "EU 특사, 중국 베이징 방문해 무역 긴장 완화 협상",
+      "link": "https://www.dw.com/en/eu-envoy-in-beijing-for-talks-to-calm-trade-tensions/a-79598713?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-10-08T14:42:00.000Z",
+      "description": "The EU trade envoy said he hoped to make progress in tackling the bloc's \"unsustainable\" trade imbalance with China. Beijing called for trade disputes to be resolved through equal dialogue.",
+      "author": null,
+      "summary": "EU 무역특사가 중국과의 '지속 불가능한' 무역 불균형 해결을 위해 베이징을 방문했으며, 중국은 무역 분쟁을 평등한 대화로 해결할 것을 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "39a78d50843d",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "인도, 약한 몬순으로 물 부족·전력난 직면",
+      "link": "https://www.dw.com/en/india-faces-water-and-power-shortages-after-weak-monsoon/a-79599540?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-10-08T14:40:00.000Z",
+      "description": "A weak monsoon in India is hitting farmers, water supplies and the power system, while raising wider questions about increasingly erratic rainfall and the economic costs.",
+      "author": null,
+      "summary": "인도가 약한 몬순으로 인해 물 공급과 전력 체계에 심각한 타격을 받고 있으며, 농업과 경제에 광범위한 영향을 미치고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "15d68ce41c20",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "카니, 앤 카슨 노벨문학상 축하…\"캐나다의 자랑스러운 순간\"",
+      "link": "https://www.yna.co.kr/view/AKR20261008215300072",
+      "publishedAt": "2026-10-08T14:34:20.000Z",
+      "description": "(뉴욕=연합뉴스) 김연숙 특파원 = 마크 카니 캐나다 총리는 8일(현지시간) 노벨문학상을 수상한 자국 작가 앤 카슨(76)에게 축하 인사를 건네...",
+      "author": "김연숙",
+      "summary": "마크 카니 캐나다 총리가 노벨문학상을 수상한 캐나다 작가 앤 카슨에게 축하 메시지를 보냈다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b349201fc58a",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "애리조나 하원 후보, 선거 현수막 수리 중 강간 피해 주장",
+      "link": "https://www.bbc.co.uk/news/articles/c65yndpnk5qdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-08T14:10:58.000Z",
+      "description": "Bernadette Greene-Placentia says her memory of the attack is spotty and that she was knocked unconscious.",
+      "author": null,
+      "summary": "Bernadette Greene-Placentia 후보가 선거 현수막 수리 중 성폭력을 당했다고 주장했으며, 당시 의식을 잃었다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "51b6098aa1e2",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "러시아의 버스 공격, 우크라이나 크라마토르스크에서 30명 이상 사망",
+      "link": "https://www.theguardian.com/world/2026/oct/08/russian-attack-buses-ukraine-frontline-kramatorsk",
+      "publishedAt": "2026-10-08T14:00:05.000Z",
+      "description": "Zelenskyy says Kremlin deliberately targeted ‘ordinary public transport stop’ in Kramatorsk, with 18 wounded A Russian missile strike on a bus in the eastern city of Kramatorsk has killed at least 30 people, officials have said, in one of the worst attacks by Moscow on Ukrainian civilians this year. The regional prosecutor’s office in the Donetsk region said on Thursday the vehicle had been hit at 10am by an aerial bomb. “As of now, the death toll from this morning’s attack has risen to 30. Eighteen people were wounded,” it said, adding that all local public transport had been suspended. Conti",
+      "author": "Luke Harding",
+      "summary": "러시아의 미사일 공격으로 우크라이나 동부 도시 크라마토르스크의 버스가 피격돼 최소 30명이 사망하고 18명이 부상했으며, 젤렌스키는 크렘린이 민간인을 의도적으로 표적했다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b210493ceb56",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "멜로니 선거 개혁, 비밀 투표로 통과…이탈리아 야당 강력 반발",
+      "link": "https://www.theguardian.com/world/2026/oct/08/giorgia-meloni-italy-wins-bonus-seat-electoral-reform-vote",
+      "publishedAt": "2026-10-08T13:42:50.000Z",
+      "description": "Parties vow to challenge law in court, arguing that extra reward for those with 42% of support distorts public representation Europe live – latest updates A controversial overhaul to electoral law that critics say is aimed at boosting Giorgia Meloni’s chances of clinging on to power in elections next year has been given final approval by the Italian parliament. Meloni, the Italian prime minister, says the new system, which introduces a fully proportional model, including bonus seats for any coalition that wins the most votes, will bring about greater political stability, while opposition parti",
+      "author": "Angela Giuffrida in Rome",
+      "summary": "이탈리아 의회가 지오르지아 멜로니 총리의 선거법 개혁을 최종 승인했으나, 야당은 최다 투표 연립에 보너스 의석을 부여하는 이 법이 공정성을 훼손한다고 강력히 항의했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "525d24708a40",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "이탈리아, 야당의 '사기' 비난 속 선거 개혁 승인",
+      "link": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-08T12:32:12.000Z",
+      "description": "Prime Minister Giorgia Meloni says the move will deliver more stable government, but opposition parties say her aim is to stay in power.",
+      "author": null,
+      "summary": "이탈리아가 멜로니 총리의 선거 개혁을 승인했으나, 야당은 이것이 그녀의 권력 유지만을 목표로 한 '사기'라고 비난했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "af7a430237df",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "한국, 자체 개발 극초음속 무기 시험 비행 성공",
+      "link": "https://www.npr.org/2026/10/08/g-s1-147113/south-korea-test-flies-its-first-domestically-developed-hypersonic-weapon",
+      "publishedAt": "2026-10-08T12:01:34.000Z",
+      "description": "The test follows North Korea's recent hypersonic missile test. Tensions between the Koreas have increased after land mine explosions injured three South Korean soldiers near the border. North Korea denies responsibility.",
+      "author": "The Associated Press",
+      "summary": "한국이 자체 개발한 극초음속 무기의 시험 비행을 성공적으로 실시했으며, 이는 북한의 최근 미사일 시험에 따른 것으로 한반도 긴장이 고조되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e1441ddb03df",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "허리케인 이사이어스 강화, Pike 사형 증거 보존 명령",
+      "link": "https://www.npr.org/2026/10/08/g-s1-147105/up-first-newsletter-hurricane-isaias-house-elections-christa-pike-nidal-hasan-cnn-ms-now-politico",
+      "publishedAt": "2026-10-08T11:35:22.000Z",
+      "description": "People in the Gulf are preparing for bad weather this weekend after Isaias intensified into a hurricane. And, a judge has ordered Christa Pike's failed execution evidence be preserved.",
+      "author": "Brittney Melton",
+      "summary": "열대폭풍 이사이어스가 허리케인으로 강화돼 걸프 지역에 이번 주말 악천후가 예상되고 있으며, 법원은 Christa Pike의 사형 집행 증거 보존을 명령했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "75ee7c2517f9",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]한 발 더 물러선 농지조사… 잘못된 건 빨리 고쳐야",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261008/134812700/2",
+      "publishedAt": "2026-10-08T14:30:00.000Z",
+      "description": "농지 전수조사에 대한 농촌 현장의 반발과 불안이 가라앉지 않자 정부가 후속 대책을 내놨다. 투기 목적이 명백한 농지법 위반일 때만 농지를 처분하고 상속받은 농지나 고령농의 관행적 임대차 등은 처분 대상에서 제외하기로 했다. 개정 농지법 시행 24일 만인 지난달 21일 ‘농지은행 위탁 시 처분 유예’라는 처방을 내놓은 지 불과 17일이 지나 다시 한발 물러선 것이다. 8일 농림축산식품부는 허위 영농계획서를 이용해 농지를 취득한 뒤 방치하는 등 투기가 명백한 3대 유형을 제외하고는 농지은행 위탁 여부와 관계없이 처분 절차를 진행하지 않겠다고 밝혔다. 고령으로 농사를 짓지 못해 이웃에게 경작을 맡겼거나 상속받은 뒤 방치한 농지, 소유 관계가 복잡한 종중 및 사찰 소유 농지, 영농이 곤란한 맹지, 미허가 농업용 시설 등이 처분 대상에서 제외된다. 농지 불법 이용을 양성화할 수 있도록 2, 3년의 특례기간을 두기로 했다. 이를 위해 이달 중 특별조치법을 발의해 연내에 입법 절차를 마무리할",
+      "author": null,
+      "summary": "정부가 농지 전수조사의 처분 기준을 자꾸 완화하는 것은 정책 일관성을 잃었다고 비판하며, 명확한 기준으로 이 과제를 완수해야 한다고 촉구함.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "42122aaeee82",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]삼전 3분기 영업익 107조… 세계 제조업 역사 새로 썼다",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261008/134812704/2",
+      "publishedAt": "2026-10-08T14:27:00.000Z",
+      "description": "삼성전자의 3분기 영업이익이 107조 원을 넘긴 것으로 잠정 집계됐다. 처음으로 분기 영업이익 ‘100조 원 시대’를 연 것이다. 전 세계로 범위를 넓혀도 사우디아라비아 국영 석유기업 아람코가 러시아의 우크라이나 침공 직후인 2022년 2분기 한 차례 기록한 데 이어 두 번째다. 인공지능(AI) 시대의 ‘황제’ 미국 엔비디아와 비교해도 삼성전자의 분기 영업이익이 25%나 더 많다. 세계 기업사에 또 하나의 이정표를 남긴 것이다. 이번에도 삼성전자 실적은 반도체가 주도했다. 삼성전자는 올 상반기 반도체(DS) 부문에서 전체 영업이익의 97% 이상을 벌어들였는데, 3분기는 그 비율이 더 높아졌을 수 있다. 메모리 반도체인 D램과 낸드플래시 가격이 전 분기보다 약 20%씩 오른 것으로 추정되기 때문이다. 반면 스마트폰과 TV 가전을 총괄하는 디바이스경험(DX) 부문은 반도체 비용 급증에 따른 원가 부담으로 반등의 기회를 찾지 못하고 있다. 세계 제조업 역사를 다시 쓴 삼성전자지만 긴장",
+      "author": null,
+      "summary": "삼성전자가 분기 영업이익 100조 원을 달성해 세계 제조업 역사에 새 이정표를 세웠지만, 반도체 중심의 수익 구조를 개선하고 가전 부문의 경쟁력을 회복해야 한다고 지적함.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "43fdcbc057e5",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "TikTok이 우리를 문명의 암흑기로 되돌리고 있다",
+      "link": "https://www.nytimes.com/video/opinion/100000011195425/tiktok-is-taking-us-back-to-the-dark-ages.html",
+      "publishedAt": "2026-10-08T14:24:13.000Z",
+      "description": "Welcome to the postliterate era.",
+      "author": null,
+      "summary": "TikTok이 시각 중심의 콘텐츠 플랫폼으로 기능하면서 사람들의 문해력을 약화시키고 인류를 문명 이전의 문맹 시대로 되돌리고 있다고 비판함.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "13fb43e06bc4",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "기쁨의 순간에 '예'라고 말하기: 미뤄온 인생을 다시 살기",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/09/i-spent-years-postponing-my-own-joy-heres-how-i-learned-to-say-yes-to-the-juicy-bits-of-life",
+      "publishedAt": "2026-10-08T14:00:23.000Z",
+      "description": "Society tells us there is one way to live a life, and joy is a byproduct on the path there. But you don’t need a reason to enjoy the act of being alive I have been dwelling on what it means to live well. Not because I have mastered it, but because I have become very comically bad at it. I have spent years rushing through my life, panicked and convinced I was running out of time. I worried constantly about work – getting it, keeping it, doing it, caring about it too much, hating it and losing it. I obsessed over being more productive. I fretted about money, mostly about not having any left afte",
+      "author": "Sheree Joseph",
+      "summary": "사회가 정한 성공 경로에 집착하느라 현재의 기쁨을 미뤄왔던 자신을 반성하면서, 특별한 이유 없이도 인생의 즐거운 순간들을 누리는 것이 중요하다고 강조함.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "cd04bd83edbc",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "직장에서 AI 감시나 평가를 받은 경험이 있으신가요?",
+      "link": "https://www.theguardian.com/technology/2026/oct/08/tell-us-have-you-been-monitored-or-assessed-by-ai-at-work",
+      "publishedAt": "2026-10-08T12:23:20.000Z",
+      "description": "We’d like to hear from people who have been monitored or assessed by AI at work and what they thought about the experience Firms are increasingly using AI to monitor or assess their employees, leading to concerns about workplace surveillance. Instructors at tech training company Multiverse recently blew the whistle at their “remorseless” and “unnerving” AI monitoring system, while The Co-Op has used automated listening technology that rates every phone call some of them make to customers. Continue reading...",
+      "author": "Guardian community team",
+      "summary": "직장에서 AI를 통한 직원 감시와 평가가 증가하는 현상에 대해 근로자들의 실제 경험과 그에 대한 인식을 수집하고 있음.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ed78a3203b04",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "월드시리즈 우승팀은 돈으로 정해지는가: 돈이 전부 아니라는 주장",
+      "link": "https://www.washingtonpost.com/opinions/2026/10/08/mlb-playoffs-are-crapshoot-dodgers-victory-wont-prove-anything/",
+      "publishedAt": "2026-10-08T11:30:00.000Z",
+      "description": "Booing the Dodgers misses the truth about baseball: Money isn’t everything.",
+      "author": "Will Leitch",
+      "summary": "월드시리즈가 자본력에 의해 결정된다는 비판에 반박하면서, 야구에서는 돈만이 아닌 다양한 요소들이 우승을 좌우한다고 주장함.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "28c898febb56",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "살 곳이 더 있다: 과소평가된 다섯 개 주",
+      "link": "https://www.washingtonpost.com/opinions/2026/10/08/look-past-hate-these-five-states-are-underrated/",
+      "publishedAt": "2026-10-08T11:15:00.000Z",
+      "description": "From New Mexico to New Jersey, these states deserve your consideration.",
+      "author": "Washington Post Opinions",
+      "summary": "뉴멕시코에서 뉴저지까지 여러 주(州)들이 거주지로서 과소평가받고 있으며, 이들 지역의 매력과 생활의 질이 더 주목받아야 한다고 제안함.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c85d8c08d493",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[세상 읽기] 78년 만의 도전 농지 전수조사, 완수하려면",
+      "link": "https://www.khan.co.kr/article/202610082013045/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-10-08T11:13:04.000Z",
+      "description": "농지 문제가 정치 복판으로 들어왔다. 농업이 국민적 관심사로 떠올랐을 때 긍정적인 신호였던 적은 거의 없다. 가축전염병이 창궐하거나 흉년으로 ‘금사과’니 ‘금계란’이니 할 때다. 대통령의 지시로 정부 수립 후 78년 만에 처음으로 농지 전수조사가 시작되자 정치권은 물론 도시, 농촌 가릴 것 없이 콩 튀듯 팥 튀듯 한다. 야당 대표는 토지 강제매각이라며 사회···",
+      "author": "정은정 농촌사회학 연구자",
+      "summary": "농지 전수조사가 정치권의 반발에 직면하고 있지만, 역사적으로 의미 있는 이 과제를 성공적으로 완수하기 위해서는 정치적 합의와 체계적 추진이 필요하다고 강조함.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ae2e983e10fc",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[시론]분단국의 데우스 엑스 마키나",
+      "link": "https://www.khan.co.kr/article/202610082013035/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-10-08T11:13:03.000Z",
+      "description": "얼마 전 인기리에 방영된 드라마 의 주인공은 유일한 가족인 딸을 구하기 위해 숨겨온 자신의 정체를 드러내는 인물이다. 조선(북한)의 남파공작원이었지만 작전에 실패한 이후 북파공작원이 되어 남북을 오갔던 그는 어떤 상대도 제압하는 가공할 힘의 소유자이다. 남북의 비밀병기라는 설정은 그 자체로 판타지임이 분명하지만, 한국 액션 드라마 주인공···",
+      "author": "김성경 서강대 사회학과 교수",
+      "summary": "최근 드라마의 남북 스파이 캐릭터 설정이 판타지지만, 분단 국가라는 특수한 현실을 배경으로 한 한국 드라마의 특징을 잘 드러낸다고 지적함.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ccbb67c29141",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "코넬 사건이 드러낸 것: 우리가 말할 수 없는 악행들",
+      "link": "https://www.nytimes.com/2026/10/08/opinion/cornell-sex-consent-rape-criminal.html",
+      "publishedAt": "2026-10-08T10:47:21.000Z",
+      "description": "We are unable to recognize and critique bad behavior outside of a narrow definition of criminal sex.",
+      "author": "Christine Emba",
+      "summary": "코넬 사건을 사례로 들어, 사회가 성적 학대에만 좁게 초점을 맞춰 다양한 형태의 해로운 행동을 제대로 인식하고 비판하지 못한다고 지적함.",
+      "summarySource": "llm"
+    }
+  ],
+  "summarizedAt": "2026-10-09T01:52:22.790Z",
+  "summaryStats": {
+    "llm": 50,
+    "fallback": 0,
+    "model": "claude-haiku-4-5"
+  }
+}
