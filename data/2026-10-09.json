@@ -1,0 +1,898 @@
+{
+  "date": "2026-10-09",
+  "generatedAt": "2026-10-10T01:32:46.678Z",
+  "categories": [
+    {
+      "id": "it",
+      "label": "IT·과학·AI"
+    },
+    {
+      "id": "economy",
+      "label": "경제·금융"
+    },
+    {
+      "id": "politics",
+      "label": "정치·사회"
+    },
+    {
+      "id": "world",
+      "label": "세계·국제"
+    },
+    {
+      "id": "editorial",
+      "label": "사설·칼럼",
+      "opinion": true,
+      "summaryMaxChars": 220
+    }
+  ],
+  "feedStatus": [
+    {
+      "source": "Ars Technica",
+      "category": "it",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "Hacker News",
+      "category": "it",
+      "ok": true,
+      "matched": 2
+    },
+    {
+      "source": "TechCrunch",
+      "category": "it",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "The Verge",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "블로터",
+      "category": "it",
+      "ok": true,
+      "matched": 29
+    },
+    {
+      "source": "전자신문",
+      "category": "it",
+      "ok": true,
+      "matched": 10
+    },
+    {
+      "source": "ZDNet Korea",
+      "category": "it",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "BBC Business",
+      "category": "economy",
+      "ok": true,
+      "matched": 21
+    },
+    {
+      "source": "The Guardian",
+      "category": "economy",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "매일경제 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 12
+    },
+    {
+      "source": "연합뉴스",
+      "category": "economy",
+      "ok": true,
+      "matched": 31
+    },
+    {
+      "source": "경향신문 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 39
+    },
+    {
+      "source": "경향신문 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "노컷뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "서울신문",
+      "category": "politics",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "연합뉴스 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 63
+    },
+    {
+      "source": "연합뉴스 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 37
+    },
+    {
+      "source": "SBS 뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 18
+    },
+    {
+      "source": "Al Jazeera",
+      "category": "world",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC World",
+      "category": "world",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "NPR",
+      "category": "world",
+      "ok": true,
+      "matched": 4
+    },
+    {
+      "source": "The Guardian",
+      "category": "world",
+      "ok": true,
+      "matched": 18
+    },
+    {
+      "source": "연합뉴스 국제",
+      "category": "world",
+      "ok": true,
+      "matched": 82
+    },
+    {
+      "source": "매일경제 증권",
+      "category": "economy",
+      "ok": true,
+      "matched": 13
+    },
+    {
+      "source": "경향신문 오피니언",
+      "category": "editorial",
+      "ok": true,
+      "matched": 2
+    },
+    {
+      "source": "NYT Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 12
+    },
+    {
+      "source": "The Guardian Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "Washington Post Opinions",
+      "category": "editorial",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "동아일보 사설",
+      "category": "editorial",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "동아일보 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 29
+    },
+    {
+      "source": "조선일보",
+      "category": "politics",
+      "ok": true,
+      "matched": 1
+    },
+    {
+      "source": "동아일보 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 40
+    },
+    {
+      "source": "머니투데이",
+      "category": "economy",
+      "ok": true,
+      "matched": 13
+    },
+    {
+      "source": "Wired",
+      "category": "it",
+      "ok": true,
+      "matched": 24
+    },
+    {
+      "source": "DW News",
+      "category": "world",
+      "ok": true,
+      "matched": 14
+    }
+  ],
+  "items": [
+    {
+      "id": "8dd66e7303ef",
+      "category": "it",
+      "source": "Hacker News",
+      "region": "intl",
+      "title": "자동회귀 확산 모델로 시장 데이터를 생성할 수 있을까?",
+      "link": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
+      "publishedAt": "2026-10-09T14:56:13.000Z",
+      "description": "Article URL: https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/ Comments URL: https://news.ycombinator.com/item?id=50021410 Points: 3 # Comments: 0",
+      "author": "jsomers",
+      "summary": "Jane Street에서 자동회귀 확산 기술을 금융 시장 데이터 생성에 활용할 수 있는지를 다룬 기술 분석 글을 게재했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "205dc678d1d3",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "한화오션, 노조 고공농성에 협상 촉구…\"안전·생산 위협 우려\"",
+      "link": "https://zdnet.co.kr/view/?no=20261009235357",
+      "publishedAt": "2026-10-09T14:53:57.000Z",
+      "description": "[지디넷코리아]한화오션이 노조 지회장의 크레인 고공농성에 안전과 생산 차질 우려를 제기하며 협상장에서 임금·단체협약 논의를 이어갈 것을 촉구했다.한화오션은 9일 정인섭 경영지원실장 사장 명의의 임직원 담화문을 내고 교섭 제시안의 취지와 주요 쟁점에 대한 입장을 밝혔다. 회사는 약 4개월간 26차례 교섭에도 합의에 이르지 못하고 농성으로 이어진 상황에 책임을 통감한다고 설명했다.앞서 김유철 금속노조 한화오션지회장은 지난 8일 거제사업장 내 크레인에서 고공농성을 시작했다. 노조는 회사의 3차 제시안에 일부 진전이 있었지만 수용하기에는 부족하다며, 조선업 호황에 걸맞은 임금 인상과 성과급 제도 개선 등을 요구하고 있다.회사는 일시적인 보상 확대보다 장기적으로 유지할 수 있는 임금·복지 개선에 무게를 뒀다고 설명했다. 기본급 인상과 함께 연간 100만 복지포인트 지급을 제안했으며, 경조금도 주요 개정 항목마다 100만원 안팎을 올리는 방안을 제시했다고 밝혔다.이 같은 제안에는 누적 부채와 향후 투자 부담을 함께 고려했다는 설명이다. 한화오션은 최근 실적 개선에도 과거 부채 부담에서 충분히 벗어나지 못했고, 중국 조선업과의 경쟁에 대응하기 위한 투자도 필요하다고 강조",
+      "author": "류은주 기자",
+      "summary": "한화오션 노조가 임금 인상을 요구하며 고공농성을 지속 중인 가운데, 회사는 기본급 인상과 연간 100만 복지포인트 지급으로 임금 협상 타결을 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d7a1c9894fff",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "TechCrunch Disrupt 2026 주간의 네트워킹 행사와 부대 이벤트 가이드",
+      "link": "https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/",
+      "publishedAt": "2026-10-09T14:42:34.000Z",
+      "description": "TechCrunch Disrupt 2026 is just the beginning. From exclusive networking events and startup showcases to happy hours, dinners, and after-hours meetups, discover what’s happening across San Francisco during Disrupt Week, October 10–16. Find your next connection, your next opportunity, or your next favorite event.",
+      "author": "Jean Bradley, TechCrunch Events",
+      "summary": "10월 10~16일 샌프란시스코에서 열리는 TechCrunch Disrupt 2026 행사 기간에 스타트업 쇼케이스, 네트워킹 이벤트, 저녁 모임 등 다양한 부대행사가 개최된다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a8212300b853",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "동양생명, 소비자보호 교육 넘어 경영진 관리체계로",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=675322",
+      "publishedAt": "2026-10-09T14:00:00.000Z",
+      "description": "동양생명이 금융소비자보호를 임직원 교육이나 캠페인에 머무는 과제가 아니라 경영진이 직접 관리하는 영역으로 다루고 있다. 소비자보호 관련 의사결정을 이사회 산하 위원회에서 맡고 상품 기획부터 판매 이후까지 관리 절차를 연결했다. 최근에는 인공지능(AI)을 활용한 사이버 공격에 대응해 대표이사 주재 위기대응위원회까지 가동하며 고객 정보 보호에도 관리 범위를 넓혔다.10일 동양생명에 따르면 올해 이사회 산하에 금융소비자보호위원회를 신설했다. 불완전판매와 금융사기, 민원 등 소비자보호 과정에서 발생할 수 있는 위험을 위원회가 관리하고 관련",
+      "author": "박준한 기자",
+      "summary": "동양생명이 금융소비자보호를 경영진이 직접 관리하는 영역으로 전환하며 이사회 산하 금융소비자보호위원회를 신설하고, AI 기반 사이버 공격 대응도 강화했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f7d155cefb72",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "오픈AI \"연구원 3명 해고, 안전문제 제기 때문 아냐\"",
+      "link": "https://zdnet.co.kr/view/?no=20261009225448",
+      "publishedAt": "2026-10-09T13:54:48.000Z",
+      "description": "[지디넷코리아]오픈AI가 안전 담당 연구원 해고 사태에 대해 본격적으로 해명하고 나섰다.CNBC를 비롯한 외신들에 따르면 오픈AI는 8일(현지시간) 안전 전문 연구자 3명을 해고한 것은 ‘심각한 신뢰 위반’을 저질렀기 때문이라고 반박했다.오픈AI는 지난 주 재스민 왕, 토멕 코박, 미키타 바레스니 등 안전팀 소속 연구원 3명을 해고했다.해고된 세 명의 연구원은 오픈AI 이사회 및 이사회 산하 안전위원회에 보낸 편지에서 인공지능(AI)의 안전우려를 제기한 뒤 해고됐다고 주장했다. 세 명 모두 9월 X에 글을 올려 프론티어 모델 개발 속도 조절을 촉구하면서 안전 관련 우려를 제기했다.그러자 오픈AI는 이날 성명을 통해 “(세 명의 연구원들이) 민감 정보 취급에 관한 명확한 방침을 위반했다는 조사 결과에 따라 이번 결정을 하게 됐다”고 밝혔다.반면 회사 측은 연구원들이 제기한 ‘프론티어 모델의 감시 가능성’과 관련된 문제 제기에는 동의한다면서 해당 분야에 대한 투자는 계속할 계획이라고 덧붙였다.",
+      "author": "김익현 미디어연구소장",
+      "summary": "오픈AI가 해고한 안전팀 연구원 3명이 AI 안전우려를 제기해서 해고됐다고 주장했으나, 오픈AI는 민감 정보 취급 방침 위반이 이유라고 반박했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "eb16e3835272",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "\"허리가 왜 불룩해?\"…살아있는 새 밀수하려던 남성 '체포'",
+      "link": "https://www.etnews.com/20261008000309",
+      "publishedAt": "2026-10-09T13:30:00.000Z",
+      "description": "살아있는 새 10마리를 옷 안에 넣어 밀수하려던 남성이 미국 세관에서 적발됐다. 7일(현지시간) 미국 폭스뉴스 등에 따르면 쿠바 출신으로 미국 영주권자인 알베르토 에르난데스 카스티요는 지난 4일 쿠바 하바나에서 출발한 항공편을 타고 미국 플로리다주 마이애미 국제공항에 도착했다. 미 세관국경보호국(CBP) 직원들은 카스티요를 2차 검사 대상으로 선정했다. 세관 직원들은 먼저 그의 기내용 가방과 허리 가방을 검사했지만 별다른 밀수품을 발견하지 못했",
+      "author": "서희원",
+      "summary": "쿠바에서 출발한 항공편으로 미국 마이애미 국제공항에 도착한 남성이 옷 안에 살아있는 새 10마리를 감춰 밀수하려다가 미 세관에서 적발됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c76b8fe471ba",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "마이크로소프트, 외국인 근로자 비자 스폰서십 금지",
+      "link": "https://arstechnica.com/tech-policy/2026/10/trump-administration-targets-microsoft-in-new-immigration-crackdown/",
+      "publishedAt": "2026-10-09T13:14:33.000Z",
+      "description": "The US says Microsoft abused immigration rules; the company disputes the claim.",
+      "author": "Joe Miller, Financial Times",
+      "summary": "미국 정부가 마이크로소프트가 이민 규칙을 남용했다며 외국인 근로자에 대한 스폰서십을 금지했으며, 마이크로소프트는 이에 이의를 제기했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3bba68a3b439",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "LS마린솔루션, 수주잔고 8200억 눈앞…'계단식 성장' 시작",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=675354",
+      "publishedAt": "2026-10-09T12:00:00.000Z",
+      "description": "LS마린솔루션이 대형 해저케이블 시공 사업을 중심으로 새로운 성장 기반을 마련하고 있다. 신안우이 해상풍력 사업에 이어 태안과 해송 등 후속 프로젝트의 수주 가능성도 커지고 있다. 대규모 공사 물량이 순차적으로 매출에 반영되면서 중장기 실적 개선으로 이어질 전망이다. 신안우이 1569억 수주 이어 후속 계약도 '가시권'9일 업계에 따르면 LS마린솔루션은 지난달 한화오션과 1569억원 규모의 신안우이 해상풍력 해저케이블 시공 계약을 체결했다. 창사 이후 최대 규모의 단일 계약으로 케이블 운송부터 포설과 매설까지 담당한다. 공사는 20",
+      "author": "김나영 기자",
+      "summary": "LS마린솔루션이 한화오션으로부터 1569억원 규모의 신안우이 해상풍력 해저케이블 시공 계약을 수주했으며, 후속 프로젝트 진행으로 중장기 실적 개선이 예상된다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "283d7c131559",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "데이팅 앱 프로필 비난 콘텐츠, 인기는 높지만 피로도 커지는 중",
+      "link": "https://www.wired.com/story/dunking-on-dating-app-profiles-is-content-gold-people-are-getting-sick-of-it/",
+      "publishedAt": "2026-10-09T11:00:00.000Z",
+      "description": "Relationship coaches, TikTokers, and disgruntled singles alike frequently shame bad profiles, as more apps experiment with blocking screenshots.",
+      "author": "Jason Parham",
+      "summary": "관계 전문가와 틱톡 크리에이터들이 데이팅 앱의 부실한 프로필을 비판하는 콘텐츠를 만들고 있으나, 앱 제공업체들은 사용자 프라이버시 보호를 위해 스크린샷 차단 기능을 시험 중이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "379531026a4c",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "2026년 맥 데스크톱 구매 가이드: 맥 미니 vs 맥 스튜디오 vs 아이맥",
+      "link": "https://www.wired.com/story/best-mac-desktop/",
+      "publishedAt": "2026-10-09T11:00:00.000Z",
+      "description": "Apple’s Mac desktops have become some of the most sought-after computers this year, driven by surging interest in agentic AI. Here’s which model to buy depending on your use case.",
+      "author": "Luke Larsen",
+      "summary": "에이전트 AI에 대한 관심 증가로 애플 맥 데스크톱의 인기가 높아진 가운데, 와이어드가 사용 목적에 맞는 맥 미니, 맥 스튜디오, 아이맥 선택 가이드를 제시했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "051a0e53b924",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "환율 조작 혐의 도이치은행 전 트레이더, 유죄판결 취소",
+      "link": "https://www.bbc.co.uk/news/articles/cqgkvj10k6lno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-09T14:36:35.000Z",
+      "description": "The Court of Appeal quashes the conviction of Christian Bittar, a former Deutsche Bank trader jailed in 2018.",
+      "author": null,
+      "summary": "2018년 구속된 도이치은행 전 트레이더 크리스천 비타르의 환율 조작 유죄판결이 항소심에서 취소됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7323422dd881",
+      "category": "economy",
+      "source": "머니투데이",
+      "region": "kr",
+      "title": "\"오늘도 부캉이 보러\"…흑상어 뜬 부산 북항, 방문객 120만명 돌파",
+      "link": "https://www.mt.co.kr/society/2026/10/09/2026100922314579420",
+      "publishedAt": "2026-10-09T13:37:24.000Z",
+      "description": "부산 북항 친수공원에 흑상어 '부캉이'가 등장한 이후 공원을 찾은 누적 방문객이 120만명을 넘어섰다. 9일 부산시설공단에 따르면 한글날인 이날 북항 친수공원 방문객은 오후 6시 기준 5만9000명으로 집계됐다. 공단이 공식 방문객 집계를 시작한 지난달 19일부터 이날 오후 6시까지 누적 방문객은 120만2800명에 달했다. 방문객들의 발길을 끌어모은 주인공은 친수공원 인공수로에 머물고 있는 흑상어 '부캉이'다. 부캉이는 지난달 18일 북항 친수공원 인공수로에서 처음 발견됐다. 이후 바다로 돌아가지 않고 이날까지 22일째 수로에 머물며 유영하고 있다....",
+      "author": null,
+      "summary": "부산 북항 친수공원에 나타난 흑상어 부캉이가 22일째 수로에 머물며 관심을 모으고 있으며, 지난달 19일부터 누적 방문객이 120만명을 넘었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5b0f1f26ebb9",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "\"내 번호 누가 훔쳐 썼다\"던 금융권 해킹용의자…계정 추적했더니 '반전'",
+      "link": "https://www.mk.co.kr/news/economy/12172550",
+      "publishedAt": "2026-10-09T13:34:53.000Z",
+      "description": "국내 금융권을 겨냥한 해킹 공격의 배후로 지목된 인물이 중국계 디도스(DDoS·분산서비스거부) 대행 조직에서 활동한 정황이 포착됐다. 다만 해당 인물이 실제 공격을 주도했는지는 추..",
+      "author": "매일경제",
+      "summary": "국내 금융권 해킹 공격의 용의자로 추적된 인물이 중국계 분산서비스거부(DDoS) 대행 조직과 연관되어 있는 것으로 드러났다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c8e657d8729c",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "보수당의 은행세 감면이 영국 정부에 60억 파운드 손실 초래",
+      "link": "https://www.theguardian.com/money/2026/oct/09/tory-tax-break-banks-cost-uk-public-purse-tuc",
+      "publishedAt": "2026-10-09T13:18:58.000Z",
+      "description": "Exclusive: Chancellor urged to reverse Jeremy Hunt’s tax surcharge cuts to claw back billions in lost revenue Business live – latest updates Tax cuts for big banks have deprived the UK government of £6bn in revenues, according to campaigners, who are calling on the chancellor, John Healey, to increase taxes and force lenders to pay their “fair share” in the budget. Calculations by the Trades Union Congress (TUC), which represents unions with more than 5.3 million members across England and Wales, shows that the public purse is billions of pounds worse off as a result of tax cuts introduced und",
+      "author": "Kalyeena Makortoff Banking correspondent",
+      "summary": "영국노동조합회의(TUC)는 전 재무장관 제러미 헌트의 은행 법인세 감면 정책으로 영국 정부가 60억 파운드의 세수를 잃었다며 세금 인상을 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5d13c641f3b7",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "앤스로픽, AI 시스템에 대한 학대 행위 금지 정책 도입",
+      "link": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-09T12:34:27.000Z",
+      "description": "The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech.",
+      "author": null,
+      "summary": "인공지능 개발사 앤스로픽은 사용자들이 AI 시스템에 대해 지속적이고 불필요한 학대 행위를 할 수 없도록 하는 정책을 도입했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2ba1d9f8a00b",
+      "category": "economy",
+      "source": "동아일보 경제",
+      "region": "kr",
+      "title": "\"가장 빨리, 더 크게\"…호남 반도체 부지 찾은 최태원 속도전 강조",
+      "link": "https://www.donga.com/news/Economy/article/all/20261009/134815537/1",
+      "publishedAt": "2026-10-09T10:05:00.000Z",
+      "description": "최태원 SK그룹 회장이 9일 전격적으로 전남광주 광산구 광주 군 공항을 찾은 것은 최근 불거진 호남 반도체 클러스터 ‘회의론’을 불식시키기 위한 것으로 풀이된다. 그룹 총수가 직접 사업 현장을 찾아 빠른 착공과 사업 확대 가능성을 거론한 것은 이례적이다. 다만 반도체 팹(공장) 가동을 위해선 부지 뿐 아니라 용수, 전기 등의 지원이 필요한 만큼 이제 정부와 전남광주의 적시 지원이 클러스터 조성을 위한 과제로 남게 됐다.● 현장서 “속도감 있게 사업 추진” 주문이날 최 회장 방문은 SK 측이 이틀 전인 7일 광주특별시에 “최 회장이 그동안 해외 일정 등으로 제대로 현장을 찾지 못해 직접 방문하려고 한다”고 연락하며 성사된 것으로 알려졌다. 현재 진행 중인 국회 국정감사에서는 야당을 중심으로 호남 반도체 클러스터 사업 타당성에 대한 의문이 나오고 있다. 전남광주 지역에서도 해당 사업이 흐지부지될 가능성을 우려하는 목소리가 컸다.특히 민형배 전남광주통합특별시장이 지난달 30일 광주상",
+      "author": null,
+      "summary": "SK그룹 최태원 회장이 호남 반도체 클러스터 부지를 직접 방문해 빠른 추진을 주문했으며, 사업 성공을 위해 용수·전기 등 인프라 지원이 과제로 남았다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2f2c5a60ea14",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "박정현 \"전국 243개 지자체 부채 58조원…미래 세대에 부담\"",
+      "link": "https://www.yna.co.kr/view/AKR20261009052500063",
+      "publishedAt": "2026-10-09T09:20:24.000Z",
+      "description": "(세종=연합뉴스) 양영석 기자 = 전국 243개 지방자치단체가 미래에 갚아야 할 부채가 58조4천억원을 웃도는 것으로 집계됐다",
+      "author": "양영석",
+      "summary": "전국 243개 지방자치단체의 누적 부채가 58조 4천억원을 넘는 것으로 집계되어 미래 세대의 재정 부담이 커질 것으로 우려된다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e45c976f6ca0",
+      "category": "economy",
+      "source": "동아일보 경제",
+      "region": "kr",
+      "title": "배용준, KPGA '신설 대회' 어메이징크리 오픈 이틀째 선두",
+      "link": "https://www.donga.com/news/Sports/article/all/20261009/134815615/1",
+      "publishedAt": "2026-10-09T08:54:11.000Z",
+      "description": "배용준(26·CJ)이 한국프로골프(KPGA)투어 신설 대회인 어메이징크리 오픈(총상금 7억 원)에서 이틀째 선두를 달렸다.배용준은 9일 충남 당진시 플라밍고 컨트리클럽(파70)에서 열린 대회 2라운드에서 버디 7개와 보기 한 개를 묶어 6언더파 64타를 적어냈다.이틀 연속 6언더파를 기록한 배용준은 중간합계 12언더파 128타로 단독 선두를 달렸다.공동 2위 김용태, 브랜던 케왈라마니(미국·이상 8언더파 132타)와는 4타 차다.2022년 KPGA투어 신인왕 출신의 배용준은 개인 통산 2승을 기록 중이다. 그는 지난해 5월 KPGA 클래식 이후 1년 5개월 만에 세 번째 우승을 차지할 기회를 잡았다.배용준은 경기 후 “이틀 동안 핀 위치가 꽤 어려웠는데 핀 공략을 잘하면서 좋은 스코어가 나왔다”면서 “직전 대회에서 잘 안 풀리면서 컷 탈락할 때 조금 급하게 플레이했다. 연습하면서 부족한 점을 찾아냈고 보완하고자 노력한 것이 다행히 이번 대회에 잘 먹히고 있는 것 같다”고 했",
+      "author": null,
+      "summary": "배용준이 KPGA 신설 대회인 어메이징크리 오픈 2라운드를 6언더파로 기록해 중간합계 12언더파로 단독 선두에 올랐으며, 1년 5개월 만의 우승을 노렸다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7fba5c4874f7",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "슈퍼마켓연합회·택배노조, 쿠팡 장애에 대책 마련·보상 촉구",
+      "link": "https://www.yna.co.kr/view/AKR20261009050900030",
+      "publishedAt": "2026-10-09T08:41:24.000Z",
+      "description": "(서울=연합뉴스) 김세린 기자 = 9일 새벽 발생한 쿠팡의 서비스 접속 장애와 관련해 중소상인 단체와 택배노조가 재발 방지 대책 마련과 피해 보...",
+      "author": "김세린",
+      "summary": "쿠팡의 9일 새벽 서비스 접속 장애로 피해를 본 중소상인과 택배 기사들이 재발 방지 대책 수립과 손실 보상을 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c701ad4801b5",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "[단독] \"1100억으로 1.2조 수익 냈습니다\"…주식으로 대박낸 회장님",
+      "link": "https://www.mk.co.kr/news/stock/12172464",
+      "publishedAt": "2026-10-09T08:35:29.000Z",
+      "description": "투자 대박낸 기업인들 최규옥 前오스템임플란트 회장 주성엔지니어링 2만원대 매집 2대주주 오른뒤 ‘텐배거’ 달성 곽동신, HPSP서 545% 수익 KCC는 삼성물산서 4조 벌어 오랜..",
+      "author": "매일경제",
+      "summary": "최규옥 전 오스템임플란트 회장이 주성엔지니어링에 110억원으로 투자해 1.2조원의 수익을 올렸으며, 여러 기업인들이 주식 투자로 큰 성과를 거뒀다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "399169788210",
+      "category": "politics",
+      "source": "연합뉴스 사회",
+      "region": "kr",
+      "title": "어린이대공원역 인근서 70대 몰던 택시 인도 덮쳐…40대 심정지",
+      "link": "https://www.yna.co.kr/view/AKR20261009062600004",
+      "publishedAt": "2026-10-09T14:39:12.000Z",
+      "description": "(서울=연합뉴스) 조현영 기자 = 9일 밤 10시 3분께 서울 광진구 어린이대공원역 인근에서 택시가 인도로 돌진해 40대 부부를 덮치는 사고가 ...",
+      "author": "조현영",
+      "summary": "서울 광진구 어린이대공원역 인근에서 70대가 몬 택시가 인도로 돌진해 40대 부부를 친 사고가 발생했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ad40a02bb10a",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "독도 빠진 지도 '이퀄어스'…외교부 \"한일 합의설 전혀 사실 아냐\"",
+      "link": "https://www.donga.com/news/Politics/article/all/20261009/134816654/1",
+      "publishedAt": "2026-10-09T12:14:53.000Z",
+      "description": "외교부는 9일 세계지도 ‘이퀄어스’(Equal Earth) 한국어판에서 독도가 삭제된 것과 관련해 제작자 측과 사전 협의하거나 삭제에 동의한 사실이 없다고 밝혔다.외교부는 이날 입장문을 통해 “한국이 일본 측과 양국 언어판에서 각각 독도 표기를 삭제하기로 협의했다거나, 지도상에서 독도를 삭제하는 데 동의했다는 내용은 전혀 사실이 아니다”라고 밝혔다.앞서 한 매체는 이퀄어스 제작자 측이 사이버외교사절단 반크에 보낸 이메일을 인용해 “워싱턴DC의 한국·일본 대사관 관계자들과 협의한 뒤 독도를 삭제했다”라고 보도했다. 제작자 측은 한국어판과 일본어판에서 독도 표시를 모두 없애는 것을 ‘절충안’이라고 설명했다고 매체는 전했다.외교부는 한국어판에서 독도가 삭제된 사실을 파악한 뒤 관할 공관을 통해 제작자 측에 해명을 요구했다고 밝혔다. 제작자 측은 이에 “양측 간 형평성을 고려한 것”이라고 답했다고 외교부는 전했다.일본어판에 독도 섬과 ‘竹島’(다케시마) 표기가 있었다가 사라졌다는 보",
+      "author": null,
+      "summary": "세계지도 '이퀄어스' 한국어판에서 독도가 삭제된 것과 관련해 외교부는 한일 간 사전 협의나 동의 사실이 없다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3b68b0a3f211",
+      "category": "politics",
+      "source": "SBS 뉴스",
+      "region": "kr",
+      "title": "미 비자 발급 불발…\"깊은 유감\" vs \"관계 최악\"",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008790641",
+      "publishedAt": "2026-10-09T12:06:00.000Z",
+      "description": "국정감사를 위해 미국으로 떠나려던 민주당 정청래 의원이 미국 비자 발급이 지연돼 행선지를 유럽으로 급히 변경했습니다. 집권 여당 대표까지 지낸 중진 의원의 비자 발급 지연을 두고 정치권에서는 각종 추측이 쏟아졌습니다.",
+      "author": "yd@sbs.co.kr (고정현)",
+      "summary": "민주당 정청래 의원의 미국 비자 발급이 지연돼 국정감사 일정을 유럽으로 변경했으며 정치권에서는 이를 두고 여러 주장을 제기했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "21783f3b5091",
+      "category": "politics",
+      "source": "연합뉴스 사회",
+      "region": "kr",
+      "title": "한글날도 '부캉이' 구경…북항 친수공원 누적 방문객 120만명",
+      "link": "https://www.yna.co.kr/view/AKR20261009058600051",
+      "publishedAt": "2026-10-09T11:14:26.000Z",
+      "description": "(부산=연합뉴스) 김재홍 기자 = 부산 북항 친수공원에 흑상어 '부캉이'가 나타난 이후 누적 방문객이 120만명을 넘어섰다.",
+      "author": "김재홍",
+      "summary": "부산 북항 친수공원에 나타난 흑상어 '부캉이'로 인해 누적 방문객이 120만명을 넘었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f7dd0dd51b43",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "서울시 \"JYP, 13일 신사옥 협의하자더니 돌연 백지화···SH 잘못 아냐, 여론 호도하지 마라\"",
+      "link": "https://www.khan.co.kr/article/202610091957001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-10-09T10:57:00.000Z",
+      "description": "서울시 “신사옥 앞 부지 공급공고 보류하고 건물 접면부 저층배치 등 협의 중 JYP 일방 철회”박진영 JYP엔터테인먼트 대표 프로듀서(왼쪽)와 오세훈 서울시장. 경향DBJYP엔터테인먼트가 8일 서울 강동구 고덕동 신사옥 건립 전면 철회를 발표하며 서울주택도시개발공사(SH) 등에 책임을 돌리자 서울시가 “JYP 측은 여론을 호도하지 말고 명확한 입장을 밝혀달···",
+      "author": "류인하 기자",
+      "summary": "JYP엔터테인먼트가 신사옥 건립을 전면 철회하자 서울시는 JYP가 사전 협의를 무시하고 일방적으로 백지화했다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e85b14cf6607",
+      "category": "politics",
+      "source": "노컷뉴스",
+      "region": "kr",
+      "title": "기초생활급여 소급지급 매년 8만건 안팎 발생…\"생계 공백 발생\"",
+      "link": "https://www.nocutnews.co.kr/news/6589323",
+      "publishedAt": "2026-10-09T10:49:35.000Z",
+      "description": "행정 처리 지연 등으로 기초생활수급자가 받아야 할 급여를 제때 받지 못하고 뒤늦게 지급받는 일이 매년 8만건 안팎으로 반복되고 있어 이를 최소화하기 위한 대책 마련이 시급하다는 지적이 제기됐다. 9일 국회 보건복지위원회 소속 국민의힘 백종헌 의원이 보건복지부에서 제출받은 자료에 따르면, 기초생활수급자는 2021년 235만 9672명에서 올해 8월 297만 2112명으로 26% 증가했다. 급여 지급의 적시성이 요구되는 대상자가 이처럼 빠르게 늘고 있음에도 급여가 제때 지급되지 못하고 뒤늦게 지급되는 일이 반복되고 있다. 기초생활보장급여 소급지급은 2021년부터 올해 6월까지 총 47만 5924건, 액수로는 2635억 9600만원에 달했다. 지난해에는 8만 4314건에 484억 5400만원이 소급지급돼 2024년에 비해 건수는 9.2%, 금액은 9.9% 증가했다. 올해는 6월까지 5만 2052건, 317억 9700만원이 소급지급돼, 상반기에만 지난해 전체 건수의 61.7%, 금액의 65.6%에 이른 것으로 나타났다. 소급지급 1건당 평균 금액도 2021년 51만1천원에서 올해 상반기 61만1천원으로 늘었다. 이에 대해 복지부는 자격 결정 후 신청일 기준 급여지급",
+      "author": null,
+      "summary": "행정 처리 지연으로 기초생활급여 소급지급이 매년 8만건 안팎 발생하고 있으며, 수급자 증가에도 불구하고 제때 지급되지 못해 생계 공백이 발생하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "62a5746e6470",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "'국힘 당원권 정지' 조경태, 노무현 前 대통령 묘역 참배",
+      "link": "https://www.yna.co.kr/view/AKR20261009053900001",
+      "publishedAt": "2026-10-09T10:30:42.000Z",
+      "description": "(서울=연합뉴스) 이율립 기자 = 국민의힘 조경태 의원이 9일 경남 김해 봉하마을 고(故) 노무현 전 대통령 묘역을 참배했다.",
+      "author": "이율립",
+      "summary": "국민의힘 조경태 의원이 경남 김해 봉하마을 노무현 전 대통령 묘역을 참배했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c2cb63e97c3b",
+      "category": "politics",
+      "source": "서울신문",
+      "region": "kr",
+      "title": "국힘, 정부 향해 \"北엔 침묵 '아이러니'\" 총공세…주호영 \"북한이 적인가 우크라이나가 적인가\" 직격",
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20261009500152",
+      "publishedAt": "2026-10-09T09:26:15.000Z",
+      "description": "국민의힘은 9일 정부의 주우크라이나 대사 한국 소환 결정을 두고 적과 협력국을 거꾸로 대하는 ‘아이러니’라고 비판했다. 정점식 원내대표는 이날 페이스북에서 “북한군 포로를 송환해 준 우크라이나에는 감정싸움으로 대사를 본국 소환하는 초강경 대응을 하면서, 북한에는 철저히 비굴한 침묵으로 일관하는 아이러니를 어떻게 이해해야 하나”라고 말했다. 6선 중진 주호영 의원도 페이스북에 “북한과 러시아가 적인가, 우크라이나가 적인가”라며 “이런 황당한 적반하장이 어디 있나”라고 적었다. 주 의원은 “앞으로도 (북한군) 포로는 발생할 수 있고, 대한민국에 오고 싶어 하는 북한군 포로가 있다면 당연히 데려와야 한다. 헌법상 우리 국민이고, 그들의 생명과 자유를 지키는 것은 국가의 책임”이라며 “정부와 민주당이 우크라이나를 이렇게 혹독하게 몰아세우면 우크라이나가 앞으로 북한군 포로를 한국에 보내는 일을 주저할 수도 있다”고 지적했다. 이어 “이번 지뢰공격 때 보여주듯이 북한의 위협과 모욕에는 한없이 신중하면서, 북한군 포로를 보내준 우크라이나에는 왜 그렇게 기세등등한 것이냐”며 “북한에는 말 한마디 제대로 못 하면서 우크라이나에는 사과하라고 윽박지르는 모습에 참으로 기가 막힌",
+      "author": "문경근 기자",
+      "summary": "국민의힘은 정부가 북한군 포로를 보내준 우크라이나 대사는 소환하면서 북한에는 침묵하는 것이 모순이라고 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "22cd6d001c8c",
+      "category": "politics",
+      "source": "조선일보",
+      "region": "kr",
+      "title": "한국표준과학연구원 연구원, 부서 예산으로 사유물 구매",
+      "link": "https://www.chosun.com/jp/economy-jp/2026/10/09/VFT7MO2R2NCFJMM4TNAT4DOHBY/",
+      "publishedAt": "2026-10-09T08:01:44.000Z",
+      "description": "",
+      "author": "クァク・スグン 記者",
+      "summary": "한국표준과학연구원 연구원이 부서 예산으로 66만원대 레고와 고급 양주 등 사유물을 구매했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "596f24144ff7",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "'국정원 불신 보도' '정청래 비자 발급 보류' 한·미동맹 이상 기류에…청와대, 대응 수위 고심",
+      "link": "https://www.khan.co.kr/article/202610091557001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-10-09T06:57:00.000Z",
+      "description": "청와대 전경. 경향신문 자료사진국가정보원이 미국의 불신을 받고 있다는 언론 보도가 이어지자 9일 정부는 “사실이 아니다”라고 부인했다. 정청래 더불어민주당 의원의 미국 비자 발급이 보류된 것을 두고 야당은 “한·미 관계의 심상치 않은 균열 징후”라고 공세했고 여당은 “동맹의 미래지향적 가치에 맞지 않다”고 유감을 표했다. 청와대는 별도 입장을 내지 않고 대···",
+      "author": "민서영 기자",
+      "summary": "국정원의 미국 불신설과 정청래 의원의 비자 발급 보류로 한미동맹의 균열 징후가 지적되자 청와대가 대응 방안을 검토하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "760f4d34e804",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "미국, 국제형사재판소 해체를 목표로 제재 발동",
+      "link": "https://www.dw.com/en/us-imposes-sanctions-aiming-to-dismantle-international-criminal-court/a-79618577?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-10-09T14:53:00.000Z",
+      "description": "The US has announced new sanctions on the International Criminal Court. It's the latest in a series of steps by the Donald Trump administration as it seeks to \"dismantle\" the intergovernmental organization.",
+      "author": null,
+      "summary": "미국이 국제형사재판소에 대한 새로운 제재를 발표했으며, 트럼프 행정부가 이 국제기구를 해체하려는 일련의 조치를 계속하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "12f8f3369760",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "호르무즈 해협서 선박 피격…혁명수비대 \"항로 위반시 처벌\"",
+      "link": "https://www.yna.co.kr/view/AKR20261009062800108",
+      "publishedAt": "2026-10-09T14:51:06.000Z",
+      "description": "(이스탄불=연합뉴스) 김동호 특파원 = 호르무즈 해협을 지나는 선박이 미상의 발사체에 맞았다고 영국 해사무역기구(UKMTO)가 9일(현지시간) ...",
+      "author": "김동호",
+      "summary": "호르무즈 해협을 통과하던 선박이 미상의 발사체에 피격당했으며, 이란 혁명수비대는 항로 위반 시 처벌하겠다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "229cff060cb9",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "필라이, 나치 법정서 \"국제범죄 생존자에 노벨상 바쳐\"",
+      "link": "https://www.yna.co.kr/view/AKR20261009057451108",
+      "publishedAt": "2026-10-09T14:47:04.000Z",
+      "description": "(이스탄불·로마=연합뉴스) 김동호 민경락 특파원 = 올해 노벨평화상 수상자로 선정된 나비 필라이(85) 국제사법재판소(ICJ) 임시 재판관은 9...",
+      "author": "민경락",
+      "summary": "올해 노벨평화상을 수상한 나비 필라이 국제사법재판소 임시 재판관이 국제범죄 생존자들을 위해 상을 바치겠다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "be76734c8760",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "사우디 연합군, 공항 공격으로 3명 사망 후 '단호한' 보복 선언",
+      "link": "https://www.dw.com/en/saudi-coalition-vows-firm-response-after-airport-attack-kills-3/a-79615437?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-10-09T14:01:00.000Z",
+      "description": "Saudi Arabia and its allied forces in Yemen vowed a \"firm response\" to Houthi attacks that target civilians. The kingdom's authorities said three Saudi nationals were killed in Thursday's attack on Riyadh airport.",
+      "author": null,
+      "summary": "후티 무장단의 공격으로 리야드 공항에서 사우디 국민 3명이 사망했고, 사우디와 동맹군이 강력한 대응을 약속했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b9c0a82ed61f",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "호주 이민 구금시설서 폭력·약물 중독 사건 급증...미국 민간감옥 기업 운영",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/09/australia-immigration-detention-centres-overdoses-fires-prison-ice-ntwnfb",
+      "publishedAt": "2026-10-09T14:00:34.000Z",
+      "description": "Exclusive: Federal government under scrutiny as documents reveal serious security lapses at Melbourne and Villawood immigration detention centres Get our breaking news email, free app or daily news podcast A new spate of stabbings, overdoses and drug use in Australia’s immigration detention centres has put the Australian government in likely breach of laws designed to protect staff and detainees, internal documents show. Earlier this year, Guardian Australia revealed catastrophic security failings across Australia’s onshore immigration network since Management and Training Corporation – a US p",
+      "author": "Christopher Knaus and Ariel Bogle",
+      "summary": "호주의 이민 구금시설에서 칼부림·약물 중독·화재 사건이 증가하고 있으며, 미국 민간감옥 기업 운영으로 인한 심각한 보안 허점이 드러났다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "95cb4ec83646",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "미 국방장관 헤그세스의 공개 처형 생중계 계획, 국제적 논란",
+      "link": "https://www.theguardian.com/world/2026/oct/09/pete-hegseth-public-execution-nidal-hasan-capital-sentences",
+      "publishedAt": "2026-10-09T13:55:07.000Z",
+      "description": "Only Iran and Afghanistan routinely carry out sentences in public, with Saudi Arabia appearing to have ended practice US politics – live updates If the US defence secretary, Pete Hegseth, goes ahead with plans to livestream the execution of a soldier radicalised to extremist Islam who killed 13 people at a military base in Texas, his country will join a motley assembly of lesser powers and rogue actors who have conducted public executions in recent years. Only two countries currently systematically carry out capital sentences in public: Iran and Afghanistan. In 2025, the Taliban authorities ca",
+      "author": "Jason Burke",
+      "summary": "미 국방장관 피트 헤그세스가 군부대 테러범의 처형을 생중계하려 하면, 미국은 공개 처형을 상습적으로 시행하는 이란·아프가니스탄 같은 국가들과 나란히 서게 될 것이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "af75f737fc33",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "1994년 르완다 대학살 혐의 의사, 영국에서 재판 예정",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy47lzd1vyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-09T11:44:49.000Z",
+      "description": "Dr Vincent Brown was allegedly a \"leader\" or \"supervisor\" of violent acts carried out by others in the early days of the genocide.",
+      "author": null,
+      "summary": "르완다 대학살 당시 폭력행위의 주도자 또는 감독자였다고 지목된 빈센트 브라운 의사가 영국에서 재판을 받게 된다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b4c5f56dae89",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "트럼프, 중간선거 전 이란 공격 안 할 것 표명...뉴욕에선 ICE 요원 총격 사건",
+      "link": "https://www.npr.org/2026/10/09/g-s1-147455/up-first-newsletter-hurricane-isaias-ukraine-russia-trump-iran-ice-shooting",
+      "publishedAt": "2026-10-09T11:37:04.000Z",
+      "description": "Trump announced that the U.S. will not attack Iran ahead of the midterms. And, a 28-year-old man is receiving treatment at the hospital after an ICE agent shot him in the neck.",
+      "author": "Brittney Melton",
+      "summary": "트럼프 대통령이 중간선거 전에 이란을 공격하지 않을 것이라 발표했고, 뉴욕에서는 ICE 요원이 28세 남성에게 총을 쏘았다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "18e58217c078",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "프랑스, 학생시위 진정 위해 교사 3,000명 추가 배치 약속",
+      "link": "https://www.bbc.co.uk/news/articles/c6vg98lw017po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-09T11:35:00.000Z",
+      "description": "Education minister Edouard Geffray makes the offer after another day of sometimes violent demonstrations by high-school students.",
+      "author": null,
+      "summary": "프랑스 교육장관이 고등학생들의 폭력시위 진정을 위해 3,000명의 추가 교사 배치를 약속했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a5844458afb3",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "남아공 인권변호사 나비 필라이, 2026년 노벨평화상 수상",
+      "link": "https://www.npr.org/2026/10/08/nx-s1-5994952/nobel-peace-prize",
+      "publishedAt": "2026-10-09T08:23:16.000Z",
+      "description": "South African human rights lawyer Navi Pillay wins the 2026 Nobel Peace Prize for advancing human rights and international law.",
+      "author": "Emmet Livingstone",
+      "summary": "남아공 인권변호사 나비 필라이가 인권 향상과 국제법 발전에 기여한 공로로 2026년 노벨평화상을 수상했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5062bf0e8afb",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "이스라엘의 고립을 끝내는 방법",
+      "link": "https://www.nytimes.com/2026/10/09/opinion/israel-elections-palestinians.html",
+      "publishedAt": "2026-10-09T14:43:16.000Z",
+      "description": "Many Israelis are hopeful that a new government would ease the growing distance between their country and the rest of the world.",
+      "author": "Shira Efron",
+      "summary": "새로운 정부가 이스라엘과 국제사회 간의 거리를 줄일 수 있을 것이라고 주장한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "aa125607ad37",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]정동영 이종석 교체해야",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261009/134816522/2",
+      "publishedAt": "2026-10-09T14:30:00.000Z",
+      "description": "정부가 8일 유엔 총회에서 비무장지대(DMZ) 지뢰 폭발 사건에 대해 북한에 사과와 책임 있는 조치를 촉구했지만 북한은 자작극이라는 억지 주장을 되풀이했다. 특히 북한은 ‘정동영 통일부 장관도 북한의 의도적 공격이라고 판단하기 어렵다고 실토했다’고 주장했다. 전날 “북한의 지뢰 공격으로 특정할 수 없다”고 한 정 장관의 국회 답변을 발뺌의 구실로 삼은 셈이다. 이종석 원장 체제의 국가정보원은 미국이 대북 정보 협력에서 배제하는 등 불신의 대상이 되고 있다. 군 당국은 해당 지뢰가 북한 지역에서 떠내려온 것이 아니라 북한이 군사분계선 이남에 매설한 것이라고 최종 결론을 내렸다. 북한이 군사분계선 남쪽으로 평균 20m를 침범해 ‘지뢰 지대’ 여러 곳을 만들었다고도 했다. 우리 장병들을 겨냥한 것이라고 볼 수밖에 없다. 그런데도 정 장관은 정부 발표와 딴소리를 했다. 정부 안에서조차 ‘원 보이스’가 나오지 못하면 북한의 책임을 묻기는 더욱 어려워질 수밖에 없다. 정 장관이 대북 정책",
+      "author": null,
+      "summary": "DMZ 지뢰 사건에서 정동영 통일부 장관이 정부 입장과 다른 발언을 했고 이종석 국정원장이 미국으로부터 불신받고 있다며 두 인물의 교체를 촉구한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8943c82b358b",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]SNS로 숨어든 불법 반입 농산물… '검역망 구멍' 이대로 방치하나",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261009/134816526/2",
+      "publishedAt": "2026-10-09T14:27:00.000Z",
+      "description": "수입이 금지된 해외 과일과 채소 등이 불법으로 반입돼 소셜네트워크서비스(SNS)를 타고 은밀하게 유통되는 사례가 늘고 있다. 과거에는 외국인 밀집 지역의 마트나 시장을 돌며 단속했지만 최근에는 페이스북과 틱톡, 위챗 등 온라인으로 거래가 숨어들면서 적발조차 쉽지 않다. 정식 검역 절차를 거치지 않은 불법 농산물은 외래 병해충을 유입시켜 국내 농업 생태계를 훼손하고 농가에 치명적인 피해를 입힐 우려가 크다. 해외여행객과 국내 거주 외국인이 늘면서 불법 반입 규모는 해마다 크게 늘고 있다. 농림축산검역본부에 따르면 불법 농산물 밀수 적발 건수는 2021년 355건에서 지난해 1440건으로 4.1배로 급증했다. 정식 수입 농산물은 병해충 제거용 냉동·열처리 과정을 거치지만 밀수 농산물은 이 과정이 생략돼 병해충 전파 위험에 무방비로 노출된다. 특히 최근 방역 당국을 긴장시키는 것은 400종 이상의 과일과 채소에 피해를 주는 ‘오리엔탈 과실파리’다. 방제 시기를 놓칠 경우 피해율이 90%",
+      "author": null,
+      "summary": "SNS를 통한 불법 농산물 밀수가 2021년 이후 4배 이상 급증하면서 검역 절차가 생략된 제품으로 인한 병해충 전파 위험이 크다며 온라인 검역 강화를 촉구한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2b56e36aeb13",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "호주 연금의 주택 활용 논쟁: 실제로 작동할까",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/10/would-early-access-to-superannuation-actually-work-housing",
+      "publishedAt": "2026-10-09T14:00:32.000Z",
+      "description": "Ultimately, the debate is a battle for power over Australians’ savings pool of $4.8tn dating back to the scheme’s inception Past/Present is a column which places current events in historical context Should you be able to take money out of your super to pay for housing? One Nation has recently suggested you should. Liberal senator Andrew Bragg has also revived the idea. The treasurer, Jim Chalmers, tells us the Coalition and One Nation are “coming after super” and want to “vandalise” the retirement savings scheme. He also predicts the next federal election will be a referendum on super. In the ",
+      "author": "Emily Millane",
+      "summary": "주택 구입을 위해 연금 제도를 활용하자는 주장이 제기되고 있지만, 이는 실질적으로 국민의 48조 달러 규모 저축 풀에 대한 권력 다툼이라고 분석한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5f656780251b",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "독서는 쇠퇴 중, 영상 시청이 대세",
+      "link": "https://www.nytimes.com/video/opinion/100000011195427/reading-is-hard-watching-is-not.html",
+      "publishedAt": "2026-10-09T13:48:19.000Z",
+      "description": "Reading has been on the decline since the advent of television, and now it’s only getting worse. On “Interesting Times,” the Times of London columnist James Marriott explains why we’d rather watch videos than read books.",
+      "author": null,
+      "summary": "TV 출현 이후 지속된 독서 감소 추세가 가속화되고 있으며, 현대인들이 책 읽기보다 영상 시청을 선호하는 경향을 지적한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "79da56845d95",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "미국 정치의 '유대인 표' 환상을 버려야 한다",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/09/jewish-vote-israel",
+      "publishedAt": "2026-10-09T13:00:28.000Z",
+      "description": "Political parties vie for Jewish support based on false assumptions about a single issue: Israel Everybody wants the Jewish vote. As if there were one. Jews are educated, generally liberal. Although they comprise only about 2% of the electorate, they vote in high numbers, overwhelmingly for Democrats. In 2024, 79% chose Kamala Harris. They are also assumed to be steadfast friends of Israel, no matter what it does. Republicans, waging a fake war on antisemitism while courting white supremacists, consider Jews increasingly up for grabs. Nationally, Jewish Americans are concentrated in a few brig",
+      "author": "Judith Levine",
+      "summary": "정치권이 유대인들을 단일 투표 집단으로 보고 이스라엘 이슈로만 접근하는 관행을 비판하며, 유대인 커뮤니티의 다양한 정치적 입장을 간과하고 있다고 지적한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ca5920fc7e50",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "미국의 이란 정책, 명확한 결정이 필요하다",
+      "link": "https://www.washingtonpost.com/opinions/2026/10/09/some-tout-us-victory-iran-costs-tell-different-story/",
+      "publishedAt": "2026-10-09T11:15:00.000Z",
+      "description": "To get out of this quagmire, Washington must determine what it wants.",
+      "author": "Fareed Zakaria",
+      "summary": "이란 문제 해결을 위해서는 미국 정부가 명확한 목표와 정책 방향을 먼저 결정해야 한다고 주장한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "910d31bfb706",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "프랑스의 부채 위기, 정치적 회피로는 해결 불가",
+      "link": "https://www.washingtonpost.com/opinions/2026/10/09/france-mlenchon-offers-wild-debt-solution-us-dont-take-note/",
+      "publishedAt": "2026-10-09T11:00:00.000Z",
+      "description": "“President Mélenchon” sounds far-fetched. Then again, so did “President Trump” in 2015.",
+      "author": "George F. Will",
+      "summary": "프랑스가 부채 문제에 제대로 대처하지 않으면서 정치적 불안정이 심화되고 있으며, 이는 예측 불가능한 결과로 이어질 수 있다고 경고한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "29b77c897a20",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[사설] 동맹 신뢰 무시한 미국의 비자 보류·정보 배제, 당당하게 대응해야",
+      "link": "https://www.khan.co.kr/article/202610091830001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-10-09T09:30:00.000Z",
+      "description": "정청래 더불어민주당 의원이 지난달 1일 국회 본회의장에서 두 손으로 얼굴을 감싼 채 굳은 표정을 짓고 있다. 최근 미국 정부는 국회 외교통일위원회가 재외공관 국정감사를 위해 마국행을 준비하던 정 의원의 비자 발급을 보류해 논란이 일고 있다. 박민규 선임기자한·미 동맹에 연이어 이상 기류가 감지되고 있다. 미국 정부가 국정감사 출장을 준비 중인 정청래 더불···",
+      "author": null,
+      "summary": "미국이 국회 의원의 비자 발급을 보류하고 정보 공유를 제한하는 것은 한·미 동맹의 신뢰를 손상시키는 행동이라며 이에 강하게 대응해야 한다고 촉구한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "08cb6757da4e",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[사설]피해자 죽음 뒤에야 바로 잡힌 경찰 부실수사, 더 이상 되풀이 되선 안된다",
+      "link": "https://www.khan.co.kr/article/202610091810001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-10-09T09:10:00.000Z",
+      "description": "시민단체 회원이 피해자인 10대 아르바이트생이 스스로 목숨을 끊은 경찰의 성폭행 사건 부실수사를 규탄하는 시위를 하고 있다. 안산 YWCA 제공경찰의 불송치 결정에 억울함을 호소하며 피해자가 스스로 목숨을 끊은 ‘10대 아르바이트생 성폭행 사건’을 공소청이 보완수사 끝에 재판에 넘겼다. 공소청은 디지털 포렌식과 의료 자문 등 다양한 수사 방식을 동원해 ···",
+      "author": null,
+      "summary": "경찰의 부실수사로 피해자가 극단적 선택을 한 성폭행 사건이 재수사로 밝혀졌으며, 피해자의 죽음 이후에야 진실이 밝혀지는 악순환을 반드시 멈춰야 한다고 촉구한다.",
+      "summarySource": "llm"
+    }
+  ],
+  "summarizedAt": "2026-10-10T01:37:44.031Z",
+  "summaryStats": {
+    "llm": 50,
+    "fallback": 0,
+    "model": "claude-haiku-4-5"
+  }
+}
