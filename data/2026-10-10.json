@@ -1,0 +1,899 @@
+{
+  "date": "2026-10-10",
+  "generatedAt": "2026-10-11T00:42:08.179Z",
+  "categories": [
+    {
+      "id": "it",
+      "label": "IT·과학·AI"
+    },
+    {
+      "id": "economy",
+      "label": "경제·금융"
+    },
+    {
+      "id": "politics",
+      "label": "정치·사회"
+    },
+    {
+      "id": "world",
+      "label": "세계·국제"
+    },
+    {
+      "id": "editorial",
+      "label": "사설·칼럼",
+      "opinion": true,
+      "summaryMaxChars": 220
+    }
+  ],
+  "feedStatus": [
+    {
+      "source": "Ars Technica",
+      "category": "it",
+      "ok": true,
+      "matched": 12
+    },
+    {
+      "source": "Hacker News",
+      "category": "it",
+      "ok": true,
+      "matched": 13
+    },
+    {
+      "source": "TechCrunch",
+      "category": "it",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "The Verge",
+      "category": "it",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "블로터",
+      "category": "it",
+      "ok": true,
+      "matched": 7
+    },
+    {
+      "source": "전자신문",
+      "category": "it",
+      "ok": true,
+      "matched": 12
+    },
+    {
+      "source": "ZDNet Korea",
+      "category": "it",
+      "ok": true,
+      "matched": 18
+    },
+    {
+      "source": "BBC Business",
+      "category": "economy",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "The Guardian",
+      "category": "economy",
+      "ok": true,
+      "matched": 18
+    },
+    {
+      "source": "매일경제 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 18
+    },
+    {
+      "source": "연합뉴스",
+      "category": "economy",
+      "ok": true,
+      "matched": 24
+    },
+    {
+      "source": "경향신문 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "경향신문 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 7
+    },
+    {
+      "source": "노컷뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "서울신문",
+      "category": "politics",
+      "ok": true,
+      "matched": 1
+    },
+    {
+      "source": "연합뉴스 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 42
+    },
+    {
+      "source": "연합뉴스 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 28
+    },
+    {
+      "source": "SBS 뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 17
+    },
+    {
+      "source": "Al Jazeera",
+      "category": "world",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC World",
+      "category": "world",
+      "ok": true,
+      "matched": 20
+    },
+    {
+      "source": "NPR",
+      "category": "world",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "The Guardian",
+      "category": "world",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "연합뉴스 국제",
+      "category": "world",
+      "ok": true,
+      "matched": 63
+    },
+    {
+      "source": "매일경제 증권",
+      "category": "economy",
+      "ok": true,
+      "matched": 3
+    },
+    {
+      "source": "경향신문 오피니언",
+      "category": "editorial",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "NYT Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 24
+    },
+    {
+      "source": "The Guardian Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 5
+    },
+    {
+      "source": "Washington Post Opinions",
+      "category": "editorial",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "동아일보 사설",
+      "category": "editorial",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "동아일보 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 20
+    },
+    {
+      "source": "조선일보",
+      "category": "politics",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "동아일보 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "머니투데이",
+      "category": "economy",
+      "ok": false,
+      "error": "fetch failed",
+      "matched": 0
+    },
+    {
+      "source": "Wired",
+      "category": "it",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "DW News",
+      "category": "world",
+      "ok": true,
+      "matched": 16
+    }
+  ],
+  "items": [
+    {
+      "id": "77a6fe42b025",
+      "category": "it",
+      "source": "Hacker News",
+      "region": "intl",
+      "title": "Bitwarden Dual License Model",
+      "link": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
+      "publishedAt": "2026-10-10T14:32:50.000Z",
+      "description": "Article URL: https://community.bitwarden.com/t/published-version-update-in-app-stores/102750 Comments URL: https://news.ycombinator.com/item?id=50033407 Points: 338 # Comments: 244",
+      "author": "Cider9986",
+      "summary": "Article URL: https://community.bitwarden.com/t/published-version-update-in-app-stores/102750 Comments URL: https://news.ycombinator.com/item?id=50033407 Points: 338 # Comments: 244",
+      "summarySource": "rss"
+    },
+    {
+      "id": "410e12756614",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "‘볼보 EX90’ 395㎞ 장거리 달리고 배터리 28% 남았다[카미경]",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=675368",
+      "publishedAt": "2026-10-10T14:11:43.000Z",
+      "description": "볼보자동차의 대형 전기 스포츠유틸리티차량(SUV) EX90 트윈 모터 울트라를 타고 395㎞ 거리를 충전 없이 주행했다. 배터리 잔량이 95%인 상태에서 출발한 EX90은 최종 목적지 도착 후 28%가 남았고, 평균 전비는 5.95㎞/㎾h였다. 국내 인증 주행거리가 454㎞인 것을 감안하면 무난한 수치다. EX90은 볼보자동차가 올해 4월 국내 출시한 순수 전기 플래그십 SUV다. 국내 판매 모델에는 106㎾h 용량의 니켈코발트망간(NCM) 배터리와 800V 전기 시스템이 탑재됐다. 이번에 시승한 트윈 모터 울트라는 사륜구동 기반으",
+      "author": "조재환 기자",
+      "summary": "볼보자동차의 대형 전기 스포츠유틸리티차량(SUV) EX90 트윈 모터 울트라를 타고 395㎞ 거리를 충전 없이 주행했다. 배터리 잔량이 95%인 상태에서 출발한 EX90은 최종 목적지 도착 후 28%가 남았고, 평균 전비는 5.95㎞/㎾h였다. 국내 인증 주행거리가 454㎞인 것을 감안하면 무난한 수치다.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "a893947d303d",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "publishedAt": "2026-10-10T14:00:00.000Z",
+      "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "author": "Lauren Forristal",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "58738e94c0a3",
+      "category": "it",
+      "source": "The Verge",
+      "region": "intl",
+      "title": "Will Warner Bros. kill Skydance — or will David Ellison kill Warner Bros?",
+      "link": "https://www.theverge.com/podcast/1008733/warner-skydance-paramount-ellison-debt-failure",
+      "publishedAt": "2026-10-10T14:00:00.000Z",
+      "description": "Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger and the future of the company now simply called Skydance. Skydance is owned by David Ellison, son of Oracle CEO Larry Ellison, and its deal to acquire Warner Bros. Discovery officially closed the day Peter and I spoke. There are some grand ambitions here, but the reality is that acquiring Warner never goes well for anyone. AOL failed, AT&T failed, and Discovery failed — although it did succeed in flipping these assets to Skydance. So I ",
+      "author": null,
+      "summary": "Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger and the future of th…",
+      "summarySource": "rss"
+    },
+    {
+      "id": "1984819c7f78",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "정부 주최 AI해킹 대회 12월 열린다...'ACDC' 예선 참가자 모집",
+      "link": "https://zdnet.co.kr/view/?no=20261010225607",
+      "publishedAt": "2026-10-10T13:56:07.000Z",
+      "description": "[지디넷코리아]과학기술정보통신부와 한국인터넷진흥원(KISA, 원장 이상중)이 오는 12월 열리는 '인공지능(AI) 해킹 방어 대회(2026 AI Cyber Defense Contest, ACDC)'의 예선 참가자를 26일까지 모집한다.'AI 해킹 방어 대회(ACDC)'는 인공지능을 활용해 사이버 위협에 대응하는 ‘인공지능을 활용한 보안(AI for Security)’, 인공지능 자체를 공격으로부터 보호하는 ‘인공지능의 안전성 확보(Security for AI)’, 인공지능이 구동되는 환경을 보호하는 ‘인공지능 플랫폼 보안(AI Platform Security)’ 등 인공지능 보안의 3대 핵심 영역을 다루는 대회다. 작년에 처음 열렸고 올해가 2회째다.이번 예선은 인공지능 보안 3대 영역을 반영한 공격과 방어 시나리오를 바탕으로, 참가자별로 격리된 클라우드 환경에서 제한 시간 안에 문제를 풀고 숨겨진 ‘특정 문자열(Flag)’을 획득하는 ‘깃발 획득(Capture the Flag, CTF)’ 방식과 주어진 시스템을 점령한 뒤 다른 팀의 공격을 방어하며 점령 시간을 겨루는 ‘킹 오브 더 힐(King of the Hill)’ 방식으로 치러진다.'깃발 획득(Capt",
+      "author": "방은주 기자",
+      "summary": "[지디넷코리아]과학기술정보통신부와 한국인터넷진흥원(KISA, 원장 이상중)이 오는 12월 열리는 '인공지능(AI) 해킹 방어 대회(2026 AI Cyber Defense Contest, ACDC)'의 예선 참가자를 26일까지 모집한다.'AI 해킹 방어 대회(ACDC)'는 인공지능을 활용해 사이버 위협에 대응하는 ‘인공지능…",
+      "summarySource": "rss"
+    },
+    {
+      "id": "935de638a210",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "“군고구마, 담배 냄새 나서 버렸다”…담배 상자에 넣어 배달한 편의점",
+      "link": "https://www.etnews.com/20261010000024",
+      "publishedAt": "2026-10-10T13:30:00.000Z",
+      "description": "편의점에서 배달 주문한 군고구마가 전자담배 제품 상자에 담겨 왔으며, 담배 냄새 때문에 먹지 못하고 버렸다는 사연이 알려져 논란이 일고 있다. 지난 9일 소셜미디어(SNS)에는 편의점에서 군고구마를 주문했다가 담배 제품 상자에 담긴 채 배송받았다는 제보와 영상이 올라왔다. 해당 게시물은 조회 수 54만회를 기록하며 관심을 모았다. 제보자 A씨는 “편의점 배달이 되길래 군고구마를 시켰다”며 “우리 가족은 모두 비흡연자인데 담배 상자에 담겨서 배달",
+      "author": "이상목",
+      "summary": "편의점에서 배달 주문한 군고구마가 전자담배 제품 상자에 담겨 왔으며, 담배 냄새 때문에 먹지 못하고 버렸다는 사연이 알려져 논란이 일고 있다. 지난 9일 소셜미디어(SNS)에는 편의점에서 군고구마를 주문했다가 담배 제품 상자에 담긴 채 배송받았다는 제보와 영상이 올라왔다.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "72b223ecb62b",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "티씨케이, 반도체 식각 SiC 포커스링 특허 정정...디에스테크노 상대 분쟁",
+      "link": "https://zdnet.co.kr/view/?no=20261010213456",
+      "publishedAt": "2026-10-10T12:54:21.000Z",
+      "description": "[지디넷코리아]반도체 소재·부품업체 티씨케이가 실리콘카바이드(SiC) 포커스링 특허 1건을 정정했다. 일반적으로 특허 무효화 가능성이 있을 때 특허권자는 특허 권리범위를 좁혀 정정한다. SiC 포커스링은 반도체 식각 공정에 사용하는 소모성 부품이다.티씨케이는 지난 2019년 디에스테크노를 상대로 서울중앙지방법원에 특허침해소송을 제기했다. 디에스테크노는 대응 차원에서 티씨케이 특허 4건을 상대로 특허심판원에 여러 심판을 청구했다. 특허 3건에 대한 특허성 판단은 끝났고, 나머지 특허 1건 특허성 판단은 진행 중이다. 10일 업계에 따르면 특허심판원은 지난 7일 티씨케이의 '화학기상증착(CVD) 방식으로 형성된 SiC 구조체' 특허(등록번호 2117888, 아래 '888 특허) 정정 청구를 받아들였다. 일반적으로 특허가 정정되면 권리범위가 좁아지기 때문에 향후 분쟁에서 특허가 살아남을 가능성은 커지지만, 특허 침해를 입증하기는 어려워진다. 디에스테크노는 티씨케이의 '888 특허가 무효라고 주장하지만, 2025년 7월 특허심판원은 유효라고 판단(심결)했다. 이에 앞서 특허심판원은 2023년 11월 '888 특허는 무효라고 심결했지만, 특허법원이 2024년 10월 ",
+      "author": "이기종 기자",
+      "summary": "[지디넷코리아]반도체 소재·부품업체 티씨케이가 실리콘카바이드(SiC) 포커스링 특허 1건을 정정했다. 일반적으로 특허 무효화 가능성이 있을 때 특허권자는 특허 권리범위를 좁혀 정정한다.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "ddd0adbe5240",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "AI Is Getting Really Good at Messing With Cybercriminals",
+      "link": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
+      "publishedAt": "2026-10-10T12:00:00.000Z",
+      "description": "Anti-cybercrime initiatives are increasingly using AI to scam the scammers by tricking them into talking to lifelike bots that they think are real victims.",
+      "author": "Lily Hay Newman, Matt Burgess",
+      "summary": "Anti-cybercrime initiatives are increasingly using AI to scam the scammers by tricking them into talking to lifelike bots that they think are real victims.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "8701263ea07b",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "One with the world? A new look at brains transformed by psychedelics.",
+      "link": "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/",
+      "publishedAt": "2026-10-10T11:15:35.000Z",
+      "description": "Participants meditated inside an MRI tube, with and without psilocybin.",
+      "author": "Jacek Krywko",
+      "summary": "Participants meditated inside an MRI tube, with and without psilocybin.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "467cf97b1acf",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
+      "link": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
+      "publishedAt": "2026-10-10T03:10:06.000Z",
+      "description": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",
+      "author": "Jagmeet Singh",
+      "summary": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "df19b3d08367",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "국가 전력수급 설계하는데 명단은 '비공개'…국감장 달군 비밀의 '전기본'",
+      "link": "https://www.mk.co.kr/news/economy/12172799",
+      "publishedAt": "2026-10-10T13:55:23.000Z",
+      "description": "국감서 전기본 위원 명단 공방 기후부, 로비 우려에 비공개 야당은 전문성·이해충돌 검증 요구 11차 명단 공개 여부도 엇갈려 실제 전기본 위원들 생각은 “공개” 다만 정치적 시비에..",
+      "author": "매일경제",
+      "summary": "전력정책을 수립하는 전기본 위원 명단 공개를 두고 정부와 야당이 대립하고 있으며, 정부는 로비 우려를 이유로 비공개 입장을 고수하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "85b1c6ee1389",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "자동차노조 숀 페인 회장, 재선거에서 압도적 승리",
+      "link": "https://www.theguardian.com/us-news/2026/oct/10/uaw-president-shawn-fain-wins-re-election",
+      "publishedAt": "2026-10-10T13:46:49.000Z",
+      "description": "Fain was dogged by investigation but still decisively beat challenger Rich Boyer, who received just 13% of vote The president of the United Auto Workers, Shawn Fain, has easily won his re-election bid after an campaign period marred by accusations of corruption and election interference. The union’s election of leadership for a four-year term began with mail-in ballots being sent out in late August 2026, with vote tabulating commencing on 6 October. Continue reading...",
+      "author": "Michael Sainato",
+      "summary": "자동차노조(UAW) 회장 숀 페인은 부패 혐의에도 불구하고 재선거에서 13% 정도의 지지를 받은 상대후보를 압도하고 4년 임기를 연임했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "83e91e416944",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "지지부진 KDB생명·기사회생 케이조선…매각전 '마침표' 찍을까",
+      "link": "https://www.mk.co.kr/news/stock/12172796",
+      "publishedAt": "2026-10-10T13:04:46.000Z",
+      "description": "이달 인수·합병(M&A) 시장은 오랜 기간 표류해온 매물들이 매각 작업을 마무리할 수 있을지가 관전 포인트다. OK금융그룹이 예별손해보험 인수 본계약을 체결한 가운데 KDB생명은 ..",
+      "author": "매일경제",
+      "summary": "10월 M&A 시장에서 KDB생명과 케이조선 등 오랫동안 매각되지 못하던 기업들의 거래 완료 여부가 주목되는 가운데 OK금융그룹은 예별손해보험 인수 계약을 체결했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9d4ef814a58b",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "남아프리카 억만장자, 영국 서머셋을 럭셔리 개인 영지로 변모",
+      "link": "https://www.theguardian.com/news/2026/oct/10/how-a-south-african-billionaire-is-turning-a-corner-of-somerset-into-one-mans-estate",
+      "publishedAt": "2026-10-10T13:00:58.000Z",
+      "description": "Koos Bekker’s Newt estate encompasses luxury hotels, pubs and high street business, with local concerns including flooding When South African billionaire Koos Bekker bought an old country estate in a sleepy corner of Somerset to turn it into a luxury hotel, residents thought it was a sign their area was on the up. Walking through his peaceful manicured gardens, which feature a maze of apple trees twisted into perfect shapes using the espalier method, it’s easy to feel that all is well in this quiet, picturesque pocket of England. Continue reading...",
+      "author": "Helena Horton and Michael Goodier",
+      "summary": "남아프리카 억만장자 쿠스 베켈이 영국 서머셋의 옛 저택을 럭셔리 호텔과 고급 상점 등으로 변모시키고 있으나 지역 주민들은 침수 등의 문제를 우려하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0f7fbc92ef01",
+      "category": "economy",
+      "source": "동아일보 경제",
+      "region": "kr",
+      "title": "\"AI한테 욕하는 것도 학대?\"…앤트로픽 새 정책에 의견 분분",
+      "link": "https://www.donga.com/news/Economy/article/all/20261010/134817913/1",
+      "publishedAt": "2026-10-10T11:48:49.000Z",
+      "description": "인공지능(AI) 기업 앤트로픽이 AI 챗봇을 상대로 지속적인 폭언이나 학대 행위를 하는 사용자를 제재할 수 있도록 이용 정책을 개정했다.9일(현지 시간) 영국 BBC는 앤트로픽이 자사 AI 챗봇 ‘클로드’에 지속적이고 불필요한 학대 행위를 하는 사용자를 제재할 수 있도록 정책을 바꿨다고 보도했다.앤트로픽 측은 기존에도 드물게 이러한 조치를 취한 적이 있으며, 반복적 학대 행위가 발생하는 극단적인 사례에만 적용되는 규정이라고 설명했다. 평범한 수준의 불만 표출 및 반박, 어두운 소재를 활용한 창작 활동, AI 모델 테스트 및 연구 등은 제재 대상에 포함되지 않는다.다만 어떤 행위가 학대적이거나 잔인한 행동으로 판단되는지는 구체적으로 밝혀지지 않았다.정책 개정을 두고 온라인에서는 엇갈린 반응이 나왔다. 일부 네티즌들은 AI와 소통할 때도 기본적인 예절을 지켜야 한다며 긍정적으로 평가했지만, 일각에서는 지나친 조치라고 비판했다.아일랜드 법률회사 ‘윌리엄 프라이’의 기술 부문 파트",
+      "author": null,
+      "summary": "AI 기업 앤트로픽이 자사 챗봇 '클로드'에 지속적인 학대 행위를 하는 사용자를 제재할 수 있도록 정책을 개정했으나, 어떤 행위가 학대로 판단되는지에 대한 구체적 기준이 밝혀지지 않아 의견이 엇갈리고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "4c67c0822d01",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "Money Box",
+      "link": "https://www.bbc.co.uk/sounds/play/m0032qlk?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-10T11:30:00.000Z",
+      "description": "What age will you get your state pension?",
+      "author": null,
+      "summary": "국가연금을 받을 수 있는 정해진 나이에 대해 설명하는 BBC의 경제 프로그램이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1a4645bbc3d5",
+      "category": "economy",
+      "source": "동아일보 경제",
+      "region": "kr",
+      "title": "싼 물건 살 때 더 발품 파는 이유…21개국 '돈 쓰는 심리' 조사해보니",
+      "link": "https://www.donga.com/news/Economy/article/all/20261008/134802753/2",
+      "publishedAt": "2026-10-10T11:30:00.000Z",
+      "description": "같은 금액을 할인받아도 사람들은 비싼 물건보다 싼 물건을 살 때 더 발품을 팔았다. 21개국 5589명을 조사한 결과 ‘정신적 회계’가 지금도 소비 결정에 영향을 미치는 것으로 나타났다.",
+      "author": null,
+      "summary": "21개국 5589명을 대상으로 한 조사 결과, 같은 금액의 할인을 받을 때도 사람들은 비싼 물건보다 싼 물건을 구매할 때 더 신중하게 선택하는 경향을 보여 '정신적 회계'가 여전히 소비 결정에 영향을 미치고 있는 것으로 나타났다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "49b8174296b6",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "\"치료 더 받고 싶은데\" vs \"보험료 인상 부담\"…도수치료 두고 의견차",
+      "link": "https://www.mk.co.kr/news/economy/12172753",
+      "publishedAt": "2026-10-10T11:12:18.000Z",
+      "description": "지난 7월 도수치료 관리급여화 15회 횟수 두고 의견차는 여전 비급여 과잉진료, 보험료 부담도# 십자인대 파열 등으로 도수치료를 받아온 A씨는 도수치료의 횟수 제한이 생긴 뒤 추가..",
+      "author": "매일경제",
+      "summary": "7월 도수치료의 급여화 이후 횟수 제한으로 환자들은 더 많은 치료를 원하지만 보험료 인상 부담으로 인해 의견이 엇갈리고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7dc227f1655e",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "부천 발전소 공사장서 크레인 무게추 사고…1명 사망·1명 부상",
+      "link": "https://www.yna.co.kr/view/AKR20261010032200530",
+      "publishedAt": "2026-10-10T06:19:45.000Z",
+      "description": "(서울=연합뉴스) 옥성구 기자 = 경기 부천시의 한 발전소 건설현장에서 타워크레인 무게추에 맞은 노동자 1명이 숨지고 1명이 다치는 사고가 발생...",
+      "author": "옥성구",
+      "summary": "경기도 부천의 발전소 건설현장에서 타워크레인의 무게추가 낙하하는 사고가 발생하여 노동자 1명이 사망하고 1명이 부상했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "328fc834721e",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "32년된 건물 마감재 무너졌는데…정기 안전점검 의무대상 아니었다",
+      "link": "https://www.yna.co.kr/view/AKR20261010028000053",
+      "publishedAt": "2026-10-10T04:59:50.000Z",
+      "description": "(대구=연합뉴스) 박세진 기자 = 대구에서 준공 32년 된 건물의 천장 마감재가 무너져 30여명이 다친 사고를 계기로 소규모 노후 건축물의 안전...",
+      "author": "박세진",
+      "summary": "대구에서 준공 32년 된 건물의 천장 마감재가 무너지면서 30여 명이 다친 사고가 발생했으나, 이 건물이 정기 안전점검 의무 대상이 아니었던 것으로 드러났다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8e58072ea56e",
+      "category": "politics",
+      "source": "노컷뉴스",
+      "region": "kr",
+      "title": "난징학살이 함락?…中 \"일본, AI 모델로 침략 역사 왜곡\"",
+      "link": "https://www.nocutnews.co.kr/news/6589469",
+      "publishedAt": "2026-10-10T14:33:32.000Z",
+      "description": "일본 정부가 행정업무 지원을 위해 구축한 인공지능(AI) 시스템이 일본의 침략 역사를 왜곡하고 있다고 중국이 강하게 반발했다. 지난해 다카이치 사나에 총리의 '대만 유사시 개입' 발언 이후 험악해진 양국 관계가 더욱 냉각될 전망이다. 10일 중국 관영 신화통신 등에 따르면, 마오닝 중국 외교부 대변인은 전날 정례 브리핑에서 \"새로운 기술을 이용해 데이터를 조작하는 것은 일본 우익 세력이 침략 역사를 왜곡하고 미화하는 새로운 술책\"이라고 지적했다. 일본 디지털청이 주도해 만든 공무원 행정업무용 AI 모델이 2차 세계대전 당시 일본 침략을 미화하거나 왜곡하고 있다는 점을 비판한 것이다. 일본은 지난해 '겐나이(源内)'라는 생성형 AI를 개발해 올해부터 약 18만 명의 공무원들에게 보급하고 있다. 겐나이는 미국 앤트로픽의 클로드(Claude) 시리즈 대형 모델을 적용했다. 해당 AI에게 1937년 중일전쟁의 시발점이 된 칠칠사변(루거우차오 사건)에 대해 물으면, 일본의 침략 사실은 빠진 채 '일중 군사 충돌'로 설명한다. 또 중국인 민간인과 포로가 수만~수십만 명 숨진 난징대학살에 대해서도 '난징 함락'으로 표현했다. 챗GPT, 제미나이 등 다른 주요 모델에 일본",
+      "author": null,
+      "summary": "중국이 일본 정부의 공무원용 AI 모델이 침략 역사를 미화·왜곡하고 있다고 강하게 반발했다. 일본의 클로드 기반 AI가 칠칠사변을 군사 충돌로, 난징대학살을 함락으로 표현하고 있다고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "93330c6319e8",
+      "category": "politics",
+      "source": "조선일보",
+      "region": "kr",
+      "title": "강석우, 모교 동국대학교 석좌교수 됐다..\"내 생일에 임용\"",
+      "link": "https://www.chosun.com/entertainments/broadcast/2026/10/10/MZSTINZSMQ4GKYZSGE4DINTEG4/",
+      "publishedAt": "2026-10-10T14:10:00.000Z",
+      "description": "[OSEN=김채연 기자] 배우 강석우가 모교인 동국대학교의 교수가 됐다.10일 강석우는 개인 계정을 통해 “지난주 10월 1일(내 생일)부로 동국대학교 예술대학의 석좌교수로 임용되어 15일 쇼팽과 유럽혁명사를 주제로 첫 특강을 합니다”라고 밝혔다.이어 “피아니스트 김정원 선생의 쇼팽연주도 기대됩니다”라고 덧붙였다.강석우는 10월 1일부터 1년간 동국대학교",
+      "author": "OSEN",
+      "summary": "배우 강석우가 10월 1일 자신의 생일부로 모교인 동국대학교 예술대학의 석좌교수로 임용되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "09e25619460f",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "李대통령 \"품격·권위 없다 비난하겠지만 SNS 소통 계속할 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20261010047000001",
+      "publishedAt": "2026-10-10T14:08:08.000Z",
+      "description": "(서울=연합뉴스) 황윤기 기자 = 이재명 대통령은 10일 이른바 SNS 메시지 정치에 대한 일각의 비판과 관련, \"품격 없다, 권위 없다 비난하...",
+      "author": "황윤기",
+      "summary": "이재명 대통령이 SNS 메시지 정치를 놓고 '품격 없다', '권위 없다'는 비판을 받으면서도 계속하겠다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0b4b1cf716c3",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "李 \"품격없다 비난해도 SNS 소통·삶의 현장 방문 계속할 것\"",
+      "link": "https://www.donga.com/news/Politics/article/all/20261010/134818022/1",
+      "publishedAt": "2026-10-10T14:04:00.000Z",
+      "description": "이재명 대통령은 10일 “품격없다, 권위없다 비난하겠지만 경호를 최소화한 뒷골목 삶의 현장 방문도, SNS(사회관계망서비스) 소통도, 그분들의 언어로 교감하는 일도 계속할 것”이라고 밝혔다.이 대통령은 이날 엑스(X·옛 트위터)에 첫 대선 출마 당시 자신의 발언을 소개한 한 이용자의 글을 공유하며 “대통령은 국민의 제1공복이기 때문”이라고 적었다.이 대통령이 공유한 글에는 첫 대선 출마 당시 국민 곁에 있겠다는 약속을 대통령이 된 지금 실천하고 있다는 취지의 내용이 담겼다.이 대통령은 “더 나은 세상을 만들어, 더 많은 사람들이, 더 행복한 삶을 살게 하는 것이 목표가 아니라면 굳이 힘든 정치를 계속할 이유가 없다”고 밝혔다.이어 첫 대선 출마 당시 했던 ‘국민 여러분, 저 높은 곳을 바라보지 마십시오. 그곳엔 이재명이 없습니다. 이재명은 언제나 여러분의 바로 옆에 있을 것이기 때문입니다’라는 발언을 언급하며 “국민들께 드린 이 마음과 결의는 지금까지 한 순간도 변한 적이 없",
+      "author": null,
+      "summary": "이재명 대통령이 SNS 소통과 현장 방문이 품격이 없다는 비난을 받더라도 계속하겠다며, 국민의 제1공복으로서 국민 곁에 있다는 당초 다짐을 지키겠다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "61c14efc85cd",
+      "category": "politics",
+      "source": "연합뉴스 사회",
+      "region": "kr",
+      "title": "한글날 연휴 둘째날 부캉이 구경객 5만9천명…누적 127만명",
+      "link": "https://www.yna.co.kr/view/AKR20261010046300051",
+      "publishedAt": "2026-10-10T13:05:16.000Z",
+      "description": "(부산=연합뉴스) 김선호 기자 = 한글날 연휴 둘째 날인 10일 부산 북항 친수공원 인공수로에 머무르는 흑상어 '부캉이'를 보러 온 이는 6만명...",
+      "author": "김선호",
+      "summary": "한글날 연휴 둘째 날에 부산 북항의 흑상어 부캉이를 보러 온 관광객이 6만여 명을 기록했으며, 누적 관광객이 127만 명에 달했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a08e36544688",
+      "category": "politics",
+      "source": "SBS 뉴스",
+      "region": "kr",
+      "title": "[단독] \"미국 대북정보 공유, 미사일뿐…사실상 막혔다\"",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008791273",
+      "publishedAt": "2026-10-10T13:03:00.000Z",
+      "description": "보신 것처럼 미국은 '동맹의 기준'을 내세우며 사실상 우리 정부를 압박하고 있습니다. 그럼, 현재 미국이 우리 측에 공유하는 정보는 어느 수준일까요.",
+      "author": "oneway@sbs.co.kr (김태훈 국방전문기자)",
+      "summary": "미국이 대북정보 공유를 미사일 관련 정보에만 한정하고 있으며, 실질적으로 정보 공유가 차단되고 있다고 보도되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d5fd5b281854",
+      "category": "politics",
+      "source": "연합뉴스 사회",
+      "region": "kr",
+      "title": "태안 펜션서 새어 나온 LPG에 불…투숙객 2명 2도 화상",
+      "link": "https://www.yna.co.kr/view/AKR20261010045300063",
+      "publishedAt": "2026-10-10T12:12:21.000Z",
+      "description": "(태안=연합뉴스) 정윤덕 기자 = 10일 오후 7시 32분께 충남 태안군 안면읍의 한 펜션 객실에서 새어 나와 있던 액화석유가스(LPG)에 불이...",
+      "author": "정윤덕",
+      "summary": "충남 태안군의 한 펜션에서 객실 내 새어 나온 LPG가 불을 일으켜 투숙객 2명이 2도 화상을 입었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "509419299f5b",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "로또 1245회 당첨번호 '4·5·25·28·32·42'…1등 당첨금 30억원",
+      "link": "https://www.khan.co.kr/article/202610102046001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-10-10T11:46:00.000Z",
+      "description": "동행복권 홈페이지 화면 갈무리로또복권 운영사 동행복권은 제1245회 로또복권 추첨에서 ‘4·5·25·28·32·42’이 1등 당첨번호로 뽑혔다고 10일 밝혔다. 2등 보너스 번호는 ‘12’이다.당첨번호 6개를 모두 맞힌 1등 당첨자는 10명으로, 각 30억651만5775원을 받는다.당첨번호 5개와 보너스 번호가 일치한 2등은 91명으로 각각 5506만439···",
+      "author": "허진무 기자",
+      "summary": "로또 1245회 당첨번호는 4, 5, 25, 28, 32, 42이고 보너스는 12번이며, 1등 당첨자 10명이 각 30억원을 받게 됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "46d0d3258353",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "홍준표 \"비난 각오하고 김부겸 밀었는데, 대구시민 내 진심 몰라줘···TK 몰락 가슴 아프다\"",
+      "link": "https://www.khan.co.kr/article/202610101956001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-10-10T10:56:00.000Z",
+      "description": "홍준표 전 대구시장. 성동훈 기자홍준표 전 대구시장이 10일 “TK(대구·경북) 몰락이 참 가슴 아프다”고 밝혔다.홍 전 시장은 이날 자신의 페이스북에 “대구시장 3년을 하면서 TK 미래 100년 사업을 100가지와 플러스 1로 선정하고 그중 재임 중 75%정도 착수하거나 완성했는데 가장 핵심적인 TK 신공항 사업은 착공조차 하지 못했다”며 이같이 적었다.···",
+      "author": "허진무 기자",
+      "summary": "홍준표 전 대구시장이 재임 중 추진한 TK 미래 100개 사업 중 75%를 완성했으나 핵심 사업인 신공항 착공에 실패했다며 TK 몰락이 가슴 아프다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1e4aa06fe38b",
+      "category": "politics",
+      "source": "서울신문",
+      "region": "kr",
+      "title": "\"명색이 집권당인데…대략 난감\" 추미애의 '뼈 있는' 하소연, 무슨 일",
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20261010500014",
+      "publishedAt": "2026-10-10T05:56:37.000Z",
+      "description": "추미애 경기도지사가 국정감사를 앞두고 집권 여당인 더불어민주당이 요구한 경기도지사 ‘비공개 일정’ 자료를 두고 숨길 것도 숨을 곳도 없다는 입장을 밝히면서 “대략난감”이라며 답답한 심경을 드러냈다. 추 지사는 지난 9일 자신의 소셜미디어(SNS)에 글을 올려 국감을 앞두고 국회에서 들어온 도지사 비공개 일정 자료 요구를 두고 “비공개 일정은 비밀 일정이 아니다”라고 선을 그었다. 도지사에게 남몰래 감춰둔 일정이 있을 수 없다는 것이다. 그는 그 이유로 늘 따라붙는 주변의 눈을 들었다. 바깥 일정에는 수행원과 운전원이 함께 움직이고, 얼굴이 널리 알려진 탓에 어디를 가든 알아보는 사람이 있기 마련이라는 설명이다. 추 지사에 따르면 취임 이후 비공개로 잡힌 일정은 대부분 보고와 회의였다. 그는 경기도가 처한 상황부터 짚었다. 그는 “경기도는 예산 규모가 크지만, 인구가 1420만명으로 전국에서 가장 많다”며 “복지 대상 인구도 가장 많고 그 수가 가파르게 늘고 있는 전국 유일의 광역도”라고 설명했다. 특히 65세 이상 노인 인구가 매달 1만 6000명씩 불어나고 있다는 점을 짚었다. 이 추세가 이어지면 5년 뒤에는 100만명 넘게 늘어, 노인으로만 이뤄진 특례시",
+      "author": "김성은 기자",
+      "summary": "추미애 경기도지사가 국감을 앞두고 여당이 요청한 도지사 비공개 일정 공개를 거부하며, 비공개 일정은 비밀 일정이 아니라고 설명했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9ff08ba1528d",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "폴란드 1주일 만에 세 번째 학교 칼 공격, 여성이 3명 부상시켜",
+      "link": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-10T14:58:55.000Z",
+      "description": "Polish police had already deployed to schools after a female caretaker was killed and several others injured in two earlier attacks in two days.",
+      "author": null,
+      "summary": "폴란드에서 지난 일주일간 학교 관련 칼 테러가 세 번 발생했으며, 이번 사건에서는 한 여성이 3명을 다치게 했다. 경찰은 이전 공격 이후 학교에 배치되어 있었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5f8ad0f5ac27",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "수단 민병대 드론 공격으로 에티오피아 국경 근처에서 41명 사망",
+      "link": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-10T14:49:32.000Z",
+      "description": "Eight children are said to be among those killed by the strike, which hit a gathering of displaced people.",
+      "author": null,
+      "summary": "수단의 준군사 조직이 에티오피아 국경 인근에서 드론을 이용해 난민 집단을 공격해 41명이 사망했으며, 피해자 중 8명은 어린이였다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "cf2d7a3a8866",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "독감에 두문불출 美민주 후보, 9일 만에 선거 운동 복귀",
+      "link": "https://www.yna.co.kr/view/AKR20261010047300071",
+      "publishedAt": "2026-10-10T14:34:48.000Z",
+      "description": "(워싱턴=연합뉴스) 박성민 특파원 = 미국 중간선거 최대 격전지의 하나인 텍사스주 연방 상원의원 선거 민주당 후보 제임스 탈라리코가 독감에 걸려...",
+      "author": "박성민",
+      "summary": "미국 텍사스주 연방상원의원 선거 민주당 후보 제임스 탈라리코가 독감으로 9일간 선거 운동을 중단했다가 복귀했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f6c09429987d",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "독일 2026년 청소년 올해의 단어는 '레이지베이트'",
+      "link": "https://www.dw.com/en/ragebait-is-the-2026-german-youth-word-of-the-year/a-79608158?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-10-10T13:36:00.000Z",
+      "description": "Already named the 2025 Oxford Word of the Year, \"rage bait\" has also been widely adopted in German slang.",
+      "author": null,
+      "summary": "'레이지베이트(rage bait)'가 2026년 독일 청소년 올해의 단어로 선정되었으며, 이미 2025년 옥스포드 올해의 단어로도 지정된 바 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0fb9034baa9b",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "트럼프 디젤 거래 이후에도 독일은 러시아 제재 유지",
+      "link": "https://www.dw.com/en/germany-sticks-to-russia-sanctions-after-trump-diesel-deal/live-79627811?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-10-10T13:25:00.000Z",
+      "description": "After Washington announced a sanctions pause on Russian diesel, Germany has said it remains committed to pressuring Moscow and supporting Ukraine. More on DW.",
+      "author": null,
+      "summary": "미국이 러시아 디젤에 대한 제재를 일시 중단하겠다고 선언했으나, 독일은 러시아 제재를 계속 유지하고 우크라이나 지원을 지속하겠다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "18487589ec60",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "20년째 총선 못치른 팔레스타인…내년 9월 대선과 동시 실시",
+      "link": "https://www.yna.co.kr/view/AKR20261010046100099",
+      "publishedAt": "2026-10-10T13:13:47.000Z",
+      "description": "(요하네스버그=연합뉴스) 나확진 특파원 = 팔레스타인 자치정부가 올해 11월 치르기로 한 총선을 내년 9월로 미루고 대선과 함께 치르겠다고 발표...",
+      "author": "나확진",
+      "summary": "팔레스타인 자치정부가 올해 11월 예정이던 총선을 내년 9월로 연기하고 대선과 동시에 실시하겠다고 발표했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9d4ef814a58b",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "남아공 억만장자가 영국 서머셋 지역을 개인 부동산으로 변모",
+      "link": "https://www.theguardian.com/news/2026/oct/10/how-a-south-african-billionaire-is-turning-a-corner-of-somerset-into-one-mans-estate",
+      "publishedAt": "2026-10-10T13:00:58.000Z",
+      "description": "Koos Bekker’s Newt estate encompasses luxury hotels, pubs and high street business, with local concerns including flooding When South African billionaire Koos Bekker bought an old country estate in a sleepy corner of Somerset to turn it into a luxury hotel, residents thought it was a sign their area was on the up. Walking through his peaceful manicured gardens, which feature a maze of apple trees twisted into perfect shapes using the espalier method, it’s easy to feel that all is well in this quiet, picturesque pocket of England. Continue reading...",
+      "author": "Helena Horton and Michael Goodier",
+      "summary": "남아프리카공화국의 억만장자 쿠스 베커가 영국 서머셋의 시골 지역에 럭셀리 호텔, 펍, 고급 상점 등을 포함한 개인 소유 부동산을 개발하고 있으며, 지역 주민들은 홍수 등을 우려하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "040d8ffbd87f",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "19세기 맨체스터 노동자와 카리브해 노예의 연관성 연구",
+      "link": "https://www.theguardian.com/news/2026/oct/10/study-explores-links-between-19th-century-manchester-workers-and-enslaved-africans-in-caribbean",
+      "publishedAt": "2026-10-10T12:00:56.000Z",
+      "description": "Global Threads research project reveals how slavery hung ‘like a spectre’ over the Peterloo massacre and other Mancunian struggles for equality They were the killings that changed Britain, paving the way for working-class people’s right to vote, as well as leading to the founding of the Manchester Guardian. In the Peterloo massacre of 1819, peaceful protesters were shot and trampled to death by the Manchester and Salford Yeomanry at St Peter’s Field in the city. A study by Global Threads, a public history project, has examined how the exploitation of Africans enslaved in the Caribbean was link",
+      "author": "Chris Osuh Community affairs correspondent",
+      "summary": "글로벌 스레드 프로젝트가 1819년 페터루 학살 등 맨체스터 평등 투쟁에서 카리브해의 아프리카 노예 착취가 깊은 영향을 미쳤다는 사실을 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1b64152fe597",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "미국과 러시아, 제재 완화 디젤 거래 추진",
+      "link": "https://www.npr.org/2026/10/10/nx-s1-5996938/u-s-and-russia-tout-diesel-deal-to-ease-sanctions-and-reopen-fuel-flows",
+      "publishedAt": "2026-10-10T11:40:53.000Z",
+      "description": "Moscow and Washington tout a diesel deal to ease sanctions and reopen fuel flows, but few details leave questions on price impacts and U.S. policy, sparking anger from Ukraine and allies.",
+      "author": "Ruth Sherlock",
+      "summary": "미국과 러시아가 제재 완화와 연료 공급 재개를 위한 디젤 거래를 추진하고 있으나, 세부사항 부족으로 가격 영향에 대한 의문과 우크라이나·동맹국의 분노를 야기했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "04ed9997a15b",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "가자지구 휴전 1년의 모습",
+      "link": "https://www.npr.org/sections/the-picture-show/2026/10/10/nx-s1-5991619/gaza-ceasefire-israel-life",
+      "publishedAt": "2026-10-10T09:00:00.000Z",
+      "description": "It has been one year since Hamas released the remaining Israeli hostages and President Trump promised an end to the war, but Palestinians say the past 12 months have been a ceasefire in name only.",
+      "author": "Anas Baba",
+      "summary": "하마스가 이스라엘 인질을 석방하고 트럼프 대통령이 전쟁 종료를 약속한 지 1년이 지났지만, 팔레스타인은 지난 12개월이 명목상의 휴전일 뿐 실질적인 진전이 없었다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "dcf22c21e8a4",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "가족 로드트립의 아홉 원",
+      "link": "https://www.washingtonpost.com/opinions/2026/10/10/edith-pritchett-cartoon-family-road-trips/",
+      "publishedAt": "2026-10-10T14:43:33.000Z",
+      "description": "Try to keep the dog in the car.",
+      "author": "Edith Pritchett",
+      "summary": "가족 로드트립의 어려움을 단테의 아홉 원에 빗대어 유머러스하게 표현하며, 특히 개를 차에 태우는 것의 고충을 다루고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a6185d2a3e96",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "부가 흐리는 AI 안전 논의",
+      "link": "https://www.nytimes.com/video/opinion/100000011191544/wealth-is-clouding-the-ai-safety-debate.html",
+      "publishedAt": "2026-10-10T14:33:10.000Z",
+      "description": "There’s a conflict of interest at the core of the current discourse around A.I. On “The Ezra Klein Show,” David Robinson, a former OpenAI safety employee, discusses how wealth and other factors are influencing the conversation about A.I. safety.",
+      "author": null,
+      "summary": "AI 안전 논의의 중심에 이해상충이 있으며, 부와 다른 경제적 요소들이 이 담론을 흐리고 있다고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1a97f2d88def",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "코넬대학 사건의 익명 피해자가 협박을 받고 있다",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/10/cornell-seven-jane-doe-rape",
+      "publishedAt": "2026-10-10T13:00:58.000Z",
+      "description": "Every time a story about a woman being raped becomes headline news, the same pattern repeats without fail If she really was raped, why didn’t she speak up earlier? Why did she get drunk? Why was she wearing such a short skirt? Why did she walk home by herself? God, it’s exhausting, isn’t it? Every time a story about a woman being raped becomes headline news, the same pattern repeats without fail. People accuse the woman of asking for it. They question her motives; they scrutinize her looks; they attack her character. And without fail, she is punished for speaking up. Continue reading...",
+      "author": "Arwa Mahdawi",
+      "summary": "강간 피해 신고 여성이 의복과 음주 여부로 의심받고, 신고 자체로 인해 오히려 처벌받는 구조를 강하게 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6a7dbf47781e",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "르브론 제임스: 필라델피아가 원하고 견딜 수 없는 것",
+      "link": "https://www.theguardian.com/sport/2026/oct/10/lebron-james-philadelphia-76ers-helicopter-gambling-corporate-sellout",
+      "publishedAt": "2026-10-10T13:00:57.000Z",
+      "description": "The sports-mad city has embraced its new superstar, even as he choppers in from Manhattan and makes no secret of the fact that Philly was never his first choice Philadelphia has always had an instinctive affinity with athletes who embrace the grind over the glamour. In a place where sports mean a little too much, commitment has traditionally counted for more than celebrity. What it demands above all, sometimes unreasonably, is the sense that they have bought in, that the city and its fortunes matter to them as much as they do to the people who devote their lives to backing its teams. Few embod",
+      "author": "Bryan Armen Graham",
+      "summary": "필라델피아는 스포츠 스타들에게 도시에 대한 헌신을 강하게 요구하는데, 르브론 제임스는 맨해튼에서 헬리콥터를 타고 오며 필라델피아를 우선순위로 두지 않아 이 기준을 충족하지 못한다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "469ee8dae7b8",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "미국에서 아동 결혼은 여전히 왜 합법인가?",
+      "link": "https://www.nytimes.com/2026/10/10/opinion/child-marriage-legal-us.html",
+      "publishedAt": "2026-10-10T11:04:29.000Z",
+      "description": "Children are still allowed to marry here in the United States because of zealots on the left and right alike.",
+      "author": "Nicholas Kristof",
+      "summary": "미국에서 아동 결혼이 여전히 법적으로 허용되고 있는 것이 좌우 양측의 광신주의자들의 책임이라고 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "51079710a3af",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "푸틴의 공세가 강할수록 유럽은 우크라이나 지원을 강화해야 한다",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/10/vladimir-putin-shadow-war-europe-ukraine-russia",
+      "publishedAt": "2026-10-10T11:00:55.000Z",
+      "description": "Moscow’s imperialist strongman believes decadent European democracies can be cowed. Our job is to prove him wrong Vladimir Putin is escalating both his full-scale war against Ukraine and his shadow war against the rest of Europe. His main purpose in the shadow one is to break European support for Ukraine so he can subjugate that country, something he regards as existential for Russia’s future and his own. While we in the rest of Europe must prepare as best we can to defend ourselves against every kind of hybrid attack, the central thrust of our response should be to redouble our support for Uk",
+      "author": "Timothy Garton Ash",
+      "summary": "푸틴의 우크라이나 침략 전쟁과 유럽에 대한 섀도우 전쟁이 심화되고 있으므로, 유럽은 우크라이나 지원을 더욱 강화하고 하이브리드 공격에 대비해야 한다고 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ac9ed7d2cf10",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "1959년 소설이 AI에 대해 가르쳐주는 것",
+      "link": "https://www.nytimes.com/video/opinion/100000011200170/what-this-1959-novel-can-teach-us-about-ai.html",
+      "publishedAt": "2026-10-10T11:00:17.000Z",
+      "description": "How will we be able to tell whether A.I. is conscious? On “The Opinions,” the columnist Carlos Lozada draws on the 1959 novel “A Canticle for Leibowitz” to explore the line between intelligence and consciousness — and whether we’re asking the right questions about A.I.",
+      "author": null,
+      "summary": "1959년 소설 《A Canticle for Leibowitz》를 통해 AI의 의식성 판단 문제를 탐색하며, AI에 대해 올바른 질문을 하고 있는지 문제 제기했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "4a107301370a",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "학생은 왜 글을 써야 하는가?",
+      "link": "https://www.nytimes.com/2026/10/10/opinion/writing-thinking-students.html",
+      "publishedAt": "2026-10-10T11:00:05.000Z",
+      "description": "Readers respond to a philosophy professor’s essay that argued for less emphasis on writing in the college classroom.",
+      "author": null,
+      "summary": "대학 강의실에서 학생 글쓰기 교육의 중요성에 대한 철학 교수의 주장과 독자들의 다양한 관점을 제시했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "af2cd23417be",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "미수된 항공기 납치가 드러낸 변화하는 중동",
+      "link": "https://www.washingtonpost.com/opinions/2026/10/09/foiled-flight-1073-hijacking-showed-how-iran-is-losing-long-game/",
+      "publishedAt": "2026-10-09T22:30:37.000Z",
+      "description": "Arab-Israeli cooperation was impressive, but deeper diplomatic ties might have prevented the Omani co-pilot from being behind the controls.",
+      "author": "Editorial Board",
+      "summary": "항공기 납치 미수 사건에서 아랍-이스라엘 협력의 진전이 인상적이었지만, 더 강한 외교적 결속이 형성되었다면 대비책이 더 효과적이었을 것이라고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "31be0f4c3c3a",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "보육의 현실",
+      "link": "https://www.washingtonpost.com/opinions/2026/10/09/edith-pritchett-cartoon-sending-her-daughter-day-care/",
+      "publishedAt": "2026-10-09T18:29:11.000Z",
+      "description": "The brochures promised a lot.",
+      "author": "Edith Pritchett",
+      "summary": "보육 시설의 홍보물이 약속한 것과 현실 사이의 심각한 괴리를 강조하고 있다.",
+      "summarySource": "llm"
+    }
+  ],
+  "summarizedAt": "2026-10-11T00:50:47.277Z",
+  "summaryStats": {
+    "llm": 40,
+    "fallback": 10,
+    "model": "claude-haiku-4-5"
+  }
+}
