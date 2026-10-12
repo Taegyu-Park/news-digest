@@ -1,0 +1,899 @@
+{
+  "date": "2026-10-11",
+  "generatedAt": "2026-10-12T01:02:45.341Z",
+  "categories": [
+    {
+      "id": "it",
+      "label": "IT·과학·AI"
+    },
+    {
+      "id": "economy",
+      "label": "경제·금융"
+    },
+    {
+      "id": "politics",
+      "label": "정치·사회"
+    },
+    {
+      "id": "world",
+      "label": "세계·국제"
+    },
+    {
+      "id": "editorial",
+      "label": "사설·칼럼",
+      "opinion": true,
+      "summaryMaxChars": 220
+    }
+  ],
+  "feedStatus": [
+    {
+      "source": "Ars Technica",
+      "category": "it",
+      "ok": true,
+      "matched": 1
+    },
+    {
+      "source": "Hacker News",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "TechCrunch",
+      "category": "it",
+      "ok": true,
+      "matched": 7
+    },
+    {
+      "source": "The Verge",
+      "category": "it",
+      "ok": true,
+      "matched": 5
+    },
+    {
+      "source": "블로터",
+      "category": "it",
+      "ok": true,
+      "matched": 18
+    },
+    {
+      "source": "전자신문",
+      "category": "it",
+      "ok": true,
+      "matched": 24
+    },
+    {
+      "source": "ZDNet Korea",
+      "category": "it",
+      "ok": true,
+      "matched": 30
+    },
+    {
+      "source": "BBC Business",
+      "category": "economy",
+      "ok": true,
+      "matched": 2
+    },
+    {
+      "source": "The Guardian",
+      "category": "economy",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "매일경제 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 24
+    },
+    {
+      "source": "연합뉴스",
+      "category": "economy",
+      "ok": true,
+      "matched": 41
+    },
+    {
+      "source": "경향신문 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 38
+    },
+    {
+      "source": "경향신문 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "노컷뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 1
+    },
+    {
+      "source": "서울신문",
+      "category": "politics",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "연합뉴스 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "연합뉴스 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 55
+    },
+    {
+      "source": "SBS 뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 10
+    },
+    {
+      "source": "Al Jazeera",
+      "category": "world",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC World",
+      "category": "world",
+      "ok": true,
+      "matched": 12
+    },
+    {
+      "source": "NPR",
+      "category": "world",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "The Guardian",
+      "category": "world",
+      "ok": true,
+      "matched": 10
+    },
+    {
+      "source": "연합뉴스 국제",
+      "category": "world",
+      "ok": true,
+      "matched": 74
+    },
+    {
+      "source": "매일경제 증권",
+      "category": "economy",
+      "ok": true,
+      "matched": 19
+    },
+    {
+      "source": "경향신문 오피니언",
+      "category": "editorial",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "NYT Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 11
+    },
+    {
+      "source": "The Guardian Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "Washington Post Opinions",
+      "category": "editorial",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "동아일보 사설",
+      "category": "editorial",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "동아일보 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "조선일보",
+      "category": "politics",
+      "ok": true,
+      "matched": 2
+    },
+    {
+      "source": "동아일보 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "머니투데이",
+      "category": "economy",
+      "ok": false,
+      "error": "fetch failed",
+      "matched": 0
+    },
+    {
+      "source": "Wired",
+      "category": "it",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "DW News",
+      "category": "world",
+      "ok": true,
+      "matched": 15
+    }
+  ],
+  "items": [
+    {
+      "id": "8f7a2e10ebbf",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "프라임 비디오, NYCC에서 '블레이드러너 2099' 풀 트레일러 공개",
+      "link": "https://arstechnica.com/culture/2026/10/prime-video-unveils-blade-runner-2099-full-trailer-at-nycc/",
+      "publishedAt": "2026-10-11T14:50:24.000Z",
+      "description": "Also: new trailer for Godzilla Minus Zero, the sequel to Takashi Yamazaki’s kaiju epic Godzilla Minus One",
+      "author": "Jennifer Ouellette",
+      "summary": "프라임 비디오가 NYCC에서 '블레이드러너 2099'의 풀 트레일러를 공개했으며, 타카시 야마자키 감독의 '고질라 마이너스 원' 후속작 트레일러도 함께 선보였다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "814767621f04",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "파라마운트, 워너브라더스 디스커버리 1,110억 달러 인수 거래 진행",
+      "link": "https://techcrunch.com/2026/10/11/warner-bros-netflix-paramount-acquisition-timeline-wbd/",
+      "publishedAt": "2026-10-11T14:15:00.000Z",
+      "description": "Learn more about Paramount's planned acquisition of Warner Bros. Discovery — a historic Hollywood megadeal valued at $111 billion — as it continues to develop.",
+      "author": "Lauren Forristal",
+      "summary": "파라마운트가 워너브라더스 디스커버리를 1,110억 달러 규모로 인수하는 역사적 거래를 진행하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a13d50a62573",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "데이터라이즈, AI에 마케팅 '판단' 맡긴다",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=675286",
+      "publishedAt": "2026-10-11T14:00:00.000Z",
+      "description": "주요 디지털마케팅 전문기업의 마케팅 솔루션 특징 및 인공지능(AI) 전략에 대해 분석합니다. 인공지능(AI) 마케팅 솔루션 전문기업 데이터라이즈가 AI의 역할을 마케팅 실행 자동화에서 데이터 분석과 의사결정으로 확대한다. 고객별 구매 가능성을 예측하고 맞춤형 메시지를 발송하는 기존 방식에서 나아가 AI가 매출 변화의 원인을 분석하고 대응 방안까지 제안하는 전략이다. 최근에는 고객사가 사용하는 업무 채널에 AI 에이전트를 연결하며 서비스 범위를 넓히고 있다.박민성 데이터라이즈 최고전략책임자(CSO)는 이달 8일 와의 화상인터",
+      "author": "강준혁 기자",
+      "summary": "마케팅 솔루션 기업 데이터라이즈가 AI의 역할을 자동화 단계에서 데이터 분석 및 의사결정 단계로 확대하면서, 매출 변화 원인 분석과 대응 방안 제시를 AI가 수행하는 전략으로 전환했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d51376510729",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "법원 앞 잔디밭서…만취 운전자의 '폭풍 드리프트'",
+      "link": "https://www.etnews.com/20261008000224",
+      "publishedAt": "2026-10-11T13:30:00.000Z",
+      "description": "미국 인디애나주에서 술에 취한 것으로 의심되는 60대 여성이 법원 앞 잔디밭에서 차량으로 원을 그리며 질주하다 경찰에 붙잡혔다. 7일(현지시간) 미국 WGN-TV 등에 따르면 인디애나주 제닝스카운티 보안관실은 전날 공식 페이스북을 통해 68세 여성이 음주 상태로 차량을 운전한 혐의 등으로 체포됐다고 밝혔다. 사건은 지난 5일 오후 제닝스카운티 법원 청사 앞 잔디밭에서 발생했다. 보안관실이 공개한 영상에는 승용차 한 대가 법원 잔디밭 위를 빙글빙",
+      "author": "서희원",
+      "summary": "미국 인디애나주에서 음주한 68세 여성이 제닝스카운티 법원 앞 잔디밭에서 차량으로 원을 그리며 질주하다 경찰에 체포됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0ee20689dc41",
+      "category": "it",
+      "source": "The Verge",
+      "region": "intl",
+      "title": "Vurt, 수직 비디오를 독립적 장르로 제시",
+      "link": "https://www.theverge.com/entertainment/1008720/vurt-microdramas-verticals-interview-hilmon-sorey",
+      "publishedAt": "2026-10-11T13:00:00.000Z",
+      "description": "From Disney Plus to HBO Max, almost every major established streaming service is experimenting with ways to get into vertical content. It's clear that these companies see video-focused social media platforms like TikTok and Instagram as existential threats. In this arms race for viewers' attention, it has often felt like everyone is trying to find new ways to exist on people's phones. But a new startup thinks that the next step in vertical series' evolution is going to take place on our wide-screen televisions. Unlike most vertical microdrama / series streaming platforms on the market that hav",
+      "author": null,
+      "summary": "디즈니 플러스, HBO 맥스 등 주요 스트리밍 서비스가 수직 콘텐츠 진출을 시도하는 가운데, 신생 스타트업 Vurt는 수직 시리즈를 새로운 장르로 확립하고 와이드스크린 TV에서 시청하도록 하는 방식을 제안했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ecc5bf9bb46f",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "[현대모비스 재편 셈법]④ '자사주 소각' 주주가치·지배력 움직인다",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=675281",
+      "publishedAt": "2026-10-11T13:00:00.000Z",
+      "description": "현대모비스가 램프사업을 매각하며 포트폴리오를 재편하는 가운데 자사주 소각도 이어간다. 현대모비스는 총주주환원율(TSR) 30% 이상을 목표로 배당과 자사주 매입·소각을 병행하고 있다. 자사주 소각은 일반주주에게 주주환원 수단이지만 지배구조 측면에서도 의미가 있다. 발행주식 수가 줄면 기존 주주가 추가로 주식을 사지 않아도 지분율이 높아지기 때문이다.자사주 소각만으로 정의선 회장의 직접 지분이 크게 높아지는 것은 아니다. 정 회장의 현대모비스 지분율은 0.33%에 불과하다. 자사주 소각은 모든 기존 주주에게 같은 비율로 효과가 돌아가",
+      "author": "나영찬 기자",
+      "summary": "현대모비스가 총주주환원율 30% 이상을 목표로 배당과 자사주 소각을 병행하면서, 발행주식 수 감소로 기존 주주의 지분율이 높아지는 효과를 얻고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "23fc69c3df33",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "펜타시큐리티, 금융권 연쇄 침해 대응 가이드 배포",
+      "link": "https://zdnet.co.kr/view/?no=20261011211729",
+      "publishedAt": "2026-10-11T12:17:29.000Z",
+      "description": "[지디넷코리아]사이버보안 전문기업 펜타시큐리티가 최근 금융권에서 잇따라 발생하고 있는 개인정보 침해사고와 AI 활용 공격 정황에 대응해 보안 가이드를 배포했다.최근 국내 주요 은행을 비롯한 금융권에서 외부 업무시스템과 정보조회 서비스 등을 대상으로 한 침해사고가 연이어 발생했다. 일부 사고에서는 인증 절차가 충분히 적용되지 않은 시스템이 공격에 노출됐으며, 크리덴셜 스터핑과 AI 에이전트·자동화 도구를 활용한 것으로 의심되는 공격 정황도 나타났다. 공격 자동화로 짧은 시간에 더 많은 시스템과 계정을 공격할 수 있게 되면서 기본적인 보안 체계 점검과 신속한 대응의 중요성이 커졌다.이에, 펜타시큐리티는 AI 활용 공격에 대응하기 위한 핵심 보안 원칙으로 ▲가시성 확보 ▲다층 방어 ▲제로 데미지 디자인(Zero Damage Design)을 10일 제시했다.‘가시성 확보’는 웹 서비스로 유입되는 공격 트래픽을 탐지하고 빠르게 대응하는 것이다. 주요 웹 서비스의 보호 적용 여부와 공격 탐지 기록을 주기적으로 점검해 비정상적인 접근과 자동화 공격의 징후를 파악해야 한다.‘다층 방어’는 업무 서비스에 비밀번호 외 추가 인증을 적용해 하나의 인증 절차가 뚫리더라도 다음 단",
+      "author": "방은주 기자",
+      "summary": "사이버보안 기업 펜타시큐리티가 최근 금융권의 개인정보 침해와 AI 활용 공격에 대응하기 위해 '가시성 확보', '다층 방어', '제로 데미지 디자인'을 핵심 보안 원칙으로 제시한 가이드를 배포했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5488ba64549b",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "SK쉴더스 \"아르텍스, 기존 공격 고도화\"...API 보안 대응책 제시",
+      "link": "https://zdnet.co.kr/view/?no=20261011210506",
+      "publishedAt": "2026-10-11T12:05:06.000Z",
+      "description": "[지디넷코리아]SK쉴더스(대표 민기식)가 AI 자동화 공격 시대의 주요 위협으로 부상한 쉐도IT(Shadow IT)와 API 보안 이슈를 분석한 'AI 자동화 공격 시대, Shadow IT를 노린 침해사고 분석 및 대응 가이드'를 지난 8일 공개했다.이번 가이드는 최근 금융권 침해사고 사례를 바탕으로 AI 기반 공격도구의 활용 방식과 실제 침해 경로를 분석하고, 기업이 유사 공격에 대비하기 위해 갖춰야 할 보안 체계를 제시했다.SK쉴더스는 현재까지 공개된 사고 정황을 종합해 볼 때 이번 사고는 AI가 새로운 공격 기법을 만들어낸 사례가 아닌, 기존 공격을 자동화·고도화한 사례에 가까운 것으로 분석했다. 공격자는 핵심 금융거래 시스템보다 대출모집인 시스템, 임직원 지원 서비스, 영업지원 플랫폼 등 관리 사각지대에 놓인 외부 노출 자산을 우선 공략했으며, AI는 이를 더 빠르고 대규모로 탐색하는 역할을 수행한 것으로 평가했다.특히 AI 기반 자동화 공격도구를 활용할 경우 여러 금융기관의 인터넷 노출 자산과 API를 동시에 탐색할 뿐 아니라, API 호출 패턴과 응답 정보를 바탕으로 공격 대상을 빠르게 확장할 수 있다는 점에 주목했다. 기업의 주요 업무가 API를",
+      "author": "방은주 기자",
+      "summary": "SK쉴더스가 최근 금융권 침해사고를 분석한 결과, AI 기반 공격도구가 새로운 기법이 아닌 기존 공격을 자동화·고도화한 것으로 평가했으며, API 호출 패턴을 활용한 대규모 확산 방식으로 작동한다고 분석했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b454cc9fb553",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "구글의 AI 플레이그라운드로 게임 만들기",
+      "link": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
+      "publishedAt": "2026-10-11T11:30:00.000Z",
+      "description": "A long day’s haul in the video game slop mines.",
+      "author": "Boone Ashworth",
+      "summary": "저자가 구글의 AI 플레이그라운드를 사용해 게임을 제작한 경험과 과정을 소개했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "358550f20a95",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "매월 50만원 넣고 2255만원…내일부터 딱 닷새간 '연 최대 19.4% 금리' 적금 가입 효과",
+      "link": "https://www.etnews.com/20261011000093",
+      "publishedAt": "2026-10-11T11:05:55.000Z",
+      "description": "정부가 청년층의 자산 형성을 지원하기 위해 도입한 '청년미래적금'의 2차 가입 신청이 12일부터 출생연도와 관계없이 가능해진다. 신청 마감일은 16일이다. 11일 금융위원회에 따르면 지난 7~8일 시행된 출생연도 끝자리 기준 홀짝제가 종료됨에 따라 12일부터는 가입 요건을 충족하는 청년 누구나 신청할 수 있다. 신청은 14개 취급 금융기관의 모바일 애플리케이션을 통해 비대면으로 진행되며, 별도 서류 제출은 필요하지 않다. 청년미래적금은 만 19",
+      "author": "이상목",
+      "summary": "정부의 청년 자산 형성 지원 상품인 '청년미래적금' 2차 가입이 12일부터 출생연도와 관계없이 모든 청년에게 개방되며, 신청 마감은 16일까지다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ccd12656e3fb",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "우크라이나, 러시아 Yandex 데이터센터 공격…이번 주 세 번째",
+      "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-11T14:38:10.000Z",
+      "description": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
+      "author": null,
+      "summary": "우크라이나가 러시아 기술 대기업 Yandex를 이번 주 세 번째로 공격했으며, Yandex는 운영을 중단했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c161d81a4527",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "트럼프의 러시아산 디젤 구매 계획에 대한 카툰",
+      "link": "https://www.theguardian.com/commentisfree/picture/2026/oct/11/pete-songi-donald-trump-plan-to-buy-diesel-from-russia-cartoon",
+      "publishedAt": "2026-10-11T14:15:37.000Z",
+      "description": "Continue reading...",
+      "author": "Pete Songi",
+      "summary": "도널드 트럼프가 러시아에서 디젤을 구매하려는 계획을 다룬 정치 풍자 카툰이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e98cf31714d3",
+      "category": "economy",
+      "source": "동아일보 경제",
+      "region": "kr",
+      "title": "현대자동차, 30년 공들인 인도서 1000만대 신화 쓴다…연내대기록 달성 확실시",
+      "link": "https://www.donga.com/news/Economy/article/all/20261011/134822757/1",
+      "publishedAt": "2026-10-11T14:08:18.000Z",
+      "description": "1990년대 후반 인도 시장에 첫발을 내디딘 현대자동차가 현지 진출 30여 년 만에 누적 판매량 1000만 대 돌파라는 대기록 완성을 눈앞에 두고 있다.인도자동차공업협회(SIAM) 집계에 따르면 현대차는 1998년 첸나이 제조 시설에서 소형 해치백 ‘쌍트로’를 양산하기 시작한 이래 올해 3분기까지 총 988만4960대의 누적 실적을 올렸다. 최근의 판매 추세를 고려할 때 올해 안에 1000만 대 고지를 넘어설 것이 확실시된다. 2007년 100만 대, 2017년 500만 대를 돌파한 데 이어 성장세에 가속도가 붙은 결과다.현대차의 인도 진출은 1996년 현지 법인 설립으로 시작됐다. 2년 뒤 첸나이 공장에서 출하된 첫 차종 쌍트로는 공간 활용성과 실용성을 무기로 현지 소비자들을 사로잡으며 ‘인도 국민차’ 반열에 올랐다. 진출 첫해 곧바로 시장 점유율 2위로 올라선 현대차는 i10, i20, 베르나 등 소형 라인업을 연달아 투입하며 입지를 공고히 했다.이후 소득 수준 향상과 함께",
+      "author": null,
+      "summary": "현대자동차는 1998년 인도 시장 진출 이래 누적 판매량 988만대에 도달했으며, 올해 안에 1000만대를 돌파할 것으로 예상된다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3e2540ebdb8e",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "대통령의 SNS 소통이 걱정되는 이유, '호모 휴리스티쿠스'",
+      "link": "https://www.mk.co.kr/news/economy/12173207",
+      "publishedAt": "2026-10-11T12:06:24.000Z",
+      "description": "X계정서 쏟아지는 민감한 현안 메시지 시스템 관리 필요한 국가기록물의 위상 덜 정제된 메시지, 국가 시스템의 문제“핵단추를 누를 것인가, 멈출 것인가…3초…2초…1초…해제!” 냉..",
+      "author": "매일경제",
+      "summary": "대통령이 SNS를 통해 발표하는 민감한 정책 메시지가 국가기록물로서의 체계적 관리 필요성을 제기하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "69afee308e28",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "이틀 대출에 연 10%씩 받는 증권사들…8개월 이자수익만 1200억 달해",
+      "link": "https://www.mk.co.kr/news/stock/12173206",
+      "publishedAt": "2026-10-11T12:03:43.000Z",
+      "description": "10곳 매도담보대출 수익 작년보다 2배늘어 1200억원 당국 지적에 조용히 금리내려투자자가 주식 매도 후 2영업일 뒤(T+2)에 들어오는 매도대금을 담보로 하는 주식 매도대금담보대..",
+      "author": "매일경제",
+      "summary": "증권사들이 주식 매도 후 2영업일 뒤 들어오는 매도대금을 담보로 한 대출로 연 10% 수익을 올리고 있으며, 10개 증권사의 8개월 이자수익만 1200억원에 달했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "951831a2fb14",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "칠레 염전이 녹색 자본주의의 채굴 경계를 보여주는 축소판인 이유",
+      "link": "https://www.theguardian.com/world/2026/oct/11/chilean-salt-flat-extractive-frontiers-green-capitalism-atacama",
+      "publishedAt": "2026-10-11T12:00:26.000Z",
+      "description": "In the Atacama desert, the extraction of lithium – so crucial to addressing the climate crisis – comes with escalating social and environmental costs A high-altitude desert plateau traverses Argentina, Bolivia and Chile. I am on the Chilean side, sitting in a Jeep along with two other researchers. The afternoon air is thin and brisk but the sun is piercing – a combination I am familiar with from years of living and travelling in South America’s Andean range. The landscape is a study in contrasts and contours: broad basins suddenly cut off by sweeping curves; flat expanses sliced by near vertic",
+      "author": "Thea Riofrancos",
+      "summary": "아타카마 사막의 리튬 채굴은 기후 위기 대응에 중요하지만 사회적·환경적 비용이 증가하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "84b1efe799b8",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "역시 주주환원은 뒷전입니까…코스피 자사주 매입, 삼전닉스 빼니 줄었다",
+      "link": "https://www.mk.co.kr/news/stock/12173202",
+      "publishedAt": "2026-10-11T11:51:10.000Z",
+      "description": "코스피 밸류업의 ‘그늘’ 9월까지 자사주 매입 규모 작년보다 5배 넘게 늘었지만 삼전닉스 쏠림 51%서 92%주주환원 강화 추세에 발맞춰 올해 코스피 상장사의 자사주 매입 결정액이..",
+      "author": "매일경제",
+      "summary": "올해 코스피 상장사의 자사주 매입 결정액이 지난해보다 5배 이상 증가했지만, 삼성전자와 SK하이닉스에 쏠려 전체의 92%를 차지했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "793b76119d7b",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "이형일, 경제현안간담회서 온누리상품권·민생물가 논의",
+      "link": "https://www.yna.co.kr/view/AKR20261011050200002",
+      "publishedAt": "2026-10-11T11:27:40.000Z",
+      "description": "(세종=연합뉴스) 이대희 기자 = 이형일 부총리 겸 재정경제부 장관은 11일 경제현안간담회를 열고 전통시장 온누리상품권 환급 개선방안, 민생물가...",
+      "author": "이대희",
+      "summary": "이형일 부총리 겸 재정경제부 장관이 경제현안간담회를 열어 전통시장 온누리상품권 환급 개선방안과 민생물가를 논의했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "74ebcdedd418",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "무보 '떼인 돈' 3.8조원…남은 채권 절반은 10년 이상 미회수",
+      "link": "https://www.yna.co.kr/view/AKR20261011042200003",
+      "publishedAt": "2026-10-11T09:04:55.000Z",
+      "description": "(서울=연합뉴스) 장보인 기자 = 한국무역보험공사가 회수하지 못하고 상각·종결 처리한 채권의 누적 금액이 3조8천억원을 넘어서는 것으로 파악됐다...",
+      "author": "장보인",
+      "summary": "한국무역보험공사가 회수하지 못한 채권이 누적 3조8000억원을 초과했으며, 남은 채권의 절반 이상은 10년 이상 미회수 상태다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a19067a0ce3e",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "유럽 뱃길 열흘 단축…컨테이너선 북극항로 첫 왕복",
+      "link": "https://www.mk.co.kr/news/economy/12173161",
+      "publishedAt": "2026-10-11T08:42:13.000Z",
+      "description": "국내 컨테이너선 최초로 북극항로 왕복 시범운항에 나선 팬스타 아크로호가 50일간의 항해를 마치고 11일 부산항으로 돌아왔다. 정부는 이번 운항에서 확보한 항해 시간과 비용 등의 데..",
+      "author": "매일경제",
+      "summary": "국내 컨테이너선이 처음으로 북극항로를 왕복 운항했으며, 팬스타 아크로호는 50일간의 항해를 마치고 부산항으로 귀항했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "430d548d8ef2",
+      "category": "politics",
+      "source": "조선일보",
+      "region": "kr",
+      "title": "이재명 대통령 외교의 '골키퍼 없는 페널티킥' 위기",
+      "link": "https://www.chosun.com/jp/opinion-jp/2026/10/11/IIB6JWIQUNCW5MVTDSYOH4FSPY/",
+      "publishedAt": "2026-10-11T14:55:00.000Z",
+      "description": "",
+      "author": "パク・イングク 元 国連大使, 崔鍾賢学術院 初代院長",
+      "summary": "이재명 대통령의 외교 정책이 골키퍼 없는 페널티킥처럼 위험한 상황에 처할 수 있다는 우려가 제기되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "db63abed3727",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "아버지에 받은 돈 수억 투자했다 손실···질책 두려워 잠자던 아버지 살해한 40대 딸",
+      "link": "https://www.khan.co.kr/article/202610112313001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-10-11T14:13:00.000Z",
+      "description": "경찰 마크. 경향신문 자료사진아버지에게 받은 돈으로 투자했다가 손실을 본 뒤 질책을 들을 것이 두려워 아버지를 살해한 40대 딸이 경찰에 붙잡혔다.충남 천안동남경찰서는 존속살해 혐의로 A씨(40대)를 구속했다고 11일 밝혔다.A씨는 지난달 13일 낮 12시쯤 천안의 한 아파트에서 잠을 자던 아버지 B씨(60대)를 둔기로 내리쳐 살해한 혐의를 받는다.경찰 조···",
+      "author": "김정훈 기자",
+      "summary": "아버지에게 받은 돈으로 투자했다가 손실을 본 40대 딸이 질책이 두려워 잠을 자던 아버지를 둔기로 내려쳐 살해했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b6439bcc2647",
+      "category": "politics",
+      "source": "SBS 뉴스",
+      "region": "kr",
+      "title": "최형두 \"연계정보(CI) 유출 대비해 유효기간 도입해야\"",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008792169",
+      "publishedAt": "2026-10-11T13:34:00.000Z",
+      "description": "▲ 국민의힘 최형두 의원국회 과학기술정보방송통신위원회 국민의힘 간사를 맡고 있는 최형두 의원은 반복되는 연계정보(CI · Connecting Information) 유출사고와 관련해 \"주민등록번호를 대체하기 위해 도입한 CI가 유출되더라도 사실상 평생 같은 값을 사용해야 한다\"며 \"CI 유효기간을 도입하고 이미 유출된 CI를 갱신할 수 있는 제도적 장치를 조속히 마련해야 한다\"고 촉구했습니다.CI는 온라인에서 동일인을 식별하기 위해 본인확인기관이 주민등록번호를 바탕으로 생성하는 고유 식별정보입니다.주민등록번호를 직접 활용하지 않고도 본인 여부와 동일인 여부를 확인할 수 있도록 도입됐으며, 온라인 서비스의 회원 식별과 관리 등에 활용되고 있습니다.그러나 주민등록번호가 변경되지 않는 한 CI도 사실상 동일하게 유지되는 구조여서, 유출 이후에도 기존 식별정보를 계속 사용해야 한다는 문제가 제기되고 있습니다.비밀번호는 유출 시 변경할 수 있지만, CI는 이용자가 직접 변경하거나 폐기할 수 있는 제도적 수단이 제한적이라는 것입니다.",
+      "author": "gate@sbs.co.kr (배준우)",
+      "summary": "국민의힘 최형두 의원은 반복되는 연계정보(CI) 유출에 대비해 CI에 유효기간을 도입하고 유출된 CI를 갱신할 수 있는 제도 마련을 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "998b2484f12c",
+      "category": "politics",
+      "source": "연합뉴스 사회",
+      "region": "kr",
+      "title": "투자 실패 질책에…잠자던 아버지 둔기로 살해한 40대 딸",
+      "link": "https://www.yna.co.kr/view/AKR20261011053700063",
+      "publishedAt": "2026-10-11T13:30:12.000Z",
+      "description": "(천안=연합뉴스) 변선진 기자 = 아버지에게 받은 돈으로 투자했다가 손실을 본 뒤 질책을 들을 것이 두려워 아버지를 살해한 40대 딸이 경찰에 ...",
+      "author": "변선진",
+      "summary": "아버지에게 받은 돈으로 투자했다가 손실을 본 40대 딸이 질책이 두려워 잠을 자던 아버지를 둔기로 내려쳐 살해했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b8970df2289f",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "\"이 대통령, 골프장서 대구 사고 보고받아\"…청, 주진우 \"황제 골프\" 공세에 '선공개'",
+      "link": "https://www.khan.co.kr/article/202610112224005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-10-11T13:24:00.000Z",
+      "description": "청 “비공개 일정 정치 공방 유감”여 “트럼프 외교 준비 일환” 엄호청와대가 11일 이재명 대통령이 전날 골프장에서 대구 상가 천장 붕괴 사고와 관련한 보고를 받았다고 밝혔다. 주진우 국민의힘 의원이 이 대통령이 사고 당시 골프를 치고 있었다는 내용의 기자회견을 하겠다고 예고하자, 청와대가 선제 대응에 나선 것이다. 여당은 도널드 트럼프 미국 대통령과의 골···",
+      "author": "박순봉·김윤나영 기자",
+      "summary": "청와대는 이재명 대통령이 골프장에서 대구 상가 붕괴 사고 보고를 받았다고 발표하며 주진우 의원의 비판에 선제 대응했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "980eae17b107",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "정의당, '박원순 일화 소개' 李대통령에 \"성폭력 가해자 미화\"",
+      "link": "https://www.yna.co.kr/view/AKR20261011052900001",
+      "publishedAt": "2026-10-11T12:35:33.000Z",
+      "description": "(서울=연합뉴스) 안정훈 기자 = 정의당은 11일 SNS를 통해 고(故) 박원순 전 서울시장과의 일화를 소개한 이재명 대통령을 향해 \"명백한 2...",
+      "author": "안정훈",
+      "summary": "정의당은 이재명 대통령이 성폭력 논란이 있었던 고(故) 박원순 전 서울시장의 일화를 소개한 것을 성폭력 가해자 미화라며 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "bf48aa66e100",
+      "category": "politics",
+      "source": "노컷뉴스",
+      "region": "kr",
+      "title": "금융보안원, AI 에이전트 해킹 2주 전 공격 사례 공유했다",
+      "link": "https://www.nocutnews.co.kr/news/6589528",
+      "publishedAt": "2026-10-11T11:59:06.000Z",
+      "description": "인공지능(AI) 에이전트를 이용한 금융권 연쇄 해킹이 벌어지기 2주 전 금융보안원이 금융사들에 비슷한 공격 사례를 공유하고 대응을 당부한 것으로 나타났다. 국회 정무위원회 소속 한창민 사회민주당 의원이 금융보안원에서 받은 자료에 따르면, 금융보안원은 지난달 17일 금융사 보안 담당자를 대상으로 '금융 AI 보안 위협 대응 세미나'를 열고 같은 달 국내 금융사 A사가 받은 AI 에이전트 공격 사례를 설명했다. 신한은행이 해킹을 인지한 지난달 말보다 2주가량 앞선 시점이다. 세미나에는 160여명이 참석했다. 최근 침해사고가 난 금융사 7곳 가운데 BNK부산은행과 예가람저축은행을 뺀 KB국민은행, 하나은행, 현대캐피탈, 웰컴저축은행 등의 담당자가 자리했다. 신한은행은 신한금융지주 담당자가 참석했다. 발표 자료에 따르면 공격자는 중국 AI 모델 딥시크 기반의 AI 에이전트에 금융권의 오라클 웹로직 서버를 찾으라고 지시했다. 오라클 웹로직은 홈페이지와 앱을 구동하는 서버 프로그램이다. AI 에이전트는 다음 날 바로 서버의 원격 명령 실행 취약점을 이용해 웹쉘을 설치했다. 웹쉘은 공격자가 서버를 원격으로 조종할 수 있게 하는 악성 프로그램이다. 공격자는 확보한 서버를 ",
+      "author": null,
+      "summary": "금융보안원이 최근 금융권 AI 에이전트 해킹 발생 2주 전에 금융사 보안 담당자들을 대상으로 유사한 공격 사례를 공유했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0fc09de3b928",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "李대통령 \"'좌아하게' 주장하고 설득하는 게 진짜 이기는 길\"",
+      "link": "https://www.yna.co.kr/view/AKR20261011051700001",
+      "publishedAt": "2026-10-11T11:46:00.000Z",
+      "description": "(서울=연합뉴스) 고동욱 기자 = 이재명 대통령은 11일 \"민주주의 공론의 장에서 이성적이며 사실에 기반한 합리적 토론이 사라지면 위험하다\"고 ...",
+      "author": "고동욱",
+      "summary": "이재명 대통령은 민주주의 공론의 장에서 이성적이고 사실에 기반한 합리적 토론이 중요하다는 입장을 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "eda092a30ae7",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "동맹 기준으로 '방첩' 지목한 美…국정원 활동에 불신 커졌나",
+      "link": "https://www.donga.com/news/Politics/article/all/20261011/134821414/1",
+      "publishedAt": "2026-10-11T11:03:00.000Z",
+      "description": "도널드 트럼프 미국 행정부가 한미 정보협력 논란과 관련해 핵 시설 등 정보 공유뿐만 아니라 ‘방첩’(counter intelligence) 분야를 지목해 ‘동맹의 기준을 준수하기를 기대한다’고 언급한 배경에 이목이 쏠리고 있다. 미국이 ‘구성 핵시설 발언’ 등 미국 기밀 정보에 대한 보안 문제뿐 아니라 국가정보원의 방첩 활동에 불만을 공개적으로 내비친 것 아니냐는 지적이 나온다. 정부는 ‘한미 간 신뢰가 굳건하다’며 수습에 나섰지만 국민의힘은 정동영 통일부 장관과 이종석 국정원장의 해임을 요구했다.최근 미국 백악관 당국자는 ‘한미 간 상호 신뢰와 정보 공유’에 대한 질문에 ‘정보 공유’와 함께 ‘방첩’ 분야를 콕 집어 “한국이 수십 년간 이어져 온 동맹의 기준을 준수하기를 기대한다”고 답했다. 방첩은 외국 정보기관의 첩보 활동과 정보 유출 시도를 파악하고 이를 차단하는 활동이다.정보 공유는 정 장관이 공식적으로 확인된 적 없는 북한 평안북도 구성의 우라늄 농축시설을 언급한 후",
+      "author": null,
+      "summary": "미국 백악관이 한미 정보협력과 관련해 국가정보원의 방첩 활동을 문제 삼으면서 한미 동맹 신뢰에 대한 우려가 제기되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3ad13ad987fc",
+      "category": "politics",
+      "source": "서울신문",
+      "region": "kr",
+      "title": "[단독] 비만치료제·임신중지약 버젓이…온라인 불법 약 광고·판매 5년간 8만건",
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20261011500073",
+      "publishedAt": "2026-10-11T09:57:38.000Z",
+      "description": "온라인에서 의약품을 불법으로 광고하거나 판매하다 적발된 게시물이 최근 5년간 8만건을 넘어선 것으로 나타났다. 일반쇼핑몰에서 임신중절의약품을 불법 광고·판매하다 적발돼 올해 경찰에 수사의뢰된 사례도 확인됐다. 국민 건강을 위협하는 불법 약 거래를 막기 위해 판매자의 반복 위반 차단을 강화해야 한다는 지적이 나온다. 11일 국회 보건복지위원회 소속 박지원 더불어민주당 의원(전북 군산·김제·부안을)이 식품의약품안전처로부터 제출받은 자료에 따르면, 2022년부터 올해 8월까지 온라인상에서 적발된 의약품 불법 광고·판매 게시물은 총 8만 3557건으로 집계됐다. 연도별로는 2022년 2만 2662건에서 2023년 1만 9221건, 2024년 1만 6051건, 지난해 1만 2254건으로 감소했지만, 올해는 8월까지 1만 3369건이 적발돼 지난해 전체 건수보다 1115건 많았다. 최근 5년간 적발된 의약품 종류별로는 기타의 비뇨생식기관 및 항문용약 관련 게시물 1만 7249건, 해열·진통·소염제 7528건, 국소마취제 3809건, 각성제·흥분제 3570건, 임신중절유도제 3018건, 비만치료제 2183건, 단백동화 스테로이드제 866건 등이 포함됐다. 특히 비만치료제",
+      "author": "한지은 기자",
+      "summary": "지난 5년간 온라인에서 불법으로 광고되거나 판매된 의약품 게시물이 8만 3천건을 넘어섰으며, 올해는 지난해보다 증가하는 추세를 보였다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9a049aa2f234",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "파푸아뉴기니 부건빌 아라와 남쪽 바다서 규모 6.2 지진 발생",
+      "link": "https://www.yna.co.kr/view/AKR20261011055100530",
+      "publishedAt": "2026-10-11T14:57:34.000Z",
+      "description": "(서울=연합뉴스) 11일 오후 11시 7분 23초(한국시간) 파푸아뉴기니 부건빌 아라와 남쪽 88km 해역에서 규모 6.2의 지진이 발생했다고 ...",
+      "author": "기상뉴스",
+      "summary": "(서울=연합뉴스) 11일 오후 11시 7분 23초(한국시간) 파푸아뉴기니 부건빌 아라와 남쪽 88km 해역에서 규모 6.2의 지진이 발생했다고 ...",
+      "summarySource": "rss"
+    },
+    {
+      "id": "c42d5fdf630c",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "ICE agent strikes man with vehicle during pursuit in Texas, officials say",
+      "link": "https://www.theguardian.com/us-news/2026/oct/11/ice-agent-strikes-man-with-car-texas",
+      "publishedAt": "2026-10-11T14:54:52.000Z",
+      "description": "Parra-Hernandez suffered a broken leg and taken to a hospital after being hit by car during an ICE operation An Immigration and Customs Enforcement (ICE) agent driving a vehicle struck a man on Saturday while trying to pursue him and someone else in the Houston area, according to authorities. The federal agency had been trying to pull over and arrest Jose Mendoza-Cervantes in north-west Harris county, Texas, when he and the victim, Miguel Parra-Hernandez, exited the vehicle, officials said. Continue reading...",
+      "author": "Eric Berger",
+      "summary": "Parra-Hernandez suffered a broken leg and taken to a hospital after being hit by car during an ICE operation An Immigration and Customs Enforcement (ICE) agent driving a vehicle st…",
+      "summarySource": "rss"
+    },
+    {
+      "id": "7bff1be5553e",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "Trump claims Russia and Ukraine agreed to 'energy ceasefire'",
+      "link": "https://www.dw.com/en/trump-claims-russia-and-ukraine-agreed-to-energy-ceasefire/a-79634509?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-10-11T14:47:00.000Z",
+      "description": "US President Donald Trump says both sides have agreed to stop targeting oil refineries, power plants and other energy infrastructure immediately.",
+      "author": null,
+      "summary": "US President Donald Trump says both sides have agreed to stop targeting oil refineries, power plants and other energy infrastructure immediately.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "5ddaff2cb46f",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "\"예멘 사나·사우디 리야드 공항 피격\"…사우디-후티 '난타전'",
+      "link": "https://www.yna.co.kr/view/AKR20261011054900079",
+      "publishedAt": "2026-10-11T14:45:01.000Z",
+      "description": "(카이로=연합뉴스) 김상훈 특파원 = 사우디아라비아와 예멘 친이란 반군 후티 간의 무력 공방이 꼬리를 무는 '피의 보복전'으로 치닫고 있다.",
+      "author": "김상훈",
+      "summary": "(카이로=연합뉴스) 김상훈 특파원 = 사우디아라비아와 예멘 친이란 반군 후티 간의 무력 공방이 꼬리를 무는 '피의 보복전'으로 치닫고 있다.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "ccd12656e3fb",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+      "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-11T14:38:10.000Z",
+      "description": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
+      "author": null,
+      "summary": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "cdf2d24c9bdf",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "The Australian’s Shadow of Doubt podcast delayed ‘sadistic’ paedophile’s trial, court documents reveal",
+      "link": "https://www.theguardian.com/media/2026/oct/12/shadow-of-doubt-podcast-the-australian-victoria-schoolgirls-trial-delay-ntwnfb",
+      "publishedAt": "2026-10-11T14:00:29.000Z",
+      "description": "Exclusive: As William ‘Rob’ Gilfillan was about to go on trial for sex offences against two schoolgirls, his barrister told a judge his client’s history was easily discoverable online Follow our Australia politics live blog for latest updates Sign up for Guardian Australia’s free weekly media newsletter here The Australian’s podcast Shadow of Doubt led to a delay of 10 months for the sex offence trial of a “sadistic” paedophile already serving a 48-year jail term for abusing his daughter, court documents have revealed. William “Rob” Gilfillan, a former physical education teacher, was to stand ",
+      "author": "Amanda Meade Media correspondent",
+      "summary": "Exclusive: As William ‘Rob’ Gilfillan was about to go on trial for sex offences against two schoolgirls, his barrister told a judge his client’s history was easily discoverable onl…",
+      "summarySource": "rss"
+    },
+    {
+      "id": "f1fe97a21043",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "Pope Leo XIV to undergo surgery to remove lump on lung",
+      "link": "https://www.dw.com/en/pope-leo-xiv-to-undergo-surgery-to-remove-lump-on-lung/a-79633735?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-10-11T11:49:00.000Z",
+      "description": "The pontiff said he would be operated on \"in the coming days\" to remove a lung nodule, which he said was found at \"a very early stage.\"",
+      "author": null,
+      "summary": "The pontiff said he would be operated on \"in the coming days\" to remove a lung nodule, which he said was found at \"a very early stage.\"",
+      "summarySource": "rss"
+    },
+    {
+      "id": "efaeafd5ae17",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "She was a global star: Teen bikes 700 miles carrying injured dad. Where is she now?",
+      "link": "https://www.npr.org/2026/10/11/g-s1-147267/bicycle-teenager-india-pandemic",
+      "publishedAt": "2026-10-11T11:28:15.000Z",
+      "description": "Her epic ride — carrying her injured dad on her $20 hot pink bicycle — made headlines. Promises were made — financial help, training for a cycling career, even a movie deal. Were any of them kept?",
+      "author": "Kamala Thiagarajan",
+      "summary": "Her epic ride — carrying her injured dad on her $20 hot pink bicycle — made headlines. Promises were made — financial help, training for a cycling career, even a movie deal.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "2901c014395a",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
+      "link": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-11T11:11:42.000Z",
+      "description": "Hundreds of people who came out on the streets despite the police's restrictions were detained on Sunday.",
+      "author": null,
+      "summary": "Hundreds of people who came out on the streets despite the police's restrictions were detained on Sunday.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "5585e00c3dff",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "Passenger terminal at Riyadh airport is struck again, a day after 12 were killed",
+      "link": "https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
+      "publishedAt": "2026-10-10T23:44:15.000Z",
+      "description": "A projectile struck a passenger terminal at the international airport in Riyadh on Sunday, a day after a missile hit the same terminal and killed 12 people, officials said.",
+      "author": "The Associated Press",
+      "summary": "A projectile struck a passenger terminal at the international airport in Riyadh on Sunday, a day after a missile hit the same terminal and killed 12 people, officials said.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "b0d306015031",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]선거 위해선 어떤 거래도… 그런 트럼프와 같이 가야 하는 韓",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261011/134822387/2",
+      "publishedAt": "2026-10-11T14:30:00.000Z",
+      "description": "도널드 트럼프 대통령이 11·3 중간선거를 앞두고 경유 가격 폭등으로 민심이 악화하자 러시아산 경유 수입을 전격 결정했다. 미국이 2022년 2월 러시아의 우크라이나 침략 직후 단행한 대러 제재의 일부를 해제한 것이다. 트럼프 대통령은 9일 SNS에 “방금 블라디미르 푸틴 대통령과 매우 성공적인 논의를 마쳤다”며 경유 수입 재개 소식을 알렸다. 우크라이나는 “푸틴에게 주는 선물”이라며 반발했고, 미국 정치권도 “악마와의 거래”라고 비판했다. 이번 미-러 ‘경유 딜’은 자국에, 나아가 자신에게 이익이 된다면 그 누구와 어떤 거래도 마다하지 않는 트럼프식 극단적 편의주의를 다시 한번 보여준다. 한 달도 남지 않은 중간선거에서 집권 공화당이 상·하원 모두에서 다수당 지위를 잃을 가능성이 높다는 전망이 우세한 가운데 ‘정치적 동물’ 트럼프 대통령은 순전히 정략적 손익계산서에 따라 움직였다. 격전지 농업지역의 유가 부담을 낮춰 그곳 선거에서 승리하기 위해 침략 국가에 석유 대금을 치르며 사",
+      "author": null,
+      "summary": "트럼프가 중간선거 승리를 위해 순전히 정략적 이익계산에 따라 러시아산 경유 수입을 재개했다며, 자국 이익 우선의 극단적 편의주의를 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5f772d00dbf2",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]로비 양성화 추진… 이익집단의 입법 오염 방지가 관건",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261011/134822391/2",
+      "publishedAt": "2026-10-11T14:27:00.000Z",
+      "description": "정부가 그동안 음성적으로 이뤄지던 대관 및 입법 로비를 제도권 안으로 끌어들이는 ‘로비스트 양성화’ 방안 검토에 착수했다. 법무부가 발주해 최근 제출받은 연구용역 보고서에는 일정 요건을 갖춘 로비스트의 등록과 활동 내역 공개를 의무화하는 제언이 담겼다. 지난해 12월 이재명 대통령이 국무회의에서 공직자를 상대로 한 로비스트 관련 통제 방안을 살펴보라고 지시한 데 따른 후속 조치 격이다. 현재 한국에서 대가를 받는 로비 활동은 변호사법 및 특정범죄가중처벌 등에 관한 법률 등에 의해 엄격히 금지·처벌된다. 그렇다고 로비가 존재하지 않는다고 생각하는 사람은 없다. 합법적인 틀이 없다 보니 로비 활동이 음성화되면서 각종 부작용과 편법을 낳고 있다. 기업과 노조, 직능단체, 시민단체 등 각종 이익집단이 정부와 국회를 상대로 물밑 작업을 벌이고 있다. 일부 로펌들은 고위 공직자와 정치권 인사를 대거 영입해 법안 수정 등 ‘입법 컨설팅’을 명목으로 사실상 ‘로비펌’으로 활동하고 있다. 누가,",
+      "author": null,
+      "summary": "음성화된 로비 활동의 각종 부작용을 줄이기 위해 로비스트 등록과 활동 내역 공개를 의무화하는 양성화 방안이 필요하다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b790f3ef9bc8",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "과잉진단 논쟁에 도움이 되는 개입, 하지만 자금 부족이 문제다",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/11/overdiagnosis-money-fonagy-review-mental-health-support-public-funding",
+      "publishedAt": "2026-10-11T14:10:35.000Z",
+      "description": "There is much to agree with in the Fonagy review into mental health support. Without serious public funding, however, its approach won’t work Back in late 2025, when Keir Starmer’s grip on the Labour party was loosening and Reform UK was still in its pomp, the then health secretary, Wes Streeting, commissioned what the government called its “Independent review into prevalence and support for mental health conditions, ADHD and autism”. Here, it seemed, was not just an inquiry into England’s ever-extending waiting lists for the diagnosis of mental illness and neurodevelopmental conditions, and t",
+      "author": "John Harris",
+      "summary": "정신건강 지원의 Fonagy 리뷰가 유의미하지만 충분한 공공자금이 없으면 실제 효과를 거둘 수 없다고 우려했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2ad4f18dd7db",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "가장 성공한 사람들이 종종 가장 많이 힘들어한다",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/12/why-successful-people-struggle-ambition-trauma",
+      "publishedAt": "2026-10-11T14:00:28.000Z",
+      "description": "Sometimes the behaviours that helped us survive become so embedded that they mask our past traumas and adversity The modern mind is a column where experts discuss mental health issues they are seeing in their work Some of the most successful people I meet as a psychiatrist are also some of the most dissatisfied with life. They don’t necessarily look unwell. They are executives, entrepreneurs, doctors, lawyers and high achievers. They run companies and families. They are the people others depend on when something goes wrong. Often, they are exceptionally good at coping. Until they aren’t. Holly",
+      "author": "Darren Lee",
+      "summary": "성공적인 사람들이 과거 트라우마 극복을 위한 행동 패턴이 내재화되어 실제 고통을 감춘다고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "4d1ef8f09c6d",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "한 헝가리 마을을 하나로 묶은 수탉",
+      "link": "https://www.nytimes.com/2026/10/11/opinion/hungary-sanyi-rooster-bekescsaba-mayor.html",
+      "publishedAt": "2026-10-11T13:09:48.000Z",
+      "description": "A Hungarian town, an escaped rooster and the universal longing for freedom.",
+      "author": "Lotte Salomons",
+      "summary": "도망친 수탉 산이 사건을 통해 한 마을 공동체의 연대와 인간의 보편적 자유 욕구를 표현했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "16c2747790ea",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "신경과학으로 더 쉬워지는 정리정돈",
+      "link": "https://www.nytimes.com/2026/10/11/opinion/clutter-spring-cleaning-psychology.html",
+      "publishedAt": "2026-10-11T13:08:50.000Z",
+      "description": "Decluttering is a challenge for many Americans, but neuroscience indicates we can make the process easier on ourselves and our loved ones.",
+      "author": "Emily Falk",
+      "summary": "신경과학의 통찰을 활용하면 자신과 사랑하는 사람들의 정리정돈 과정을 더 쉽게 만들 수 있다고 제시했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f4272ec1324e",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[알림]'2026 경향 미래금융 콘퍼런스'…내달 11일 개최",
+      "link": "https://www.khan.co.kr/article/202610112142025/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-10-11T12:42:02.000Z",
+      "description": "소외 계층을 품는 따뜻한 금융경향신문이 창간 80년을 맞아 ‘2026 경향 미래금융 콘퍼런스’를 개최합니다. 주제는 ‘포용금융, 모두의 내일을 품다’입니다.금융은 경제의 혈맥으로 불립니다. 필요한 곳에 자금을 공급하고 성장을 뒷받침하지만 여전히 많은 사람이 금융 이력이 부족하거나 소득과 담보가 충분하지 않다는 이유로 제도권 금융의 문턱을 넘지 못하고 있습니···",
+      "author": null,
+      "summary": "경향신문이 창간 80년을 기념하며 '포용금융, 모두의 내일을 품다'를 주제로 미래금융 콘퍼런스를 11월 11일 개최한다고 알렸다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a4a58e40d3c7",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "내 개가 나를 싫어하는 것처럼 보였다. 이렇게 해결했다",
+      "link": "https://www.washingtonpost.com/opinions/2026/10/12/ocd-therapy-fixed-my-relationship-with-my-dog/",
+      "publishedAt": "2026-10-11T12:17:20.000Z",
+      "description": "Pretzel showed me I needed help.",
+      "author": "Eva Jaber",
+      "summary": "개의 행동 문제를 도움을 받아 극복한 경험을 통해 반려동물과의 관계 회복 방법을 제시했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9510b2b2fefc",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "이 망원경은 귀중한 발견들을 이루고 있다. 가장 큰 발견은 예상 밖이었다",
+      "link": "https://www.washingtonpost.com/opinions/2026/10/12/little-red-dots-space-illuminate-where-our-universe-came/",
+      "publishedAt": "2026-10-11T12:16:58.000Z",
+      "description": "Scientists don't know what they’ll find until they find it.",
+      "author": "Fabio Pacucci",
+      "summary": "망원경의 최고 발견이 예상 밖이었음을 강조하며 과학자들은 발견될 때까지 무엇을 찾을지 모른다고 설명했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7d0bbb803673",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[세계의 시, 시의 세계]신의 일",
+      "link": "https://www.khan.co.kr/article/202610111956025/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-10-11T10:56:02.000Z",
+      "description": "부엌에 드는 달빛은 신의 표식이다.당신 자신의 배꼽으로부터 당신을 뽑아내는검은 흡입관 같은 슬픔, 또 불교도들이‘무심(無心)’이라고 부르는 것은 신의 표식이다.인간의 대화와 나란히 이어지는,채찍질 같은 막다른 골목들은 신의 표식이다.신 스스로의 평온함은 신의 표식이다.감자나 돈의 놀랍도록 차가운 냄새.침묵의 견고한 조각들.이 다양한 표식들로부터 당신은할 일···",
+      "author": "나희덕 시인·서울과학기술대 교수",
+      "summary": "부엌의 달빛, 슬픔, 침묵 같은 일상의 다양한 순간들을 신의 표식으로 시적으로 표현했다.",
+      "summarySource": "llm"
+    }
+  ],
+  "summarizedAt": "2026-10-12T01:08:42.278Z",
+  "summaryStats": {
+    "llm": 40,
+    "fallback": 10,
+    "model": "claude-haiku-4-5"
+  }
+}
