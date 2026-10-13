@@ -1,0 +1,898 @@
+{
+  "date": "2026-10-12",
+  "generatedAt": "2026-10-13T02:51:29.986Z",
+  "categories": [
+    {
+      "id": "it",
+      "label": "IT·과학·AI"
+    },
+    {
+      "id": "economy",
+      "label": "경제·금융"
+    },
+    {
+      "id": "politics",
+      "label": "정치·사회"
+    },
+    {
+      "id": "world",
+      "label": "세계·국제"
+    },
+    {
+      "id": "editorial",
+      "label": "사설·칼럼",
+      "opinion": true,
+      "summaryMaxChars": 220
+    }
+  ],
+  "feedStatus": [
+    {
+      "source": "Ars Technica",
+      "category": "it",
+      "ok": true,
+      "matched": 4
+    },
+    {
+      "source": "Hacker News",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "TechCrunch",
+      "category": "it",
+      "ok": true,
+      "matched": 12
+    },
+    {
+      "source": "The Verge",
+      "category": "it",
+      "ok": true,
+      "matched": 5
+    },
+    {
+      "source": "블로터",
+      "category": "it",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "전자신문",
+      "category": "it",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "ZDNet Korea",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC Business",
+      "category": "economy",
+      "ok": true,
+      "matched": 11
+    },
+    {
+      "source": "The Guardian",
+      "category": "economy",
+      "ok": true,
+      "matched": 11
+    },
+    {
+      "source": "매일경제 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 39
+    },
+    {
+      "source": "연합뉴스",
+      "category": "economy",
+      "ok": true,
+      "matched": 1
+    },
+    {
+      "source": "경향신문 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 32
+    },
+    {
+      "source": "경향신문 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 41
+    },
+    {
+      "source": "노컷뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "서울신문",
+      "category": "politics",
+      "ok": true,
+      "matched": 4
+    },
+    {
+      "source": "연합뉴스 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "연합뉴스 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 47
+    },
+    {
+      "source": "SBS 뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "Al Jazeera",
+      "category": "world",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC World",
+      "category": "world",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "NPR",
+      "category": "world",
+      "ok": true,
+      "matched": 5
+    },
+    {
+      "source": "The Guardian",
+      "category": "world",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "연합뉴스 국제",
+      "category": "world",
+      "ok": true,
+      "matched": 5
+    },
+    {
+      "source": "매일경제 증권",
+      "category": "economy",
+      "ok": true,
+      "matched": 26
+    },
+    {
+      "source": "경향신문 오피니언",
+      "category": "editorial",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "NYT Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "The Guardian Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 10
+    },
+    {
+      "source": "Washington Post Opinions",
+      "category": "editorial",
+      "ok": true,
+      "matched": 5
+    },
+    {
+      "source": "동아일보 사설",
+      "category": "editorial",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "동아일보 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 24
+    },
+    {
+      "source": "조선일보",
+      "category": "politics",
+      "ok": true,
+      "matched": 34
+    },
+    {
+      "source": "동아일보 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "머니투데이",
+      "category": "economy",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "Wired",
+      "category": "it",
+      "ok": true,
+      "matched": 10
+    },
+    {
+      "source": "DW News",
+      "category": "world",
+      "ok": true,
+      "matched": 15
+    }
+  ],
+  "items": [
+    {
+      "id": "cc3b6fbc2c24",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "삼성SDS, 물류사업 수익성 개선 승부수로 '우정항공' 택한 이유",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=675437",
+      "publishedAt": "2026-10-12T14:45:20.000Z",
+      "description": "삼성SDS가 우정항공을 인수하는 이유는 항공운송 비용에 대한 통제력을 높여 물류사업의 수익성을 개선하기 위해서다. 삼성SDS의 물류사업은 전체 매출의 절반 이상을 차지하지만 영업이익률은 1%대에 머물고 있다.삼성SDS는 우정항공의 항공사 적재공간 운영 계약과 인천공항 물류 인프라를 확보해 한국발 화물과 아시아발 환적 화물을 통합 운영할 계획이다. 항공기 적재공간 활용도를 높이고 화물 처리 시간과 비용을 줄여 수익성을 개선하려는 전략이다.삼성SDS는 12일 우정항공 지분 100%를 인수하는 주식양수도계약을 체결했다. 삼성SDS는 연내",
+      "author": "강준혁 기자",
+      "summary": "삼성SDS가 물류사업 수익성 개선을 위해 우정항공을 인수하며, 항공기 적재공간 활용도를 높여 화물 처리 시간과 비용을 줄이는 전략을 추진 중이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c5e0195fa84e",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "F1 싱가포르: 새로운 최속 자동차 등장",
+      "link": "https://arstechnica.com/cars/2026/10/f1-in-singapore-theres-a-new-fastest-car-now/",
+      "publishedAt": "2026-10-12T14:43:14.000Z",
+      "description": "Also, F1’s final sprint saw our first real wet racing of the year.",
+      "author": "Jonathan M. Gitlin",
+      "summary": "F1 싱가포르 그랑프리에서 새로운 최속 자동차가 나타났으며 올시즌 첫 습지 레이싱이 펼쳐졌다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a1a3a1ce123f",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "[이사회 권력지도] 문턱 높인 한진칼, 2대주주 호반 '빈 자리'",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=675460",
+      "publishedAt": "2026-10-12T14:35:46.000Z",
+      "description": "개정 상법으로 이사회 재편 요구가 커진 가운데 기업들의 대응을 살펴봅니다. 한진칼 이사회에는 지분 20%를 쥔 2대주주 호반그룹 측 인사가 1명도 없다. 한진칼은 개정 상법에 맞춰 집중투표제 배제 조항을 없애면서도 이사 수 상한을 줄여 결과적으로 2대주주의 진입 문턱을 높였다는 평가다. 다만 한국산업은행이 추천한 독립이사 3명의 임기가 내년 한꺼번에 끝나 이사회 구성이 달라질 여지는 남았다.12일 금융감독원 전자공시시스템에 따르면 호반건설을 비롯한 호반 계열사는 올해 7월 장내 매수를 거쳐 한진칼 지분 20.2%를 보유했다. 최대주",
+      "author": "윤상은 기자",
+      "summary": "한진칼이 개정 상법에 맞춰 집중투표제를 배제하면서도 이사 수 상한을 줄여 2대주주 호반그룹의 이사회 진입 문턱을 높였다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7a20cda74467",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "스마트링 제조업체 Ultrahuman, 아부다비에서 생물학적 나이 모델 출시",
+      "link": "https://techcrunch.com/2026/10/12/smart-ring-maker-ultrahuman-to-roll-out-biological-age-model-across-uae/",
+      "publishedAt": "2026-10-12T14:09:34.000Z",
+      "description": "Ultrahuman and Abu Dhabi will spend the next two years working on research and clinical validation of the model.",
+      "author": "Jagmeet Singh",
+      "summary": "스마트링 제조사 Ultrahuman이 아부다비와 협력하여 생물학적 나이를 측정하는 모델의 연구 및 임상 검증을 2년에 걸쳐 진행한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "63f275e3da36",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "태양 차광 시뮬레이션: 예상보다 더 악화된 결과",
+      "link": "https://www.wired.com/story/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/",
+      "publishedAt": "2026-10-12T14:00:00.000Z",
+      "description": "Solar geoengineering could buy humanity time against climate change—or trigger a dangerous new arms race. A first-of-its-kind simulation offered a glimpse of what happens when geopolitics takes the wheel.",
+      "author": "Karl Mathiesen",
+      "summary": "태양 지구공학 시뮬레이션 결과 기후변화 대응에는 도움이 될 수 있지만 지정학적 긴장이 위험한 신무기 경쟁을 촉발할 가능성이 드러났다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "694ed531ec35",
+      "category": "it",
+      "source": "The Verge",
+      "region": "intl",
+      "title": "안드로이드가 만드는 Googlebooks의 명암",
+      "link": "https://www.theverge.com/tech/1008750/googlebooks-android-best-worst-notifications-app-cast-file-sharing",
+      "publishedAt": "2026-10-12T14:00:00.000Z",
+      "description": "I’ve been testing two Googlebooks: this Asus model, and HP’s too. My first week with the new Android-powered laptops has been about as rocky as anyone's, but I've slowly learned to like them, even if love still feels a ways off. Every moment that's impressed me has been thanks to Android, whether I've been accessing a native version of a useful app or quickly checking my phone notifications from the laptop user interface. But man, sometimes it just sucks. Phone connectivity is flaky, app casting is awkward, and file-sharing seems to be flat-out broken. And that's just the interaction between a",
+      "author": null,
+      "summary": "새로운 Android 기반 Googlebooks는 휴대폰 연동 등 우수한 기능을 제공하지만 연결 불안정성과 앱 캐스팅, 파일 공유 등에서 문제가 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "47c2a6e011d8",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "TechCrunch Disrupt 2026 내일 개시: 최대 $100 할인 티켓 구매 마지막 기회",
+      "link": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
+      "publishedAt": "2026-10-12T14:00:00.000Z",
+      "description": "Tomorrow at 8 a.m. PT, it all begins z— 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This is your last 24 hours to secure ticket savings of up to $100, and get 50% off a second.",
+      "author": "TechCrunch Events",
+      "summary": "TechCrunch Disrupt 2026이 내일 샌프란시스코에서 개막하며 1만 명 이상의 창업자, 투자자, 기술 종사자가 3일간 아이디어와 네트워킹을 펼친다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "940556345f9f",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "쓰레기 스스로 찾아 수거…12시간 일하는 '수상 로봇'",
+      "link": "https://www.etnews.com/20261012000325",
+      "publishedAt": "2026-10-12T13:30:00.000Z",
+      "description": "물 위 쓰레기를 스스로 찾아 수거하는 수상 청소 로봇이 눈길을 끌고 있습니다. 이 로봇은 중국 수자원·환경장비 업체 둥팡수리가 개발한 '허바오 DF-H3'입니다. H3는 카메라를 이용해 플라스틱병과 비닐봉지, 낙엽 등 수면 위 쓰레기를 인식하고 위치를 추적합니다. 쓰레기를 발견하면 스스로 경로를 정해 이동하고 장애물을 피하면서 자동으로 수거합니다. 한 번 충전으로 12시간 이상 운용할 수 있으며 최고속도는 시속 4km입니다. 시간당 최대 1만8",
+      "author": "이창민",
+      "summary": "중국 업체가 개발한 수상 청소 로봇 '허바오 DF-H3'는 카메라로 수면 위 플라스틱과 비닐, 낙엽 등을 인식하고 자동 수거하며 한 번 충전에 12시간 이상 운용된다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0e0c6fd18213",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "'60년 미션': 스타트렉의 유산을 새 세대에 전한다",
+      "link": "https://www.wired.com/story/new-york-comic-con-star-trek/",
+      "publishedAt": "2026-10-12T13:30:00.000Z",
+      "description": "The documentary chronicles how Star Trek’s positions on everything from race to AI were way ahead of their time.",
+      "author": "Max Evry",
+      "summary": "다큐멘터리는 스타트렉이 인종 문제부터 AI까지 시대를 앞서간 입장을 어떻게 제시했는지 기록했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c7114438117d",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "유튜브에 밀린 넷플릭스…주가 43% 빠지더니 800명 날린다",
+      "link": "https://www.etnews.com/20261012000366",
+      "publishedAt": "2026-10-12T12:50:47.000Z",
+      "description": "넷플릭스가 유튜브와의 시청시간 경쟁에서 밀리고 주가까지 하락하면서 대규모 인력 감축에 나설 것으로 알려졌다. 콘텐츠 투자 확대에도 시청시간 증가세가 둔화하자 비용 절감과 사업 효율화에 나서는 모습이다. 미국 LA타임스는 지난 9일(현지시간) 소식통을 인용해 넷플릭스가 전체 인력의 약 5%에 해당하는 800명을 감원할 계획이라고 보도했다. 영화 등 장편 콘텐츠 제작을 담당하는 크리에이티브 조직이 주요 대상에 포함될 것으로 전해졌다. 계획대로 진행",
+      "author": "이상목",
+      "summary": "넷플릭스가 유튜브와의 시청시간 경쟁에서 밀리고 주가가 43% 하락하자 전체 인력의 약 5%에 해당하는 800명 규모의 대규모 감원에 나설 것으로 알려졌다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "79604902670b",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "경제학 노벨상, 홀과 우드퍼드가 위기 완화 연구로 수상",
+      "link": "https://www.theguardian.com/world/2026/oct/12/nobel-prize-for-economics-hall-woodford-new-keynesian-models",
+      "publishedAt": "2026-10-12T14:20:53.000Z",
+      "description": "US economists developed models that help central bankers and finance ministers to stabilise their economies Business live – latest updates Two US economists have won the 2026 Nobel economics prize for their work developing models that help central bankers and finance ministers to stabilise their countries, avoiding long recessions and runaway inflation. Robert Hall of Stanford University, California, and Michael Woodford of Columbia University, New York, were recognised for developing the “microeconomic foundations of macroeconomic stabilisation”, giving policymakers better tools to smooth out",
+      "author": "Graeme Wearden",
+      "summary": "미국의 로버트 홀과 마이클 우드퍼드 경제학자가 중앙은행과 재정 정책 입안자들이 경기를 안정화할 수 있게 도와주는 거시경제 모형 개발로 2026년 노벨경제학상을 수상했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "66d760b3a9d5",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "나이절 파라주 보좌관, 공개되지 않은 여론조사 회사 역할 수행",
+      "link": "https://www.theguardian.com/politics/2026/oct/12/nigel-farage-adviser-influential-role-polling-firm-chris-bruni-lowe",
+      "publishedAt": "2026-10-12T13:42:27.000Z",
+      "description": "Exclusive: Chris Bruni-Lowe used Redfield & Wilton Strategies role to develop potential campaign tactics, sources say A close adviser to Nigel Farage had an influential role at a national polling company despite not being publicly associated with the firm, the Guardian can reveal. Chris Bruni-Lowe, Farage’s private pollster for many years, played an important role in the operations of Redfield & Wilton Strategies and used it to develop potential campaign strategies, according to several sources who have worked there. Continue reading...",
+      "author": "Henry Dyer and Rowena Mason",
+      "summary": "나이절 파라주의 측근 크리스 브루니-로우가 대중에게 알려지지 않은 레드필드 윌턴 스트래티지즈 여론조사 회사에서 중요한 역할을 해왔으며 선거 전략 개발에 활용했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "525f6c89b160",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "우드퍼드, 이코노미스트의 표본 … 홀 \"최저임금 속도조절\" 매경 인터뷰",
+      "link": "https://www.mk.co.kr/news/economy/12174035",
+      "publishedAt": "2026-10-12T13:39:01.000Z",
+      "description": "2026년 노벨경제학상을 받은 마이클 우드퍼드 미국 컬럼비아대 교수는 현대 통화정책의 기틀을 마련한 인물로 꼽힌다. 중앙은행 통화정책 분야에 막대한 영향력을 끼친 학자인 만큼 국내..",
+      "author": "매일경제",
+      "summary": "2026년 노벨경제학상 수상자인 마이클 우드퍼드 컬럼비아대 교수는 현대 통화정책의 기틀을 마련한 인물로 평가받았다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f74198e0dd6f",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "경제 움직이는건 가계·기업 … 노벨상 두 석학의 통찰",
+      "link": "https://www.mk.co.kr/news/economy/12174036",
+      "publishedAt": "2026-10-12T13:39:01.000Z",
+      "description": "올해 노벨경제학상은 중앙은행의 금리정책과 경기 안정화 정책의 이론적 기틀을 마련한 '거시경제학자 듀오'에게 돌아갔다. 스웨덴 왕립과학원은 12일(현지시간) 거시경제 안정화 정책의 ..",
+      "author": "매일경제",
+      "summary": "올해 노벨경제학상은 중앙은행의 금리정책과 경기 안정화 정책의 이론적 기틀을 마련한 거시경제학자 2명에게 수여되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "88555c8ef19f",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "\"대한민국 착취의 주역은 재벌\" … 생각 변함없다는 공정위원장",
+      "link": "https://www.mk.co.kr/news/economy/12174033",
+      "publishedAt": "2026-10-12T13:38:50.000Z",
+      "description": "주병기 공정거래위원장(사진)이 12일 열린 국회 정무위원회 국정감사에서 재벌을 바라보는 주 위원장의 인식과 정치 편향 논란 등을 두고 야당과 공방을 벌였다. 특히 재벌이 대한민국을..",
+      "author": "매일경제",
+      "summary": "주병기 공정거래위원장이 국회 정무위원회 국정감사에서 재벌을 대한민국의 착취 주역으로 보는 자신의 입장에 변함이 없다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "4835cffdc021",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "미래 '기대'에 경기안정 해법 찾은 노벨경제학상 수상자들",
+      "link": "https://www.yna.co.kr/view/AKR20261012175100002",
+      "publishedAt": "2026-10-12T12:33:46.000Z",
+      "description": "(세종·서울=연합뉴스) 정책·은행·디지털자산팀 = 올해 노벨경제학상을 함께 거머쥔 미국 로버트 홀(83) 스탠퍼드대 교수·마이클 우드퍼드(71)...",
+      "author": "이대희",
+      "summary": "올해 노벨경제학상 수상자인 로버트 홀 스탠퍼드대 교수와 마이클 우드퍼드 컬럼비아대 교수는 경제 주체들의 미래 기대를 통해 경기 안정화의 해법을 제시했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f061e425a1a2",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "HMV, 옥스퍼드 스트리트 지점 3년 만에 폐점",
+      "link": "https://www.bbc.co.uk/news/articles/cjzxl7ee4e9xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-12T10:36:39.000Z",
+      "description": "HMV says it is looking for a new site in London's West End, but its current site is \"unviable\".",
+      "author": null,
+      "summary": "HMV는 런던 웨스트엔드의 옥스퍼드 스트리트 지점이 채산성이 낮다며 폐점하고 새로운 위치를 찾고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5b41692defda",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "\"주식 도대체 왜 떨어지는데요\"…삼성전자 100조 실적도 못살리네",
+      "link": "https://www.mk.co.kr/news/stock/12173990",
+      "publishedAt": "2026-10-12T10:05:38.000Z",
+      "description": "코스피 3.6% 빠지며 6400 붕괴 12개월선행PER 5.11배까지 하락 지난해 10월 11.30배서 ‘반토막’ 외인엑소더스 이달 9조가량 순매도국내 상장사 실적이 급증하고 있지..",
+      "author": "매일경제",
+      "summary": "삼성전자의 100조 원대 실적에도 불구하고 코스피가 6400을 붕괴하며 급락했고 외국인의 대규모 매도로 주가 지수가 크게 하락했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ec03628ad109",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "고금리 버틴 금융·헬스케어 실적 줄줄이…14일 美CPI가 증시 향배 좌우 [동여의도 위클리]",
+      "link": "https://www.mk.co.kr/news/stock/12173980",
+      "publishedAt": "2026-10-12T09:25:44.000Z",
+      "description": "이번 주 자본시장 이슈 점검지난주 8일 미국 증시에서는 오픈AI 매출 보도가 AI 관련주 투자심리를 흔들었습니다. 인공지능(AI) 기업의 매출을 둘러싼 논란과 추가 금리 인상 가능..",
+      "author": "매일경제",
+      "summary": "고금리 환경에서 금융과 헬스케어 분야 기업들의 실적이 악화되고 있으며 14일 미국 CPI 발표가 증시의 향방을 좌우할 것으로 예상된다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7c9945818fe1",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "신용카드 연체 시 피해를 피하는 방법",
+      "link": "https://www.bbc.co.uk/news/articles/c84g1xz1l9ddo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-12T09:11:46.000Z",
+      "description": "People are increasingly falling behind on credit card repayments, so here's the best way to get debt advice.",
+      "author": null,
+      "summary": "신용카드 상환을 연체하는 사람들이 증가하고 있는 가운데 채무 상담을 받기 위한 최적의 방법을 제시하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5bd1052fd7ce",
+      "category": "politics",
+      "source": "조선일보",
+      "region": "kr",
+      "title": "북한에 말 한마디도 못하는 정부를 비웃는 청년들",
+      "link": "https://www.chosun.com/jp/opinion-jp/2026/10/12/WKLEGLMOBFBJJOROOYEK3YFWXA/",
+      "publishedAt": "2026-10-12T14:50:00.000Z",
+      "description": "",
+      "author": "イ・ドンス 世代政治研究所 代表",
+      "summary": "정부가 북한 문제에 대해 명확한 입장을 표현하지 못하는 것을 청년층이 비판적으로 평가하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1fe11090cbed",
+      "category": "politics",
+      "source": "조선일보",
+      "region": "kr",
+      "title": "北에 '찍소리'도 못하는 정부 비웃는 청년들",
+      "link": "https://www.chosun.com/opinion/espresso/2026/10/12/EMPQ3UG3IJC6VMF6FBRGY4KJSE/",
+      "publishedAt": "2026-10-12T14:50:00.000Z",
+      "description": "",
+      "author": "이동수 세대정치연구소 대표",
+      "summary": "정부의 북한 정책에 대한 입장 표현 부재를 청년층이 비판적으로 평가하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "996cb41b7618",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "\"왜 안 자\" 생후 2개월 딸 때려 숨지게 한 40대 구속영장 신청···사인 '두부 손상' 추정",
+      "link": "https://www.khan.co.kr/article/202610122300001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-10-12T14:00:00.000Z",
+      "description": "경기남부경찰청. 경기남부경찰청 제공잠을 자지 않는다는 이유로 생후 2개월 된 딸을 폭행해 숨지게 한 친부에 대해 경찰이 구속영장을 신청했다. 국립과학수사연구원(국과수)은 영아의 사인이 ‘두부 손상’으로 추정된다는 부검 소견을 냈다.경기남부경찰청 여성청소년범죄수사계는 아동학대 범죄의 처벌 등에 관한 특례법 위반(아동학대치사) 혐의로 40대 A씨에 대해 구속영···",
+      "author": "임주영 기자",
+      "summary": "생후 2개월 딸을 폭행해 숨지게 한 40대 남성에 대해 경찰이 아동학대치사 혐의로 구속영장을 신청했으며, 부검 결과 사인은 두부 손상으로 추정되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "617e33ab8ee7",
+      "category": "politics",
+      "source": "SBS 뉴스",
+      "region": "kr",
+      "title": "민주 35.5% · 국힘 41.3%…최저점 찍은 여당 지지율",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008793832",
+      "publishedAt": "2026-10-12T13:19:00.000Z",
+      "description": "정당 지지도 여론조사에서 민주당이 35.5% 국민의힘이 41.3%로 나타났습니다. 민주당 지지율은 지난주보다 7% 포인트 하락해 이번 정부 출범 이후 최저치를 기록했습니다.",
+      "author": "yd@sbs.co.kr (고정현)",
+      "summary": "여론조사에서 국민의힘 41.3%, 민주당 35.5%로 나타났으며, 민주당의 지지율은 현 정부 출범 이후 최저치를 기록했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "552ce0fccef3",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "정동영 \"퇴출시킬 건 색깔론\"",
+      "link": "https://www.khan.co.kr/article/202610122159005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-10-12T12:59:00.000Z",
+      "description": "‘한·미 동맹 위기’ 사퇴론 반박“미국 동맹 중 안보·통상 두고줄다리기하지 않는 나라 없어”북에 저자세 지적엔 “정자세”정동영 통일부 장관(사진)은 한·미 정보당국 공조를 비롯해 최근 양국 관계가 순탄치 않다는 지적에 “지금 미국과 동맹 관계에 있는 나라 중 안보·통상 관계로 줄다리기하지 않는 나라가 없다”며 “우리의 국익은 무엇이고, 자율성은 무엇인지 물···",
+      "author": "김병관 기자",
+      "summary": "정동영 통일부 장관은 한·미 동맹 위기를 거론한 사퇴론에 반박하며, 미국 동맹국들도 안보와 통상에서 협상을 벌인다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d2f3e94b71a7",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "우크라 '北포로 송환 공개' 사실상 사과 거부…\"이미 종결된 문제\"",
+      "link": "https://www.donga.com/news/Inter/article/all/20261012/134829725/1",
+      "publishedAt": "2026-10-12T12:59:00.000Z",
+      "description": "우크라이나의 안드리 시비하 외무장관이 12일(현지 시간) 북한군 포로 2명의 한국 송환 사실 공개를 둘러싼 한국과의 외교 갈등에 대해 “우크라이나는 모든 의무를 다했다”고 밝혔다. 그는 이 문제는 이미 종결된 것으로 간주한다는 입장도 재차 강조했다. 한국 정부가 공식 사과를 요구하는 가운데, 사실상 사과 거부 의사를 시사한 것으로 풀이된다.시비하 장관은 이날 우크라이나 매체 ‘RBC 우크라이나’와의 인터뷰에서 양국 간 외교 갈등의 배경에 대해 “모든 문제는 포로 송환의 여러 단계에서 기밀 유지 요건에 대한 해석 차이에서 비롯됐다”며 이같이 밝혔다. 그는 이어 양국 관계는 앞으로도 정상적으로 발전할 것이라고 확신을 표시하면서 문제가 이미 종결됐다고 거듭 밝혔다.이같은 시비하 장관의 입장은 한국 정부와 온도차를 보이고 있다. 한국 외교부는 이날 비공개하기로 한 북한군 포로의 한국 송환을 일방적으로 공개한 우크라이나 측이 ‘우리 국민이 납득할 수 있는 방식’으로 사과와 해명을 전달해",
+      "author": null,
+      "summary": "우크라이나 외무장관은 북한군 포로 송환 공개와 관련해 한국 정부의 공식 사과 요구에 사실상 사과 거부 의사를 드러냈으며, 기밀 유지 요건 해석 차이에서 비롯된 문제라고 설명했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c9b29e9549a2",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "여 \"한동훈 딸 사건 재수사를\"…경찰청장 대행 \"새 사실관계 나오면 검토\"",
+      "link": "https://www.khan.co.kr/article/202610122129025/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-10-12T12:29:02.000Z",
+      "description": "새 형사사법체계 출범 후 열린 첫 경찰청 국감 ‘정치인 수사’ 격론여는 “한 의원 딸 부실 수사”, 야는 “국힘 의원 탄압” 관련만 지적질의에 답변하는 경찰청장 직무대행 김종철 경찰청장 직무대행이 12일 서울 서대문구 경찰청에서 열린 국회 행정안전위원회의 경찰청 국정감사에서 의원 질의에 답변하고 있다. 진효진 기자 hoho@kyunghyang.com새 형사···",
+      "author": "최서은 기자",
+      "summary": "국회 경찰청 국감에서 여야가 정치인 수사를 두고 대립했으며, 경찰청장 직무대행은 한동훈 의원 딸 사건과 관련해 새 사실관계가 나오면 재수사를 검토하겠다고 답변했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "81f43ca38ce3",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "국세청 초고액 소송 40% 패소…與이광재 \"외국기업에 속수무책\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261012175700001",
+      "publishedAt": "2026-10-12T12:11:43.000Z",
+      "description": "(서울=연합뉴스) 정연솔 기자 = 국세청이 소송액 100억원 이상 초고액 세금 소송에서 10건 중 4건꼴로 패소했으며, 특히 올해 상반기에만 외...",
+      "author": "정연솔",
+      "summary": "국세청이 소송액 100억원 이상의 초고액 세금 소송에서 40% 수준의 높은 패소율을 기록했으며, 특히 외국기업 관련 사건에서 성과를 내지 못하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d1ff08af9592",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "여야, 교육위서 '수시 먹통' 유웨이·대교협에 한목소리 질타",
+      "link": "https://www.yna.co.kr/view/AKR20261012175600001",
+      "publishedAt": "2026-10-12T11:55:10.000Z",
+      "description": "(서울=연합뉴스) 이율립 기자 = 여야는 12일 국회에서 열린 교육위원회의 산하·유관기관 국정감사에서 이른바 '수시 먹통' 사태와 관련해 원서 ...",
+      "author": "이율립",
+      "summary": "여야는 국회 교육위원회 국감에서 대입 수시 시스템 마비(수시 먹통) 사태와 관련해 유웨이와 대교협을 공동으로 질타했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d6bb97c677b2",
+      "category": "politics",
+      "source": "서울신문",
+      "region": "kr",
+      "title": "[단독] 코레일, 특정 업체 내정 뒤 식음료 제휴 사업자 모집 공고 냈다",
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20261012500266",
+      "publishedAt": "2026-10-12T08:37:17.000Z",
+      "description": "한국철도공사(코레일)이 전용 모바일 애플리케이션인 ‘코레일+’에 연동되는 식음료 제휴 사업자를 공모하는 과정에서 정식 공고를 내기 한 달 전에 이미 SPC 계열사를 내정한 후 공개 모집에 나선 것으로 12일 파악됐다. 국회 국토교통위원회 소속 모경종 더불어민주당 의원실이 코레일로부터 제출받은 ‘코레일유통 스토리웨이 MaaS(Mobility as a Service) 통합 협의결과 보고’ 문건을 보면 코레일은 2024년 11월 13일 코레일유통 등과 함께 진행한 회의에서 리뉴얼 코레일 앱에 적합한 식음료 주문 서비스 플랫폼을 확대하기 위해 “1단계로 기 운영 SPC 브랜드와 유통 트리핀 주문 서비스를 우선 구현한다”고 밝혔다. 코레일이 공식적으로 식음료 분야 제휴 사업자 공모를 낸 것은 그로부터 한 달여 뒤인 12월 19일이었다. SPC 계열사인 섹타나인은 공고 닷새 만인 12월 24일 제안서를 제출했다. 이 제안서 평가는 외부 전문가 없이 코레일 내부 직원 5명에 의해 이뤄졌고, 제안서는 88.9점으로 적격 판정을 받았다. 코레일이 ‘자체 운영 시스템 및 시스템 개발 관리 조직’을 공모 조건으로 내걸면서 지원 문턱을 높인 것도 청년 창업 매장 등 소규모 사업자",
+      "author": "김서호 기자",
+      "summary": "코레일이 2024년 11월 회의에서 이미 SPC 계열사를 식음료 제휴 사업자로 내정한 후 12월에 공개 모집 공고를 내고, 높은 지원 조건을 설정해 해당 업체가 선정되도록 한 것으로 파악되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "52d2ec64ae37",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "미국이 사형수 총살형을 부활시키는 이유",
+      "link": "https://www.bbc.co.uk/news/articles/cmpwg28vrexzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-12T14:56:43.000Z",
+      "description": "The execution of Fort Hood gunman Nidal Hasan would be the first time the US Army had used a firing squad since 1945.",
+      "author": null,
+      "summary": "미국 육군이 Fort Hood 총격범 니달 하산에 대해 1945년 이후 처음으로 총살형 사형을 집행할 예정이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "74935985ecf7",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "티그라이 분쟁, 에티오피아-에리트레아 갈등으로 번져",
+      "link": "https://www.yna.co.kr/view/AKR20261012182800099",
+      "publishedAt": "2026-10-12T14:52:14.000Z",
+      "description": "(요하네스버그=연합뉴스) 나확진 특파원 = 에티오피아에서 북부 티그라이 지역을 중심으로 티그라이인민해방전선(TPLF) 등 무장세력과 정부군의 교...",
+      "author": "나확진",
+      "summary": "에티오피아의 북부 티그라이 지역 무장세력과 정부군의 분쟁이 에티오피아-에리트레아 간 갈등으로 확대되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "87dc078d9a34",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "교황의 폐 결절, 암일 수 있을까?",
+      "link": "https://www.dw.com/en/pope-lung-nodule-could-it-be-cancer/a-79641503?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-10-12T14:41:00.000Z",
+      "description": "The case of Pope Leo shows how small lung nodules are often found during routine health checks. Quick treatment is generally advised before nodules can grow to become larger life-threatening masses.",
+      "author": null,
+      "summary": "일상적인 건강검진 중 발견되는 작은 폐 결절은 더 커지기 전에 신속한 치료가 권장된다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2bbc4919be95",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "美당국, 소말리아 출신 野의원 압수수색…이민사기 조사 일환",
+      "link": "https://www.yna.co.kr/view/AKR20261012182000071",
+      "publishedAt": "2026-10-12T14:39:24.000Z",
+      "description": "(워싱턴=연합뉴스) 박성민 특파원 = 미국 연방 수사당국이 12일(현지시간) 야당인 민주당의 소말리아 출신 일한 오마르(미네소타) 하원의원의 워...",
+      "author": "박성민",
+      "summary": "미국 연방 수사당국이 민주당의 소말리아 출신 일한 오마르 미네소타 하원의원에 대해 이민 사기 조사 차원에서 압수수색을 실시했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0fab8ab86f98",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "스타링크 인도 진출, 일론 머스크가 기다리는 이유",
+      "link": "https://www.dw.com/en/starlink-india-launch-why-elon-musk-is-still-waiting/a-79643043?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-10-12T14:33:00.000Z",
+      "description": "Despite securing key approvals, the Starlink satellite internet service remains in regulatory limbo, raising questions about security clearances, competition and India’s investment climate.",
+      "author": null,
+      "summary": "스타링크의 위성 인터넷 서비스는 주요 인가를 획득했으나 규제 난제에 빠져 있으며, 보안 심사와 인도의 투자 환경에 대한 우려가 제기되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b265435a4b83",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "톰 크루즈 영화 '디거', 할리우드 역대급 흥행 부진으로 예상",
+      "link": "https://www.bbc.co.uk/news/articles/cke8re5v1pgmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-12T14:11:27.000Z",
+      "description": "The film dropped by around 60% in its second weekend, and could become one of Hollywood's biggest flops.",
+      "author": null,
+      "summary": "톰 크루즈 출연작 '디거'가 2주차에 약 60% 하락했으며, 할리우드 역사상 최악의 흥행 부진 중 하나가 될 것으로 전망된다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f3523d30785b",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "베네수엘라 뇌물 사건 도주 사업가, 미국 구금",
+      "link": "https://www.theguardian.com/us-news/2026/oct/12/fugitive-venezuela-bribery-case",
+      "publishedAt": "2026-10-12T13:14:14.000Z",
+      "description": "A businessman wanted in the US for allegedly bribing top Venezuelan officials has been taken into custody A businessman wanted for years in the US for allegedly paying bribes to top Venezuelan officials in exchange for lucrative state contracts in Venezuela has been taken into custody. Alvaro Pulido was indicted in Miami federal court in 2019 and again in 2021 as part of an investigation into his longtime business partner, Alex Saab, a one-time ally of ousted Venezuelan president Nicolás Maduro. The US Drug Enforcement Administration (DEA) and the state department had been offering a reward of",
+      "author": "Associated Press",
+      "summary": "베네수엘라 고위 관계자에게 뇌물을 제공한 혐의로 기소된 알바로 풀리도가 미국의 구금 상태에 들어갔으며, 이는 니콜라스 마두로의 오랜 동료인 알렉스 사아브 수사의 일부다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9af1b5905366",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "NAZA: 네타냐후, 영화 출연자의 신원 공개 및 기소 명령",
+      "link": "https://www.theguardian.com/film/2026/oct/12/naza-netanyahu-orders-identification-prosecution-interviewees-documentary-film",
+      "publishedAt": "2026-10-12T12:59:56.000Z",
+      "description": "Israeli PM calls for criminal investigation into soldiers and officers interviewed in Guardian-produced documentary The Israeli prime minister, Benjamin Netanyahu, has ordered the country’s attorney general and the head of the Shin Bet security service to reveal the identities of soldiers and officers interviewed in the investigative documentary NAZA and prosecute them for causing “harm to Israel’s diplomatic and security interests”. The award-winning documentary, directed by the Oscar-winning film-makers Yuval Abraham and Rachel Szor and produced by the Guardian, details Israel’s mass killing",
+      "author": "Lorenzo Tondo",
+      "summary": "이스라엘 총리 베냐민 네타냐후가 가디언이 제작한 다큐멘터리 'NAZA' 출연 군인과 장교의 신원 공개와 기소를 명령했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7249de8c9157",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "DOJ, TV 방송사 독점금지 조사 개시…트럼프 우크라이나 지도자 교체 촉구",
+      "link": "https://www.npr.org/2026/10/12/g-s1-147772/up-first-newsletter-trump-ukraine-russia-antitrust-investigation-hurricane-isaias-saudi-airport",
+      "publishedAt": "2026-10-12T11:29:56.000Z",
+      "description": "The Justice Department is investigating several TV networks for possible antitrust violations. And, President Trump pressures Ukrainians to elect a new leader.",
+      "author": "Brittney Melton",
+      "summary": "미국 법무부가 여러 TV 방송사의 독점금지 위반 의혹을 조사하고 있으며, 트럼프 대통령은 우크라이나가 새로운 지도자를 선출할 필요가 있다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "cebeef78e3a0",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "트럼프의 '에너지 휴전' 주장 후 러시아, 우크라이나 가스시설 공격",
+      "link": "https://www.npr.org/2026/10/12/nx-s1-5998614/trump-russia-ukraine-energy-ceasefire",
+      "publishedAt": "2026-10-12T06:41:57.000Z",
+      "description": "Trump said he had brokered a cease-fire to protect energy infrastructure in Russia and Ukraine. But Ukrainian officials say bombs kept falling overnight on gas facilities, wounding 33 people.",
+      "author": "Brian Mann",
+      "summary": "트럼프 대통령이 러시아와 우크라이나 간 에너지 기반시설 보호 휴전을 중재했다고 주장했으나, 우크라이나 관계자들은 밤새 가스시설 폭격으로 33명이 부상했다고 보도했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b7a17be4c525",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]국가 R&D 외국인 연구원 1021명 전원이 보안 심의 안 거쳤다",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261012/134829555/2",
+      "publishedAt": "2026-10-12T14:30:00.000Z",
+      "description": "중소벤처기업부가 매년 수천억 원의 예산을 투입하는 연구개발(R&D) 지원 사업이 국가핵심기술 유출 창구로 전락할 수 있다는 지적이 나왔다. 12일 중기부에 따르면 2024년 이후 3년간 중소기업기술정보진흥원(TIPA)의 R&D 과제 약 1만 건 중 ‘보안과제’로 지정된 연구는 ‘차세대 리튬 이차전지’ 관련 1건뿐이었다. 나머지는 모두 ‘일반과제’로 분류돼 수행기관이 알아서 보안관리를 해왔다. 핵심 기술 관리 강도를 높이려 2024년 도입한 보안과제 분류 제도가 무용지물이 된 것이다. 특히 이 기간 투입된 외국 국적의 연구원 1021명 중 사전에 보안심의 대상이 된 이는 한 명도 없었다. 보안과제로 지정되면 외국인이 참여할 때 중기부 장관 승인을 받고 국가정보원에도 미리 통보해야 한다. TIPA의 보안 실태 점검도 받는다. 수행기관 91%가 일반과제로 신청한 것은 이런 까다로운 절차를 피하기 위해서였을 수 있다. TIPA는 보안과제로 신청된 나머지 9% 중 단 1건만",
+      "author": null,
+      "summary": "정부 R&D 지원 사업에서 국가핵심기술 유출 위험이 높다며, 보안 심사를 거치지 않은 외국인 연구원 1021명의 참여를 문제 삼았다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "fdb3b77bcadd",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]정권 바뀐 지 1년 4개월인데, 前 정권 임명 公기관장이 과반",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261012/134829551/2",
+      "publishedAt": "2026-10-12T14:27:00.000Z",
+      "description": "이재명 정부가 출범한 지 1년 4개월 지났는데도 재직 중인 공기업·준정부기관 수장의 절반 이상이 전임 정부에서 임명된 것으로 나타났다. 국정 철학이 다른 대통령이 임명한 공공기관장과 새 정부의 ‘불편한 동거’가 되풀이되고 있다. 12일 동아일보가 공기업·준정부기관 87곳을 분석한 결과 44곳의 기관장이 윤석열, 문재인 정부에서 임명된 것으로 나타났다. 이들 중 절반인 22명은 임기가 1년 이상 남았다. 현 대통령 임기 5년의 거의 절반을 함께하는 셈이다. 현행법상 이들 기관장은 3년의 임기를 보장받는다. 여기에다 인사 지체로 기관장 적기 교체도 이뤄지지 않고 있다. 전임 정부에서 임명된 한국전력공사 등 6곳의 기관장은 후임이 임명되지 않았거나 후임자의 취업 심사 탈락 등의 문제가 생겨 임기가 끝난 뒤에도 남아 있다. 인천공항공사 등 4곳은 기관장이 공석이다. 좁은 인재풀에서 내 사람만 챙기려 하면 인사가 지체될 수밖에 없다. 공기업·준정부기관보다 규모가 작은 ‘기타 공공기관’까",
+      "author": null,
+      "summary": "현 정부가 출범한 지 1년 4개월이 지났는데도 전임 정부에서 임명한 기관장 절반 이상이 여전히 재직 중이며, 인사 지체로 인한 공석까지 있다고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "10ad34e84ecd",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "과학자로서 의심되는 러시아 역병 피해자가 걱정스러운 이유",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/12/scientist-russia-plague-victim-lab-worker-pandemic",
+      "publishedAt": "2026-10-12T14:12:58.000Z",
+      "description": "Russia’s silence over the death of a lab worker underlines that pandemic preparedness amounts to nothing if information on threats is withheld In pandemic preparedness work, scientists like to focus on the technical challenges: identifying pathogens, diagnosing infections, understanding their effects and developing vaccines and treatments. Each step promises progress through human innovation, investment and planning. The World Health Organization (WHO), for example, brings experts together to identify and prioritise emerging disease threats and collect the evidence needed to prepare for them. ",
+      "author": "Devi Sridhar",
+      "summary": "러시아가 실험실 근로자 사망에 대해 침묵하는 것이 팬데믹 대비를 무의미하게 만든다며, 보안 위협에 대한 정보 공개의 중요성을 강조했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "17e216a5a9ab",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "AI 면접이 디스토피아적이고 비인간적이었던 경험",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/13/dystopian-and-dehumanising-thats-what-it-felt-like-when-i-was-interviewed-by-an-ai-assistant",
+      "publishedAt": "2026-10-12T14:00:57.000Z",
+      "description": "Outsourcing the essential task of interviewing job applicants to a machine seems lazy at best, negligent at worst. I want better for all of us Over the past 15 years of my working life, I’ve done a lot of interviews for a lot of different jobs and industries: call centre operator, social media manager, bookseller, copywriter, library worker. Recently, after completing my first year of a master’s degree in early childhood and primary teaching, I applied for a preschool education role and experienced a first: being interviewed by AI. I’d heard of this practice and was aware of its shortcomings, ",
+      "author": "Giselle Au-Nhien Nguyen",
+      "summary": "AI 채용 면접 시스템이 비인간적이라며, 중요한 업무를 기계에 맡기는 것은 책임감 없는 결정이라고 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1344fb8eb621",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "챗봇의 영혼을 찾으려는 결함 있는 시도",
+      "link": "https://www.nytimes.com/2026/10/12/opinion/letters/anthropic-chatbot-soul.html",
+      "publishedAt": "2026-10-12T13:00:02.000Z",
+      "description": "Readers discuss a front-page article about assertions that A.I. models could display human behavior and consciousness.",
+      "author": null,
+      "summary": "AI 모델의 인간적 행동과 의식 가능성에 대한 주장을 다루는 기사에 독자들이 논의했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "bdbb2d0668f0",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[알림]제76회 이화경향음악콩쿠르 지정곡 발표",
+      "link": "https://www.khan.co.kr/article/202610122140025/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-10-12T12:40:02.000Z",
+      "description": "2027년 열리는 ‘제76회 이화경향음악콩쿠르’(내년 2월 접수 예정)의 예선·본선 지정곡을 발표합니다. 이화경향음악콩쿠르는 1952년 시작된 이래 신수정·정경화·장한나를 비롯해 조성진·양인모 등 세계 무대에서 활약하는 연주자들을 배출하며 한국 클래식의 성장과 함께해왔습니다.올해에는 수상자 마스터클래스를 열어 경연 이후 음악적 성장과 무대 경험까지 지원했습···",
+      "author": null,
+      "summary": "1952년부터 한국 클래식 음악 발전을 주도해온 이화경향음악콩쿠르의 제76회 대회 예선·본선 지정곡을 공지했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "27aa2d0112cc",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "생물학적 위협에 대한 신속한 대응이 필요하다",
+      "link": "https://www.nytimes.com/2026/10/12/opinion/ai-biosecurity.html",
+      "publishedAt": "2026-10-12T11:59:56.000Z",
+      "description": "This is a hair-on-fire moment for the biosecurity community.",
+      "author": "Jeff Coller",
+      "summary": "생물학적 위협에 신속하게 대응하기 위한 연구 개발 프로그램 도입을 촉구하며, 현재 생물 보안 상황이 긴급하다고 경고했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d361f1a1cfaf",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "정부가 이 건물을 처분하지 못하는 이유를 보면 알 수 있다",
+      "link": "https://www.washingtonpost.com/opinions/interactive/2026/10/12/former-hud-headquarters-captures-common-problem-federal-buildings/",
+      "publishedAt": "2026-10-12T11:30:00.000Z",
+      "description": "HUD’s former headquarters is a financial sinkhole that illustrates a larger problem.",
+      "author": "Editorial Board",
+      "summary": "HUD의 구 본부가 재정적 손실을 계속 주고 있으며, 이것이 정부의 더 큰 관리 문제를 드러낸다고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "79ecc4160b06",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[서의동 칼럼] 따질 대상은 정동영이 아니라 브런슨이다",
+      "link": "https://www.khan.co.kr/article/202610122004005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-10-12T11:04:00.000Z",
+      "description": "지뢰사고 계기 ‘자주파’ 사퇴요구‘미국 심기 불편하니 바꾸라’ 주장국힘, 유엔사 안이한 대응엔 침묵통일부 ‘동맹프레임’서 자유로워야장동혁 국민의힘 대표가 한·미 동맹이 ‘파탄’으로 가고 있다면서 정동영 통일부 장관과 이종석 국정원장을 즉각 해임해야 한다고 지난 11일 주장했다. 정 장관이 ‘북한의 두 국가론을 추종하고 지뢰 폭발 사고에서 북한 편을 들었으며···",
+      "author": "서의동 논설실장",
+      "summary": "지뢰사고 책임을 정동영 통일부 장관에게만 돌리는 것은 잘못이며, 미국의 유엔사 사령관을 따져야 한다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "963c82ee0104",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "부자 증세? 좌파가 아닌 스위스를 따르자",
+      "link": "https://www.washingtonpost.com/opinions/2026/10/12/swiss-style-wealth-tax-could-work-us/",
+      "publishedAt": "2026-10-12T11:00:00.000Z",
+      "description": "The federal government needs revenue, and this could be a bipartisan solution.",
+      "author": "Warren Gorlick",
+      "summary": "정부 재정 수입을 위해 좌파가 아닌 스위스 방식의 부자 증세가 양당이 동의할 수 있는 해결책이라고 제안했다.",
+      "summarySource": "llm"
+    }
+  ],
+  "summarizedAt": "2026-10-13T02:56:01.849Z",
+  "summaryStats": {
+    "llm": 50,
+    "fallback": 0,
+    "model": "claude-haiku-4-5"
+  }
+}
