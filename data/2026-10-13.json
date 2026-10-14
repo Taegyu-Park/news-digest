@@ -1,0 +1,900 @@
+{
+  "date": "2026-10-13",
+  "generatedAt": "2026-10-14T00:54:40.952Z",
+  "categories": [
+    {
+      "id": "it",
+      "label": "IT·과학·AI"
+    },
+    {
+      "id": "economy",
+      "label": "경제·금융"
+    },
+    {
+      "id": "politics",
+      "label": "정치·사회"
+    },
+    {
+      "id": "world",
+      "label": "세계·국제"
+    },
+    {
+      "id": "editorial",
+      "label": "사설·칼럼",
+      "opinion": true,
+      "summaryMaxChars": 220
+    }
+  ],
+  "feedStatus": [
+    {
+      "source": "Ars Technica",
+      "category": "it",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "Hacker News",
+      "category": "it",
+      "ok": true,
+      "matched": 5
+    },
+    {
+      "source": "TechCrunch",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "The Verge",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "블로터",
+      "category": "it",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "전자신문",
+      "category": "it",
+      "ok": true,
+      "matched": 22
+    },
+    {
+      "source": "ZDNet Korea",
+      "category": "it",
+      "ok": true,
+      "matched": 26
+    },
+    {
+      "source": "BBC Business",
+      "category": "economy",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "The Guardian",
+      "category": "economy",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "매일경제 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 34
+    },
+    {
+      "source": "연합뉴스",
+      "category": "economy",
+      "ok": true,
+      "matched": 51
+    },
+    {
+      "source": "경향신문 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 41
+    },
+    {
+      "source": "경향신문 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 32
+    },
+    {
+      "source": "노컷뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "서울신문",
+      "category": "politics",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "연합뉴스 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 28
+    },
+    {
+      "source": "연합뉴스 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 92
+    },
+    {
+      "source": "SBS 뉴스",
+      "category": "politics",
+      "ok": false,
+      "error": "HTTP 403",
+      "matched": 0
+    },
+    {
+      "source": "Al Jazeera",
+      "category": "world",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC World",
+      "category": "world",
+      "ok": true,
+      "matched": 4
+    },
+    {
+      "source": "NPR",
+      "category": "world",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "The Guardian",
+      "category": "world",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "연합뉴스 국제",
+      "category": "world",
+      "ok": true,
+      "matched": 48
+    },
+    {
+      "source": "매일경제 증권",
+      "category": "economy",
+      "ok": true,
+      "matched": 36
+    },
+    {
+      "source": "경향신문 오피니언",
+      "category": "editorial",
+      "ok": true,
+      "matched": 11
+    },
+    {
+      "source": "NYT Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 4
+    },
+    {
+      "source": "The Guardian Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 11
+    },
+    {
+      "source": "Washington Post Opinions",
+      "category": "editorial",
+      "ok": false,
+      "error": "HTTP 502",
+      "matched": 0
+    },
+    {
+      "source": "동아일보 사설",
+      "category": "editorial",
+      "ok": true,
+      "matched": 13
+    },
+    {
+      "source": "동아일보 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 25
+    },
+    {
+      "source": "조선일보",
+      "category": "politics",
+      "ok": true,
+      "matched": 1
+    },
+    {
+      "source": "동아일보 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "머니투데이",
+      "category": "economy",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "Wired",
+      "category": "it",
+      "ok": true,
+      "matched": 25
+    },
+    {
+      "source": "DW News",
+      "category": "world",
+      "ok": true,
+      "matched": 12
+    }
+  ],
+  "items": [
+    {
+      "id": "c92611ae4848",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "[신종자본증권 점검]① KB금융, 1년 새 1조 줄어도…총자본비율 방어",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=675527",
+      "publishedAt": "2026-10-13T14:38:17.000Z",
+      "description": "KB금융그룹이 신종자본증권을 추가로 크게 줄이기보다 현재 수준에서 관리하는 쪽으로 방향을 잡았다. 보통주자본(CET1) 비율을 중심으로 자본을 관리하고 있지만 국제결제은행(BIS) 총자본비율 규제까지 충족하려면 일정 규모의 추가 자본이 필요해서다. 기존 발행분의 콜옵션 일정과 다른 조달수단의 비용도 향후 발행·상환 규모를 결정하는 변수다.13일 금융권에 따르면 KB금융의 상반기 말 별도기준 신종자본증권 잔액은 4조2065억8900만원이다. 지난해 6월 말 5조1622억7300만원보다 9556억8400만원(18.5%) 감소했다. 지난",
+      "author": "김홍준 기자",
+      "summary": "KB금융은 신종자본증권을 1년 새 9556억원 줄였으나, 국제결제은행 총자본비율 규제를 충족하기 위해 현 수준에서 관리하기로 방향을 정했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6a212d8a9f80",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "표준협회, KT DS에 AI경영시스템 국제표준 ISO/IEC 42001 인증 수여",
+      "link": "https://zdnet.co.kr/view/?no=20261013233710",
+      "publishedAt": "2026-10-13T14:37:10.000Z",
+      "description": "[지디넷코리아]한국표준협회(회장 문동민)는 최근 KT DS(대표 옥경화)에 인공지능(AI)경영시스템 국제표준 ISO/IEC 42001 인증을 수여했다고 13일 밝혔다. KT DS는 이번 인증 획득으로 AI 개발·운영·위험관리 전반의 조직 경영 체계가 국제표준에 부합함을 인정받았다.ISO/IEC 42001은 국제표준화기구(ISO)와 국제전기기술위원회(IEC)가 2023년 공동 제정한 세계 최초의 AI 관련 경영시스템 국제표준이다. AI 시스템을 개발·제공하거나 활용하는 조직이 AI 관련 위험을 체계적으로 관리하고, 책임 있는 AI경영시스템을 구축·운영하도록 요구한다.KT DS는 지난해 표준협회의 AI 신뢰성 인증인 ‘AI+’를 통해 AI:ON-U, BEAST AI Gateway, BEAST Intelligent ESB 등 주요 AI 솔루션 품질과 신뢰성을 인정받은 바 있다. 이번 ISO/IEC 42001 인증 범위에는 KT DS의 대표 AI 솔루션인 AICentro, BEAST와 이를 지원하는 AI 개발·운영 및 거버넌스 프로세스가 포함됐다.표준협회는 해당 범위의 AI경영시스템 심사를 통해 국제표준 요구사항에 대한 적합성을 확인했다. 이는 제품·서비스 차원의 ",
+      "author": "주문정 기자",
+      "summary": "KT DS가 한국표준협회로부터 2023년 국제표준화기구가 제정한 세계 최초의 AI 경영시스템 국제표준 ISO/IEC 42001 인증을 획득했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9929d2c426f6",
+      "category": "it",
+      "source": "Hacker News",
+      "region": "intl",
+      "title": "애플의 '사파리로 전환' 캠페인, 크롬 대체 이유 공개",
+      "link": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
+      "publishedAt": "2026-10-13T14:26:08.000Z",
+      "description": "https://www.apple.com/safari/switch/ Comments URL: https://news.ycombinator.com/item?id=50072286 Points: 178 # Comments: 298",
+      "author": "ivell",
+      "summary": "애플이 크롬 대신 사파리를 사용해야 할 이유를 설명하는 '사파리로 전환' 캠페인을 시작했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a053f3bfe23c",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "삼성전기, 자체 AI로 업무 자동화 나선다…첫 사내 해커톤 개최",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=675531",
+      "publishedAt": "2026-10-13T14:15:58.000Z",
+      "description": "삼성전기가 자체 개발한 생성형 AI(인공지능) 플랫폼을 활용해 임직원이 업무용 AI 에이전트를 직접 개발하는 사내 경연대회를 개최한다. 제품 개발부터 생산·품질 관리, 고객 대응까지 반복적인 업무를 자동화하고 직원 한 명당 하나의 AI 에이전트를 활용하는 업무 환경을 구축한다는 구상이다. 임직원 200명 참여…업무 전반에 AI활용도 제고13일 삼성전기는 16일까지 나흘간 수원사업장에서 자체 개발한 생성형 AI 플랫폼 '셈코워크(SEMCo-Work)'를 활용하는 첫 사내 해커톤을 개최한다고 밝혔다.해커톤은 해킹과 마라톤의 합성어로 참",
+      "author": "이가영 기자",
+      "summary": "삼성전기가 자체 개발한 생성형 AI 플랫폼 '셈코워크'를 활용해 임직원 200명이 참여하는 첫 사내 해커톤을 16일까지 개최한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "fc4b4bfa19b5",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "산업부, 반도체 메가프로젝트 전담국 '반도체혁신성장지원단' 출범",
+      "link": "https://zdnet.co.kr/view/?no=20261013231255",
+      "publishedAt": "2026-10-13T14:12:55.000Z",
+      "description": "[지디넷코리아]산업부에 반도체 산업 경쟁력 강화를 위한 국장급 전담조직인 ‘반도체혁신성장지원단’이 출범했다. 또 인도의 전략적 중요성 확대에 따라 ‘인도통상협력과’가 신설됐다.산업통상부와 행정안전부는 반도체 메가프로젝트와 ‘반도체산업 경쟁력 강화 및 지원에 관한 특별법’ 이행을 전담하는 국장급 조직인 ‘반도체혁신성장지원단’과 한-인도 경제협력을 전담하는 ‘인도통상협력과’ 신설 등을 담은 ‘산업통상부와 그 소속기관 직제 일부 개정령안’이 13일 국무회의에서 의결됐다고 밝혔다. 개편된 직제는 20일 시행한다.산업부는 반도체특별법 시행으로 새로 생긴 법정사무와 반도체 메가프로젝트를 차질 없이 이행하고, 지난 4월 한-인도 정상외교 이후 늘어난 협력과제에 대응하기 위해 직제 개정이 이뤄졌다고 설명했다.지난해 12월 산업자원안보실과 산업인공지능정책관 신설에 이어 반도체산업 초격차 유지와 인도와의 경제협력 고도화에 필요한 조직과 인력을 집중 보강하는 조치다.김정관 산업부 장관은 “반도체는 AI·자동차·가전 등 모든 산업에 필수 공급망이며, 대한민국 수출의 약 50%를 차지하는 국가 경제 핵심산업”이라며 “반도체 패권경쟁이 치열해지는 가운데 반도체혁신성장지원단을 통해 메",
+      "author": "주문정 기자",
+      "summary": "산업부가 반도체 메가프로젝트와 특별법 이행을 전담하는 국장급 조직 '반도체혁신성장지원단'을 신설했으며, 20일부터 시행한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "59f931233071",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "\"194살 맞아?\"…세계 최고령 거북 DNA서 '젊음의 흔적' 발견",
+      "link": "https://www.etnews.com/20261013000373",
+      "publishedAt": "2026-10-13T13:30:00.000Z",
+      "description": "세계에서 가장 오래 산 육상동물로 알려진 194세 거북의 DNA에서 예상보다 훨씬 젊은 개체와 비슷한 특징이 발견됐다. 연구진은 이 거북의 유전적 특성이 동물은 물론 인간의 장수 연구에도 단서를 줄 수 있을 것으로 보고 있다. 12일(현지시간) 미국 피플지 등에 따르면 과학자들은 세계 최고령 거북으로 알려진 '조너선'의 DNA를 분석한 결과, 일부 영역에서 100년 이상 어린 거북과 유사한 패턴이 나타났다고 밝혔다. 조너선은 아프리카 서쪽 영국",
+      "author": "서희원",
+      "summary": "세계 최고령 거북으로 알려진 194세 '조너선'의 DNA 분석 결과, 일부 영역에서 100년 이상 어린 거북과 유사한 유전적 패턴이 나타났다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0cbbcf57aeb9",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "'고질라 마이너스 제로' 제작진, 몬스터 음향으로 행인 놀라게 해",
+      "link": "https://www.wired.com/story/new-york-comic-con-panel/",
+      "publishedAt": "2026-10-13T13:30:00.000Z",
+      "description": "The team behind director Takashi Yamazaki’s new film created their kaiju roars by setting up speakers on top of an outdoor dam. The people walking by weren’t prepared for what they heard.",
+      "author": "Max Evry",
+      "summary": "야마자키 타카시 감독의 '고질라 마이너스 제로' 제작팀이 야외 댐 위 스피커에서 괴수 울음소리를 방출해 근처 행인들을 예상 외로 놀라게 했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "defde54c3f81",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "고속촬영으로 포착한 꿀벌 독침의 독 분사 메커니즘",
+      "link": "https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/",
+      "publishedAt": "2026-10-13T13:03:45.000Z",
+      "description": "Co-author: “The unique geometry of the valves is the key; they act as collapsible pistons\" to deliver venom.",
+      "author": "Jennifer Ouellette",
+      "summary": "고속촬영을 통해 꿀벌 독침의 독 분사 메커니즘이 밝혀졌으며, 판막의 독특한 기하학적 구조가 내려앉는 피스톤처럼 작용한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "aa56dc55a3bf",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "애플 홈뷰, 아이폰과 애플워치의 하이브리드 스마트 디스플레이",
+      "link": "https://www.wired.com/story/apple-homeview-smart-display/",
+      "publishedAt": "2026-10-13T13:00:00.000Z",
+      "description": "With customizable “faces,” this 7-inch smart display is a unique hybrid between an iPhone and an Apple Watch.",
+      "author": "Julian Chokkattu",
+      "summary": "애플 홈뷰는 7인치 스마트 디스플레이로, 커스터마이징 가능한 페이스를 갖춘 아이폰과 애플워치의 독특한 하이브리드이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8fb0f077225c",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "OK저축은행, 대출신청 페이지서 고객 183명 개인정보 유출 가능성",
+      "link": "https://www.etnews.com/20261013000442",
+      "publishedAt": "2026-10-13T09:28:19.000Z",
+      "description": "OK저축은행에서 고객 183명 개인정보가 유출된 사실이 확인됐다. OK저축은행은 이를 금융당국에 신고한 상태다. 13일 금융권에 따르면 OK저축은행 대출 신청 페이지를 통해 고객 개인 정보 유출 가능성이 파악됐다. 규모는 현재까지 183명 정도로 집계된 것으로 전해진다. 대출 상담·신청을 받는 페이지가 공격 대상이 됐다는 점에서 최근 금융권에서 발생한 해킹 사고와 유사한 사례라는 분석이다. OK저축은행은 정확한 유출 경로 및 피해 범위를 조사하",
+      "author": "박진혁",
+      "summary": "OK저축은행의 대출 신청 페이지를 통해 고객 183명의 개인정보가 유출된 것으로 확인되었으며, 금융당국에 신고된 상태이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b4941ea5aa6c",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "김영훈 \"행정기관 이전 노정교섭…고공농성 한화오션 방문 검토\"",
+      "link": "https://www.yna.co.kr/view/AKR20261013100052530",
+      "publishedAt": "2026-10-13T14:40:10.000Z",
+      "description": "(서울=연합뉴스) 한혜원 옥성구 기자 = 김영훈 고용노동부 장관은 13일 노란봉투법(개정 노동조합법) 시행 이후 일각에서 우려했던 '교섭 쓰나미...",
+      "author": "한혜원",
+      "summary": "김영훈 고용노동부 장관이 노란봉투법 시행 이후 예상되는 노정교섭 변화와 행정기관 이전 상황에 대해 언급했으며, 고공농성 중인 한화오션 방문을 검토하고 있다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "78392bd2a9c7",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "이형일-베선트 화상면담…한미 경제·금융협력 중요성 재확인",
+      "link": "https://www.yna.co.kr/view/AKR20261013193900002",
+      "publishedAt": "2026-10-13T14:16:18.000Z",
+      "description": "(세종=연합뉴스) 이세원 기자 = 이형일 부총리 겸 재정경제부 장관은 13일 오후 정부서울청사에서 스콧 베선트 미국 재무장관과 화상 회의시스템을...",
+      "author": "이세원",
+      "summary": "이형일 부총리 겸 재정경제부 장관이 미국의 스콧 베선트 재무장관과 화상회의를 통해 한미 경제·금융협력의 중요성을 재확인했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "eb2bbb339390",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "AI 발전은 시민의 목소리를 무시하고 있다",
+      "link": "https://www.theguardian.com/technology/commentisfree/2026/oct/14/ai-resistance-inevitability-is-choice-australia-digital-duty-of-care",
+      "publishedAt": "2026-10-13T14:00:07.000Z",
+      "description": "The tech bros and their highly paid sock puppets are banking on us giving in to their ‘inevitability doctrine’. But in Australia, and around the world, resistance is rising Of all the drivers of the populist wave, one of the most powerful is the sense of inevitability that surrounds what we are told is the march of progress. In presenting the future as a fait accompli, it poisons the civic well by dealing us out of the game. While the US clings on to its status as the oldest constitutional democracy, the unholy alliance between the tech overlords and the White House is creating its own AI real",
+      "author": "Peter Lewis",
+      "summary": "필자는 AI 기술이 불가피한 진보로 제시되면서 시민을 의사결정에서 배제하는 것이 가장 큰 위협이라고 주장하며, 세계적으로 이에 대한 저항이 커지고 있다고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "4057b970efea",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "생활비 부담으로 영국인들의 해외휴가 계획 감소",
+      "link": "https://www.theguardian.com/business/2026/oct/13/uk-holiday-demand-travel-industry-spain-deals-abta",
+      "publishedAt": "2026-10-13T13:44:38.000Z",
+      "description": "Spain remains most popular destination as Britons book later in hope of better deals, Abta report finds The UK’s cost of living squeeze means fewer people plan to ringfence money for holidays abroad next year, the travel industry has warned. Despite war, wildfires and EES border checks, the numbers of Britons taking holidays climbed back to pre-pandemic levels this year – but rising costs may mean the numbers have peaked, according to an annual travel industry report on Tuesday. Continue reading...",
+      "author": "Gwyn Topham Transport correspondent",
+      "summary": "영국의 생활비 압박으로 내년 해외휴가를 위해 자금을 따로 마련하려는 영국인 수가 줄어들 것으로 예상되며, 올해 팬데믹 수준으로 회복한 휴가 인원이 정점을 지났을 가능성을 시사한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "065b572443c9",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "자동차 금융 보상금 내년까지 지급 연기",
+      "link": "https://www.bbc.co.uk/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-13T12:27:36.000Z",
+      "description": "Millions could be entitled to compensation as a result of commission arrangements between lenders and dealers.",
+      "author": null,
+      "summary": "자동차 대출기관과 판매자 간 수수료 배치로 인한 수백만 명의 보상금 지급이 내년으로 연기되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3f20b0c7c72d",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "파운드랜드, 인수 협상 진행…경영진 인수 시도",
+      "link": "https://www.bbc.co.uk/news/articles/ckr5ydvvln0mo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-13T12:17:17.000Z",
+      "description": "The leadership team is attempting a buyout, but a union has warned the retailer could fall into administration instead.",
+      "author": null,
+      "summary": "영국 소매업체 파운드랜드의 경영진이 인수를 시도하고 있으나, 노조는 회사가 관리사에 진입할 가능성을 경고했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1c2133f1db8d",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "회의하시죠, KTX 시간 좀 볼게요…금융사는 서울, 금융위는 세종",
+      "link": "https://www.mk.co.kr/news/economy/12174867",
+      "publishedAt": "2026-10-13T10:42:23.000Z",
+      "description": "중앙행정기관 44곳 이전 금융위 등 27곳 내년 이전 외교·통일부 등 17개 기관은 2031년까지 청사 지어 이동 공무원 주거·통근 부담 커져 민간 이직 등 인력 유출 우려 정부,..",
+      "author": "매일경제",
+      "summary": "정부가 추진하는 행정기관 이전으로 금융사는 서울에, 금융위원회는 세종에 남게 되어 협력 환경이 악화될 우려가 있으며, 공무원들의 주거·통근 부담 증가로 인력 유출 가능성도 제기되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a816b57199d2",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "삼전닉스 자사주 매입 끝나자 주가 와르르…코스피 사줄 사람이 없다",
+      "link": "https://www.mk.co.kr/news/stock/12174815",
+      "publishedAt": "2026-10-13T09:33:35.000Z",
+      "description": "코스피 수급 여건 심층분석코스피가 12일 6500선이 무너진데 이어 13일에는 장중에 6000선까지 무너졌다. 반도체 기업들의 실적 개선에도 국내 증시가 오히려 뒷걸음질 치면서 시..",
+      "author": "매일경제",
+      "summary": "반도체 회사들의 자사주 매입이 끝나면서 코스피가 급락했고, 반도체 업계의 실적 개선에도 불구하고 국내 증시는 계속 하락세를 보이고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "121364a1e512",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "中 반도체 공습에 코스피 6천피 턱걸이",
+      "link": "https://www.mk.co.kr/news/stock/12174799",
+      "publishedAt": "2026-10-13T08:51:59.000Z",
+      "description": "코스피가 5거래일 연속 하락하며 13일 장중 한때 6000선이 무너졌다. 고금리·고유가 압박이 이어지던 와중에 중국의 메모리 반도체 기술 추격에 대한 우려가 투자심리를 얼어붙게 만..",
+      "author": "매일경제",
+      "summary": "코스피가 5거래일 연속 하락했고 중국의 메모리 반도체 기술 추격에 대한 우려가 투자자들의 심리를 냉각시키는 가운데 고금리와 고유가의 압박도 이어지고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0afcdbb1d74a",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "씨어스, 1100억 원 규모 전환사채 발행",
+      "link": "https://www.mk.co.kr/news/stock/12174787",
+      "publishedAt": "2026-10-13T08:48:24.000Z",
+      "description": "코스닥 상장사 씨어스가 제2회 1100억 원 규모의 전환사채를 발행한다고 2026년 10월 13일 공시했다. 전환가액은 3만 586원이며, 전환 청구 기간은 2027년 10월 21..",
+      "author": "매일경제",
+      "summary": "코스닥 상장 기업 씨어스가 제2회 1100억 원 규모의 전환사채를 발행하며, 전환가액은 3만 586원으로 설정했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b4941ea5aa6c",
+      "category": "politics",
+      "source": "연합뉴스 사회",
+      "region": "kr",
+      "title": "김영훈 \"행정기관 이전 노정교섭…고공농성 한화오션 방문 검토\"",
+      "link": "https://www.yna.co.kr/view/AKR20261013100052530",
+      "publishedAt": "2026-10-13T14:40:10.000Z",
+      "description": "(서울=연합뉴스) 한혜원 옥성구 기자 = 김영훈 고용노동부 장관은 13일 노란봉투법(개정 노동조합법) 시행 이후 일각에서 우려했던 '교섭 쓰나미...",
+      "author": "한혜원",
+      "summary": "김영훈 고용노동부 장관이 노란봉투법 시행 후 노정교섭에 따른 행정기관 이전과 고공농성 관련 업체 방문을 검토 중이라고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "78392bd2a9c7",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "이형일-베선트 화상면담…\"한미 경제·금융협력 중요성 재확인\"",
+      "link": "https://www.yna.co.kr/view/AKR20261013193900002",
+      "publishedAt": "2026-10-13T14:16:18.000Z",
+      "description": "(세종=연합뉴스) 이세원 기자 = 이형일 부총리 겸 재정경제부 장관은 13일 오후 정부서울청사에서 스콧 베선트 미국 재무장관과 화상 회의시스템을...",
+      "author": "이세원",
+      "summary": "이형일 부총리가 스콧 베선트 미국 재무장관과 화상으로 면담해 한미 경제·금융협력의 중요성을 재확인했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "98d9be36f152",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "\"경찰에 '안전 확인' 수차례 요청했지만 결국\"···제주서 40대 아버지·네 살 딸 숨진 채 발견",
+      "link": "https://www.khan.co.kr/article/202610132302001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-10-13T14:02:00.000Z",
+      "description": "유족 “딸 찾기 위해 경찰에 실종신고”경찰 마크.제주에서 40대 아버지와 네 살 딸이 차량에서 숨진 채 발견됐다.호주에 사는 아이의 어머니는 “경찰에 한국에 있는 딸의 소재와 안전을 확인해 달라고 여러 차례 요청했는데도 제대로 된 조치가 이뤄지지 않았다”고 주장하고 있다.13일 제주도소방안전본부에 따르면 지난 12일 오후 6시8분쯤 서귀포시 표선면에 주차된···",
+      "author": "강현석 기자",
+      "summary": "제주에서 40대 아버지와 네 살 딸이 숨진 채 발견됐으며, 호주 거주 중인 모친이 경찰에 안전 확인을 요청했으나 제대로 된 조치가 이루어지지 않았다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "18cb68d0c25d",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "잇단 정보유출 사고에…개인정보위원장 \"보안 투자 부족한게 사실\"",
+      "link": "https://www.donga.com/news/Society/article/all/20261013/134833732/1",
+      "publishedAt": "2026-10-13T13:10:00.000Z",
+      "description": "13일 개인정보보호위원회 등을 대상으로 열린 국회 정무위원회 국정감사에서는 잇따른 개인정보 유출 사고와 관련해 정부, 기업의 부실 대응에 대한 질타가 이어졌다. 국민의힘 조정훈 의원은 8월 ‘정부24’ 유출 사고 때 피해자 통지가 한 달 넘게 늦어진 점을 문제 삼았다. 유출 사실을 72시간 안에 알려야 하는데 정부부터 지키지 않았다는 것이다. 같은 당 최은석 의원은 KT, 쿠팡 등이 개인정보보호 관리체계(ISMS-P) 인증을 받고도 유출 사고를 반복했다며 “기업들이 과징금 감경을 목적으로 인증을 취득하는 것 아니냐”고 지적했다. 더불어민주당 민병덕 의원은 인공지능(AI)을 활용한 해킹이 늘고 있는데도 정부의 대응 체계는 갖춰지지 않았다고 비판했다.송경희 개인정보보호위원장은 “그동안 우리나라의 개인정보 보안과 보호 관리체계가 상당히 뒤처진 것이 사실”이라며 “정보기술(IT) 발전에 투자한 것에 비해 보안 투자는 굉장히 부족했다”고 인정했다. AI 해킹 대응에 대해서도 “부족한 것은",
+      "author": null,
+      "summary": "국회 국정감사에서 정보 유출 사고로 인한 정부와 기업의 부실 대응이 질타받았으며, 개인정보보호위원장은 보안 투자가 부족했음을 인정했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1b8577ea0be2",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "李대통령, 인천경찰청 방문…흉기난동 사건에 \"특단 대책 강구\"",
+      "link": "https://www.yna.co.kr/view/AKR20261013190900001",
+      "publishedAt": "2026-10-13T12:58:35.000Z",
+      "description": "(서울=연합뉴스) 고동욱 기자 = 이재명 대통령은 13일 인천경찰청을 방문해 인천 대형마트 흉기난동 사건의 신속하고 엄정한 수사와 사후 조치를 ...",
+      "author": "고동욱",
+      "summary": "이재명 대통령이 인천경찰청을 방문해 인천 대형마트 흉기난동 사건의 신속하고 엄정한 수사를 지시했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "324830111cae",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "전자발찌 찬 50대, 대낮 복합건물서 '무차별 흉기 난동'",
+      "link": "https://www.khan.co.kr/article/202610132158015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-10-13T12:58:01.000Z",
+      "description": "인천 구월동…9명 중경상 피해가해자, 살인미수 복역 등 전과“약물 복용” 진술…흉기 10여개이 대통령 “전자발찌 체계 점검”응급치료 받는 부상자들 상업시설이 다수 입점한 인천 남동구 한 복합건물에서 13일 50대 남성이 흉기를 휘둘러 여러 시민에게 상해를 입힌 사건이 발생해 부상자들이 응급치료를 받고 있다. 연합뉴스대낮에 인천 남동구 구월동의 한 대형 복합···",
+      "author": "박준철 기자",
+      "summary": "전자발찌를 찬 50대 남성이 인천 남동구 복합건물에서 흉기를 휘둘러 시민 9명에게 상해를 입혔으며, 가해자는 약물 복용과 전과가 확인되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "30fcd5001ccd",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "부산 간 이 대통령 \"북극항로, 필요할 때 준비하면 늦어\"",
+      "link": "https://www.khan.co.kr/article/202610132155015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-10-13T12:55:01.000Z",
+      "description": "팬스타 아크로호 귀항 환영식 참석“실제 화물 운송으로 가능성 확인”부캉이 있는 친수공원 깜짝 방문도팬스타 아크로호 시찰하는 이 대통령 이재명 대통령(가운데)이 13일 부산 북항에서 황종우 해양수산부 장관, 전재수 부산 시장과 북극항로 시범운항을 마치고 돌아온 팬스타 아크로호를 시찰하고 있다. 연합뉴스이재명 대통령은 13일 부산을 방문해 “북극항로는 위기 때···",
+      "author": "김윤나영 기자",
+      "summary": "이재명 대통령이 부산을 방문해 팬스타 아크로호의 북극항로 시범운항 귀항을 환영하며 북극항로 개발의 필요성을 강조했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f9c75fb2c0f8",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "강경화 \"한·미 정보 협력 문제 해소 안 돼…백악관과 소통 한계\"",
+      "link": "https://www.khan.co.kr/article/202610132155005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-10-13T12:55:00.000Z",
+      "description": "한동훈 “미국 측이 신뢰 손상 정상화 요청” 질의에 갈등 존재 시인‘미, 이종석·정동영 문제 삼았나’ 질문엔 “구체적 인사 언급 안 해”강경화 주미 한국대사(사진)는 12일(현지시간) “한·미 정보 협력이 가장 어려운 현안”이라며 “백악관과의 소통에도 한계가 있다”고 밝혔다. 다만 그는 이종석 국가정보원장과 정동영 통일부 장관 등 특정 인사를 미국이 직접 ···",
+      "author": "워싱턴 | 정유진 특파원",
+      "summary": "강경화 주미 한국대사는 한미 정보 협력이 가장 어려운 현안이며 백악관과의 소통에도 한계가 있다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6efde0debbed",
+      "category": "politics",
+      "source": "서울신문",
+      "region": "kr",
+      "title": "청년진보당 \"청년 구직지원 줄고…산재·체불 업무엔 '땜질 알바'\"",
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20261013500295",
+      "publishedAt": "2026-10-13T09:55:53.000Z",
+      "description": "청년진보당은 정부가 내년도 청년 구직지원 규모를 5만여명 줄였다며 “청년 취업을 지원하겠다는 정부의 방향과 맞지 않는다”고 13일 지적했다. 청년진보당은 이날 국회 소통관에서 기자회견을 열고 “청년 일자리 예산의 중심을 훈련과 단기 일경험이 아닌 안정적인 채용과 고용유지로 전환해야 한다”며 이같이 말했다. 정부는 지난 8월 43조 3000억원 규모의 내년도 청년 예산안을 발표했다. 하지만 청년진보당 분석에 따르면 국민취업지원제도에 청년 지원을 분리해 신설하는 ‘청년 첫취업지원제도’의 지원계획은 21만 3000명에서 16만명으로 5만3000명(24.9%) 줄었다. 대학일자리플러스센터 등을 지원하는 청년고용지원 인프라 운영 예산도 약 15% 감액됐다. 반면 고용노동부는 산재 예방 지원과 작업환경 모니터링 등을 맡을 ‘청년 안전 패트롤’ 150명을 10개월간 채용할 계획이다. 근로복지공단의 대지급금 지급·회수 보조, 전화 납부 독촉, 재산관리 보조 등을 맡을 가칭 ‘대지급금 변제금 회수강화 지원단’도 청년 150명을 내년 3월부터 12월까지 채용한다. 청년진보당은 “계속 필요한 공공업무라면 청년을 정규직으로 채용해야 한다”며 상시 업무를 단기 청년 인력으로 메우는",
+      "author": "반영윤 기자",
+      "summary": "청년진보당은 정부가 청년 첫취업지원제도 지원 규모를 5만3천명 삭감한 것을 비판하고, 산재 예방 등 상시 업무를 단기 청년 인력으로 충당하는 관행을 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9391edb4bde7",
+      "category": "politics",
+      "source": "조선일보",
+      "region": "kr",
+      "title": "\"중국인 오지마\"… 트럼프 따라 하는 다카이치",
+      "link": "https://www.chosun.com/international/japan/2026/10/13/QN5TZRKKBRF55H3AKG2QSITLAI/",
+      "publishedAt": "2026-10-12T18:00:00.000Z",
+      "description": "",
+      "author": "최유식 기자",
+      "summary": "일본 정치인 다카이치가 미국 대통령 트럼프를 따라하는 정치 행태를 취하고 있다고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0a119a4dc5cc",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "이형일-베선트 화상면담…한미 경제·금융협력 중요성 재확인",
+      "link": "https://www.yna.co.kr/view/AKR20261013193951002",
+      "publishedAt": "2026-10-13T14:43:27.000Z",
+      "description": "(세종=연합뉴스) 이세원 기자 = 이형일 부총리 겸 재정경제부 장관은 13일 오후 정부서울청사에서 스콧 베선트 미국 재무장관과 화상 회의시스템을...",
+      "author": "박성민",
+      "summary": "이형일 부총리와 스콧 베선트 미국 재무장관이 한미 간 경제·금융협력의 중요성을 다시금 확인했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b04ea3eea0ec",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "청년실업률 19%에 AI 충격까지…中 Z세대 '잃어버린 세대' 되나",
+      "link": "https://www.yna.co.kr/view/AKR20261013194800072",
+      "publishedAt": "2026-10-13T14:41:19.000Z",
+      "description": "(뉴욕=연합뉴스) 임수정 특파원 = 중국의 경기 침체가 장기화하는 가운데 심각한 취업난과 인공지능(AI)에 따른 일자리 감소 우려까지 겹치면서 ...",
+      "author": "임수정",
+      "summary": "중국의 청년실업률이 19%에 달하는 가운데 AI로 인한 일자리 감소 우려까지 겹치면서 Z세대가 어려움을 겪고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9b5424c3a93a",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "뉘른베르크 공항, 기내 비상사태 후 일시 폐쇄",
+      "link": "https://www.dw.com/en/nuremberg-airport-briefly-closed-after-in-flight-emergency/a-79649580?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-10-13T13:34:00.000Z",
+      "description": "Police are investigating a suspected in-flight emergency on a Corfu flight. After the airport reopened, the airline said they believed the emergency code was a result of a technical malfunction.",
+      "author": null,
+      "summary": "콜푸행 항공편의 기내 비상사태로 뉘른베르크 공항이 일시 폐쇄됐으며, 항공사는 기술적 고장으로 인한 긴급 신호라고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "89e57dccfa8f",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "젤렌스키 러시아 봇 무력화 주장, 근거 없는 것으로 드러나",
+      "link": "https://www.bbc.co.uk/news/articles/c9y7l0pm8jkko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-13T13:27:31.000Z",
+      "description": "Experts say there is no evidence that Russian trolls have been affected by Ukraine’s Yandex attacks.",
+      "author": null,
+      "summary": "우크라이나의 얀덱스 공격이 러시아 트롤을 무력화했다는 젤렌스키의 주장에 대해 전문가들은 근거가 없다고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f0d01432ccdf",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "노드스트림 파이프라인 공격 혐의 우크라이나인 독일서 재판",
+      "link": "https://www.dw.com/en/nord-stream-germany-puts-suspected-ukrainian-pipeline-saboteur-on-trial/a-79647617?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-10-13T12:40:00.000Z",
+      "description": "A Ukrainian citizen faces court in Hamburg, accused of attacking the Nord Stream gas pipelines in 2022. It raises questions about Kyiv's possible role in the explosions. German support for Ukraine is also under scrutiny.",
+      "author": null,
+      "summary": "2022년 노드스트림 가스 파이프라인 공격 혐의로 우크라이나 국민이 독일 함부르크에서 재판에 회부됐으며, 키예프의 가능한 역할에 대한 의문이 제기되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ec3dc2f81157",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "크리스타 파이크 사형 집행 오류, 긴급통화 기록 공개",
+      "link": "https://www.bbc.co.uk/news/videos/cqpvgrkp0xpyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-13T12:03:51.000Z",
+      "description": "A series of calls, obtained by the Associated Press, reveal emergency services were delayed in reaching Pike.",
+      "author": null,
+      "summary": "크리스타 파이크의 사형 집행 과정에서 오류가 발생했으며, 긴급 통화 기록이 공개돼 응급 서비스의 지연이 드러났다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e90ca3495da9",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "정부, 트럼프 광고에 수백만 달러 지출…일한 오마르 의원 집 수색",
+      "link": "https://www.npr.org/2026/10/13/g-s1-147822/up-first-newsletter-trump-ads-funding-campaign-rallies-ilhan-omar",
+      "publishedAt": "2026-10-13T11:08:14.000Z",
+      "description": "The government is using millions of taxpayers' dollars on pro-Trump ads, even after the president said this would not happen. And, federal agents search Rep. Ilhan Omar's D.C. home.",
+      "author": "Brittney Melton",
+      "summary": "정부가 대통령의 약속에도 불구하고 친트럼프 광고에 납세자의 수백만 달러를 지출하고 있으며, 연방 수사관이 일한 오마르 하원의원의 워싱턴 집을 수색했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8e54b6ccad51",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "파키스탄, 임란 칸 당 통치 지역에 비상통치령 발령",
+      "link": "https://www.npr.org/2026/10/13/nx-s1-5998798/pakistan-imposes-emergency-rule-in-former-prime-ministers-stronghold",
+      "publishedAt": "2026-10-13T10:51:33.000Z",
+      "description": "Pakistan has imposed emergency rule in the province governed by the political party of imprisoned former prime minister Imran Khan.",
+      "author": "Betsy Joles",
+      "summary": "파키스탄이 수감 중인 전 총리 임란 칸의 정당이 지배하는 펀자브(Punjab) 주에 비상통치령을 발령했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "4a12644c0ab2",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "브라질 대법원 스캔들, 볼소나루 가문 권력 복귀 길 열어",
+      "link": "https://www.theguardian.com/world/2026/oct/13/scandal-brazil-court-jair-flavio-bolsonaro-power-election-moraes-lula",
+      "publishedAt": "2026-10-13T10:00:05.000Z",
+      "description": "The judge who helped convict Jair Bolsonaro is caught up in a crisis that could benefit his son and damage Lula Marina Silva on Flávio Bolsonaro: He will try to finish his father’s ‘perverse project’ to destroy the Amazon Thundering to a crowd of thousands of far-right supporters in São Paulo on 7 September, Brazil’s Independence Day, the senator Flávio Bolsonaro focused less on his opponent in the presidential election, the leftist president Luiz Inácio Lula da Silva, than on someone who is not running at all. “Whoever votes for Lula is voting for Alexandre de Moraes,” Bolsonaro shouted, refe",
+      "author": "Tiago Rogero in Rio de Janeiro",
+      "summary": "자이르 볼소나루를 유죄 판결한 판사가 위기에 처하면서 그 아들 플라비오 볼소나루가 아마존 파괴 정책을 추진하려 하고 있으며, 현 좌파 정부를 공격하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f9ac8574bd79",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "라틴아메리카 범죄조직, 유럽 16개국에서 활동하는 것으로 추정",
+      "link": "https://www.theguardian.com/global-development/2026/oct/13/latin-america-organised-crime-cartels-drugs-cocaine-europe",
+      "publishedAt": "2026-10-13T07:00:18.000Z",
+      "description": "Cocaine seizures in Europe are up more than fivefold in 10 years as a host of cartels take root. A four-month Guardian investigation reveals the true scale of a continent-wide shift A four-month investigation by the Guardian has revealed that the surge in cocaine trafficking to Europe is directly linked to the expanding presence of Latin American criminal networks in Europe, where they have forged close ties with local mafia organisations. The investigation, utilising databases, police and intelligence agencies, along with interviews with judges, prosecutors and experts from eight countries, s",
+      "author": "Andrei Netto in Paris",
+      "summary": "지난 10년간 유럽의 코카인 적발량이 5배 이상 증가했으며, 라틴아메리카 범죄 조직이 유럽에 뿌리 내려 현지 마피아와 밀접한 관계를 형성하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "45a636e9b1c4",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]15년 만에 2차 세종 이전… '왕복 근무-반쪽 이주'부터 해결해야",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261013/134836844/2",
+      "publishedAt": "2026-10-13T14:30:00.000Z",
+      "description": "내년부터 수도권에 남아 있는 44개 중앙부처와 행정기관이 단계적으로 세종시로 이전한다. 정부의 ‘수도권 잔류 최소화’ 원칙에 따라 이 기관에서 일하는 공무원 1만 명가량의 대이동도 예상된다. 13일 행정안전부에 따르면 44개 중앙행정기관, 공무원 9929명이 2027년부터 세종으로 이전한다. 업무 특성과 청사 확보 여건을 고려해 법무부 성평등가족부 금융위원회 등 27개 기관, 공무원 2995명이 먼저 옮긴다. 외교부 통일부 국방부 감사원 공소청 중대범죄수사청 경찰청 등 나머지 17개 기관도 청사 신축 후 2031년까지 차례대로 이전할 예정이다. 2027년 시작되는 2차 중앙행정기관 이전은 2012년 세종시 출범과 1차 행정기관 이전이 시작된 지 15년 만이다. 행정기관 이전은 단순히 몇 개 기관, 몇 명의 공무원을 옮겼느냐로 끝나지 않는다. 청사 건설에만 3조 원이 넘는 예산이 들어간다. 공공기관 통폐합과 수도권에 본사가 있는 162개 공공기관 이전의 전초전 성격도 있다. 1차",
+      "author": null,
+      "summary": "내년부터 44개 중앙부처가 세종시로 단계적 이전을 시작하고 1만여 명 공무원의 대이동이 예상되지만, 동아일보는 왕복 근무와 반쪽 이주 등 현안을 먼저 해결해야 한다고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e804b98a6813",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]더 막 나가는 鄭 장관과 남 얘기하듯 하는 康 대사",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261013/134836848/2",
+      "publishedAt": "2026-10-13T14:27:00.000Z",
+      "description": "정동영 통일부 장관이 12일 돌연 기자 간담회를 열고 자신의 ‘구성 핵시설’ 발언으로 시작된 미국의 북핵 정보 공유 제한에 대해 “미국이 틀렸다”고 말했다. 미국은 정 장관의 언급을 기밀 누설로 보고 제한 조치를 반년 넘게 이어오고 있는데, 이에 대해 정 장관은 공개적으로 한발 더 나아가 미국의 잘못이라고 주장한 것이다. 이날 강경화 주미 대사는 워싱턴 국정감사에서 “백악관과의 소통에 한계가 있음을 시인하겠다”고 했다. 대미 외교의 최전선에 있는 주미 대사가 한미 간 협의가 원활하지 않다고 공식 석상에서 밝힌 것 자체가 이례적인 일이다. 정 장관은 ‘한미 동맹은 전혀 이상이 없다’고 주장했다. 하지만 당장 마코 루비오 미국 국무장관만 해도 지난달 조현 외교부 장관에게 ‘한미 정보 협력’에 문제가 있다고 제기했다. 백악관 국가안보보좌관을 겸하는 루비오 장관은 미 외교안보 라인의 핵심이다. 정 장관의 ‘구성 발언’ 등을 미국이 얼마나 심각하게 받아들이고 있는지 보여준다. 우리 외교 당",
+      "author": null,
+      "summary": "정동영 장관이 북핵 정보 공유 제한에 대해 미국의 잘못이라고 공개 주장하고 강경화 대사가 한미 소통 한계를 인정함으로써, 동아일보는 한미 동맹의 균열을 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9e4413374829",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]\"대출 더 줄여야\" \"집값 급락 가능성\"… LH 사장의 오지랖",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261013/134836846/2",
+      "publishedAt": "2026-10-13T14:24:00.000Z",
+      "description": "이성훈 한국토지주택공사(LH) 사장이 12일 국회 국정감사에서 “집값 급락 가능성이 좀 많다”며 “지금 바로 집을 사지 않아도 손해 보지 않을 것”이라고 했다. 이 사장은 지난달 30일 기자간담회에서도 15억 원 이하 주택에 적용되는 6억 원의 주택담보대출 한도를 줄여야 한다고 주장했다. 발언 내용의 옳고 그름을 떠나서 LH 수장이 공급 해법 대신 집값 급락 가능성과 대출 규제를 논한 것은 주제넘은 일이다. 한국토지주택공사법에 명시된 LH의 임무는 토지의 취득·개발·비축·공급, 도시의 개발·정비, 주택의 건설·공급·관리 업무다. 부동산 시장 전망이나 대출 규제와 같은 거시 정책은 청와대와 정책당국, 금융당국이 종합적인 판단 아래 결정할 일이다. 집값 안정을 위해 LH에 부여된 임무는 양질의 주택을 실수요자들이 원하는 곳에 충분히 공급하는 것이다. 자신의 영역도 아닌 정책 방향을 왈가왈부할 것이 아니라 본업에 진력해야 마땅하다. 지난해 ‘9·7 대책’을 기점으로 공공택지 민간 매각",
+      "author": null,
+      "summary": "LH 사장이 집값 급락 가능성을 언급하며 대출 규제를 주장했으나, 동아일보는 부동산 정책은 정책당국의 영역이며 LH는 주택 공급에 집중해야 한다고 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "eb2bbb339390",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "AI의 가장 큰 위협은 우리가 목소리를 낼 수 없다는 생각이다",
+      "link": "https://www.theguardian.com/technology/commentisfree/2026/oct/14/ai-resistance-inevitability-is-choice-australia-digital-duty-of-care",
+      "publishedAt": "2026-10-13T14:00:07.000Z",
+      "description": "The tech bros and their highly paid sock puppets are banking on us giving in to their ‘inevitability doctrine’. But in Australia, and around the world, resistance is rising Of all the drivers of the populist wave, one of the most powerful is the sense of inevitability that surrounds what we are told is the march of progress. In presenting the future as a fait accompli, it poisons the civic well by dealing us out of the game. While the US clings on to its status as the oldest constitutional democracy, the unholy alliance between the tech overlords and the White House is creating its own AI real",
+      "author": "Peter Lewis",
+      "summary": "Peter Lewis는 기술 대기업들이 AI의 불가피성을 내세워 시민의 참여를 배제하려 한다고 비판하며, 호주와 전 세계에서 이에 맞서는 저항이 커지고 있다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ac9ed7d2cf10",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "1959년 소설이 AI에게 가르쳐줄 수 있는 것",
+      "link": "https://www.nytimes.com/video/opinion/100000011200170/what-this-1959-novel-can-teach-us-about-ai.html",
+      "publishedAt": "2026-10-13T13:50:02.000Z",
+      "description": "How will we be able to tell whether A.I. is conscious? On “The Opinions,” the columnist Carlos Lozada draws on the 1959 novel “A Canticle for Leibowitz” to explore the line between intelligence and consciousness — and whether we’re asking the right questions about A.I.",
+      "author": null,
+      "summary": "NYT 칼럼니스트 Carlos Lozada는 1959년 소설 '레이보위츠의 연도기(A Canticle for Leibowitz)'를 통해 AI의 의식과 지능의 경계를 탐구하며, AI에 대해 올바른 질문을 던지고 있는지 검토해야 한다고 제시했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d0406c60373f",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[논설위원의 단도직입] \"반도체 씹어먹고 살 건가요…농업이 무너지면 식량안보도 없어요\"",
+      "link": "https://www.khan.co.kr/article/202610132026005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-10-13T11:26:00.000Z",
+      "description": "엄청나 전국농민회총연맹 정책위원장엄청나 전국농민회총연맹 정책위원장이 지난 8일 서울 정동 경향신문사에서 포괄적·점진적 환태평양경제동반자협정(CPTPP), 농지 전수조사 등 농정 현안에 관해 인터뷰를 하고 있다. 그는 한국이 CPTPP에 가입할 경우 그나마 남은 영농 기반마저 무너질 수 있다고 우려했다. 성동훈 기자 zenism@kyunghyang.com19···",
+      "author": "김지환 논설위원",
+      "summary": "경향신문 논설위원은 전국농민회 정책위원장을 인터뷰하며, CPTPP 가입 시 한국의 영농 기반이 붕괴되고 식량안보가 위협받을 수 있다고 우려했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "83b9db1ff8ae",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[정희진의 낯선 사이]표현의 자유 vs 표현의 자유?",
+      "link": "https://www.khan.co.kr/article/202610132020005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-10-13T11:20:00.000Z",
+      "description": "‘표현의 자유는 공격의 자유가 아니다’라는 호소는 더 이상 설득력이 없게 되었다 보편주의적 세계관선 ‘내 표현의 자유는 옳고, 네 표현의 자유는 틀리다’라고 말할 수 없다 표현의 자유 전유 사태는 한국 사회의 보편주의에 대한 근본적인 검토가 없다면 지속될 것이다당대 한국 사회에서 표현의 자유처럼 당황스러운 개념도 없을 것이다. 지금 통용되는 표현의 자유는···",
+      "author": "정희진 월간 오디오매거진 ‘정희진의 공부’ 편집장",
+      "summary": "정희진 필자는 '표현의 자유는 공격의 자유가 아니다'라는 주장이 더 이상 설득력을 갖지 못하며, 한국 사회의 보편주의에 대한 근본적 검토 없이는 표현의 자유 논쟁이 계속될 것이라고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "04602d03590e",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "나는 소아과 의사다. AI가 아닌 인간관계 상실이 아이들의 가장 큰 위협이다",
+      "link": "https://www.theguardian.com/technology/2026/oct/13/human-connection-threat-children-ai-technology",
+      "publishedAt": "2026-10-13T11:00:56.000Z",
+      "description": "Amid worries about children’s relationship to tech, the solution is often spending more time talking openly with each other We have become obsessed with the idea that screens are destroying human connection. The evidence seems to be everywhere. Each week headlines warn of teenagers addicted to phones, a loneliness epidemic and the dangers of AI. The release of The Social Reckoning leads us to ask, “How bad were those guys at Meta?” and then ultimately wonder, “How bad am I if I still use Instagram?” In our day-to-day, we observe workers eating lunch alone while scrolling and friends choosing o",
+      "author": "Megan Moreno",
+      "summary": "소아과 의사 Megan Moreno는 화면이 인간관계를 파괴한다는 통념과 달리, 아이들에게 가장 큰 위협은 인간관계 상실이며 대면 대화를 통한 개방적 소통이 해결책이라고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "41f45bd4436a",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "촌스럽다? 맞다. 민망하다? 당연하다. 그래서 High School Musical은 여전히 우리의 비밀 열정이다",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/13/high-school-musical-film-back-london-stage",
+      "publishedAt": "2026-10-13T11:00:56.000Z",
+      "description": "I watched the filming of the first jazz-hands epic. Two decades on, its sparkle hasn’t faded – and now it’s back on the London stage Whenever I watch basketball, I come away disappointed that the players’ shoe squeaks didn’t jumpstart a choreographed dance number, just like in High School Musical. Whether it was a lunch break turning into a confession of closeted passions or a pep rally evolving into a flashmob, the 2006 Disney Channel movie proved that teen drama can always be solved through song. Quality entertainment? Meh. The corniest of lines? Oh, for sure. But the cheesiness was the poin",
+      "author": "Rachel Chang",
+      "summary": "Rachel Chang은 High School Musical이 촌스럽고 진부하지만 바로 그런 특징이 매력이며, 개봉 20년 후 런던 무대 복귀를 통해 그 빛이 바래지 않았다고 평가했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "90ca5dfec7c1",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "산불은 이제 진화 불가능해졌다",
+      "link": "https://www.nytimes.com/2026/10/12/opinion/wildfires-firefighters-climate-change.html",
+      "publishedAt": "2026-10-12T22:10:36.000Z",
+      "description": "This year’s fast moving, virtually irrepressible wildfire events are not the seasonal burns of decades past.",
+      "author": "John Vaillant",
+      "summary": "John Vaillant는 현재의 산불이 과거 수십 년간의 계절적 화염과 달리 빠르고 거의 진화 불가능한 형태로 변했다고 지적했다.",
+      "summarySource": "llm"
+    }
+  ],
+  "summarizedAt": "2026-10-14T01:03:03.888Z",
+  "summaryStats": {
+    "llm": 50,
+    "fallback": 0,
+    "model": "claude-haiku-4-5"
+  }
+}
