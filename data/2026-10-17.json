@@ -1,0 +1,900 @@
+{
+  "date": "2026-10-17",
+  "generatedAt": "2026-10-17T23:46:58.833Z",
+  "categories": [
+    {
+      "id": "it",
+      "label": "IT·과학·AI"
+    },
+    {
+      "id": "economy",
+      "label": "경제·금융"
+    },
+    {
+      "id": "politics",
+      "label": "정치·사회"
+    },
+    {
+      "id": "world",
+      "label": "세계·국제"
+    },
+    {
+      "id": "editorial",
+      "label": "사설·칼럼",
+      "opinion": true,
+      "summaryMaxChars": 220
+    }
+  ],
+  "feedStatus": [
+    {
+      "source": "Ars Technica",
+      "category": "it",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "Hacker News",
+      "category": "it",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "TechCrunch",
+      "category": "it",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "The Verge",
+      "category": "it",
+      "ok": true,
+      "matched": 5
+    },
+    {
+      "source": "블로터",
+      "category": "it",
+      "ok": true,
+      "matched": 25
+    },
+    {
+      "source": "전자신문",
+      "category": "it",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "ZDNet Korea",
+      "category": "it",
+      "ok": true,
+      "matched": 23
+    },
+    {
+      "source": "BBC Business",
+      "category": "economy",
+      "ok": true,
+      "matched": 4
+    },
+    {
+      "source": "The Guardian",
+      "category": "economy",
+      "ok": true,
+      "matched": 23
+    },
+    {
+      "source": "매일경제 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 7
+    },
+    {
+      "source": "연합뉴스",
+      "category": "economy",
+      "ok": true,
+      "matched": 22
+    },
+    {
+      "source": "경향신문 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 11
+    },
+    {
+      "source": "경향신문 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "노컷뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 7
+    },
+    {
+      "source": "서울신문",
+      "category": "politics",
+      "ok": true,
+      "matched": 1
+    },
+    {
+      "source": "연합뉴스 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 48
+    },
+    {
+      "source": "연합뉴스 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 18
+    },
+    {
+      "source": "SBS 뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 17
+    },
+    {
+      "source": "Al Jazeera",
+      "category": "world",
+      "ok": true,
+      "matched": 1
+    },
+    {
+      "source": "BBC World",
+      "category": "world",
+      "ok": true,
+      "matched": 17
+    },
+    {
+      "source": "NPR",
+      "category": "world",
+      "ok": true,
+      "matched": 4
+    },
+    {
+      "source": "The Guardian",
+      "category": "world",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "연합뉴스 국제",
+      "category": "world",
+      "ok": true,
+      "matched": 86
+    },
+    {
+      "source": "매일경제 증권",
+      "category": "economy",
+      "ok": true,
+      "matched": 5
+    },
+    {
+      "source": "경향신문 오피니언",
+      "category": "editorial",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "NYT Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 23
+    },
+    {
+      "source": "The Guardian Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 5
+    },
+    {
+      "source": "Washington Post Opinions",
+      "category": "editorial",
+      "ok": false,
+      "error": "HTTP 502",
+      "matched": 0
+    },
+    {
+      "source": "동아일보 사설",
+      "category": "editorial",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "동아일보 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 34
+    },
+    {
+      "source": "조선일보",
+      "category": "politics",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "동아일보 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 24
+    },
+    {
+      "source": "머니투데이",
+      "category": "economy",
+      "ok": false,
+      "error": "fetch failed",
+      "matched": 0
+    },
+    {
+      "source": "Wired",
+      "category": "it",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "DW News",
+      "category": "world",
+      "ok": true,
+      "matched": 15
+    }
+  ],
+  "items": [
+    {
+      "id": "3e32efe881ac",
+      "category": "it",
+      "source": "The Verge",
+      "region": "intl",
+      "title": "팟캐스트 혁신가 재드 아부므라드의 음향 디자인 철학",
+      "link": "https://www.theverge.com/entertainment/1013381/jad-abumrad-radiolab-dolly-parton-fela-kuti-podcast-interview",
+      "publishedAt": "2026-10-17T14:30:00.000Z",
+      "description": "It's hard to overstate Jad Abumrad's impact on the podcasting world. He created and hosted Dolly Parton's America and Fela Kuti: Fear No Man, two Peabody Award-winning shows that offered unprecedented looks at the lives of two of the most important music icons of the last century. Before that, though, he created Radiolab, an experimental NPR show that leaned heavily on creative sound design and eventually helped redefine what a podcast could be. In the early days of podcasting, shows were often just a couple of people talking at each other at a table (some still are), or lazily repackaged radi",
+      "author": null,
+      "summary": "Radiolab을 시작으로 팟캐스팅 세계를 재정의한 재드 아부므라드는 돌리 파튼의 이야기, 펠라 쿠티 다큐멘터리 등 페이비어드 어워드 수상작들을 제작했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ffaa9eca6aac",
+      "category": "it",
+      "source": "Hacker News",
+      "region": "intl",
+      "title": "Solar surpasses nuclear power globally for first time",
+      "link": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+      "publishedAt": "2026-10-17T14:01:01.000Z",
+      "description": "Article URL: https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/ Comments URL: https://news.ycombinator.com/item?id=50131256 Points: 450 # Comments: 294",
+      "author": "xbmcuser",
+      "summary": "Article URL: https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/ Comments URL: https://news.ycombinator.com/item?id=50131256 Points: 450 #…",
+      "summarySource": "rss"
+    },
+    {
+      "id": "81fe95dda9e8",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "경찰에 '체포'된 웰시코기…대체 무슨 죄?",
+      "link": "https://www.etnews.com/20261016000258",
+      "publishedAt": "2026-10-17T13:30:00.000Z",
+      "description": "경찰에 '체포'된 웰시코기의 사진이 화제가 되고 있습니다. 지난 14일 한 태국의 반려견 계정에는 코기 '당고'가 경찰관들에게 둘러싸인 채 다리에 수갑을 찬 모습이 공개됐습니다. 현지 매체에 따르면 견주는 당고와 산책하던 중 우연히 경찰관들을 만났습니다. 당고가 먼저 다가가 인사를 건네자 견주는 경찰관의 수갑을 보고 촬영 소품으로 빌려달라고 요청했습니다. 경찰관도 이를 허락했습니다. 그런데 다리에 수갑을 채우자 당고는 한숨을 쉬고 몸을 굳힌 채",
+      "author": "이창민",
+      "summary": "태국의 웰시코기가 경찰관들과 만나 수갑을 찬 모습이 촬영된 것은 견주가 경찰관의 수갑을 촬영 소품으로 빌려달라고 요청해 실현된 장난스러운 장면이었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f434738bd48c",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "롯데이노베이트, 베트남 데이터센터 공략 승부수는 '운영 경험'",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=675842",
+      "publishedAt": "2026-10-17T13:00:00.000Z",
+      "description": "롯데이노베이트가 베트남 초대형 데이터센터 시장을 겨냥해 국내에서 축적한 운영 경험을 수주 경쟁력으로 내세운다. 자체 데이터센터를 운영하며 확보한 기술력과 인력을 바탕으로 국내 대형 데이터센터의 장기 위탁운영 사업을 확대하고 있다. 이를 발판으로 베트남에서는 설계·구축·운영(DBO)을 아우르는 사업 기회를 확보해 데이터센터 사업의 해외 진출을 본격화하려는 전략이다. 안산 GCC 5년 운영 확보17일 롯데이노베이트에 따르면 회사는 7일 아이티센씨티에스와 안산 글로벌클라우드센터(GCC) 운영 및 데이터센터 사업 협력을 위한 업무협약(MO",
+      "author": "강준혁 기자",
+      "summary": "롯데이노베이트가 국내 데이터센터 운영으로 확보한 기술력과 인력을 바탕으로 베트남 시장에 진출하며 설계·구축·운영을 아우르는 종합 사업을 추진 중이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ef7d8b64fd3c",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "전 세계적으로 심해지는 암호화에 대한 압박",
+      "link": "https://www.wired.com/story/kernel-panic-encryption-is-getting-squeezed-from-all-sides/",
+      "publishedAt": "2026-10-17T12:00:00.000Z",
+      "description": "Canada’s planned surveillance law is the latest grim step in a series of threats to encryption that are spreading around the world.",
+      "author": "Matt Burgess, Lily Hay Newman",
+      "summary": "캐나다의 감시법 제정 계획을 포함해 암호화를 제약하려는 위협이 전 세계적으로 확산되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b06c7889cce7",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "\"지금은 놀 시간\"…세대·장르 넘나든 'NOL 페스티벌' 가보니",
+      "link": "https://zdnet.co.kr/view/?no=20261017200400",
+      "publishedAt": "2026-10-17T11:26:49.000Z",
+      "description": "[지디넷코리아]숙소부터 공연, 레저 예약까지 온라인에서만 이뤄지던 NOL을 통한 여가 경험을 오프라인에서 경험할 수 있는 축제가 열렸다. 아이돌, 인디 밴드, EDM 아티스트 등 여러 장르를 아우르는 가수의 공연을 준비해 다양한 세대의 NOL 플랫폼 이용객들을 모두 만족시킨 모습이다.17일 경기도 고양시 킨텍스 제2전시장에 구름 떼 같은 인파가 몰렸다. 바로 오는 18일까지 양일간 열리는 ‘NOL 페스티벌 2026’에 참여하기 위해 이날에만 5만~6만 명 가량의 관람객이 운집한 것이다.‘잇츠 놀타임(It’s NOL time)’을 슬로건으로 내건 NOL 페스티벌은 올해 처음 열린 행사로, 여행·공연·레저 등 다양한 여가 경험을 연결하는 NOL의 브랜드 정체성을 오프라인에서 만나볼 수 있도록 기획됐다. 총 60팀이 공연에 출연하며, 티켓 응모 건수는 약 180만 건으로 집계됐다.이번 공연은 세대와 장르를 아우르는 ‘슈퍼라이브 스테이지’, 글로벌 팬덤과 함께하는 ‘케이팝 스테이지’, 강렬한 사운드의 ‘EDM 스테이지’ 등 세 가지 콘셉트의 스테이지를 동시 운영한다.각 스테이지는 서로 다른 시간에 시작됐으며, 오후 1시에 슈퍼라이브 스테이지부터 막을 올렸다. 공연장",
+      "author": "박서린 기자",
+      "summary": "NOL 플랫폼이 오프라인 축제를 개최하여 아이돌, 인디밴드, EDM 등 다양한 장르의 60팀이 참여했고 이틀간 5~6만 명의 관객이 몰렸다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "acbf29a736c2",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "회의에서 상사는 더 적게 말해야 한다",
+      "link": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
+      "publishedAt": "2026-10-17T11:15:11.000Z",
+      "description": "Research suggests listening more while talking less. Killing aimless meetings can help, too.",
+      "author": "Lesley Evans Ogden, Knowable Magazine",
+      "summary": "과학 연구에 따르면 회의에서 말을 줄이고 경청을 늘리는 것이 효과적이며, 불필요한 회의를 줄이는 것이 생산성 향상에 도움이 된다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e59d62d137e4",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "토큰증권 인프라 앞섰지만…상품 공급 변수",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=675874",
+      "publishedAt": "2026-10-17T11:00:00.000Z",
+      "description": "토큰증권 제도 시행을 앞두고 증권사와 자산운용사의 인프라 구축이 속도를 내고 있지만 실제 시장 형성의 변수는 상품 공급으로 옮겨가고 있다. 공동 플랫폼과 자체 분산원장 구축이 잇따르는 가운데 해외에서는 거래할 토큰화 상품이 부족해 서비스 일정을 늦추는 사례까지 나왔다. 인프라 선점 경쟁에서 실제 발행 수요를 확보하고 반복 가능한 상품을 만드는 경쟁으로 무게중심이 이동하는 모습이다.17일 금융투자업계에 따르면 코스콤은 13개 증권사와 토큰증권 공동 플랫폼을 구축하고 있다. 발행과 계좌관리부터 기존 시스템과 분산원장 연계까지 공동으로",
+      "author": "조윤호 기자",
+      "summary": "토큰증권 제도 시행을 앞두고 증권사와 자산운용사가 인프라 구축을 진행 중이지만, 실제 시장 형성의 핵심은 충분한 상품 공급과 반복 가능한 상품 개발이 되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "188585f6b1af",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "CXMT, 3분기 매출 23조 전망...전년비 600% '껑충'",
+      "link": "https://zdnet.co.kr/view/?no=20261017151149",
+      "publishedAt": "2026-10-17T10:42:59.000Z",
+      "description": "[지디넷코리아]중국 창신메모리(CXMT)가 인공지능(AI) 열풍 수혜로 3분기 실적 대폭발을 예고했다. CXMT는 D램 메모리 시장에서 삼성전자와 SK하이닉스를 매섭게 추격 중이다. 17일 외신과 업계에 따르면 CXMT는 최근 실적 예고 공지에서 3분기 매출이 1147억~1197억 위안(약 22조 9500억~23조 9500억원)에 이를 것이라고 추정했다. 전년 동기 대비 589~619% 급증한 수치다. 전 분기 대비로도 15~20% 많다.CXMT 예고대로 3분기 실적이 나오면 1~3분기 누적 매출은 2650억~2700억 위안(약 53조~54조원)을 기록할 전망이다. 지난해 같은 기간(321억 위안)보다 725~741% 폭증한 수치다. 지난해 1~3분기 53억 위안(약 1조 600억원)이었던 순손실은 올해 같은 기간 1310억~1325억 위안(약 26조 2100억~26조 5100억원) 순이익을 달성하며 흑자전환할 것으로 관측된다. 실적 급등 배경은 지난해 하반기 이후 가속된 AI 컴퓨팅 파워 수요 증가다. CXMT는 \"지난해 하반기 이후 AI 컴퓨팅파워(연산력) 수요가 빠르게 늘었다\"며 \"세계적으로 D램 산업 경기가 올라가면서 제품 공급이 수요를 따라가지 못했",
+      "author": "전화평 기자",
+      "summary": "중국 창신메모리(CXMT)가 AI 수요 증가로 3분기 매출이 약 23조원에 달할 것으로 예상되며 전년 동기 대비 600% 가까이 증가할 전망이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8a848b0f2494",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "마크 월버그, 저가형 헬스장으로 장수 스타트업 시장 공략",
+      "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
+      "publishedAt": "2026-10-17T02:36:18.000Z",
+      "description": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing a trust fund.",
+      "author": "Connie Loizos",
+      "summary": "배우 마크 월버그가 과거 상장폐지된 헬스장 사업에 이어 새로운 체인을 구축하고 있으며, 신뢰할 수 있는 가격에 냉수 침수, 혈액검사, 단백질 머핀 등을 제공하겠다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d000e6e9ad99",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "Elon Musk agrees to settle lawsuits over 2024 election lottery",
+      "link": "https://www.theguardian.com/technology/2026/oct/17/elon-musk-2024-million-dollar-promise-lawsuit",
+      "publishedAt": "2026-10-17T14:42:11.000Z",
+      "description": "Trump-boosting billionaire was sued over promise to give away $1m per day to random signatories of petition Elon Musk and his ⁠America Pac political action committee said recently that they agreed to settle two ⁠proposed class ⁠actions ​alleging the billionaire entrepreneur defrauded residents in closely contested states before the ⁠2024 US election by promising voters a lottery-style daily $1m giveaway. The plaintiffs, Musk and America Pac ​told the ‌judge overseeing the two ‌related lawsuits in federal court in Austin, Texas, ‌on Thursday that they have reached settlements subject to court a",
+      "author": "Reuters",
+      "summary": "Trump-boosting billionaire was sued over promise to give away $1m per day to random signatories of petition Elon Musk and his ⁠America Pac political action committee said recently…",
+      "summarySource": "rss"
+    },
+    {
+      "id": "5b3f318d3f16",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "Low-cost clinic helps pet owners with vet bills",
+      "link": "https://www.bbc.co.uk/news/articles/c6kgl39rnnvzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-17T14:12:02.000Z",
+      "description": "RSPCA Medway West launches its clinic for the pets of people with low incomes.",
+      "author": null,
+      "summary": "RSPCA Medway West launches its clinic for the pets of people with low incomes.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "d8024323ef12",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "Move over, pervert glasses – the latest toxic trend is robogroping",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/17/smartglasses-robogroping-toxic-trends",
+      "publishedAt": "2026-10-17T13:00:31.000Z",
+      "description": "Whenever a new technology is created, it will, without exception, immediately be used to harass girls and women You may be familiar with rule 34 of the internet, which states that if something exists or can be imagined, there will almost certainly be online porn of it. Now let me introduce my rule 35: whenever a new technology is created, it will, without exception, immediately be used to harass girls and women. See, for example, Meta’s “pervert glasses”. As anyone could have foreseen, putting a tiny camera and microphone into smartglasses would immediately lead to people using them to record ",
+      "author": "Arwa Mahdawi",
+      "summary": "Whenever a new technology is created, it will, without exception, immediately be used to harass girls and women You may be familiar with rule 34 of the internet, which states that…",
+      "summarySource": "rss"
+    },
+    {
+      "id": "fa9cf496867e",
+      "category": "economy",
+      "source": "동아일보 경제",
+      "region": "kr",
+      "title": "1246회 로또 1등 ‘16, 22, 23, 24, 27, 28’…보너스 ‘6’",
+      "link": "https://www.donga.com/news/Society/article/all/20261017/134859204/1",
+      "publishedAt": "2026-10-17T12:05:17.000Z",
+      "description": "17일 제1246회 동행복권 로또 추첨 결과 ‘16, 22, 23, 24, 27, 28’이 1등 당첨 번호로 결정됐다. 2등 보너스 번호는 ‘6’이다.6개 번호를 모두 맞춘 1등 당첨자는 16명이다. 각각 18억8102만5430원을 받는다.5개 번호와 보너스 번호를 맞춘 2등은 64명으로 1인당 당첨금은 7837만6060원이다.5개 번호를 맞춘 3등 당첨자는 3350명으로 각각 149만7334원을 받는다.4개 번호를 맞춘 4등 당첨자 15만5108명은 5만원씩을, 3개 번호를 맞춘 5등 당첨자 260만8922명은 5000원씩 가져간다.당첨금 지급 기한은 지급 개시일로부터 1년 이내다. 당첨금 지급 마지막 날이 휴일이면 다음 영업일까지 받을 수 있다.[서울=뉴시스]",
+      "author": null,
+      "summary": "17일 제1246회 동행복권 로또 추첨 결과 ‘16, 22, 23, 24, 27, 28’이 1등 당첨 번호로 결정됐다. 2등 보너스 번호는 ‘6’이다.6개 번호를 모두 맞춘 1등 당첨자는 16명이다.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "487d3da2577d",
+      "category": "economy",
+      "source": "동아일보 경제",
+      "region": "kr",
+      "title": "아이폰18 일반형, 11월 말 생산 시작설…내년 3월 출시 전망",
+      "link": "https://www.donga.com/news/It/article/all/20261017/134859196/1",
+      "publishedAt": "2026-10-17T11:57:42.000Z",
+      "description": "애플이 아이폰18 일반형 모델의 생산을 오는 11월 말 시작하고 내년 3월 출시할 것이라는 전망이 나왔다.17일 IT 전문매체 GSM아레나와 테크어드바이저 등에 따르면 중국 IT 팁스터 ‘픽스드 포커스 디지털’은 애플이 11월 말부터 아이폰18 일반형 모델 생산에 들어갈 예정이라고 주장했다.이 팁스터는 애플이 준비 중인 재고 물량을 고려할 때 상당한 규모의 생산이 이뤄질 것으로 예상했다. 또 다른 IT 팁스터 ‘사우라브’도 애플이 아이폰18의 대규모 생산을 계획하고 있다는 주장을 전했다.애플은 지난 9월 아이폰18 프로와 아이폰18 프로 맥스를 먼저 공개했다. 기존에는 일반형과 프로 모델을 같은 시기에 선보였지만 올해는 신제품 출시 일정을 분리했다.외신들은 애플이 아이폰18 일반형을 내년 3월 보급형 모델인 아이폰18e와 함께 공개할 것으로 내다봤다. 11월 말 생산이 시작된다면 출시까지 약 4개월간 제품 물량을 확보할 수 있다는 계산이다.다만 생산 물량에 대해서는 상반된",
+      "author": null,
+      "summary": "애플이 아이폰18 일반형 모델의 생산을 오는 11월 말 시작하고 내년 3월 출시할 것이라는 전망이 나왔다.17일 IT 전문매체 GSM아레나와 테크어드바이저 등에 따르면 중국 IT 팁스터 ‘픽스드 포커스 디지털’은 애플이 11월 말부터 아이폰18 일반형 모델 생산에 들어갈 예정이라고 주장했다.이 팁스터는 애플이 준비 중인…",
+      "summarySource": "rss"
+    },
+    {
+      "id": "32b8bd76b19a",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "“보험 어디서 들까?” 물어보니…AI가 꼽은 ‘1등 금융사’는 어디",
+      "link": "https://www.mk.co.kr/news/economy/12178581",
+      "publishedAt": "2026-10-17T11:51:08.000Z",
+      "description": "AI 답변, 실제 시장 비중과 차이도 자체 콘텐츠와 상품 설명 영향 有생성형 인공지능(AI)에게 금융상품을 물으면 어떤 금융사가 가장 많이 거론될까. AI 브랜드 분석 전문기업 에..",
+      "author": "매일경제",
+      "summary": "AI 답변, 실제 시장 비중과 차이도 자체 콘텐츠와 상품 설명 영향 有생성형 인공지능(AI)에게 금융상품을 물으면 어떤 금융사가 가장 많이 거론될까. AI 브랜드 분석 전문기업 에..",
+      "summarySource": "rss"
+    },
+    {
+      "id": "71e156bc0424",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "한은 총재 \"화폐의 단일성 중요…한은금융망 국제화 추진\"",
+      "link": "https://www.yna.co.kr/view/AKR20261017043100002",
+      "publishedAt": "2026-10-17T10:32:30.000Z",
+      "description": "(서울=연합뉴스) 이도흔 기자 = 신현송 한국은행 총재가 국경 간 지급결제 시스템을 개선하기 위한 한은금융망의 국제화 구상을 소개하며 화폐의 단...",
+      "author": "이도흔",
+      "summary": "(서울=연합뉴스) 이도흔 기자 = 신현송 한국은행 총재가 국경 간 지급결제 시스템을 개선하기 위한 한은금융망의 국제화 구상을 소개하며 화폐의 단...",
+      "summarySource": "rss"
+    },
+    {
+      "id": "b963d6e6f0a5",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "“실손보험료 낮춰 볼까”…할인형 특약과 세대 전환 다음 달 도입 앞둬",
+      "link": "https://www.mk.co.kr/news/economy/12178564",
+      "publishedAt": "2026-10-17T10:24:14.000Z",
+      "description": "실손 1~2세대 가입자 보험료 부담 비급여 보장 제외해 보험료 낮출수도 5세대로 전환하면 일정 기간 할인다음 달에 1~2세대 초기 실손보험 가입자의 보험료 부담을 줄일 선택형 할인..",
+      "author": "매일경제",
+      "summary": "실손 1~2세대 가입자 보험료 부담 비급여 보장 제외해 보험료 낮출수도 5세대로 전환하면 일정 기간 할인다음 달에 1~2세대 초기 실손보험 가입자의 보험료 부담을 줄일 선택형 할인..",
+      "summarySource": "rss"
+    },
+    {
+      "id": "90516e03763c",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "[동포의 창] 美 유타서 한인상의 공동 주최 비즈니스 엑스포 성황",
+      "link": "https://www.yna.co.kr/view/AKR20261017042600371",
+      "publishedAt": "2026-10-17T09:40:09.000Z",
+      "description": "(서울=연합뉴스) 박현수 기자 = 미국 유타주에서 한인 기업과 현지 주류사회 경제인들이 한자리에 모여 사업 기회를 모색하고 협력 네트워크를 확대...",
+      "author": "박현수",
+      "summary": "(서울=연합뉴스) 박현수 기자 = 미국 유타주에서 한인 기업과 현지 주류사회 경제인들이 한자리에 모여 사업 기회를 모색하고 협력 네트워크를 확대...",
+      "summarySource": "rss"
+    },
+    {
+      "id": "c1dcae82914e",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "트럼프에 뺨 맞은 하버드…‘여기’ 투자 성공해 자산 90조원 돌파",
+      "link": "https://www.mk.co.kr/news/stock/12178557",
+      "publishedAt": "2026-10-17T09:25:43.000Z",
+      "description": "최근 1년간 수익률 27.1% 기록 꾸준한 VC·헤지펀드 높은 수익 덕분 스페이스X 주식만 22억달러 보유 연구자금 삭감·세금 인상은 ‘난관’미국 하버드대학교 기금이 사상 최고 수..",
+      "author": "매일경제",
+      "summary": "최근 1년간 수익률 27.1% 기록 꾸준한 VC·헤지펀드 높은 수익 덕분 스페이스X 주식만 22억달러 보유 연구자금 삭감·세금 인상은 ‘난관’미국 하버드대학교 기금이 사상 최고 수..",
+      "summarySource": "rss"
+    },
+    {
+      "id": "419b048bb583",
+      "category": "politics",
+      "source": "SBS 뉴스",
+      "region": "kr",
+      "title": "'777' 정보 예산 반 토막…미국과 정보 공유 차질?",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008802313",
+      "publishedAt": "2026-10-17T14:41:00.000Z",
+      "description": "대북 특수정보를 수집하는 777사령부의 올해 정보활동비가 반토막 났습니다. 정보사령부와 방첩사령부의 정보활동 예산도 대폭 준 걸로 나타났습니다.",
+      "author": "oneway@sbs.co.kr (김태훈)",
+      "summary": "대북 정보수집 담당 777사령부의 올해 정보활동비가 반으로 줄었고, 정보사령부와 방첍사령부의 예산도 대폭 감소했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "be7063fa33bd",
+      "category": "politics",
+      "source": "연합뉴스 사회",
+      "region": "kr",
+      "title": "인천 백령도·대청도에 강풍주의보…서해에 풍랑주의보",
+      "link": "https://www.yna.co.kr/view/AKR20261017048900527",
+      "publishedAt": "2026-10-17T14:09:23.000Z",
+      "description": "(인천=연합뉴스) 기상청은 17일 오후 11시를 기해 백령도·대청도에 강풍주의보를 발효했다고 밝혔다.",
+      "author": "기상뉴스",
+      "summary": "기상청이 17일 오후 11시부터 인천 백령도·대청도에 강풍주의보를 발효하고 서해에 풍랑주의보를 내렸다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "cc2c86dc8ff0",
+      "category": "politics",
+      "source": "노컷뉴스",
+      "region": "kr",
+      "title": "부산경찰, 이상동기 범죄 차단 총력…인파 밀집지역 특별순찰 강화",
+      "link": "https://www.nocutnews.co.kr/news/6592908",
+      "publishedAt": "2026-10-17T13:48:08.000Z",
+      "description": "최근 인천에서 발생한 흉기 난동 사건을 계기로 부산경찰이 이상동기 범죄를 막기 위한 특별치안활동에 나섰다. 부산경찰청은 시민 불안감을 해소하고 유사 범죄를 예방하기 위해 경찰력을 최대한 투입해 다중운집시설과 주요 관광지, 축제 현장 등에 대한 순찰을 강화한다고 17일 밝혔다. 부산지역에는 현재 다중운집시설 97곳이 있으며, 오는 11월까지 두 달 동안 49개 축제가 예정돼 있다. 경찰은 이처럼 유동 인구가 많은 장소를 중심으로 범죄 예방 활동을 집중적으로 펼치는 한편, 자율방범대와 민간경비업체 등과 협력해 현장 대응력을 높일 방침이다. 이상동기 범죄가 의심되는 112신고에 대해서는 긴급신고에 해당하는 '코드1' 이상을 부여해 신속하게 출동하고, 상황에 따라 최고 긴급단계인 '코드0'로 대응 수준을 높이기로 했다. 특히 흉기를 소지한 행위만으로도 범행 전후 정황과 피의자의 과거 전력 등을 면밀하게 조사하고, 구속 수사를 원칙으로 엄정 대응할 계획이다.",
+      "author": null,
+      "summary": "부산경찰이 인천 흉기 난동 사건을 계기로 인파 밀집지역에 순찰을 강화하고, 이상동기 범죄 신고에 최고 긴급단계로 대응하며 흉기 소지 행위도 엄정 조사하기로 했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "cfaf55b56070",
+      "category": "politics",
+      "source": "연합뉴스 사회",
+      "region": "kr",
+      "title": "아산 곡교천서 물놀이하던 20대 외국인 숨져",
+      "link": "https://www.yna.co.kr/view/AKR20261017047500063",
+      "publishedAt": "2026-10-17T12:48:37.000Z",
+      "description": "(아산=연합뉴스) 이주형 기자 = 17일 오후 6시 18분께 충남 아산시 인주면 곡교천에서 20대 외국인 A씨가 물에 빠졌다.",
+      "author": "이주형",
+      "summary": "17일 오후 6시 18분께 충남 아산시 인주면 곡교천에서 물놀이하던 20대 외국인이 물에 빠져 숨졌다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "77b3631c84b2",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "조국혁신당, 부천 화재 소방공무원 순직 애도…\"처우 개선 노력\"",
+      "link": "https://www.donga.com/news/Politics/article/all/20261017/134859209/1",
+      "publishedAt": "2026-10-17T12:18:24.000Z",
+      "description": "조국혁신당이 부천 공장 화재 진압 과정에서 숨진 고(故) 김진석 소방위에 대해 “깊은 슬픔과 비통함을 금할 길 없다”고 애도를 표했다.임명희 조국혁신당 대변인은 17일 서면 브리핑을 통해 “숭고한 희생과 헌신에 머리 숙여 깊은 경의를 표하며, 고인의 명복을 진심으로 빈다”며 이같이 말했다.임 대변인은 “국민의 생명과 안전을 위해 위험천만한 재난 현장에서 주저함 없이 기꺼이 자신을 바치셨던 고인의 거룩한 헌신을 잊지 않겠다”고 했다.이어 “매 순간 생사를 넘나드는 급박한 현장에서 국민의 삶을 지키지만 정작 자신들의 안전을 위협받고 있는 소방대원들의 현실은 여전히 참담하다”고 지적했다.임 대변인은 “현장의 안전 관리 체계를 철저히 점검하고 보완하는 일은 국가의 당연한 책무”라며 “실질적인 처우 개선과 충분한 제도적 지원이 이루어질 수 있도록 모든 노력을 다하겠다”고 했다.그는 “다시 한번 고인의 영전에 깊은 애도를 표하며, 영원한 안식을 기원한다”고 했다.조국혁신당에서는 신장",
+      "author": null,
+      "summary": "조국혁신당이 부천 공장 화재로 순직한 김진석 소방위를 추도하며 소방대원들의 처우 개선과 안전 관리 체계 점검을 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f3cc425308be",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "로또 1246회 당첨번호 '16·22·23·24·27·28'…1등 당첨금 18억원",
+      "link": "https://www.khan.co.kr/article/202610172103001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-10-17T12:03:00.000Z",
+      "description": "동행복권 홈페이지 갈무리.로또복권 운영사 동행복권은 제1246회 로또복권 추첨에서 ‘16·22·23·24·27·28’이 1등 당첨번호로 뽑혔다고 17일 밝혔다. 2등 보너스 번호는 ‘6’이다.당첨번호 6개를 모두 맞힌 1등 당첨자는 16명으로, 각 18억8102만5430원을 받는다.당첨번호 5개와 보너스 번호가 일치한 2등은 64명으로 각각 7837만606···",
+      "author": "심윤지 기자",
+      "summary": "제1246회 로또 1등 당첨번호는 '16·22·23·24·27·28'이며 16명의 당첨자가 각각 18억 8천만원을 받는다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "063246e12cdf",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "이 대통령, 부천 화재 순직 소방관 빈소 조문···\"희생 영원히 기억할 것\"",
+      "link": "https://www.khan.co.kr/article/202610171937001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-10-17T10:37:00.000Z",
+      "description": "이재명 대통령이 17일 경기도 순천향대학교 부천병원 장례식장에 마련된 고(故) 김진석 소방위의 빈소를 조문하고 있다. 청와대 제공순천향대부천병원 김진석 소방위 장례시장 찾아영정 앞에 옥조근정훈장 올리고 유가족 위로“고인의 딸, 7살” 답변에 한동안 먹먹한 표정이재명 대통령은 17일 부천 공장 화재로 순직한 고(故) 김진석 소방위의 빈소를 찾아 ···",
+      "author": "심윤지 기자",
+      "summary": "이재명 대통령이 17일 부천 공장 화재로 순직한 김진석 소방위의 빈소를 조문했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1f1efd6026b8",
+      "category": "politics",
+      "source": "조선일보",
+      "region": "kr",
+      "title": "정형돈, 5년 기러기 생활 끝낸 소감 \"자식 통해 보상받고 파..♥한유라가 고생\"(한작가)",
+      "link": "https://www.chosun.com/entertainments/broadcast/2026/10/17/GRSTMOLEGFRWEZLEGUYDOMBXHE/",
+      "publishedAt": "2026-10-17T10:11:00.000Z",
+      "description": "[OSEN=임혜영 기자] 개그맨 정형돈의 아내 한유라가 하와이를 떠났다.17일 채널 ‘한작가’에는 ‘하와이 생활을 접는 우리의 자세’라는 영상이 게재됐다.한유라는 쌍둥이 딸과 5년간의 하와이 생활을 마치고 한국으로 돌아왔다며 하와이에서 보낸 마지막 한 달을 공개했다.하와이에서 함께 시간을 보내던 정형돈에게 한유라는 “5년간의 독수리 생활을 마치고 금의환향하",
+      "author": "OSEN",
+      "summary": "개그맨 정형돈의 아내 한유라가 쌍둥이 딸과 함께 5년간의 하와이 생활을 마치고 한국으로 돌아왔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ea5170d28eb5",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "與김병주 \"주한미군 사령관, 대한민국 영토주권 침해 사과해야\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261017038951001",
+      "publishedAt": "2026-10-17T10:05:01.000Z",
+      "description": "(서울=연합뉴스) 최평천 기자 = 대통령 국방정책특보인 더불어민주당 김병주 의원은 17일 '대한민국은 남쪽 철책선에서 시작한다'는 브런슨 주한미...",
+      "author": "최평천",
+      "summary": "더불어민주당 김병주 의원이 주한미군 사령관의 영토주권 침해에 대한 사과를 요구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "81b4b906b149",
+      "category": "politics",
+      "source": "서울신문",
+      "region": "kr",
+      "title": "홍준표 \"尹, 한동훈 하도 깐죽대서 '패 죽이고 싶다'고 하더라\"",
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20261017500027",
+      "publishedAt": "2026-10-17T05:05:23.000Z",
+      "description": "홍준표 전 대구시장이 한동훈 무소속 의원을 향해 강도 높은 비판을 쏟아내며 윤석열 전 대통령이 과거 한 의원에 대해 “패 죽이고 싶었다”고 말했다는 일화를 공개했다. 홍준표 전 시장은 17일 공개된 KBC 광주방송 ‘여의도 중진대담’에서 “한동훈이라는 친구는 좀 깐죽댄다”며 이같이 밝혔다. 그는 “윤석열 대통령하고 있을 때도 윤통이 나하고 만나서 그러더라. ‘패 죽이고 싶었다’고. 하도 깐죽대니까”라고 말했다. 홍준표 전 시장은 한동훈 의원이 문재인 정부 시절 검찰 수사에 관여하고 자신을 중용했던 윤 전 대통령에게 등을 돌렸다며 “자기가 저지른 그런 배신행위는 씻기 어려울 것”이라고 비판했다. 한동훈 의원이 차기 대권주자 여론조사에서 높은 순위를 기록하는 데 대해서도 “윤석열하고 같이 있을 때 대한민국 제2인자였다”며 “그 잔영이 아직 남아 보수 진영에 투영되고 있는 것에 불과하다”고 평가절하했다. 이어 “옛날 DJ처럼 20～30%가 되는 등수냐”며 “맹신자들 중에서 끌어모은 게 한 10% 된다는 뜻”이라고 주장했다. 한동훈 의원 등을 중심으로 한 보수 재건론에도 부정적인 입장을 보였다. 홍준표 전 시장은 “보수 괴멸의 주범들이 보수를 재건한다고 하는 게 코",
+      "author": "김유민 기자",
+      "summary": "홍준표 전 대구시장이 한동훈 의원을 비판하며 윤석열 전 대통령이 과거 한 의원을 두고 \"패 죽이고 싶다\"고 표현했다는 일화를 공개했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c850fa95c37f",
+      "category": "world",
+      "source": "Al Jazeera",
+      "region": "intl",
+      "title": "튀니지서 생활고·정치탄압 항의 수년 만의 대규모 시위",
+      "link": "https://www.aljazeera.com/news/2026/10/17/thousands-rally-for-biggest-protest-in-years-against-tunisias-saied?traffic_source=rss",
+      "publishedAt": "2026-10-17T14:57:24.000Z",
+      "description": "Unions, opposition groups unite to demonstrate against poor living conditions and restrictions on political freedoms.",
+      "author": null,
+      "summary": "노조와 야당이 경제 악화와 정치적 자유 제한에 항의하기 위해 튀니지에서 수년 만의 대규모 시위를 개최했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ac0b6e70c2c1",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "중국의 게임산업 영향력 확대, 전 세계 게이머 영향",
+      "link": "https://www.dw.com/en/china-s-influence-in-the-gaming-industry-is-growing/a-79484755?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-10-17T14:49:00.000Z",
+      "description": "Home to more than 700 million gamers, China is the world's largest gaming market — but it's also one of the most tightly regulated. The effects reach far beyond China, impacting players around the world.",
+      "author": null,
+      "summary": "7억 명 이상의 게이머를 보유한 중국은 세계 최대 게임 시장이지만 규제가 엄격해 전 세계 게이머들에게 영향을 미친다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "867ed52e8739",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "이집트 대통령 \"사우디 방어 위한 군사지원 채비\"",
+      "link": "https://www.yna.co.kr/view/AKR20261017049300079",
+      "publishedAt": "2026-10-17T14:31:02.000Z",
+      "description": "(카이로=연합뉴스) 김상훈 특파원 = 압델 파타 엘시시 이집트 대통령이 예멘 후티 반군의 공격을 받는 사우디아라비아 방어를 위해 군사적 지원을 ...",
+      "author": "김상훈",
+      "summary": "엘시시 이집트 대통령이 예멘 후티 반군의 공격을 받는 사우디아라비아 방어를 위해 군사 지원을 준비할 것이라고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "73fdd2b1bb3c",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "프랑스서 이번엔 고물가 항의 대규모 시위…곳곳서 격렬 충돌",
+      "link": "https://www.yna.co.kr/view/AKR20261017049200098",
+      "publishedAt": "2026-10-17T14:28:03.000Z",
+      "description": "(브뤼셀=연합뉴스) 현윤경 특파원 = 열악한 교육 환경 개선을 요구하는 고교생들의 분노 함성이 4주째 이어지고 있는 프랑스에서 17일(현지시간)...",
+      "author": "현윤경",
+      "summary": "교육 환경 개선을 요구하는 고교생들의 시위가 4주째 계속되고 있으며, 고물가에 항의하는 대규모 시위에서 곳곳 격렬한 충돌이 발생했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c47d0fcbc9e9",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "교황 레오, 폐암 수술 후 퇴원",
+      "link": "https://www.theguardian.com/world/2026/oct/17/pope-leo-discharged-from-hospital-after-cancer-operation",
+      "publishedAt": "2026-10-17T13:41:49.000Z",
+      "description": "Doctors say pontiff is ‘fit for discharge’ after operation to remove cancerous tumour from his lung Pope Leo lung cancer surgery: what kind of operation did he have and what happens next? Pope Leo has been discharged from hospital in Rome after undergoing an operation to remove a cancerous tumour from his lung. Leo, 71, was deemed “fit for discharge”, his doctors, Luigi Carbone and Stefano Margaritora, said in a statement published by the Vatican. Continue reading...",
+      "author": "Angela Giuffrida in Rome",
+      "summary": "71세의 교황 레오가 폐의 악성종양을 제거하는 수술을 받은 후 로마 병원에서 퇴원했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3bf5ceab24af",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "이사벨 알렌데, 가명으로 스페인 문학상 100만 유로 수상",
+      "link": "https://www.theguardian.com/books/2026/oct/17/isabel-allende-wins-premio-planeta-spanish-literary-prize-pseudonym",
+      "publishedAt": "2026-10-17T13:01:51.000Z",
+      "description": "Chilean-American author awarded Premio Planeta for sequel to her 1982 debut novel, The House of the Spirits The Chilean-American author Isabel Allende has won Spain’s €1m (£843,000) Premio Planeta, one of the world’s most lucrative literary prizes, under a pseudonym, with a sequel to her celebrated debut novel, The House of the Spirits. Allende, 84, won the 75th edition of the award on Thursday with La hora antes del alba, which returns to the characters of her 1982 novel, a multigenerational family saga set against political upheaval in a country inspired by Chile. Continue reading...",
+      "author": "Emma Loffhagen and Ella Creamer",
+      "summary": "84세의 칠레계 미국 작가 이사벨 알렌데가 1982년 데뷔작 『영령의 집』의 후속작으로 스페인 프리미오 플라네타 상을 가명으로 수상했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "82e0cb305f77",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "인도 '바퀴벌레' 운동 창립자 체포 하루 만에 석방",
+      "link": "https://www.dw.com/en/india-news-cjp-founder-released-a-day-after-detention/live-79685143?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-10-17T13:00:00.000Z",
+      "description": "India's \"Cockroach\" movement founder, Abhijeet Dipke, was released after agreeing to certain conditions, according to the CJP's head of legal affairs. DW has more.",
+      "author": null,
+      "summary": "인도의 '바퀴벌레' 운동 창립자 아비지트 딥케가 특정 조건에 동의한 후 체포 하루 만에 석방되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d4f87d4ea31e",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "중국 어린이집 원장, 아동 수백 명 중독시킨 혐의로 종신형",
+      "link": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-17T12:11:58.000Z",
+      "description": "She and five staff members were found to have used the inedible paint in meals to make them look more appealing.",
+      "author": null,
+      "summary": "중국의 어린이집 원장과 직원 5명이 식사를 더 매력적으로 보이게 하기 위해 먹을 수 없는 페인트를 사용해 수백 명의 아동을 중독시킨 혐의로 기소되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7ca04cbc0511",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "남아공 아파르트헤이트 피해자들, 30년 후에도 정의 추구",
+      "link": "https://www.npr.org/2026/10/17/nx-s1-5987671/south-africa-justice-sharpeville-apartheid",
+      "publishedAt": "2026-10-17T11:00:00.000Z",
+      "description": "More than three decades after the end of apartheid, families of victims of some of the worst crimes of South Africa's past are still fighting for justice. As survivors and perpetrators grow older, a new wave of legal efforts is seeking truth, accountability and reparations before it's too late.",
+      "author": "Kate Bartlett",
+      "summary": "아파르트헤이트 종료 30년이 지난 후, 남아프리카공화국의 피해자 유족들이 여전히 정의를 위해 싸우고 있으며, 새로운 법적 노력이 진실·책임·배상을 추구하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e36f6278c33c",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "희귀 핑크 다이아몬드, 1926년 도난 100년 후 프랑스서 전시",
+      "link": "https://www.bbc.co.uk/news/articles/c61m4zkx47vlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-17T10:46:41.000Z",
+      "description": "The French royal jewel will be on public display for the first time since it was found hidden in an apple after a 1926 theft.",
+      "author": null,
+      "summary": "1926년 아마추어 도난 후 사과에 숨겨져 발견된 프랑스 왕실 보석이 100년 만에 처음으로 대중에게 공개되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "eab7bddfc26b",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "게리맨더링을 끝내는 법",
+      "link": "https://www.nytimes.com/2026/10/17/opinion/gerrymandering-congress-black-voting.html",
+      "publishedAt": "2026-10-17T14:20:00.000Z",
+      "description": "A ban on extreme partisan gerrymandering could restore much of the congressional diversity that the Voting Rights Act initially made possible.",
+      "author": "The Editorial Board",
+      "summary": "NYT 사설진이 극단적 정파적 게리맨더링 금지를 통해 투표권법 시대의 의회 다양성 회복이 가능하다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "fce1b2d78261",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "우리의 존재 자체가 투표용지 위에 있다",
+      "link": "https://www.nytimes.com/video/opinion/100000011216076/our-very-existence-is-on-the-ballot.html",
+      "publishedAt": "2026-10-17T13:39:39.000Z",
+      "description": "Extreme gerrymandering permitted by the Supreme Court threatens to roll back decades of hard-won civil rights progress. We spoke to six Black lawmakers about what’s truly at stake.",
+      "author": null,
+      "summary": "6명의 흑인 의원들이 대법원이 허용한 극단적 게리맨더링이 수십 년간의 시민권 진전을 위협한다고 경고했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d8024323ef12",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "새 기술은 항상 여성을 괴롭히는 데 악용된다",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/17/smartglasses-robogroping-toxic-trends",
+      "publishedAt": "2026-10-17T13:00:31.000Z",
+      "description": "Whenever a new technology is created, it will, without exception, immediately be used to harass girls and women You may be familiar with rule 34 of the internet, which states that if something exists or can be imagined, there will almost certainly be online porn of it. Now let me introduce my rule 35: whenever a new technology is created, it will, without exception, immediately be used to harass girls and women. See, for example, Meta’s “pervert glasses”. As anyone could have foreseen, putting a tiny camera and microphone into smartglasses would immediately lead to people using them to record ",
+      "author": "Arwa Mahdawi",
+      "summary": "Arwa Mahdawi는 Meta의 스마트글래스 같은 새로운 기술이 만들어지면 즉시 여성 괴롭힘과 성적 학대에 사용된다고 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ec3829de81be",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "코넬 성폭력 사건의 가장 슬픈 사실",
+      "link": "https://www.nytimes.com/2026/10/17/opinion/cornell-jane-doe-title-ix.html",
+      "publishedAt": "2026-10-17T12:46:02.000Z",
+      "description": "Campus rape investigations are often riddled with problems — but eliminating them would be much worse.",
+      "author": "Emily Bazelon",
+      "summary": "Emily Bazelon은 캠퍼스 성폭력 조사가 문제를 안고 있지만 이를 완전히 제거하는 것은 훨씬 더 나쁜 결과를 초래할 것이라고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d608c588594f",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "가장 민망하고 영리한 2026년 중간선거 광고들",
+      "link": "https://www.nytimes.com/video/opinion/100000011216101/the-cringiest-and-craftiest-2026-midterm-ads.html",
+      "publishedAt": "2026-10-17T10:55:00.000Z",
+      "description": "Sex, video games and grandparents on the campaign trail.",
+      "author": null,
+      "summary": "이 칼럼은 성, 비디오게임, 할머니 등을 활용한 2026년 중간선거 광고의 최근 트렌드를 다뤘다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ee51cb2e4d72",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "영화관이 거짓말로 빠져나가고 있다",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/17/the-hill-i-will-die-on-cinemas-have-been-getting-away-with-lies-films-should-begin-on-time",
+      "publishedAt": "2026-10-17T09:00:27.000Z",
+      "description": "If cinemas must run 20 minutes of adverts before a feature, they could at least be honest about it. Or, I have a better solution … Do you remember the last time you were lied to? I certainly do. I was tricked by the North Finchley Vue, which sold me and my boyfriend tickets to a 7.15pm showing of The Odyssey. Guess what was playing at 7.15pm? A car advert. Ten minutes later, it was a trailer for the horror film Werwulf. Then there was an advert for Vue – as if I wasn’t already there. The film was half an hour late to its own showing when it finally started at 7.45pm. I am sick and tired of cin",
+      "author": "Jeffrey Ingold",
+      "summary": "Jeffrey Ingold는 영화관이 20분의 광고를 상영하면서 영화 시작 시간을 속이고 있다며 정직한 시간 표시나 광고 축소를 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f2b8ecf47c99",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "Letby 사건 조사는 NHS에서 비난과 의심을 초래할 것이다",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/17/lucy-letby-public-inquiry-nhs-patients-medics",
+      "publishedAt": "2026-10-17T05:00:24.000Z",
+      "description": "I fear for what comes next because medics must be able to ask questions, raise concerns and admit mistakes. A defensive staff is dangerous for everyone Mark McDonald is a barrister representing Lucy Letby I have been Lucy Letby’s barrister for the past two years. I have spent thousands of hours going through the evidence, speaking to experts and examining what happened to the babies who died or became seriously unwell on the neonatal unit at the Countess of Chester hospital. I have worked with nearly 30 experts, including internationally recognised specialists in neonatology, pathology, insuli",
+      "author": "Mark McDonald",
+      "summary": "Lucy Letby 변호사 Mark McDonald는 사건 조사로 의료진이 방어적이 되면 환자 안전이 더 위협받을 수 있다고 우려했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6f156b230318",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "프랑스 학생들이 격압해야 할 적으로 취급받았다",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/17/french-schoolchildren-treated-like-violent-criminals-shameful-conditions-schools",
+      "publishedAt": "2026-10-17T04:00:20.000Z",
+      "description": "To protest against shameful conditions in schools is entirely legitimate. The government’s response is not As a secondary school pupil in 1994, I took part in protests against a reform that would have allowed French employers to pay young people below the minimum wage. Our campaign was successful, but if we had had to face the terrifying police response unleashed on student protesters in France over recent weeks, I would have stayed at home. A 14-year-old boy, Eden, suffered a fractured jaw and had teeth knocked out after a police teargas grenade struck him in the face. Sixteen-year-old Maël l",
+      "author": "Rokhaya Diallo",
+      "summary": "Rokhaya Diallo는 학교 조건 개선을 촉구한 학생들에게 경찰이 최루탄 등으로 과도하게 대응했다며 정부의 폭력적 진압을 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "dfc5a2ead5b0",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "캘리포니아, 법무부의 미국 외 거주자 식별 시스템이 부실하다고 지적",
+      "link": "https://www.nytimes.com/2026/10/16/us/elections/california-election-voters-trump-administration.html",
+      "publishedAt": "2026-10-17T00:45:12.000Z",
+      "description": "State and local officials said that they received thousands of names lacking key identifying information, and that many of the names were paired with addresses over which they had no jurisdiction.",
+      "author": "Shawn Hubler and Nicholas Nehamas",
+      "summary": "캘리포니아 주·지방 관계자들이 법무부의 미국 외 거주자 식별 시스템이 식별 정보 부족과 관할권 밖 주소 포함 문제를 안고 있다고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "da8cc762f549",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "당연히 트럼프는 러시아를 돕고 있다",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/16/donald-trump-russia-ukraine-protect-world",
+      "publishedAt": "2026-10-16T15:30:10.000Z",
+      "description": "The old certainties have gone. We will have to spend whatever it takes to protect ourselves in this new and dangerous world Donald Trump must find it oddly frustrating. He keeps showing the world exactly who he is, and yet the world keeps refusing to believe it. As clearly as he can, he is announcing that he is not the leader of the free world, that he is not even a reliable member of the democratic west, that he is in fact an ally of its enemies – but the west, including Britain, either doesn’t fully get the message or can’t quite bring itself to draw the obvious conclusion. Trump had another",
+      "author": "Jonathan Freedland",
+      "summary": "Jonathan Freedland는 트럼프가 자신의 정체를 명확히 보여주는데도 서방이 받아들이지 않는다며, 트럼프가 민주주의 진영의 동맹이 아닌 적의 편에 서 있다고 비판했다.",
+      "summarySource": "llm"
+    }
+  ],
+  "summarizedAt": "2026-10-17T23:53:34.670Z",
+  "summaryStats": {
+    "llm": 39,
+    "fallback": 11,
+    "model": "claude-haiku-4-5"
+  }
+}
