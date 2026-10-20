@@ -1,0 +1,899 @@
+{
+  "date": "2026-10-19",
+  "generatedAt": "2026-10-20T00:55:24.517Z",
+  "categories": [
+    {
+      "id": "it",
+      "label": "IT·과학·AI"
+    },
+    {
+      "id": "economy",
+      "label": "경제·금융"
+    },
+    {
+      "id": "politics",
+      "label": "정치·사회"
+    },
+    {
+      "id": "world",
+      "label": "세계·국제"
+    },
+    {
+      "id": "editorial",
+      "label": "사설·칼럼",
+      "opinion": true,
+      "summaryMaxChars": 220
+    }
+  ],
+  "feedStatus": [
+    {
+      "source": "Ars Technica",
+      "category": "it",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "Hacker News",
+      "category": "it",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "TechCrunch",
+      "category": "it",
+      "ok": true,
+      "matched": 7
+    },
+    {
+      "source": "The Verge",
+      "category": "it",
+      "ok": true,
+      "matched": 3
+    },
+    {
+      "source": "블로터",
+      "category": "it",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "전자신문",
+      "category": "it",
+      "ok": true,
+      "matched": 23
+    },
+    {
+      "source": "ZDNet Korea",
+      "category": "it",
+      "ok": true,
+      "matched": 26
+    },
+    {
+      "source": "BBC Business",
+      "category": "economy",
+      "ok": true,
+      "matched": 13
+    },
+    {
+      "source": "The Guardian",
+      "category": "economy",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "매일경제 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 40
+    },
+    {
+      "source": "연합뉴스",
+      "category": "economy",
+      "ok": true,
+      "matched": 63
+    },
+    {
+      "source": "경향신문 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 44
+    },
+    {
+      "source": "경향신문 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 33
+    },
+    {
+      "source": "노컷뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "서울신문",
+      "category": "politics",
+      "ok": true,
+      "matched": 7
+    },
+    {
+      "source": "연합뉴스 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 23
+    },
+    {
+      "source": "연합뉴스 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 99
+    },
+    {
+      "source": "SBS 뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 17
+    },
+    {
+      "source": "Al Jazeera",
+      "category": "world",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC World",
+      "category": "world",
+      "ok": true,
+      "matched": 12
+    },
+    {
+      "source": "NPR",
+      "category": "world",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "The Guardian",
+      "category": "world",
+      "ok": true,
+      "matched": 12
+    },
+    {
+      "source": "연합뉴스 국제",
+      "category": "world",
+      "ok": true,
+      "matched": 56
+    },
+    {
+      "source": "매일경제 증권",
+      "category": "economy",
+      "ok": true,
+      "matched": 35
+    },
+    {
+      "source": "경향신문 오피니언",
+      "category": "editorial",
+      "ok": true,
+      "matched": 13
+    },
+    {
+      "source": "NYT Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 3
+    },
+    {
+      "source": "The Guardian Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "Washington Post Opinions",
+      "category": "editorial",
+      "ok": false,
+      "error": "HTTP 502",
+      "matched": 0
+    },
+    {
+      "source": "동아일보 사설",
+      "category": "editorial",
+      "ok": true,
+      "matched": 17
+    },
+    {
+      "source": "동아일보 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 24
+    },
+    {
+      "source": "조선일보",
+      "category": "politics",
+      "ok": true,
+      "matched": 3
+    },
+    {
+      "source": "동아일보 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 3
+    },
+    {
+      "source": "머니투데이",
+      "category": "economy",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "Wired",
+      "category": "it",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "DW News",
+      "category": "world",
+      "ok": true,
+      "matched": 14
+    }
+  ],
+  "items": [
+    {
+      "id": "25f48426d76d",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "[에쓰오일의 CFO] 프로젝트로 이어진 재무 승계…'방주완'에 쏠린 눈",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=676007",
+      "publishedAt": "2026-10-19T14:56:00.000Z",
+      "description": "에쓰오일(S-OIL)의 최고재무책임자(CFO) 배치는 대형 프로젝트 투자와 맞물리는 경향을 보인다. 류열 사장은 1조3000억원 이상이 투입된 온산공장 확장 프로젝트를 관리했고 조영일 전 CFO는 4조7890억원이 투입된 복합석유화학시설(RUC·ODC) 건설을 총괄했다. 조 전 CFO 아래에서 자금조달을 담당했던 방주완 CFO는 현재 9조2580억원 규모의 샤힌 프로젝트를 맡고 있다.프로젝트 규모가 커질수록 CFO의 역할과 재무부담도 확대됐다. 샤힌 프로젝트가 완공 단계에 접어들면서 방 CFO의 과제는 건설자금 확보에서 신규 설비의",
+      "author": "김수민 기자",
+      "summary": "에쓰오일의 CFO 배치는 대형 프로젝트 투자 규모와 함께 확대되는 경향을 보이며, 신임 CFO 방주완은 9조2580억원 규모의 샤힌 프로젝트를 맡고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f6f3f9e12a67",
+      "category": "it",
+      "source": "Hacker News",
+      "region": "intl",
+      "title": "에이전트 모니터링",
+      "link": "https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/",
+      "publishedAt": "2026-10-19T14:52:04.000Z",
+      "description": "Article URL: https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/ Comments URL: https://news.ycombinator.com/item?id=50153225 Points: 38 # Comments: 3",
+      "author": "bcongdon",
+      "summary": "Hacker News에 게재된 에이전트 모니터링 관련 글로, 구체적인 기사 내용이 제시되지 않았다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d41776e0c26f",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "디즈니, Character.AI 인수 시 소송 회피 방안 마련",
+      "link": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
+      "publishedAt": "2026-10-19T14:45:43.000Z",
+      "description": "Character.AI faces claims its bots encouraged minors to self-harm and kill their parents.",
+      "author": "Maddy Varner",
+      "summary": "Character.AI는 봇이 미성년자의 자해와 부모 살해를 부추겼다는 고소에 직면해 있으며, 디즈니가 법적 책임을 회피하는 방식으로 인수를 진행하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "092a73520e5e",
+      "category": "it",
+      "source": "The Verge",
+      "region": "intl",
+      "title": "애플 M4 Mac Mini 150달러 할인 판매",
+      "link": "https://www.theverge.com/gadgets/1013645/apple-mac-mini-m4-lg-c6-oled-deal-sale",
+      "publishedAt": "2026-10-19T14:41:48.000Z",
+      "description": "The front view of the Mac Mini. | Image: The Verge Best Buy has a great deal for the rest of the day on the M4 Mac Mini base model that has 16GB RAM and a 256GB SSD. Normally, it doesn’t make a ton of sense to buy the M4 model for its usual $799 price given that the newer, faster M6 version has been available from Amazon for $779.99 (originally $899) for the past couple of weeks. However, at $649 it’s a much more tempting price. The M4 Mac Mini launched at $599 in 2024, and was an incredible value. Given that this sale price makes it just $50 more than the original price instead of $200, it’s ",
+      "author": null,
+      "summary": "Best Buy에서 M4 Mac Mini 기본 모델(16GB RAM, 256GB SSD)이 $799에서 $649로 $150 할인 판매 중이며, 원래 가격과 비교해 가성비가 개선됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "105af1019875",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "공중 나는 '로드스터'…테슬라 전용 루프 트랙 만든다",
+      "link": "https://www.etnews.com/20261019000200",
+      "publishedAt": "2026-10-19T13:30:00.000Z",
+      "description": "테슬라가 공중을 날고 거꾸로 달리는 로드스터를 위한 전용 루프 트랙을 만들 계획이라고 밝혔습니다. 일론 머스크 테슬라 최고경영자는 지난 17일 엑스(X)를 통해 미국 텍사스 테슬라 본사에 로드스터를 시험할 수 있는 루프 트랙을 만들겠다고 전했습니다. 머스크는 이 트랙이 “핫휠보다도 더 과격한 수준”이 될 것이라고 표현했습니다. 다만 구체적인 규모와 완공 시점은 공개되지 않았습니다. 공개된 로드스터에는 합계 600L 규모의 초고압 공기탱크 2개와",
+      "author": "이창민",
+      "summary": "테슬라는 공중을 날고 거꾸로 달리는 로드스터 시험용 루프 트랙을 텍사스 본사에 건설할 계획이며, 일론 머스크는 이를 '핫휠보다 더 과격한 수준'이 될 것으로 표현했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2b82110e7bbd",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "머스크 '미국 모든 어린이에 스페이스X 1주씩'",
+      "link": "https://zdnet.co.kr/view/?no=20261019222531",
+      "publishedAt": "2026-10-19T13:25:31.000Z",
+      "description": "[지디넷코리아]일론 머스크가 내년에 미국 내 모든 어린이들에게 스페이스X 주식 최소 한 주를 줄 계획이라고 공언했다고 CNBC가 19일(현지시간) 보도했다.미국 증권거래위원회(SEC) 공시 자료에 따르면 머스크는 현재 스페이스X 주식 48억 주를 보유하고 있다. 미부여 주식과 스톡옵션까지 포함할 경우 머스크의 스페이스X 주식은 64억 주에 달한다.2025년 7월 1일 기준 미국 내 18세 이하 어린이는 7200만 명 수준이다.지난 주 금요일인 16일 스페이스X의 종가는 146.03달러였다. 따라서 18세 이하 어린이들에게 한 주씩 나눠줄 경우 총 105억 달러(약 14조원)를 기부하게 된다. 머스크는 이날 자신의 엑스를 통해 \"이것은 앞으로 있을 수많은 기부 중 첫 번째가 될 것\"이라고 말했다. 하지만 그는 구체적으로 어떤 방식으로 주식을 나눠줄 지는 공개하지 않았다.테슬라 CEO이기도 한 일론 머스크는 지난 7월 이후 공화당 그룹에 총 2억7600만 달러 이상 기부했다. 덕분에 머스크는 2026년 중간선거 최대 기명 기부자로 이름을 올렸다.블룸버그 자료에 따르면 머스크의 순 자산은 현재 9천억 달러(1천196조원) 수준에 이른다. 머스크의 자산 중 스페이스",
+      "author": "김익현 미디어연구소장",
+      "summary": "일론 머스크는 내년 미국의 18세 이하 어린이 7200만 명 전원에게 스페이스X 주식 1주씩을 기부할 계획이며, 이는 약 105억 달러(14조원) 규모이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "737ede9d9eb9",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "애플, 누드화 앱의 심사 우회 시도 금지",
+      "link": "https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/",
+      "publishedAt": "2026-10-19T12:56:14.000Z",
+      "description": "The company updated its guidelines with strong language around AI and user-generated content, and how app developers should include enough preventative measures to moderate objectionable or offensive content.",
+      "author": "Ivan Mehta",
+      "summary": "애플은 앱 스토어 지침을 업데이트하여 부적절한 콘텐츠를 정상 앱으로 위장하여 심사를 통과시키려는 시도를 금지하고, 개발자에게 콘텐츠 중재 조치 강화를 요구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "dbe5405e8848",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "AI 모방작 우려에…日 '드렁큰 갓데스 리플럭스' 무료 데모 취소",
+      "link": "https://zdnet.co.kr/view/?no=20261019214021",
+      "publishedAt": "2026-10-19T12:40:21.000Z",
+      "description": "[지디넷코리아]일본 게임 개발사 얼라이언스 아츠가 신작 '드렁큰 갓데스 리플럭스(Drunken Goddess Reflux)'의 무료 공개 데모를 취소했다고 미국 게임 매체 코타쿠가 현지 시각 10월 16일 보도했다.데모는 PC 게임 유통 플랫폼 스팀의 신작 체험 행사 '스팀 넥스트 페스트' 기간인 10월 19일 공개될 예정이었다. 얼라이언스 아츠는 약 20분 분량의 데모를 누구나 내려받을 수 있도록 배포할 계획이었으나, 제한된 인원만 참여하는 비공개 체험 행사로 변경했다. 얼라이언스 아츠는 스팀 공지에서 데모의 공개 배포를 취소하기로 결정했다고 밝혔다.얼라이언스 아츠는 이 게임의 연출과 게임 방식을 흉내 내거나 복제한 작품이 정식 출시 전에 AI로 빠르게 제작될 수 있다고 우려했다. 개발사는 당초 데모의 방송 송출과 일부 영상 공유를 제한하는 방안을 검토했지만, 작은 규모의 팀으로는 이를 관리하기 어렵다고 판단했다.드렁큰 갓데스 리플럭스는 지옥의 술집에서 술의 악마와 러시안룰렛 방식으로 술잔을 골라 마시는 생존 게임이다. 이용자는 도수가 다른 술잔을 고르며 대결하고, 라운드 사이에는 3D로 구현된 술집을 탐색하며 등장인물과 대화한다. 선택에 따라 서로 다른 ",
+      "author": "AI 에디터",
+      "summary": "일본 게임사 얼라이언스 아츠는 신작 '드렁큰 갓데스 리플럭스'의 무료 공개 데모를 취소하고 비공개 체험으로 변경했으며, 게임이 AI로 빠르게 모방될 수 있다는 우려가 이유다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9643569a3f6a",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "'급락 뒤 급등' 베팅하는 개미들…'V자 반등' 학습 효과가 빚투 자극",
+      "link": "https://www.etnews.com/20261019000428",
+      "publishedAt": "2026-10-19T12:15:37.000Z",
+      "description": "코스피가 급락하자 개인투자자들이 다시 반등에 베팅하고 있다. 주가가 큰 폭으로 떨어진 만큼 곧 되돌림이 나타날 것이라는 기대가 빚을 내 주식을 사는 투자 심리를 떠받치고 있다. 그러나 시장에서는 과거 급락 뒤 급반등했던 경험이 이번에도 반복될지는 불확실하다는 경고가 나온다. 반대매매가 급증하는 가운데 주식 매수 대기자금은 줄고 외국인의 매도 물량을 받아낼 수급 여력도 약해지고 있기 때문이다. 19일 금융투자협회에 따르면 지난 6~15일 위탁매매",
+      "author": "이상목",
+      "summary": "코스피 급락 후 개인투자자들이 과거 V자 반등 경험에 기반해 빚을 내 매수에 나서고 있으나, 반대매매 급증과 외국인 매도로 인해 이번에도 반등이 나타날지는 불확실하다는 우려가 제기되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5828779ec527",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "엘리자베스 홈스가 네이선 필더에게 건넨 깜짝 전화",
+      "link": "https://www.wired.com/story/nathan-fielder-tells-us-everything/",
+      "publishedAt": "2026-10-19T11:30:00.000Z",
+      "description": "The codirector of “You Can See Everything” talks exclusively to WIRED about truth, lies, and Theranos.",
+      "author": "Katie Drummond",
+      "summary": "'당신은 모든 것을 볼 수 있다' 공동 감독 네이선 필더가 엘리자베스 홈스(Theranos 설립자)로부터 깜짝 전화를 받았으며, 진실과 거짓, Theranos에 대해 WIRED와 독점 인터뷰했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c26494640307",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "이찬진 \"의무복무 병사 대부업체 대출 금지 검토\"(종합3보)",
+      "link": "https://www.yna.co.kr/view/AKR20261019071353002",
+      "publishedAt": "2026-10-19T14:43:18.000Z",
+      "description": "(서울=연합뉴스) 배영경 강수련 김지연 강류나 기자 = 이찬진 금융감독원장은 19일 단일종목 레버리지 상장지수펀드(ETF)의 상장 일정을 맞추기...",
+      "author": "김지연",
+      "summary": "금융감독원장 이찬진이 의무복무 중인 병사들을 상대로 대출을 제공하는 대부업체의 대출 금지를 검토하기로 했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e17e1685cc1e",
+      "category": "economy",
+      "source": "동아일보 경제",
+      "region": "kr",
+      "title": "머스크 \"내년 美 모든 어린이에 스페이스X 1주씩\"…14조원 통큰 선물",
+      "link": "https://www.donga.com/news/Inter/article/all/20261019/134871149/2",
+      "publishedAt": "2026-10-19T14:22:00.000Z",
+      "description": "일론 머스크 스페이스X 최고경영자(CEO)가 “내년 미국의 모든 어린이에게 내 스페이스X 주식을 1주씩 줄 것”이라고 19일(현지시간) 밝혔다. 미국 내 어린이 수가 약 7300만 명인 점을 고려하면, 이는 약 106억 6000만 달러(약 14조1700억원)에 달하는 규모다.머스크는 이날 엑스(X·옛 트위터)를 통해 “이것은 (앞으로 이어질) 수많은 일들의 첫 시작이 될 것”이라며 이같이 적었다. 머스크의 이번 발표는 인공지능(AI) 기업 앤트로픽이 전날 자사 주식의 5%를 공익 기금에 출연하겠다고 발표한 뒤 나왔다. 앤트로픽은 다리오 아모데이 최고경영자(CEO)가 이끄는 기업으로, AI 시장에서 머스크가 이끄는 기업들과 경쟁하고 있다. 머스크는 앤트로픽의 계획을 비판하며 X에 “(기금보다는) 대중에게 직접 주식을 줄 것을 권장한다”고 언급한 바 있다. 주식 지급 방식으로는 미국 정부가 도입한 어린이 투자계좌인 ‘트럼프 계좌’가 활용될 가능성이 거론된다. 이 제도는 어린이들의",
+      "author": null,
+      "summary": "일론 머스크 스페이스X 최고경영자가 내년 미국의 모든 어린이에게 스페이스X 주식 1주씩을 나눠주겠다고 밝혔으며, 이는 약 14조 원대의 규모다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c820b79df4aa",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "삼정KPMG, 11월 2일 '해외 투자 진출 세미나'",
+      "link": "https://www.mk.co.kr/news/stock/12180102",
+      "publishedAt": "2026-10-19T14:13:15.000Z",
+      "description": "국내 기업 해외 진출 위한 국가별 투자 전략 제시삼정KPMG가 오는 11월 2일 삼성동 그랜드인터컨티넨탈 서울 파르나스 호텔에서 ‘해외 투자 진출 세미나’를 개최한다고 19일 밝혔..",
+      "author": "매일경제",
+      "summary": "삼정KPMG가 11월 2일 국내 기업의 해외 투자 진출을 지원하기 위한 세미나를 개최한다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b977215c323c",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "다올투자증권, 국내 증권사 최초 '트레이딩뷰'서 미국주식 거래",
+      "link": "https://www.mk.co.kr/news/stock/12180100",
+      "publishedAt": "2026-10-19T14:10:24.000Z",
+      "description": "트레이딩뷰 한 화면에서 차트 분석 및 국내·미국주식·ETF 주문 DAOL Fi PRO·MCP 트레이딩 이어 다올 계좌 활용 폭 확대다올투자증권이 19일 글로벌 차트 분석 플랫폼 ..",
+      "author": "매일경제",
+      "summary": "다올투자증권이 국내 증권사 중 처음으로 글로벌 차트 분석 플랫폼 트레이딩뷰에서 미국주식 거래 서비스를 제공한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7a1c39448d11",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "좌파 뉴스 매체 더 카너리, 악의적 캠페인 이후 폐지 발표",
+      "link": "https://www.theguardian.com/media/2026/oct/19/the-canary-leftwing-news-website-closure",
+      "publishedAt": "2026-10-19T13:52:00.000Z",
+      "description": "Leftwing outlet said it had faced ‘multiple attacks’ and ‘malicious lies’ which made its situation unsustainable The leftwing news site the Canary has announced that it is closing indefinitely. Earlier this year the media outlet was blocked from accessing funds and has faced allegations of internal turmoil. The outlet, founded in 2015 at the height of support for the then Labour leader, Jeremy Corbyn, said in a social media post it would be closing “for the foreseeable future”. Continue reading...",
+      "author": "Michael Savage Media editor",
+      "summary": "좌파 성향의 뉴스 매체 더 카너리가 악의적 공격과 자금 차단 등의 어려움으로 인해 무기한 폐지될 예정이라고 발표했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "94376fb5432f",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "이찬진 \"금감원 현장에 있어야…지방이전 정책적 고려 기다려\"",
+      "link": "https://www.yna.co.kr/view/AKR20261019179600002",
+      "publishedAt": "2026-10-19T13:51:13.000Z",
+      "description": "(서울=연합뉴스) 강수련 김지연 기자 = 이찬진 금융감독원장은 19일 지방이전과 관련해 \"금감원이 현장에 있어야 한다는 부분을 정책적으로 적극 ...",
+      "author": "강수련",
+      "summary": "금융감독원장이 금감원의 지방 이전 정책에 대해 금감원이 현장에 있어야 한다며 정책적 고려를 기다리고 있다는 입장을 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b5a0ac6aa9fe",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "기술유출 걸리면 개발비부터 전부 배상…산업스파이 처벌수위 확 높이기로",
+      "link": "https://www.mk.co.kr/news/economy/12180077",
+      "publishedAt": "2026-10-19T13:35:53.000Z",
+      "description": "수사기관과 공조해 신속 대응 범죄수익 몰수대상 확 넓히고 기업R&D 비용도 손배에 반영정부가 반도체 등 첨단산업의 기술 유출에 대응하기 위해 산업통상부에 특별사법경찰 권한을 부여하..",
+      "author": "매일경제",
+      "summary": "정부가 반도체 등 첨단산업의 기술 유출에 대응하기 위해 산업스파이 처벌 수위를 높이고 기업 R&D 비용을 손배에 반영하기로 결정했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "661e4ad34f8d",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "엘리 굴딩, 논란의 호주 광산 다이아몬드 홍보에 대해 오류 인정",
+      "link": "https://www.theguardian.com/music/2026/oct/19/ellie-goulding-diamonds-australia-argyle-mine",
+      "publishedAt": "2026-10-19T13:20:18.000Z",
+      "description": "Singer ‘mortified’ about wearing diamonds from Argyle mine at centre of environmental concerns about Indigenous land The singer Ellie Goulding has admitted her error at having promoted diamonds at the centre of environmental concerns about Indigenous land in Australia, despite having spent years campaigning on environmental issues – including the effects of mining on ancestral lands. She appeared at a event in London earlier this month for the jewellery brand Boodles, modelling some of its newly acquired pink diamonds, some of which came from a controversial mine in Western Australia. Continue",
+      "author": "Kevin Rawlinson",
+      "summary": "가수 엘리 굴딩이 호주의 논란이 많은 광산에서 채취한 분홍색 다이아몬드를 홍보한 것에 대해 과오를 인정했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "519b1a9d91d0",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "현대차, 하청 급식업체와 원청교섭 나서나",
+      "link": "https://www.mk.co.kr/news/economy/12180056",
+      "publishedAt": "2026-10-19T13:03:33.000Z",
+      "description": "중노위, 근로조건 사용자성 인정중앙노동위원회가 현대자동차 구내식당 근무자들이 속한 현대그린푸드 노조의 산업안전 관련 근로조건에 대한 현대차의 사용자성이 인정된다고 판단했다. 중노위..",
+      "author": "매일경제",
+      "summary": "중앙노동위원회가 현대자동차 구내식당 근무자들의 근로조건에 대한 현대차의 사용자성을 인정했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e7f31ee875db",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "주택 판매자들, 하루 3000채 시세 인하",
+      "link": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-19T12:54:03.000Z",
+      "description": "More property asking prices are being cut than at any time in 15 years, data shared with the BBC shows.",
+      "author": null,
+      "summary": "주택 판매자들이 하루 3000채의 요구 가격을 인하하고 있으며, 이는 15년 만에 가장 높은 수준이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9c658487b7a8",
+      "category": "politics",
+      "source": "서울신문",
+      "region": "kr",
+      "title": "다시 고개 숙인 추미애… 부승찬은 ‘소방 빨대’ 재소환",
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20261020001007",
+      "publishedAt": "2026-10-19T14:54:00.000Z",
+      "description": "지도부 “품위유지 의무 위반 가능성” 당 일각 ‘秋 징계’ 요구엔 “추후 논의” 野 “국민이 바라시니, 李와 사퇴를” 추미애 경기지사는 19일 ‘소방 재정 빨대’ 발언 등과 관련해 소방관들을 향해 재차 고개를 숙였다. 그러나 이번엔 더불어민주당 부승찬 의원이 ‘소방 재정 쭉쭉’ 발언을 했다가 국정감사가 한때 파행하는 등 논란이 이어졌다. 당 지도부도 엄중 경고하며 즉각 조치에 나섰다. 추 지사는 이날 경기도청에서 열린 국회 국토교통위원회 국감에서 “최근 저의 발언으로 마음의 상처를 입으신 소방관 여러분께 진심으로 사과드린다”고 밝혔다. 이어 “소방관의 헌신을 누구보다 무겁게 생각하고 있다”며 “유가족과 소방 가족 여러분께 다시 한번 위로의 말씀을 드린다. 소방관의 안전과 처우를 더욱 세심하게 살피겠다”고 말했다. 추 지사는 지난 13일 ‘소방 재정 빨대’ 발언을 한 뒤 나흘 만에 사과를 했지만 “사과를 바라시니까 사과드린다”고 해 논란을 더 키웠다. 이에 김민석 민주당 대표는 이날 민주당TV에서 “당사자의 사과가 있는 게 좋겠다는 요청을 다양한 방식으로 전달했다”며 사실상 공개 사과를 요구했다. 이런 가운데 부 의원이 “소방 예산 인건비와 그 지원 비용 90",
+      "author": "한지은·박효준 기자",
+      "summary": "지도부 “품위유지 의무 위반 가능성” 당 일각 ‘秋 징계’ 요구엔 “추후 논의” 野 “국민이 바라시니, 李와 사퇴를” 추미애 경기지사는 19일 ‘소방 재정 빨대’ 발언 등과 관련해 소방관들을 향해 재차 고개를 숙였다.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "c26494640307",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "이찬진 \"의무복무 병사 대부업체 대출 금지 검토\"(종합3보)",
+      "link": "https://www.yna.co.kr/view/AKR20261019071353002",
+      "publishedAt": "2026-10-19T14:43:18.000Z",
+      "description": "(서울=연합뉴스) 배영경 강수련 김지연 강류나 기자 = 이찬진 금융감독원장은 19일 단일종목 레버리지 상장지수펀드(ETF)의 상장 일정을 맞추기...",
+      "author": "김지연",
+      "summary": "(서울=연합뉴스) 배영경 강수련 김지연 강류나 기자 = 이찬진 금융감독원장은 19일 단일종목 레버리지 상장지수펀드(ETF)의 상장 일정을 맞추기...",
+      "summarySource": "rss"
+    },
+    {
+      "id": "ea56f3960107",
+      "category": "politics",
+      "source": "조선일보",
+      "region": "kr",
+      "title": "100억 예산 꼬마위성 임무 실패, 무얼 알아냈는지 국민에 밝혀야",
+      "link": "https://www.chosun.com/opinion/dongseonambuk/2026/10/19/BZLGJHNWKFCDVCGJF3XYBX2LFM/",
+      "publishedAt": "2026-10-19T14:31:00.000Z",
+      "description": "",
+      "author": "곽수근 기자",
+      "summary": "",
+      "summarySource": "rss"
+    },
+    {
+      "id": "ae04fb9b23be",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "이 대통령 “한국 주식시장, 매우 저평가···조만간 필요한 조치”",
+      "link": "https://www.khan.co.kr/article/202610192215001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-10-19T13:15:00.000Z",
+      "description": "부동산 “(하락) 충격, 최소한 준비해야”이재명 대통령이 지난 16일 제주월드컵경기장에서 열린 제107회 전국체육대회 개회식에서 기념사를 하고 있다. 연합뉴스이재명 대통령이 19일 한국 주식 시장을 두고 “매우 저평가된 게 사실”이라며 “조만간 종합보고를 받고 필요한 조치를 할 것”이라고 밝혔다. 부동산 시장과 관련해선 “(하락) 충격이 있을 수 있기 때문···",
+      "author": "강한들 기자",
+      "summary": "부동산 “(하락) 충격, 최소한 준비해야”이재명 대통령이 지난 16일 제주월드컵경기장에서 열린 제107회 전국체육대회 개회식에서 기념사를 하고 있다. 연합뉴스이재명 대통령이 19일 한국 주식 시장을 두고 “매우 저평가된 게 사실”이라며 “조만간 종합보고를 받고 필요한 조치를 할 것”이라고 밝혔다.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "eb55b67b8d7d",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "李대통령, 野추천 이강덕·장한식 KBS 이사 임명안 재가",
+      "link": "https://www.yna.co.kr/view/AKR20261019178400001",
+      "publishedAt": "2026-10-19T12:57:23.000Z",
+      "description": "(서울=연합뉴스) 황윤기 기자 = 이재명 대통령은 19일 국민의힘이 추천한 이강덕·장한식 한국방송공사(KBS) 이사를 임명했다고 강유정 청와대 ...",
+      "author": "황윤기",
+      "summary": "(서울=연합뉴스) 황윤기 기자 = 이재명 대통령은 19일 국민의힘이 추천한 이강덕·장한식 한국방송공사(KBS) 이사를 임명했다고 강유정 청와대 ...",
+      "summarySource": "rss"
+    },
+    {
+      "id": "83ee9fecf3a3",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "“추미애, 벌써 ‘지사병’ 빠졌나…‘사과 논란’에 정치 고립 불가피” [정치를 부탁해]",
+      "link": "https://www.donga.com/news/Politics/article/all/20261019/134869489/1",
+      "publishedAt": "2026-10-19T12:39:00.000Z",
+      "description": "동아일보 정치 라이브 ＜정치를 부탁해＞- 일시: 월·수요일 오전 10~11시- 토크: 정광재 동연정치연구소장, 김준일 시사평론가- 진행·연출: 강경석 심성주- 동아일보 유튜브 : www.youtube.com/@donga-ilbo 추미애 경기도지사의 이른바 ‘소방 재정 빨대’ 발언과 사과 진정성을 둘러싼 논란이 이어지는 가운데 추 지사가 취임 4개월 만에 이른바 ‘지사병’에 빠진 것 아니냐는 비판이 나왔다.정광재 동연정치연구소장은 19일 동아일보 유튜브 ‘정치를 부탁해’에서 “사과는 바로 해야 하고 조건이 붙지 않아야 하는데, 추 지사는 완전히 반대로 했다”고 말했다. 그는 “사과의 정석이라고 하면 우선 즉시성이 있어야 하고, 두 번째는 조건이 붙지 않아야 한다는 것”이라며 “그런데 추 지사는 ‘사과를 바라시니까’, ‘제 의도가 잘못 전달됐다면’이라는 조건을 붙였다”고 지적했다.이어 “진심을 담아 조건을 붙이지 않고 재발 방지에 대한 내용까지 포함해서 사과하면 진정성을 인",
+      "author": null,
+      "summary": "동아일보 정치 라이브 ＜정치를 부탁해＞- 일시: 월·수요일 오전 10~11시- 토크: 정광재 동연정치연구소장, 김준일 시사평론가- 진행·연출: 강경석 심성주- 동아일보 유튜브 : www.youtube.com/@donga-ilbo 추미애 경기도지사의 이른바 ‘소방 재정 빨대’ 발언과 사과 진정성을 둘러싼 논란이 이어지는 가…",
+      "summarySource": "rss"
+    },
+    {
+      "id": "29bb9af44550",
+      "category": "politics",
+      "source": "SBS 뉴스",
+      "region": "kr",
+      "title": "[인터뷰] 박찬대 \"추미애, '소방 빨대' 발언 유감…농지 조사, 국민 수용성 높이는 쪽으로 정책 조정 필요\"",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008804702",
+      "publishedAt": "2026-10-19T12:37:00.000Z",
+      "description": "'SBS ' ■ ■ 진행 : 주영진 앵커■ 박찬대 인천시장● 인터뷰박찬대 / 인천시장\"인천 제 값 다시 매겨야‥'리레이팅' 추진\"\"인천, 대한민국 축약판‥강점 도약시킬 필요 있어\"\"인천, 접경지역 제약 갖고 있어‥한계점 풀어갈 것\"\"G20 연대 유치 전략‥호남·충청과 함께 하는 구성\"\"좋은 일자리·높은 소득 연결된 산업지도 만들 것\"\"농지조사 관련 국민 불안감 있다면 정책 점검 필요\"\"소방관 마음 아프게 한 추미애 발언 유감스러워\"\"국민 생명·안전 지키는 소방관‥재정적 지원 필수\"▷ 주영진 / 앵커 : 이번 1년여 사이에 여러 차례 인터뷰했는데 집권 여당의 대표 후보로 인터뷰했다가, 광역단체장 후보로 인터뷰했다가.",
+      "author": "param@sbs.co.kr (이혜미)",
+      "summary": "'SBS ' ■ ■ 진행 : 주영진 앵커■ 박찬대 인천시장● 인터뷰박찬대 / 인천시장\"인천 제 값 다시 매겨야‥'리레이팅' 추진\"\"인천, 대한민국 축약판‥강점 도약시킬 필요 있어\"\"인천, 접경지역 제약 갖고 있어‥한계점 풀어갈 것\"\"G20 연대 유치 전략‥호남·충청과 함께 하는 구성\"\"좋은 일자리·높은 소득 연결된 산업지…",
+      "summarySource": "rss"
+    },
+    {
+      "id": "2308b204f78a",
+      "category": "politics",
+      "source": "연합뉴스 사회",
+      "region": "kr",
+      "title": "완주 도로서 경차가 가로수 들이받아 50대 운전자 숨져",
+      "link": "https://www.yna.co.kr/view/AKR20261019177500055",
+      "publishedAt": "2026-10-19T12:32:52.000Z",
+      "description": "(완주=연합뉴스) 김문경 기자 = 19일 오후 3시 50분께 전북 완주군 소양면의 한 도로를 달리던 경차가 가로수를 들이받았다.",
+      "author": "김문경",
+      "summary": "(완주=연합뉴스) 김문경 기자 = 19일 오후 3시 50분께 전북 완주군 소양면의 한 도로를 달리던 경차가 가로수를 들이받았다.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "8df9280e10c5",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "“긴장 속 출동 내려놓고 편히 쉬시길” 김진석 소방위 눈물의 영결식",
+      "link": "https://www.khan.co.kr/article/202610192132015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-10-19T12:32:01.000Z",
+      "description": "동료들 “아직도 믿기지 않아” 오열1계급 특진 추서·서울현충원 안장잊지 않겠습니다 부천 공장 화재 진압 중 순직한 김진석 소방위의 노제가 열린 19일 경기 부천시 부천소방서에서 소방대원들이 영정을 향해 경례하고 있다. 공동취재사진“무거운 장비도, 긴장 속 출동도 모두 내려놓고 부디 편히 쉬십시오.”경기 부천 화재 진압 중 순직한 김진석 소방위의 영결식이 1···",
+      "author": "박준철 기자",
+      "summary": "동료들 “아직도 믿기지 않아” 오열1계급 특진 추서·서울현충원 안장잊지 않겠습니다 부천 공장 화재 진압 중 순직한 김진석 소방위의 노제가 열린 19일 경기 부천시 부천소방서에서 소방대원들이 영정을 향해 경례하고 있다.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "38c3f73899e6",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "“PTSD 호소 쏟아지는데…” 해경 마음 돌봄 예산 또 동결",
+      "link": "https://www.khan.co.kr/article/202610192132005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-10-19T12:32:00.000Z",
+      "description": "개인 심리상담 건수 증가세에도3년간 제자리…산림치유는 삭감해양경찰관이 현장에서 직무를 수행하다 죽거나 다치는 일이 속출해도 이를 보듬어야 할 심리 치유 지원은 열악한 것으로 나타났다.19일 국회 농림축산식품해양수산위원회 소속 윤준병 더불어민주당 의원이 해양경찰청에서 제출받은 자료를 보면 2023년부터 올해 6월까지 직무 수행 중 순직하거나 공상을 입은 해경···",
+      "author": "박준철 기자",
+      "summary": "개인 심리상담 건수 증가세에도3년간 제자리…산림치유는 삭감해양경찰관이 현장에서 직무를 수행하다 죽거나 다치는 일이 속출해도 이를 보듬어야 할 심리 치유 지원은 열악한 것으로 나타났다.19일 국회 농림축산식품해양수산위원회 소속 윤준병 더불어민주당 의원이 해양경찰청에서 제출받은 자료를 보면 2023년부터 올해 6월까지 직무…",
+      "summarySource": "rss"
+    },
+    {
+      "id": "2a8cc6726c56",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "스웨덴 좌우합작 정부 들어서나…중도 제5당에 협상 권한",
+      "link": "https://www.yna.co.kr/view/AKR20261019182200082",
+      "publishedAt": "2026-10-19T14:53:02.000Z",
+      "description": "(베를린=연합뉴스) 김계연 특파원 = 총선 이후 한 달 넘게 정부를 꾸리지 못하고 있는 스웨덴 정가에서 좌우 극단 세력을 빼고 주류 정당이 대거...",
+      "author": "김계연",
+      "summary": "스웨덴이 총선 후 한 달 이상 정부를 구성하지 못하고 있으며, 극단 세력을 제외한 주류 정당들이 중도 정당에 협상 권한을 부여했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "bd28cc72b7f9",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "이집트 의회, '사우디 군사 지원' 승인 논의 내주로 연기",
+      "link": "https://www.yna.co.kr/view/AKR20261019182100079",
+      "publishedAt": "2026-10-19T14:50:01.000Z",
+      "description": "(카이로=연합뉴스) 김상훈 특파원 = 이집트 의회가 압델 파타 엘시시 대통령이 요청한 사우디아라비아 군사 지원 승인안에 대한 논의를 다음 주로 ...",
+      "author": "김상훈",
+      "summary": "이집트 의회가 엘시시 대통령이 요청한 사우디아라비아 군사 지원 승인안 논의를 다음 주로 연기했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "06c25fc89714",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "이란의 컨테이너선 공격으로 호르무즈 해협에서 화물 수거",
+      "link": "https://www.theguardian.com/world/2026/oct/19/strait-of-hormuz-spilt-cargo-iran-attacks-container-ships",
+      "publishedAt": "2026-10-19T14:48:56.000Z",
+      "description": "At least 15 vessels struck in waterway in past 10 days, with rumours that they were carrying valuable goods People have been scouring the strait of Hormuz for spilt cargo after Iran attacked at least 15 container ships passing through the crucial waterway in the past 10 days. Some ships have been hit by drones, others by mines. On Sunday, a ship was struck by a rocket-propelled grenade launched from a small boat 75 miles (120km) north-east of the Saudi port of Jubail. Continue reading...",
+      "author": "Patrick Wintour Diplomatic editor",
+      "summary": "지난 10일 이란이 호르무즈 해협의 최소 15척 컨테이너선을 드론과 기뢰로 공격했으며, 일부 선박은 로켓포탄까지 맞았다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e57b6c763c1e",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "수단 시장 근처 무인기 공격으로 80명 사망",
+      "link": "https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan",
+      "publishedAt": "2026-10-19T14:45:53.000Z",
+      "description": "Witness says drone struck twice at transport hub in al-Dibab, in one of deadliest single attacks of war A drone strike near a market in southern Sudan on Sunday evening killed 80 people, mostly commuters catching rides home. Ahmed Wadi, a witness, said the attack in the town of al-Dibab in West Kordofan state left “50 bodies who I helped bury, one of them my own brother Mohamed”. Continue reading...",
+      "author": "Carlos Mureithi and agencies",
+      "summary": "수단 남부 알디바브 지역의 시장 근처에서 무인기 공격으로 80명이 사망했으며, 대부분은 귀가 차량을 기다리던 주민들이었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "4e7f85daa555",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "후티, 예멘 정부군 군사캠프 공격으로 최소 50명 사망",
+      "link": "https://www.dw.com/en/houthi-strike-on-yemen-government-military-camp-kills-at-least-50/a-79702163?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-10-19T14:39:00.000Z",
+      "description": "The Iran-backed group has claimed responsibility for the attack which killed new recruits at a military camp. The strikes follow deadly attacks over the weekend blamed on Saudi-led forces.",
+      "author": null,
+      "summary": "이란 지지 세력인 후티가 예멘 군사캠프의 신병들을 대상으로 한 공격 책임을 주장했으며, 이는 주말 사우디 주도 세력의 공격에 뒤따른 것이었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "52063c32392d",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "텍사스 칼리지풋볼 경기 전 스턴트 강하 중 미군 장병 사망",
+      "link": "https://www.bbc.co.uk/news/articles/crd6dn63j2xwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-19T14:13:18.000Z",
+      "description": "The game continued after the incident. The American Conference said the decision was made before his death was known.",
+      "author": null,
+      "summary": "텍사스의 칼리지풋볼 경기 전 스턴트 강하 중 미군 장병이 사망했으나 경기는 계속 진행됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "487059a451ad",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "카탈루냐 전 독립운동 지도자 스페인 귀환 허용 판결",
+      "link": "https://www.bbc.co.uk/news/articles/cvp8gzg4e143o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-19T14:06:53.000Z",
+      "description": "The court upholds a decision to lift an arrest warrant for Carles Puigdemont linked to the independence bid he led in 2017.",
+      "author": null,
+      "summary": "법원이 2017년 독립 시도를 주도한 카를레스 푸이그데몬트에 대한 체포영장 해제 결정을 유지해 스페인 귀환이 가능해졌다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7d4e12cc509b",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "태국의 난민 근무 프로그램, 미얀마 난민에게 희망 전하다",
+      "link": "https://www.dw.com/en/myanmar-refugees-find-hope-in-thailand-s-work-program/a-79697921?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-10-19T12:31:00.000Z",
+      "description": "A year ago, Thailand granted long-staying refugees from Myanmar the right to work legally. Refugees and rights groups welcome the move but say the program's first year has exposed significant shortcomings.",
+      "author": null,
+      "summary": "태국이 난민 근무 프로그램으로 미얀마 난민들에게 합법적 취업 기회를 부여했으나, 첫해 운영에서 상당한 결점이 드러났다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "28809b4b904e",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "호주 총리, 의원 피격사건은 '사고가 아니다'",
+      "link": "https://www.npr.org/2026/10/19/g-s1-148737/australia-lawmaker-critically-injured",
+      "publishedAt": "2026-10-19T11:38:43.000Z",
+      "description": "A car hit an Australian federal independent lawmaker on Monday, critically injuring her in an apparent deliberate attack, Prime Minister Anthony Albanese said. The driver was arrested.",
+      "author": "The Associated Press",
+      "summary": "호주의 연방 독립 의원이 자동차에 피격당해 중상을 입었으며, 총리는 이를 의도적 공격이라고 주장했고 운전자는 체포됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ae051b2a7981",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "2026 미국 중간선거 사상 최대 규모 선거비 기록, 마크롱 시위 규탄",
+      "link": "https://www.npr.org/2026/10/19/g-s1-148733/up-first-newsletter-ukraine-russia-campaign-finances-france-protests",
+      "publishedAt": "2026-10-19T11:15:43.000Z",
+      "description": "More than $15 billion has been raised in this year's midterm elections. And, France's president is condemning the violent protests erupting across the country.",
+      "author": "Brittney Melton",
+      "summary": "2026년 미국 중간선거에서 15억 달러 이상이 모금됐으며, 마크롱 프랑스 대통령은 전국의 폭력 시위를 규탄했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8a5c25ea0ded",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]논란 부른 브런슨 발언들… 모범 동맹답게 간극 좁혀내야",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261019/134870790/2",
+      "publishedAt": "2026-10-19T14:30:00.000Z",
+      "description": "제이비어 브런슨 주한미군사령관 겸 유엔군사령관의 “대한민국은 군사분계선(MDL) 남쪽 철책선에서 시작된다”는 발언의 파문이 가라앉지 않고 있다. 그 발언을 두고 우리 정부와 여당에서 ‘영토주권을 침해한 선 넘은 발언’이라며 반발하자 유엔군사령부는 18일 “대한민국의 주권에는 의문의 여지가 없다”고 해명하며 수습에 나섰다. 하지만 19일에도 “브런슨 사령관 본인이 표현을 바로잡고 사과해야 한다”는 여당 의원들의 공세가 이어졌다. 브런슨 사령관의 발언은 경솔했다. 그는 14일 워싱턴 싱크탱크 세미나에서 “MDL에서 남과 북으로 2500m(실제로는 2000m) 떨어진 곳에 철책선이 있다”며 “유엔사 관점에서 보면 대한민국은 남쪽 철책선에서 시작된다”고 말했다. 이어 “정전 상태를 유지하기 위해 내가 그 구역을 관리하고 있기 때문”이라고 덧붙였다. 유엔사가 관리하는 비무장지대(DMZ)를 빼고 남방한계선 남쪽이 한국 영토라는 뜻으로 들리기에 충분했다. 정전협정에 따라 DMZ는 유엔사가 군사",
+      "author": null,
+      "summary": "브런슨 사령관의 '대한민국은 남쪽 철책선에서 시작된다'는 발언이 경솔했으며 영토주권을 침해하는 선을 넘은 발언이라고 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "85e05d980699",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]유홍준, 무슨 낯으로 버티나",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261019/134870794/2",
+      "publishedAt": "2026-10-19T14:27:00.000Z",
+      "description": "유홍준 국립중앙박물관장이 자신의 소장품인 친일파의 글씨를 애국지사의 유묵으로 전시했다 철회한 데 대해 “나 자신이 서예사 전공자여서 (고증을) 확신했다” “중대한 착오”라며 사과했다. 유 관장은 19일 국회 국정감사에서 “국민이 박물관에 보내 주신 깊은 신뢰와 박물관 직원들이 쌓아 올린 가치가 제 중대한 불찰로 한순간에 무너졌다”며 머리를 숙였다. 유 관장이 이번 사태에 대해 개인의 잘못을 인정한 것은 처음이다. 이번 전시 파문은 루브르와 바티칸 박물관에 이어 관람객 순위 세계 3위인 박물관에서 일어난 일이라곤 믿기지 않을 정도로 망신스럽다. 문제의 작품은 올 7월 개막한 국중박 특별전 ‘우리들의 밥상’에 애국지사 박원근의 유묵으로 전시됐다. 하지만 개막 한 달쯤 지나 이 작품이 같은 이름을 쓰기도 했던 친일파의 글씨라는 의혹이 제기되면서 철거됐고, 박물관은 이후 전문가 검증을 거쳐 친일파 인사의 글씨로 결론 내렸다. 유 관장은 관장 명의의 박물관 사과문과 강연 자리에서 4차례 사",
+      "author": null,
+      "summary": "국립중앙박물관 관장이 친일파 글씨를 애국지사 유묵으로 전시한 중대 불찰이 국민의 신뢰와 박물관의 가치를 한순간에 훼손했다고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3175d39a0306",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]김지용, 국무회의 불참이 '정치화 청산' 첫걸음",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261019/134870792/2",
+      "publishedAt": "2026-10-19T14:24:00.000Z",
+      "description": "김지용 중대범죄수사청장이 19일 이재명 대통령에게서 임명장을 받았다. 김 청장은 이날 앞으로 국무회의에 참석할 의향이 있는지 묻는 기자들의 질문에 ‘관련 법령 검토와 관계 기관 협의를 통해 적절히 결정하겠다’고 말했다. 이재명 정부 들어서부터 수사·기소 기관의 수장들이 국무회의에 정례적으로 참석하고 있는데, 김 청장은 참석 여부를 나중에 밝히겠다고 즉답을 피한 것이다. 김 청장은 법령 검토와 기관 협의를 내세웠지만 과연 그런 과정이 필요한지부터 의문이다. 굳이 중수청장이 국무회의에 정례적으로 참석해야 할 합당한 이유를 찾기 어려운 데다, 지금까지 역대 정부에서도 검찰총장은 물론 경찰청장도 국무회의에 배석하지 않는 것이 관례였다. 이미 본란(10월 7일자)이 지적했듯이 중수청장은 국무회의에 참석하지 않는 것이 옳다. 이날 김 청장은 ‘수사의 정치화를 청산하겠다’고 강조하면서 검찰의 수사권 남용을 정치화의 원인으로 지목했다. 일부 검사들은 과거 정치 권력에 줄을 서는 ‘봐주기 수사’",
+      "author": null,
+      "summary": "중수청장의 국무회의 참석을 피한 결정을 '정치화 청산'의 첫걸음으로 평가하며, 수사기관 수장의 정례적 참석이 수사의 정치화를 초래할 수 있다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c8c9e37fb304",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "1시간 이내 배송이 정말 필요한가? 편의 문화의 극단화를 비판하다",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/20/target-australia-uber-eats-delivery-is-convenience-culture-gone-wild",
+      "publishedAt": "2026-10-19T14:00:03.000Z",
+      "description": "The time lag between ordering a meal and its packaging hitting your rubbish bin is ridiculously brief. Will items bought through this partnership be treated differently? In a move nobody outside of boardrooms asked for, Target has become the first fashion retailer in Australia to make its products available to order via the Uber Eats app as of September. This means that a “curated” selection of 25,000 of Target’s products can arrive at your door in under an hour, thanks to Uber Eats’ “on-demand” delivery. It follows Bunnings’ introduction to the platform in February, and Kmart appears to be fo",
+      "author": "Maggie Zhou",
+      "summary": "초고속 배송은 편의문화가 극단화된 현상이라며, 무분별한 배송 문화의 환경과 생활방식에 미치는 부정적 영향을 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5e10e7f1c34f",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "노라 에프론, 자신을 웃기기 위해 썼다",
+      "link": "https://www.nytimes.com/2026/10/19/opinion/kemper-ephron-nyt-175.html",
+      "publishedAt": "2026-10-19T13:14:21.000Z",
+      "description": "The actress and comedian riffs on the essay Nora Ephron wrote for The Times in 2008.",
+      "author": "Ellie Kemper",
+      "summary": "배우이자 코미디언이 노라 에프론의 2008년 뉴욕타임스 에세이에 대해 자신의 견해를 나눴다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a5e6de2c14f5",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "실리콘 밸리의 우려",
+      "link": "https://www.nytimes.com/video/opinion/100000011206847/silicon-valley-is-worried.html",
+      "publishedAt": "2026-10-19T12:47:10.000Z",
+      "description": "A.I. might be on the verge of overpowering humanity, the podcaster Dwarkesh Patel warns on “Interesting Times.” He tells the economist Tyler Cowen that Silicon Valley is worried frontier research might be like the Manhattan Project — releasing a catastrophic new technology in the world.",
+      "author": null,
+      "summary": "실리콘 밸리의 AI 연구 개발이 맨해튼 프로젝트처럼 인류에게 재앙이 될 수 있다고 경고하며 AI 기술의 위험성에 대한 우려를 제기했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0099fd3f9a79",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[홍기빈의 두 번째 의견]'후반기 직업 시장'을 만들자",
+      "link": "https://www.khan.co.kr/article/202610192014005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-10-19T11:14:00.000Z",
+      "description": "돈키호테는 50대에 새로운 삶을 시작했다. 17세기 그도 그랬는데 21세기 대한민국의 50대라고 그러지 못하라는 법이 없다 녹슨 갑옷이라도 입혀주고 늙은 노새라도 태워준다면 풍차 아니라 데이터센터도 씹어먹을 힘과 열정을 가진 이들은 도처에 넘쳐난다 연금만 바라보면서 아주 오랫동안 천천히 시들어가는 삶 말고 전혀 다른 삶을 제공하여 이들의 힘과 지혜를 십분 ···",
+      "author": "홍기빈 글로벌정치경제연구소 소장",
+      "summary": "50대가 연금만 기대하며 천천히 쇠퇴하는 삶 대신, 이들의 경험과 역량을 활용할 수 있는 새로운 '후반기 직업 시장'을 만들어야 한다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ef2da874600a",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[직설]이 페이지는 의도적으로 비워둠",
+      "link": "https://www.khan.co.kr/article/202610192009025/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-10-19T11:09:02.000Z",
+      "description": "가끔 빈 페이지에 대한 안내 문구를 만난다. 이 페이지는 의도적으로 비워두었음. 한국에서는 책보다 시험지 등의 문서에서 접하기 쉬운데, 어쨌든 인쇄 오류가 아니라 내지 편집 단계부터 백지로 지정했다는 표시다. 읽는 입장에서 이런 설명은 일견 거추장스러워 보인다. 수험생을 불안에 떨게 하는 시험 상황이라면 모를까, 백지여야 해서 백지로 두었다는 사실은 보면 ···",
+      "author": "심완선 SF평론가",
+      "summary": "'의도적으로 비워둠' 표기의 의도와 독자에게 미치는 심리적 영향에 대해 다루며, 이것이 단순한 인쇄 오류 표시 이상의 의미를 담고 있다고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "bcafdee42ee9",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[생각그림]내 속에 뭐가 들어 있을까?",
+      "link": "https://www.khan.co.kr/article/202610192009015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-10-19T11:09:01.000Z",
+      "description": "종이에 아크릴펜(21×30㎝)내 속에는 뭐가 들어 있을까요? 내 마음을 나도 알 수가 없습니다. 그것을 하고 싶은 걸까요? 하기 싫은 걸까요? 저 사람을 좋아하는 걸까요? 싫어하는 걸까요? 그냥 놀고 싶은 걸까요? 일하고 싶은 걸까요? 떠나고 싶은 걸까요? 집에 있고 싶은 걸까요? 먹고 싶은 걸까요? 자고 싶은 걸까요? 이것도 맞는 것 같고, 저것도 맞는 ···",
+      "author": "김상민 기자",
+      "summary": "자신의 복잡하고 모순적인 내면의 욕망과 감정들의 공존을 표현하며, 자기 자신의 진정한 욕망을 파악하기의 어려움을 드러냈다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e1117d799e1f",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "사우디아라비아가 배우는 교훈: 트럼프에 의존할 수 없다",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/19/saudi-arabia-trump-relationship",
+      "publishedAt": "2026-10-19T11:00:55.000Z",
+      "description": "After Houthis escalated their attacks on Saudi Arabia, the US turned down calls from MBS for help For years, Saudi Arabia’s crown prince, Mohammed bin Salman, cultivated a close relationship with Donald Trump and his son-in-law and former top adviser, Jared Kushner. The prince understood the president’s transactional approach to power: he signed deals to buy billions of dollars’ worth of US weapons and invested billions more in American companies. Days after Trump returned to the White House in January 2025, Prince Mohammed pledged to expand investment and trade with the US by $600bn over four",
+      "author": "Mohamad Bazzi",
+      "summary": "사우디 왕세자가 트럼프에 수십억 달러를 투자했지만 후티 공격에 미국의 지원을 받지 못하면서 트럼프의 거래식 정치에 의존할 수 없다고 지적했다.",
+      "summarySource": "llm"
+    }
+  ],
+  "summarizedAt": "2026-10-20T01:00:52.414Z",
+  "summaryStats": {
+    "llm": 40,
+    "fallback": 10,
+    "model": "claude-haiku-4-5"
+  }
+}
