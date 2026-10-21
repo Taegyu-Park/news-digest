@@ -1,0 +1,899 @@
+{
+  "date": "2026-10-20",
+  "generatedAt": "2026-10-21T00:23:51.527Z",
+  "categories": [
+    {
+      "id": "it",
+      "label": "IT·과학·AI"
+    },
+    {
+      "id": "economy",
+      "label": "경제·금융"
+    },
+    {
+      "id": "politics",
+      "label": "정치·사회"
+    },
+    {
+      "id": "world",
+      "label": "세계·국제"
+    },
+    {
+      "id": "editorial",
+      "label": "사설·칼럼",
+      "opinion": true,
+      "summaryMaxChars": 220
+    }
+  ],
+  "feedStatus": [
+    {
+      "source": "Ars Technica",
+      "category": "it",
+      "ok": true,
+      "matched": 7
+    },
+    {
+      "source": "Hacker News",
+      "category": "it",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "TechCrunch",
+      "category": "it",
+      "ok": true,
+      "matched": 4
+    },
+    {
+      "source": "The Verge",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "블로터",
+      "category": "it",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "전자신문",
+      "category": "it",
+      "ok": true,
+      "matched": 19
+    },
+    {
+      "source": "ZDNet Korea",
+      "category": "it",
+      "ok": true,
+      "matched": 25
+    },
+    {
+      "source": "BBC Business",
+      "category": "economy",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "The Guardian",
+      "category": "economy",
+      "ok": true,
+      "matched": 23
+    },
+    {
+      "source": "매일경제 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 39
+    },
+    {
+      "source": "연합뉴스",
+      "category": "economy",
+      "ok": true,
+      "matched": 66
+    },
+    {
+      "source": "경향신문 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 43
+    },
+    {
+      "source": "경향신문 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 24
+    },
+    {
+      "source": "노컷뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "서울신문",
+      "category": "politics",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "연합뉴스 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 35
+    },
+    {
+      "source": "연합뉴스 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 100
+    },
+    {
+      "source": "SBS 뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "Al Jazeera",
+      "category": "world",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC World",
+      "category": "world",
+      "ok": true,
+      "matched": 19
+    },
+    {
+      "source": "NPR",
+      "category": "world",
+      "ok": true,
+      "matched": 5
+    },
+    {
+      "source": "The Guardian",
+      "category": "world",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "연합뉴스 국제",
+      "category": "world",
+      "ok": true,
+      "matched": 54
+    },
+    {
+      "source": "매일경제 증권",
+      "category": "economy",
+      "ok": true,
+      "matched": 39
+    },
+    {
+      "source": "경향신문 오피니언",
+      "category": "editorial",
+      "ok": true,
+      "matched": 12
+    },
+    {
+      "source": "NYT Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 19
+    },
+    {
+      "source": "The Guardian Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 13
+    },
+    {
+      "source": "Washington Post Opinions",
+      "category": "editorial",
+      "ok": false,
+      "error": "HTTP 502",
+      "matched": 0
+    },
+    {
+      "source": "동아일보 사설",
+      "category": "editorial",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "동아일보 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 31
+    },
+    {
+      "source": "조선일보",
+      "category": "politics",
+      "ok": true,
+      "matched": 3
+    },
+    {
+      "source": "동아일보 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "머니투데이",
+      "category": "economy",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "Wired",
+      "category": "it",
+      "ok": true,
+      "matched": 28
+    },
+    {
+      "source": "DW News",
+      "category": "world",
+      "ok": true,
+      "matched": 10
+    }
+  ],
+  "items": [
+    {
+      "id": "3f48fe49da2f",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "폴스타, 고성능 전기차 주행 경험을 뇌파로 측정",
+      "link": "https://arstechnica.com/cars/2026/10/polestar-tries-to-quantify-what-its-like-to-drive-a-performance-car/",
+      "publishedAt": "2026-10-20T14:53:07.000Z",
+      "description": "Drivers had electrodes strapped to their heads as they tested EVs on track.",
+      "author": "Jonathan M. Gitlin",
+      "summary": "폴스타는 운전자의 머리에 뇌파 측정 전극을 부착한 후 고성능 전기차를 트랙에서 테스트해 주행 경험을 정량화했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "408ed8a188b4",
+      "category": "it",
+      "source": "Hacker News",
+      "region": "intl",
+      "title": "Ofcom, 4chan 사건에서 패배 인정",
+      "link": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
+      "publishedAt": "2026-10-20T14:30:31.000Z",
+      "description": "Article URL: https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/ Comments URL: https://news.ycombinator.com/item?id=50167028 Points: 317 # Comments: 221",
+      "author": "iamnothere",
+      "summary": "영국 통신청 Ofcom이 4chan과 관련된 법적 분쟁에서 패배를 인정하고 사건을 종료했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ec67b32c63cb",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "OK저축은행, 보안 구멍에 500여명 털렸다…정길호 책임론 번지나",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=676113",
+      "publishedAt": "2026-10-20T14:22:27.000Z",
+      "description": "OK저축은행에서 발생한 연쇄 해킹으로 500명 넘는 고객의 개인·금융 정보가 유출된 가운데 책임 범위를 놓고 설왕설래가 이어지고 있다. 금융당국이 금융권 사이버 보안 실패의 책임 문제를 최고경영자(CEO)까지 다루겠다고 공식화하면서 정길호 OK저축은행 대표이사도 사정권에 들어올 수 있다는 평가가 나온다. 책무구조도상 내부통제 관리 의무 이행을 비롯해 사후 수습 노력, 불가항력적 여부 등이 쟁점으로 지목된다.20일 금융권에 따르면 금융감독원은 16일부터 OK저축은행 해킹 사태와 관련해 현장점검을 벌이고 있다. OK저축은행 측은 \"아직",
+      "author": "유한일 기자",
+      "summary": "OK저축은행의 해킹 사태로 500명 이상의 고객 개인·금융 정보가 유출되면서 최고경영자의 책임 문제가 쟁점이 되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6fce357d7ac5",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "피그마 창업자, MCP 프로토콜의 한계 지적",
+      "link": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
+      "publishedAt": "2026-10-20T14:13:32.000Z",
+      "description": "Figma said it plans to support as many standards as possible without exposing all of its data.",
+      "author": "Ivan Mehta",
+      "summary": "피그마 창업자는 MCP 프로토콜이 완벽하지 않다고 지적하며 데이터 보안을 유지하면서 다양한 표준을 지원하는 방안을 검토하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ceee60f9e8e1",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "에브리존 \"자카르타 은행, 작년 이어 올해도 '화이트디펜더' 계약\"",
+      "link": "https://zdnet.co.kr/view/?no=20261020223832",
+      "publishedAt": "2026-10-20T13:38:32.000Z",
+      "description": "[지디넷코리아]랜섬웨어 대응 전문 엔드포인트 보안기업 에브리존(대표 홍승균)이 최근 인도네시아에서 열린 보안 행사에 참가했다. 자사 안티랜섬웨어 솔루션 ‘화이트디펜더(WhiteDefender)’를 전시하고, 현지 고객 대상 세미나와 파트너 협력 강화 활동을 진행했다.20일 회사에 따르면, 이번 전시에에브리존은 행위 기반 랜섬웨어 탐지·차단 기술과 보호 대상 파일의 자동 복원 기능을 소개했다. 화이트디펜더는 악성코드의 시그니처에 의존하지 않고 파일 암호화 등 의심 행위를 분석해 원인 프로세스를 차단한다. 특히 순간 백업과 자동 복원을 연계한 데이터 보호 기술을 보유하고 있다. 랜섬웨어 탐지 및 차단부터 보호 대상 파일 복원까지 아우르는 대응 역량이 강점이다.고객 세미나와 제품 교육은 랜섬웨어 위협에 대한 이해와 제품 활용도를 높이는 데 초점을 맞췄다. 업무 파일과 서버 데이터 암호화가 업무 중단으로 이어지는 위험을 설명하고, 주요 기능과 활용 방법을 안내, 고객이 자사의 보안 환경에 맞는 대응 방안을 이해할 수 있게 했다.현지 파트너와는 고객 교육과 기술 지원을 중심으로 협력을 이어갈 계획이다. 전시와 세미나에서 만난 고객과의 소통을 지속하면서 제품 도입과 운",
+      "author": "방은주 기자",
+      "summary": "에브리존이 개발한 랜섬웨어 대응 솔루션 '화이트디펜더'를 자카르타의 한 은행이 작년에 이어 올해도 계약했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a6f5c4ec9f2f",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "레플리카 창업자의 AI 비서 앱 '와비 2.0', 모든 이용자에 공개",
+      "link": "https://zdnet.co.kr/view/?no=20261020223758",
+      "publishedAt": "2026-10-20T13:37:58.000Z",
+      "description": "[지디넷코리아]AI 챗봇 레플리카를 창업한 유지니아 쿠이다가 현지 시각 10월 19일 새 AI 비서 앱 '와비 2.0(Wabi 2.0)'을 모든 이용자에게 공개했다. 와비는 지난 9월 말 앱 제작 플랫폼에서 메신저 형태의 AI 비서로 서비스를 전환했으며, 그동안은 초대 코드를 받은 이용자만 사용할 수 있었다. 와비는 무료로 제공되며, 와비 측은 아직 수익 모델을 정하지 않았다. 앱은 와비 공식 웹사이트에서 내려받을 수 있다.와비는 메신저처럼 대화방 형태로 작동한다. 이용자는 운동이나 육아, 여행 계획 등 목적별로 여러 대화방을 개설하고, 대화방마다 AI 비서에게 작업을 맡길 수 있다. 대화방에는 필요한 앱도 추가할 수 있어, 건강 관리 대화방에는 칼로리 기록과 체중 기록 앱을, 가족 대화방에는 아이 활동 일정과 지역 행사 안내 앱을 추가할 수 있다. 와비 2.0에서는 어떤 앱이 필요한지 AI가 직접 판단해 제작하며, 이메일 계정을 연결하면 기본 대화방과 앱이 자동으로 생성된다. 대화방은 다른 사람과 공유해 단체 대화방처럼 사용할 수 있다.쿠이다는 한 대화방에서 모든 일을 처리하는 AI 비서는 대화가 길어질수록 참고할 내용이 지나치게 많아져 성능이 떨어진다며,",
+      "author": "AI 에디터",
+      "summary": "레플리카 창업자 유지니아 쿠이다가 개발한 AI 비서 앱 '와비 2.0'이 모든 이용자에게 공개되었으며, 사용자는 목적별 대화방을 만들어 활용할 수 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3c9f996f0b50",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "9일째 러닝머신 걷는 로봇…560km·120만 걸음 돌파",
+      "link": "https://www.etnews.com/20261020000291",
+      "publishedAt": "2026-10-20T13:30:00.000Z",
+      "description": "휴머노이드 로봇이 러닝머신 위에서 9일째 계속 걷는 영상이 화제가 되고 있습니다. 미국 로봇 스타트업 피규어 AI의 최고경영자(CEO) 브렛 애드콕은 지난 19일 자사 휴머노이드 로봇 '피규어 03'의 장기 보행 영상을 공개했습니다. 로봇은 러닝머신 위에서 9일 연속 걸으며 약 560km, 120만 걸음을 기록했습니다. 이 영상은 로봇을 장시간 반복해서 걷게 하며 관절과 구동계 등 하드웨어가 얼마나 오래 버티는지, 어떤 지점에서 고장이 발생하는",
+      "author": "이창민",
+      "summary": "미국 로봇 스타트업 피규어 AI의 휴머노이드 로봇 '피규어 03'이 러닝머신에서 9일 연속 보행해 약 560km와 120만 걸음을 기록했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "bc080ddcafee",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "셀카 한 장으로 암 환자 생존 가능성 예측…AI가 '생물학적 나이' 읽는다",
+      "link": "https://www.etnews.com/20261020000357",
+      "publishedAt": "2026-10-20T12:15:00.000Z",
+      "description": "얼굴 사진 한 장만으로 암 환자의 생존 가능성을 예측하는 인공지능(AI) 기술이 개발됐다. 환자의 실제 나이와 별개로 얼굴에 나타난 '생물학적 나이'를 추정하고, 이를 바탕으로 치료 이후 생존 위험을 분석하는 방식이다. 19일(현지시간) 영국 가디언에 따르면 미국 매사추세츠의 비영리 의료기관 매스제너럴브리검(MGB) 연구진은 암 환자의 얼굴 사진을 분석해 생물학적 나이와 생존 가능성을 예측하는 AI 시스템을 개발했다. 연구 결과는 의학저널 '란",
+      "author": "서희원",
+      "summary": "미국 매스제너럴브리검 연구진이 얼굴 사진을 분석해 암 환자의 생물학적 나이와 생존 위험을 예측하는 AI 시스템을 개발했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "89f1325d6d4f",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "소니 ULT 타워 7, $100 할인 판매",
+      "link": "https://www.wired.com/story/sony-party-speaker-deals-october-2026/",
+      "publishedAt": "2026-10-20T11:00:00.000Z",
+      "description": "The Sony ULT Tower 7 is one of our top party speaker picks and is at its lowest-ever price. Grab this or one of its sibling models before your next fete.",
+      "author": "Les Shu",
+      "summary": "소니의 프리미엄 파티용 스피커 ULT 타워 7이 100달러 할인되어 역대 최저가인 현재가에 구입할 수 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "bd577500ce1f",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "테슬라 플라잉 로드스터의 물리학",
+      "link": "https://www.wired.com/story/physics-behind-tesla-flying-roadster/",
+      "publishedAt": "2026-10-20T10:45:00.000Z",
+      "description": "To understand how Elon’s new car hops, glides, and sticks upside down, we need to talk about friction and force.",
+      "author": "Rhett Allain",
+      "summary": "일론 머스크의 테슬라 플라잉 로드스터가 어떻게 도약하고 활공하며 역주행하는지 이해하려면 마찰력과 힘의 원리 이해가 필요하다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8af6ce61ad54",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "NatWest, 근로자 주 2회 출근 의무화에 노조 반발",
+      "link": "https://www.bbc.co.uk/news/articles/cmly0qwnlgdvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T14:50:19.000Z",
+      "description": "The bank says workers will be required to attend the office at least two days a week from February.",
+      "author": null,
+      "summary": "NatWest은 2월부터 근로자들에게 주 2회 이상 사무실 출근을 의무화할 계획을 밝혔고, 이에 노조가 강하게 반발하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "763fd90645ae",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "Ryanair 회장, 2027년 유럽 항공료 최대 20% 인상 전망",
+      "link": "https://www.theguardian.com/business/2026/oct/20/european-air-fares-rise-2027-ryanair-fuel-costs",
+      "publishedAt": "2026-10-20T14:28:56.000Z",
+      "description": "Conflict in Middle East is pushing jet fuel costs higher and many carriers are not hedged against such increases, Michael O’Leary says Ryanair’s chief executive has predicted a record increase in European air fares next year, as airlines grapple with fuel bills pushed higher by the Middle East conflict. Many carriers are not hedged against rising jet fuel costs, Michael O’Leary said, which he predicted would lead to airline bankruptcies and takeovers. He forecast these pressures would result in the price of plane tickets rising by as much as 20%. Continue reading...",
+      "author": "Joanna Partridge",
+      "summary": "Ryanair 최고경영자는 중동 분쟁으로 인한 제트유 가격 상승과 항공사들의 미흡한 대비 체계로 인해 2027년 유럽 항공료가 최대 20% 인상될 수 있다고 예측했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "cebc4e6882f5",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "Paddy Power 모사 Flutter, 세금 인상으로 최대 1,400명 감원 계획",
+      "link": "https://www.theguardian.com/society/2026/oct/20/paddy-power-owner-flutter-tax-rises-jobs-cuts-gambling",
+      "publishedAt": "2026-10-20T14:24:36.000Z",
+      "description": "Flutter says one in 10 UK and Ireland workers at risk of redundancy because of a ‘material increase in betting and gaming duties’ The gambling company behind Paddy Power and Sky Bet has announced up to 1,400 job cuts, blaming tax rises imposed by Rachel Reeves. Flutter Entertainment revealed plans on Tuesday to restructure its UK and Ireland division, affecting staff in Leeds, Dublin and Sunderland. Redundancies are also expected to hit offices in Porto in Portugal and Cluj-Napoca in Romania. Continue reading...",
+      "author": "Rob Davies",
+      "summary": "Flutter Entertainment는 영국과 아일랜드의 베팅·게임 세금 인상을 이유로 Paddy Power와 Sky Bet 부문에서 최대 1,400명 감원을 계획하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "555b50d679fe",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "공무원 연금 지연으로 유족에게 '부당한' 세금 부담",
+      "link": "https://www.bbc.co.uk/news/articles/cq1m4zz9e44go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T12:36:43.000Z",
+      "description": "The chairman of Parliament's Public Accounts Committee says families should not be taxed through no fault of their own.",
+      "author": null,
+      "summary": "공무원 연금 지급 지연으로 인해 유족들이 자신의 과실 없이 세금을 부담해야 하는 부당한 상황이 발생하고 있다는 지적이 나왔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2d99b513e040",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "역삼 방화 70대, 4년 전에도 특허법인에 휘발유 뿌려 위협한 전력",
+      "link": "https://www.yna.co.kr/view/AKR20261020173700004",
+      "publishedAt": "2026-10-20T12:36:18.000Z",
+      "description": "(서울=연합뉴스) 조현영 기자 = 20일 서울 강남구 역삼동 특허법인이 있는 빌딩 2곳에 연달아 불을 질러 10여명을 다치게 한 70대 남성이 ...",
+      "author": "조현영",
+      "summary": "서울 강남구 역삼동 특허법인 건물에 불을 질러 10여명을 다치게 한 70대 남성이 4년 전 다른 특허법인 2곳에 휘발유를 뿌려 위협한 사건의 전력이 있는 것으로 드러났다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "494634289d2b",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "금융위원장, 주택담보대출 축소 관련 SNS 게시글 '허위' 발표",
+      "link": "https://www.mk.co.kr/news/economy/12181065",
+      "publishedAt": "2026-10-20T11:59:04.000Z",
+      "description": "“수사 의뢰 등 엄정 대응”이억원 금융위원장이 주택담보대출 한도를 추가로 축소한다는 온라인 게시글에 대해 허위 사실이라며 수사 의뢰 등 강경 대응 방침을 밝혔다. 이 위원장은 20..",
+      "author": "매일경제",
+      "summary": "이억원 금융위원장은 15억 이상 주택담보대출 축소를 주장한 온라인 게시글이 허위라며 수사 의뢰 등 강경 대응 방침을 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ae730f7ab917",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "NXT, 프리마켓 시가 단일가매매 내년 1월 18일 도입",
+      "link": "https://www.yna.co.kr/view/AKR20261020172700008",
+      "publishedAt": "2026-10-20T11:30:05.000Z",
+      "description": "(서울=연합뉴스) 김유향 기자 = 대체거래소(ATS) 넥스트레이드가 내년 1월 도입을 추진 중인 프리마켓 시가 단일가매매의 목표일을 18일로 확...",
+      "author": "김유향",
+      "summary": "대체거래소 NXT(넥스트레이드)는 프리마켓 시가 단일가매매 제도를 내년 1월 18일 도입할 목표를 확정했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0b129460a4c5",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "삼전·하이닉스 비중 늘린 개미투자자들 AI 랠리 후 손실 직면",
+      "link": "https://www.mk.co.kr/news/stock/12181027",
+      "publishedAt": "2026-10-20T11:14:09.000Z",
+      "description": "올해 인공지능(AI) 인프라스트럭처 투자 열풍에 따른 반도체 랠리에 힘입어 국내 증시로 역대 최대 규모의 개인 자금 ‘머니무브’가 나타났다. 삼성전자와 SK하이닉스를 중심으로 국내..",
+      "author": "매일경제",
+      "summary": "AI 인프라 투자 확대로 반도체 주가가 오르자 개인투자자들이 삼성전자와 SK하이닉스 비중을 크게 늘렸으나, 최근 주가 하락으로 손실을 보고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9038b278ac9e",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "지역건보 부담 급증, 394만 가구 3.3조 원 추가 납부 예상",
+      "link": "https://www.mk.co.kr/news/economy/12180999",
+      "publishedAt": "2026-10-20T10:46:57.000Z",
+      "description": "정부가 건강보험료 소득 정산 제도를 전 국민에게 확대 적용하는 방안을 추진한다. 이 방안이 현실화하면 지역가입자 394만가구가 3조3000억원에 달하는 보험료를 추가로 내야 할 것..",
+      "author": "매일경제",
+      "summary": "정부가 건강보험료 소득 정산 제도를 전 국민에게 확대 적용할 경우 지역가입자 394만 가구가 3조 3,000억 원의 보험료를 추가로 납부해야 할 것으로 예상된다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "780cbcb177cc",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "노무라증권, 메모리 수요 강기매로 하이닉스·삼성전자 강추",
+      "link": "https://www.mk.co.kr/news/stock/12180906",
+      "publishedAt": "2026-10-20T09:00:44.000Z",
+      "description": "메모리 업황 강세 이어질듯 CXMT發 시장 우려 지나쳐 삼전닉스 앤트로픽 투자 긍정노무라증권은 20일 인공지능(AI) 기업의 매출 둔화와 데이터센터 자금조달 우려에도 메모리 수요가..",
+      "author": "매일경제",
+      "summary": "노무라증권은 AI 기업 매출 둔화 우려에도 불구하고 메모리 수요가 강세를 지속할 것으로 전망하며 SK하이닉스와 삼성전자에 강기매 의견을 제시했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e51feca93550",
+      "category": "politics",
+      "source": "SBS 뉴스",
+      "region": "kr",
+      "title": "\"죄송합니다\" 매일 사과하는 민주당…잇단 실언들",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008806842",
+      "publishedAt": "2026-10-20T14:57:00.000Z",
+      "description": "민주당에서는 추미애 경기지사의 '소방 재정 빨대' 발언 이후로도 부적절한 언행이 잇따르면서, 연일 공식사과가 나오고 있습니다. 당 지도부는 \"잇따른 실언으로 국민의 분노가 커지고 있다\"며 오늘도 사과했습니다.",
+      "author": "spirit@sbs.co.kr (김관진)",
+      "summary": "민주당 내 지도부와 의원들의 잇단 부적절한 발언으로 연일 공식사과가 나오고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "045adcd7d138",
+      "category": "politics",
+      "source": "연합뉴스 사회",
+      "region": "kr",
+      "title": "몸에 인화성물질 뿌리고 시청 당직실 소동 60대 입건",
+      "link": "https://www.yna.co.kr/view/AKR20261020180200061",
+      "publishedAt": "2026-10-20T14:33:20.000Z",
+      "description": "(경기광주=연합뉴스) 김지원 기자 = 시청에 찾아가 임금 지급 문제에 항의하며 자신의 몸에 인화성 물질을 뿌린 채 업무를 방해한 60대 남성이 ...",
+      "author": "김지원",
+      "summary": "임금 지급 문제로 항의하던 60대 남성이 시청 당직실에서 몸에 인화성물질을 뿌려 업무를 방해하는 사건이 발생했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c44636184e4f",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "3기 신도시 찾은 이 대통령 \"2030년까지 90% 착공해야\"",
+      "link": "https://www.khan.co.kr/article/202610202213025/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-10-20T13:13:02.000Z",
+      "description": "인천 계양 현장 시찰 ‘속도’ 강조“공급 기준, 착공 아닌 실제 입주부동산 정책 성패 가를 분기점”인천 계양 3기 신도시 현장 시찰 이재명 대통령이 20일 인천 계양 공공주택지구 A3블록의 한 건물 위에서 3기 신도시 입주를 앞둔 인천 계양과 부천 대장 지구 현황 보고를 받고 있다. 계양 지역은 오는 12월 3기 신도시 중 처음으로 입주가 시작된다. 청와대···",
+      "author": "김윤나영·허남설 기자",
+      "summary": "이재명 대통령이 인천 계양 3기 신도시 현장을 시찰하며 2030년까지 90% 착공을 강조했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a379c04460e4",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "[포토뉴스]벌목 들어간 용인 반도체 산단 부지…환경단체들 \"조기 공사 중단\"",
+      "link": "https://www.khan.co.kr/article/202610202213015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-10-20T13:13:01.000Z",
+      "description": "‘용인 반도체 국가산단 재검토와 초고압 송전탑 건설 반대 전국행동’ 활동가들이 20일 용인 반도체 국가산단 예정부지인 경기 용인시 처인구 달봉산의 벌목공사 현장에서 “사회적 갈등 해결 없는 벌목과 조기 공사 중단”을 촉구하고 있다.",
+      "author": "강윤중 선임기자",
+      "summary": "용인 반도체 국가산단 예정부지에서 벌목이 진행 중인 가운데, 환경단체들이 사회적 갈등 해결 없이 진행되는 벌목과 조기 공사의 중단을 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f149708f189f",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "\"핵보유 北, 손에 쥔 카드 늘어…中 '북핵-한미훈련 함께 중단' 구상 안 통해\"",
+      "link": "https://www.donga.com/news/Inter/article/all/20261020/134878227/1",
+      "publishedAt": "2026-10-20T13:08:00.000Z",
+      "description": "“중국이 북미 대화를 지원하고, (한반도) 종전과 평화체제 관련 당사국 협의에 적극적이고 건설적인 역할을 해 주길 기대한다.”(노규덕 전 외교부 한반도평화교섭본부장)“도널드 트럼프 미국 대통령이 북미 대화 재개를 진정 원한다면 먼저 대북 독자 제재를 중단하고 대규모 한미 연합훈련을 축소해야 한다.”(중국 측 전문가)한국과 중국의 외교·안보 전문가들이 한자리에 모여 한반도 문제를 논의하는 공동학술회의가 20일 베이징에서 열렸다. 양국 전문가들은 단계적으로 북핵 문제를 풀어가면서 한반도 평화체제를 구축해야 한다는 데 공감했다. 그러나 북한을 협상장으로 끌어내기 위한 선결 조건에서는 미묘한 온도차를 드러냈다. 한국 측이 중국의 적극적인 역할을 주문한 반면 중국 측에서는 한국과 미국의 선제 조치를 강조했다.●“한반도 안보 매우 엄중…중국 역할 중요”이날 공동학술회의는 국가정보원 유관 기관인 국가안보전략연구원(전략연)과 중국의 싱크탱크인 궈관즈쿠(國觀智庫)가 공동으로 주최했다. 주제",
+      "author": null,
+      "summary": "한·중 외교·안보 전문가들이 한반도 평화체제 구축을 위해 북핵 문제를 단계적으로 풀어야 한다는 데 공감했으나, 북한을 협상장으로 끌어내기 위한 선결 조건에서는 의견이 엇갈렸다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f780c3bbe182",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "[포토뉴스]\"주거지역 데이터센터 10개 난립 중단하라\"",
+      "link": "https://www.khan.co.kr/article/202610202200015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-10-20T13:00:01.000Z",
+      "description": "20일 서울 종로구 세종문화회관 계단에서 주거지역 데이터센터 난립 중단 및 입지기준 마련 촉구 공동 기자회견이 열리고 있다.",
+      "author": "성동훈 기자",
+      "summary": "주거지역에 난립 중인 데이터센터 사업의 중단과 입지기준 마련을 촉구하는 기자회견이 열렸다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "37771fee9f05",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "LIG D&A, 입찰제한에 법적대응 예고…수주·개발 차질 비상",
+      "link": "https://www.yna.co.kr/view/AKR20261020174000003",
+      "publishedAt": "2026-10-20T12:05:58.000Z",
+      "description": "(서울=연합뉴스) 김윤구 기자 = 방위사업청이 뇌물공여와 원가 부정 혐의로 기소된 LIG 디펜스&에어로스페이스(D&A)에 2년간 ...",
+      "author": "김윤구",
+      "summary": "LIG 디펜스&에어로스페이스가 방위사업청의 입찰제한에 법적 대응을 예고하며, 회사의 수주와 개발 사업에 차질이 불가피할 것으로 보인다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d48c763740b2",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "北, 日 야스쿠니 참배 맹비난…\"군국주의 망령 부르는 추태\"",
+      "link": "https://www.yna.co.kr/view/AKR20261020170900504",
+      "publishedAt": "2026-10-20T11:01:45.000Z",
+      "description": "(서울=연합뉴스) 윤보람 기자 = 북한은 일본 다카이치 사나에 총리의 야스쿠니 신사 공물 봉납과 정치인들의 집단 참배를 두고 \"군국주의 망령을 ...",
+      "author": "윤보람",
+      "summary": "북한이 일본의 다카이치 사나에 총리의 야스쿠니 신사 공물 봉납과 정치인들의 집단 참배를 군국주의 부활로 맹비난했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d4cd64cc19fd",
+      "category": "politics",
+      "source": "서울신문",
+      "region": "kr",
+      "title": "부승찬은 긴급 직권조사, 추미애는 침묵?… 당내서도 \"추미애도 처분해야\"",
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20261020500271",
+      "publishedAt": "2026-10-20T08:00:58.000Z",
+      "description": "‘소방 재정 빨대’ 발언으로 논란을 빚은 추미애 경기지사와 부승찬 더불어민주당 의원에 대한 당의 조치를 두고 형평성 논란이 불거졌다. 추 지사에 대한 구체적 조치 없이 부 의원에 대해서만 긴급 직권조사를 지시하면서다. 당 안팎에선 추 지사에 대한 징계 요구가 계속 쏟아지고 있다. 민주당 지도부 관계자는 20일 통화에서 “부 의원만 징계하고 추 지사는 징계하지 않으면 문제가 있는 것”이라며 “추 지사라고 책임을 피해 갈 수 있겠나”라고 말했다. 5선 박지원 의원도 전날 한 유튜브에서 “아무 일이 없던 것처럼 넘어가서는 안 된다”며 “(추 지사에게) 최소한 당 지도부 최고위의 결의로 경고 처분은 해야 된다”고 했다. 앞서 김민석 대표는 전날 부 의원의 ‘소방 재정 쭉쭉’ 발언에 대해 엄중 경고하고 윤리감찰단에 직권조사를 지시했다. 그러자 여권 커뮤니티를 중심으로 ‘왜 원인 제공자인 추 지사에 대해선 조치를 하지 않느냐’는 비판 목소리가 제기됐다. 서영석 경기도당 위원장은 이날 MBC 라디오에서 “(추 지사의) 징계와 출당까지 격하게 요구하는 문자와 전화가 많이 오는 상황”이라고 전했다. 소방 재정 문제를 둘러싸고 연이은 실언으로 여론이 악화하자 당 차원에선 ‘언",
+      "author": "김서호 기자",
+      "summary": "'소방 재정 빨대' 발언으로 논란을 빚은 추미애 경기지사에 대한 처분 없이 부승찬 의원에게만 긴급 직권조사를 지시하자 당 내부에서 추 지사에 대한 징계 요구가 이어지고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f942dd0be269",
+      "category": "politics",
+      "source": "조선일보",
+      "region": "kr",
+      "title": "56만개 히트 28차 연속 완판, 화제의 '염색 샴푸' 조선몰 단독 특가",
+      "link": "https://www.chosun.com/economy/startup_story/2026/06/01/A63FTWADKNFYFLMDDE6WO3H6RM/",
+      "publishedAt": "2026-10-20T07:32:06.000Z",
+      "description": "",
+      "author": "이영지 더비비드 기자, 박유연 기자",
+      "summary": "조선몰의 염색 샴푸 상품이 56만 히트를 기록하고 28차 연속으로 완판되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2702ec5361c2",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "남아공 해변서 수영하던 여성, 상어에 물려 사망",
+      "link": "https://www.yna.co.kr/view/AKR20261020181500099",
+      "publishedAt": "2026-10-20T14:59:11.000Z",
+      "description": "(요하네스버그=연합뉴스) 나확진 특파원 = 남아프리카공화국 동부 이스턴케이프주 쿠곰포시(옛 이스트런던)의 해안에서 수영하던 65세 여성이 상어의...",
+      "author": "나확진",
+      "summary": "남아프리카공화국 동부 해변에서 수영 중이던 65세 여성이 상어에 물려 사망했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "342054223595",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "이란 외무 \"러시아-이란, 역사상 지금처럼 긴밀했던 적 없어\"",
+      "link": "https://www.yna.co.kr/view/AKR20261020181300079",
+      "publishedAt": "2026-10-20T14:52:07.000Z",
+      "description": "(카이로=연합뉴스) 김상훈 특파원 = 아바스 아라그치 이란 외무장관은 20일(현지시간) 러시아와 이란이 역사상 지금처럼 긴밀하게 협력한 적은 없...",
+      "author": "김상훈",
+      "summary": "이란 외무장관이 러시아와의 관계가 역사상 현재만큼 긴밀했던 적이 없다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d79f2fcbf9c1",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "후티의 예멘 미사일 공격으로 보안군 신병 73명 사망",
+      "link": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T14:09:42.000Z",
+      "description": "Three missiles hit a camp in government-controlled Shabwa province on Monday that was being used as a training centre, Yemen's army says.",
+      "author": null,
+      "summary": "후티(Houthi) 미사일 3발이 예멘 정부 통제지역의 보안군 훈련소를 공격해 73명이 사망했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "04c63473d001",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "캐나다 앨버타주 분리독립 운동, 결정적 패배로 큰 타격",
+      "link": "https://www.bbc.co.uk/news/articles/cjly016320q1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T13:39:11.000Z",
+      "description": "Leaders of the movement for independence vow to push on but the margin of defeat could make that difficult.",
+      "author": null,
+      "summary": "캐나다 앨버타주의 분리독립 운동이 크나큰 패배를 입었으며, 운동 지도자들은 계속 추진하겠다고 다짐했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1fb6a55024a3",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "NBA 바그너 형제, 새 시즌 각각 다른 팀에서 시작",
+      "link": "https://www.dw.com/en/wagner-brothers-begin-new-nba-chapter-on-different-paths/a-79712668?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-10-20T12:31:00.000Z",
+      "description": "After five years, brothers Franz and Moritz Wagner are no longer playing together for the Orlando Magic. In the new NBA season, their separation will likely mean the new \"German\" team is the Charlotte Hornets.",
+      "author": null,
+      "summary": "5년간 함께 뛰던 바그너(Wagner) 형제가 새 시즌을 다른 팀에서 시작한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "38472d6e5dea",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "페루 아마존 기본소득 사업, 열대우림 보호에 효과",
+      "link": "https://www.theguardian.com/environment/2026/oct/20/unconditional-basic-income-amazon-rainforest-peru-study",
+      "publishedAt": "2026-10-20T12:00:36.000Z",
+      "description": "Researchers say almost 90% of participants in unconditional basic income scheme in Peru adopted environmentally beneficial practices A pioneering project to provide Indigenous people in the Peruvian Amazon with an unconditional basic income has contributed to the protection of the rainforest, according to a study. The analysis from the University of Bath is expected to contribute to a growing debate about the role of direct payments to communities that maintain globally important ecosystems. Continue reading...",
+      "author": "Jonathan Watts",
+      "summary": "페루 아마존의 토착민에게 무조건부 기본소득을 지급하는 시범사업이 참여자의 약 90%가 환경 친화적 관행을 채택하며 열대우림 보호에 기여했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7632327f9b4d",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "독일, 구글의 부동산 정보 무단 게시 금지",
+      "link": "https://www.dw.com/en/germany-google-must-have-consent-to-publish-property-images/a-79712552?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-10-20T11:46:00.000Z",
+      "description": "A court in the western German state of Hesse has said Google is \"spying\" on people and has no right to publish information about their property on its Maps and Earth sites. The case stems from images taken from the air.",
+      "author": null,
+      "summary": "독일 법원이 구글이 공중 이미지를 통해 개인 부동산 정보를 무단으로 게시하는 것을 감시 행위로 판단하고 동의 없는 게시를 금지했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ff7c57376871",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "미 검찰, 투표 범죄로 28명 기소",
+      "link": "https://www.npr.org/2026/10/20/g-s1-148877/up-first-newsletter-california-elections-doj-midterms-trump-tiktok",
+      "publishedAt": "2026-10-20T11:04:49.000Z",
+      "description": "The Justice Department has charged 28 people in California with voting crimes as Election Day nears. And, TikTok staff raised child safety concerns with executives, who failed to act, court records show.",
+      "author": "Brittney Melton",
+      "summary": "미국 사법부가 캘리포니아에서 투표 범죄로 28명을 기소했고, TikTok 경영진이 직원들의 아동 안전 우려를 무시한 것으로 드러났다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "97a6c02f3b10",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "트럼프, 우크라이나 전쟁 종료 추진하며 러시아 친화적 정책",
+      "link": "https://www.npr.org/2026/10/20/nx-s1-6007897/trump-makes-russia-friendly-moves-as-he-looks-for-a-way-to-end-the-war-with-ukraine",
+      "publishedAt": "2026-10-20T11:03:52.000Z",
+      "description": "President Trump's up and down relationship with Russia is back on as he presses to find an end to the war in Ukraine amid high energy costs ahead of the U.S. midterms.",
+      "author": "Emily Feng",
+      "summary": "트럼프 대통령이 우크라이나 전쟁 종료 방안을 추진하면서 러시아에 우호적인 정책을 펼치고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "bb91af111d74",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "호주 독립 의원 헬렌 헤인즈, 자동차 공격으로 다리 절단",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-mp-alleged-attack-wangaratta-surgery-ntwnfb",
+      "publishedAt": "2026-10-20T10:37:28.000Z",
+      "description": "Independent MP is in critical yet stable condition after man allegedly did U-turn to strike her twice with his car Brendan Nugent’s family say Helen Haines has been their friend for more than 20 years ‘I don’t want to be known as a hero’: barber who rushed to help Helen Haines praised by PM Get our new political email, free app or daily news podcast The man accused of attacking Helen Haines allegedly made a U-turn before ramming the independent MP twice in an alleged targeted attack near her electorate office, causing her to lose one of her legs. The member for Indi was airlifted from Wangarat",
+      "author": "Tess Ikonomou and Tom McIlroy",
+      "summary": "호주 독립 하원의원 헬렌 헤인즈가 남성의 의도적인 자동차 충격으로 한쪽 다리를 잃었으며, 다른 다리를 살리기 위해 의료진이 치료 중이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "072c10a0a1a9",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "트럼프의 일한 오마르 집착이 위험한 수준에 도달했다",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/20/trumps-obsession-with-ilhan-omar-has-reached-a-dangerous-new-level",
+      "publishedAt": "2026-10-20T14:56:35.000Z",
+      "description": "The administration seems intent on stripping the congresswoman of her US citizenship and deporting her. It’s a terrible abuse of power What do you think it is about Ilhan Omar, exactly, that seems to get under Donald Trump’s tangerine-tinted skin? The president has claimed he has a problem with the progressive Democratic congresswoman because she is “unpatriotic” to the US and “disrespectful … to Israel”. However, the extent of his animus towards Omar, the first Somali American in Congress, suggests there’s more to it. Trump has insisted he is “the least racist person there is anywhere in the ",
+      "author": "Arwa Mahdawi",
+      "summary": "트럼프 행정부가 일한 오마르 하원의원의 시민권 박탈과 추방을 의도적으로 진행하려 한다며 이는 권력의 명백한 남용이라고 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "34f14dc43127",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "아이오와 주지사 선거가 중요한 이유",
+      "link": "https://www.nytimes.com/video/opinion/100000011187603/why-you-should-care-about-iowas-race-for-governor.html",
+      "publishedAt": "2026-10-20T14:30:00.000Z",
+      "description": "Rob Sand is young and reform-oriented, and he might be the next governor of Iowa. The Opinion contributor Ben Rhodes argues that the Democratic gubernatorial candidate for the state is running a playbook that could be the answer the party needs.",
+      "author": null,
+      "summary": "젊고 개혁 지향적인 민주당 후보 롭 샌드(Rob Sand)가 당이 필요로 하는 정치적 해답을 제시할 수 있는 인물이라고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "268b2040798d",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]與 '주 52시간 특례' 찬반 법안 각각 발의… 왜 이리 무책임한가",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261020/134878548/2",
+      "publishedAt": "2026-10-20T14:30:00.000Z",
+      "description": "여당이 ‘3대 메가 프로젝트’와 관련해 핵심 내용이 상반된 ‘초광역특구법안’을 각각 발의하기로 했다. 고소득·연구개발(R&D) 인력에 대한 ‘주 52시간’ 예외 특례를 포함한 안과 포함하지 않은 안을 국회에서 모두 논의하겠다는 것이다. 정부가 국가의 앞날을 건 프로젝트를 발표한 지 4개월이 지났는데, 집권 여당은 핵심 쟁점에 대한 당론조차 명확히 정하지 않은 채 이 눈치 저 눈치만 살피는 셈이다. 더불어민주당은 주 52시간 특례를 포함한 안은 국회 정무위 간사가, 제외 안은 기후에너지환경노동위 간사가 대표 발의할 예정이라고 한다. 한병도 원내대표는 “각계의 목소리를 폭넓게 듣고 향후 병합 심사를 통해 최종안을 마련하겠다”고 했다. 원내 지도부 주도로 법안을 발의할 때 서로 반대되는 내용을 각각 다른 상임위에 올리는 것은 전례를 찾아보기 어려운 일이다. 지금까지는 사회적으로 쟁점이 있거나 파장이 큰 법안도 사전에 충분한 논의와 조율을 통해 정리된 입장을 내놓는 게 상식이었다",
+      "author": null,
+      "summary": "여당이 '3대 메가 프로젝트' 핵심 쟁점에서 상충하는 법안을 각각 발의하려는 것은 정부 출범 4개월 후에도 당론을 정하지 못한 무책임한 태도라고 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9d4c4707099f",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]李 \"SNS, 국무회의 생중계 계속\"… 기자들 더 자주 만나 균형 잡아야",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261020/134878552/2",
+      "publishedAt": "2026-10-20T14:27:00.000Z",
+      "description": "이재명 대통령이 19일 소셜네트워크서비스(SNS) 글 게시와 국무회의 생중계를 계속하겠다는 뜻을 밝혔다. 이 대통령은 이날 연 기자간담회에서 “SNS로 소통하는 방식이 가볍다는 비판에 동의하기 어렵다”며 SNS를 자신의 목숨줄, 숨구멍 등으로 표현했다. 국무회의 생중계를 줄여야 한다는 일각의 문제 제기에 대해서도 “국민이 (내용을) 알 필요가 있다”고 일축했다. 소셜미디어는 정책에 대한 대통령의 생각을 직접 전하는 창구가 될 수 있고, 국무회의 생중계는 정책 논의 과정을 투명하게 보여주는 측면이 있다. 하지만 이 대통령의 SNS에는 여권 지지자들이 댓글을 많이 다는 경향이 강해, 자칫 일부 지지층의 주장이 전체 여론인 것처럼 오인될 수 있다는 우려가 나온다. 국무회의가 생방송되는 상황에서는 장관들이 대통령의 발언에 허심탄회하게 반론을 제기하기 어려운 것도 사실이다. 소셜미디어나 공개 국무회의와 달리 취재 기자들의 불편한 질문이나 날 선 의혹 제기에도 대통령이 현장에서 답을 해야",
+      "author": null,
+      "summary": "이 대통령의 SNS 소통이 여권 지지자 댓글에 의한 여론 왜곡을 초래하고, 국무회의 생중계가 장관들의 자유로운 정책 토론을 제약한다며 정례 기자 간담회 강화가 필요하다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "46772f8a8636",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]레버리지ETF '졸속' 인정… 누가 했는지는 왜 입 닫나",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261020/134878550/2",
+      "publishedAt": "2026-10-20T14:24:00.000Z",
+      "description": "이찬진 금융감독원장이 19일 국회 국정감사에서 단일종목 레버리지 상장지수펀드(ETF) 상장 과정에 대해 “4월 중순 금융위원회가 상장 일정을 정책적으로 발표했고, 그 일정을 맞추기 위해 심사를 빨리 진행한 부분이 있다”고 했다. 통상 한국거래소 예비심사가 끝난 뒤에 금감원 증권신고서 심사에 들어가는데, 이번에는 예비심사 종료 전에 다음 심사가 진행됐다. 이런 사례가 처음이냐는 질의에 이 원장은 “확인해 보니 그런 것 같다”고 했다. 고위험 상품 심사가 졸속으로 이뤄졌음을 금융 당국이 국감장에서 인정했지만, 도대체 누구의 주도로 왜 이렇게까지 서둘렀는지는 여전히 석연치 않다. 1월 김용범 당시 청와대 정책실장이 “나스닥에서는 가능한 것을 왜 국내에서는 못 하게 하느냐”고 했고 2주 뒤 금융위는 시행령 개정안을 입법 예고했다. 당초 하반기로 거론되던 출시 일정은 2분기로 앞당겨졌고, 1, 2단계 심사가 겹치기로 진행된 데다 자산운용사들이 상장 신청을 하기도 전에 상장 일정이 먼저 잡혔",
+      "author": null,
+      "summary": "금융감독원이 레버리지 ETF 상장 심사의 졸속을 인정했으나 정책적 압력의 책임자를 밝히지 않는 것은 금융감시의 투명성과 책임성 원칙에 배치된다고 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ea1fe907af04",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "NFL 선수들은 가축인가? 쟤런 허츠(Jalen Hurts)가 혈전을 안고 경기했다",
+      "link": "https://www.theguardian.com/sport/2026/oct/20/jalen-hurts-blood-clots-eagles-nfl",
+      "publishedAt": "2026-10-20T14:15:51.000Z",
+      "description": "The Eagles quarterback’s recent health issues highlight how football’s toughness culture puts its players at risk Jalen Hurts is likely to miss the rest of the NFL season after an ultrasound revealed blood clots in his lungs. Thankfully, he’s now restricted from playing for the immediate future, meaning he won’t be risking serious complications – or even his life – as he did when he played in the Philadelphia Eagles’ Week 5 loss to the Jacksonville Jaguars in London. The quarterback complained to the Eagles’ medical staff of calf pain on 8 October, according to ESPN. The Eagles say Hurts flew ",
+      "author": "Andre Gee",
+      "summary": "미식축구 선수들의 무모한 경기 강행 문화로 인해 생명까지 위협받는 현실은 선수들의 기본적 인권과 존엄성을 무시하는 것이라고 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7e669f702845",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "남성들이 집단에서 나쁘게 행동하는 이유는 무엇인가",
+      "link": "https://www.nytimes.com/2026/10/20/opinion/cornell-chi-phi-group-chat-bro-code.html",
+      "publishedAt": "2026-10-20T13:25:04.000Z",
+      "description": "Why do men in groups behave this way?",
+      "author": "Kate Manne",
+      "summary": "남성이 집단 속에서 나타내는 비윤리적·무분별한 행동의 근본 원인에 대해 사회적·심리적 분석이 필요하다고 제기했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2454cc76cc5b",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "트럼프주의가 역효과를 내고 있다",
+      "link": "https://www.nytimes.com/2026/10/20/opinion/ezra-klein-podcast-chrystia-freeland.html",
+      "publishedAt": "2026-10-20T13:11:05.000Z",
+      "description": "Chrystia Freeland, a former Canadian deputy prime minister, explains why her country chose to fight back against Trump.",
+      "author": "Ezra Klein and Jack McCordick",
+      "summary": "캐나다의 프릴랜드(Chrystia Freeland) 전 부총리가 캐나다 정부가 트럼프 행정부의 보호무역주의 정책에 맞서기로 결정한 정치적 배경을 설명했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "fdb4add405f3",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[논설위원의 단도직입]\"난 참모역 제대로 못한 듯…이 대통령, 불편한 말 더 적극적으로 들어야\"",
+      "link": "https://www.khan.co.kr/article/202610202009005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-10-20T11:09:00.000Z",
+      "description": "정성호 전 법무부 장관정성호 더불어민주당 의원이 지난 14일 국회 의원회관 사무실에서 경향신문과 인터뷰하며 이재명 정부 초대 법무부 장관직 소회와 정국 현안 등에 관해 이야기하고 있다. 한수빈 기자이재명 정부 초대 법무부 장관을 맡아 수사·기소 분리를 골자로 한 새 형사사법 체계 개편을 이끌었다. 1961년 강원 양구에서 태어나 서울 대신고, 서울대 법대를···",
+      "author": "구혜영 논설위원",
+      "summary": "정성호 전 법무부 장관이 자신의 참모로서의 역할 한계를 성찰하며 이 대통령이 비판적이고 불편한 의견을 더욱 적극적으로 수렴할 필요가 있다고 조언했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0120244cfb6f",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[송두율 칼럼]예술은 어떻게 정치가 되는가",
+      "link": "https://www.khan.co.kr/article/202610202005005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-10-20T11:05:00.000Z",
+      "description": "예술이 과거에 대한 최종 판결을 내려야만 정치적인 의미를 갖는 것은 절대 아니다 예술의 정치적 힘은 정답의 독점이 아니라 기억과 판단의 질서를 질문에 부치는 데서 생긴다 그 질문을 적의 징표로 바꾸는 순간, 우린 예술을 통해 함께 생각할 기회를 잃는다허진호 감독의 영화 을 둘러싼 논쟁이 뜨겁다. 내가 사는 포르투갈에서는 아직 이 영···",
+      "author": "송두율 전 독일 뮌스터대학 사회학 교수",
+      "summary": "예술의 정치적 힘은 절대적 정답이 아니라 기억과 판단의 질서에 대한 질문 제기에서 비롯되며, 그 질문을 대립의 도구로 전환하는 순간 공동의 사유 기회를 상실한다고 주장했다.",
+      "summarySource": "llm"
+    }
+  ],
+  "summarizedAt": "2026-10-21T00:30:06.726Z",
+  "summaryStats": {
+    "llm": 50,
+    "fallback": 0,
+    "model": "claude-haiku-4-5"
+  }
+}
