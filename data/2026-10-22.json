@@ -1,0 +1,899 @@
+{
+  "date": "2026-10-22",
+  "generatedAt": "2026-10-23T00:25:24.358Z",
+  "categories": [
+    {
+      "id": "it",
+      "label": "IT·과학·AI"
+    },
+    {
+      "id": "economy",
+      "label": "경제·금융"
+    },
+    {
+      "id": "politics",
+      "label": "정치·사회"
+    },
+    {
+      "id": "world",
+      "label": "세계·국제"
+    },
+    {
+      "id": "editorial",
+      "label": "사설·칼럼",
+      "opinion": true,
+      "summaryMaxChars": 220
+    }
+  ],
+  "feedStatus": [
+    {
+      "source": "Ars Technica",
+      "category": "it",
+      "ok": true,
+      "matched": 5
+    },
+    {
+      "source": "Hacker News",
+      "category": "it",
+      "ok": true,
+      "matched": 7
+    },
+    {
+      "source": "TechCrunch",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "The Verge",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "블로터",
+      "category": "it",
+      "ok": true,
+      "matched": 5
+    },
+    {
+      "source": "전자신문",
+      "category": "it",
+      "ok": true,
+      "matched": 24
+    },
+    {
+      "source": "ZDNet Korea",
+      "category": "it",
+      "ok": true,
+      "matched": 20
+    },
+    {
+      "source": "BBC Business",
+      "category": "economy",
+      "ok": true,
+      "matched": 21
+    },
+    {
+      "source": "The Guardian",
+      "category": "economy",
+      "ok": true,
+      "matched": 22
+    },
+    {
+      "source": "매일경제 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 37
+    },
+    {
+      "source": "연합뉴스",
+      "category": "economy",
+      "ok": true,
+      "matched": 81
+    },
+    {
+      "source": "경향신문 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 40
+    },
+    {
+      "source": "경향신문 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 37
+    },
+    {
+      "source": "노컷뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "서울신문",
+      "category": "politics",
+      "ok": true,
+      "matched": 7
+    },
+    {
+      "source": "연합뉴스 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 62
+    },
+    {
+      "source": "연합뉴스 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 106
+    },
+    {
+      "source": "SBS 뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 18
+    },
+    {
+      "source": "Al Jazeera",
+      "category": "world",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC World",
+      "category": "world",
+      "ok": true,
+      "matched": 19
+    },
+    {
+      "source": "NPR",
+      "category": "world",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "The Guardian",
+      "category": "world",
+      "ok": true,
+      "matched": 11
+    },
+    {
+      "source": "연합뉴스 국제",
+      "category": "world",
+      "ok": true,
+      "matched": 52
+    },
+    {
+      "source": "매일경제 증권",
+      "category": "economy",
+      "ok": true,
+      "matched": 42
+    },
+    {
+      "source": "경향신문 오피니언",
+      "category": "editorial",
+      "ok": true,
+      "matched": 17
+    },
+    {
+      "source": "NYT Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "The Guardian Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 12
+    },
+    {
+      "source": "Washington Post Opinions",
+      "category": "editorial",
+      "ok": false,
+      "error": "HTTP 502",
+      "matched": 0
+    },
+    {
+      "source": "동아일보 사설",
+      "category": "editorial",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "동아일보 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 31
+    },
+    {
+      "source": "조선일보",
+      "category": "politics",
+      "ok": true,
+      "matched": 2
+    },
+    {
+      "source": "동아일보 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "머니투데이",
+      "category": "economy",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "Wired",
+      "category": "it",
+      "ok": true,
+      "matched": 21
+    },
+    {
+      "source": "DW News",
+      "category": "world",
+      "ok": true,
+      "matched": 17
+    }
+  ],
+  "items": [
+    {
+      "id": "6efe21010ad0",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "STX, '이사회 재편' 최대주주와 소통·견제 병행",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=676420",
+      "publishedAt": "2026-10-22T14:58:33.000Z",
+      "description": "STX가 신규 이사 후보 5명을 추천하면서 이사회 내 영향력과 독립성을 함께 고려한 구도를 짰다. 범한산업 측과 소통하며 의견을 조율할 수 있는 사내이사 후보 2명과 한국상장회사협의회가 추천한 독립이사 후보 3명으로 구성한 것이 특징이다. 주요 주주의 의사를 이사회에 전달할 창구를 마련하는 동시에 외부 인사를 통해 견제 기능을 확보하려는 취지로 풀이된다.22일 STX에 따르면 내달 새로운 등기이사 선임을 위한 임시 주주총회를 연다. 이는 최근 기존 등기임원들이 대거 사임한 데 따른 후속 조치다.회생 기로에 놓였던 STX는 범한산업이",
+      "author": "김수정 기자",
+      "summary": "STX가 신규 이사 후보 5명을 추천하면서 이사회 내 영향력과 독립성을 함께 고려한 구도를 짰다. 범한산업 측과 소통하며 의견을 조율할 수 있는 사내이사 후보 2명과 한국상장회사협의회가 추천한 독립이사 후보 3명으로 구성한 것이 특징이다.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "43a30fc6a7f8",
+      "category": "it",
+      "source": "Hacker News",
+      "region": "intl",
+      "title": "Quad9 (DNS Resolver) to Exit France",
+      "link": "https://quad9.net/news/blog/au-revoir-france/",
+      "publishedAt": "2026-10-22T14:32:38.000Z",
+      "description": "Article URL: https://quad9.net/news/blog/au-revoir-france/ Comments URL: https://news.ycombinator.com/item?id=50195959 Points: 964 # Comments: 348",
+      "author": "farrokhi",
+      "summary": "Article URL: https://quad9.net/news/blog/au-revoir-france/ Comments URL: https://news.ycombinator.com/item?id=50195959 Points: 964 # Comments: 348",
+      "summarySource": "rss"
+    },
+    {
+      "id": "d3602dc3a824",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "테슬라, 차 팔아 남기는 몫 늘었는데…영업이익은 반토막",
+      "link": "https://zdnet.co.kr/view/?no=20261022232504",
+      "publishedAt": "2026-10-22T14:32:20.000Z",
+      "description": "[지디넷코리아]테슬라가 자동차 사업 수익성을 개선하고도 미래 사업에 쏟는 비용이 늘면서 이익 방어에 실패했다. 인공지능(AI)·로봇 전환에 드는 비용 부담으로 올해 3분기 영업이익이 반토막 났다.테슬라는 21일(현지시간) 발표한 3분기 실적 자료에서 매출 280억 4600만 달러, 영업이익 7억 1800만 달러를 기록했다고 밝혔다. 매출은 지난해 같은 기간과 비슷했지만 영업이익은 56% 감소했다. 영업이익률은 5.8%에서 2.6%로 낮아졌다.자동차 사업에서는 판매량 감소와 마진 개선이 동시에 나타났다. 3분기 차량 인도량은 48만 6532대로 전년 동기 대비 2% 줄었으며, 자동차 부문 매출도 205억 6000만 달러로 3% 감소했다.반면 규제 크레딧 판매를 제외한 자동차 매출총이익률은 지난해 3분기 15.4%에서 올해 18.1%로 높아졌다. 직전 분기 16.3%보다도 개선된 수치다. 규제 크레딧 매출은 다른 자동차 업체에 판매하는 배출가스 규제 관련 크레딧에서 발생한다.테슬라는 지역별·제품별 판매 구성 개선과 운전자 감독형 주행보조 기능인 FSD 구독 확대 등이 수익성에 긍정적으로 작용했다고 설명했다. 차량 평균판매가격 하락은 일부 개선 효과를 상쇄했다.전",
+      "author": "류은주 기자",
+      "summary": "[지디넷코리아]테슬라가 자동차 사업 수익성을 개선하고도 미래 사업에 쏟는 비용이 늘면서 이익 방어에 실패했다.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "9f501da3adf8",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "Sauron recruits his future Ringwraiths in Rings of Power S3 trailer",
+      "link": "https://arstechnica.com/culture/2026/10/sauron-recruits-his-future-ringwraiths-in-rings-of-power-s3-trailer/",
+      "publishedAt": "2026-10-22T14:22:31.000Z",
+      "description": "\"I will take my place as the conqueror, a sorcerer, a king.\"",
+      "author": "Jennifer Ouellette",
+      "summary": "\"I will take my place as the conqueror, a sorcerer, a king.\"",
+      "summarySource": "rss"
+    },
+    {
+      "id": "f58adb543db2",
+      "category": "it",
+      "source": "Hacker News",
+      "region": "intl",
+      "title": "What’s getting pwned right now",
+      "link": "https://pwn.watch/",
+      "publishedAt": "2026-10-22T14:08:12.000Z",
+      "description": "Article URL: https://pwn.watch/ Comments URL: https://news.ycombinator.com/item?id=50195543 Points: 332 # Comments: 156",
+      "author": "mrkd",
+      "summary": "Article URL: https://pwn.watch/ Comments URL: https://news.ycombinator.com/item?id=50195543 Points: 332 # Comments: 156",
+      "summarySource": "rss"
+    },
+    {
+      "id": "e5434e4add1c",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "전 세계 유일한 '독 있는 영장류'…100년 만에 재확인된 '이 동물'",
+      "link": "https://www.etnews.com/20261021000393",
+      "publishedAt": "2026-10-22T13:30:00.000Z",
+      "description": "거의 100년 동안 과학계 기록에서 자취를 감췄던 희귀 영장류가 인도네시아의 한 섬에서 다시 확인됐다. 세계에서 유일하게 독을 지닌 영장류로 알려진 슬로로리스의 일종이다. 20일(현지시간) 미국 피플지에 따르면 국제보전단체 리와일드(Re:wild)는 인도네시아 방카섬에 서식하는 '방카 슬로로리스'가 현재도 섬 곳곳에 살아 있는 것으로 확인됐다고 밝혔다. 관련 연구 내용은 국제 학술지 '스픽시아나(Spixiana)'에 최근 발표됐다. 방카 슬로로",
+      "author": "서희원",
+      "summary": "거의 100년 동안 과학계 기록에서 자취를 감췄던 희귀 영장류가 인도네시아의 한 섬에서 다시 확인됐다. 세계에서 유일하게 독을 지닌 영장류로 알려진 슬로로리스의 일종이다.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "de76bfc4cc75",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "순찰로봇부터 폐쇄망용 초경량 AI까지…기술기업 8사 8색 '눈길'",
+      "link": "https://zdnet.co.kr/view/?no=20261022173407",
+      "publishedAt": "2026-10-22T13:29:42.000Z",
+      "description": "[지디넷코리아]경찰청, 인천광역시 주최로 21~24일 인천 송도컨벤시아에서 열린 '제8회 국제치안산업대전'에서는 인공지능(AI)과 로봇을 앞세운 치안 기술, 솔루션이 대거 등장했다.순찰로봇이 화재와 쓰러짐을 감지해 관제센터에 알리고, 영상분석 AI가 얼굴을 인식해 군중 속에서 실종자를 재빠르게 찾는다. AI 감식 기술로 사건 현장을 3차원으로 복원하고, 외부망과 분리된 폐쇄망에서 작동하는 소형 AI는 대규모의 서버 없이도 정확한 판단을 내릴 수 있다.참관객들은 이들 기술 기업의 홍보 부스에서 발걸음을 멈추고 출품작들을 살펴봤다. 영상분석부터 디지털 증거 분석까지 각자의 방식으로 치안 현장의 문제를 풀겠다는 아이디어에 엄지를 치켜세웠다.◆와이매틱스, 도메인 팩 꽂아 폐쇄망 소형 AI 성능 높여와이매틱스(대표 방준성)는 2023년 8월 한국전자통신연구원(ETRI) 연구소기업으로 출발했다. 외부망과 분리된 폐쇄망에서 제한된 서버 자원으로 돌아가는 초경량 AI 엔진이 주력이다. 부스에서는 '도메인 팩'을 꽂아 소형 모델의 추론 성능을 끌어올린 'AI 에이전트 기반 3D 현장감식 솔루션'을 시연했다.도메인 팩은 특정 전문 분야의 지식과 사례를 온톨로지 기반으로 엮은 ",
+      "author": "박광하 기자",
+      "summary": "[지디넷코리아]경찰청, 인천광역시 주최로 21~24일 인천 송도컨벤시아에서 열린 '제8회 국제치안산업대전'에서는 인공지능(AI)과 로봇을 앞세운 치안 기술, 솔루션이 대거 등장했다.순찰로봇이 화재와 쓰러짐을 감지해 관제센터에 알리고, 영상분석 AI가 얼굴을 인식해 군중 속에서 실종자를 재빠르게 찾는다.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "512737218fdd",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything",
+      "link": "https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/",
+      "publishedAt": "2026-10-22T13:00:00.000Z",
+      "description": "Step one in convincing people to live with robots with cameras on their faces? Disguise them as cute home decor.",
+      "author": "Julian Chokkattu",
+      "summary": "Step one in convincing people to live with robots with cameras on their faces? Disguise them as cute home decor.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "ec10db9d27e2",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "Best Microsoft Surface Laptop (2026): Which Models to Buy and Avoid",
+      "link": "https://www.wired.com/story/microsoft-surface-buying-guide/",
+      "publishedAt": "2026-10-22T11:00:00.000Z",
+      "description": "With pricing in flux and new models available, here’s which Surface Laptop and Surface Pro to buy.",
+      "author": "Luke Larsen",
+      "summary": "With pricing in flux and new models available, here’s which Surface Laptop and Surface Pro to buy.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "11cfd18e0c66",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "6000선 밑이 매수 타이밍?…“내년 코스피, 어게인 9000” 개미 흔드는 파격 전망 나왔다",
+      "link": "https://www.etnews.com/20261022000458",
+      "publishedAt": "2026-10-22T08:25:28.000Z",
+      "description": "코스피가 최근 급락했지만 내년에는 최대 9300선까지 오를 수 있다는 전망이 나왔다. 기업 이익 전망은 견조한 반면 주가가 크게 하락해 밸류에이션 매력이 높아졌다는 분석이다. 한화투자증권은 코스피가 6000선을 밑돌면 적극적인 매수에 나설 것을 권고했다. 22일 한화투자증권이 발표한 '2027년 주식전망' 보고서에 따르면 내년 코스피 예상 등락 범위는 6000~9300선이며 연말 목표치는 8500이다. 올해 4분기 7600, 내년 1분기 770",
+      "author": "이상목",
+      "summary": "코스피가 최근 급락했지만 내년에는 최대 9300선까지 오를 수 있다는 전망이 나왔다. 기업 이익 전망은 견조한 반면 주가가 크게 하락해 밸류에이션 매력이 높아졌다는 분석이다. 한화투자증권은 코스피가 6000선을 밑돌면 적극적인 매수에 나설 것을 권고했다.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "5645d7c11c78",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "바클레이즈, AI 생산성 향상으로 5000명 인원 감축",
+      "link": "https://www.theguardian.com/business/2026/oct/22/barclays-profits-up-as-uk-banks-brace-for-tax-increase-in-budget",
+      "publishedAt": "2026-10-22T14:39:29.000Z",
+      "description": "Equating to the loss of 5% of its 93,000 global staff, job cuts come as bank announces jump in quarterly profits Barclays is cutting 5,000 jobs as part of wider cost-saving plans that its bosses say are being driven by advances in AI. The job cuts will mean losing about 5% of the bank’s 93,000 global staff, with executives confirming they had already cut 1,000 workers since the start of the year. Continue reading...",
+      "author": "Kalyeena Makortoff Banking correspondent",
+      "summary": "바클레이즈가 AI 도입에 따른 원가 절감의 일환으로 전체 직원 93,000명의 약 5%인 5,000명 감축을 추진한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5310ef5ae435",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "재경위 '가상자산 과세' 시각차…與 의견분분, 野 '인프라 미비'(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20261022098652001",
+      "publishedAt": "2026-10-22T14:30:29.000Z",
+      "description": "(서울=연합뉴스) 박재하 기자 = 여야는 22일 국회 재정경제기획위원회 국정감사에서 현재까지 세 차례 유예된 가상자산 과세 시행과 관련해 시각 ...",
+      "author": "박재하",
+      "summary": "국회 재정경제기획위원회 국정감사에서 여야가 가상자산 과세 시행에 대해 입장을 달리하며, 야당은 인프라 미비를 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "4328a5bdebca",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "바클레이즈, AI 의존도 증가로 5000명 감축",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-22T14:28:59.000Z",
+      "description": "The bank says it is using more AI leading to a 5% reduction in its workforce.",
+      "author": null,
+      "summary": "바클레이즈가 AI 기술 활용도 증가에 따라 전체 직원의 5%에 해당하는 인원을 감축한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "57266c894e6e",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "인터넷 장애 재발, 거대 기술기업의 책임은?",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/22/website-shutdowns-ai-human-inaction-developers",
+      "publishedAt": "2026-10-22T13:46:26.000Z",
+      "description": "I’ve been banging the drum about these vulnerabilities for years. It will take more than a handful of exhausted developers to keep us safe Parts of the internet are going dark. In the Netherlands, government websites, including its digital ID login service, have become unavailable. Finland has taken public services offline, and Wikimedia, the organisation behind Wikipedia, has switched off some of its systems too. This sounds like the results of a cyber-attack. In most instances, however, the people running the sites deliberately switched them off because the alternative – keeping them online ",
+      "author": "Chris Stokel-Walker",
+      "summary": "네덜란드와 핀란드 등 여러 국가의 정부 웹사이트가 보안 취약점으로 인해 의도적으로 오프라인 전환했으며, 저자는 수익을 올리는 기술 기업들이 인터넷 인프라 보안 유지에 더 큰 책임을 져야 한다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "694707cfce61",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "영국, 20년 만에 탱크 포신 생산 재개",
+      "link": "https://www.bbc.co.uk/news/articles/cm70pj51zdk4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-22T13:45:19.000Z",
+      "description": "The defence secretary says the UK is \"back in the business of making weapons\" for its armed forces.",
+      "author": null,
+      "summary": "영국이 20년 만에 탱크 포신 생산을 재개하며 국방부 장관은 영국이 무기 제조 사업으로 복귀했다고 표현했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9262480a140b",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "'첫 국산 GLP-1 비만신약' 에페 29일께 처방 시작",
+      "link": "https://www.yna.co.kr/view/AKR20261022132900017",
+      "publishedAt": "2026-10-22T11:38:31.000Z",
+      "description": "(서울=연합뉴스) 신선미 기자 = 첫 국산 글루카곤 유사 펩타이드-1(GLP-1) 계열 비만 치료제 '에페 오토인젝터주'(에페글레나타이드) 처방...",
+      "author": "신선미",
+      "summary": "첫 국산 글루카곤 유사 펩타이드-1(GLP-1) 계열 비만 치료제 '에페 오토인젝터주'의 처방이 29일경부터 시작된다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "39361b68b834",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "[단독] \"자동차 주식은 좋은 일이 아예 없나요?\"…환율까지 안도와준다는데",
+      "link": "https://www.mk.co.kr/news/stock/12183412",
+      "publishedAt": "2026-10-22T11:38:09.000Z",
+      "description": "환율 3개월간 10%이상 급락 상장사 절반 실적 눈높이 하향 車·방산 환율 부담에 수익성↓ 글로벌 수요 개선에 상쇄되기도달러당 원화값이 지난 3개월 새 10% 이상 급등하자 국내 ..",
+      "author": "매일경제",
+      "summary": "지난 3개월간 환율이 10% 이상 급등하면서 국내 상장사 절반이 실적 전망을 하향 조정했으며, 자동차와 방산 관련 기업들이 환율 부담으로 수익성이 저하되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7a21c367cf02",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "코스닥 승강제 최상위 리그…자격되면 숫자 제한 안둔다",
+      "link": "https://www.mk.co.kr/news/stock/12183387",
+      "publishedAt": "2026-10-22T11:08:23.000Z",
+      "description": "정부의 자본시장 개혁 과제 중 하나인 코스닥 승강제에 절대평가제 도입이 검토된다. 승강제 도입 후 최상위 리그인 '셀렉트'에 편입될 기업을 결정할 때 기준을 충족하면 편입된 상장사..",
+      "author": "매일경제",
+      "summary": "정부가 추진 중인 코스닥 승강제에 절대평가제 도입이 검토되고 있으며, 최상위 리그 '셀렉트'의 편입 기준을 충족하면 기업 숫자 제한 없이 편입된다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "19778e25f1af",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "'스페이스X 공모주 0주' 묶인 돈 보상받나…금감원 '투자자 보상 검토'",
+      "link": "https://www.mk.co.kr/news/economy/12183341",
+      "publishedAt": "2026-10-22T10:26:19.000Z",
+      "description": "이찬진 금융감독원장이 미국 우주탐사기업 스페이스X의 주식 배정 누락 사태와 관련해 진행해 온 미래에셋증권 현장검사를 마치고 제재 절차에 들어가겠다고 밝혔다. 이 원장은 22일 열린..",
+      "author": "매일경제",
+      "summary": "금융감독원장이 미래에셋증권의 스페이스X 주식 배정 누락 사태에 대한 현장검사를 완료하고 제재 절차에 들어가기로 했으며, 투자자 보상 방안을 검토 중이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8fe95aafc692",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "이렇게 벌어도 7만전자·20만닉스?…코스피 적정가 다시 계산해봤습니다 [머니닥터 시장진단]",
+      "link": "https://www.mk.co.kr/news/business/12183300",
+      "publishedAt": "2026-10-22T09:42:42.000Z",
+      "description": "삼전닉스 이익 전망과 코스피SK하이닉스 연구원 출신으로 오랫동안 반도체 산업을 연구해온 이주완 인더스트리 애널리스트가 최근 반도체 기업 적정주가로 삼성전자 7만원, SK하이닉스는 ..",
+      "author": "매일경제",
+      "summary": "반도체 산업 경험이 풍부한 애널리스트가 최근 반도체 기업의 이익 전망을 바탕으로 삼성전자의 적정주가를 7만원, SK하이닉스를 20만원으로 제시했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a1d90c204eeb",
+      "category": "politics",
+      "source": "SBS 뉴스",
+      "region": "kr",
+      "title": "국무회의 배석, 공소취소 종용 논란",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008810889",
+      "publishedAt": "2026-10-22T14:51:00.000Z",
+      "description": "중수청과 공소청 수장들의 국무회의 배석 논란은 국정감사장에서도 이어졌습니다. 국민의힘은 대통령이 수사기관을 압박해 자신의 사건 공소 취소를 종용…",
+      "author": "spirit@sbs.co.kr (김관진)",
+      "summary": "국정감사에서 중수청과 공소청 수장의 국무회의 배석을 두고 여야 공방이 계속되고 있으며, 여당은 대통령의 사건 공소 취소 종용 의혹을 제기했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5310ef5ae435",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "가상자산 과세 시각차···여 의견분분, 야 인프라 미비",
+      "link": "https://www.yna.co.kr/view/AKR20261022098652001",
+      "publishedAt": "2026-10-22T14:30:29.000Z",
+      "description": "(서울=연합뉴스) 박재하 기자 = 여야는 22일 국회 재정경제기획위원회 국정감사에서 현재까지 세 차례 유예된 가상자산 과세 시행과 관련해 시각 ...",
+      "author": "박재하",
+      "summary": "국정감사에서 여야는 세 차례 유예된 가상자산 과세 시행을 두고 의견을 달리했으며, 야당은 인프라 미비를 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "88ef5218899a",
+      "category": "politics",
+      "source": "연합뉴스 사회",
+      "region": "kr",
+      "title": "[속보] 부산교통공사 노사, 추가 협상 끝에 단체교섭 최종 타결",
+      "link": "https://www.yna.co.kr/view/AKR20261022198100051",
+      "publishedAt": "2026-10-22T14:21:41.000Z",
+      "description": "(",
+      "author": "김재홍",
+      "summary": "부산교통공사의 노동조합과 사측이 추가 협상을 거친 끝에 단체교섭을 최종적으로 타결했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "bd642b04bfa9",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "이진숙 제척 과방위 재충돌···윤내란·5·18 성역 공방",
+      "link": "https://www.yna.co.kr/view/AKR20261022097552001",
+      "publishedAt": "2026-10-22T14:18:39.000Z",
+      "description": "(서울=연합뉴스) 김정진 기자 = 여야는 22일 방송미디어통신위원회(방미통위) 등에 대한 국회 과학기술정보방송통신위원회 국정감사에서 국민의힘 이...",
+      "author": "김정진",
+      "summary": "국정감사에서 여야가 국민의힘 이진숙의 제척 문제와 윤석열 대통령 관련 의제를 두고 대립했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f3bdab3b106c",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "북한발 군사적 긴장 고조 속 NSC 상임위 개최",
+      "link": "https://www.khan.co.kr/article/202610222314001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-10-22T14:14:00.000Z",
+      "description": "청와대 전경. 경향신문 자료사진정부가 22일 국가안전보장회의(NSC) 상임위원회를 열고 최근 김여정 북한 노동당 총무부장의 ‘국경선 요새화’와 대남 확성기 방송 재가동 가능성을 밝힌 담화 등에 대한 대응 방안을 논의한 것으로 전해졌다.이날 회의는 청와대 국가안보실과 외교부·통일부·국방부 등 관계 부처가 정기적으로 여는 NSC 상임위원회 정기 회의로 알려졌지···",
+      "author": "정환보 기자",
+      "summary": "정부는 NSC 상임위원회를 열어 북한의 국경선 요새화와 대남 확성기 방송 재가동 가능성에 대한 대응 방안을 논의했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ed32c357af4e",
+      "category": "politics",
+      "source": "연합뉴스 사회",
+      "region": "kr",
+      "title": "익산 도로의 경운기 농수로 전도, 70대 운전자 숨져",
+      "link": "https://www.yna.co.kr/view/AKR20261022197900055",
+      "publishedAt": "2026-10-22T13:57:58.000Z",
+      "description": "(익산=연합뉴스) 김문경 기자 = 22일 오후 4시 28분께 전북 익산시 오산면에서 편도 1차로 도로를 달리던 경운기가 농수로로 전도됐다.",
+      "author": "김문경",
+      "summary": "전북 익산시에서 도로를 달리던 경운기가 농수로로 전도하면서 70대 운전자가 숨졌다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0056a64eb3cb",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "서울 강동구서 딸이 아버지 흉기로 찌르다",
+      "link": "https://www.khan.co.kr/article/202610222256001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-10-22T13:56:00.000Z",
+      "description": "경찰, 특수존속상해 혐의 구속영장 신청강동경찰서. 연합뉴스서울 강동구에서 아버지를 흉기로 찌른 여성이 경찰에 붙잡혔다.22일 연합뉴스에 따르면 서울 강동경찰서는 전날 오후 8시께 30대 여성 A씨를 특수존속상해 혐의로 현행범 체포했다.A씨는 강동구 소재 집에서 친아버지인 60대 남성을 흉기로 찌른 혐의를 받는다. 피해자는 신고 후 건물 밖으로 나와 병원에 ···",
+      "author": "김남희 기자",
+      "summary": "서울 강동구에서 30대 여성이 아버지를 흉기로 찌르는 사건이 발생했으며, 경찰은 현행범 체포하고 특수존속상해 혐의로 구속영장을 신청했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "fddd03b7d3ad",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "코스피 5500선 추락했는데···대변인 내년 1만포인트 기대",
+      "link": "https://www.donga.com/news/Politics/article/all/20261022/134893379/1",
+      "publishedAt": "2026-10-22T12:35:00.000Z",
+      "description": "더불어민주당 조계원 대변인이 22일 “내년 전망치를 보면 코스피가 1만 포인트 이상 갈 수 있을 것으로 기대한다”고 말했다. 최근 코스피가 폭락하고 정부·여당 지지율이 하락하는 상황에서 내년 경제 여건 개선과 민심 반등을 기대한 발언으로 풀이된다.조 대변인은 이날 기자들과 만나 “40년 만에 높은 성장률을 다시 달성하고 있는데, 그게 서민 민생경제로 아직까지 환류되고 있지 않다”며 이 같이 말했다. 이어 “이런 부분이 내년에는 실질적으로 반영될 것”이라며 “주가도 지금 어려운데 내년 전망치를 보면 1만 포인트 이상 갈 수 있을 것으로 기대한다. 제반 여건들은 앞으로 좋아질 것”이라고 했다. 이 같은 발언은 정부·여당에 부정적인 여론조사 결과를 분석하는 과정에서 나왔다. 조 대변인은 “최근 부동산과 농지 전수조사 문제 등으로 지금은 정부도 당도 가장 안 좋은 상황”이라면서도 “여론조사 하나에 일희일비할 문제는 아니다”라고 했다. 조 대변인은 최근 추미애 경기도지사의 ‘소방 재정 빨",
+      "author": null,
+      "summary": "대변인이 최근 코스피 폭락 와중에도 내년 코스피가 1만 포인트를 넘을 수 있을 것으로 기대한다고 말했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "53d5b4d51f8b",
+      "category": "politics",
+      "source": "서울신문",
+      "region": "kr",
+      "title": "전세사기 불인정 근거 잘못 알린 국토부···이의신청 절차 막혀",
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20261022500324",
+      "publishedAt": "2026-10-22T11:06:12.000Z",
+      "description": "국토교통부가 전세사기 피해자 인정을 불허하면서 실제 판단과 다른 근거를 결정문에 적어 신청자의 이의신청 절차가 사실상 막힌 사례가 있는 것으로 나타났다. 22일 국회 국토교통위원회 소속 장경태 의원실이 확보한 국토부 자료를 보면 제주에 사는 A씨는 지난 6일 국토부로부터 ‘전세사기피해자로 불인정한다’는 통보를 받았다. 결정문에는 A씨가 법 적용 제외 대상이라고 적혀 있었다. 구체적으로는 ▲임대인이 임차보증금 반환을 위한 보증에 가입해 임차인에게 보증금의 전액 반환이 가능한 경우 등 ▲임차인의 보증금 전액이 최우선변제가 가능한 경우 ▲임차인이 대항력 또는 우선변제권으로 보증금 전액을 자력 회수 가능한 경우 등이 법 적용에서 제외된다. 하지만 A씨가 결정문을 받은 뒤 국토부 담당자에게 문의하자, 실제 판단은 달랐다는 설명을 들었다. 국토부는 A씨가 임대인의 요청으로 실제 보증금보다 높은 금액으로 작성한 ‘업계약서’를 문제 삼았다는 것이다. 신청인은 결정문에 적힌 사유를 바탕으로 자료를 보완해 이의신청을 해야 한다. 그러나 A씨처럼 처분 근거가 다르게 적히면 정부에 어떤 자료를 내고 무엇을 다퉈야 하는지 알기 어렵다. 전세사기피해자법은 결정 통지를 받은 날부터 3",
+      "author": "반영윤 기자",
+      "summary": "국토교통부가 전세사기 피해자 인정을 거부하면서 결정문에 적힌 근거가 실제 판단과 달라 이의신청 절차에 어려움이 생기는 사례가 드러났다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "40a434c6f2dd",
+      "category": "politics",
+      "source": "조선일보",
+      "region": "kr",
+      "title": "하늘을 나는 로드스터···실제로 판매할 수 있을까",
+      "link": "https://www.chosun.com/kid/kid_economy/kid_honeybee/2026/10/22/OQQA5MQQAJDTFBGFMY3LU7LTSQ/",
+      "publishedAt": "2026-10-22T08:42:40.000Z",
+      "description": "",
+      "author": "장세인 기자",
+      "summary": "날 수 있는 로드스터가 실제로 시장에 판매될 수 있을지에 대한 검토가 이루어지고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d69ebc9860ea",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "\"유년 상처 헤집은 비열한 광고\" 트럼프 지지후보에 거센 역풍",
+      "link": "https://www.yna.co.kr/view/AKR20261022198600071",
+      "publishedAt": "2026-10-22T14:59:08.000Z",
+      "description": "(워싱턴=연합뉴스) 백나리 특파원 = \"엄마로서 이런 말 하기 쉽지 않지만 내 딸은 거짓말쟁이입니다.\"",
+      "author": "백나리",
+      "summary": "트럼프 지지 후보의 광고가 어린 시절 상처를 건드리는 비열한 내용이라며 강하게 비판받고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "94c1afa4ff2d",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "[속보] \"중국 티베트에서 규모 6.7 지진\"",
+      "link": "https://www.yna.co.kr/view/AKR20261022198500098",
+      "publishedAt": "2026-10-22T14:45:16.000Z",
+      "description": "(",
+      "author": "현윤경",
+      "summary": "(",
+      "summarySource": "rss"
+    },
+    {
+      "id": "abc537bd369f",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "세르비아에서 12년 부치치(Vučić) 통치에 맞선 학생 시위 운동",
+      "link": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-22T14:33:06.000Z",
+      "description": "After two years of student protests, Serbians vote on Sunday in elections that could bring down the ruling party.",
+      "author": null,
+      "summary": "세르비아의 학생들이 12년 장기 통치를 펼친 부치치 지배에 맞서 시위를 벌이고 있으며, 일요일 선거에서 정권 교체 가능성이 높아지고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8525d6d8075a",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "중간선거 후 미국의 이란 공격 가능성과 이란의 대응",
+      "link": "https://www.dw.com/en/is-iran-ready-for-another-major-us-attack-after-midterm-elections/a-79734082?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-10-22T14:16:00.000Z",
+      "description": "Iranian officials say the goal is to keep the regime in power and threaten enough regional costs to make a prolonged campaign unattractive. US media reports indicate that Trump is considering strikes after the midterms.",
+      "author": null,
+      "summary": "이란은 지역 갈등 비용을 높여 미국의 장기 작전을 억제하려 하는 한편, 미국의 트럼프 대선 후보는 중간선거 후 이란 공격을 검토하고 있는 것으로 알려졌다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "32819b0d803f",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "EU와 베트남 경제 협력에서 인권 문제 우려",
+      "link": "https://www.dw.com/en/is-eu-putting-profits-over-human-rights-in-vietnam/a-79732812?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-10-22T14:12:00.000Z",
+      "description": "The EU and Vietnam are deepening economic and diplomatic ties, but closer cooperation raises concerns about whether Brussels is doing enough to address Hanoi's human rights record, labor standards and trade imbalances.",
+      "author": null,
+      "summary": "EU와 베트남이 경제외교 협력을 심화하고 있으나, 인권 기록과 노동 기준 개선 및 무역 불균형 해결에 대한 충분한 노력 부족이 우려되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e0567a6f5936",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "오리건 총기 사건, 교사가 죽은 척 해서 살아남다",
+      "link": "https://www.bbc.co.uk/news/articles/cqvgrmzdzgr7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-22T14:09:54.000Z",
+      "description": "The teacher said she could not help children because she was badly injured by the attacker.",
+      "author": null,
+      "summary": "오리건의 총기 난사 사건에서 심각한 부상을 입은 교사가 죽은 척해서 공격자로부터 살아남았다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8dfad5040649",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "호주의 보곤 나방 개체수 급증, 멸종 위기에서 벗어나다",
+      "link": "https://www.theguardian.com/news/2026/oct/23/the-great-moth-revival-how-bogongs-have-bounced-back",
+      "publishedAt": "2026-10-22T14:00:36.000Z",
+      "description": "This animated map shows the insect’s population exploding in Australia’s eastern states, with the endangered species coming back from the brink If you live anywhere on the eastern side of Australia, you’ve probably noticed that bogong moths are back in a big way. While we don’t yet have figures from ecologist-led surveys to compare with previous years, there is a wealth of data on the great moth revival being generated by citizen scientists across the eastern states. Continue reading...",
+      "author": "Nick Evershed",
+      "summary": "멸종 위기에 있던 호주의 보곤 나방의 개체수가 호주 동부 지역에서 극적으로 회복하고 있으며, 시민 과학자들의 자료 수집이 이를 증명하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "421c8f0e9075",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "빅토리아주의 여성 의원들, 성적·폭력적 위협으로 안전 우려",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/23/victorian-mps-women-high-alert-safety-state-election-helen-haines-ntwnfb",
+      "publishedAt": "2026-10-22T14:00:35.000Z",
+      "description": "Hostility from constituents is not new for the state’s politicians, including its premiers. But the alleged attack on Helen Haines has sent a chill down the collective spine Get our new political email, free app or daily news podcast On Monday night, Georgie Purcell shared a statement on social media in support of Helen Haines, who earlier that day had been allegedly attacked by a constituent in her regional Victorian electorate. Purcell, a Victorian upper-house MP whose region partly overlaps with Haines’s federal electorate, wrote that the alleged attack had sent chills down her spine. Being",
+      "author": "Benita Kolovos",
+      "summary": "빅토리아주의 여성 의원들이 지역 주민으로부터 받는 성적·폭력적 위협과 폭행 혐의로 안전을 우려하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "dce342cbacd7",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "이구아수 폭포가 기록에 가까운 수량으로 흐르다",
+      "link": "https://www.npr.org/2026/10/22/g-s1-148553/argentina-brazil-iguazu-falls-waterfalls-super-el-nino",
+      "publishedAt": "2026-10-22T13:50:55.000Z",
+      "description": "The Iguazú Falls span more than a mile across both countries. A rain-soaked October, which scientists link to the Super El Niño, has sent near-record volumes of water surging over the towering cliffs.",
+      "author": "Carrie Kahn",
+      "summary": "슈퍼 엘니뇨의 영향으로 10월 강우가 증가하면서 브라질-아르헨티나 국경의 이구아수 폭포가 기록 수준 근처의 물 흐름을 보이고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "af1dbdb908bb",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "선거 후 미국·이스라엘의 이란 공격 검토, 머스크의 회사 합병 추진",
+      "link": "https://www.npr.org/2026/10/22/g-s1-149315/up-first-newsletter-midterm-campaign-israel-iran-elon-musk-spacex-tesla",
+      "publishedAt": "2026-10-22T11:28:24.000Z",
+      "description": "The U.S. and Israel are planning for a possible post-elections attack on Iran, an anonymous source tells NPR. And, Elon Musk considers merging his companies SpaceX and Tesla.",
+      "author": "Brittney Melton",
+      "summary": "미국과 이스라엘이 선거 이후 이란 공격을 계획하고 있으며, 엘론 머스크는 자신의 기업인 스페이스X와 테슬라의 합병을 검토하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "85fadbff60b2",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "일한 오마르 사냥",
+      "link": "https://www.nytimes.com/2026/10/21/opinion/trump-ilhan-omar-emma-goldman.html",
+      "publishedAt": "2026-10-22T14:59:05.000Z",
+      "description": "The president is preoccupied with summoning the image of a consolidated authoritarian state.",
+      "author": "Jamelle Bouie",
+      "summary": "필자는 대통령이 권력을 일원화한 권위주의 국가의 이미지를 만드는 데 몰두하며 특정 정치인을 표적으로 삼고 있다고 비판합니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e8dfb3180f70",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "글리(Glee) 리부트, 트럼프 시대를 소화할 수 있을까",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/oct/22/glee-reboot-lgbtq-politics-trump",
+      "publishedAt": "2026-10-22T14:45:40.000Z",
+      "description": "The beloved high school TV show is returning in a different political climate. I’m skeptical that Ryan Murphy has the nuance this moment needs For months, Ryan Murphy has been discussing Glee. In July, he expressed his love for the musical comedy drama he created. In September, he said that he had finished writing a pilot for a potential reboot, adding that he had reached out to some of the cast about a reunion. And now it is official: Disney+ and Hulu have commissioned a Glee revival. Glee, which ran for six seasons between 2009 and 2015, was a cultural juggernaut during its initial tenure. T",
+      "author": "Alim Kheraj",
+      "summary": "필자는 뮤지컬 드라마 글리가 정치적으로 달라진 환경에서 복귀하는 만큼, 제작자가 현 시대에 필요한 섬세한 접근을 할 수 있을지 의문을 제기합니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "be64edd53e89",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "트럼프주의의 최대 수혜자, 중국이다",
+      "link": "https://www.nytimes.com/video/opinion/100000011220110/the-biggest-winner-of-trumpism-china.html",
+      "publishedAt": "2026-10-22T14:41:46.000Z",
+      "description": "President Trump’s erratic foreign policy has actually helped China on the world stage, argues Chrystia Freeland, a former deputy prime minister of Canada. On “The Ezra Klein Show,” she discusses how the rest of the world sees America and its biggest rival.",
+      "author": null,
+      "summary": "캐나다 전 부총리는 트럼프 대통령의 일관성 없는 외교 정책이 오히려 국제 무대에서 중국의 위상을 강화했다고 주장합니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "67d1c324f791",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "민주당의 압도적 승리도 트럼프를 막을 수 없다",
+      "link": "https://www.nytimes.com/2026/10/18/opinion/midterms-congress-trump-democrats.html",
+      "publishedAt": "2026-10-22T14:35:12.000Z",
+      "description": "Congressional powers may be less than they appear to be, especially lately.",
+      "author": "Jeffrey Toobin",
+      "summary": "저자는 의회의 권력이 겉보기보다 제한적이며, 특히 최근에는 더욱 그렇다고 지적합니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c3c3ca9838ec",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "\"세계 웹사이트 70% 위험\"… 'AI 시대' 정보보안체계 새로 짜야",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261022/134893458/2",
+      "publishedAt": "2026-10-22T14:30:00.000Z",
+      "description": "세계 웹사이트의 약 70%가 쓰는 프로그래밍 언어인 ‘PHP’에서 치명적 보안 결함이 확인됐다. 미국 일본 유럽에서 정부 기관, 은행, 학교, 병원 웹사이트가 예방 차원에서 일시 폐쇄되는 일도 벌어졌다. 인공지능(AI)이 그동안 불가능할 것으로 여겨졌던 취약점을 파고드는 공격 통로를 찾아내면서 대규모 해킹 위험이 나타난 것이다. 미국 국가안보국(NSA)은 21일 PHP를 사용하는 모든 기관과 기업에 대해 “중대한 취약점을 해결하기 위한 업데이트를 준비할 것을 권고한다”고 밝혔다. 또 보안패치 적용 전까지 사이트 폐쇄 조치를 권고했다. 30년 넘게 한국을 포함한 전 세계에서 쓰이고 있는 PHP는 웹사이트 서버에서 웹페이지를 만드는 프로그래밍 언어다. 해커가 이번에 확인된 취약점을 이용하면 원격으로 악성코드를 실행하고 서버와 데이터베이스까지 장악할 수 있는 것으로 드러났다. 실제 해킹 공격이 벌어지면 개인정보 유출이나 홈페이지 조작 피해가 심각할 수밖에 없다. ‘PHP 해킹’ 방",
+      "author": null,
+      "summary": "동아일보는 세계 웹사이트 70%가 사용하는 PHP의 심각한 보안 결함이 AI 기술로 인해 대규모 해킹 위험을 초래하고 있다며, 정보보안 체계의 전면적 재구축이 시급하다고 촉구합니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3e117467fd0d",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "비정규직 임금·복지 격차 확대… '성실한 빈곤'은 막아야 한다",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261022/134893462/2",
+      "publishedAt": "2026-10-22T14:27:00.000Z",
+      "description": "올해 임금 근로자 10명 중 4명은 비정규직이다. 2003년 통계 작성 이래 역대 최대 규모(867만 명)를 기록했다. 국가데이터처에 따르면, 비정규직의 월평균 임금은 약 211만 원으로 정규직과의 임금 격차도 역대 최대(194만 원)로 벌어졌다. 비정규직은 불안정한 고용 탓에 열악한 근로 조건에서 일하면서도 임금은 정규직의 절반에 머물고 있다. 아무리 성실하게 일해도 갈수록 격차가 벌어질 수밖에 없는 구조다. 비정규직은 정규직과의 임금뿐만 아니라 복지까지 ‘이중 격차’에 시달린다. 실업, 질병, 은퇴 같은 위험에 대비한 사회보험 지표마저 비정규직만 일제히 하락했다. 비정규직 퇴직급여 수혜율은 46%로 정규직 근로자(96%)의 절반에도 미치지 못한다. 정규직이 차근차근 노후 준비를 하는 동안, 비정규직은 당장 내일을 걱정하느라 그럴 여유가 없다는 뜻이다. 국민연금과 건강보험 가입률은 각각 37%, 53%로 지난해보다 낮아졌다. 이러니 노후에 쉴 수 없고, 아파도 병원에 가지 못한",
+      "author": null,
+      "summary": "동아일보는 비정규직의 임금과 복지 격차가 역대 최대 수준으로 벌어지면서 아무리 성실하게 일해도 빈곤을 벗어날 수 없는 구조가 고착되고 있다며 개선을 주장합니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "88e7925f3898",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "알바니스 정부가 당장 할 수 있는 세 가지 경제정책",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/23/three-things-the-albanese-government-could-do-right-now-to-make-people-feel-better-off",
+      "publishedAt": "2026-10-22T14:00:31.000Z",
+      "description": "There are plenty of reasons why Australians feel ‘mad as hell’ at the moment. These three economic policies could restore faith in politics and bring some relief Get our breaking news email, free app or daily news podcast In the 1976 movie Network, news anchor Howard Beale tells TV viewers to stick their heads out their windows and yell: “I’m as mad as hell, and I’m not going to take this any more!” It’s a sentiment that resonates today in Australia and across the world. In October, consumer sentiment at home fell to levels more often associated with recessions, despite the fact that the lates",
+      "author": "Nicki Hutley",
+      "summary": "필자는 호주 국민들의 경제 불만을 해소하기 위해 정부가 당장 시행할 수 있는 세 가지 경제정책을 제안하며, 이것이 정치 신뢰 회복의 열쇠라고 주장합니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d4d0f0fc6637",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "지방의회 무용론을 키우는 대덕구의회",
+      "link": "https://www.khan.co.kr/article/202610222127025/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-10-22T12:27:02.000Z",
+      "description": "대전 대덕구의회 앞에는 근조화환이 줄지어 세워져 있다. 임기를 시작한 지 넉 달이 돼도록 의장 자리를 놓고 줄다리기하느라 원 구성도 하지 못한 구의회에 분노한 주민들이 보낸 것이다.제10대 대덕구의회는 더불어민주당과 국민의힘이 각각 4석을 차지하고 있다. 어느 한쪽의 양보 없이는 원 구성이 어려운 구조다. 그간 의장 선출을 위한 본회의가 11차례 열렸지만 ···",
+      "author": "이종섭 기자",
+      "summary": "필자는 임기 4개월이 지난 대덕구의회가 의장 선출 대립으로 원 구성조차 미완성인 채 주민의 분노를 사고 있다며, 이것이 지방의회의 무용론을 심화시키고 있다고 지적합니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d1c24c6bf99c",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "'큰 정부'와 '자본시장'의 불화",
+      "link": "https://www.khan.co.kr/article/202610222018005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-10-22T11:18:00.000Z",
+      "description": "박정희 정권에서 보건사회부 장관을 지냈던 이형호는 1972년 11월16일자 경향신문에 실린 인터뷰에서 정부가 추진하고 있는 경제개발계획이 순조롭게 진행되면 ‘우리나라도 머지않아 요람에서 무덤까지의 복지사회가 될 것’이라고 밝혔다. ‘요람에서 무덤까지’라는 슬로건은 태어나서 삶을 마감할 때까지 누구나 인간으로서의 품위를 지키며 살 수 있도록 지원하는 사회보장···",
+      "author": "김학균 신영증권 리서치센터장",
+      "summary": "필자는 역사적으로 복지사회를 추구하는 '큰 정부'와 자본시장의 발전이 충돌해왔으며, 이 모순을 어떻게 극복할 것인가가 경제 정책의 핵심 과제라고 주장합니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "70edfbc2e96c",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "우상과 검열",
+      "link": "https://www.khan.co.kr/article/202610222017005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-10-22T11:17:00.000Z",
+      "description": "1974년 8월15일 나는 광주에 있는 육군 31사단 신병훈련소에서 훈련을 받는 훈병이었다. 당시 교육대학생들에게만 적용되던 RNTC라는 이름의 단기 하사 훈련이었다. 광복절 휴일이라 내무반에 있던 흑백 TV로 육영수 여사 저격 장면을 보았다. 확실치는 않지만 총소리가 들렸던 것 같은데 무슨 일인지 영문을 몰라 모두 어리둥절했었다.8월19일 장례식 날은 애···",
+      "author": "강홍구 작가",
+      "summary": "필자는 1974년 육영수 저격 사건 당시의 검열과 혼란을 통해 역사의 순간들이 어떻게 우상화되고 기억되는지, 또 지워지는지를 성찰합니다.",
+      "summarySource": "llm"
+    }
+  ],
+  "summarizedAt": "2026-10-23T00:34:15.756Z",
+  "summaryStats": {
+    "llm": 39,
+    "fallback": 11,
+    "model": "claude-haiku-4-5"
+  }
+}
