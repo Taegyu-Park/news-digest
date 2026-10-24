@@ -1,0 +1,899 @@
+{
+  "date": "2026-10-23",
+  "generatedAt": "2026-10-24T00:18:04.513Z",
+  "categories": [
+    {
+      "id": "it",
+      "label": "IT·과학·AI"
+    },
+    {
+      "id": "economy",
+      "label": "경제·금융"
+    },
+    {
+      "id": "politics",
+      "label": "정치·사회"
+    },
+    {
+      "id": "world",
+      "label": "세계·국제"
+    },
+    {
+      "id": "editorial",
+      "label": "사설·칼럼",
+      "opinion": true,
+      "summaryMaxChars": 220
+    }
+  ],
+  "feedStatus": [
+    {
+      "source": "Ars Technica",
+      "category": "it",
+      "ok": true,
+      "matched": 10
+    },
+    {
+      "source": "Hacker News",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "TechCrunch",
+      "category": "it",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "The Verge",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "블로터",
+      "category": "it",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "전자신문",
+      "category": "it",
+      "ok": true,
+      "matched": 23
+    },
+    {
+      "source": "ZDNet Korea",
+      "category": "it",
+      "ok": true,
+      "matched": 22
+    },
+    {
+      "source": "BBC Business",
+      "category": "economy",
+      "ok": true,
+      "matched": 13
+    },
+    {
+      "source": "The Guardian",
+      "category": "economy",
+      "ok": true,
+      "matched": 21
+    },
+    {
+      "source": "매일경제 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 37
+    },
+    {
+      "source": "연합뉴스",
+      "category": "economy",
+      "ok": true,
+      "matched": 107
+    },
+    {
+      "source": "경향신문 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 47
+    },
+    {
+      "source": "경향신문 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 25
+    },
+    {
+      "source": "노컷뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 1
+    },
+    {
+      "source": "서울신문",
+      "category": "politics",
+      "ok": true,
+      "matched": 10
+    },
+    {
+      "source": "연합뉴스 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 66
+    },
+    {
+      "source": "연합뉴스 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 111
+    },
+    {
+      "source": "SBS 뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 22
+    },
+    {
+      "source": "Al Jazeera",
+      "category": "world",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC World",
+      "category": "world",
+      "ok": true,
+      "matched": 12
+    },
+    {
+      "source": "NPR",
+      "category": "world",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "The Guardian",
+      "category": "world",
+      "ok": true,
+      "matched": 10
+    },
+    {
+      "source": "연합뉴스 국제",
+      "category": "world",
+      "ok": true,
+      "matched": 75
+    },
+    {
+      "source": "매일경제 증권",
+      "category": "economy",
+      "ok": true,
+      "matched": 35
+    },
+    {
+      "source": "경향신문 오피니언",
+      "category": "editorial",
+      "ok": true,
+      "matched": 2
+    },
+    {
+      "source": "NYT Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 13
+    },
+    {
+      "source": "The Guardian Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "Washington Post Opinions",
+      "category": "editorial",
+      "ok": false,
+      "error": "HTTP 502",
+      "matched": 0
+    },
+    {
+      "source": "동아일보 사설",
+      "category": "editorial",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "동아일보 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 36
+    },
+    {
+      "source": "조선일보",
+      "category": "politics",
+      "ok": true,
+      "matched": 3
+    },
+    {
+      "source": "동아일보 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 30
+    },
+    {
+      "source": "머니투데이",
+      "category": "economy",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "Wired",
+      "category": "it",
+      "ok": true,
+      "matched": 19
+    },
+    {
+      "source": "DW News",
+      "category": "world",
+      "ok": true,
+      "matched": 17
+    }
+  ],
+  "items": [
+    {
+      "id": "2f897ccfed49",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "[계양전기 생존방정식]② \"추가 유증 없다\"…중장기 CB는 만지작",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=676519",
+      "publishedAt": "2026-10-23T14:56:31.000Z",
+      "description": "계양전기가 중장기 자금조달을 목적으로 전환사채(CB) 발행을 구상하는 것으로 나타났다. 올해 자본 확충과 공장 매각까지 결정했지만 생산거점의 재편과 로보틱스 투자가 이어지는 만큼 중장기 자금 수요에도 대비하려는 움직임으로 풀이된다. 유증·공장 매각 이어 CB 발행 가능성23일 계양전기에 따르면 중장기 자금조달 방안으로 CB(전환사채) 발행을 검토하고 있다. 구체적인 발행 규모와 시기는 아직 정해지지 않았지만 향후 자금 수요에 대비해 추가 조달 가능성을 열어두고 있는 것으로 알려졌다.계양전기는 올해 30년 만에 유상증자에 나설 만큼",
+      "author": "김나영 기자",
+      "summary": "계양전기가 로보틱스 투자 등 중장기 자금 수요에 대비하기 위해 전환사채 발행을 검토 중이며, 올해 유상증자와 공장 매각을 결정했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "68965e982fcc",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "[딜 인사이드] 유증 앞두고 거래재개…경영정상화 시험대 I 파이온엑스②",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=676243",
+      "publishedAt": "2026-10-23T14:44:09.000Z",
+      "description": "코스닥 상장사 파이온엑스가 100억원 규모 유상증자를 통한 최대주주 변경과 함께 이사회 재편을 추진한다. 현 경영진 출범 약 1년 만에 다시 경영진 교체에 나섰다. 이런 가운데 파산신청 사유도 해소되면서 주식 거래가 재개된다. 다만 지속적인 영업적자와 매출 감소 등 실질적인 경영 정상화를 위한 과제는 여전히 남아 있다. 경영진 출범 1년 만에 이사회 재편23일 금융감독원 전자공시시스템에 따르면 파이온엑스는 11월3일 임시주주총회를 열고 정관 변경과 이사 선임 및 해임 안건을 상정할 예정이다. 같은 날 100억원 규모 제3자배정 유상",
+      "author": "강기목 기자",
+      "summary": "파이온엑스가 100억원 규모 유상증자로 최대주주를 변경하고 이사회를 재편하며 주식 거래가 재개됐으나, 영업적자와 매출 감소 등 경영정상화 과제가 남아 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a39371ef5d6b",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "핵발전 부흥을 상징하는 원자로 계속 문제 발생",
+      "link": "https://arstechnica.com/tech-policy/2026/10/safety-concerns-cloud-americas-flagship-nuclear-restart/",
+      "publishedAt": "2026-10-23T13:43:21.000Z",
+      "description": "A contractor fell into a reactor cavity and a bundle of fuel rods almost fell over.",
+      "author": "Jamie Smyth",
+      "summary": "핵발전 재부흥을 상징하려던 원자로에서 하청업체 직원이 원자로 공동에 떨어지고 연료봉 다발이 거의 넘어질 뻔한 사건들이 발생했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ec3a77ee86bd",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "[디엘지 law 인사이트] 임금체불 진정 사건 처리절차",
+      "link": "https://zdnet.co.kr/view/?no=20261023224147",
+      "publishedAt": "2026-10-23T13:41:47.000Z",
+      "description": "[지디넷코리아]월급이 밀렸을 때한때 선풍적인 인기를 끌었던 중소기업 배경의 웹드라마 ‘좋좋소’의 한 장면이다. 받을 돈을 다 못 받았다는 근로자와 오히려 회사가 받을 돈이 더 있다는 사장님이 팽팽하게 맞선다. 급기야 근로자가 노동청에 신고하겠다며 자리를 박차고 나간다.있어서는 안 되겠지만 실무에서 종종 있는 일이다. 회사가 경영상 어려움을 겪거나 근로자와 임금 산정 방식에 관한 이견이 발생하면서 임금이나 퇴직금이 제때 지급되지 못하는 경우가 그러하다. 근로자는 위 대사처럼 관할 고용노동청에 임금체불을 신고할 수 있고, 사용자는 근로감독관의 조사와 시정지시를 받게 된다.다만, 임금체불 진정 사건은 단순한 ‘돈 문제’가 아니라, 자칫하면 인신구속이 될 수도 있는 형사사건으로 진행될 가능성이 있기 때문에 감정적으로 대응해서는 안 된다.임금체불 진정과 조사근로기준법에 따르면 임금은 원칙적으로 매월 1회 이상 일정한 날짜에 지급해야 하고, 근로자가 퇴직한 경우에는 특별한 사정이 있어 당사자가 지급기일을 연장하기로 합의한 경우를 제외하면 퇴직일부터 14일 이내에 임금 등 금품을 지급하여야 한다.근로자가 이를 지급받지 못한 경우 관할 지방고용노동관서에 진정을 제기할 수 ",
+      "author": "최영재 법무법인 디엘지 변호사",
+      "summary": "임금체불은 경영난이나 임금 산정 방식의 이견으로 발생하며, 근로자는 고용노동청에 신고할 수 있고 사용자는 근로감독관의 조사를 받게 되는데 형사사건으로 진행될 가능성도 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "07f2f77ff837",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "'35층 추락' 다리 잃은 20대 中 인플루언서…17개월 만에 복귀 영상 '170만 좋아요' 쏟아져",
+      "link": "https://www.etnews.com/20261023000200",
+      "publishedAt": "2026-10-23T13:30:00.000Z",
+      "description": "중국에서 건물 35층 높이에서 떨어진 뒤 생존한 20대 여성 인플루언서가 약 1년 5개월 만에 소셜미디어(SNS)에 모습을 드러내 화제다. 22일(현지시간) 홍콩 사우스차이나모닝포스트(SCMP)는 중국 후난성 출신의 27세 여성 '와나난'이 지난 12일 자신의 계정에 일상을 담은 영상을 공개하고 “시련을 딛고 새로운 삶을 시작했다”고 전했다고 보도했다. 그는 지난해 6월 건물 35층에서 추락하는 사고를 겪었다. 사고 직후 중난대학교 샹야 제3병",
+      "author": "이원지",
+      "summary": "중국 후난성의 27세 여성 인플루언서 와나난이 지난해 6월 건물 35층에서 추락하는 사고를 겪은 후 약 17개월 만에 소셜미디어에 복귀하여 새로운 삶을 시작했다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b3c4e1321350",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "한국데이터산업진흥원, 케냐 ICTA와 데이터·AI 협력 MOU 체결",
+      "link": "https://zdnet.co.kr/view/?no=20261023221801",
+      "publishedAt": "2026-10-23T13:18:01.000Z",
+      "description": "[지디넷코리아]한국데이터산업진흥원(원장 양재수, 이하 K-DATA)은 21일 주한 케냐대사관에서 케냐 정보통신기술원(ICT Authority, 이하 ICTA)과 데이터·인공지능(AI) 분야 협력을 위한 업무협약(MoU)을 체결했다.이날 협약식에서는 윌리엄 카보고(William Kabogo) 케냐 정보통신디지털경제부 장관과 월드뱅크 스텔라 모칸(Stela Mocan) 글로벌 디지털 & AI 부총재실 디렉터가 입회한 가운데, 양재수 K-DATA 원장과 제시 마루티 키베우(Jessy Maruti Kiveu) ICTA 대표가 협약서에 서명했다.이번 협약식은 월드뱅크가 주관하는 ‘Global AI & Digital Summit 2026’ 참석을 위한 케냐 대표단의 방한을 계기로 마련됐다. 양 기관은 지난 5월 월드뱅크 주관 ‘Korea Green Innovation Days’ 행사에서 협력 가능성을 논의한 이후 후속회의와 문안 협의를 거쳐 협약을 추진해 왔다.협약은 한국 데이터산업 지원 경험과 케냐 디지털 전환 수요를 연결하고, 데이터·AI를 활용한 산업 혁신과 공공서비스 개선을 위한 협력 기반을 마련하는 데 목적이 있다.주요 협력 분야는 ▲AI 활용을 위한 데이터 ",
+      "author": "방은주 기자",
+      "summary": "한국데이터산업진흥원이 케냐 정보통신기술원과 데이터·AI 분야 협력을 위한 업무협약을 체결했으며, 한국의 데이터산업 지원 경험과 케냐의 디지털 전환 수요를 연결하기 위한 것이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "94ea2a86f2b4",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "대한항공·아시아나 고객정보 유출…글로벌 IT 협력사 해킹 피해",
+      "link": "https://www.etnews.com/20261023000363",
+      "publishedAt": "2026-10-23T13:15:05.000Z",
+      "description": "대한항공과 아시아나항공의 고객 개인정보가 글로벌 IT 예약·발권 시스템 협력사의 해킹 피해로 유출됐다. 카드 등 결제 정보는 포함되지 않았으나 승객의 예약번호 등이 유출 항목에 포함된 것으로 확인됐다. 23일 항공업계에 따르면 대한항공과 아시아나항공은 지난 20일 밤 글로벌 항공 IT 시스템 운영사인 '아마데우스 IT 그룹'으로부터 시스템 계정을 통한 개인정보 유출 정황을 통보받았다. 이번 사고는 아마데우스 시스템 계정의 로그인 인증정보를 이용",
+      "author": "김지웅",
+      "summary": "대한항공과 아시아나항공의 고객 개인정보가 글로벌 항공 IT 시스템 운영사 아마데우스의 해킹으로 유출됐으며, 승객 예약번호 등이 포함되었으나 결제 정보는 미포함되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f2207bf02759",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "삼성 갤럭시 Z Flip8 리뷰: 가장 작은 스마트폰의 가능성",
+      "link": "https://www.wired.com/review/samsung-galazy-z-flip8/",
+      "publishedAt": "2026-10-23T11:30:00.000Z",
+      "description": "Samsung’s cute compact is for those who want the smallest possible phone. Performance and camera are solid, but it’s pricier than its predecessor.",
+      "author": "Simon Hill",
+      "summary": "삼성 갤럭시 Z Flip8은 가장 작은 스마트폰을 원하는 사용자를 위한 제품으로, 성능과 카메라는 견고하지만 전작보다 가격이 높다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "94dbad3f6678",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "VPN 분할 터널링 기능 활용법",
+      "link": "https://www.wired.com/story/split-tunneling-is-your-vpns-best-feature-heres-how-to-make-the-most-of-it/",
+      "publishedAt": "2026-10-23T11:00:00.000Z",
+      "description": "This feature common to VPN services gives you protection and privacy specifically when and where you need it.",
+      "author": "David Nield",
+      "summary": "VPN의 분할 터널링 기능은 필요한 시점과 장소에서만 보안과 프라이버시를 제공하는 VPN 서비스의 주요 기능이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d917571e5a04",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "우라(Oura), 울트라휴먼 재소송으로 미국 시장 복귀 위협",
+      "link": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
+      "publishedAt": "2026-10-23T04:22:57.000Z",
+      "description": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.",
+      "author": "Jagmeet Singh",
+      "summary": "우라가 울트라휴먼의 Ring Pro 제품이 자신의 두 특허를 침해한다며 재소송을 제기하여 울트라휴먼의 미국 스마트링 시장 복귀를 위협하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a1a169cac493",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "게임 스튜디오 BioWare의 30년 역사 마감",
+      "link": "https://www.theguardian.com/games/2026/oct/23/bioware-rpg-games-ea-closure-mass-effect",
+      "publishedAt": "2026-10-23T14:44:48.000Z",
+      "description": "The closure of the studio responsible for some of the best games of the 21st century leaves the world of RPGs feeling smaller without the hope of another instalment of the much-loved sci-fi series Earlier this week, EA announced the closure of BioWare, a game studio with a 30-year history of compelling role-playing games, complex characters and bold, choice-driven narratives. Its forthcoming game in the Mass Effect sci-fi series has been cancelled, and more than 400 people are losing their jobs. As someone who has worked in the video games industry for 15 years and spent almost 20 as a BioWare",
+      "author": "Lucy James",
+      "summary": "EA가 30년 역사의 게임 스튜디오 BioWare를 폐쇄하고 Mass Effect 시리즈의 신작을 취소했으며, 400명 이상이 실직하게 됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "931229fb34b1",
+      "category": "economy",
+      "source": "머니투데이",
+      "region": "kr",
+      "title": "1.8억 '中 롤스로이스' 탔다가 \"종잇장 될 뻔\"... 맨유 GK 가족 덮친 3중 추돌 \"튼튼하다더니 앞뒤로 구겨졌네\"",
+      "link": "https://www.mt.co.kr/sports/2026/10/23/2026102321401775526",
+      "publishedAt": "2026-10-23T14:11:00.000Z",
+      "description": "맨체스터 유나이티드 소속으로 튀르키예 무대에서 뛰고 있는 골키퍼 안드레 오나나(30·트라브존스포르)가 가족과 함께 대형 교통사고를 당했으나 무사히 위기를 넘겼다. 영국 '더선'은 23일(한국시간) \"오나나가 여러 대의 차량이 뒤엉킨 끔찍한 교통사고에 휘말렸으나 구사일생으로 목숨을 건졌다\"고 보도했다. 사고는 지난 22일 밤 발생했다. 오나나는 하츠와의 유럽축구연맹(UEFA) 콘퍼런스리그(UECL) 홈 경기에서 무실점하며 팀의 2-0 승리를 이끌었다. 이후 가족을 태우고 차를 몰아 집으로 돌아가던 중 사고를 당했다. 트라브존 인근 욤라 도로에서 뒤따르던 차량이 빠른 속도로 오나나의 차를 들이받았다. 이 충격으로 오나나의 차가 밀려나며 앞차를 다시 들이받았다. 당시 오나나는 '중국의 롤스로이스'로 불리는 10만 파운드(약 1억 7800만원) 상당의 최고급 자동차 '홍치 E-HS9'을 운전 중이었다. 현장 사진에는 차량 앞부분이 심하게 파손되고 도로 곳곳에 차량 파편이 널브러진 모습이 담겼다....",
+      "author": null,
+      "summary": "맨체스터 유나이티드 골키퍼 안드레 오나나가 가족과 함께 1억 7800만원대 고급 자동차를 운전 중 3중 추돌 사고를 당했으나 무사히 빠져나왔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "144f2f243832",
+      "category": "economy",
+      "source": "동아일보 경제",
+      "region": "kr",
+      "title": "대한항공 이어 아시아나도 고객정보 유출…\"협력사 해킹 피해\"",
+      "link": "https://www.donga.com/news/It/article/all/20261023/134899880/1",
+      "publishedAt": "2026-10-23T12:52:32.000Z",
+      "description": "대한항공(003490)에 이어 아시아나항공(020560)도 협력사인 글로벌 항공 IT 시스템 운영사 ‘아마데우스’를 통해 고객 개인정보가 유출된 것으로 확인됐다.대한항공에서는 고객 예약번호가 유출됐고, 아시아나항공에서도 예약 관련 정보가 유출됐다. 양사 모두 자체 데이터베이스(DB)가 직접 침해된 정황은 없는 것으로 파악됐다.아시아나항공 관계자는 23일 “글로벌 항공 IT 시스템 운영사인 아마데우스사의 정보 유출로 예약 관련 정보가 유출된 것으로 확인됐다”며 “결제 관련 정보는 포함되지 않았다”고 밝혔다.이어 “내부 데이터베이스에 대한 직접적인 침해 정황은 없으나 보안 강화 조치를 실시하고 있다”며 “추가 피해와 재발 방지를 위해 고객 개인정보 보호에 필요한 모든 노력을 기울이겠다”고 말했다.앞서 대한항공도 지난 20일 오후 10시 44분 아마데우스로부터 해킹 피해에 따른 고객 개인정보 유출 사실을 공식 통보받았다.대한항공은 통보 직후 안전조치를 시행했으며 자체 시스템을 점",
+      "author": null,
+      "summary": "아시아나항공도 협력사인 아마데우스의 해킹으로 예약 관련 고객 정보가 유출됐으나, 결제정보는 포함되지 않았고 자체 DB는 직접 침해되지 않은 것으로 확인됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "989c38f3d5e3",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "PHP 보안 결함 발견으로 글로벌 사이버보안 긴급 대응",
+      "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T12:24:17.000Z",
+      "description": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+      "author": null,
+      "summary": "AI가 PHP 프로그래밍 언어의 오랫동안 숨겨진 결함을 발견하면서 전 세계 사이버보안 긴급 대응이 촉발됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "fc657df35da9",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "LH 사장 \"집값 상승은 공급부족 탓…前정부 폭등 시한폭탄 설치\"",
+      "link": "https://www.yna.co.kr/view/AKR20261023181200003",
+      "publishedAt": "2026-10-23T11:39:20.000Z",
+      "description": "(세종=연합뉴스) 오진송 기자 = 이성훈 한국토지주택공사(LH) 사장은 최근 집값 상승의 원인으로 주택 공급 부족을 지목하며 지난 정부가 '3년...",
+      "author": "오진송",
+      "summary": "LH 사장이 집값 상승을 주택 공급 부족이 원인이라 지목하면서 이전 정부가 부동산 폭등의 '시한폭탄'을 설치했다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "bce2a270e1b0",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "JP모건, 국내 소부장 기업 4곳 지분 5% 이상 보유",
+      "link": "https://www.yna.co.kr/view/AKR20261023179900008",
+      "publishedAt": "2026-10-23T11:21:46.000Z",
+      "description": "(서울=연합뉴스) 강수지 기자 = JP모건증권 PLC가 뉴파워프라즈마[144960], 엑시콘[092870], 네패스아크[330860], 삼화콘덴...",
+      "author": "강수지",
+      "summary": "JP모건증권이 국내 소재·부품·장비 기업 4곳에서 5% 이상의 지분을 보유하고 있는 것으로 나타났다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a7d6ecf9c82e",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "\"40% 수익률 의심했어야 하나요\"…삼전닉스ELS, 조기상환 잇단 불발",
+      "link": "https://www.mk.co.kr/news/stock/12184501",
+      "publishedAt": "2026-10-23T10:39:21.000Z",
+      "description": "3분기 삼전닉스 ELS 발행 4조 코스피 200 추종도 5조 넘어 7월 발행 상품 만기도래 불구 기준가 밑돌아 자금회수 지연연환산 40%대라는 달콤한 수익률을 내걸고 투자자를 모았..",
+      "author": "매일경제",
+      "summary": "40%대 높은 수익률을 내걸고 모금한 삼전닉스 ELS가 기준가 하락으로 조기상환에 실패하면서 투자자의 자금회수가 지연되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0131fada1d8f",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "메타는 '돈 버는 AI', 테슬라는 '아직 돈 쓰는 로봇' [플러스 관심종목]",
+      "link": "https://www.mk.co.kr/news/stock/12184464",
+      "publishedAt": "2026-10-23T09:07:01.000Z",
+      "description": "메타·테슬라 3분기 실적 뜯어보니21일(현지시간) 뉴욕증시가 스페이스X 등 주요 기술기업들의 호실적에 힘입어 상승 마감한 직후, 기대를 모은 메타와 테슬라의 3분기 실적을 발표했지..",
+      "author": "매일경제",
+      "summary": "메타는 3분기 실적에서 AI 사업으로 수익을 창출한 반면, 테슬라는 로봇 개발에 여전히 투자 자금을 소모하고 있는 것으로 분석됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5bc21cd6c8be",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "은행 포용금융 '줄세우기' … 실적따라 출연금 더 부과",
+      "link": "https://www.mk.co.kr/news/economy/12184441",
+      "publishedAt": "2026-10-23T08:47:16.000Z",
+      "description": "금융당국이 은행권 포용금융 실적을 평가해 서민금융진흥원 출연금을 조정하고 우수 은행에는 과징금을 감경해주는 방안을 추진한다. 서민대출 공급과 채무조정, 금리 부담 경감은 물론이고 ..",
+      "author": "매일경제",
+      "summary": "금융당국이 은행의 포용금융 실적을 평가하여 서민금융진흥원 출연금을 조정하고 우수 은행에는 과징금을 감경하는 차등 정책을 추진하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ed558a7fe09c",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "반도체 핵심인재에…국가R&D사업 가점",
+      "link": "https://www.mk.co.kr/news/economy/12184433",
+      "publishedAt": "2026-10-23T08:45:04.000Z",
+      "description": "정부가 반도체 등 첨단산업의 핵심 기술인재 유출을 막기 위해 출입국 우대와 연구개발(R&D) 혜택, 재정 지원 등 인센티브를 대폭 강화한다. 23일 관가에 따르면 산업통상부는 이 ..",
+      "author": "매일경제",
+      "summary": "정부가 반도체 등 첨단산업의 핵심 기술인재 해외 유출을 방지하기 위해 출입국 우대, 연구개발(R&D) 혜택, 재정 지원 등 인센티브를 대폭 강화하기로 했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1dc8336d2e56",
+      "category": "politics",
+      "source": "노컷뉴스",
+      "region": "kr",
+      "title": "李대통령 주재 범죄 대응회의서 '가석방 없는 무기형' 도입 추진",
+      "link": "https://www.nocutnews.co.kr/news/6596216",
+      "publishedAt": "2026-10-23T14:35:47.000Z",
+      "description": "이재명 대통령은 최근 빈발하는 관계성 범죄와 불특정 다수를 대상으로 한 강력범죄에 대해 범정부 대응회의를 소집하며 \"국민들이 일상에서조차 안전을 걱정해야 하는 이런 상황을 더 이상 방치해선 안 된다\"고 말했다. 법무부와 법제처는 이날 회의에서 흉악범을 사회로부터 영구 격리시켜, 피해자와 유족의 인권을 보호하겠다며 '가석방 없는 무기형' 도입을 추진하겠다는 뜻을 밝혔다. 이 대통령은 23일 오전 청와대에서 '초안전사회 범정부 대응회의'를 주재한 자리에서 모두발언을 통해 \"국민의 생명과 안전 지키는 일은 국가의 가장 기본적인 책무로서, 강력범죄에 대해선 전쟁을 선포한다는 각오로 임해야 한다\"며 이 같이 말했다. 특히 \"사전 위험 신호를 조기에 포착할 수 있는 시스템을 마련하는 등, 사후대응을 넘어 사전예방 체제로 대대적 전환해야 한다\"며 \"이미 발생한 범죄에 대해서는 사전에 막을 방법은 없었는지, 철저한 분석을 토대로 재발 방지 대책을 수립해서 유사 범죄의 위험으로부터 국민을 확실하게 보호한다는 원칙을 세우고 실행해 나가야 되겠다\"고 강조했다. 청와대 강유정 수석대변인은 서면브리핑을 통해 이날 회의에서 '초안전사회를 위한 모두의 안심 365 프로젝트'라는 비전과",
+      "author": null,
+      "summary": "이재명 대통령이 범정부 범죄 대응회의를 소집하여 강력범죄에 전쟁 선포 각오로 대응할 것을 강조했으며, 정부는 흉악범을 사회로부터 영구 격리시키는 '가석방 없는 무기형' 도입을 추진하겠다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5c66f58c8589",
+      "category": "politics",
+      "source": "서울신문",
+      "region": "kr",
+      "title": "\"사법개혁 안 한 후과다\"…오세훈 생환에 조국혁신당이 꺼내 든 '조희대 탄핵' 카드",
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20261023500304",
+      "publishedAt": "2026-10-23T14:22:52.000Z",
+      "description": "오세훈 서울시장이 ‘명태균 여론조사 대납 의혹’ 사건 항소심에서 무죄를 선고받고 극적으로 생환에 성공한 가운데 조국혁신당이 사법부를 향해 전면전을 선포했다. 법원이 ‘정치 브로커’의 진술을 배척하고 무죄를 선고한 데 대해 “보수·극우 인사들 앞에만 서면 한없이 너그러워지는 ‘사법 정치’”라며 대법원장 탄핵 카드까지 꺼내 들었다. 조국혁신당 신장식 대표 등 당 지도부는 23일 국회 소통관에서 긴급 기자회견을 열고 오 시장의 2심 무죄 판결을 강력하게 규탄했다. 신 대표는 “여론조사 비용 대납과 정치 브로커와의 유착은 명백히 존재한다”며 재판부가 판결 과정에서 피의자에게 유리한 부분만 골라내는 이른바 ‘체리피킹’을 자행했다고 목소리를 높였다. 그는 “대선을 코앞에 두고도 7만쪽에 달하는 사건 기록을 9일 만에 검토해 파기환송을 내린 조희대 사법부가 비선 정치자금에 면허를 내줬다”며 “정치검찰과 다름없는 행태를 보이는 ‘정치 법원’의 모습에 깊은 유감을 표한다”고 비난했다. 조국 혁신정책연구원장 역시 페이스북을 통해 이번 판결을 직격했다. 그는 여러 차례 경고했던 ‘사법 정치’의 반격이 현실화했다며 법원행정처 폐지, 조희대 탄핵 등 사법개혁을 단호히 추진하지 않은",
+      "author": "문경근 기자",
+      "summary": "오세훈 서울시장이 명태균 여론조사 대납 의혹 사건 항소심에서 무죄를 선고받자, 조국혁신당은 재판부의 '사법 정치'를 규탄하며 조희대 대법원장 탄핵과 법원행정처 폐지 등 사법개혁을 추진하겠다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5d114cf28789",
+      "category": "politics",
+      "source": "연합뉴스 사회",
+      "region": "kr",
+      "title": "전남 완도여서도·거문도·초도에 강풍주의보",
+      "link": "https://www.yna.co.kr/view/AKR20261023187500527",
+      "publishedAt": "2026-10-23T14:08:30.000Z",
+      "description": "(광주=연합뉴스) 기상청은 23일 오후 11시를 기해 완도여서도·거문도·초도에 강풍주의보를 발효한다고 밝혔다.",
+      "author": "기상뉴스",
+      "summary": "기상청이 전남 완도 지역의 완도여서도, 거문도, 초도에 강풍주의보를 발효했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0d3d74493215",
+      "category": "politics",
+      "source": "SBS 뉴스",
+      "region": "kr",
+      "title": "이 대통령 \"전쟁 선포한다는 각오로\"…칼 뽑았다",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812530",
+      "publishedAt": "2026-10-23T14:08:00.000Z",
+      "description": "이재명 대통령이 최근 잇따르는 강력범죄와 관련해, 전쟁을 선포한다는 각오로 대응해야 한다고 강조했습니다. 정부는 이에 대한 예방 중심의 대책으로…",
+      "author": "khanporter@sbs.co.kr (강민우)",
+      "summary": "이재명 대통령이 최근 잇따르는 강력범죄에 대해 전쟁을 선포한다는 각오로 대응할 것을 강조했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8fd9fb729502",
+      "category": "politics",
+      "source": "조선일보",
+      "region": "kr",
+      "title": "서울 온 저스틴 비버, 이번엔 삼계탕 맛집에 등장",
+      "link": "https://www.chosun.com/entertainments/2026/10/23/AZODNXFIOFB6VEUTWFTR4DFYIA/",
+      "publishedAt": "2026-10-23T13:09:21.000Z",
+      "description": "",
+      "author": "뉴시스",
+      "summary": "음악가 저스틴 비버(Justin Bieber)가 서울 방문 중 한 삼계탕 맛집을 방문하는 모습이 포착되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3fee00a5549d",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "국토장관 \"구글 지도 반출, 조건 불이행 시 허가 중단\"",
+      "link": "https://www.yna.co.kr/view/AKR20261023181800003",
+      "publishedAt": "2026-10-23T12:06:41.000Z",
+      "description": "(서울=연합뉴스) 오예진 오진송 기자 = 홍지선 국토교통부 장관은 23일 구글 고정밀 지도의 국외 반출에 대해 \"조건을 불이행할 경우 최대한 나...",
+      "author": "오예진",
+      "summary": "홍지선 국토교통부 장관이 구글 고정밀 지도의 국외 반출에 대해 조건을 불이행할 경우 허가를 중단할 수 있다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "aaf90774d8bb",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "메르츠 독일 총리 29~30일 첫 방한···이 대통령과 정상회담",
+      "link": "https://www.khan.co.kr/article/202610232056001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-10-23T11:56:00.000Z",
+      "description": "이재명 대통령과 프리드리히 메르츠 독일 총리가 지난 6월 16일(현지시간) 프랑스 에비앙레뱅 주요 7개국(G7) 정상회의장에서 양자 회담을 하고 있다. 연합뉴스이재명 대통령이 오는 29~30일 방한하는 프리드리히 메르츠 독일 총리와 정상회담을 할 예정이다. 이번 방한은 독일 총리의 3년 만의 양자 공식 방문이자 메르츠 총리의 취임 후 첫 방한이다.강유정 청···",
+      "author": "이예슬 기자",
+      "summary": "프리드리히 메르츠 독일 총리가 29~30일 방한하여 이재명 대통령과 정상회담을 할 예정이며, 이는 독일 총리의 3년 만의 양자 공식 방문이자 메르츠 총리의 취임 후 첫 방한이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "67f4432ec402",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "최휘영, 산하기관장 보은인사 지적에 \"모욕…전문성·역량 판단\"",
+      "link": "https://www.yna.co.kr/view/AKR20261023173000005",
+      "publishedAt": "2026-10-23T11:43:57.000Z",
+      "description": "(서울=연합뉴스) 임순현 기자 = 최휘영 문화체육관광부 장관이 일부 문체부 산하 기관장 임명이 '보은 인사'라는 지적에 전문성과 역량을 통해 판...",
+      "author": "임순현",
+      "summary": "최휘영 문화체육관광부 장관이 산하 기관장 임명이 '보은 인사'라는 지적에 전문성과 역량을 통해 판단했다고 반박했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "64437c9e84e9",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "오세훈 2심 재판부 \"김한정과 대납 요청할 만한 관계 아냐…오히려 캠프에서 홀대\"",
+      "link": "https://www.khan.co.kr/article/202610232030001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-10-23T11:30:00.000Z",
+      "description": "오세훈 서울시장이 23일 서울 서초구 서울고법에서 열린 ‘명태균 여론조사 대납 의혹 사건’ 항소심 선고 공판 뒤 무죄 판결과 관련해 입장을 밝히고 있다. 연합뉴스오세훈 서울시장의 ‘명태균 여론조사 비용 대납 의혹’에 대해 2심 재판부가 오 시장과 후원자 김한정씨의 관계가 여론조사 정치자금 대납을 부탁할 정도로 친밀하지 않았다고 판시했다. 오히려 김씨가 오 ···",
+      "author": "김정화 기자",
+      "summary": "오세훈 서울시장의 명태균 여론조사 비용 대납 의혹 사건의 2심 재판부는 오 시장과 후원자 김한정의 관계가 정치자금 대납을 요청할 만큼 친밀하지 않았다고 판단했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "862c564f4133",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "[단독]\"명태균 '오세훈 건방져, 1위조사 안된다'며 조작 지시\"",
+      "link": "https://www.donga.com/news/Society/article/all/20261023/134899111/1",
+      "publishedAt": "2026-10-23T11:15:00.000Z",
+      "description": "“오세훈 1등 하는 조사를 가져다주면 안 된다. 건방지다.”정치 브로커 명태균 씨가 2021년 서울시장 보궐선거 당시 이렇게 말하며 오세훈 서울시장에게 불리하게 여론조사를 조작하라고 지시했다는 진술이 23일 오 시장 항소심 판결문에 담긴 것으로 확인됐다. 김건희 특검(특별검사 민중기)은 명 씨가 오 시장의 의뢰로 여론조사를 했다고 보고 기소했는데, 재판부는 오히려 명 씨 측이 오 시장에게 불리하게 조사 결과를 손본 정황이 있다고 판단한 것이다.● “오세훈 1위 조사를 나경원 1등으로 바꿔”동아일보가 23일 입수한 오 시장의 정치자금법 위반 혐의 항소심 판결문에 따르면 서울고법 형사7부(부장판사 구회근)는 명 씨가 실질적으로 운영한 것으로 알려진 미래한국연구소의 강혜경 씨 진술을 무죄 판단의 근거 중 하나로 들었다. 강 씨는 수사기관과 1심 법정에서 “오세훈이 1위로 나온 조사가 있었는데 나경원(당시 국민의힘 서울시장 보궐선거 경선 후보)이 1등 한 것으로 바꾼 조사가 있었다”고",
+      "author": null,
+      "summary": "정치 브로커 명태균이 오세훈 서울시장에게 불리하게 여론조사를 조작하라고 지시했다는 진술이 항소심 판결문에 담겼으며, 서울고법은 명태균 측이 조사 결과를 조작했을 정황이 있다고 판단했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5eda523f2197",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "아프간 여성, 마지막 고등교육 길 잃을 위기",
+      "link": "https://www.dw.com/en/afghan-women-could-lose-one-of-their-last-paths-to-a-higher-education/a-79745173?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-10-23T14:54:00.000Z",
+      "description": "The US has defunded one of the last universities giving Afghan women the chance to receive an education after the Taliban takeover in 2021. DW spoke with a student who says she's lost hope of ever earning a degree.",
+      "author": null,
+      "summary": "미국이 탈레반 점령 이후 아프간 여성들이 고등교육을 받을 수 있는 거의 유일한 기회였던 한 대학의 자금 지원을 중단했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "053b604bcf04",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "美 10월 소비자심리 5개월 만에 최저…기대 인플레도 상승",
+      "link": "https://www.yna.co.kr/view/AKR20261023188500072",
+      "publishedAt": "2026-10-23T14:52:47.000Z",
+      "description": "(뉴욕=연합뉴스) 임수정 특파원 = 미국 소비자들의 경제 심리가 고물가와 고금리 부담 속에 5개월 만에 최저 수준으로 떨어진 것으로 나타났다.",
+      "author": "임수정",
+      "summary": "고물가와 고금리 부담 속에 미국 소비자들의 경제심리가 5개월 만에 최저 수준으로 내려갔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "79a758ec6ea4",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "요르단 남부 교회서 무장괴한 총격…최소 6명 사망",
+      "link": "https://www.yna.co.kr/view/AKR20261023188200099",
+      "publishedAt": "2026-10-23T14:31:13.000Z",
+      "description": "(요하네스버그=연합뉴스) 나확진 특파원 = 요르단 남부의 한 교회에서 23일(현지시간) 무장괴한의 총격이 벌어져 최소 6명이 숨지고 28명이 다...",
+      "author": "나확진",
+      "summary": "요르단 남부의 한 교회에서 무장괴한의 총격으로 최소 6명이 사망하고 28명이 상처를 입었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ae47b5ac25a8",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "루마니아, 흑해 선박 공격에 러시아 비난",
+      "link": "https://www.dw.com/en/romania-blames-russia-for-ship-attack-in-the-black-sea/a-79743425?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-10-23T14:25:00.000Z",
+      "description": "Russian strikes against ships attempting to export Ukrainian grain and cargo through the western Black Sea have sharply increased this month.",
+      "author": null,
+      "summary": "러시아가 흑해 서부에서 우크라이나 곡물과 화물을 수출하려는 선박들을 공격하고 있으며 이달 공격이 급증했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "aa666dddde22",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "파리 시위 준비 속 PSG-리옹전 연기",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cw8rz3eyn26po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T14:18:41.000Z",
+      "description": "Paris St-Germain's Ligue 1 match against Lyon at the Parc des Princes is pushed back 24 hours as the French capital prepares for another weekend of protests.",
+      "author": null,
+      "summary": "파리에서 주말 시위가 예정되어 있어 PSG의 리그1 경기가 리옹전을 24시간 연기했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5e7d53f4e395",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "나이지리아 에볼라 감염 원인 미궁, 바이러스 확산 우려",
+      "link": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
+      "publishedAt": "2026-10-23T13:57:11.000Z",
+      "description": "Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in Uganda Health officials across Africa are racing to determine how Nigeria’s first Ebola patient ⁠in more than a decade ⁠became infected, amid fears ​the outbreak could spread further after reaching a fourth African country. The Swiss foreign ministry said on Friday the patient in Nigeria, the Ugandan-born wife of a Swiss diplomat based in Abuja, had not travelled to the Democratic Republic of ⁠Congo, where the outbreak was first detected in mid-May before spreading to Uganda, Kenya and ",
+      "author": "Carlos Mureithi in Nairobi and agencies",
+      "summary": "스위스 외교관의 아내인 나이지리아의 첫 에볼라 환자가 우간다 여행 중 감염된 것으로 추정되며, 바이러스가 콩고에서 시작하여 4개국으로 확산되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0ade069fb8cb",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "덴마크 정부, 밍크 사육 금지 정책 전환",
+      "link": "https://www.bbc.co.uk/news/articles/c59vzjm118j1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T12:17:45.000Z",
+      "description": "Once the world's largest producer of mink pelts, the nation's industry has declined in recent years.",
+      "author": null,
+      "summary": "한때 세계 최대 밍크 모피 생산국이었던 덴마크가 정부 정책을 전환하여 밍크 사육을 금지하기로 했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b2cc06a21619",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "중동으로 군 증원 이동, 수백만 미국인 조기투표",
+      "link": "https://www.npr.org/2026/10/23/g-s1-149514/up-first-newsletter-iran-war-midterm-voting-trump-bbc",
+      "publishedAt": "2026-10-23T11:22:25.000Z",
+      "description": "Military reinforcements are heading to the Middle East and some personnel have left the region, pointing to a potential attack on Iran. And, millions of Americans have already voted in the midterms.",
+      "author": "Brittney Melton",
+      "summary": "중동으로 군 증원이 이동하면서 이란 공격 가능성이 제기되고 있으며, 수백만 미국인이 중간선거에서 조기투표를 했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ce48f953d6c7",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "은퇴한 미국 장성, 미국-이스라엘의 이란 공격 계획 논의",
+      "link": "https://www.npr.org/2026/10/23/nx-s1-6012303/retired-general-discusses-the-u-s-and-israeli-plan-for-possible-attack-on-iran",
+      "publishedAt": "2026-10-23T10:36:15.000Z",
+      "description": "NPR'S Leila Fadel speaks with retired four-star Gen. Joseph Votel about the war in Iran and the U.S. and Israeli objectives for a potential post-election bombing campaign.",
+      "author": "Leila Fadel",
+      "summary": "NPR이 은퇴한 4성 장군과의 인터뷰로 이란 전쟁과 미국-이스라엘의 선거 이후 잠재적 폭격 캠페인 목표를 논의했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c7780fc2276a",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "티베트 규모 7.0 지진, 최소 16명 사망",
+      "link": "https://www.theguardian.com/world/2026/oct/23/magnitude-7-earthquake-hits-china-tibet",
+      "publishedAt": "2026-10-23T07:53:58.000Z",
+      "description": "Search and rescue efforts under way after quake strikes region’s north, with at least seven aftershocks recorded A magnitude-7 earthquake has hit Tibet, killing at least 16 people, injuring 54 and destroying hundreds of homes in the northern regional city of Nagqu, official media have said. Search and rescue efforts continued after at least 339 homes and 20 livestock sheds collapsed, the Nagqu media office said, citing city government officials. It was the biggest quake in the region in the past five years, according to China’s national broadcaster CCTV. Continue reading...",
+      "author": "Associated Press",
+      "summary": "티베트 북부 나그추에서 규모 7.0 지진이 발생해 최소 16명이 사망하고 54명이 상처를 입었으며, 수백 채의 주택과 축사가 붕괴했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9ccc34543cfa",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "학교 제복의 포르노 사용을 금지해야 한다고 주장하는 영국 십대 소녀들",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/23/teenage-girls-ban-school-uniform-porn-children-minors",
+      "publishedAt": "2026-10-23T14:33:05.000Z",
+      "description": "No one should have to feel nervous about walking to school in clothes designed for children. It’s time for UK law to end the disgusting sexualisation of minors In the Little Feminist Book Club, we don’t read a lot of books. The group, set up by former students at our school, is more about reading poems and articles, analysing song lyrics, discussing the issues that matter to us and, most importantly, campaigning. Our current campaign – the one you might have heard of – is to ban school uniform from pornographic content. Simply put, we want to end the depiction of school uniform in pornography ",
+      "author": "Rose, Mae, Aylin and Willow",
+      "summary": "영국의 십대 소녀들이 학교 제복을 이용한 미성년자 성적 착취를 규제해야 한다고 주장하며 캠페인을 벌이고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "08b72e9257de",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "아스날 팬인 뉴욕시장이 UAE 후원을 끊도록 압력을 행사해야 한다",
+      "link": "https://www.theguardian.com/football/2026/oct/23/zohran-mamdani-arsenal-emirates-uae-sudan-sponsorship",
+      "publishedAt": "2026-10-23T14:30:09.000Z",
+      "description": "The New York mayor’s passion for the Gunners and human rights presents an opportunity to push back on the club’s lucrative UAE sponsorship Like him or not, there is no doubt that New York mayor Zohran Mamdani’s passion for certain issues is electric, and that passion played a large part in him getting elected. But today, two of his biggest passions are on a collision course. On one hand, Mamdani is now arguably the US’s most high-profile supporter of English Premier League champions Arsenal. A superfan since he was a child, he has put the Gunners into the American spotlight more than anyone si",
+      "author": "Sasha Lezhnev and John Prendergast",
+      "summary": "필자들은 아스널을 사랑하는 뉴욕 시장 조흐란 맘다니가 인권 입장과 일관되게 클럽의 UAE 후원 관계를 끊도록 압력을 행사해야 한다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a0fcd8967d20",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]北 IT 인력 국내 위장 취업 첫 정황… '빙산의 일각' 아닌지",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261023/134899715/2",
+      "publishedAt": "2026-10-23T14:30:00.000Z",
+      "description": "북한 정보기술(IT) 인력이 국내 민간기업에 위장 취업한 정황이 포착돼 경찰이 수사하고 있다. 수사당국이 북한 IT 인력의 국내 취업 의혹을 찾아낸 첫 사례다. 경찰청 안보수사국은 이 인력이 신분 위장과 명의 도용을 통해 국내 기업에 취업했음을 인지하고 수사를 진행해 왔다. 해당 인력은 이 기업에서 개발 업무를 맡았다고 한다. 주로 중국과 러시아 등지에서 활동해 왔던 북한의 ‘해외 취업’ 부대가 국내에 잠입한 것이 맞다면 충격적인 사실이다. 국가 안보에 심각한 구멍이 뚫렸다고 봐야 하기 때문이다. 북한 IT 인력이 위험을 무릅쓰고 몰래 국내로 들어온 것은 단순한 ‘외화벌이’에 그치는 게 아닐 수 있다. 수사당국은 해당 기업은 물론이고 업무와 연관된 다른 기업이나 기관으로부터 핵심 기술과 국가 기밀 등을 탈취하려 했는지 철저하게 조사해야 한다. 또 공범이나 지원 조직, 다른 위장 취업자가 있을 가능성을 열어 두고 수사망을 확대할 필요가 있다. 북한의 이른바 ‘IT 전사 파견’은 갈",
+      "author": null,
+      "summary": "북한 IT 인력의 국내 위장 취업이 단순 외화벌이가 아닌 핵심 기술과 국가 기밀 탈취 목적일 수 있다며 철저한 수사와 수사망 확대를 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ffdbeadc3015",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]오세훈 항소심, 1심 뒤집고 무죄…",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261023/134899719/2",
+      "publishedAt": "2026-10-23T14:27:00.000Z",
+      "description": "정치자금법 위반 혐의로 재판을 받아온 오세훈 서울시장이 23일 항소심에서 무죄를 선고받았다. 정치 브로커 명태균 씨에게 여론조사를 요구하고 자신의 후원자에게 그 비용을 대신 내도록 한 혐의로 7월 오 시장에게 시장직 상실형인 벌금 1000만 원을 선고한 1심 판결이 뒤집힌 것이다. 항소심 판결이 대법원에서 그대로 확정되면 오 시장은 시장직을 유지하게 된다. 1, 2심 재판의 핵심 쟁점은 오 시장이 명 씨에게 여론조사를 의뢰했는지, 오 시장이 후원자 김한정 씨에게 여론조사 비용을 대납하도록 요청했는지 여부였다. 1심 재판부는 명 씨의 관련 진술 및 오 시장이 먼저 명 씨에게 연락해 만난 직후 명 씨가 여론조사를 실시한 정황 등을 근거로 유죄를 선고했다. 반면 2심 재판부는 혐의를 뒷받침할 수 있는 직접적인 증거는 명 씨의 진술이 유일한데 그 내용을 그대로 신뢰하기 어렵다고 지적했다. 명 씨의 진술에 경험과 추측, 과장이 섞여 있고 불리한 상황에는 기억나지 않는다고 하는 등 일관성이",
+      "author": null,
+      "summary": "오세훈 서울시장의 정치자금법 위반 혐의 항소심에서 무죄가 선고되었으며, 1심과 2심이 증거 평가에서 상이한 판단을 했다고 설명했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "04344203a394",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "획일화된 현대 삶에서 아름다움 추구는 필수적인 해독제다",
+      "link": "https://www.theguardian.com/world/2026/oct/24/modern-life-is-stuck-in-a-sea-of-sameness-the-pursuit-of-beauty-is-a-necessary-antidote",
+      "publishedAt": "2026-10-23T14:00:30.000Z",
+      "description": "Everything has become so frictionless and optimised, that concerted efforts must be made to turn back towards beauty and individuality – even if it has no explicit market value By the time it’s 5pm on a Friday, the headache and dry eyes have well and truly settled in. Maybe it’s a long day in front of your four screens while funnelling white noise through a large pair of headphones to cancel out the calls of your co-workers. Or maybe it’s the almost chemical wash of white fluorescent lights that shine from the low ceiling in your open-plan office, or the feeling of enclosure as you look out th",
+      "author": "Brigid Delaney",
+      "summary": "과도하게 최적화되고 획일화된 현대 삶에서 개인성과 아름다움을 의도적으로 추구해야 한다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "960fe605a990",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[사설]무죄로 뒤집힌 오세훈 2심 판결, 대법에서 의구심 남지 않도록 엄정 판단하길",
+      "link": "https://www.khan.co.kr/article/202610231815001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-10-23T09:15:00.000Z",
+      "description": "오세훈 서울시장이 23일 서울고법에서 열린 ‘명태균 여론조사 대납 의혹’ 항소심 선고공판에서 무죄를 선고 받는 모습이 서울역 대합실 TV로 생중계되고 있다. 강윤중 선임기자서울고법 형사7부(재판장 구회근)가 23일 오세훈 서울시장의 ‘명태균 여론조사 비용 대납 의혹’ 사건 항소심에서 무죄를 선고했다. 1심 재판부가 시장직 상실에 해당하는 벌금 1000만원의···",
+      "author": null,
+      "summary": "오세훈 시장의 항소심 무죄 판결에 대해 대법원이 판결의 의구심이 남지 않도록 엄정하게 심사해야 한다고 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "929a9b103906",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "AI에게 묻는 개인적인 질문들",
+      "link": "https://www.nytimes.com/2026/10/23/opinion/ai-chat-personal-questions.html",
+      "publishedAt": "2026-10-23T09:01:23.000Z",
+      "description": "If you’ve turned to A.I. for emotional support or help with sticky situations, Times Opinion wants to hear from you.",
+      "author": "New York Times Opinion",
+      "summary": "뉴욕타임스 오피니언은 감정 지원이나 어려운 상황의 도움을 위해 AI에게 묻는 독자들의 개인적인 질문들을 수집하고자 한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a2e8bd56d44f",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "이 경제 상황이 트럼프의 책임인가?",
+      "link": "https://www.nytimes.com/video/opinion/100000011225115/is-this-economy-trumps-fault.html",
+      "publishedAt": "2026-10-23T08:55:00.000Z",
+      "description": "Ahead of the midterms, Natasha Sarin and Catherine Rampell unpack the state of the economy — and how much responsibility the president bears for it.",
+      "author": null,
+      "summary": "필자들이 중간선거를 앞두고 현재 경제 상황을 분석하고 대통령이 경제에 얼마나 책임이 있는지를 해석했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2560e9df6347",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[사설]잇따르는 흉악범죄, 정부 역량 총동원해 국민 안전 지켜야",
+      "link": "https://www.khan.co.kr/article/202610231751001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-10-23T08:51:00.000Z",
+      "description": "이재명 대통령이 23일 청와대에서 열린 초안전사회 범정부 대응회의에서 발언하고 있다. 연합뉴스이재명 대통령이 23일 청와대에서 주재한 ‘초안전사회 범정부 대응 회의’에서 “강력범죄에 대해 전쟁을 선포한다는 각오로 특단의 대책을 수립해야 한다”고 지시했다. 불특정 다수 대상 이상동기 범죄부터 관계성 범죄 등 연일 이어지는 흉악범죄에 국민 불안이 커지자 대책···",
+      "author": null,
+      "summary": "연이어지는 흉악범죄로부터 국민을 보호하기 위해 정부가 총역량을 동원해 강력한 대책을 수립해야 한다고 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0f1df7342579",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "백악관이 AI라고 말하지 않는 이유",
+      "link": "https://www.nytimes.com/video/opinion/100000011225446/why-the-white-house-wont-say-ai.html",
+      "publishedAt": "2026-10-23T05:57:45.000Z",
+      "description": "Scary, inspiring or just plain weird? The “Interesting Times” guest host Tyler Cowen asks Trump’s top science adviser, Michael Kratsios, why the White House is rebranding A.I. as “superintelligence.”",
+      "author": null,
+      "summary": "타일러 코웬이 트럼프 과학 고문 마이클 크래시오스에게 백악관이 AI를 '슈퍼인텔리전스'로 재브랜딩하는 이유를 묻는 대담을 진행했다.",
+      "summarySource": "llm"
+    }
+  ],
+  "summarizedAt": "2026-10-24T00:21:37.901Z",
+  "summaryStats": {
+    "llm": 50,
+    "fallback": 0,
+    "model": "claude-haiku-4-5"
+  }
+}
