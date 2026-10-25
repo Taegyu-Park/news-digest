@@ -1,0 +1,901 @@
+{
+  "date": "2026-10-25",
+  "generatedAt": "2026-10-25T23:51:23.215Z",
+  "categories": [
+    {
+      "id": "it",
+      "label": "IT·과학·AI"
+    },
+    {
+      "id": "economy",
+      "label": "경제·금융"
+    },
+    {
+      "id": "politics",
+      "label": "정치·사회"
+    },
+    {
+      "id": "world",
+      "label": "세계·국제"
+    },
+    {
+      "id": "editorial",
+      "label": "사설·칼럼",
+      "opinion": true,
+      "summaryMaxChars": 220
+    }
+  ],
+  "feedStatus": [
+    {
+      "source": "Ars Technica",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "Hacker News",
+      "category": "it",
+      "ok": true,
+      "matched": 2
+    },
+    {
+      "source": "TechCrunch",
+      "category": "it",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "The Verge",
+      "category": "it",
+      "ok": true,
+      "matched": 4
+    },
+    {
+      "source": "블로터",
+      "category": "it",
+      "ok": true,
+      "matched": 21
+    },
+    {
+      "source": "전자신문",
+      "category": "it",
+      "ok": false,
+      "error": "fetch failed",
+      "matched": 0
+    },
+    {
+      "source": "ZDNet Korea",
+      "category": "it",
+      "ok": true,
+      "matched": 27
+    },
+    {
+      "source": "BBC Business",
+      "category": "economy",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "The Guardian",
+      "category": "economy",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "매일경제 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 24
+    },
+    {
+      "source": "연합뉴스",
+      "category": "economy",
+      "ok": true,
+      "matched": 80
+    },
+    {
+      "source": "경향신문 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 37
+    },
+    {
+      "source": "경향신문 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 20
+    },
+    {
+      "source": "노컷뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "서울신문",
+      "category": "politics",
+      "ok": true,
+      "matched": 5
+    },
+    {
+      "source": "연합뉴스 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 61
+    },
+    {
+      "source": "연합뉴스 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 45
+    },
+    {
+      "source": "SBS 뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 18
+    },
+    {
+      "source": "Al Jazeera",
+      "category": "world",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC World",
+      "category": "world",
+      "ok": true,
+      "matched": 18
+    },
+    {
+      "source": "NPR",
+      "category": "world",
+      "ok": true,
+      "matched": 5
+    },
+    {
+      "source": "The Guardian",
+      "category": "world",
+      "ok": true,
+      "matched": 12
+    },
+    {
+      "source": "연합뉴스 국제",
+      "category": "world",
+      "ok": true,
+      "matched": 76
+    },
+    {
+      "source": "매일경제 증권",
+      "category": "economy",
+      "ok": true,
+      "matched": 10
+    },
+    {
+      "source": "경향신문 오피니언",
+      "category": "editorial",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "NYT Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "The Guardian Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "Washington Post Opinions",
+      "category": "editorial",
+      "ok": false,
+      "error": "HTTP 502",
+      "matched": 0
+    },
+    {
+      "source": "동아일보 사설",
+      "category": "editorial",
+      "ok": true,
+      "matched": 13
+    },
+    {
+      "source": "동아일보 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "조선일보",
+      "category": "politics",
+      "ok": true,
+      "matched": 2
+    },
+    {
+      "source": "동아일보 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "머니투데이",
+      "category": "economy",
+      "ok": false,
+      "error": "fetch failed",
+      "matched": 0
+    },
+    {
+      "source": "Wired",
+      "category": "it",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "DW News",
+      "category": "world",
+      "ok": true,
+      "matched": 16
+    }
+  ],
+  "items": [
+    {
+      "id": "4262d71f08be",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "주목할 만한 AI 웨어러블 기기들",
+      "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "publishedAt": "2026-10-25T14:10:00.000Z",
+      "description": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+      "author": "Lauren Forristal",
+      "summary": "Muse Charm, Bee, Friend, Plaud 등 핫한 AI 웨어러블 기기들을 소개한 목록이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c5389779ebbb",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "네이션에이, 85억 시리즈A 유치…AI 영상 제작 워크플로우 내재화",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=676622",
+      "publishedAt": "2026-10-25T14:00:00.000Z",
+      "description": "인공지능(AI) 기업 네이션에이가 85억원 규모의 시리즈A 투자를 유치했다. 회사는 이번 투자를 계기로 기존 서비스들을 통합한 신규 AI 영상 제작 플랫폼을 론칭할 계획이다.25일 업계에 따르면 네이션에이의 누적 투자 유치 금액은 117억원이다. 시리즈A 투자에는 기존 주주인 하나증권이 후속 투자(팔로온)를 진행했으며, KDB산업은행, 현대투자파트너스, 일신창업투자 등이 신규 투자사로 참여했다. 2022년 설립된 네이션에이는 글로벌 시장을 대상으로 AI 영상 제작 도구와 인터랙티브 드라마 플랫폼을 운영해 온 기업이다. 이미지·음향·",
+      "author": "최종원 기자",
+      "summary": "AI 영상 제작 기업 네이션에이가 85억원의 시리즈A 투자를 유치하고 신규 AI 영상 제작 플랫폼 론칭을 계획 중이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "12ea52ff129a",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "세아제강, 美 강관값 올랐지만…원가·환율에 수익성 '발목'",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=676620",
+      "publishedAt": "2026-10-25T13:30:00.000Z",
+      "description": "세아제강이 미국 강관 가격 상승에도 불구하고 원재료 가격과 환율 부담으로 3분기 수익성이 전분기보다 악화될 전망이다. 미국 유정관 가격 상승으로 수출 판가는 높아졌지만 원화 강세로 환산 효과가 줄어든 데다 앞서 오른 열연강판 가격이 제조원가에 반영된 영향이다. 4분기에는 원가 부담 완화와 판매량 회복으로 실적 반등이 예상되지만 미국의 철강 관세와 환율 변동이 수출 채산성을 좌우할 변수로 남아 있다.25일 한화투자증권이 발표한 보고서에 따르면 세아제강의 올해 3분기 연결 매출액은 4633억원, 영업이익은 190억원으로 추정된다. 매출",
+      "author": "김수민 기자",
+      "summary": "세아제강은 미국 강관 가격 상승에도 불구하고 원가 상승과 원화 강세로 3분기 수익성이 악화될 전망이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6bffee9c13e8",
+      "category": "it",
+      "source": "The Verge",
+      "region": "intl",
+      "title": "r/opensource, AI 프로젝트 금지 추진",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "publishedAt": "2026-10-25T13:25:32.000Z",
+      "description": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source community.\" The new rules have set off a firestorm in the comments, and even spurred the creation of a rival sub r/trueopensource. Moderator Wolvereness has waded into the comments to explain that there's nuance and room for selective enforcement, such as \"software that incidentally has",
+      "author": null,
+      "summary": "Reddit의 r/opensource 커뮤니티가 AI를 사용하는 프로젝트의 게시를 금지하는 새로운 규칙을 도입해 사용자들 사이에서 논쟁을 불러일으켰다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2e52a4d1b647",
+      "category": "it",
+      "source": "Hacker News",
+      "region": "intl",
+      "title": "Dreamhost 보안 사고로 비밀번호 재설정 강제",
+      "link": "https://www.dreamhoststatus.com/",
+      "publishedAt": "2026-10-25T13:09:16.000Z",
+      "description": "Article URL: https://www.dreamhoststatus.com/ Comments URL: https://news.ycombinator.com/item?id=50231166 Points: 102 # Comments: 37",
+      "author": "greenchair",
+      "summary": "Dreamhost에서 현재 진행 중인 보안 사고로 인해 사용자들에게 비밀번호 재설정을 강제하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ad662a676e5f",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "[보안 리딩기업] 프라이빗AI \"제로트러스트 시장 선도\"",
+      "link": "https://zdnet.co.kr/view/?no=20261025214440",
+      "publishedAt": "2026-10-25T12:44:40.000Z",
+      "description": "[지디넷코리아]\"AI위협 통제는 우리가 국내 보안기업 중 최고라고 자부합니다.\"김영랑 프라이빗에이아이(프라이빗AI) 대표는 최근 지디넷코리아와 인터뷰에서 \"기술 중심 서비스 회사로 우뚝 서겠다\"며 이 같이 밝혔다.프라이빗AI는 네트워크 보안에서 출발해 AI 거버넌스 영역으로 도약하고 있는 보안 전문 기업이다. 김영랑 대표가 2018년 3월 14일 설립했다. 김 대표가 이 날을 회사 창립일로 삼은 건 이유가 있다. 무리수인 파이(π) 값이 3.14이기 때문이다. 무한한 정보를 다루는 기업이 되자는 차원에서 3월 14일에 회사 등기를 했다.설립 당시 사명은 프라이빗테크놀로지(private Technology)였다. 지난 7월 7일 현재의 프라이빗AI로 변경했다. '초연결 세상에서 AI가 안전하게 흐를 수 있는 혈관(통로)을 만들겠다'는 설립 초기의 회사 비전을 충실히 수행하기 위해서다. 프라이빗(pribit)은 프라이버시와 비트의 합성어다. 사명 변경일을 7월 7일로 한 것도 의도적이다. 7이 행운의 숫자이기 때문이다. 프라이빗AI는 김 대표의 네 번째 창업회사다. 스타트업계에서는 이를 '연쇄창업가'라 부른다.회사의 주력 제품(솔루션)은 제로트러스트 네트워크 접",
+      "author": "방은주 기자",
+      "summary": "프라이빗AI는 네트워크 보안에서 출발해 AI 거버넌스 분야로 확장하고 있으며, 제로트러스트 보안 시장을 선도한다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b263d95c9760",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "Wallhack M-001 리뷰: 재미가 성능을 압도하다",
+      "link": "https://www.wired.com/review/wallhack-m-001/",
+      "publishedAt": "2026-10-25T12:30:00.000Z",
+      "description": "With a tactile dongle for on-the-fly customization and a metal chassis, the Wallhack M-001 is the most fun I've had reviewing a gaming mouse in a long time.",
+      "author": "Henri Robbins",
+      "summary": "Wallhack M-001 게이밍 마우스는 촉각적 조작 장치와 금속 섀시를 갖춘 재미있는 제품이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9c51ae1056a3",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "과학자들, 반물질 입자를 수개월 동안 포획해 연구 진행",
+      "link": "https://www.wired.com/story/scientists-trapped-an-antimatter-particle-for-months-to-study-its-secrets/",
+      "publishedAt": "2026-10-25T12:00:00.000Z",
+      "description": "These elusive and reactive particles have been challenging to hold on to and even more challenging to study, but a new method paves the way for tests on the differences between matter and antimatter.",
+      "author": "Jorge Garay",
+      "summary": "과학자들이 반물질 입자를 장시간 포획할 수 있는 새로운 방법을 개발해 물질과 반물질의 차이를 연구할 수 있는 길을 열었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d2ce499b6d4d",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "가상공간서 땅 파며 학습…HD현대, 무인 굴착기 개발 속도",
+      "link": "https://zdnet.co.kr/view/?no=20261025170107",
+      "publishedAt": "2026-10-25T08:01:07.000Z",
+      "description": "[지디넷코리아]HD현대사이트솔루션이 가상공간에서 장비 움직임과 흙의 반응을 재현해 무인 굴착기 개발 속도를 높인다.HD현대사이트솔루션은 산업통상부 '인공지능(AI) 무인 자율 굴착기 개발을 위한 고정밀 시뮬레이션 기반 디지털 트윈 플랫폼 개발' 국책과제 사업자로 선정됐다고 25일 밝혔다.과제는 총사업비 63억 3000만원 규모로 2029년 12월까지 진행된다. HD현대사이트솔루션과 심지, 한국건설기계연구원, 한국생산기술연구원, 한국건설기계산업협회가 컨소시엄으로 참여한다.개발 목표는 건설장비 설계와 AI 학습, 자율작업 성능 검증을 지원하는 가상환경 플랫폼이다. 굴착기뿐 아니라 휠로더와 굴절식 덤프트럭 등 주요 장비를 대상으로 한다.플랫폼에는 유압장치와 동력전달계통의 작동, 여러 부품이 연결돼 움직이는 방식 등을 구현한다. 장비가 땅을 파거나 흙을 옮길 때 발생하는 장비와 토사의 물리적 상호작용도 재현할 계획이다.실제 건설 현장에서는 장비 확보와 작업환경, 안전 문제 등으로 다양한 조건을 반복 시험하기 어렵다. 컨소시엄은 가상공간에서 자율작업 기술을 먼저 검증한 뒤 실제 장비에서 얻은 데이터와 비교해 기술의 정확도를 높일 방침이다.HD현대사이트솔루션은 시뮬레이",
+      "author": "류은주 기자",
+      "summary": "HD현대사이트솔루션이 가상 시뮬레이션 플랫폼을 통해 AI 무인 굴착기 개발을 가속화하고 있으며, 2029년까지 총 63억 3000만원을 투입할 예정이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9355f9f27997",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "우크라이나 Starlink, 정상 작동 재개",
+      "link": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+      "publishedAt": "2026-10-24T20:46:34.000Z",
+      "description": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
+      "author": "Anthony Ha",
+      "summary": "우크라이나에서 Starlink 서비스가 정상적으로 작동되고 있는 것으로 보이며, 앞서 Elon Musk가 SpaceX에 우크라이나 접근을 제한하도록 지시한 것으로 알려졌다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f7cc30712111",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "기차 스팟팅, TikTok에서 콘텐츠로 부상",
+      "link": "https://www.theguardian.com/technology/2026/oct/25/traintok-trend-train-spotters-rail-staff-videos",
+      "publishedAt": "2026-10-25T14:00:05.000Z",
+      "description": "Number of videos about British trains doubles in three months as creators find audiences interested in workings of railways They are not just gathered at the end of your local train station platform any more. Now they are on your social media platforms too. Trainspotters have played a part in more than doubling the number of videos about British trains on TikTok in the last three months. According to the platform, the rise in rail content is also down to more people seeking information on cheap tickets, facts about the London Underground and tales from train staff. Continue reading...",
+      "author": "George Francis Lee",
+      "summary": "기차 매니아들과 철도 직원들의 콘텐츠가 인기를 얻으며 영국 기차에 관한 TikTok 동영상이 3개월 동안 2배 증가했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5faa51ec4b52",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "폴크스바겐, 국내 감원에도 미국에 40억 달러 규모 아우디 공장 건설",
+      "link": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home",
+      "publishedAt": "2026-10-25T13:43:19.000Z",
+      "description": "VW investment, creating 4,500 jobs in Georgia, comes amid Trump’s damaging tariffs, intense Chinese competition and costly shift towards EVs Audi has said it will spend $4bn (£3bn) to build its first factory in the US, as its parent company, Volkswagen, struggles with the impact of steep tariffs imposed by Donald Trump. The German brand’s chief executive, Gernot Döllner, joined Trump on stage at a campaign rally on Saturday night to announce the factory in Macon, Georgia, in an unusual move by a big European brand just days before the US midterm elections. Continue reading...",
+      "author": "Jasper Jolly and agencies",
+      "summary": "아우디(Audi)가 조지아주 메이콘에 첫 미국 공장 건설에 40억 달러를 투자하기로 발표했으며, 이는 트럼프 관세와 전기차 전환 비용 부담 속에서의 결정이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "698336b66666",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "코스피 목표 25% 낮췄는데 상승 여력 60%?…골드만삭스의 반전 전망",
+      "link": "https://www.mk.co.kr/news/stock/12185306",
+      "publishedAt": "2026-10-25T12:09:09.000Z",
+      "description": "글로벌 투자은행 골드만삭스가 코스피 12개월 목표지수를 기존 1만2000에서 9000으로 25% 낮췄다. 최근 증시 급락을 반영해 기업가치 평가 기준을 보수적으로 바꾼 것이다. 다..",
+      "author": "매일경제",
+      "summary": "골드만삭스가 코스피 12개월 목표지수를 1만2000에서 9000으로 25% 낮추며 최근 증시 급락을 반영한 보수적 기업가치 평가 기준을 적용했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "84a4879e3b13",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "이형일, 경제현안간담회서 국내생산세액공제 보완방안 등 논의",
+      "link": "https://www.yna.co.kr/view/AKR20261025047700002",
+      "publishedAt": "2026-10-25T10:52:38.000Z",
+      "description": "(세종=연합뉴스) 김수현 기자 = 이형일 부총리 겸 재정경제부 장관은 25일 경제현안간담회를 열고 국내생산세액공제 보완 방안, 3대 핵심 사회정...",
+      "author": "김수현",
+      "summary": "이형일 부총리가 경제현안간담회에서 국내생산세액공제 보완 방안과 핵심 사회정책 등을 논의했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "bfd1614a1a46",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "영국 예산에 사회·저렴주택 10억 파운드 포함",
+      "link": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T10:03:17.000Z",
+      "description": "The move will take funding for the 10-year programme to more than £40bn.",
+      "author": null,
+      "summary": "영국 정부는 10년 주택 프로그램 기금을 40억 파운드 이상으로 확대하기 위해 예산에 10억 파운드를 사회·저렴주택에 배정했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b4a472307a43",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "이 대통령 \"밀물 들어오면 모든 배 뜬다…성장 과실, 국민 삶 바꿔야\"",
+      "link": "https://www.mk.co.kr/news/economy/12185279",
+      "publishedAt": "2026-10-25T09:28:26.000Z",
+      "description": "이재명 대통령이 한국 경제의 성장 가능성을 강조하며 산업 경쟁력 강화와 성장 과실의 국민 환원을 주문했다. 반도체를 비롯한 국내 기업들의 글로벌 시장 성과를 발판으로 경제 도약을 ..",
+      "author": "매일경제",
+      "summary": "이재명 대통령이 반도체 등 국내 기업의 글로벌 성과를 발판으로 경제 도약과 성장 과실의 국민 환원을 강조했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "402eeae3702c",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "李대통령, 대규모 경상수지 흑자에 \"韓 이제 세계경제 선도국가\"",
+      "link": "https://www.yna.co.kr/view/AKR20261025040300001",
+      "publishedAt": "2026-10-25T09:14:33.000Z",
+      "description": "(서울=연합뉴스) 고동욱 기자 = 이재명 대통령은 25일 한국 경제가 대규모 경상수지 흑자를 기록한 것과 관련해 \"이제 대한민국은 선진국을 뒤따...",
+      "author": "고동욱",
+      "summary": "이재명 대통령이 한국의 대규모 경상수지 흑자 기록을 토대로 대한민국이 세계경제 선도국가임을 강조했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "fad9b683b779",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "공정위원장 \"조사거부 기업에 매출1% 과징금\"",
+      "link": "https://www.mk.co.kr/news/economy/12185246",
+      "publishedAt": "2026-10-25T08:34:34.000Z",
+      "description": "주병기 공정거래위원장(사진)이 기업의 공정위 조사 거부에 대응하기 위해 매출의 1%까지 과징금을 부과하는 방안을 추진한다고 밝혔다. 최근 쿠팡이 대규모유통업법 관련 공정위 현장조사..",
+      "author": "매일경제",
+      "summary": "공정거래위원장이 공정위 조사를 거부하는 기업에 매출의 1%까지 과징금을 부과하는 방안을 추진하기로 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "153076b3f2d8",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "해외 IPO 막힐라 … 현대차·LG·두산 '난처'",
+      "link": "https://www.mk.co.kr/news/stock/12185149",
+      "publishedAt": "2026-10-25T08:05:17.000Z",
+      "description": "SK하이닉스가 미국 손자회사인 솔리다임의 나스닥 상장 검토를 중단하면서 해외 관계사의 미국 증시 입성을 준비해온 다른 대기업들도 다소 난처한 상황에 놓이게 됐다. 금융당국이 자회사..",
+      "author": "매일경제",
+      "summary": "SK하이닉스의 솔리다임 나스닥 상장 검토 중단으로 해외 자회사 미국 증시 상장을 추진 중인 현대차, LG, 두산 등이 어려운 상황에 처했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d9f1c7bcb75c",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "로즈뱅크: 정치 논란의 중심인 유전에서의 삶",
+      "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T07:15:38.000Z",
+      "description": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
+      "author": null,
+      "summary": "BBC가 정치적 논란의 중심인 스코틀랜드의 미개발 유전 로즈뱅크(Rosebank)에서의 석유 시추선 위의 생활을 조명했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "40d75b1ff30f",
+      "category": "politics",
+      "source": "서울신문",
+      "region": "kr",
+      "title": "반전의 오세훈… 보수 판 바꾸나",
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20261026001006",
+      "publishedAt": "2026-10-25T14:57:30.000Z",
+      "description": "오세훈 서울시장이 정치자금법 위반 혐의 항소심에서 무죄를 선고받은 뒤 첫 주말부터 광폭 행보에 나섰다. 사법리스크를 상당 부분 덜어낸 오 시장은 서울시정에 속도를 내는 동시에 보수야권의 통합과 국민의힘의 쇄신을 위한 정치적 역할도 확대할 전망이다. 오 시장은 25일 서울 서초구 잠수교 문화공간 조성 현장을 점검하고 ‘2026 차 없는 잠수교 뚜벅뚜벅 축제’ 행사에 참석했다. 최형우 전 내무부 장관 빈소를 찾아 여야 정치 원로들과 함께 고인을 추모했다. 전날에는 은평구 진관사에서 열린 ‘국행수륙재’와 국회 사진기자 가족 체육대회, 광화문광장 감사의정원 스웨덴 석재 기증 기념식에 이어 10·29 이태원 참사 4주기 추모대회 등을 소화했다. ‘야간경제 활성화’, ‘삶의 질 특별시 서울’ 등 민선 9기 주요 시정 과제 추진에도 속도를 낼 것으로 보인다. 오 시장은 이미 항소심 직후 “사각지대 없는 서울시정”을 당부한 것으로 전해진다. 또 ‘여소야대’ 서울시의회와의 협치를 위해 더불어민주당 소속 시의원들과의 ‘일대일 조찬’도 재개할 방침이다. 오 시장은 전날 국회 행사 참석 후 기자들과 만나 정부의 부동산 실정을 정면 비판했다. 그는 “이재명 정부가 부동산 문제를 비",
+      "author": "손지은·송현주 기자",
+      "summary": "오세훈 서울시장이 정치자금법 위반 혐의 항소심에서 무죄를 선고받은 후 서울시정에 속도를 내면서 보수야권 통합과 국민의힘 쇄신에 나설 것으로 예상된다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "35c456e97a46",
+      "category": "politics",
+      "source": "연합뉴스 사회",
+      "region": "kr",
+      "title": "\"어른들의 정치 부럽더라\"…故최형우 조문 원로·중진들 쓴소리",
+      "link": "https://www.yna.co.kr/view/AKR20261025022553001",
+      "publishedAt": "2026-10-25T13:22:16.000Z",
+      "description": "(서울=연합뉴스) 최평천 이율립 기자 = 김영삼(YS) 전 대통령의 '오른팔'이자 정치적 동지였던 고(故) 최형우 전 내무부 장관이 별세한 이튿...",
+      "author": "이율립",
+      "summary": "최형우 전 내무부 장관의 별세로 정치 원로와 중진들이 조문하며 현 정치상황에 대한 의견을 나눴다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "76ce1b00feca",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "보건·복지업 비정규직 7년 새 91% 증가…열악한 돌봄 노동",
+      "link": "https://www.khan.co.kr/article/202610252202015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-10-25T13:02:01.000Z",
+      "description": "비정규직 가운데 시간제 근로자도 2배 이상 급증보건·복지업 비정규직 91% 증가2019년 이후 늘어난 비정규직 근로자 4명 중 3명꼴은 보건업·사회복지서비스업에 종사하는 것으로 나타났다. 고령화에 따른 의료·돌봄 수요 확대로 보건업·사회복지서비스업 일자리가 가파르게 늘고 있지만 대다수가 비정규직에 집중되면서 고용의 질에 대한 우려가 제기된다.25일 국가데이···",
+      "author": "박상영 기자",
+      "summary": "2019년 이후 증가한 비정규직의 대다수가 보건업·사회복지서비스업에 종사하면서 고령화에 따른 돌봄 수요는 크지만 고용의 질이 낮아졌다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c4be67cb91bb",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "김정은 '당일치기 소통'…북·중 더 밀착",
+      "link": "https://www.khan.co.kr/article/202610252202005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-10-25T13:02:00.000Z",
+      "description": "사전 예고 없이 중국 단둥 방문시진핑 만남 없는 방중은 처음항미원조기념관 찾아 혈맹 강조버스공장 참관 등 경제 행보도‘중 권력 4위’ 왕후닝 배웅 속 신압록강대교 건넌 김정은 김정은 북한 국무위원장이 지난 24일 신압록강대교를 건너 중국 랴오닝성 단둥을 당일치기로 방문한 후 귀국했다고 조선중앙통신이 25일 보도했다. 김 위원장이 다리를 건너 북한으로 돌아오···",
+      "author": "김병관 기자·베이징 | 박은하 특파원",
+      "summary": "김정은 북한 국무위원장이 사전 예고 없이 중국 단둥을 당일 방문해 항미원조기념관과 버스공장을 둘러봤으며 이는 시진핑 주석과의 회담이 없는 첫 방중이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "23673709ee66",
+      "category": "politics",
+      "source": "조선일보",
+      "region": "kr",
+      "title": "김재윤 이탈을 왜 너가 걱정해? KIA 가을과속 향한 우려의 시선",
+      "link": "https://www.chosun.com/sports/baseball/2026/10/25/MM3TENRXGZRTMOLGHFRWEOBSG4/",
+      "publishedAt": "2026-10-25T12:37:18.000Z",
+      "description": "[대구=스포츠조선 정현석 기자]KIA 타이거즈의 가을야구 과속에 대한 우려의 시선이 있다. LG 트윈스와의 준플레이오프를 단 3경기 만에 끝내고 플레이오프 티켓을 거머쥔 KIA는 여세를 몰아 플레이오프에서 삼성을 정조준하고 있다. 최소한의 경기로 한국시리즈에 진출하며 파란을 이어가겠다는 각오. 압도적인 전력을 과시하며 신바람을 내고 있지만, 경기 수가 최소",
+      "author": "스포츠조선",
+      "summary": "KIA 타이거즈가 LG와의 준플레이오프를 3경기만에 승리하고 플레이오프 진출을 확정했지만 지나친 가을야구 가속화에 대한 우려가 제기되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "bfdf4a5ee119",
+      "category": "politics",
+      "source": "연합뉴스 사회",
+      "region": "kr",
+      "title": "금산서 음주 역주행 SUV, 승용차와 충돌…1명 부상",
+      "link": "https://www.yna.co.kr/view/AKR20261025051000063",
+      "publishedAt": "2026-10-25T12:28:34.000Z",
+      "description": "(금산=연합뉴스) 김소연 기자 = 25일 오후 7시 18분께 충남 금산군 제원면 금산IC 인근 국도에서 A(50대)씨가 SUV와 마주 오던 승용...",
+      "author": "김소연",
+      "summary": "25일 충남 금산의 국도에서 음주 상태의 SUV가 역주행하다가 승용차와 충돌해 1명이 부상당했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7db790966d60",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "'당일치기 방중' 김정은, APEC 앞둔 트럼프 자극해 '몸값 높이기'",
+      "link": "https://www.donga.com/news/Politics/article/all/20261025/134904311/1",
+      "publishedAt": "2026-10-25T12:24:00.000Z",
+      "description": "김정은 북한 국무위원장은 24일 중국을 전격 방문했다. 지난해 9월 중국 전승절을 맞아 시진핑 중국 국가주석, 블라디미르 푸틴 러시아 대통령과 톈안문 망루에 선데 이어 1년1개월 만의 방중이자 최고지도자가 된 뒤 6번째 방중이다. 하지만 김 위원장은 앞선 다섯 번의 빙중과 달리 이례적으로 시 주석과의 회담 없이 북-중 간 자동차 전용 다리인 신압록강대교를 통해 국경지대인 랴오닝성 단둥만 당일 일정으로 방문한 뒤 돌아갔다. 중국과의 밀착을 과시하고 다음 달 18~19일 중국 선전에서 열리는 아시아태평양경제협력체(APEC) 정상회의에서 시 주석과 만나는 도널드 트럼프 미국 대통령을 의식해 대미 협상력을 높이려는 행보로 풀이된다.●북중 정상회담 없는 이례적 ‘당일치기’ 방중중국의 6·25전쟁 참전 76주년 기념일을 하루 앞둔 24일 단행된 김 위원장의 방중은 이전 다섯 차례 방중 사례에서 보였던 문법을 파괴하며 파격적으로 이뤄졌다. 김 위원장은 2018년 3월 첫 방중을 포함해 다섯 차례",
+      "author": null,
+      "summary": "김정은 국무위원장이 시진핑 주석과의 정상회담 없이 중국 단둥을 당일 방문한 것은 APEC 앞둔 트럼프 대통령을 의식해 북한의 협상력을 높이려는 의도로 해석된다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d33e184fb3b5",
+      "category": "politics",
+      "source": "SBS 뉴스",
+      "region": "kr",
+      "title": "사망설 돌더니 '이례적'…중국 버스공장 간 김정은 속내?",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008814035",
+      "publishedAt": "2026-10-25T12:00:00.000Z",
+      "description": "김정은 위원장은 이번 방중 기간에 북중 관계가 '피로 맺어진, 전통적 혈맹 관계'란 점을 여러 차례 강조했습니다. 국제사회의 대북 제재가 더 이상 힘이 없다는 걸 보여주려는 듯, 버스 공장을 직접 둘러보기도 했습니다.김아영 기자입니다.",
+      "author": "nina@sbs.co.kr (김아영 기자)",
+      "summary": "김정은 위원장이 중국 방문 중 북중의 혈맹 관계를 강조하고 버스공장을 직접 방문해 대북 제재가 더 이상 효과적이지 않음을 시사했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "82e0cdac8912",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "韓 카메라에 찍힐만큼 내려온 북한군 자주포…접경지 긴장고조",
+      "link": "https://www.yna.co.kr/view/AKR20261025045900504",
+      "publishedAt": "2026-10-25T10:29:48.000Z",
+      "description": "(서울=연합뉴스) 김철선 기자 = 북한이 군사분계선(MDL) 일대 화력 강화를 예고한 가운데 서부전선에서 북한군 자주포가 한국 언론의 카메라에 ...",
+      "author": "김철선",
+      "summary": "북한군 자주포가 군사분계선 인근까지 내려오면서 한국 언론에 포착되어 접경지역 긴장이 고조되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9361b24009f7",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "'吳·韓·李' 보수 주도권 경쟁…삼각관계 속 협력·견제 눈길",
+      "link": "https://www.yna.co.kr/view/AKR20261025039400001",
+      "publishedAt": "2026-10-25T10:22:02.000Z",
+      "description": "(서울=연합뉴스) 권희원 기자 = 오세훈 서울시장의 2심 무죄 판결을 계기로 향후 보수 진영의 주도권을 둘러싼 오 시장과 무소속 한동훈 의원, ...",
+      "author": "권희원",
+      "summary": "오세훈 서울시장의 무죄 판결 이후 보수 진영 내 오세훈, 한동훈, 이준석 간 주도권 경쟁이 심화되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "144dab143996",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "가봉, 8개월간의 소셜미디어 차단 해제",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T14:39:47.000Z",
+      "description": "The authorities had justified the ban by saying online content was fuelling conflict, while the opposition had condemned it as an abuse of power.",
+      "author": null,
+      "summary": "가봉이 8개월 동안 차단해온 소셜미디어 접속을 복구했다. 당국은 온라인 콘텐츠가 분쟁을 부추겼다며 차단을 정당화했으나 야당은 권력 남용이라 비난했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "21c582c46fd9",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "앙숙 트럼프·오바마, 중간선거 막판 \"네가 무능\" 정면충돌",
+      "link": "https://www.yna.co.kr/view/AKR20261025052100071",
+      "publishedAt": "2026-10-25T14:34:02.000Z",
+      "description": "(워싱턴=연합뉴스) 홍정규 특파원 = 오랜 정치적 앙숙인 도널드 트럼프 미국 대통령과 버락 오바마 전 대통령이 중간선거 막판 정면충돌했다.",
+      "author": "홍정규",
+      "summary": "정치적 앙숙인 도널드 트럼프 현 미국 대통령과 버락 오바마 전 대통령이 중간선거를 앞두고 서로 무능함을 비난하며 정면충돌했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ec2280bc5690",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "호주 서부주 정부, 결함 보고서로 딜로이트에 환불 청구",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/26/deloitte-report-wa-university-mergers-260m-discrepancy-ai",
+      "publishedAt": "2026-10-25T14:00:06.000Z",
+      "description": "State paid consultancy firm $166,000 for feasibility study on merging the three tertiary institutions Get our breaking news email, free app or daily news podcast The Western Australian government has said it is “extremely disappointed” and is seeking an “expedited” cost recovery from Deloitte after errors were discovered in a report about a potential university merger, including AI-hallucinated references and hundreds of millions of dollars in cost discrepancies. The government paid Deloitte $166,000 for a feasibility study on merging the University of Western Australia, Curtin University and ",
+      "author": "Krishani Dhanji and Josh Taylor",
+      "summary": "서호주 정부가 대학 통합 타당성 조사 보고서에서 AI 환각 참고문헌과 수억 달러의 비용 오류를 발견하고 딜로이트에 166,000달러의 비용 회수를 요청했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "671435decc4e",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "호주인 3분의 2, 의료 인센티브로 GP 진료 전액 보험 적용",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/26/almost-two-thirds-of-australians-bulk-billed-for-all-gp-care-amid-extra-incentives-for-doctors",
+      "publishedAt": "2026-10-25T14:00:06.000Z",
+      "description": "Exclusive: RACGP says results probably reflect Medicare investments but experts caution quality of care and outcomes also matter Follow our Australian politics live blog for latest updates Get our daily political email, free app or daily news podcast The proportion of general practitioners bulk-billing all of their patients has more than doubled in a year, a report has found, after the government introduced financial incentives for doctors and practices. And almost two-thirds (63%) of Australians are now bulk-billed for all their GP care, up from 56% in both 2024 and 2025, which the report say",
+      "author": "Melissa Davey Medical editor",
+      "summary": "정부의 의료 인센티브 도입 후 호주인 중 63%가 GP 진료 전액 보험 청구 대상이 되었으며, 이는 전년도 56%에서 상승한 결과다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "61b6245a058d",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "우간다, 에볼라 감염 주장하나 인접국 감염 경로 조사 중",
+      "link": "https://www.dw.com/en/uganda-says-it-has-no-active-ebola-cases-but-infections-in-kenya-and-nigeria-are-prompting-fresh-scrutiny/a-79741580?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-10-25T13:41:00.000Z",
+      "description": "Health officials are investigating whether Ebola patients in Kenya and Nigeria crossed paths at Uganda's main airport as conflicting accounts cloud the source of one infection.",
+      "author": null,
+      "summary": "우간다는 현재 활동 중인 에볼라 감염 사례가 없다고 주장했으나, 케냐와 나이지리아의 감염 환자가 우간다 주요 공항에서 접촉했을 가능성이 조사되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "85fde3177df7",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "푸틴, 파리 등 유럽 소요 사태에 \"지도자 무능 때문\"",
+      "link": "https://www.yna.co.kr/view/AKR20261025051700108",
+      "publishedAt": "2026-10-25T13:38:13.000Z",
+      "description": "(이스탄불=연합뉴스) 김동호 특파원 = 블라디미르 푸틴 러시아 대통령은 프랑스, 스페인, 이탈리아 등을 휩쓰는 시위·소요 사태를 두고 유럽 지도...",
+      "author": "김동호",
+      "summary": "블라디미르 푸틴 러시아 대통령이 프랑스, 스페인, 이탈리아를 휩싸고 있는 시위와 소요 사태가 유럽 지도자들의 무능함 때문이라고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "20ac1186efa2",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "해리 케인, 발롱도르상 수상 유력 후보",
+      "link": "https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-10-25T13:20:00.000Z",
+      "description": "Bayern Munich striker Harry Kane is the clear front-runner for football's most prestigious individual prize, which will be awarded on Monday. Kane has developed even more in the Bundesliga despite an uneven league.",
+      "author": null,
+      "summary": "바이에른 뮌헨의 스트라이커 해리 케인이 월요일에 수여될 축구계 최고 권위 개인상인 발롱도르상의 유력 후보로 지목되었으며, 분데스리가에서 더욱 성장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8d5209944eea",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "마술학교, 소외 지역 아이들을 마술사로 육성",
+      "link": "https://www.npr.org/2026/10/25/g-s1-149089/magic-magicians-south-africa-school-students",
+      "publishedAt": "2026-10-25T11:24:58.000Z",
+      "description": "The students, many from marginalized communities, learn to conjure up candy, do card tricks — and face the world with a confident, creative and resilient mindset.",
+      "author": "Julie Bourdin",
+      "summary": "소외 지역 출신 학생들이 마술을 학습하면서 카드 트릭과 마술 기법을 습득하고 자신감 있고 창의적인 태도로 세상에 나아가는 법을 배웠다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c7261000842b",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "엘살바도르 대통령, 아이티 발견 시신이 인질 아니라고 주장",
+      "link": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T10:55:33.000Z",
+      "description": "Nayib Bukele says bodies delivered to soldiers are \"not our men\" amid search for Salvadorans abducted last week.",
+      "author": null,
+      "summary": "나이브 부켈레 엘살바도르 대통령이 지난주 납치된 엘살바도르 국민을 찾는 중에 군인들에게 인도된 시신들이 납치 피해자가 아니라고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "33a22ccb83e4",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "밀라노 중심부 군 배치, 유럽 전역 수천 명 시위",
+      "link": "https://www.npr.org/2026/10/25/nx-s1-6016126/thousands-of-protesters-across-europe",
+      "publishedAt": "2026-10-25T07:15:00.000Z",
+      "description": "While protests in France have claimed most international attention, large demonstrations also rocked many European cities Saturday from Milan to Rome to Madrid, Lisbon and Tirana.",
+      "author": "The Associated Press",
+      "summary": "프랑스의 시위가 국제적 주목을 받았지만, 밀라노, 로마, 마드리드, 리스본, 티라나 등 유럽 전역의 도시에서도 수천 명의 대규모 시위가 토요일에 발생했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e5c7b26eb9e1",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]新압록강대교로 방중한 金… 허울만 남은 北 제재",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261025/134905812/3",
+      "publishedAt": "2026-10-25T14:30:00.000Z",
+      "description": "김정은 북한 국무위원장이 24일 예고 없이 중국 단둥을 당일치기로 방문했다. 김 위원장은 신압록강대교를 차량으로 건넌 뒤 중국 공산당 서열 4위인 왕후닝 전국인민정치협상회의 주석을 만났다. 김 위원장의 방중은 지난해 9월 베이징 전승절 행사에 참석한 지 1년여 만이다. 올해 6월에는 시진핑 중국 국가주석이 방북하는 등 북-중 밀착이 한층 속도를 내는 모습이다. 김 위원장의 방중은 신압록강대교가 개통된 지 9일 만에 이뤄졌다. 신압록강대교는 12년 전 완공된 뒤 북-중 관계 냉각이 겹치며 닫혀 있었는데, 다리가 열리자마자 김 위원장이 직접 이용한 것이다. 단둥은 북-중 교역의 70% 이상이 집중된 곳이다. 왕후닝은 김 위원장에게 신압록강대교를 통해 경제·무역 협력을 확대하자고 했고, 김 위원장은 협력의 전망이 매우 넓다고 했다. 문제는 북-중 간 무역량이 크게 늘면 군사적으로 전용이 가능해 대북 수출이 금지된 ‘전략 물자’들이 북한에 밀반입될 가능성도 그만큼 커진다는 점이다. 가뜩",
+      "author": null,
+      "summary": "동아일보는 신압록강대교 개통으로 북-중 무역이 급증할 경우 대북 금지 전략 물자가 밀반입될 위험이 커진다고 우려했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "43df2673a07b",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]6년 새 19번 바뀐 국힘 사령탑… 14개월 張 대표가 최장수 기록",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261025/134905816/2",
+      "publishedAt": "2026-10-25T14:27:00.000Z",
+      "description": "국민의힘이 2020년 9월 출범한 이후 6년 1개월간 당의 수장 자리에 앉은 이는 모두 20명이다. 대표가 4명, 비상대책위원장이 8명, 대표 권한대행이 8명이다. 평균적으로 서너 달에 한 번꼴로 당의 얼굴이 바뀐 셈이다. 25일로 장동혁 대표가 국민의힘 역대 최장수 대표가 됐다. ‘최장수’라고 하지만 재임 기간은 불과 1년 2개월. 이런 사실 자체가 국민의힘이 그동안 얼마나 난맥상을 보여 왔는지를 상징적으로 드러낸다. 이는 ‘공천으로 충성을 강요하는 줄 세우기 정치’, ‘사생결단의 계파 정치’ 같은 고질적인 구태가 사라지지 않고 있는 것과 무관치 않을 것이다. 2022년 국민의힘은 집권 여당이 되자마자 민생 경쟁이 아닌 당내 권력 투쟁부터 벌였다. 이는 이준석 전 대표의 사퇴로 이어졌다. 김기현 전 대표는 친윤과 당 기득권 세력의 대변자 역할을 하며 수직적 당정 관계에서 벗어나지 못했다는 지적을 받았다. 한동훈 전 대표는 당정 간 갈등을 조율하는 대신 ‘자기 정치’에 몰두하는 듯",
+      "author": null,
+      "summary": "동아일보는 국민의힘이 6년간 20명의 지도자를 교체하며 심각한 난맥상을 보이고 있으며, 줄 세우기와 계파 정치의 고질적 구태가 원인이라고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "bd16ce425f91",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "요즘 젊은 근로자들을 공정하게 대하고 있는가?",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/26/the-trouble-with-kids-these-days-are-we-giving-young-workers-a-fair-go",
+      "publishedAt": "2026-10-25T14:00:05.000Z",
+      "description": "George had spent decades building his firm and was looking for someone with ‘common sense’. Over time, he learned the importance of being explicit about his expectations The modern mind is a column where experts discuss mental health issues they are seeing in their work “I want to be able to retire and leave it in good hands, it’s a great little business for someone.” George* was almost wringing his hands as he spoke, exasperation evident on his face, recalling an attempt to hire someone for his window-cleaning business. Continue reading...",
+      "author": "Gaynor Parkin and Dave Winsborough",
+      "summary": "저자들은 '요즘 젊은이들'에 대한 고정관념을 비판하며, 고용주가 명확한 기대치를 설정하고 소통하는 것이 중요하다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d531adb3c9fa",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "AI 붐은 주택버블처럼 보인다",
+      "link": "https://www.nytimes.com/2026/10/25/opinion/ai-bubble-financial-crisis-lehman.html",
+      "publishedAt": "2026-10-25T13:33:41.000Z",
+      "description": "There are signs the A.I. boom is going bust. If it does, the consequences could rival the 2008 financial crisis.",
+      "author": "Jen Harris",
+      "summary": "저자는 AI 붐이 버블 형태이며 붕괴할 경우 2008년 금융위기 수준의 결과를 초래할 수 있다고 경고했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "91eb5846ebba",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "학교를 개선하는 최선의 방법은?",
+      "link": "https://www.nytimes.com/2026/10/24/opinion/fixing-schools.html",
+      "publishedAt": "2026-10-25T13:16:58.000Z",
+      "description": "Readers analyze the 30 ideas presented in an Upshot article and offer some of their own.",
+      "author": null,
+      "summary": "NYT는 학교 개선 방안 30가지에 대해 독자들의 분석과 추가 의견을 모아 제시했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9929ab9fc0fd",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "혐오스럽다는 것만으로는 부족하다",
+      "link": "https://www.nytimes.com/2026/10/25/opinion/midterm-ads-ramaswamy-acton-ohio.html",
+      "publishedAt": "2026-10-25T13:13:02.000Z",
+      "description": "Trump’s culture of cruelty spreads.",
+      "author": "David French",
+      "summary": "David French는 트럼프의 잔인함 문화를 용서할 수 없을 정도로 혐오스럽다고 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d70ad50412ca",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "젊은 시절 잡지는 내 세상을 보는 창이었다. 그 경이로움이 사라진다",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/25/as-a-young-man-magazines-were-my-window-to-the-world-that-wonder-will-be-lost-when-all-the-shops-have-gone",
+      "publishedAt": "2026-10-25T12:00:03.000Z",
+      "description": "The closure of former WH Smith stores around the UK is sobering on many levels. The publications they sold were there to be perused, to broaden horizons Towards the end of the 1970s, the brief but spectacular career of those punk rockers and folk devils the Sex Pistols was followed by The Great Rock’n’Roll Swindle, a rather tawdry drama-documentary. It recast their rise and fall as a huge scam, summed up by a slogan on a T-shirt worn by their former manager Malcolm McLaren: “Cash from Chaos”. Back then, that motto was a neat representation of his personal brand of cultural mischief. But the cu",
+      "author": "John Harris",
+      "summary": "John Harris는 영국 WH Smith 매장의 폐쇄가 잡지를 통해 세계를 탐구하던 젊은 세대의 기회를 빼앗는다고 우려했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b6b924918762",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[요리에 과학 한 스푼]초콜릿의 맛을 결정하는 결정",
+      "link": "https://www.khan.co.kr/article/202610252023025/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-10-25T11:23:02.000Z",
+      "description": "영화 에는 거대한 초콜릿 폭포가 등장합니다. 초콜릿 공장의 주인인 윌리 웡카는 이 폭포가 초콜릿을 휘젓고 섞어 맛있게 만드는 장치라고 설명하죠. 동화 속 상상력의 산물이지만, 실제 초콜릿 제조에서도 이와 비슷한 공정이 등장합니다. 바로 초콜릿 원료를 오랫동안 휘젓는 ‘콘칭’이라는 공정입니다.콘칭은 초콜릿의 미세한 입자들을 지···",
+      "author": "임두원 국립과천과학관 연구관",
+      "summary": "저자는 영화 속 초콜릿 폭포처럼 실제 초콜릿 제조에서도 '콘칭' 공정으로 원료를 오랫동안 섞어 맛을 좌우한다고 설명했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f7cfa424ae00",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[최정화의 사소한 세계]경쟁 아닌 것들의 경쟁",
+      "link": "https://www.khan.co.kr/article/202610252023015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-10-25T11:23:01.000Z",
+      "description": "창작 수업을 듣는 대학 4년생 제자가 마지막 수업이 될 것 같다고 인사를 건넸다. 농사짓는 부모님의 지원을 받아 상경한 지방 학생이었는데, 소설가의 꿈을 포기하고 공무원 준비를 시작해야겠다고 했다. 순간 우울했던 대학 졸업반 시절이 떠올랐다. 평점 2점대의 형편없는 졸업성적표가 나왔고, 4년간의 습작품들은 공모에 내기엔 턱없이 부족해 보였다. 캠퍼스 커플이···",
+      "author": "최정화 소설가",
+      "summary": "저자는 소설 창작의 꿈을 포기하고 공무원 시험으로 진로를 바꾼 제자의 모습을 통해, 예술적 열정과 현실적 생존의 갈등을 성찰했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a08528b18ef7",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[NGO 현장]'죽음'과 '기억'으로 바꾸는 세상",
+      "link": "https://www.khan.co.kr/article/202610252023005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-10-25T11:23:00.000Z",
+      "description": "사회적 죽음을 겪은 유가족으로서, 한국 사회에서 특수한 역할을 해온 ‘유가족’이라는 존재가 개인과 사회의 경계에서 어떤 자리에 서 있어야 할지 나 자신에게 반복적으로 되묻곤 한다. 그러다가 문득 이십년 전쯤 보았던 영화 의 ‘장기수’들이 떠오를 때가 있다. 유가족들이 물리적 감옥에 갇힌 것도 아니고, 대단한 신념도, 당연히 죄를 지은 것도···",
+      "author": "이한솔 한국사회주택협회 이사장",
+      "summary": "저자는 사회적 죽음을 경험한 유가족으로서 개인과 사회의 경계에서 자신의 위치를 모색하고, 기억과 증언으로 세상을 바꾸는 것의 의미를 제시했다.",
+      "summarySource": "llm"
+    }
+  ],
+  "summarizedAt": "2026-10-25T23:55:46.879Z",
+  "summaryStats": {
+    "llm": 50,
+    "fallback": 0,
+    "model": "claude-haiku-4-5"
+  }
+}
