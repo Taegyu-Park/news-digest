@@ -1,0 +1,899 @@
+{
+  "date": "2026-10-24",
+  "generatedAt": "2026-10-25T00:01:44.579Z",
+  "categories": [
+    {
+      "id": "it",
+      "label": "IT·과학·AI"
+    },
+    {
+      "id": "economy",
+      "label": "경제·금융"
+    },
+    {
+      "id": "politics",
+      "label": "정치·사회"
+    },
+    {
+      "id": "world",
+      "label": "세계·국제"
+    },
+    {
+      "id": "editorial",
+      "label": "사설·칼럼",
+      "opinion": true,
+      "summaryMaxChars": 220
+    }
+  ],
+  "feedStatus": [
+    {
+      "source": "Ars Technica",
+      "category": "it",
+      "ok": true,
+      "matched": 12
+    },
+    {
+      "source": "Hacker News",
+      "category": "it",
+      "ok": true,
+      "matched": 4
+    },
+    {
+      "source": "TechCrunch",
+      "category": "it",
+      "ok": true,
+      "matched": 12
+    },
+    {
+      "source": "The Verge",
+      "category": "it",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "블로터",
+      "category": "it",
+      "ok": true,
+      "matched": 36
+    },
+    {
+      "source": "전자신문",
+      "category": "it",
+      "ok": true,
+      "matched": 21
+    },
+    {
+      "source": "ZDNet Korea",
+      "category": "it",
+      "ok": true,
+      "matched": 27
+    },
+    {
+      "source": "BBC Business",
+      "category": "economy",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "The Guardian",
+      "category": "economy",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "매일경제 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 3
+    },
+    {
+      "source": "연합뉴스",
+      "category": "economy",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "경향신문 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "경향신문 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 10
+    },
+    {
+      "source": "노컷뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "서울신문",
+      "category": "politics",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "연합뉴스 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 52
+    },
+    {
+      "source": "연합뉴스 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 24
+    },
+    {
+      "source": "SBS 뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 23
+    },
+    {
+      "source": "Al Jazeera",
+      "category": "world",
+      "ok": true,
+      "matched": 2
+    },
+    {
+      "source": "BBC World",
+      "category": "world",
+      "ok": true,
+      "matched": 20
+    },
+    {
+      "source": "NPR",
+      "category": "world",
+      "ok": true,
+      "matched": 4
+    },
+    {
+      "source": "The Guardian",
+      "category": "world",
+      "ok": true,
+      "matched": 18
+    },
+    {
+      "source": "연합뉴스 국제",
+      "category": "world",
+      "ok": true,
+      "matched": 86
+    },
+    {
+      "source": "매일경제 증권",
+      "category": "economy",
+      "ok": true,
+      "matched": 7
+    },
+    {
+      "source": "경향신문 오피니언",
+      "category": "editorial",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "NYT Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 20
+    },
+    {
+      "source": "The Guardian Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "Washington Post Opinions",
+      "category": "editorial",
+      "ok": false,
+      "error": "HTTP 502",
+      "matched": 0
+    },
+    {
+      "source": "동아일보 사설",
+      "category": "editorial",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "동아일보 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 37
+    },
+    {
+      "source": "조선일보",
+      "category": "politics",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "동아일보 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 35
+    },
+    {
+      "source": "머니투데이",
+      "category": "economy",
+      "ok": true,
+      "matched": 26
+    },
+    {
+      "source": "Wired",
+      "category": "it",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "DW News",
+      "category": "world",
+      "ok": true,
+      "matched": 16
+    }
+  ],
+  "items": [
+    {
+      "id": "f683a118b849",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "Boox Palma 2 Pro로 휴대폰 독서에서 벗어나다",
+      "link": "https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/",
+      "publishedAt": "2026-10-24T14:15:00.000Z",
+      "description": "The $400 Boox Palma 2 Pro is a smartphone-sized e-reader designed for people who want to read books, articles, and documents on a small E Ink display.",
+      "author": "Aisha Malik",
+      "summary": "스마트폰 크기의 E Ink 디스플레이를 갖춘 400달러 전자책 리더 Boox Palma 2 Pro는 책, 기사, 문서를 편하게 읽을 수 있도록 설계되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "378f1d97d496",
+      "category": "it",
+      "source": "The Verge",
+      "region": "intl",
+      "title": "Apple 'Pro and tell' 이벤트, 터치스크린 MacBook Pro 공개 예상",
+      "link": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
+      "publishedAt": "2026-10-24T14:15:00.000Z",
+      "description": "It feels like Apple's Welcome Home event just happened. And the iPhone Duo announcement isn't all that far in our rearview mirror, either. Yet, the company is back with another launch, focused on the MacBook Pro, it looks like. Its \"Pro and tell\" event is scheduled for October 28th at 1PM ET in Los Angeles. While obviously nothing is confirmed yet, it sure seems like we're finally going to get that long-rumored touchscreen MacBook Pro. Beyond that? There could be an OLED update for the iPad Mini, plus M6 updates across other devices, following the M6 debut with the Mac Mini in August. A touchs",
+      "author": null,
+      "summary": "Apple이 10월 28일 로스앤젤레스에서 열 'Pro and tell' 이벤트에서 오랫동안 소문난 터치스크린 MacBook Pro를 공개할 것으로 예상되며, iPad Mini의 OLED 업데이트와 M6 칩 업데이트도 함께 나올 가능성이 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0bf2382aa657",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "K뷰티 수출 안전성 자료 DB 손본다…성분 시험정보까지 체계화",
+      "link": "https://www.etnews.com/20261023000270",
+      "publishedAt": "2026-10-24T14:00:00.000Z",
+      "description": "화장품 수출 중소기업이 해외 규제 대응에 필요한 성분 안전성 자료를 보다 쉽고 구체적으로 확인할 수 있는 체계가 마련된다. 세부 독성시험 자료나 급변한 해외 안전성 평가 정보까지 파악할 수 있어, 관련 문제로 해외 진출에 어려움을 겪는 중소기업의 부담을 덜어줄 전망이다. 24일 유통업계에 따르면 대한화장품산업연구원은 최근 화장품 수출 지원 정보 체계 고도화 사업 수행기관을 선정하고 성분 안전성·독성 데이터베이스(DB) 개편에 착수했다. 개편 핵",
+      "author": "정다은",
+      "summary": "대한화장품산업연구원이 화장품 수출 중소기업을 위한 성분 안전성·독성 데이터베이스를 개편해 해외 규제 대응에 필요한 세부 시험 자료와 안전성 평가 정보를 더욱 쉽게 확인할 수 있도록 지원한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "808cfac5aa87",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "'중국판 엔비디아' 캠브리콘, 매출 급등…국산화 노력 수혜",
+      "link": "https://zdnet.co.kr/view/?no=20261024160155",
+      "publishedAt": "2026-10-24T13:00:03.000Z",
+      "description": "[지디넷코리아]중국 인공지능(AI) 반도체 팹리스 캠브리콘 3분기 매출이 급등했다고 사우스차이나모닝포스트(SCMP) 등이 23일(현지시간) 보도했다. 캠브리콘의 3분기 매출은 35억 3000만위안(약 6900억원)으로 전년 동기 대비 105% 뛰었다. 순이익은 148% 증가한 14억위안(2700억원)이다.캠브리콘은 지난 2016년 설립된 팹리스다. '중국판 엔비디아'로 불린다. AI 데이터센터와 에지 AI용 프로세서 'MLU' 시리즈를 개발해 왔다. 화웨이와 알리바바 등 현지 대형 IT 기업이 고객사다. 캠브리콘의 매출 급등은 AI 인프라 투자 확대와 더불어, 엔비디아 칩을 자국산 제품으로 대체하려는 중국 정부 노력의 결과다. SCMP는 \"캠브리콘 2분기 매출은 전년 동기 대비 76% 증가했는데, 3분기 성장세는 이보다 가팔랐다\"며 \"자립 가능한 AI 컴퓨팅 생태계를 개발하려는 중국 정부 전략에 힘입은 결과\"라고 평가했다. 올해 연간으로도 높은 성장세가 예상된다. 캠브리콘은 올해 매출 목표를 최소 135억위안(2조 6700억원)으로 제시했다. 지난해 매출 목표치(65억위안)의 2배를 웃돈다. 다만 캠브리콘 성장세가 예상보다 약하다는 시각도 있다. AI 인프라",
+      "author": "장경윤 기자",
+      "summary": "중국 AI 반도체 팹리스 캠브리콘의 3분기 매출이 전년 동기 대비 105% 증가한 35억 3000만 위안을 기록했으며, 이는 중국 정부의 엔비디아 칩 국산화 정책과 AI 인프라 투자 확대의 결과다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f103eba133c9",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "[바이오사 리포트] 인제니아, 연구인력 확충…내년 항암제 개발비 4배",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=676543",
+      "publishedAt": "2026-10-24T13:00:00.000Z",
+      "description": "인제니아테라퓨틱스가 자체 신약개발 확대에 앞서 전문 연구인력을 늘리고 있다. 올해 상반기 연구인력은 15명으로 증가했고 박사학위 보유자도 늘었다. 연구개발(R&D)비 총액은 줄었지만 급여와 주식기준보상으로 인식한 비용은 증가했다. R&D 관련 지급수수료가 감소한 반면 인력보상 비중은 높아졌다. 내년에는 IGT-532를 중심으로 직접 R&D비를 확대한다. IGT-303의 자체임상과 IGT-302의 임상 진입 준비를 병행하면서 개발비 부담을 관리하는 것이 과제다. 전문인력 증원으로 자체임상 대응24일 가 인제니아의 반기보고서를",
+      "author": "이승준 기자",
+      "summary": "인제니아테라퓨틱스가 자체 신약개발 확대를 위해 올해 상반기 연구인력을 15명으로 늘렸으며, 내년에는 IGT-532를 중심으로 항암제 개발비를 대폭 확대할 계획이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6014d24c791e",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "안찬토, 징둥로지스틱스와 손잡고 한국 브랜드의 글로벌 마켓플레이스 판매 지원",
+      "link": "https://zdnet.co.kr/view/?no=20261024211002",
+      "publishedAt": "2026-10-24T12:10:02.000Z",
+      "description": "[지디넷코리아]징둥로지스틱스, 안찬토의 Operations Experience(OXM) 플랫폼을 통해 고객 온보딩 지원, 200개 이상의 사전 구축 연동 기능으로 온라인 판매 채널과 물류 운영 연결 징둥로지스틱스가 안찬토와 파트너십을 체결하고 한국 브랜드를 비롯한 고객사가 단일 플랫폼에서 글로벌 마켓플레이스에 입점하고 매장을 운영할 수 있도록 지원한다. 안찬토의 OXM 플랫폼은 징둥로지스틱스에 다수의 판매자와 마켓플레이스를 통합 관리하는 운영 모델을 제공해 제3자 물류(3PL) 사업 확대에 따라 고객 온보딩을 더욱 신속하게 진행할 수 있도록 돕는다. 서울, 한국, 2026년 10월 24일 /PRNewswire/ -- 기술 기반 공급망 솔루션 및 물류 서비스 분야의 선도 기업이자 중국 최대 소매기업 징둥닷컴(JD.com)의 물류 부문인 징둥로지스틱스(JINGDONG Logistics)가 한국 브랜드를 위한 크로스보더 전자상거래 물류 서비스를 강화하기 위해 안찬토(Anchanto)와 파트너십을 체결했다. JINGDONG Logistics Partners with Anchanto 새로운 시장에서 기회를 모색하는 한국 브랜드가 증가하면서 여러 국가의 마켓플레이스에 ",
+      "author": "글로벌뉴스",
+      "summary": "중국 징둥닷컴의 물류 부문인 징둥로지스틱스가 안찬토와 파트너십을 체결해 한국 브랜드를 포함한 고객사가 OXM 플랫폼을 통해 여러 국가의 마켓플레이스에 통합 관리하며 진출할 수 있도록 지원한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d8aad91f35e9",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "AI가 PHP의 오래된 버그를 더욱 취약하게 만드는 방식",
+      "link": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
+      "publishedAt": "2026-10-24T12:00:00.000Z",
+      "description": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
+      "author": "Lily Hay Newman, Matt Burgess",
+      "summary": "보안 연구자들이 AI 도구를 사용해 웹 스크립팅 언어 PHP의 수년간 미해결된 취약점들을 발견했으며, 이를 기반으로 한 AI 지원 공격이 시작되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7e7984ce45f7",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "화성의 1,000마일 규모 구름이 자연에서 관찰되지 않은 물리 현상 드러낼 수 있어",
+      "link": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
+      "publishedAt": "2026-10-24T11:50:28.000Z",
+      "description": "A new model suggests Mars may host ice-forming physics never directly observed before.",
+      "author": "Tereza Ondráčková, wired.com",
+      "summary": "새로운 모델에 따르면 화성이 자연에서 직접 관찰된 적 없는 얼음 형성 물리 현상을 호스팅할 수 있는 것으로 나타났다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8a457fe5714b",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "급성장 유럽 로청 시장, 中 점유율 80% 육박…발 묶인 삼성·LG",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=676537",
+      "publishedAt": "2026-10-24T11:00:02.000Z",
+      "description": "유럽이 글로벌 로봇청소기 시장의 최대 격전지로 부상하고 있다. 청소 자동화 수요와 가처분소득 증가가 맞물리며 출하량이 급증하는 가운데, 미국 시장에서 규제에 직면한 중국 업체들이 유럽으로 공급 물량을 돌리며 시장 선점에 속도를 내고 있다. 반면 로봇청소기 분야에서 후발주자인 삼성전자와 LG전자는 공급망 재검토 등의 여파로 신제품의 글로벌 출시를 늦추고 있어 시장 진입 골든타임을 놓칠 수 있다는 우려가 나온다. 수요 확대에 프리미엄화까지…美 규제에 中 유럽 공세 가속24일 시장조사업체 IDC에 따르면 올해 2분기 유럽 로봇청소기 출하",
+      "author": "이가영 기자",
+      "summary": "유럽의 로봇청소기 시장이 급성장하는 가운데 중국 업체들의 점유율이 80%에 육박하고 있으며, 미국 규제를 피한 중국 업체들의 공세 앞에 후발주자인 삼성전자와 LG전자는 시장 진입의 골든타임을 놓칠 수 있는 상황이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8acda1e9f09f",
+      "category": "it",
+      "source": "Hacker News",
+      "region": "intl",
+      "title": "GPU-unlock: 엔비디아(Nvidia) 3000번대 그래픽카드 명령어 발행률 이슈",
+      "link": "https://github.com/Zagitta/gpu-unlock",
+      "publishedAt": "2026-10-24T09:58:27.000Z",
+      "description": "Article URL: https://github.com/Zagitta/gpu-unlock Comments URL: https://news.ycombinator.com/item?id=50219700 Points: 167 # Comments: 61",
+      "author": "fragebogen",
+      "summary": "엔비디아 3000번대 그래픽카드의 FP/BF16 명령어 발행률 관련 이슈를 다루는 GPU-unlock 프로젝트가 공개되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f59d7fc967c4",
+      "category": "economy",
+      "source": "머니투데이",
+      "region": "kr",
+      "title": "제이쓴, 아들 준범에 \"공부 못 해도 돼…중요한 건 엉덩이 힘\"",
+      "link": "https://www.mt.co.kr/entertainment/2026/10/24/2026102422582135817",
+      "publishedAt": "2026-10-24T14:35:25.000Z",
+      "description": "방송인 제이쓴이 아들 준범 군의 양육 방식과 학군지를 바라보는 자신만의 솔직한 시각을 전했다. 24일 유튜브 채널 '에이카랩스'에는 '\"대치동, 목동 꼭 가야 할까?\" 제이쓴과 치과의사의 학군지에 대한 생각'이라는 제목으로 자녀 교육과 관련된 영상이 게재됐다. 영상에서 제이쓴은 \"아이를 키우는 부모라면 누구나 자녀에게 더 나은 환경을 제공해주고 싶은 마음이 있을 것\"이라며 말문을 열었다. 이어 아들 준범 군의 교육에 대해 \"사실 준범이가 공부를 못해도 된다\"고 소신을 밝혔다. 다만 그는 \"학업 성적보다 중요한 것은 무언가에 집중할 수 있는 '엉덩이 붙이는 힘'\"이라며 \"이건 비단 공부뿐만 아니라 레고를 하더라도 엉덩이 힘으로 살아간다는 생각을 많이 한다\"고 강조했다....",
+      "author": null,
+      "summary": "방송인 제이쓴은 자녀 교육에서 학업 성적보다 한 가지에 집중할 수 있는 능력이 더 중요하다고 강조했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3b84631c2daa",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "증시 큰 변동성에도 버티는 보험주…배당·방어주로 부각된다는데",
+      "link": "https://www.mk.co.kr/news/stock/12184896",
+      "publishedAt": "2026-10-24T14:11:45.000Z",
+      "description": "금리 상승기에 보험주, 매력 부각 배당 매력도와 기대는 최근 주춤 주주환원 측면 불확실성은 여전최근 국내 증시가 큰 변동성을 보이며 급락과 반등을 이어가는 가운데, 배당·방어주로 ..",
+      "author": "매일경제",
+      "summary": "금리 상승 시기에 보험주가 배당 매력과 방어 특성으로 주식 시장 변동성 속 투자처로 주목받고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "23abb4f31609",
+      "category": "economy",
+      "source": "머니투데이",
+      "region": "kr",
+      "title": "도경완, 120억 집 살면서...\"세금 낼 돈 없어 시계 팔았다\"",
+      "link": "https://www.mt.co.kr/entertainment/2026/10/24/2026102422352926280",
+      "publishedAt": "2026-10-24T13:54:30.000Z",
+      "description": "아나운서 출신 방송인 도경완이 세금을 내기 위해 고가의 시계를 중고로 팔았다고 밝혔다. 도경완은 지난 22일 유튜브 채널 'SHW 생활인의 시계'에 출연해 \"지난 5월에 세금을 내야 하는데 돈이 좀 부족해서 시계를 당근에 팔았다\"고 했다. 도경완은 \"제가 보릿고개였다. 5월, 8월에 세금을 크게 두 번 나눠서 내는데 일도 없고 유튜브도 잘 안되니까 진짜 힘들었다\"며 \"또 하이닉스 때문에 거기에 잠겨 있는 돈이 많아서 반강제적으로 조절당하고 있다\"고 토로했다. 그는 KBS2 예능 '신상출시 편스토랑'에서도 자금난을 호소한 바 있다. 도경완은 해당 방송에서 \"집에 많은 돈이 들어간다. 물론 큰 돈은 많이 버는 분(장윤정)이 내고 있지만 관리비 정도는 제가 내야겠다는 생각\"이라며 \"수도를 5만8000원 더 썼다. 내가 씻지 말라고 했는데. 전기는 1700㎾ 더 썼다. 열 받는 게 왜 각자 방에서 시원해지려고 하냐. 그리고 왜 각자 씻냐\"고 화를 냈다....",
+      "author": null,
+      "summary": "아나운서 출신 방송인 도경완이 세금 납부를 위해 고가의 시계를 중고로 판매했으며, 자금 부족을 호소했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "26062bed5e33",
+      "category": "economy",
+      "source": "동아일보 경제",
+      "region": "kr",
+      "title": "\"1명이 로또 109억 당첨?\"…한 곳에서 '수동 1등' 3장 나왔다",
+      "link": "https://www.donga.com/news/Society/article/all/20261024/134901437/1",
+      "publishedAt": "2026-10-24T13:26:50.000Z",
+      "description": "24일 제1247회 로또 1등 당첨 번호는 ‘8·14·21·22·42·45’로 결정됐다. 보너스 번호는 ‘24’다.당첨 번호 6개를 모두 맞힌 1등 당첨자는 8명이다. 이들은 각각 36억 3743만 9250원을 받는다.당첨 번호 5개와 보너스 번호를 맞힌 2등은 74명으로 6553만 9446원씩을 수령한다.5개 번호를 적중한 3등은 2983명으로 각각 162만 5853원을 받는다.당첨 번호 4개를 맞힌 4등(고정 당첨금 5만 원)은 15만 4703명, 당첨 번호 3개가 일치한 5등(고정 당첨금 5000원)은 259만 1204명이다.1등 배출점은 자동 선택 5곳, 수동 선택 1곳이다.자동 선택 5곳은 △또또와복권방(세종 나성북로) △가야홀인원복권방(경기 의정부시) △일광 복권(경기 수원시) △산본역 로또명당(경기 군포시) △소망복권판매점(경남 양산시)이다.수동 선택 1곳은 올인(경기 화성시)으로, 이곳에서 수동으로 구매한 3장이 모두 1등에 당첨됐다.당첨금 지급 기한은",
+      "author": null,
+      "summary": "제1247회 로또 1등이 8명 배출되어 각각 36억 3743만 9250원씩 받으며, 경기 화성의 판매점에서 수동 선택 3장이 모두 당첨됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "54418605ad13",
+      "category": "economy",
+      "source": "동아일보 경제",
+      "region": "kr",
+      "title": "1247회 로또 1등 각 36.3억씩…자동 5명·수동 3명",
+      "link": "https://www.donga.com/news/Economy/article/all/20261024/134901409/1",
+      "publishedAt": "2026-10-24T12:43:57.000Z",
+      "description": "24일 제1247회 동행복권 로또 추첨 결과 ‘8, 14, 21, 22, 42, 45’이 1등 당첨 번호로 결정됐다. 2등 보너스 번호는 ‘24’다.6개 번호를 모두 맞춘 1등 당첨자는 8명이다. 각각 36억3743만9250원원을 받는다.5개 번호와 보너스 번호를 맞춘 2등은 74명으로 1인당 당첨금은 6553만9446원이다.5개 번호를 맞춘 3등 당첨자는 2983명으로 각각 162만5853원을 받는다.4개 번호를 맞춘 4등 당첨자 15만4703명은 5만원씩을, 3개 번호를 맞춘 5등 당첨자 259만1204명은 5000원씩 가져간다.1등 당첨자 8명 중 자동 선택은 5명이다.판매점은 ▲또또와복권방(세종 나성북로 30 189호) ▲가야홀인원복권방(경기 의정부시 체육로 306-14) ▲일광 복권(경기 수원시 권선구 세지로 3 1층 2호) ▲산본역 로또명당(경기 군포시 산본로323번길 16-6 제1층 제1005호) ▲소망복권판매점(경남 양산시 덕계로 134)이다.수동 선택은",
+      "author": null,
+      "summary": "제1247회 로또 1등 당첨자는 8명이며 각각 36억 3743만 9250원씩 받고, 이 중 자동 선택 5명과 수동 선택 3명이 포함됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "761ea9070321",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "스카이댄스(Skydance), 1100억 달러 인수합병 후 인원 감축 전망",
+      "link": "https://www.theguardian.com/media/2026/oct/24/skydance-employees-brace-change-megamerger-dust-settles",
+      "publishedAt": "2026-10-24T12:00:32.000Z",
+      "description": "Battle far from over after Paramount and Warner Bros deal creates new global entertainment powerhouse “It feels like the calm before the storm,” says an executive at Skydance, the newly minted media empire formed from the megamerger of Paramount and Warner Bros Discovery (WBD). “David has got what he wanted, but now there is a price to pay.” Earlier this month, David Ellison, Skydance’s chief executive, sealed the $110bn (£82bn) deal, creating a global powerhouse spanning two Hollywood studios each more than a century old, the TV networks HBO, MTV and Discovery, and news outlets CBS and CNN. C",
+      "author": "Mark Sweney",
+      "summary": "스카이댄스가 파라마운트와 워너브로스 디스커버리(Warner Bros Discovery)를 1100억 달러에 인수하며 거대 미디어 제국을 형성했으나, 직원 감원이 예상되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "77a1b10d06fa",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "크리스마스 앞두고 지원 필요 가족 수요 증가",
+      "link": "https://www.bbc.co.uk/news/articles/cqp8gjz4k7g6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-24T11:55:35.000Z",
+      "description": "Charlotte Riley says more families are reaching out for help for a variety of reasons.",
+      "author": null,
+      "summary": "크리스마스 시즌을 앞두고 다양한 이유로 지원이 필요한 가족들로부터의 도움 요청이 늘어나고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "860965265249",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "AI 데이터센터 건설 급증…지역 주민과 거대 기업의 '다윗 대 골리앗' 전쟁",
+      "link": "https://www.theguardian.com/technology/2026/oct/24/the-datacentre-next-door-on-the-frontline-of-techs-latest-david-v-goliath-battle",
+      "publishedAt": "2026-10-24T11:00:32.000Z",
+      "description": "The AI boom is pitting local residents against corporate giants seeking to power their energy-hungry networks – but one Welsh city is fighting back Dale Johnston opens the gate to his neat suburban garden on the western fringes of Newport in South Wales. There’s a trampoline and a slide on the lawn for his grandchildren, and chairs for him and his wife. He should be enjoying the light draining from the perfect autumnal sky – but almost his entire view is blotted out by a vast expanse of prefabricated panels. The 23 metre-high grey hulk looming over him and his neighbours is a hyperscale datace",
+      "author": "Tom Wall. Photographs: Joel Redman",
+      "summary": "AI 붐으로 에너지를 대량 필요로 하는 데이터센터 건설이 증가하면서, 지역 주민과 거대 기술 기업 간의 갈등이 심화되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c2321bb92cee",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "삼성물산, 반포푸르지오 리모델링 수주…1250억원 규모",
+      "link": "https://www.yna.co.kr/view/AKR20261024031251003",
+      "publishedAt": "2026-10-24T08:20:43.000Z",
+      "description": "(서울=연합뉴스) 오예진 기자 = 삼성물산 건설부문(이하 삼성물산)이 서울 서초구 반포푸르지오 아파트 리모델링 사업 시공사로 선정됐다.",
+      "author": "오예진",
+      "summary": "삼성물산 건설부문이 서울 서초구 반포푸르지오 아파트 리모델링 사업의 시공사로 선정돼 1250억 원 규모의 사업을 수주했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5cca89c9fe27",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "\"원화값은 여전히 저평가\"…'반도체 달러'에 1200원대 진입하나",
+      "link": "https://www.mk.co.kr/news/economy/12184774",
+      "publishedAt": "2026-10-24T03:53:52.000Z",
+      "description": "위험회피 심리 커졌지만 1320원대 달러 매도세 지속에 추가 상승 전망도최근 인공지능(AI) 투자 우려와 국제유가 상승 등 원화 약세를 부추길 만한 대외 여건에도 원화값이 가파른 ..",
+      "author": "매일경제",
+      "summary": "전문가가 원화의 저평가 상태를 지적하며, 반도체 관련 환변으로 원달러 환율이 1200원대 진입할 가능성이 논의되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e6107d3c43b9",
+      "category": "politics",
+      "source": "노컷뉴스",
+      "region": "kr",
+      "title": "트럼프 이란 재타격 시사…이란, 걸프 해저케이블 절단 위협",
+      "link": "https://www.nocutnews.co.kr/news/6596526",
+      "publishedAt": "2026-10-24T13:37:59.000Z",
+      "description": "호르무즈 해협을 서로 봉쇄한 채 직접 대화도 충돌도 없는 대치를 이어오던 미국과 이란이 다음 달 미 중간선거를 앞두고 다시 긴장 국면으로 치닫고 있다. 도널드 트럼프 미국 대통령은 중간선거 이후 이란 재타격 가능성을 공개적으로 언급했고, 이란은 다시 공격받으면 보복에 \"레드라인은 없을 것\"이라며 걸프 해역 해저 케이블까지 끊겠다고 위협했다. 트럼프 대통령은 23일(현지시간) 플로리다주 포트마이어스에서 열린 중간선거 유세에서 \"우리는 또 한 번 작은 '장대한 분노' 작전을 할 수도 있다\"고 말했다. '장대한 분노'는 미국이 지난 2월 말 이란과 전쟁을 시작하며 이스라엘과 함께 대대적인 공습을 퍼부은 작전명이다. 트럼프 대통령의 발언은 미국과 이스라엘이 내달 3일 중간선거 이후 이란을 다시 칠 것이라는 관측에 무게가 실리는 가운데 나왔다. 앞서 뉴욕타임스(NYT)는 지난 21일 미 당국자들을 인용해 미국과 이스라엘 군이 이란 단기 집중 타격을 염두에 두고 이라크 상공에서 전투기 연습 비행을 하고 있다고 보도했다. 이란은 더 큰 반격을 예고했다. 이란 고위 당국자 두 명은 로이터 통신에 미국과 이스라엘이 다시 공격하면 걸프 해역 해저 케이블을 표적으로 삼는 상세한",
+      "author": null,
+      "summary": "트럼프 대통령이 중간선거 후 이란에 대한 추가 군사작전 가능성을 시사했고, 이란은 재공격 시 보복으로 걸프 해저케이블 절단을 위협했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "184412f8685c",
+      "category": "politics",
+      "source": "연합뉴스 사회",
+      "region": "kr",
+      "title": "완주서 빗속 도로 건너다 차량 2대에 연이어 사고…의식불명",
+      "link": "https://www.yna.co.kr/view/AKR20261024054500055",
+      "publishedAt": "2026-10-24T13:24:38.000Z",
+      "description": "(완주=연합뉴스) 김문경 기자 = 24일 오후 8시 40분께 전북 완주군 삼례읍에서 도로를 건너던 A(60대)씨가 차량에 치였다.",
+      "author": "김문경",
+      "summary": "전북 완주군에서 빗속 도로를 건너던 60대 여성이 차량에 치여 의식불명 상태에 빠졌다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a2a6408cbe96",
+      "category": "politics",
+      "source": "연합뉴스 사회",
+      "region": "kr",
+      "title": "무죄판결 이튿날 보폭 넓힌 오세훈 시장…종일 외부 일정 소화(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261024032451004",
+      "publishedAt": "2026-10-24T13:12:19.000Z",
+      "description": "(서울=연합뉴스) 김준태 기자 = 오세훈 서울시장이 정치자금법 위반 혐의 항소심에서 무죄 판결을 받고 이튿날인 24일 오전부터 저녁까지 종일 여...",
+      "author": "김준태",
+      "summary": "오세훈 서울시장이 정치자금법 위반 혐의에서 항소심 무죄 판결을 받은 이튿날 종일 외부 일정을 소화했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c7e3cc00aac8",
+      "category": "politics",
+      "source": "SBS 뉴스",
+      "region": "kr",
+      "title": "'무죄' 오세훈 광폭 행보…민주 \"정치자금법 무력화\"",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813240",
+      "publishedAt": "2026-10-24T13:09:00.000Z",
+      "description": "오세훈 서울시장이 어제 항소심에서 무죄 판결을 받은 지 하루 만에 광폭 행보에 나섰습니다. 분열된 보수의 마음을 모으겠단 취지의 말도 했는데요.",
+      "author": "spring@sbs.co.kr (김보미)",
+      "summary": "오세훈 서울시장이 항소심 무죄 판결 하루 만에 광폭 행보에 나서자 야당이 정치자금법 무력화라고 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "fb5fb61d4e1a",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "與정보위 간사 \"김정은, 中서 리창 아닌 왕후닝 만나…계획변경\"",
+      "link": "https://www.yna.co.kr/view/AKR20261024053800001",
+      "publishedAt": "2026-10-24T12:56:25.000Z",
+      "description": "(서울=연합뉴스) 김정진 기자 = 김정은 북한 국무위원장이 24일 중국 방문시 카운터파트가 애초 서열 2위인 리창 총리였으나 서열 4위인 왕후닝...",
+      "author": "김정진",
+      "summary": "김정은 북한 국무위원장이 중국 방문에서 예정된 상대방 리창 총리 대신 서열 4위 왕후닝을 만났다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e25b4e003995",
+      "category": "politics",
+      "source": "조선일보",
+      "region": "kr",
+      "title": "김정은, 당일치기 방중 끝났다... 中서열 4위 만나고 평양으로",
+      "link": "https://www.chosun.com/economy/economy_general/2026/10/24/XQV2NA5R7VD4HG3LDWFM3VWD5M/",
+      "publishedAt": "2026-10-24T11:29:56.000Z",
+      "description": "",
+      "author": "베이징=이벌찬 특파원, 김상윤 기자",
+      "summary": "김정은 북한 국무위원장이 중국 서열 4위 인사를 만나고 당일 평양으로 귀국했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8f7f8f9a5152",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "김정은, '중 서열 4위' 왕후닝과 회담 후 단둥 떠나···\"북·중, 신압록강대교 계기 경제협력 확대\"",
+      "link": "https://www.khan.co.kr/article/202610242024001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-10-24T11:24:00.000Z",
+      "description": "김정은, 단둥 자동차 공장 등 시찰왕 주석, 신압록강대교까지 배웅김정은 북한 국무위원장이 10월 22일과 23일 평양에서 조선인민군 제3차 중대장 대회를 주재하고 ‘새 시대 강군건설과 중대장들의 임무’에 대해서 연설했다고 조선중앙통신이 24일 보도했다. 평양 조선중앙통신=연합뉴스김정은 북한 국무위원장이 왕후닝 중국 전국인민정치협상회의 주석과 만난 뒤 귀국길···",
+      "author": "고희진 기자",
+      "summary": "김정은이 왕후닝 중국 전국인민정치협상회의 주석과 회담을 마친 후 단둥을 떠났으며, 신압록강대교를 통한 북중 경제협력 확대가 예상된다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "345751d7b83d",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "신압록강대교, 개통 9일만에 김정은 위원장 직접 이용",
+      "link": "https://www.donga.com/news/Inter/article/all/20261024/134901281/1",
+      "publishedAt": "2026-10-24T10:50:00.000Z",
+      "description": "24일 김정은 북한 국무위원장은 신압록강대교를 통해 중국을 방문한 것으로 알려졌다. 신압록강대교는 지난 15일 개통된 지 9일 만에 북한 최고지도자의 방중 통로가 되면서 북중 우호의 상징으로 다시 주목받고 있다. 김 위원장은 이날 평양에서 신의주까지 열차로 이동한 뒤 차량으로 갈아타고 신압록강대교를 건너 단둥에 도착한 것으로 전해졌다. 김 위원장은 과거 중국 방문 때 주로 전용 열차나 항공기를 이용했지만, 이번에는 최근 개통한 새 교량을 직접 이용한 것. 일본 교도통신에 따르면 이날 신압록강대교와 항미원조 관련 기념관 주변에서 엄격한 교통 통제가 실시됐고, 현지 호텔의 숙박 예약도 제한됐다. 신압록강대교는 단둥과 북한 평안북도 신의주를 잇는 약 3km의 다리로 왕복 4차로의 자동차 전용 교량이다. 2014년 완공된 신압록강대교는 북한 측 연결도로와 세관 시설이 갖춰지지 않아 개통이 미뤄져왔다. 북한과 중국은 완공 12년 만인 지난 15일 정식 개통을 발표하고 개통식을 열었다.당",
+      "author": null,
+      "summary": "김정은 북한 국무위원장이 지난 15일 개통된 신압록강대교를 이용해 중국을 방문했으며, 이는 개통 9일 만에 북한 최고지도자의 방중 통로가 된 사례다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7f009f96acce",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "김정은 방중에 中단둥도 촉각…\"사흘 전부터 경찰 증원\"",
+      "link": "https://www.donga.com/news/Inter/article/all/20261024/134901306/1",
+      "publishedAt": "2026-10-24T10:42:18.000Z",
+      "description": "최근 개통한 신압록강대교를 통해 김정은 북한 국무위원장이 중국 랴오닝성 단둥을 방문한 사실이 전해지면서 현지에서도 이를 둘러싼 분위기가 전해지고 있다. 이미 사흘 전부터 경찰력이 증원 배치되는 등 심상찮은 분위기도 감지됐던 것으로 알려졌다.단둥의 현지 소식통은 24일 오후 뉴시스와 통화에서 김 위원장이 단둥의 항미원조기념관을 방문한 것으로 보인다는 정황을 전하면서 “기념관 인근의 교통 통제는 이젠 풀린 상황”이라고 밝혔다.해당 소식통은 “이날 오전부터 교통 통제가 이뤄졌다”며 “사흘 전부터 경찰들이 증강 배치되고 어제는 폴리스라인이 설치되면서 일부 교통 통제가 있었고 경호를 위한 장갑차 등도 배치됐다”고 분위기를 전했다.김 위원장이 이날 단둥을 방문했다는 내용은 이날 통일부가 공식 확인한 바 있다. 이번 방중에 대해 통일부 당국자는 “중국이 한국전쟁 참전을 기념하는 날인 10월 25일을 계기로 방문한 것 같다”고 밝혔다.한국전쟁 참전 기념일인 이른바 ‘항미원조 기념일’을 앞",
+      "author": null,
+      "summary": "김정은의 단둥 방문에 대응해 중국 현지에서는 사흘 전부터 경찰 증원과 교통 통제 등 경호 조치를 실시했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a79dd5db6320",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "이태원 참사 4주기 추모식서 고개 숙인 한성숙 총리 \"다시 한번 깊이 사과···진상 명백히 밝힐 것\"",
+      "link": "https://www.khan.co.kr/article/202610241920001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-10-24T10:20:00.000Z",
+      "description": "이태원참사 4주기를 닷새 앞둔 24일 서울 용산구 이태원참사 현장에서 유가족들이 꽃을 들고 희생자들을 추모하고 있다. 정지윤 선임기자한성숙 국무총리는 24일 10·29 이태원 참사 추모식에서 “정부를 대표해 다시 한번 깊이 사과드린다”며 고개를 숙였다.한 총리는 이날 오후 서울시청 광장에서 열린 이태원 참사 4주기 시민추모대회에 참석해 “국가는 국민의 소중···",
+      "author": "고희진 기자",
+      "summary": "한성숙 국무총리가 이태원 참사 4주기 추모식에서 정부를 대표해 사과하고 진상을 명백히 밝힐 것을 약속했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "833d93190032",
+      "category": "world",
+      "source": "Al Jazeera",
+      "region": "intl",
+      "title": "이스라엘인의 대량 유입이 키프로스 경제를 위협한다",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/aje-onl-nf_why-israeli-investors-are-unsettling-cypriots-241026?traffic_source=rss",
+      "publishedAt": "2026-10-24T14:56:47.000Z",
+      "description": "Cypriots say the influx of Israelis is threatening local businesses and pushing communities out of their neighbourhoods.",
+      "author": null,
+      "summary": "키프로스에서 이스라엘 관광객과 투자자의 증가로 인해 지역 사업이 위협받고 주민들이 거주지에서 내몰리고 있다는 우려가 제기됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5f29f760ab7e",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "\"빵, 지붕, 자유를 달라\"…스페인서 수만명 연금보장 요구 시위",
+      "link": "https://www.yna.co.kr/view/AKR20261024055100085",
+      "publishedAt": "2026-10-24T14:52:32.000Z",
+      "description": "(런던=연합뉴스) 김지연 특파원 = 24일(현지시간) 스페인 수도 마드리드에서 국가 연금 보장과 공공부문 개선을 촉구하고 높은 물가에 항의하는 ...",
+      "author": "김지연",
+      "summary": "스페인 마드리드에서 수만 명이 국가 연금 보장과 공공부문 개선을 요구하며 높은 물가에 항의하는 시위를 벌였다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c37d74674e88",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "김정은 방중에 시선은 트럼프로…북미대화 불씨 되살릴까",
+      "link": "https://www.yna.co.kr/view/AKR20261024055000071",
+      "publishedAt": "2026-10-24T14:42:44.000Z",
+      "description": "(워싱턴=연합뉴스) 이유미 특파원 = 김정은 북한 국무위원장이 24일 전격적으로 중국을 방문하면서 도널드 트럼프 미국 대통령의 다음 달 아시아 ...",
+      "author": "이유미",
+      "summary": "김정은 국무위원장이 24일 중국을 방문하면서 트럼프 미국 대통령의 다음 달 아시아 방문을 배경으로 북미대화 가능성이 제기됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c8c8acda8cf0",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "바바리아의 히틀러 별장 화재로 용의자 체포, 200명 소방관 투입",
+      "link": "https://www.theguardian.com/world/2026/oct/24/blaze-engulfs-hitlers-eagles-nest-mountain-retreat-in-bavaria",
+      "publishedAt": "2026-10-24T14:28:15.000Z",
+      "description": "About 200 firefighters deployed to tackle blaze at former Nazi mountain retreat in remote part of southern Germany Police have arrested a 33-year-old German citizen after a fire ripped through Adolf Hitler’s former mountain retreat in Bavaria, leaving the historic Nazi meeting place – known as the Eagle’s Nest – largely destroyed. About 200 firefighters were deployed on Friday night to tackle the blaze at the Nazi dictator’s remote, purpose-built Kehlsteinhaus residence, a protected building on the peak of Obersalzberg in southern Germany. Continue reading...",
+      "author": "Donna Ferguson and agencies",
+      "summary": "나치 지도자 히틀러의 산악 별장 'Eagle's Nest'에서 화재가 발생해 33세 독일인이 용의자로 체포됐고, 역사적 건물이 대부분 파괴됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "4dbb18997edc",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "터키-리비아 지중해 경계 협약, 그리스·EU와 갈등 심화",
+      "link": "https://www.dw.com/en/turkey-s-new-deal-on-mediterranean-maritime-boundaries-with-libya-is-exacerbating-issues-with-greece-and-the-eu/a-79745971?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-10-24T14:09:00.000Z",
+      "description": "Turkey and Libya plan to redraw maritime boundaries in the Mediterranean as part of a new economic corridor. This has sparked strong protests from Greece, and has also drawn the European Union into the conflict.",
+      "author": null,
+      "summary": "터키와 리비아가 지중해 해양 경계를 재설정하는 경제 회랑 협약을 추진하고 있으며, 이는 그리스와 EU의 강한 반발을 촉발했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9fa5e3ee5a05",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "이스라엘 군, 헤브론 지역 폐허로 만들며 주민 강제 이주",
+      "link": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes",
+      "publishedAt": "2026-10-24T13:17:13.000Z",
+      "description": "PM Benjamin Netanyahu vows ‘to destroy this place’ in retaliation for militant attack on army checkpoint Israeli troops have levelled a neighbourhood in Hebron, driving out hundreds of families in collective punishment for a militant attack on an army checkpoint outside the West Bank city, local Palestinian authorities said. The Hebron municipality estimated that 35 hectares (86 acres) had been destroyed or marked for destruction and about 1,500 people had been evicted from their homes by Saturday afternoon in the district of Ein Deir Baha. The whole city of 250,000 people was sealed off by ch",
+      "author": "Julian Borger in Jerusalem",
+      "summary": "이스라엘군이 헤브론의 한 지역을 파괴해 약 1,500명을 주거지에서 내쫓았으며, 현지 당국은 이를 군 초소 공격에 대한 집단 보복이라고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "12f584ef2adc",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "우크라이나, 스타링크 제한 해제 후 연결 안정화 선언",
+      "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-24T12:12:40.000Z",
+      "description": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
+      "author": null,
+      "summary": "우크라이나는 지난 일주일간 군과 드론 작전에 영향을 미쳤던 스타링크 속도 제한 해제 후 네트워크 연결이 안정화됐다고 발표했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "cfd942b68ddf",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "요르단 교회 장례식 중 총격으로 7명 사망, 40명 부상",
+      "link": "https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan",
+      "publishedAt": "2026-10-24T11:59:08.000Z",
+      "description": "Footage broadcast on Jordanian state television showed three gunmen firing shots at a Greek Orthodox church in the city of Karak on Friday.",
+      "author": "The Associated Press",
+      "summary": "요르단 카락 지역의 그리스 정교회에서 장례식 중 3명의 총잡이가 총을 쏟아 7명이 사망하고 40명이 부상했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "684becc721bb",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "기니비사우 선거 무기한 연기, 정치 혼란 심화",
+      "link": "https://www.dw.com/en/will-guinea-bissau-remain-trapped-in-political-chaos/a-79734069?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-10-24T11:36:00.000Z",
+      "description": "Elections scheduled for December 6 in Guinea-Bissau have been postponed indefinitely. No new date has been set, leaving the country's return to civilian rule uncertain.",
+      "author": null,
+      "summary": "기니비사우의 12월 6일 예정 선거가 무기한 연기돼 민간정부로의 복귀 시기가 불확실해졌다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2e4bfc72353b",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "케냐에서 에볼라 확진자 2번째 사망",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-24T09:46:53.000Z",
+      "description": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
+      "author": null,
+      "summary": "케냐에서 65세 여성이 에볼라로 사망했으며, 그녀는 콩고민주공화국에서 입국한 첫 번째 사망자의 가족 관계자였다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b76ceffe69a2",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "미국의 STEM 위기",
+      "link": "https://www.nytimes.com/video/opinion/100000011225443/america-has-a-stem-problem.html",
+      "publishedAt": "2026-10-24T14:31:11.000Z",
+      "description": "Are we ignoring America’s STEM pipeline? Trump’s top science adviser, Michael Kratsios, makes the case on “Interesting Times” for investment in home-grown scientists over highly skilled immigrants.",
+      "author": null,
+      "summary": "미국이 고도의 기술력을 가진 이민자에만 의존해서는 안 되며, 국내 과학자 양성에 투자해야 한다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3a6eff59971d",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "기저귀 의무는 남자도 해야 한다",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/24/lamelo-ball-avoiding-diaper-duty",
+      "publishedAt": "2026-10-24T12:00:32.000Z",
+      "description": "The basketball star seems proud to leave the job to his partner. That’s so last century Nobody can accuse the basketball star LaMelo Ball of being bad at his job. That said, the Minnesota Timberwolves point guard doesn’t seem to be a huge fan of dribbling. Ball has a nine-month-old son, LaOne, with his partner Ana Montana (real name: Analicia Chaves) and is apparently uninterested in dealing with all the body fluids that come with a baby. Arwa Mahdawi is a Guardian columnist Continue reading...",
+      "author": "Arwa Mahdawi",
+      "summary": "농구선수 라멜로 볼이 아기 돌보기를 파트너에게만 맡기는 것을 자랑하는 태도를 비판하며, 현대에는 아버지도 육아에 적극 참여해야 한다고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "91eb5846ebba",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "학교 개선의 최적 방법",
+      "link": "https://www.nytimes.com/2026/10/24/opinion/fixing-schools.html",
+      "publishedAt": "2026-10-24T11:00:08.000Z",
+      "description": "Readers analyze the 30 ideas presented in an Upshot article and offer some of their own.",
+      "author": null,
+      "summary": "학교 개선을 위한 30가지 아이디어에 대해 독자들이 각각의 입장을 제시했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "761b7f945ba3",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "이스라엘 총선이 바꾸지 못할 것",
+      "link": "https://www.nytimes.com/2026/10/24/opinion/israel-election-netanyahu.html",
+      "publishedAt": "2026-10-24T11:00:03.000Z",
+      "description": "Israelis will decide this week if Prime Minister Benjamin Netanyahu will remain in office.",
+      "author": "Mairav Zonszein",
+      "summary": "이스라엘 총선의 결과와 무관하게 근본적인 정치 현실의 변화는 어려울 것이라고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0996f09aa4a7",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "파란 물결을 꿈꿀 수 있을까",
+      "link": "https://www.nytimes.com/video/opinion/100000011230465/dare-we-dream-of-a-blue-wave.html",
+      "publishedAt": "2026-10-24T10:55:00.000Z",
+      "description": "Hope, dread and the final stretch to Election Day.",
+      "author": null,
+      "summary": "선거 막판에 유권자들이 희망과 두려움 사이를 오가고 있다며 현실을 분석했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2be9f2edd934",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "공공질서는 벌금이 아니라 시민 의식",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/24/headphone-dodgers-antisocial-behaviour-britain-japan",
+      "publishedAt": "2026-10-24T10:00:30.000Z",
+      "description": "Working in Japanese schools, I saw how teaching young people civic pride creates adults with consideration for others There are two types of people who listen to music in public: those who wear headphones and those who … are a word I probably can’t use here. “Loudcasting” – playing audio, watching videos or talking on speakerphone in public spaces – is a form of antisocial behaviour that drives eight in 10 of people in the UK crazy, and I’m glad Andy Burnham is one of those eight. But while I welcome his policy to fine “headphone dodgers”, I’m not convinced it will solve the problem. This beha",
+      "author": "Emily Bratt",
+      "summary": "공공장소에서 스피커로 음악을 듣는 행동을 벌금으로 처벌하는 정책도 필요하지만, 일본처럼 시민 의식 교육을 통해 타인에 대한 배려심을 갖춘 시민을 양성하는 것이 진정한 해결책이라고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "cfd955ff8c7b",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "필수와 쓰레기를 구분하지 못하는 정치인들",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/24/burnham-badenoch-farage-essentials-truss",
+      "publishedAt": "2026-10-24T07:00:27.000Z",
+      "description": "After a fractious week, they probably agree that no one at all needs Liz Truss’s new book, but then the political housekeeping decisions get much harder What are you stockpiling? Wes Streeting says we need water and food to last 72 hours in case of national emergency, as well as wind-up radios so that we can check in on how the apocalypse is developing in Ambridge. Personally, I have a two-week supply of jokes about the government that I can draw upon even as the zombies break down my front door. Andy Burnham, far from stockpiling, is busy chucking stuff out. This week Labour’s much cherished ",
+      "author": "Robert Hutton",
+      "summary": "정치 말기의 보수 진영 정치인들이 정책의 우선순위를 정하는 데 어려움을 겪고 있으며, 이는 정치적 혼란을 반영한다고 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "4e6ac5c28142",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "아버판 광산 참사 60년, 변하지 않은 부실",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/24/aberfan-disaster-missing-children-deaths-john-humphrys",
+      "publishedAt": "2026-10-24T06:00:26.000Z",
+      "description": "Each of those 144 deaths was entirely avoidable, but nobody was held to account. We still don’t know how to get justice for ordinary people Aberfan taught us a lot. Mostly, of course, that those in power cannot be trusted. Correction: must not be trusted. Too sweeping? Continue reading...",
+      "author": "John Humphrys",
+      "summary": "아버판 광산 참사로 144명의 사망이 완전히 예방 가능했음에도 권력층이 책임을 지지 않았으며, 현재도 일반인을 위한 정의 체계가 부족하다고 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3cf7348afefc",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "트럼프의 위험한 유산: 3진영의 세계",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/24/donald-trump-world-three-summit-vladimir-putin-xi-jinping",
+      "publishedAt": "2026-10-24T05:00:24.000Z",
+      "description": "We’ve heard much about the end of the west. At the proposed summit between Trump, Putin and Xi, those fears could crystallise In the final two years of a US presidency, when Congress has been lost, approval ratings have sunk like a stone and their party has started to think about who’s coming next, the person occupying the Oval Office can feel their power draining away. Domestic legislation, particularly in an era where bipartisan cooperation is almost nonexistent, grinds to a halt. But as the days tick by until the end, and as presidents begin to think about their legacy, there is one part of",
+      "author": "Steve Bloomfield",
+      "summary": "트럼프 정권 말기 미국의 영향력이 약해지는 가운데 미국-러시아-중국 정상회담이 현실화될 경우, 세계가 3진영으로 분열될 위험이 있다고 경고했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3d5e6538c85b",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "변한 세계, 달라져야 할 이스라엘 정책",
+      "link": "https://www.nytimes.com/2026/10/23/opinion/israel-netanyahu-democrats-us.html",
+      "publishedAt": "2026-10-23T22:34:54.000Z",
+      "description": "The upcoming elections won’t deliver an end to the attacks on Palestinians without tough new penalties from the U.S.",
+      "author": "Jon Finer",
+      "summary": "이스라엘 선거만으로는 팔레스타인에 대한 공격이 중단되지 않을 것이므로, 미국이 강력한 새로운 제재를 통해 이스라엘에 압박을 가해야 한다고 주장했다.",
+      "summarySource": "llm"
+    }
+  ],
+  "summarizedAt": "2026-10-25T00:07:38.135Z",
+  "summaryStats": {
+    "llm": 50,
+    "fallback": 0,
+    "model": "claude-haiku-4-5"
+  }
+}
