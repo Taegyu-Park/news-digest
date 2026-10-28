@@ -1,0 +1,899 @@
+{
+  "date": "2026-10-27",
+  "generatedAt": "2026-10-28T00:59:51.369Z",
+  "categories": [
+    {
+      "id": "it",
+      "label": "IT·과학·AI"
+    },
+    {
+      "id": "economy",
+      "label": "경제·금융"
+    },
+    {
+      "id": "politics",
+      "label": "정치·사회"
+    },
+    {
+      "id": "world",
+      "label": "세계·국제"
+    },
+    {
+      "id": "editorial",
+      "label": "사설·칼럼",
+      "opinion": true,
+      "summaryMaxChars": 220
+    }
+  ],
+  "feedStatus": [
+    {
+      "source": "Ars Technica",
+      "category": "it",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "Hacker News",
+      "category": "it",
+      "ok": true,
+      "matched": 1
+    },
+    {
+      "source": "TechCrunch",
+      "category": "it",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "The Verge",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "블로터",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "전자신문",
+      "category": "it",
+      "ok": true,
+      "matched": 24
+    },
+    {
+      "source": "ZDNet Korea",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC Business",
+      "category": "economy",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "The Guardian",
+      "category": "economy",
+      "ok": true,
+      "matched": 20
+    },
+    {
+      "source": "매일경제 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 39
+    },
+    {
+      "source": "연합뉴스",
+      "category": "economy",
+      "ok": true,
+      "matched": 53
+    },
+    {
+      "source": "경향신문 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 45
+    },
+    {
+      "source": "경향신문 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 33
+    },
+    {
+      "source": "노컷뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "서울신문",
+      "category": "politics",
+      "ok": true,
+      "matched": 12
+    },
+    {
+      "source": "연합뉴스 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 2
+    },
+    {
+      "source": "연합뉴스 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 84
+    },
+    {
+      "source": "SBS 뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 17
+    },
+    {
+      "source": "Al Jazeera",
+      "category": "world",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC World",
+      "category": "world",
+      "ok": true,
+      "matched": 13
+    },
+    {
+      "source": "NPR",
+      "category": "world",
+      "ok": true,
+      "matched": 5
+    },
+    {
+      "source": "The Guardian",
+      "category": "world",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "연합뉴스 국제",
+      "category": "world",
+      "ok": true,
+      "matched": 56
+    },
+    {
+      "source": "매일경제 증권",
+      "category": "economy",
+      "ok": true,
+      "matched": 32
+    },
+    {
+      "source": "경향신문 오피니언",
+      "category": "editorial",
+      "ok": true,
+      "matched": 13
+    },
+    {
+      "source": "NYT Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "The Guardian Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 13
+    },
+    {
+      "source": "Washington Post Opinions",
+      "category": "editorial",
+      "ok": false,
+      "error": "HTTP 502",
+      "matched": 0
+    },
+    {
+      "source": "동아일보 사설",
+      "category": "editorial",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "동아일보 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 27
+    },
+    {
+      "source": "조선일보",
+      "category": "politics",
+      "ok": true,
+      "matched": 1
+    },
+    {
+      "source": "동아일보 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "머니투데이",
+      "category": "economy",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "Wired",
+      "category": "it",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "DW News",
+      "category": "world",
+      "ok": true,
+      "matched": 14
+    }
+  ],
+  "items": [
+    {
+      "id": "122f4e228239",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "메타 AI 디렉터 로힛 파텔, 마이크로소프트 오피스와 경쟁하는 스타트업으로 이직",
+      "link": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+      "publishedAt": "2026-10-27T14:59:09.000Z",
+      "description": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
+      "author": "Rebecca Bellan",
+      "summary": "메타 AI 부문에서 8년간 근무한 로힛 파텔이 떠나 Ndoc이라는 스타트업을 통해 마이크로소프트 오피스 스위트에 도전하려고 한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8652a5d73cd2",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "포드 팔럼, 양방향 충전 기능으로 주택 전력 공급 가능한 미국 전기차",
+      "link": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
+      "publishedAt": "2026-10-27T14:51:33.000Z",
+      "description": "Ford is rolling out two new chargers capable of powering a home or the grid — so-called V2X capability.",
+      "author": "Tim De Chant",
+      "summary": "포드가 자동차와 주택, 전력망 간에 양방향으로 전력을 공급할 수 있는 V2X 기능을 갖춘 새로운 충전기를 선보였다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5a9a13a86b62",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "애플 아이폰 듀오 리뷰: 폴더블 폰의 기술력은 인정하되 가치는 의문",
+      "link": "https://arstechnica.com/gadgets/2026/10/apple-iphone-duo-review-two-screens-two-experiences-two-thousand-dollars/",
+      "publishedAt": "2026-10-27T14:20:26.000Z",
+      "description": "I respect Apple's first crack at a foldable phone, but I'm not sure I like it.",
+      "author": "Andrew Cunningham",
+      "summary": "리뷰어가 애플의 첫 폴더블 폰인 아이폰 듀오에 대해 정밀한 기술력은 평가하지만 2,000달러의 가치에 확신하지 못했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "58679ea1d2f7",
+      "category": "it",
+      "source": "Hacker News",
+      "region": "intl",
+      "title": "미국 정부, 국민 감시 방식 관련 비밀 법원 판결 은폐",
+      "link": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
+      "publishedAt": "2026-10-27T14:06:42.000Z",
+      "description": "Article URL: https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/ Comments URL: https://news.ycombinator.com/item?id=50259604 Points: 769 # Comments: 276",
+      "author": "helterskelter2",
+      "summary": "미국 정부가 국민을 감시하는 방식에 관한 법원 판결을 비공개로 유지하고 있는 것으로 드러났다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ec2a619f2f91",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "애플 아이폰 듀오 화면 불량, 애플은 극소수만 영향받았다고 주장",
+      "link": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/",
+      "publishedAt": "2026-10-27T14:00:49.000Z",
+      "description": "Apple's \"precision-engineered\" hinge is apparently damaging some iPhone Duo screens.",
+      "author": "Ryan Whitwam",
+      "summary": "애플의 정밀하게 엔지니어링된 힌지로 인해 일부 아이폰 듀오 화면이 손상되고 있으나 애플은 극소수만 해당된다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "08b2b19b5f06",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "'너무 잘하는' 3살 축구 신동 때문에?…경찰까지 출동한 사연",
+      "link": "https://www.etnews.com/20261027000339",
+      "publishedAt": "2026-10-27T13:30:00.000Z",
+      "description": "미국의 한 유소년 축구 경기에서 3세 남자아이의 출전 시간을 둘러싸고 부모와 리그 관계자 사이에 갈등이 벌어지면서 경찰까지 출동하는 소동이 벌어졌다. 26일(현지시간) 뉴욕포스트에 따르면 전날 미국 플로리다주 윈터파크의 마틴 루서 킹 주니어 파크에서 열린 유소년 축구 경기 도중 리그 운영 책임자가 경찰에 신고했다. 신고자인 멀티스포츠 리그 i9 스포츠의 디렉터 토머스 헤이스는 오전 9시 50분께 911에 전화를 걸어 “한 부모가 매우 소란스럽게",
+      "author": "서희원",
+      "summary": "미국 플로리다주 유소년 축구 경기에서 3세 아이의 출전 시간을 둘러싸고 부모와 리그 운영진 간에 갈등이 생겨 경찰이 출동했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b1d4eaf2ae1a",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "영국 정치인 제스 아사토, xAI의 딥페이크 피해자가 되어 소송 제기",
+      "link": "https://www.wired.com/story/the-big-interview-podcast-jess-asato/",
+      "publishedAt": "2026-10-27T13:29:41.000Z",
+      "description": "Jess Asato’s public campaigning for victims of online abuse put her in the crosshairs of Grok’s deepfake scandal. Then the UK member of parliament became a victim of the abuse herself.",
+      "author": "Rosie Swash",
+      "summary": "온라인 학대 피해자 옹호 활동을 하던 영국 하원의원 제스 아사토가 xAI의 AI 모델 Grok으로 생성된 딥페이크의 피해자가 되어 법적 조치를 취했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9a911e9d105c",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "애플 '아이폰 듀오' 초기 공급 600만대 이하 전망…수요 초과도",
+      "link": "https://www.etnews.com/20261027000450",
+      "publishedAt": "2026-10-27T11:12:19.000Z",
+      "description": "애플 첫 폴더블 스마트폰 '아이폰 듀오'가 출시된 가운데 초기 공급 물량이 수요를 따라가지 못할 수 있다는 전망이 나왔다. 높은 출고가에도 기존 아이폰 이용자들의 구매 수요가 몰리면서 당분간 제품 확보에 어려움이 발생할 가능성이 제기된다. 타룬 파탁 카운터포인트리서치 디렉터는 27일 미국 CNBC와의 인터뷰에서 아이폰 듀오의 초기 수요가 공급을 넘어설 것으로 예상했다. 파탁 디렉터는 전 세계 아이폰 이용 기기가 약 14억대에 달한다는 점을 근거",
+      "author": "남궁경",
+      "summary": "애플의 폴더블 스마트폰 아이폰 듀오의 초기 공급 물량이 예상 수요를 충족하지 못할 가능성이 제기되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "77c7be3cce76",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "AI 에이전트, 미디어업체의 새로운 주요 타겟 고객으로 부상",
+      "link": "https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/",
+      "publishedAt": "2026-10-27T11:00:00.000Z",
+      "description": "As agents go mainstream, some publishers are hoping that people will pay for content tailor-made for AI—not humans.",
+      "author": "Kate Taylor",
+      "summary": "에이전트가 확산되면서 일부 출판사들이 인간이 아닌 AI를 위한 맞춤형 콘텐츠에 대한 구독료 수익화를 추진하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f2b5933eca07",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "서울대병원 노조, 28일부터 총파업…충원 요구",
+      "link": "https://www.etnews.com/20261027000440",
+      "publishedAt": "2026-10-27T09:56:49.000Z",
+      "description": "서울대병원 노동조합이 필수인력 충원과 병동 운영 방식 개선 등을 요구하며 28일부터 무기한 파업에 돌입한다. 민주노총 공공운수노조 의료연대본부 서울지부 서울대병원분회는 27일 병원 측과의 교섭에서 합의점을 찾지 못해 28일부터 무기한 전면파업에 돌입한다고 밝혔다. 노조 주요 요구사항은 △환자 중증도에 따른 필수인력 충원 △병동 중앙화 중단 △육아휴직급여 총인건비 제외 △39병동(행려병동) 축소 중단 등 4가지다. 노조는 전공의 집단행동 이후 병",
+      "author": "이상혁",
+      "summary": "서울대병원 노동조합이 필수인력 충원과 병동 운영 개선을 요구하며 28일부터 무기한 전면파업에 돌입했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "33f6822053ca",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "미용 산업이 상업거리 활성화를 주도하고 있다",
+      "link": "https://www.bbc.co.uk/news/videos/cmr4y51lp5zko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T14:35:10.000Z",
+      "description": "Marie Camara believes beauty and personal care businesses play a key role in supporting high streets.",
+      "author": null,
+      "summary": "미용 및 개인 관리 사업이 상업거리(High Street) 활성화의 핵심 역할을 한다는 주장이 제기되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "caf9346e3133",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "무크의 AI 제작 오디세이 영화, 평론가들로부터 '노트북 화면보호기 같다' 평가",
+      "link": "https://www.theguardian.com/technology/2026/oct/27/reviewers-slate-musk-ai-grok-odyssey-film-nolan",
+      "publishedAt": "2026-10-27T14:08:41.000Z",
+      "description": "Tesla tycoon launched Grok project after criticising Christoper Nolan’s diverse casting for his Homeric blockbuster Elon Musk has released an AI-generated rival to Christopher Nolan’s The Odyssey after pledging to make a version “true to the art of Homer”. Having criticised the hit movie in the summer, the tycoon said he would use Grok Imagine to make a “historically accurate” adaptation. Continue reading...",
+      "author": "Dan Milmo Global technology editor",
+      "summary": "일론 머스크(Elon Musk)가 Grok Imagine으로 제작한 AI 영화 '오디세이'가 평론가들로부터 의미 없다는 평가를 받았다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2ec99e49b0ef",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "앤디 번햄 총리, 취임 100일간의 성과는",
+      "link": "https://www.theguardian.com/politics/2026/oct/27/how-has-andy-burnham-used-his-first-100-days-in-power",
+      "publishedAt": "2026-10-27T14:04:23.000Z",
+      "description": "From ‘everyday fixes’, party management and communications to long-term plans for care and pensions, the PM’s six key acts so far Andy Burnham arrived in Downing Street promising to transform the way Britain works, restore hope and bring an end to years of political division. One hundred days later, the prime minister has announced a series of measures aimed at making everyday life easier, he’s reopened the debate over Britain’s relationship with the EU and set out plans to overhaul public services. He has also managed to maintain an unusually visible public profile, appearing regularly on soc",
+      "author": "Aletha Adu Political correspondent",
+      "summary": "앤디 번햄(Andy Burnham) 영국 총리는 취임 100일 동안 일상생활 개선, 영국-EU 관계 재검토, 공공서비스 개편 등을 추진했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0336f4f8449e",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "음바페, 마오 지도자 발언으로 중국 내 반발 후 사과",
+      "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T13:25:54.000Z",
+      "description": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes.",
+      "author": null,
+      "summary": "프랑스 축구선수 음바페(Mbappé)가 인터뷰에서 중국 전 지도자를 '독재자'라고 언급한 발언으로 중국에서 비판을 받고 사과했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f9d5e1b9bbbf",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "김경협 청장, 재외동포협력센터 해직자 논란에 '우선채용 협의'",
+      "link": "https://www.yna.co.kr/view/AKR20261027187900371",
+      "publishedAt": "2026-10-27T13:14:42.000Z",
+      "description": "(서울=연합뉴스) 성도현 기자 = 정부 조직 개편으로 재외동포협력센터가 사라지고 재외동포청으로 통합되는 과정에서 직원들이 대거 일자리를 잃은 '...",
+      "author": "성도현",
+      "summary": "정부 조직 개편으로 재외동포협력센터가 재외동포청으로 통합되면서 해직된 직원들에 대한 우선채용 협의가 진행되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0f551263ace6",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "재개발 앞둔 구룡마을 또 큰불…집 잃은 주민들 어디로 가나",
+      "link": "https://www.yna.co.kr/view/AKR20261027186900004",
+      "publishedAt": "2026-10-27T12:59:00.000Z",
+      "description": "(서울=연합뉴스) 김동규 기자 = 서울의 마지막 판자촌으로 불리는 강남구 구룡마을에서 27일 큰불이 나 100명이 넘는 주민이 거처를 잃으면서 ...",
+      "author": "김동규",
+      "summary": "서울 강남구 구룡마을에서 화재가 발생해 100명 이상의 주민이 거처를 잃으면서 주거 문제가 발생했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c2b82bee429c",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "단일종목 레버리지, 외국인은 이미 털고나왔다…대부분 비중 0%대로",
+      "link": "https://www.mk.co.kr/news/stock/12187661",
+      "publishedAt": "2026-10-27T12:09:59.000Z",
+      "description": "10월말 보유비중 0%대 그쳐 반도체株 급락한 8월 이후 레버리지 투자규모 확 줄여 곱버스 상품서도 자금 이탈삼성전자와 SK하이닉스 단일종목 레버리지 상장지수펀드(ETF)에서 외국..",
+      "author": "매일경제",
+      "summary": "외국인 투자자들이 반도체주 급락 후 삼성전자·SK하이닉스 단일종목 레버리지 ETF 투자를 대폭 축소해 보유 비중이 0%대로 내려갔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "92295a0d34db",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "JYP 지분 인수 추진 발표에 주가 '들썩'…금감원 '불공정거래 예의주시'",
+      "link": "https://www.mk.co.kr/news/stock/12187530",
+      "publishedAt": "2026-10-27T10:29:16.000Z",
+      "description": "금융감독원이 일본계 투자그룹의 JYP엔터테인먼트 공개매수 추진 발표와 관련해 불공정거래 가능성을 두고 예의주시하고 있다고 밝혔다. 공개매수 신고서를 제출하기도 전에 인수 의사를 밝..",
+      "author": "매일경제",
+      "summary": "일본계 투자그룹의 JYP엔터테인먼트 공개매수 추진 발표로 주가가 상승했으나, 금융감독원은 불공정거래 가능성을 면밀히 살피고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b74f4284a0db",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "내년 민간보조금·R&D 실집행 관리체계 신설…분기별 점검",
+      "link": "https://www.mk.co.kr/news/economy/12187435",
+      "publishedAt": "2026-10-27T08:46:23.000Z",
+      "description": "상반기 교부, 실제 집행은 절반 수준 2030년까지 실집행 관리대상 확대정부가 내년부터 민간보조금과 연구개발(R&D) 출연금을 시작으로 ‘실집행’ 중심의 재정집행 체계를 도입한다...",
+      "author": "매일경제",
+      "summary": "정부가 내년부터 민간보조금과 연구개발 출연금 중심의 '실집행' 기반 재정집행 체계를 도입하며 2030년까지 관리 대상을 확대할 계획이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "49625b053e6c",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "3분기 GDP 1% '깜짝성장'… 한국은행 '올 4%도 가능'",
+      "link": "https://www.mk.co.kr/news/economy/12187424",
+      "publishedAt": "2026-10-27T08:43:45.000Z",
+      "description": "반도체 수출과 설비투자 호조에 힘입어 3분기 한국 경제가 1.0% 성장했다. 4분기 성장률이 0%에 그치더라도 연간 성장률은 기존 전망치(3.3%)를 웃도는 3.6%에 이를 것으로..",
+      "author": "매일경제",
+      "summary": "반도체 수출과 설비투자 호조로 3분기 한국 경제가 1% 성장했으며, 4분기 0% 성장 시나리오에도 연간 성장률이 3.6%에 이를 수 있다고 예상된다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "be0c921e64f7",
+      "category": "politics",
+      "source": "연합뉴스 사회",
+      "region": "kr",
+      "title": "구룡마을 7시간 30분 만에 주불 진압…축구장 26개 면적 태워(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20261027151655004",
+      "publishedAt": "2026-10-27T14:57:31.000Z",
+      "description": "(서울=연합뉴스) 전재훈 정지수 = 27일 오후 서울 강남 지역의 '마지막 판자촌'으로 불리는 개포동 구룡마을에서 난 화재가 늦은 밤이 되면서 ...",
+      "author": "전재훈",
+      "summary": "서울 강남 개포동 구룡마을에서 난 대형 화재가 7시간 30분 만에 진압되었으며, 축구장 26개 크기의 면적이 태워졌다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "4a51dac94c99",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "압색 받은 소아응급 교수 7명 사직 의사…정은경 \"경찰과 협의\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261027166051530",
+      "publishedAt": "2026-10-27T14:31:47.000Z",
+      "description": "(서울=연합뉴스) 성서호 김영신 기자 = 최근 환아 사망 사고로 경찰의 압수수색을 받은 아주대병원 소아전문응급의료센터 소속 교수들이 사직 의사를...",
+      "author": "성서호",
+      "summary": "최근 환아 사망 사고로 경찰 압수수색을 받은 아주대병원 소아전문응급의료센터 교수 7명이 사직 의사를 보였으며, 정은경은 경찰과의 협의를 언급했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "59041ea0cb15",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "정동영 \"지뢰는 방어 무기…'지뢰 공격' 성립 어려워\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261027099851504",
+      "publishedAt": "2026-10-27T14:25:32.000Z",
+      "description": "(서울=연합뉴스) 하채림 이은정 기자 = 정동영 통일부 장관은 비무장지대(DMZ)에서 발생한 지뢰 폭발에 대해 \"(북한의) 고의로 특정하기 어렵...",
+      "author": "이은정",
+      "summary": "통일부 장관 정동영은 비무장지대에서 발생한 지뢰 폭발과 관련해 지뢰는 방어 무기이며 북한의 고의적인 공격으로 특정하기 어렵다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e87628761939",
+      "category": "politics",
+      "source": "SBS 뉴스",
+      "region": "kr",
+      "title": "\"골프 특별감찰\"…\"사이버 레커로 전향하라\"",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008817671",
+      "publishedAt": "2026-10-27T14:25:00.000Z",
+      "description": "국민의힘 주진우 의원이 제기한 김혜경 여사의 골프 의혹을 두고, 오늘은 당 지도부까지 나서 특별감찰 대상이라며 공세를 이어갔습니다. 이에 민주당은 아니면 말고 식의 무책임한 폭로를 멈추라며 강하게 비판했습니다.김보미 기자의 보도입니다.",
+      "author": "spring@sbs.co.kr (김보미)",
+      "summary": "국민의힘 의원들이 김혜경 여사의 골프 의혹을 거론해 특별감찰 대상으로 지목했으며, 민주당은 증거 없는 무책임한 폭로라고 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "87220f5c80c5",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "판자촌 77가구 활활···주민들 \"올해 큰불 두 번째\" 분통",
+      "link": "https://www.khan.co.kr/article/202610272210005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-10-27T13:10:00.000Z",
+      "description": "서울 강남구 구룡마을 화재야간 진화 작업 소방관들이 27일 대형 화재가 발생한 서울 강남구 개포동 구룡마을에서 야간까지 화재진압 작업을 하고 있다. 연합뉴스강한 바람 타고 주변으로 확산 소방, 주변 산불 차단 총력 대응 현장 있던 주민들은 자력 대피 인근 학교 체육관 임시숙소로 판잣집 밀집한 환경, 화재 잦아 “아무도 책임지는 사람이 없어”서울 강남···",
+      "author": "하주언 기자",
+      "summary": "서울 강남구 구룡마을에서 77가구가 불에 타는 대형 화재가 발생했으며, 주민들은 올해 두 번째 큰 불이라며 분노를 드러냈다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8adda442e7c7",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "재난 대응 '총제적 실패' 드러난 이태원 참사…공무원노조 \"기억합니다, 함께합니다\"",
+      "link": "https://www.khan.co.kr/article/202610272206005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-10-27T13:06:00.000Z",
+      "description": "10·29 이태원 참사 4주기를 이틀 앞둔 27일 전국공무원노동조합 서울지역본부 용산구지부 조합원들이 서울 용산구 이태원 참사 현장에서 희생자들을 추모하고 있다. 이태원 참사 특별조사위원회는 이날 한국프레스센터에서 대국민 중간보고회를 열고 참사 당시 대통령실과 정부의 지휘 공백 및 책임 회피로 국가 재난대응체계가 제대로 작동하지 않은 정황이 드러났다고 밝혔···",
+      "author": "한수빈 기자",
+      "summary": "이태원 참사 4주기를 앞두고 특별조사위원회가 중간 보고회를 열어, 참사 당시 대통령실과 정부의 지휘 공백과 책임 회피로 재난 대응이 제대로 작동하지 않았다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "387c1fe3c53b",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "민주당, 조희대 국정조사 내달 추진",
+      "link": "https://www.khan.co.kr/article/202610272157015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-10-27T12:57:01.000Z",
+      "description": "헌정 사상 첫 현직 대법원장 대상“싸워서 무슨 실익 있나” 우려도의총 전 인사 나누는 김민석 김민석 더불어민주당 대표가 27일 조희대 대법원장 국정조사 추진 등을 논의하기 위해 국회에서 열린 의원총회에서 한병도 원내대표와 인사하고 있다. 연합뉴스‘조희대 국조’ 반대 없었지만…물밑선 “민생이 앞서야” 우려더불어민주당이 27일 조희대 대법원장에 대한 국정조사를···",
+      "author": "김한솔·박하얀·강한들 기자",
+      "summary": "더불어민주당이 조희대 대법원장에 대한 국정조사를 내달에 추진하기로 결정했으며, 헌정 사상 처음으로 현직 대법원장이 조사 대상이 된다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ae4aa7f39ab4",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "北, 김포 전망대에 자주포 조준…1.4㎞ 앞에서 사격훈련",
+      "link": "https://www.donga.com/news/Politics/article/all/20261027/134920591/1",
+      "publishedAt": "2026-10-27T12:50:00.000Z",
+      "description": "북한 병사들이 27일 경기 김포시 애기봉과 약 1.4km 떨어진 황해북도 개풍군 일원에서 실사격에 사용되는 붉은 깃발을 흔들며 덕천포(M-1975 122mm 자주포) 정비 및 발사 준비 훈련을 진행했다.이날 북한 병사들은 철책 앞에 설치된 3문의 자주포를 오가며 포신을 취재진과 관광객들이 몰려있는 애기봉 평화생태공원 전망대로 조준하는 등 위협적인 행동을 이어갔다. 이들은 장갑 전면에 ‘미제 침략자들을 소멸하라’라고 적힌 자주포 뒤에서 분주히 움직이며 사격 절차를 반복 숙달하고 있었다. 훈련이 이어지던 중, 병사 한 명이 취재진과 관광객들이 몰린 애기봉 평화생태공원 전망대를 가리키자, 자주포의 포신이 전망대로 향했다. 자주포의 포신은 오전 내내 전망대 쪽으로 조준해 있었다.개풍군 일원에는 자주포 사격 준비 훈련 외에도 국경선 요새화 작업이 한창이었다. 북한 병사들은 해안선을 따라 늘어선 수 킬로미터의 철책 설치 작업에 집중하고 있었다. 강풍이 부는 날씨에도 병사들은 흙이 담긴 마대",
+      "author": null,
+      "summary": "북한 병사들이 경기 김포시 애기봉 전망대로 자주포 포신을 조준하는 위협적인 행동을 펼치며, 1.4km 거리에서 사격 훈련을 진행했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "cb811a45925e",
+      "category": "politics",
+      "source": "서울신문",
+      "region": "kr",
+      "title": "'가상자산 과세' 입장 못 정한 與…의총서 유예 의견 잇따라",
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20261027500259",
+      "publishedAt": "2026-10-27T08:09:55.000Z",
+      "description": "더불어민주당은 27일 가상자산(암호화폐) 과세 유예와 관련해 당내 의견을 추가로 수렴하기로 했다. 추가 유예 쪽으로 가닥이 잡힌 가운데 조세 정책 불신 우려 등도 제기되는 만큼 신중하게 최종 입장을 정하겠다는 취지로 풀이된다. 전은수 민주당 원내대변인은 이날 국회에서 열린 의원총회 직후 기자들과 만나 가상자산 과세와 관련해 “오늘 (당론이) 결정된 것은 아니다”라며 “조금 더 의견을 수렴해 빠른 시일 내에 결정할 수 있도록 하겠다”고 말했다. 김한규 원내정책수석부대표는 의총 후 기자들과 만나 “가상자산 과세 유예 자체에 대해 반대하는 분은 없고 오히려 유예가 필요하다는 개인 의견들이 나왔다”며 “분위기는 유예 쪽으로 모아지고 있는 게 아닌가 싶다”고 말했다. 의총에서는 당 정책위원회가 과세 유예 필요성을 설명한 뒤 국회 재정경제기획위원회 소속 안도걸 의원이 디지털자산기본법을 먼저 제정하고 과세와 함께 시행해야 한다는 취지의 의견을 낸 것으로 전해졌다. 가상자산 과세만 따로 다루기보다 다른 세제 현안과 묶어 논의해야 한다는 의견도 나왔다고 한다. 가상자산 과세는 2020년 소득세법 개정으로 도입돼 당초 2022년 시행 예정이었지만 세 차례 미뤄져 내년 1월 시",
+      "author": "한지은·김서호 기자",
+      "summary": "더불어민주당은 가상자산 과세 유예에 대해 당내 의견을 추가로 수렴하기로 결정했으며, 의원들 사이에서 유예를 필요로 하는 의견이 잇따르고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "79d0d56e723d",
+      "category": "politics",
+      "source": "조선일보",
+      "region": "kr",
+      "title": "한국 국방부, 예술·체육 병역특례 축소…30대 후반에서 현역 복무",
+      "link": "https://www.chosun.com/jp/politics-national-jp/2026/10/27/EPMFEZNAYJFD7HPQTY55YTI3WY/",
+      "publishedAt": "2026-10-27T08:07:55.000Z",
+      "description": "",
+      "author": "権純完（クォン・スンワン）記者",
+      "summary": "한국 국방부가 예술·체육 분야의 병역특례를 축소해 30대 후반까지 현역 복무를 확대할 예정이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9e1be2eb1c46",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "[이스라엘 총선 르포] \"신앙·병역 수호\" vs \"정권 심판\" 극명하게 갈린 표심",
+      "link": "https://www.yna.co.kr/view/AKR20261027191600079",
+      "publishedAt": "2026-10-27T14:45:13.000Z",
+      "description": "(예루살렘·텔아비브=연합뉴스) 김상훈 특파원 = 이스라엘 총선 투표일인 27일(현지시간), 이스라엘을 대표하는 두 도시인 예루살렘과 텔아비브의 ...",
+      "author": "김상훈",
+      "summary": "이스라엘 총선에서 예루살렘과 텔아비브 유권자들이 신앙·병역 등을 중심으로 서로 다른 투표 성향을 보였다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5df1abfcb8c1",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "GM, 115년 만에 NYSE 떠나 나스닥으로…\"기술 집중 전략\"",
+      "link": "https://www.yna.co.kr/view/AKR20261027191300072",
+      "publishedAt": "2026-10-27T14:42:09.000Z",
+      "description": "(뉴욕=연합뉴스) 김연숙 특파원 = 미국 자동차 제조사 제너럴모터스(GM)가 115년간 유지해 온 뉴욕증권거래소(NYSE)를 떠나 기술주 중심의...",
+      "author": "김연숙",
+      "summary": "제너럴모터스가 115년간 상장된 뉴욕증권거래소를 떠나 기술주 중심의 나스닥으로 이전했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7d47074341f5",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "볼소나루 당은 패배 인정, 본인은 거부",
+      "link": "https://www.npr.org/2026/10/27/nx-s1-6019217/bolsonaro-flavio-lula-brazil-election-trump",
+      "publishedAt": "2026-10-27T14:41:17.000Z",
+      "description": "Brazil's opposition party accepts President Luiz Inácio Lula da Silva's election victory, but Flávio Bolsonaro won't concede, while President Trump calls the vote \"rigged\" without offering evidence.",
+      "author": "Carrie Kahn",
+      "summary": "브라질 야당은 룰라 대통령의 당선을 인정했으나 볼소나루와 트럼프는 거부하며 증거 없이 선거 조작을 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f79bf892f0c2",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "발롱도르 시상식, 알제리 구금 프랑스 기자 사건 제기",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T14:29:39.000Z",
+      "description": "He is in jail accused of supporting terrorism after travelling to the politically sensitive region Kabylie.",
+      "author": null,
+      "summary": "발롱도르 시상식에서 정치적 민감 지역 카빌리에 방문했다는 이유로 테러 지지 혐의로 알제리에 구금된 프랑스 스포츠 기자의 사건이 거론됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d8be8ffb0688",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "'그린 아미', 엘니뇨 홍수 대비에 나서다",
+      "link": "https://www.npr.org/2026/10/27/nx-s1-6010370/el-nino-floods-nairobi-green-army",
+      "publishedAt": "2026-10-27T14:12:35.000Z",
+      "description": "In Nairobi, a city prone to floods, workers in the \"Green Army\" are making preparations to prevent disaster when El Niño arrives.",
+      "author": "Durrie Bouscaren",
+      "summary": "홍수 위험이 높은 나이로비에서 '그린 아미' 일꾼들이 엘니뇨로 인한 재해를 막기 위한 준비를 진행했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f38f61c950fc",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "호주 연방선거 사전투표 제도 재검토 촉구",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/27/mp-calls-rethink-pre-poll-voting-helen-haines-heightened-security-concerns-ntwnfb",
+      "publishedAt": "2026-10-27T14:00:36.000Z",
+      "description": "Queensland MP Garth Hamilton says he has ‘witnessed three interactions between cars and people at pre-poll, two accidental’ Follow our Australian politics live blog for latest updates Get our daily political email, free app or daily news podcast A Coalition MP has called for a rethink of pre-poll voting at federal elections, including potentially shortening the amount of time booths are open, amid concerns of threats to voters and volunteers. Security risks to politicians and their staff have been front and centre this week, as parliament returned after the alleged attack on Helen Haines, whic",
+      "author": "Tess Ikonomou",
+      "summary": "헤인스 의원 피습 사건 이후 보안 우려가 고조되는 가운데, 호주 연립여당 의원이 사전투표 제도 재검토와 투표소 운영 시간 단축을 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "513927d0fec9",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "호주 녹색당, 요양보호 평가 알고리즘에 인간 개입 권한 복원 촉구",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/28/greens-push-for-human-overridge-in-aged-care-assessment-after-ombudsmans-scathing-report-into-algorithm-tool",
+      "publishedAt": "2026-10-27T14:00:36.000Z",
+      "description": "Investigation recommends government changes legislation so staff assessing people for home support packages can correct the outcome Follow our Australian politics live blog for latest updates Get our breaking news email, free app or daily news podcast The Greens leader, David Shoebridge, has used a scathing report from the commonwealth ombudsman to press the government to use the last two sitting weeks of parliament to restore human override to its “unfair” aged care assessment tool. The 104-page ombudsman report, published on Monday, recommends the government change legislation so that aged c",
+      "author": "Melissa Davey Medical editor",
+      "summary": "옴부즈만이 요양보호 평가 알고리즘이 '불공정'하다는 신랄한 비판을 담은 보고서를 발표한 후, 녹색당 지도자가 직원들이 평가 결과를 수정할 수 있는 인간 개입 권한 복원을 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ebe266b90f1e",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "트럼프 vs 오바마, 중간선거 투표율 견인 능력 비교",
+      "link": "https://www.bbc.co.uk/news/videos/cv0ldjez8z32o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T13:59:22.000Z",
+      "description": "The BBC's Sarah Smith followed the current and former presidents as both parties hope their biggest names can drive midterm turnout.",
+      "author": null,
+      "summary": "중간선거에서 두 정당이 현직·전직 대통령의 영향력을 활용해 투표율을 높이려는 상황을 추적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "4026e633cc01",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "이스라엘 총선, 이란 정책 변화할까",
+      "link": "https://www.dw.com/en/will-elections-in-israel-change-its-iran-approach/a-79776122?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-10-27T13:31:00.000Z",
+      "description": "As Israelis head to the polls, the country's conflict with Iran casts a long shadow over the ballot box. But any leadership changes in Israel may not be enough to shake up its grand strategy on Tehran.",
+      "author": null,
+      "summary": "이스라엘 총선에서 이란 문제가 주요 쟁점으로 떠올랐으나, 지도부 교체만으로는 이란에 대한 대전략까지 바뀌기 어려울 것으로 보였다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "656339499251",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "덴마크 프레데릭센, 동맹 조율 없는 핀·노르웨이의 푸틴 통화 비판",
+      "link": "https://www.dw.com/en/denmark-s-frederiksen-criticizes-finland-and-norway-for-calling-putin-without-coordinating-with-allies-despite-consultation-with-ukraine/a-79776208?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-10-27T12:54:00.000Z",
+      "description": "Finland and Norway have called Putin about ending the Ukraine war, drawing Danish criticism. The dispute highlights divisions over European engagement with Moscow ahead of planned US-led peace talks.",
+      "author": null,
+      "summary": "핀란드와 노르웨이가 우크라이나 전쟁 종료를 논의하기 위해 푸틴에게 통화하자 덴마크가 동맹과 조율하지 않은 점을 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9944071375f8",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]예상 3배 넘는 '깜짝 성장'… 화려한 지표의 빛과 그림자",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261027/134920987/2",
+      "publishedAt": "2026-10-27T14:30:00.000Z",
+      "description": "올해 3분기 한국의 실질 국내총생산(GDP)이 전 분기에 비해 1.0% 증가했다고 27일 한국은행이 발표했다. 두 달 전 한은 예상치 0.3%의 세 배가 넘는 ‘깜짝 성장’이다. 4분기에 제로 성장을 하더라도 연간 3.6% 성장은 무난하고, 연말 흐름에 따라 4% 성장까지 내다볼 수 있는 수준이다. 이 결과 생산 활동을 통해 벌어들인 소득의 실질 구매력을 나타내는 실질 국내총소득(GDI)은 1년 전에 비해 18.8% 급증해 1977년 4분기 이후 48년 9개월 만에 최대 폭으로 뛰어올랐다. 거시 지표만 보면 한국 경제는 더할 나위 없이 좋아 보인다. 수출은 올해 사상 첫 1조 달러 달성을 눈앞에 두고 있다. 네덜란드를 넘어 세계 4위 수출국을 넘볼 수준이다. 1인당 국민총소득(GNI)은 2014년 3만 달러에 진입한 뒤 12년 만에 처음으로 올해 4만 달러를 넘어설 것이 확실시된다. 2분기 경상수지 흑자는 중국에 이은 세계 2위로, 독일 일본의 흑자를 합친 것보다 컸다. 하지만",
+      "author": null,
+      "summary": "3분기 GDP 성장이 예상치를 3배 이상 초과했고 거시 지표가 호조를 보이지만, 이면의 그림자가 있다고 경고했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3bb94c422ae0",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]\"美 믿을 수 있나\" \"전작권 독자 환수\"… 동맹 관리부터 섬세하게",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261027/134920991/2",
+      "publishedAt": "2026-10-27T14:27:00.000Z",
+      "description": "강신철 국방부 장관이 26일 국회 국방위원회 국정감사에서 전시작전통제권 전환과 관련한 질의에 답변하면서 “북한과 전쟁이 일어났을 때 미군은 믿을 수 있나”라고 말해 논란을 낳았다. 이날 국감에서 김병주 더불어민주당 의원(대통령국방정책특보)을 비롯한 여당 의원들은 한미 간 합의가 불발되면 독자적인 전작권 행사 선언까지 검토해야 한다고 주장했다. 미국이 반대해도 어떻게든 ‘임기 내 전환’을 강행해야 한다고 국방부를 압박한 것이다. 강 장관의 발언은 동맹인 미국에 대한 불신을 드러낸 것으로 오해할 소지가 다분하다. 이 발언은 전작권 전환이 안보 위기로 이어진다는 야당 주장을 반박하며 나왔다. 강 장관은 야당 의원이 미국-이란 전쟁의 사례를 들어 전작권 전환 신중론을 제기하자 “미국도 이란에 대해 (고전하는 것을) 지금 목도하고 있지 않나. 북한과 전쟁이 났을 때 그런 미군은 믿을 수 있나. 그렇지 않은 거다”라고 했다. 국방부의 사후 해명처럼 ‘야당 의원 질문대로라면 미군도 못 믿는다는",
+      "author": null,
+      "summary": "국방부 장관의 미국 신뢰도 의문 발언이 동맹 신뢰를 훼손할 수 있다며, 전작권 전환 논의에서 동맹 관계를 더 섬세하게 관리해야 한다고 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8d2cf2648866",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "인플레이션·전쟁·부패, 트럼프에게 책임을 물어야",
+      "link": "https://www.nytimes.com/2026/10/27/opinion/editorials/inflation-war-corruption-trump-editorial.html",
+      "publishedAt": "2026-10-27T14:25:49.000Z",
+      "description": "The American people have a chance to allow the nation to glimpse the end of the Trump era and the start of something brighter.",
+      "author": "The Editorial Board",
+      "summary": "인플레이션·전쟁·부패 문제에 대해 트럼프에게 책임을 물어야 한다며, 미국 국민이 더 나은 미래를 맞이할 기회를 가져야 한다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7dade5e9daa8",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]학폭 돈벌이 '야차룰' 영상… 성 착취물처럼 뿌리 뽑아야",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261027/134920989/2",
+      "publishedAt": "2026-10-27T14:24:00.000Z",
+      "description": "서로 신고하지 않기로 합의하고 맨몸 싸움을 벌이는 청소년 ‘야차룰’ 영상이 소셜네트워크서비스(SNS)를 통해 돈을 받고 유통되고 있다. 동아일보가 학교폭력 예방단체 ‘푸른나무재단’과 함께 주요 SNS에서 ‘야차룰’ 폭력 영상 53건을 찾아 분석한 결과, 약 40%에 청소년이 등장했다. 나이 구별이 어려운 영상까지 포함하면 그 비율은 훨씬 높을 것이다. 해당 영상들은 광고, 후원금 계좌 공개, 유료 판매로 수익을 내고 있었다. 놀이를 가장한 야차룰 폭력이 돈벌이 수단으로 진화한 것이다. 가해자들은 조회 수를 올리고 후원금을 받을 목적으로 SNS 라이브 방송을 통해 폭력을 부추기고, 불법 도박 사이트 등을 통해 영상을 판매하기까지 한다. 이번 조사에서도 ‘2 대 2 맞짱’ ‘사적 제재’ 등을 내세워 참가자를 모집하거나 ‘여자 맞짱 영상’ ‘학폭 영상’ 등의 글과 함께 폐쇄형 메신저를 통한 판매 계정을 안내하는 영상이 확인됐다. 그간의 학폭과 달리 직접 폭력을 행사한 이들 외에도 촬영자",
+      "author": null,
+      "summary": "청소년이 등장한 '야차룰' 폭력 영상이 SNS에서 돈벌이 수단으로 악용되고 있으며, 성 착취물 수준으로 대응해야 한다고 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0ceb7614ab92",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "시드유 정말 건강을 해칠까? 왜 많은 인플루언서들이 반대하나?",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/28/are-seed-oils-unhealthy-scientific-evidence",
+      "publishedAt": "2026-10-27T14:00:37.000Z",
+      "description": "Randomised trials of omega-6s do not show an increase in inflammation caused by the fatty acid Read more in the Antiviral series If you’ve been online lately, you’ve probably been bombarded with the discourse about seed oils. Once a completely innocuous food that no one really talked about, they have become the enemy of the moment. Robert F Kennedy Jr, the secretary of health and human services in the US, has called them “toxic” and vowed to act against them. There are countless activewear-clad influencers online saying that nothing harms your health more than these products. Which is odd, bec",
+      "author": "Gideon Meyerowitz-Katz",
+      "summary": "Seed oils가 건강에 해로다는 주장이 증가하고 있지만, 과학적 증거에 따르면 오메가-6 지방산이 염증을 유발하지 않는다고 반박했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "31f40c03faa0",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "Albanese 정부, 포퓰리즘 위기에서 벗어나기 위해 국민과 함께해야",
+      "link": "https://www.theguardian.com/australia-news/commentisfree/2026/oct/28/albanese-government-populist-spiral-australian-politics-peter-lewis",
+      "publishedAt": "2026-10-27T14:00:34.000Z",
+      "description": "This is a difficult time to govern. Chaos reigns. The government needs to recast itself as the champion of change rather than the defenders of a status quo so many are rejecting Guardian Essential poll: One Nation and Labor’s primary vote on par as discontent with Albanese rises Midway through its second term, the Albanese government is teetering on the verge of a populist death spiral that is sweeping the globe. To avoid being sucked in will take all its political nerve and skill. One Nation’s rapid rise has focused attention on the risks to the rapidly fracturing Coalition, but Labor is not ",
+      "author": "Peter Lewis",
+      "summary": "Albanese 정부가 포퓰리즘의 위기에 빠지는 것을 피하려면 변화의 주도자로 자신을 재구성해야 한다고 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ba1f6259cf3e",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[기자메모]성장률 예측 또 실패…한은 어떻게 믿나",
+      "link": "https://www.khan.co.kr/article/202610272057005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-10-27T11:57:00.000Z",
+      "description": "한국은행은 27일 올해 3분기 실질 국내총생산(GDP) 성장률이 직전 분기 대비 1.0%(속보치) 성장했다고 발표했다. 한은의 3분기 성장률 전망치(0.3%)를 3배 이상 뛰어넘은 ‘깜짝 성장’이었다.한은이 0.3%라는 전망치를 내놓은 지난 8월27일은 3분기(7~9월)가 이미 3분의 2 가까이 지난 시점이었다. 전망치와 속보치가 3배 넘게 크게 차이가 나···",
+      "author": "조미덥 기자",
+      "summary": "한은의 3분기 성장률 예측이 1.0% 증가에 대해 3배 이상 차이가 났으며, 예측 시점도 이미 3분기가 2/3 진행된 후였다며 한은의 신뢰도를 의문했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c4d83d020177",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[논설위원의 단도직입]코스피 5000대, 저평가 수준이지만 여전한 변동성 감안해 투자를",
+      "link": "https://www.khan.co.kr/article/202610272016005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-10-27T11:16:00.000Z",
+      "description": "김학균 신영증권 리서치센터장김학균 신영증권 리서치센터장이 지난 21일 경향신문사에서 진행된 인터뷰에서 최근 증시 하락세의 배경과 향후 전망에 관해 설명하고 있다. 김정근 선임기자 jeongk@kyunghyang.com성균관대 경제학과를 졸업하고 1997년부터 애널리스트로 활동하고 있다. 신한투자증권, 한국투자증권, 대우증권을 거쳐 2018년부터 신영증권 리···",
+      "author": "김준기 논설위원",
+      "summary": "코스피 5000대가 저평가 수준이지만 여전한 변동성을 감안해 신중하게 투자할 것을 권유했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ed0bed2843fe",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "Nate Silver의 '획기적' 중간선거 예측",
+      "link": "https://www.nytimes.com/video/opinion/100000011232732/nate-silver-predicts-a-momentous-midterm.html",
+      "publishedAt": "2026-10-27T09:03:59.000Z",
+      "description": "The election forecaster Nate Silver breaks down the likelihood of a G.O.P. wipeout.",
+      "author": null,
+      "summary": "선거 예측 전문가 Nate Silver가 중간선거가 중대한 의미를 가질 것이며 공화당의 대패 가능성을 분석했다고 보도했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6807d458c1f2",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "후티군 격퇴를 위해 필요한 것",
+      "link": "https://www.nytimes.com/2026/10/27/opinion/houthis-yemen-saudi-arabia.html",
+      "publishedAt": "2026-10-27T05:00:06.000Z",
+      "description": "The international community should set a clear goal to end the Yemeni group as an armed terrorist force.",
+      "author": "Reema Bandar Al-Saud",
+      "summary": "국제사회가 예멘 후티군을 무장 테러 조직으로 격퇴하려는 명확한 목표를 설정해야 한다고 촉구했다.",
+      "summarySource": "llm"
+    }
+  ],
+  "summarizedAt": "2026-10-28T01:05:09.387Z",
+  "summaryStats": {
+    "llm": 50,
+    "fallback": 0,
+    "model": "claude-haiku-4-5"
+  }
+}
