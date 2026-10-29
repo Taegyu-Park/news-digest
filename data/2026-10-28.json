@@ -1,0 +1,900 @@
+{
+  "date": "2026-10-28",
+  "generatedAt": "2026-10-29T01:35:17.033Z",
+  "categories": [
+    {
+      "id": "it",
+      "label": "IT·과학·AI"
+    },
+    {
+      "id": "economy",
+      "label": "경제·금융"
+    },
+    {
+      "id": "politics",
+      "label": "정치·사회"
+    },
+    {
+      "id": "world",
+      "label": "세계·국제"
+    },
+    {
+      "id": "editorial",
+      "label": "사설·칼럼",
+      "opinion": true,
+      "summaryMaxChars": 220
+    }
+  ],
+  "feedStatus": [
+    {
+      "source": "Ars Technica",
+      "category": "it",
+      "ok": true,
+      "matched": 7
+    },
+    {
+      "source": "Hacker News",
+      "category": "it",
+      "ok": true,
+      "matched": 2
+    },
+    {
+      "source": "TechCrunch",
+      "category": "it",
+      "ok": true,
+      "matched": 2
+    },
+    {
+      "source": "The Verge",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "블로터",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "전자신문",
+      "category": "it",
+      "ok": true,
+      "matched": 20
+    },
+    {
+      "source": "ZDNet Korea",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC Business",
+      "category": "economy",
+      "ok": true,
+      "matched": 11
+    },
+    {
+      "source": "The Guardian",
+      "category": "economy",
+      "ok": true,
+      "matched": 13
+    },
+    {
+      "source": "매일경제 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 36
+    },
+    {
+      "source": "연합뉴스",
+      "category": "economy",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "경향신문 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 37
+    },
+    {
+      "source": "경향신문 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 37
+    },
+    {
+      "source": "노컷뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "서울신문",
+      "category": "politics",
+      "ok": true,
+      "matched": 5
+    },
+    {
+      "source": "연합뉴스 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "연합뉴스 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 72
+    },
+    {
+      "source": "SBS 뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "Al Jazeera",
+      "category": "world",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC World",
+      "category": "world",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "NPR",
+      "category": "world",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "The Guardian",
+      "category": "world",
+      "ok": true,
+      "matched": 5
+    },
+    {
+      "source": "연합뉴스 국제",
+      "category": "world",
+      "ok": true,
+      "matched": 32
+    },
+    {
+      "source": "매일경제 증권",
+      "category": "economy",
+      "ok": true,
+      "matched": 36
+    },
+    {
+      "source": "경향신문 오피니언",
+      "category": "editorial",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "NYT Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 12
+    },
+    {
+      "source": "The Guardian Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 11
+    },
+    {
+      "source": "Washington Post Opinions",
+      "category": "editorial",
+      "ok": false,
+      "error": "HTTP 502",
+      "matched": 0
+    },
+    {
+      "source": "동아일보 사설",
+      "category": "editorial",
+      "ok": true,
+      "matched": 11
+    },
+    {
+      "source": "동아일보 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 21
+    },
+    {
+      "source": "조선일보",
+      "category": "politics",
+      "ok": true,
+      "matched": 2
+    },
+    {
+      "source": "동아일보 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "머니투데이",
+      "category": "economy",
+      "ok": false,
+      "error": "fetch failed",
+      "matched": 0
+    },
+    {
+      "source": "Wired",
+      "category": "it",
+      "ok": true,
+      "matched": 32
+    },
+    {
+      "source": "DW News",
+      "category": "world",
+      "ok": true,
+      "matched": 13
+    }
+  ],
+  "items": [
+    {
+      "id": "2375b929d170",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "의원들, 오즈 박사의 선거부정 집단 협력 여부 규명 요구",
+      "link": "https://www.wired.com/story/senators-demand-to-know-if-dr-oz-collaborated-with-election-denial-groups/",
+      "publishedAt": "2026-10-28T14:46:35.000Z",
+      "description": "A far-right campaign claiming leftists are stealing votes from nursing home residents has centered on changing guidance from Mehmet Oz’s Centers for Medicare and Medicaid Services.",
+      "author": "David Gilbert",
+      "summary": "메디케어 센터의 지침 변경을 중심으로 한 극우 캠페인이 좌파가 요양원 주민들의 투표를 훔친다고 주장하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e110f678c5c3",
+      "category": "it",
+      "source": "Hacker News",
+      "region": "intl",
+      "title": "CNC 석재 조각",
+      "link": "https://carmelitegothic.com/cnc-stone-carving/",
+      "publishedAt": "2026-10-28T14:38:22.000Z",
+      "description": "Article URL: https://carmelitegothic.com/cnc-stone-carving/ Comments URL: https://news.ycombinator.com/item?id=50274409 Points: 399 # Comments: 118",
+      "author": "bschne",
+      "summary": "Hacker News에 올라온 CNC 기술을 활용한 석재 조각 글이 399포인트의 추천을 받았다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5eac007a022b",
+      "category": "it",
+      "source": "Hacker News",
+      "region": "intl",
+      "title": "AlpineBSD",
+      "link": "https://wiki.alpinebsd.org",
+      "publishedAt": "2026-10-28T14:30:26.000Z",
+      "description": "Article URL: https://wiki.alpinebsd.org Comments URL: https://news.ycombinator.com/item?id=50274251 Points: 176 # Comments: 161",
+      "author": "bradley_taunt",
+      "summary": "Hacker News에 올라온 AlpineBSD 관련 글이 176포인트와 161개의 댓글을 받으며 주목받았다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "bc82ba92a19c",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "틱톡, 레스토랑 가이드에 '먹어야 할' 기능 추가",
+      "link": "https://techcrunch.com/2026/10/28/tiktok-expands-into-restaurant-guides-with-must-eat-feature/",
+      "publishedAt": "2026-10-28T14:26:36.000Z",
+      "description": "The move puts TikTok in more direct competition with platforms like Yelp and Google.",
+      "author": "Lauren Forristal",
+      "summary": "틱톡이 '먹어야 할(Must Eat)' 기능으로 레스토랑 가이드 서비스를 확대하며 옐프와 구글 같은 플랫폼과의 경쟁이 심화했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7e3f361561d5",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "남극 근해의 숨겨진 해양 변화와 전 지구적 파장",
+      "link": "https://arstechnica.com/science/2026/10/antarctic-sea-ice-loss-could-reshape-weather-far-beyond-the-pole/",
+      "publishedAt": "2026-10-28T13:38:53.000Z",
+      "description": "Antarctic waters are getting saltier as sea-ice loss reshapes ocean circulation.",
+      "author": "Bob Berwyn, Inside Climate News",
+      "summary": "해빙 감소로 인한 해양 순환 변화로 남극 해역의 염분이 증가하고 있으며 이는 전 지구적 결과를 초래할 수 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6f293b2f6081",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "GTA 6 하기 전 해야 한다?…게이머 운동법 등장",
+      "link": "https://www.etnews.com/20261028000338",
+      "publishedAt": "2026-10-28T13:30:00.000Z",
+      "description": "'GTA 6' 출시를 앞두고 영국의 한 헬스장이 장시간 게임을 즐기는 이용자들을 위한 이색 손가락 운동법을 공개했습니다. 운동은 엄지손가락으로 다른 손가락을 차례로 터치하거나 손을 폈다가 주먹을 쥐는 동작, 양손 손끝으로 바닥을 누르는 '핑거 푸시업' 등 세 가지로 구성됐습니다. 각 동작은 10회씩 반복하며 게임을 시작하기 전과 플레이를 마친 뒤 실시하는 것을 권장했습니다. 헬스장 측은 장시간 반복적으로 버튼을 누르면 손과 손목, 팔뚝이 뻣뻣해",
+      "author": "이창민",
+      "summary": "GTA 6 출시를 앞둔 게이머들을 위해 영국 헬스장이 손가락 유연성 강화 운동법 세 가지를 제시했으며, 각 동작을 10회 반복할 것을 권장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "50abb453ba00",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "2026년 지금까지의 최고 킨들은?",
+      "link": "https://www.wired.com/gallery/best-kindle/",
+      "publishedAt": "2026-10-28T13:02:00.000Z",
+      "description": "I’ve tested every single Kindle, from Paperwhite and Colorsoft to the new aluminum models. Here’s how Amazon’s ebook readers stack up.",
+      "author": "Nena Farrell",
+      "summary": "저자가 페이퍼화이트부터 새로운 알루미늄 모델까지 모든 킨들을 테스트하여 아마존 전자책 리더기들의 성능을 비교했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2a84f30ab92c",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "킨들 페이퍼화이트·컬러소프트 2026 리뷰: 액세서리로 차별화",
+      "link": "https://www.wired.com/review/kindle-paperwhite-kindle-colorsoft-2026/",
+      "publishedAt": "2026-10-28T13:01:00.000Z",
+      "description": "The latest generation of Kindle’s 7-inch e-readers have a new look and new accessories. But are they worth the upgrade given Amazon’s new Kindle prices?",
+      "author": "Nena Farrell",
+      "summary": "킨들의 최신 세대 7인치 리더기가 새 외형과 액세서리를 갖추었으나 새로운 가격대가 업그레이드를 정당화하기에 충분한지 검토가 필요했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a08575681f83",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "중국의 태평양 해저 케이블 감시, 빅테크 위험 증가",
+      "link": "https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific/",
+      "publishedAt": "2026-10-28T11:00:49.000Z",
+      "description": "US-owned trans-Pacific cables face growing risks from sabotage and China.",
+      "author": "Jeremy Hsu",
+      "summary": "미국 소유의 태평양 횡단 해저 케이블이 중국의 침투 및 파괴 위협에 직면해 있으며 빅테크 기업들의 보안 위험이 증가하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7a4ffc3621bb",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "민주당, '金여사 골프 의혹' 주진우 고발…'악의적인 가짜뉴스'",
+      "link": "https://www.etnews.com/20261028000450",
+      "publishedAt": "2026-10-28T08:19:52.000Z",
+      "description": "더불어민주당이 이재명 대통령 부인 김혜경 여사의 유명 프로골퍼 대동 골프 의혹을 제기한 주진우 국민의힘 의원을 경찰에 고발했다. 당 법률위원회는 28일 주 의원을 정보통신망법상 명예훼손 및 형법상 허위 사실적시 명예훼손 혐의로 서울경찰청에 고발했다고 밝혔다. 법률위는 “주 의원의 주장은 최소한 사실 확인조차 거치지 않은 무책임한 흑색선전이자 악의적인 가짜뉴스”라며 대통령과 그 가족의 명예를 훼손한 행위에 대해 수사기관의 철저한 수사와 엄중한 처",
+      "author": "정치연",
+      "summary": "더불어민주당이 대통령 부인의 골프 의혹을 제기한 국민의힘 의원을 정보통신망법상 명예훼손 혐의로 경찰에 고발했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9f0524221f51",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "최저임금 인상폭은 얼마나 되는가",
+      "link": "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T14:53:29.000Z",
+      "description": "What are the National Minimum Wage and the National Living Wage, and how much are they worth?",
+      "author": null,
+      "summary": "영국의 국가최저임금(National Minimum Wage)과 국가생활임금(National Living Wage)의 정의와 인상 규모를 설명했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b0ea33cd78a9",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "韓총리 \"새만금, 임기내 최대한 진척…향후 10년이 미래 좌우\"",
+      "link": "https://www.yna.co.kr/view/AKR20261028197100001",
+      "publishedAt": "2026-10-28T14:08:08.000Z",
+      "description": "(서울=연합뉴스) 이상현 기자 = 한성숙 국무총리는 28일 새만금 개발 관련 \"개발 목표를 2050년에서 2035년으로 15년 앞당기고 현 정부...",
+      "author": "이상현",
+      "summary": "한성숙 국무총리가 새만금 개발 목표를 2050년에서 2035년으로 15년 앞당기겠다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "78cafe8daa36",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "영국 인권감시기구, 임금 격차 해소를 위해 동료 급여 공개 권리 촉구",
+      "link": "https://www.theguardian.com/money/2026/oct/28/uk-workers-right-know-colleagues-pay-disparities-gender-pay-gap-discrimination-watchdog-ehrc",
+      "publishedAt": "2026-10-28T13:58:01.000Z",
+      "description": "EHRC says transparency needed to prevent pay discrimination, particularly against women Workers should have a legal right to know their colleagues’ pay to help prevent pay discrimination, particularly against women, the UK’s human rights watchdog has said. The Equality and Human Rights Commission (EHRC) made the recommendation in response to government proposals to overhaul equal pay laws, saying workers deserved a right to transparency if they suspected other staff were being paid more for similar work. Continue reading...",
+      "author": "Kalyeena Makortoff Banking correspondent",
+      "summary": "영국 인권위원회(EHRC)는 임금 차별, 특히 여성 차별을 방지하기 위해 근로자가 동료의 급여를 알 법적 권리를 갖도록 권장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "4ec4bda72b4c",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "재무장관 첫 예산안 발표 시작",
+      "link": "https://www.bbc.co.uk/news/videos/cqn49vy2jlx0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T13:13:17.000Z",
+      "description": "The chancellor begins his speech by calling it a Budget for the \"working people of Britain, for British businesses big and small.\"",
+      "author": null,
+      "summary": "재무장관이 근로국민과 영국 기업들을 위한 첫 번째 예산안 발표를 시작했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "fc7641fda83d",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "서울시, 구룡마을 화재 이재민에 공공임대 96호 긴급 지원",
+      "link": "https://www.yna.co.kr/view/AKR20261028193900004",
+      "publishedAt": "2026-10-28T13:00:20.000Z",
+      "description": "(서울=연합뉴스) 김동규 기자 = 서울시가 구룡마을 화재로 집을 잃은 이재민을 위해 6개월간 거주할 수 있는 공공임대주택 96호를 긴급 확보했다...",
+      "author": "김동규",
+      "summary": "서울시가 구룡마을 화재 이재민을 위해 6개월간 거주 가능한 공공임대주택 96호를 긴급으로 확보했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "cac07b1c071f",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "마크 카니, 해외에선 칭송받으나 국내에선 권력 집중 추진",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/28/mark-carney-trump-davos",
+      "publishedAt": "2026-10-28T13:00:04.000Z",
+      "description": "The Canadian prime minister’s reckoning with Trumpism in Davos clashes with his attacks on environmental, Indigenous and labour rights The Canadian prime minister is a hero around the world for his Davos speech that reckoned with a reconfiguration of power in the shadow of Donald Trump. But at home, Mark Carney is mirroring the US president by radically centralizing power within his office and cabinet and taking a hatchet to dozens of laws protecting environmental, Indigenous and labour rights, all in order to enact his economic agenda. Shiri Pasternak is an associate professor in criminology ",
+      "author": "Shiri Pasternak",
+      "summary": "캐나다 총리 마크 카니는 다보스 연설로 해외에선 호평받지만, 국내에선 권력을 중앙집권화하고 환경·노동권 관련 법안을 추진 중이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "195ddb850649",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "삼전닉스 PER이 겨우 3배? … 코스피 적정가는 8700, 지지선은 4200",
+      "link": "https://www.mk.co.kr/news/stock/12188780",
+      "publishedAt": "2026-10-28T09:29:17.000Z",
+      "description": "코스피 PER·PBR로 따져보니주가는 기업 실적과 수급, 밸류에이션(가치평가)의 함수다. 기업이 얼마나 이익을 내느냐에 더해 투자자들이 그 이익에 얼마 만큼의 가치를 부여하느냐가 ..",
+      "author": "매일경제",
+      "summary": "코스피의 밸류에이션 분석에 따르면 적정가는 8700, 지지선은 4200으로 평가된다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "60d2cdd3a558",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "지엔코, 30억원 규모 유상증자 실시",
+      "link": "https://www.mk.co.kr/news/stock/12188771",
+      "publishedAt": "2026-10-28T09:02:23.000Z",
+      "description": "코스닥 상장사 지엔코가 29억 9999만 9520원 규모의 제3자배정증자를 실시한다고 2026년 10월 28일 공시했다. 이번 유상증자에서 신주 발행 주식 수는 보통주 119만 4..",
+      "author": "매일경제",
+      "summary": "코스닥 상장회사 지엔코가 약 30억원 규모의 제3자배정 유상증자를 실시한다고 공시했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0c0bbb157a86",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "북한 IP서 금융권 해킹 시도…정부 긴급 보안 강화 지시",
+      "link": "https://www.mk.co.kr/news/economy/12188755",
+      "publishedAt": "2026-10-28T08:45:35.000Z",
+      "description": "금융권을 겨냥한 해킹 시도에서 북한 인터넷 프로토콜(IP) 대역의 접근이 대량으로 탐지됐다. 금융당국은 전 금융권에 IT 보안 강화를 재차 주문했다. 관계부처도 전 산업군으로 번지..",
+      "author": "매일경제",
+      "summary": "금융권을 대상으로 북한 IP 대역에서 대량의 해킹 시도가 탐지되어 금융당국이 전 금융권에 IT 보안 강화를 지시했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c056775934cd",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "해외 투자자, 한국 채권에 주목…블룸버그 '선진국' 승격 추진",
+      "link": "https://www.mk.co.kr/news/economy/12188743",
+      "publishedAt": "2026-10-28T08:44:30.000Z",
+      "description": "‘신흥국’ 지위서 승격 추진 재경부·블룸버그 재분류 협의 WGBI 편입 이어 연타석 호재 선진국 승격땐 투자 매력 커져 해외 큰손들 수조원 매수 전망 채권 시장엔 금리안정 효과도정..",
+      "author": "매일경제",
+      "summary": "한국의 신흥국 지위에서 선진국 승격 시 해외 투자자들의 대규모 자금 유입이 예상되며, 블룸버그도 재분류를 협의 중이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "4d4190dfd9bb",
+      "category": "politics",
+      "source": "SBS 뉴스",
+      "region": "kr",
+      "title": "이 대통령, 민주당 중진 의원들과 만찬…\"경륜·지혜, 국정 운영에 반영\"",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008819890",
+      "publishedAt": "2026-10-28T14:59:00.000Z",
+      "description": "▲ 이재명 대통령이 28일 청와대에서 더불어민주당 박지원 의원 등 5선 이상 중진 국회의원들을 초청해 만찬을 함께한 뒤 기념 촬영을 …",
+      "author": "khanporter@sbs.co.kr (강민우)",
+      "summary": "이재명 대통령이 청와대에서 더불어민주당 박지원 의원 등 5선 이상의 중진 국회의원들과 만찬을 가졌다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c78ba398843a",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "송파구 투표지 247만장 계수 막바지…이상투표지 검증 병행(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261028185251004",
+      "publishedAt": "2026-10-28T14:26:08.000Z",
+      "description": "(서울=연합뉴스) 최원정 기자 = 이태한 선거관리위원회 특별검사팀의 6·3 지방선거 약 247만장에 계수 작업이 28일 오후 10시30분 현재 ...",
+      "author": "최원정",
+      "summary": "선거관리위원회 특별검사팀이 지방선거 투표지 약 247만장의 계수 작업을 진행하며 이상투표지에 대한 검증을 병행했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9ab3c584269b",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "유시민 \"윤석열 자기 집 다 해체…李대통령도 똑같이 해\"",
+      "link": "https://www.yna.co.kr/view/AKR20261028196700001",
+      "publishedAt": "2026-10-28T14:16:10.000Z",
+      "description": "(서울=연합뉴스) 안정훈 기자 = 범여권 논객 유시민 작가는 28일 \"윤석열 딱정벌레가 자기 집을 다 해체했는데, 지금 정부와 이재명 대통령도 ...",
+      "author": "안정훈",
+      "summary": "유시민 작가가 이재명 대통령을 향해 윤석열 전 대통령과 동일한 관찰을 하고 있다고 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "400663bd82aa",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "\"윤석열처럼 자기 집 해체\"···유시민, 이 대통령 향해 또 정면 비판",
+      "link": "https://www.khan.co.kr/article/202610282309001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-10-28T14:09:00.000Z",
+      "description": "유시민 작가가 28일 저녁 유튜브 채널 에 출연해 발언하고 있다. 유튜브 방송 캡처김민석 대표 체제 조기 종결 가능성 시사유시민 작가가 28일 이재명 대통령을 향해 “윤석열 딱정벌레가 자기 집을 다 해체하더라”면서 “지금 정부와 이재명 대통령에 대해 (동일한 관찰을) 해본다”고 밝혔다. 유 작가는 “제 느낌으···",
+      "author": "박하얀 기자",
+      "summary": "유시민 작가가 유튜브 방송에서 이재명 대통령이 윤석열 전 대통령처럼 집을 해체하고 있다고 정면 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "30b76f5d9227",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "추미애 \"北에 감염병·재난·환경문제 먼저 제의할 것\"",
+      "link": "https://www.donga.com/news/Politics/article/all/20261028/134929039/1",
+      "publishedAt": "2026-10-28T13:46:00.000Z",
+      "description": "추미애 경기도지사가 남북 간 긴장이 고조된 상황에서 지방정부가 주도해 감염병, 재난, 생태환경 등 인도적·실용적 분야에서의 문제를 북한과 함께 해결하는 방안을 검토할 것이라고 했다. 추 지사는 28일 소노캄 고양에서 열린 ‘2026 DMZ OPEN 에코피스포럼’ 기조 대담에서 “평화를 바라는 의지를 밝히는 것에 그치지 않고, 지방정부가 먼저 준비하고 제안하며 조직화된 실천으로 나아가는 것이 무엇보다 요구된다”며 이같이 밝혔다.추 지사는 남북 당국 간 대화가 단절된 현 상황에 대해 “남북 간 직접 접촉이 부담스럽다면 다른 국제사회나 해외 국가들과 연대하여 공동으로 참여하도록 안내하는 구체적 방안을 경기도 차원에서 적극 구상할 것”이라고 설명했다.이어 “경기도도 이런 감염병, 재난, 생태환경 문제를 구체적으로 (북에) 제기하면서 때로는 북쪽에 제의도 먼저 해보고 또 다른 국가와 공동으로 함께 참여하도록 안내하는 방법까지 구체적으로 구상하도록 할 것”이라고 했다.추 지사는 남북 교",
+      "author": null,
+      "summary": "추미애 경기도지사가 지방정부 차원에서 남북 간 감염병, 재난, 환경 문제 해결을 북한에 먼저 제의하겠다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "af5108e35820",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "구룡마을 화재로 집 잃은 이재민···서울시 \"긴급임시사용주택 96채 확보\"",
+      "link": "https://www.khan.co.kr/article/202610282232001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-10-28T13:32:00.000Z",
+      "description": "화재로 집잃은 이재민 91가구 127명강남구가 신청하면 즉시 이주 가능서울 강남구 개포동 구룡마을에서 전날 발생한 화재가 밤샘 진화 끝에 꺼진 28일 이 마을에서 38년을 살았다는 한 주민이 화재 현장을 바라보고 있다. 이준헌 기자서울시와 서울주택도시개발공사(SH)가 지난 27일 발생한 강남구 개포동 구룡마을 화재로 집을 잃은 이재민이 일시 거주할 수 있는···",
+      "author": "류인하 기자",
+      "summary": "강남구 개포동 구룡마을 화재로 집을 잃은 이재민 91가구 127명을 위해 서울시가 긴급임시사용주택 96채를 확보했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "02b306b7e542",
+      "category": "politics",
+      "source": "서울신문",
+      "region": "kr",
+      "title": "한미, 전작권 전환 이견 속… SCM 내년 초 개최 합의",
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20261029012007",
+      "publishedAt": "2026-10-28T13:08:34.000Z",
+      "description": "강신철 국방부 장관과 피트 헤그세스 미국 국방부 장관이 취임 후 첫 대면해 제58차 한미안보협의회의(SCM) 일정을 2027년 초로 합의했다. 전시작전통제권(전작권) 전환에 관한 양국의 이견이 좁혀지지 않는 분위기 속에서 양 장관이 일정 조율에 전격 합의한 것이다. 국방부는 28일 양 장관이 필리핀 세부에서 열린 제13차 아세안 확대 국방장관회의(ADMM-Plus)를 계기로 양자 회담에서 이같이 정했다고 밝혔다. 이어 “12월 워싱턴에서 한미 국방장관회담을 갖고 2027년 초에 SCM을 개최하기로 했다”며 “양 장관은 전작권 전환이 적기에 순조롭게 이뤄질 수 있도록 긴밀히 협력해 나가기로 했다”고 설명했다. 회담에서 강 장관은 한미동맹이 지난 70여년간 역내 평화와 번영의 핵심축으로 역할해온 것을 들며 “한미동맹을 ‘미래형 포괄적 전략동맹’으로 더욱 발전시켜 나가자”고 강조했다. 헤그세스 장관은 “양국이 굳건한 연합방위태세를 유지하는 가운데 국방당국 간 협력을 강화해 나가기를 기대한다”고 답했다. 국방부에 따르면 헤그세스 장관은 이 자리에서 전작권 전환에 대한 미측 의지를 재확인했다. 이날 회담 직전까지 한미는 SCM 개최를 놓고 불협화음을 보여 왔다. 미 ",
+      "author": "백서연 기자",
+      "summary": "한국과 미국 국방부 장관이 전작권 전환에 대한 이견 속에서 제58차 한미안보협의회를 2027년 초 개최하기로 합의했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e7fa3ebf708d",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "주진우 \"리디아 고, 뭐 사석에선 사과 가능…사과 안하는 건 좌파 프레임 때문\"",
+      "link": "https://www.khan.co.kr/article/202610282204001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-10-28T13:04:00.000Z",
+      "description": "주진우 국민의힘 의원이 지난 27일 국회 소통관에서 자신이 제기했던 김혜경 여사 골프 의혹 관련 기자회견을 하고 있다. 박민규 선임기자주진우 국민의힘 의원이 김혜경 여사가 골프를 쳤다는 의혹을 제기하며 동행인으로 지목한 프로골퍼 리디아 고가 “사실이 아니다”라고 반박한 데 대해 “사석에서 만나면 사과할 수 있다”고 말했다.28일 정치권에 따르면 주 의원은 ···",
+      "author": "박하얀 기자",
+      "summary": "주진우 국민의힘 의원이 김혜경 여사 골프 의혹에서 프로골퍼 리디아 고가 사석에서는 사과할 수 있다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "77a35261ca4c",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "불 난 빌라서 주민 대피 유도하던 경찰관 고립됐다 구조돼",
+      "link": "https://www.khan.co.kr/article/202610282154001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-10-28T12:54:00.000Z",
+      "description": "화재 현장. 연합뉴스불이 난 빌라에서 주민들 대피를 유도하다 고립된 경찰관이 소방대원에 의해 구조됐다.28일 오후 6시25분쯤 충북 청주시 청원구 사천동의 한 3층짜리 빌라 1층에서 불이 났다.신고를 받고 현장에 먼저 도착한 경찰관이 2층 주민 80대 A씨를 대피시키려다 함께 고립됐으나, 곧바로 출동한 소방대원에 의해 무사히 구조됐다.이 불로 A씨가 연기를···",
+      "author": "안광호 기자",
+      "summary": "충북 청주시의 빌라 화재 현장에서 주민 대피를 유도하던 경찰관이 고립되었다가 소방대원에 의해 구조되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "486cc2b4231a",
+      "category": "politics",
+      "source": "조선일보",
+      "region": "kr",
+      "title": "與 진성준 국방위원장도 美 비자발급 거부당해",
+      "link": "https://www.chosun.com/politics/assembly/2026/10/28/ZHBUXVI2QJCGVJVJYA3ALYBBYI/",
+      "publishedAt": "2026-10-28T09:04:05.000Z",
+      "description": "",
+      "author": "신지인 기자",
+      "summary": "여당 국방위원장 진성준도 미국으로부터 비자 발급을 거부당했으며, 같은 조치를 받은 인사들이 있는 것으로 보인다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1688299dbfef",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "등판 간절히 원하는데…美국무 '11초 발언' 중간선거 거리두기",
+      "link": "https://www.yna.co.kr/view/AKR20261028198200071",
+      "publishedAt": "2026-10-28T14:50:16.000Z",
+      "description": "(워싱턴=연합뉴스) 백나리 특파원 = 마코 루비오 미국 국무장관은 27일(현지시간) 텍사스주에서 열린 중간선거 지원유세 연단에 올랐다.",
+      "author": "백나리",
+      "summary": "마코 루비오 미국 국무장관이 27일 텍사스주에서 열린 중간선거 지원유세 연단에 등단했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "95dcb7c5a492",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "'스페인 열차 충돌' 한국인 탑승자 10명…2명 부상(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261028189451085",
+      "publishedAt": "2026-10-28T14:48:07.000Z",
+      "description": "(런던=연합뉴스) 김지연 특파원 = 스페인 마드리드 남부 톨레도 지역 우르다 인근에서 발생한 충돌 사고 열차에 한국인 10명이 탑승해 있었으며 ...",
+      "author": "김지연",
+      "summary": "스페인 마드리드 남부 톨레도 지역에서 발생한 열차 충돌 사고에 한국인 10명이 탑승했으며, 이 중 2명이 부상했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b36397b67479",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "스페인 열차 충돌로 68명 사망, 산체스 총리 3일 추도 선포",
+      "link": "https://www.dw.com/en/spanish-train-crash-leaves-68-dead-pm-sanchez-declares-3-days-of-mourning/live-79785087?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-10-28T14:33:00.000Z",
+      "description": "Two high-speed trains carrying hundreds of passengers collided south of Madrid. Spain's transport minister said one of the trains was told to continue its journey despite a \"red signal\" being in effect. Follow DW.",
+      "author": null,
+      "summary": "마드리드 남부에서 고속열차 두 대가 충돌했고, 스페인 교통부 장관은 한 열차가 적신호 신호를 받았는데도 계속 진행하도록 지시받았다고 말했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8ef4303c0171",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "이스라엘 선거 교착 상태, 어떻게 풀까? 4가지 시나리오",
+      "link": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T14:30:31.000Z",
+      "description": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
+      "author": null,
+      "summary": "이스라엘 선거에서 투표 85%가 개표된 상황에서도 명확한 우승자가 나타나지 않았으며, 재선거가 가장 가능성 높은 해결책이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "fb01909d7b9e",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "이스라엘 선거 결과가 혼란스러운 이유",
+      "link": "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T14:26:24.000Z",
+      "description": "Despite having the highest voter turnout in nearly three decades, Israel's elections have had no clear winner. What does this mean for the country, asks the BBC's Yolande Knell.",
+      "author": null,
+      "summary": "거의 30년 만에 최고 투표율을 기록한 이스라엘 선거는 명확한 승자가 나타나지 않은 혼란스러운 결과가 되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8d18036a1a1d",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "메카 동맹 회담 후 이란은 전쟁인가 평화인가",
+      "link": "https://www.dw.com/en/is-iran-headed-to-war-or-peace-after-mecca-alliance-meeting/a-79788256?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-10-28T14:20:00.000Z",
+      "description": "Saudi Arabia, Pakistan and Turkey have taken their latest peace push directly to Tehran. Officially, it was to avert a new military escalation, but their diplomatic outreach can also be seen as a warning to Iran.",
+      "author": null,
+      "summary": "사우디아라비아, 파키스탄, 터키가 테헤란을 직접 방문하여 이란과의 군사 충돌을 방지하기 위한 평화 중재를 추진했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b1912e8983dd",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "이집트, 저명 편집자 리나 아탈라에 벌금 부과 및 독립언론 마다 마스르 폐쇄",
+      "link": "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown",
+      "publishedAt": "2026-10-28T14:16:24.000Z",
+      "description": "Warnings of escalating clampdown on press freedom come after Cairo court convicts Attalah of managing an unlicensed website Lina Attalah, a prominent Egyptian journalist and the editor-in-chief of the news outlet Mada Masr, has been released from detention by Egypt’s authorities and had her website ordered to be shut down by a court amid an intensifying crackdown on independent media in the country. Attalah was taken briefly into custody after a Cairo court convicted her of managing an unlicensed website, prompting fresh international concerns over press freedom in Egypt. Continue reading...",
+      "author": "Peter Beaumont",
+      "summary": "이집트 법원이 저명 언론인 리나 아탈라를 미인가 웹사이트 운영 혐의로 구금한 후 석방했고, 그의 언론사 마다 마스르를 폐쇄하도록 명령했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b9e91782ea12",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "호주-영미 핵잠수함 프로젝트, 인력 모집이 '심각한 문제'",
+      "link": "https://www.theguardian.com/world/2026/oct/28/australia-must-recruit-hundreds-more-to-crew-aukus-submarines-retired-admiral-warns",
+      "publishedAt": "2026-10-28T12:46:36.000Z",
+      "description": "As USS Colorado showcases the program in Perth, retired admiral Peter Briggs says personnel is one of the ‘huge issues’ it faces Follow our Australia politics live blog for latest updates Get our breaking news email, free app or daily news podcast Australia faces an uphill battle to recruit and train enough naval personnel to serve on submarines planned for the future fleet of nuclear-powered vessels under the controversial $368bn Aukus deal, a retired admiral has warned. As the Virginia-class submarine USS Colorado arrived at HMAS Stirling south of Perth on Tuesday for a month of routine main",
+      "author": "Narelle Towie in Perth",
+      "summary": "호주는 368억 달러 규모의 오커스(AUKUS) 협력 하에 계획 중인 핵잠수함 함대에 승무원으로 근무할 해군 인력을 충분히 모집·훈련하는 데 어려움을 겪고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "584be1edfa83",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "스페인 고속열차 충돌로 수십 명 사망",
+      "link": "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster",
+      "publishedAt": "2026-10-28T10:09:46.000Z",
+      "description": "The toll is rising after a high-speed train between slammed into the rear of another train that had stopped south of Madrid, derailing two cars. It was Spain's second major train accident this year.",
+      "author": "The Associated Press",
+      "summary": "마드리드 남부에서 고속열차가 정차 중인 다른 열차의 후미에 충돌하여 2개 차량이 탈선했으며, 올해 스페인에서 발생한 두 번째 대형 열차 사고다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "49aa46793ab0",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "중간선거 앞두고 트럼프-푸틴 관계 도마 위에",
+      "link": "https://www.npr.org/2026/10/28/nx-s1-6009262/trumps-relationship-with-putin-comes-under-fire-ahead-of-the-midterms",
+      "publishedAt": "2026-10-28T08:47:18.000Z",
+      "description": "President Trump's relationship with Russia's Vladimir Putin is under scrutiny again as the president makes deals with Moscow ahead of the midterms.",
+      "author": "Franco Ordoñez",
+      "summary": "트럼프 대통령이 중간선거 전 러시아 모스크바와의 거래를 진행하면서 블라디미르 푸틴과의 관계가 다시 도마 위에 올랐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9a2e7920eddb",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]'북한 IP' 440만 회 접근 시도… 전방위 금융해킹 실체 밝혀내라",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261028/134928737/2",
+      "publishedAt": "2026-10-28T14:30:00.000Z",
+      "description": "최근 북한 인터넷주소(IP)를 통해 국내 금융 시스템에 하루 수백만 건의 무단 접근 시도가 있었던 것으로 확인됐다. 대규모 해킹을 감행하기 전 시스템 취약점이나 접근 경로를 탐색하기 위한 ‘스캔성 접근’으로 의심된다. 다만, 북한 IP가 이용됐다고 해서 북한 해커 연계성을 아직 단정할 수는 없다. 다른 나라 해커가 북한 주소로 우회했을 가능성까지 모두 열어놓고 대책을 세워야 한다. 금융보안원은 21일 오전 3시부터 국내 금융사 시스템에 다수의 북한 IP 대역에서 440만 건이 넘는 접근을 탐지하고 당일 금융사들에 ‘북한 IP 접근(스캔) 공격 주의’ 긴급상황 공지를 보냈다. 이 공격이 최근 보안 결함이 확인된 웹사이트 개발 프로그래밍 언어 ‘PHP’의 취약점을 노린 탐색전인지, 계속되고 있는 금융권 해킹의 연장선인지는 아직 불분명하다. 이달 초부터 중순까지 은행 등 금융회사 16곳에서 해킹 피해로 약 10만 건의 개인정보가 유출됐다. 여기에다 증권사, 자산운용사, 가상자산 거래소",
+      "author": null,
+      "summary": "동아일보는 북한 IP를 통한 국내 금융 시스템 접근 시도가 대규모 해킹의 전초로 의심된다며, 북한 연계성을 조급히 단정하지 말고 모든 가능성을 열어두고 대책을 세워야 한다고 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0ee77b8b7a22",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]'올공' 투표함 검증… 145일 파행과 혼란 끝내야",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261028/134928741/2",
+      "publishedAt": "2026-10-28T14:27:00.000Z",
+      "description": "6·3 지방선거 투표용지 부족 사태를 일으킨 선거관리위원회 관련 의혹의 진상 규명을 위한 특검이 28일 서울 송파구 올림픽공원 핸드볼경기장 내에 있는 투표지에 대한 현장 검증에 나섰다. 이곳은 투표용지 부족으로 혼란을 빚었던 송파구 개표소로 쓰였던 장소다. 시위대가 진입을 봉쇄하면서 투표지 약 247만 장이 반출되지 못한 지 145일 만이다. 특검은 투표지 수량과 상태, 개표 때 사용됐던 투표지 분류기의 해킹 여부 등을 조사했다. 올림픽공원은 투표용지 부족 사태로 우리 사회가 겪어야 했던 소모적 파행의 압축판과도 같았다. 사태 직후만 해도 시위대는 선관위의 선거 관리 부실로 인한 참정권 침해를 비판했다. 하지만 점차 경찰을 폭행하는 불법 행위 등으로 공권력을 무시하고, 경기장 관계자들에게 폭언하거나 소지품 검사를 하는 등 타인의 자유와 권리를 침해하는 일이 반복됐다. 시위대가 국회 국정조사 특위 소속 의원들의 현장 검증을 방해하거나, 시위대에 가로막혀 국가대표 선수들이 장비를 빌려",
+      "author": null,
+      "summary": "동아일보는 지방선거 투표용지 부족 사태의 145일 파행이 선관위 부실뿐 아니라 시위대의 불법 행위로 악화됐다며, 조속한 종료와 책임 규명을 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1245e7f44e25",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "Nate Silver가 말하는 여론조사의 신호와 직감",
+      "link": "https://www.nytimes.com/2026/10/27/opinion/ezra-klein-podcast-nate-silver.html",
+      "publishedAt": "2026-10-28T14:20:36.000Z",
+      "description": "The election forecaster Nate Silver breaks down the likelihood of a G.O.P. wipeout.",
+      "author": "Ezra Klein and Jack McCordick",
+      "summary": "선거 예측가 Nate Silver는 여론조사 데이터와 개인적 직감이 보여주는 공화당의 대패 가능성에 대해 분석했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ed0bed2843fe",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "Nate Silver가 예측하는 '의미심장한' 중간선거",
+      "link": "https://www.nytimes.com/video/opinion/100000011232732/nate-silver-predicts-a-momentous-midterm.html",
+      "publishedAt": "2026-10-28T14:20:34.000Z",
+      "description": "The election forecaster Nate Silver breaks down the likelihood of a G.O.P. wipeout.",
+      "author": null,
+      "summary": "선거 예측가 Nate Silver는 공화당의 대규모 패배 가능성을 예측했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c14f72fc9d60",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "RBA의 금리 인상이 실업률에 미칠 영향",
+      "link": "https://www.theguardian.com/business/grogonomics/2026/oct/29/the-rba-has-primed-the-market-for-an-interest-rate-rise-but-what-will-it-mean-for-unemployment",
+      "publishedAt": "2026-10-28T14:00:06.000Z",
+      "description": "Central bank forecast that unemployment might have to move even higher makes it clear how much more the RBA cares about inflation than full employment Follow our Australian politics live blog for latest updates Get our daily political email, free app or daily news podcast Back in July, the June inflation figures killed off chances of a rate rise; yesterday, however, the September inflation figures all but guarantee a rate rise next week. The September figures are a bit quirky because the Bureau of Statistics published both the monthly and old quarterly ones. Continue reading...",
+      "author": "Greg Jericho",
+      "summary": "Greg Jericho는 호주 중앙은행이 인플레이션 억제를 위해 실업률 증가를 감수하려 한다며, 완전고용보다 물가 안정을 우선시하는 태도를 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "cac07b1c071f",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "해외에서 축하받는 Mark Carney, 국내에서는 권력 강화 중",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/28/mark-carney-trump-davos",
+      "publishedAt": "2026-10-28T13:00:04.000Z",
+      "description": "The Canadian prime minister’s reckoning with Trumpism in Davos clashes with his attacks on environmental, Indigenous and labour rights The Canadian prime minister is a hero around the world for his Davos speech that reckoned with a reconfiguration of power in the shadow of Donald Trump. But at home, Mark Carney is mirroring the US president by radically centralizing power within his office and cabinet and taking a hatchet to dozens of laws protecting environmental, Indigenous and labour rights, all in order to enact his economic agenda. Shiri Pasternak is an associate professor in criminology ",
+      "author": "Shiri Pasternak",
+      "summary": "Shiri Pasternak은 캐나다 총리 Mark Carney가 국제 무대에서는 민주적 가치를 옹호하면서도 국내에서는 권력을 중앙집중화하고 환경·원주민·노동 보호법을 폐기한다며 위선을 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1990610eddee",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "이것이 도박의 관문일까?",
+      "link": "https://www.nytimes.com/2026/10/28/opinion/kalshi-teens-wager-sports.html",
+      "publishedAt": "2026-10-28T12:20:20.000Z",
+      "description": "We actually can regulate prediction markets, and we should do it now.",
+      "author": "Jessica Grose",
+      "summary": "Jessica Grose는 예측 시장이 도박 중독의 입구가 될 수 있다며 즉시 규제가 필요하다고 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d4ccdd3ae3dd",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[기자메모]기후·생태 정책 교훈 남긴 '부캉이', 추억도 얻었으니 '해피엔딩' 아닐까",
+      "link": "https://www.khan.co.kr/article/202610282048035/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-10-28T11:48:03.000Z",
+      "description": "“미치겠습니다. 뭘 어떻게 해야 하는지.”부산 북항 친수공원 수로의 명물이었던 흑상어 ‘부캉이’ 방류에 참가한 한 기관 관계자의 말이다. 해양수산부와 부산시 등은 지난 21일 그물을 이용해 부캉이를 수로에서 밀어냈다. 현재 부캉이는 수로에서 외해 방향으로 이동한 것으로 알려졌다. 공식 기관이 부캉이 위치를 포착하진 않았지만, 부캉이로 의심되는 개체의 목격담···",
+      "author": "김준용 기자",
+      "summary": "김준용 기자는 북항 명물 흑상어 '부캉이'의 방류 과정의 혼란이 있었지만 기후·생태 정책의 교훈을 남겼다며 '해피엔딩'이 될 수 있다고 평가했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "48a83154279a",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[역사와 현실]5·18을 논란으로 만든 언론",
+      "link": "https://www.khan.co.kr/article/202610282012025/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-10-28T11:12:02.000Z",
+      "description": "심상치 않다. 요 며칠 한 드라마가 5·18민주화운동을 소재로 다뤘다는 이유로 ‘논란’에 휘말렸다는 헤드라인이 레거시 미디어를 장식했다. 지난 24일자로 국회 국민동의청원에 방영중단을 요청하는 글이 올라왔다는 것이 ‘논란’의 근거였는데, 국회 국민동의청원은 30일 내로 100명의 찬성을 얻으면 요건 검토를 거쳐 공식 홈페이지에 공개된다. 그러므로 해당 청원···",
+      "author": "권혁은 한국체대 교양교직과정부 조교수",
+      "summary": "권혁은 언론이 소수 청원을 과대해석해 드라마의 5·18 관련 내용을 부풀려진 '논란'으로 만들었다며, 역사적 사건의 왜곡을 방조하는 언론의 책임을 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "4f255d0ce284",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[전중환의 진화의 창]인간은 두 발 달린 물고기다",
+      "link": "https://www.khan.co.kr/article/202610282012015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-10-28T11:12:01.000Z",
+      "description": "“수족관 유리 벽 너머가 아니라 야생에서 상어를 직접 보니까 신기해요.” 부산 북항 친수공원에 나타난 ‘국민 상어’ 부캉이는 대단한 인기를 끌었다. 도심에서 야생 물고기를 보려면 일부러 강이나 계곡까지 찾아가야 하니 그럴 만도 하다. 사실, 우리 주변은 물고기로 가득하다. 물 밖에서 두 발로 걸어 다니는 커다란 물고기 천지다.진화적 시각에서 인간은 물고기다···",
+      "author": "전중환 경희대 후마니타스칼리지 교수",
+      "summary": "전중환 교수는 진화적 관점에서 인간을 물에서 진화한 물고기로 보며, 도시에서 만나는 인간들이 모두 육지 위의 물고기들이라는 비유를 제시했다.",
+      "summarySource": "llm"
+    }
+  ],
+  "summarizedAt": "2026-10-29T01:42:19.949Z",
+  "summaryStats": {
+    "llm": 50,
+    "fallback": 0,
+    "model": "claude-haiku-4-5"
+  }
+}
