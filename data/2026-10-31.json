@@ -1,0 +1,902 @@
+{
+  "date": "2026-10-31",
+  "generatedAt": "2026-11-01T00:44:03.590Z",
+  "categories": [
+    {
+      "id": "it",
+      "label": "IT·과학·AI"
+    },
+    {
+      "id": "economy",
+      "label": "경제·금융"
+    },
+    {
+      "id": "politics",
+      "label": "정치·사회"
+    },
+    {
+      "id": "world",
+      "label": "세계·국제"
+    },
+    {
+      "id": "editorial",
+      "label": "사설·칼럼",
+      "opinion": true,
+      "summaryMaxChars": 220
+    }
+  ],
+  "feedStatus": [
+    {
+      "source": "Ars Technica",
+      "category": "it",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "Hacker News",
+      "category": "it",
+      "ok": true,
+      "matched": 5
+    },
+    {
+      "source": "TechCrunch",
+      "category": "it",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "The Verge",
+      "category": "it",
+      "ok": true,
+      "matched": 2
+    },
+    {
+      "source": "블로터",
+      "category": "it",
+      "ok": true,
+      "matched": 45
+    },
+    {
+      "source": "전자신문",
+      "category": "it",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "ZDNet Korea",
+      "category": "it",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "BBC Business",
+      "category": "economy",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "The Guardian",
+      "category": "economy",
+      "ok": true,
+      "matched": 27
+    },
+    {
+      "source": "매일경제 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 5
+    },
+    {
+      "source": "연합뉴스",
+      "category": "economy",
+      "ok": true,
+      "matched": 18
+    },
+    {
+      "source": "경향신문 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "경향신문 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "노컷뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 5
+    },
+    {
+      "source": "서울신문",
+      "category": "politics",
+      "ok": true,
+      "matched": 1
+    },
+    {
+      "source": "연합뉴스 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 30
+    },
+    {
+      "source": "연합뉴스 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 24
+    },
+    {
+      "source": "SBS 뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 19
+    },
+    {
+      "source": "Al Jazeera",
+      "category": "world",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC World",
+      "category": "world",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "NPR",
+      "category": "world",
+      "ok": true,
+      "matched": 1
+    },
+    {
+      "source": "The Guardian",
+      "category": "world",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "연합뉴스 국제",
+      "category": "world",
+      "ok": true,
+      "matched": 80
+    },
+    {
+      "source": "매일경제 증권",
+      "category": "economy",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "경향신문 오피니언",
+      "category": "editorial",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "NYT Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 28
+    },
+    {
+      "source": "The Guardian Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "Washington Post Opinions",
+      "category": "editorial",
+      "ok": false,
+      "error": "HTTP 502",
+      "matched": 0
+    },
+    {
+      "source": "동아일보 사설",
+      "category": "editorial",
+      "ok": false,
+      "error": "타임아웃 15000ms",
+      "matched": 0
+    },
+    {
+      "source": "동아일보 정치",
+      "category": "politics",
+      "ok": false,
+      "error": "타임아웃 15000ms",
+      "matched": 0
+    },
+    {
+      "source": "조선일보",
+      "category": "politics",
+      "ok": true,
+      "matched": 7
+    },
+    {
+      "source": "동아일보 경제",
+      "category": "economy",
+      "ok": false,
+      "error": "타임아웃 15000ms",
+      "matched": 0
+    },
+    {
+      "source": "머니투데이",
+      "category": "economy",
+      "ok": true,
+      "matched": 24
+    },
+    {
+      "source": "Wired",
+      "category": "it",
+      "ok": true,
+      "matched": 17
+    },
+    {
+      "source": "DW News",
+      "category": "world",
+      "ok": true,
+      "matched": 14
+    }
+  ],
+  "items": [
+    {
+      "id": "282421b2a443",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "MLCC가 영화 주인공으로…삼성전기, AI로 기술력 알린다",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=677312",
+      "publishedAt": "2026-10-31T14:00:00.000Z",
+      "description": "우주를 가로지르는 경주차들의 숨 막히는 추격전부터 인공지능(AI) 기술로 움직이는 미래 도시에서 벌어지는 긴박한 상황까지. 공상과학(SF) 영화를 연상시키는 영상 속 주인공은 사람이 아닌 작은 전자부품이다. 삼성전기가 생성형 AI를 활용해 제작한 단편 영화 형식의 홍보영상이 누적 조회수 640만회를 넘어서며 관심을 끌고 있다. 600만뷰 넘긴 두 편의 영상…첨단 부품 기술을 영화로 풀어30일 업계에 따르면 삼성전기가 공식 유튜브 채널에 공개한 '갤럭시 그랑프리'와 '더 코어(The Core): 일상을 지키는 작은 힘'의 합산 조회수",
+      "author": "이가영 기자",
+      "summary": "삼성전기가 생성형 AI로 제작한 MLCC 홍보영화가 누적 600만회 이상 조회되면서 첨단 부품 기술력을 알렸다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7d23de49dd57",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "휴가에서 아이폰 Duo가 Pro Max를 꺾었다",
+      "link": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
+      "publishedAt": "2026-10-31T14:00:00.000Z",
+      "description": "The iPhone Duo has its frustrations, but it’s also fun and engaging enough that I didn’t want to switch back to my Pro Max.",
+      "author": "Sarah Perez",
+      "summary": "iPhone Duo가 몇몇 단점이 있지만 Pro Max로 돌아가고 싶지 않을 만큼 재미있고 매력적이었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "810faf01d516",
+      "category": "it",
+      "source": "Hacker News",
+      "region": "intl",
+      "title": "Jepsen, ParticleDB 1.1.4 분석 결과 공개",
+      "link": "https://jepsen.io/analyses/particledb-1.1.4",
+      "publishedAt": "2026-10-31T13:39:52.000Z",
+      "description": "https://github.com/jepsen-io/particledb Comments URL: https://news.ycombinator.com/item?id=50316100 Points: 181 # Comments: 95",
+      "author": "aphyr",
+      "summary": "분산 데이터베이스 검증 프레임워크 Jepsen이 ParticleDB 1.1.4의 분석 결과를 공개했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "848fa5000663",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "\"108배도 이젠 방구석에서 '딸깍'\"… 60만명 몰린 '온라인 절'",
+      "link": "https://www.etnews.com/20261031000040",
+      "publishedAt": "2026-10-31T13:30:00.000Z",
+      "description": "집에서도 염불을 듣고 염주를 돌리며 108배를 할 수 있는 '온라인 절'이 등장해 화제다. 별도의 이동 없이 가상 공간에서 마음의 평화를 찾을 수 있다는 점이 입소문을 타면서 사흘 만에 60만명이 방문했다. 31일 연합뉴스 등에 따르면 최근 소셜미디어(SNS)를 중심으로 온라인 사찰 '산사'가 인기를 끌고 있다. 산사는 실제 사찰을 본떠 만든 가상 공간으로, 이용자들이 각자의 캐릭터를 통해 함께 불교문화를 체험할 수 있는 웹사이트다. 사이트에",
+      "author": "서희원",
+      "summary": "가상 공간에서 염불을 듣고 염주를 돌리며 108배를 하는 온라인 사찰 '산사'가 사흘 만에 60만명을 방문하게 했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "08d7d4d19772",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "경이로운 7대 미래도시 글로벌 투표 공식 개시",
+      "link": "https://zdnet.co.kr/view/?no=20261031211002",
+      "publishedAt": "2026-10-31T12:10:02.000Z",
+      "description": "[지디넷코리아] 두바이, 아랍에미리트, 2026년 10월 31일 /PRNewswire/ -- 필리핀 뉴 클라크 시티(New Clark City)가 '스위치온' 행사를 개최하며, 뉴세븐원더스(New7Wonders)가 www.7wondersfc.com에서 우리의 미래를 만들어 갈 도시 개발 사업을 선정하는 전 세계 대중 투표를 시작했다. 7 Wonders Future Cities voting switch-on 뉴세븐원더스는 이날 세계 도시의 날을 맞아 필리핀에서 열린 기념비적인 행사에서 경이로운 7대 미래도시(7 Wonders of Future Cities) 글로벌 대중 투표를 공식 개시했으며, 이는 전 세계 사람들이 미래 도시 생활을 가장 잘 대표한다고 생각하는 도시와 도시 개발 사업에 투표하도록 초대하는 1년간의 전 세계적 참여의 시작을 알리고, 이 여정은 2027년 10월 31일 최종 선정된 7개 도시 및 개발 사업의 공식 발표로 막을 내린다. 경이로운 7대 미래도시 캠페인의 공식 참가 도시이자 필리핀을 대표하는 도시 개발 프로젝트 중 하나인 뉴 클라크 시티가 주최하고 조직한 이번 특별 스위치온 기념식에는 도시 지도자, 언론, 초청 인사가 모여 글로벌 투표",
+      "author": "글로벌뉴스",
+      "summary": "뉴세븐원더스 재단이 필리핀 뉴 클라크 시티 행사에서 전 세계인이 미래 도시 개발 사업을 투표로 선정하는 글로벌 캠페인을 공식 개시했으며, 2027년 10월에 최종 7개 도시가 선정될 예정이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b40562f382c8",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "AI로 피해자 정보를 자동 탈취하는 악성코드 Volta-Autodoxer 발견",
+      "link": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+      "publishedAt": "2026-10-31T12:00:00.000Z",
+      "description": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
+      "author": "Lily Hay Newman, Matt Burgess",
+      "summary": "'Volta-Autodoxer' 악성코드가 AI 도구를 이용해 로그인 정보, 신용카드 번호, 채팅 기록 등 피해자의 개인정보를 자동으로 탈취한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "fa37b64aacf1",
+      "category": "it",
+      "source": "The Verge",
+      "region": "intl",
+      "title": "터치스크린은 어디에나 있다",
+      "link": "https://www.theverge.com/tech/1023569/ipad-mini-alexa-photo-frame-readwise-installer",
+      "publishedAt": "2026-10-31T12:00:00.000Z",
+      "description": "Hi, friends! Welcome to Installer No. 150, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy Halloween, and also you can read all the old editions at the Installer homepage.) This week, I was in the Smoky Mountains in Tennessee on a family vacation. It was delightful (and the reason this week's Installer is a little short). I've also been reading about job hunting and 30 Rock and crypto detectives, testing the DuckDuckGo browser after a bunch of you told me to add it to the list, watching the adorable new Pixar short over and over, getting caught up ",
+      "author": null,
+      "summary": "The Verge 뉴스레터 Installer 최신호에서 다양한 기술 제품들의 최신 동향을 소개했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d42ffbc01a48",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "신소재 개발기업 나노포지에이아이, 146억 규모 시드 투자 유치",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=677355",
+      "publishedAt": "2026-10-31T12:00:00.000Z",
+      "description": "AI 기반 신소재 개발 스타트업 나노포지에이아이가 146억원 규모의 시드(Seed) 투자를 유치하는 데 성공했다. 이번 라운드에는 기존 투자사인 퓨처플레이와 매쉬업벤처스를 비롯해, 미래에셋벤처투자가 주도하고 DSC인베스트먼트·KDB산업은행·에코프로파트너스 등이 신규 투자자로 참여했다. 이번 투자 유치로 나노포지에이아이는 누적 투자금 150억원을 넘어섰다.이번 투자는 ‘꿈의 소재’에 대한 업계의 수요 급증과 나노포지에이아이의 독보적인 기술 경쟁력이 높이 평가된 것으로 분석된다. 반도체와 배터리의 성능은 소재에 크게 좌우되다보니, 꿈의",
+      "author": "강기목 기자",
+      "summary": "AI 기반 신소재 개발 스타트업 나노포지에이아이가 미래에셋벤처투자 주도로 146억원 규모의 시드 투자를 유치했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e58df0c82cd4",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "해조류도 장거리 비행으로 시간차 피로를 겪는다",
+      "link": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
+      "publishedAt": "2026-10-31T11:15:26.000Z",
+      "description": "A long flight home from feeding grounds messes with birds' internal clocks.",
+      "author": "Jacek Krywko",
+      "summary": "해조류가 먹이를 찾으러 긴 비행을 다녀오면서 내부 시계가 교란되는 시간차 피로를 겪는다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f00784db52bf",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "고비 크리스마스 조명, 25달러 할인 중",
+      "link": "https://www.wired.com/story/govee-christmas-lights-deal-october-2026/",
+      "publishedAt": "2026-10-31T11:00:00.000Z",
+      "description": "Glow up your home indoors or out with these versatile, discounted, full color smart string lights. They’re WIRED-tested and 25 percent off right now.",
+      "author": "Simon Hill",
+      "summary": "다양한 색상의 스마트 스트링 조명 고비 크리스마스 라이트가 현재 25% 할인 중이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "dce02daacf99",
+      "category": "economy",
+      "source": "머니투데이",
+      "region": "kr",
+      "title": "'이강인 왼발 쾅' 선발 출전해 골대 강타... 그래도 아틀레티코 2-0 승리→바르셀로나 제치고 리그 1위 등극",
+      "link": "https://www.mt.co.kr/sports/2026/10/31/2026103122234454314",
+      "publishedAt": "2026-10-31T14:52:52.000Z",
+      "description": "한국 축구대표팀 '에이스' 이강인(25·아틀레티코 마드리드)이 강력한 왼발 슈팅으로 골대를 강타했다. 아쉽게 득점으로 이어지지는 않았지만, 소속팀 아틀레티코는 승리를 거두고 리그 선두로 올라섰다. 디에고 시메오네 감독이 이끄는 아틀레티코는 31일 오후 10시(한국시간) 스페인 발렌시아의 에스타디오 시우다드 데 발렌시아에서 열린 레반테와 2026~2027시즌 스페인 프리메라리가 11라운드 원정 경기에서 2-0으로 승리했다. 이로써 아틀레티코는 9승1무1패(승점 28)를 기록, 바르셀로나(승점 27)를 제치고 리그 1위로 올라섰다. 다만 바르셀로나가 한 경기를 덜 치른 상황이어서 선두 자리가 유지될지는 지켜봐야 한다....",
+      "author": null,
+      "summary": "이강인이 선발 출전해 왼발 슈팅으로 골대를 강타했고, 아틀레티코 마드리드는 레반테를 2-0으로 이기며 스페인 리그 1위로 올라섰다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "90145e9e9b8b",
+      "category": "economy",
+      "source": "머니투데이",
+      "region": "kr",
+      "title": "스킨수티컬즈, 주름·모공 관리 크림으로 제품군 확대",
+      "link": "https://www.mt.co.kr/living/2026/10/31/2026103122451679642",
+      "publishedAt": "2026-10-31T13:46:02.000Z",
+      "description": "피티옥스 크림 인체적용시험 결과 공개, 미간 주름과 모공 면적 변화 확인 로레알 그룹의 피부 전문 브랜드 스킨수티컬즈가 주름과 모공, 피부결 관리를 겨냥한 피티옥스 크림을 선보이며 안티에이징 제품군을 확대했다. 기존 피티옥스 세럼에 크림을 더해 피부 고민에 따른 관리 선택지를 넓혔다. 신제품은 한국 에스테틱 시장의 관리 방식에서 착안해 개발됐다. 식물 추출물 복합체 미릭신과 다이펩타이드, 테트라펩타이드 성분인 크리스탈라이드 등을 배합했다. 나이아신아마이드와 징크 PCA, LHA도 함유해 피부결과 모공의 외관을 관리하도록 설계했다. 회사는 부드럽게 펴 발리고 빠르게 흡수되는 크림 제형을 구현했다고 설명했다....",
+      "author": null,
+      "summary": "로레알 그룹의 스킨수티컬즈가 주름과 모공 관리용 피티옥스 크림을 출시했으며, 한국 에스테틱 시장의 관리 방식에서 착안해 개발했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "fd9dcef0d971",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "'월 3000만원 따박따박' 공정위 전관 변호사…기업 승소율은 되레 낮아",
+      "link": "https://www.mk.co.kr/news/economy/12192512",
+      "publishedAt": "2026-10-31T13:41:44.000Z",
+      "description": "6대 로펌 기업 승소율 20.3% 전관 참여 사건은 14.8% 그쳐공정거래위원회 관료 출신 변호사의 승소율이 그렇지 않은 변호사보다 더 낮은 것으로 나타났다. 이들은 대형 로펌 재..",
+      "author": "매일경제",
+      "summary": "공정거래위원회 관료 출신 변호사가 참여한 기업 사건의 승소율이 14.8%로, 일반 변호사의 20.3%보다 낮게 나타났다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9f51ebd8f0d6",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "트럼프 행정부, 석탄발전소 절반에 납세자 자금 지원과 오염 면제 제공",
+      "link": "https://www.theguardian.com/us-news/2026/oct/31/trump-coal-plants-taxpayer-dollars",
+      "publishedAt": "2026-10-31T13:00:42.000Z",
+      "description": "Environmental Defense Fund analysis shows administration handed out $950m and Clean Air Act exemptions It’s a good time to be a coal plant in the US. The Trump administration has given support to almost half of the nation’s coal plants, helping them to continue operating despite economic and regulatory headwinds, according to a new analysis by the Environmental Defense Fund. The analysis, which looked at the 184 operating coal plants that are connected to the grid, found that 90 received support from the Trump administration through “cash handouts, free passes to pollute, and requirements to s",
+      "author": "Hilary Beaumont",
+      "summary": "환경방위기금의 분석에 따르면 트럼프 행정부가 미국 석탄발전소 184개 중 90개에 9억 5000만 달러의 현금 지원과 대기청정법 면제를 제공했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d02f10e2a194",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "생물다양성 COP 정상회의 개혁 요구 증대…국가들 목표 달성 실패 전망",
+      "link": "https://www.theguardian.com/environment/2026/oct/31/cop17-reforms-fails-to-deliver-targets",
+      "publishedAt": "2026-10-31T12:30:06.000Z",
+      "description": "Cop17, focused on protecting nature and restoring ecosystems, concludes on Saturday with critics saying system allows ‘one idiot’ to stall progress Calls are growing for major reforms to UN biodiversity summits as countries fail to deliver on their promises to halt the destruction of the natural world, with governments likely on track to continue their record of never having met a target in the 34-year history of the convention. Two weeks of negotiations at biodiversity Cop17 in Yerevan, Armenia, concluded on Saturday morning with countries vowing to redouble their efforts to meet this decade’",
+      "author": "Patrick Greenfield",
+      "summary": "생물다양성 협약 COP17이 아르메니아 예레반에서 종료되었으나, 국가들이 34년간 목표를 달성한 적이 없으며 이번 회담도 성과가 제한적일 것으로 예상된다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9143386bd7fe",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "李대통령, 野 '순방' 비판에 '링거 맞고 코피…그결과 성과차이'(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261031028951001",
+      "publishedAt": "2026-10-31T11:07:50.000Z",
+      "description": "(서울=연합뉴스) 설승은 기자 = 이재명 대통령은 31일 \"민생은 무너지는데 벌써 14차례 23개국을 순방했다\"는 야당의 비판을 겨냥해 \"부처 ...",
+      "author": "설승은",
+      "summary": "이재명 대통령이 야당의 순방 외교 비판에 대해 부처별 성과 차이를 강조하며 반박했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "38f3fa5633ee",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "'월요일 개장이 두렵습니다'…나스닥100 한달 새 2700조 증발",
+      "link": "https://www.mk.co.kr/news/stock/12192467",
+      "publishedAt": "2026-10-31T09:13:26.000Z",
+      "description": "나스닥100 지수 이달 들어 5.8% 넘게 하락 예상 시가총액 감소 약 2670조원 스페이스X 시가총액보다 커 AI 투자 확대에 못미친 실적 발표 원인 빅테크 기업 매출은 증가..",
+      "author": "매일경제",
+      "summary": "나스닥100 지수가 이달 들어 5.8% 이상 하락하며 약 2670조원의 시가총액이 감소했으며, 빅테크 기업들의 실적 부진이 주된 원인이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c9d663aab642",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "보드게임으로 주식 공부…매경어린이경제교실도 '북적북적'",
+      "link": "https://www.mk.co.kr/news/stock/12192457",
+      "publishedAt": "2026-10-31T08:20:42.000Z",
+      "description": "[2026 서울머니쇼플러스(+)] 매경어린이경제교실 특강 ‘주린이’ 초등학생들 모여 모의투자 경험 ‘흥미진진’“삼성전자요!” “테슬라!” “월세요!” 31일 서울 강서구 코엑스마곡..",
+      "author": "매일경제",
+      "summary": "매경어린이경제교실이 보드게임을 통해 초등학생들에게 주식 투자 개념을 가르치며, 모의투자를 통한 실습 교육을 진행했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f5648c4db7ad",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "'세무대행 수수료 불만에 소비자상담 급증…전년 대비 7배'",
+      "link": "https://www.yna.co.kr/view/AKR20261029151800030",
+      "publishedAt": "2026-10-31T03:00:00.000Z",
+      "description": "(서울=연합뉴스) 조민정 기자 = 지난달 세무대행 플랫폼에서 예상보다 많은 수수료를 청구하거나 직접 신고한 세금 환급에 대해서도 수수료를 요구하...",
+      "author": "조민정",
+      "summary": "세무대행 플랫폼의 과다한 수수료 청구로 인한 소비자 불만이 증가하여 지난달 상담 건수가 전년 동기 대비 7배 증가했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c6883d5edf75",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "할로윈 과자 가격 급등에 소비자들 불안감",
+      "link": "https://www.bbc.co.uk/news/articles/cr0qk25p1yeno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-30T21:34:32.000Z",
+      "description": "The price of candy, especially chocolate, is up, and Halloween bargain hunters are searching for deals and ways to cut costs.",
+      "author": null,
+      "summary": "할로윈 과자, 특히 초콜릿의 가격이 상승하면서 소비자들이 할인 상품을 찾거나 비용을 절감하려는 노력을 기울이고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d53ccd72e9e0",
+      "category": "politics",
+      "source": "연합뉴스 사회",
+      "region": "kr",
+      "title": "[속보] 핼러윈 인파 혼잡으로 지하철 이태원역 무정차 통과",
+      "link": "https://www.yna.co.kr/view/AKR20261031049900004",
+      "publishedAt": "2026-10-31T14:45:53.000Z",
+      "description": "dhlee@yna.co.kr (끝)",
+      "author": "이동환",
+      "summary": "31일 핼러윈 축제로 인한 인파 혼잡이 심각해 서울 지하철 2호선 이태원역이 무정차 통과했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "10be49a0a53d",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "[르포]핼러윈 당일 이태원 2만8000명 '붐빔'…축제 속 경찀 '인파 관리' 분주",
+      "link": "https://www.khan.co.kr/article/202610312345001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-10-31T14:45:00.000Z",
+      "description": "핼러윈 축제가 열린 31일 서울 용산구 이태원에 축제를 즐기려는 시민들의 발길이 이어지고 있다. 김은송 기자“멈추지 말고 천천히 이동해주세요!”핼러윈 축제 당일인 31일 오후 서울 용산구 이태원 세계음식문화거리에는 통행을 안내하는 경찰관들의 목소리가 이어졌다. 골목 중앙에는 빨간색 분리 펜스가 설치됐고, 시민들은 펜스를 사이에 두고 양쪽으로 나뉘어 움직였다···",
+      "author": "김은송 기자",
+      "summary": "31일 핼러윈 축제로 약 2만8000명이 이태원에 몰려 붐비자, 경찰은 분리 펜스로 인파를 관리했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1e65cc9187f1",
+      "category": "politics",
+      "source": "연합뉴스 사회",
+      "region": "kr",
+      "title": "핼러윈 홍대서 '마약 사탕' 나눠줬다?…경찀 \"오인신고로 확인\"",
+      "link": "https://www.yna.co.kr/view/AKR20261031049800004",
+      "publishedAt": "2026-10-31T14:44:58.000Z",
+      "description": "(서울=연합뉴스) 정지수 기자 = 핼러윈을 맞은 31일 토요일 밤 서울 마포구 홍대 거리에서 '마약 사탕'을 건네받았다는 신고가 들어왔으나 이는...",
+      "author": "정지수",
+      "summary": "31일 핼러윈을 맞아 홍대에서 '마약 사탕'을 받았다는 신고가 접수되었으나, 경찰은 오인신고로 확인했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "044d0255f117",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "조현, 독일·폴란드 외교장관과 회담…방산 등 협력 논의",
+      "link": "https://www.yna.co.kr/view/AKR20261031048200504",
+      "publishedAt": "2026-10-31T12:53:07.000Z",
+      "description": "(서울=연합뉴스) 민선희 기자 = 조현 외교부 장관은 미국 애틀랜타에서 열린 주요 20개국(G20) 외교장관회의 참석을 계기로 독일·폴란드 외교...",
+      "author": "민선희",
+      "summary": "조현 외교부 장관이 G20 외교장관회의를 계기로 독일·폴란드 외교장관과 방산 협력 등을 논의했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f4e3b9165a13",
+      "category": "politics",
+      "source": "SBS 뉴스",
+      "region": "kr",
+      "title": "진성준 하루 전 비자 받았다…미국, 회의 끝 뜻밖 발표",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824456",
+      "publishedAt": "2026-10-31T12:06:00.000Z",
+      "description": "미국 비자 발급이 거절됐던 민주당 소속 진성준 국회 국방위원장이 출장 하루 전인 오늘에야 비자를 받았습니다. 조현 외교장관까지 나서는 우여곡절 …",
+      "author": "spirit@sbs.co.kr (김관진 기자)",
+      "summary": "미국 비자 발급이 거절되었던 민주당 진성준 국회 국방위원장이 출장 하루 전에 비자를 받았다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "4d6e61864fd4",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "정청래 \"김민석, 취임 100일이면 판가름…어떤 깃발들지 생각중\"",
+      "link": "https://www.yna.co.kr/view/AKR20261031047100001",
+      "publishedAt": "2026-10-31T12:01:59.000Z",
+      "description": "(서울=연합뉴스) 최평천 기자 = 더불어민주당 정청래 의원은 8·17 전당대회에서 자신과 경쟁했던 김민석 대표와 관련, \"취임 100일이 되면 ...",
+      "author": "최평천",
+      "summary": "더불어민주당 정청래 의원은 8·17 전당대회에서 경쟁한 김민석 대표의 취임 100일을 기준으로 평가하겠다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "116fca874a22",
+      "category": "politics",
+      "source": "노컷뉴스",
+      "region": "kr",
+      "title": "6개월만에 다시 경찀 출석한 김병기 \"무혐의 입증할 것\"",
+      "link": "https://www.nocutnews.co.kr/news/6600124",
+      "publishedAt": "2026-10-31T10:35:39.000Z",
+      "description": "13가지 비위 의혹을 받는 무소속 김병기 의원이 약 6개월 만에 경찰에 다시 출석해 무죄를 입증하겠다며 억울함을 호소했다. 김 의원은 31일 오전 9시 58분쯤 서울경찰청 광역수사단 공공범죄수사대에 출석해 \"1년이 지나고 있다\"며 \"그동안 저는 말로는 다 못할 불이익을 당하고 있다\"고 밝혔다. 이어 \"수차례에 걸쳐서 수사를 조기에 종결시켜줄 것을 탄원하기도 했다\"며 \"누가 보아도 악의와 거짓으로 점철된 고발이기 때문\"이라고 주장했다. 그러면서 \"경찰은 객관성을 가지고 증거에만 입각해서 신속하게 수사를 마무리해 주실 것을 다시 한 번 요청드린다\"고 강조했다. 김 의원은 \"그럼에도 불구하고 아직까지는 수사의 시간\"이라며 \"성실하게 소명해서 무혐의를 입증할 것\"이라고 밝힌 뒤 조사실로 향했다. 김 의원은 특정범죄가중처벌법상 뇌물과 업무방해 등 혐의를 받는다. 2020년 총선을 앞두고 전직 동작구의원 2명으로부터 3천만원을 받고 수개월 뒤 돌려줬다는 공천헌금 의혹과, 진우산전으로부터 차남의 급여 등을 받았다는 의혹 등이 제기됐다. 경찰은 지난달 7일 김 의원에 대한 사전 구속영장을 신청했지만, 서울중앙지방공소청(당시 서울중앙지검)이 김 의원의 경찰 조사 횟수와 조사",
+      "author": null,
+      "summary": "13가지 비위 의혹을 받는 무소속 김병기 의원이 약 6개월 만에 경찰에 출석해 무혐의를 입증하겠다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f2ae4728fce0",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "이 대통령, 경북 청송·영양 '깜짝 방문'···\"고향에 오니 좋다\" 농어촌 기본소득 점검",
+      "link": "https://www.khan.co.kr/article/202610311854011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-10-31T09:54:01.000Z",
+      "description": "이재명 대통령이 31일 경북 영양군 연당1리 마을회관을 찾아 주민들과 간담회를 하고 있다. 청와대 제공이재명 대통령은 31일 농어촌 기본소득 시범지역인 경북 청송·영양군의 음식점, 정육점, 이동장터 등을 방문해 정책의 효과를 살폈다. 영양 인근의 경북 안동이 고향인 이 대통령은 “고향에 오니까 좋다”고 말했다. 청송·영양군수는 “대통령이 방문한 건 처음”이···",
+      "author": "김병관 기자",
+      "summary": "이재명 대통령이 31일 농어촌 기본소득 시범지역인 경북 청송·영양군을 방문해 정책 효과를 살폈다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "498992b4d8aa",
+      "category": "politics",
+      "source": "조선일보",
+      "region": "kr",
+      "title": "김흥국 \"故최불암 빈소, '수사반장'팀 한 명도 안 오셔 '다 떠나셨구나'\" 먹먹",
+      "link": "https://www.chosun.com/entertainments/broadcast/2026/10/31/GI4GENJXG4YWINRQMRRTONRXMM/",
+      "publishedAt": "2026-10-31T09:50:00.000Z",
+      "description": "",
+      "author": "OSEN",
+      "summary": "배우 김흥국이 고인 최불암의 빈소를 찾았을 때 함께했던 드라마 '수사반장' 팀 배우들이 오지 않았다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3c70cf733a5a",
+      "category": "politics",
+      "source": "서울신문",
+      "region": "kr",
+      "title": "한미일 외교장관 \"北 완전한 비핵화, 확고한 의지 재확인\"",
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20261031500006",
+      "publishedAt": "2026-10-30T23:55:55.000Z",
+      "description": "한국과 미국, 일본 외교장관이 북한의 완전한 비핵화를 실현하겠다는 공동 의지를 재확인했다. 대만해협의 평화와 안정 유지가 중요하다는 데도 뜻을 같이했다. 미국 국무부에 따르면 마코 루비오 미 국무장관은 30일(현지시간) 미국 애틀랜타에서 열린 주요 20개국(G20) 외교장관회의를 계기로 조현 외교부 장관, 모테기 도시미쓰 일본 외무상과 회동했다. 이날 회담에서 세 장관은 북한의 완전한 비핵화와 유엔 안전보장이사회(안보리) 대북 제재 결의의 전면적인 이행을 위해 협력하겠다는 입장을 거듭 확인했다. 특히 북한의 핵·탄도미사일 개발 프로그램에 필요한 자금 조달을 지원하는 행위를 금지한 안보리 결의를 충실히 이행해야 한다는 점을 강조했다. 북한의 제재 위반 및 회피 행위를 감시하는 다국적제재모니터링팀(MSMT)의 활동에 대해서도 긍정적으로 평가했다. 인도·태평양 지역의 안보 현안도 논의 테이블에 올랐다. 세 장관은 대만해협 전역에서 평화와 안정을 유지하는 것이 중요하다는 데 공감했다. 루비오 장관은 중국의 남중국해 지배권 확대 시도와 동중국해 및 서해에서의 강압적인 행동을 언급했다. 아울러 인도·태평양 지역의 평화와 안정을 저해하는 중국과 러시아의 협력에 대해서도 ",
+      "author": "이보희 기자",
+      "summary": "한국·미국·일본 외교장관이 G20 외교장관회의를 계기로 북한의 완전한 비핵화 실현을 위한 공동 의지를 재확인했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c44e784306c7",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "이란 최고지도자 \"美 모든 자산 타격권에…지리 제한 없는 대응\"",
+      "link": "https://www.yna.co.kr/view/AKR20261031048751108",
+      "publishedAt": "2026-10-31T14:45:57.000Z",
+      "description": "(이스탄불=연합뉴스) 김동호 특파원 = 이란 최고지도자인 아야톨라 세예드 모즈타바 하메네이가 31일(현지시간) 미국에 대한 군사적 대비 태세를 ...",
+      "author": "김동호",
+      "summary": "이란 최고지도자 하메네이가 미국의 모든 자산이 자신들의 타격 권리 내에 있으며 지리적 제한이 없는 군사 대응을 할 수 있다고 강조했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d118ffe5947e",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "이란 외무 \"美와 지금은 만날 계획 없어…전쟁 가능성 배제 안해\"",
+      "link": "https://www.yna.co.kr/view/AKR20261031049600108",
+      "publishedAt": "2026-10-31T14:40:52.000Z",
+      "description": "(이스탄불=연합뉴스) 김동호 특파원 = 아바스 아라그치 이란 외무장관은 미국 측과 만날 계획이 없다고 31일(현지시간) 밝혔다.",
+      "author": "김동호",
+      "summary": "이란 외무장관 아라그치가 미국과 현재 만날 계획이 없으며 전쟁 가능성을 배제하지 않는다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9fd3916ee7e7",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "美상원 경합주 미시간 민주당 '反유대 광고' 두고 분열 심화",
+      "link": "https://www.yna.co.kr/view/AKR20261031049500071",
+      "publishedAt": "2026-10-31T14:30:07.000Z",
+      "description": "(워싱턴=연합뉴스) 박성민 특파원 = 미국 중간선거를 사흘 남긴 31일(현지시간) 연방 상원의원 최대 경합주의 하나인 미시간에서 민주당의 당내 ...",
+      "author": "박성민",
+      "summary": "미국 중간선거를 앞두고 경합주 미시간의 민주당이 반유대 광고 문제를 두고 당내 분열이 심화되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2aa74b7249b6",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "에티오피아 총리, 장관들에게 군사 훈련 실시",
+      "link": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T14:28:15.000Z",
+      "description": "The prime minister has previously emphasised military preparedness as central to his government's ambitions.",
+      "author": null,
+      "summary": "에티오피아 총리가 장관들을 군사 훈련에 투입하는 것으로 정부의 군사적 준비 태세를 중시하는 정책의지를 보여주었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2358a2bae94f",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "영국, 미국 신뢰성 약화에 따른 유럽 결속 강화 필요",
+      "link": "https://www.theguardian.com/politics/2026/oct/31/keir-starmer-uk-europe-us-relationship-trump",
+      "publishedAt": "2026-10-31T13:32:25.000Z",
+      "description": "Shift in dealings with Washington not likely to reset once Trump leaves Oval Office, former PM says The UK and other European nations must draw closer together as the US becomes a less-reliable partner, Keir Starmer has said in his first significant political intervention since leaving No 10. The former prime minister warned European leaders of the threat posed by Russia, among others, and said the shift in relations with Washington during Donald Trump’s presidency was not likely to reset once he leaves the Oval Office. He accused them of being caught out by these new realities twice already. ",
+      "author": "Kevin Rawlinson",
+      "summary": "키어 스타머 전 영국 총리가 미국의 신뢰도 감소로 인해 유럽 국가들이 더욱 결속해야 한다고 경고했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "23d729b481d5",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "영국 경찰, 미군에 여성 폭행 사건 수사 넘겨선 안 됐다",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/31/uk-police-should-not-have-let-us-force-take-over-airbase-trial-mod-documents-show",
+      "publishedAt": "2026-10-31T13:30:43.000Z",
+      "description": "According to documents obtained by the Guardian, officials accused Cambridgeshire force of breaching US-UK deal by handing over case of woman strangled by US pilot Ministry of Defence officials have privately accused a UK police force of wrongly handing over the investigation of an American fighter pilot who strangled a British woman to the US military, according to documents obtained by the Guardian. Cambridgeshire police allowed the US military police to quickly take control of the investigation into Capt Jacob Wulfson after he had been accused of sexually assaulting Sarah Steele in his Camb",
+      "author": "Rob Evans, Harry Davies,Louisa Loveluck and Emine Sinmaz",
+      "summary": "영국 국방부 문서에 따르면 켐브리지셔 경찰이 영국 여성을 폭행한 미 공군 장교의 수사를 미군에 인계한 것이 영미 협정에 위배된다고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ff178daf1e92",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "태국 헌혈 캠프, 할로윈 테마로 진행",
+      "link": "https://www.bbc.co.uk/news/videos/cmze42el49d9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T12:50:45.000Z",
+      "description": "Thai Red Cross workers dressed up as part of a Halloween-themed blood drive in the country's capital Bangkok.",
+      "author": null,
+      "summary": "태국 적십자 직원들이 할로윈 의상을 입고 방콕에서 할로윈 테마의 헌혈 캠프를 운영했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "460719e741c1",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "2026 시에나 드론 사진상, 세계 다양한 풍경 담다",
+      "link": "https://www.npr.org/2026/10/31/g-s1-150698/drone-photo-award-winners",
+      "publishedAt": "2026-10-31T11:56:10.000Z",
+      "description": "The Siena Drone Photo Awards for 2026 offer breathtaking bird's-eye views of our planet, revealing landscapes, livelihoods and human stories often invisible from the ground.",
+      "author": "Kamala Thiagarajan",
+      "summary": "2026년 시에나 드론 사진상이 지구의 숨겨진 풍경과 인간의 삶을 드러내는 새로운 시각의 작품들을 선정했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f47b06524e8d",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "메르켈 전 독일 총리, 여성 대통령 선출 촉구",
+      "link": "https://www.dw.com/en/germany-news-merkel-calls-for-first-female-president/live-79814961?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-10-31T11:18:00.000Z",
+      "description": "Former Chancellor Angela Merkel says it's time to consider a woman as Germany's next president. Meanwhile, Berlin's Left Party is deciding whether to enter coalition talks. DW has more.",
+      "author": null,
+      "summary": "독일의 전 총리 앙겔라 메르켈이 독일의 다음 대통령으로 여성 지도자 선출의 필요성을 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "942bb3fdbe8f",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "인도 영화산업, 신규 범죄조직의 협박과 총격 위협",
+      "link": "https://www.dw.com/en/bollywood-and-the-underworld-together-in-the-spotlight/a-79806129?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-10-31T07:26:00.000Z",
+      "description": "A wave of shootings and extortion threats has rattled India's film industry. This time, those claiming responsibility are very different from the Mumbai underworld that had Bollywood in its grip back in the 1990s.",
+      "author": null,
+      "summary": "인도 영화산업이 총격사건과 협박 위협으로 흔들리고 있으며, 이는 1990년대 뭄바이 언더월드와는 다른 신규 범죄 집단의 범행이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d5a37ea102a2",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "MAHA는 이렇게 끝난다",
+      "link": "https://www.nytimes.com/2026/10/31/opinion/doctor-democrats-midterms.html",
+      "publishedAt": "2026-10-31T12:26:40.000Z",
+      "description": "Doctors like Annie Andrews, Amy Acton and Abdul El-Sayed remind us that Americans don’t trust Republicans with their nation’s health.",
+      "author": "Jessica Grose",
+      "summary": "의사 안니 앤드류스, 에이미 액턴, 압둘 엘-세이드 등의 사례를 들며 미국인들이 공화당을 국가 보건정책에 신뢰하지 않는다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "78ebe80642d3",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "노르웨이, 멜라니아 트럼프에 노벨 평화상을?",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/31/norway-melania-trump-nobel-peace-prize",
+      "publishedAt": "2026-10-31T12:00:44.000Z",
+      "description": "The first lady has been praised for ‘singlehandedly’ brokering a ceasefire in a Ukrainian city – though she might have had some help Haters be damned: Donald Trump just keeps on winning. He won the inaugural Fifa peace prize last year and was presented with the completely real, totally not made-up “Man of the Century” award at a recent rally. The president has also spent the greater part of a decade claiming he was once crowned Michigan’s Man of the Year: a fantastic achievement considering there is no such award and Trump has never lived in Michigan. But despite his many trophies, there is on",
+      "author": "Arwa Mahdawi",
+      "summary": "멜라니아 트럼프가 우크라이나 도시의 휴전을 중개했다고 알려졌지만 실제로는 도움을 받았을 가능성이 있다며, 트럼프의 허구적 성과들을 풍자했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "11dc9be25aad",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "비정상적인 선거에 대비하라",
+      "link": "https://www.nytimes.com/2026/10/31/opinion/midterms-races-democrats-election.html",
+      "publishedAt": "2026-10-31T11:46:38.000Z",
+      "description": "Democratic sweep or not, politics are about to change.",
+      "author": "Robert Siegel, Jamelle Bouie, E.J. Dionne Jr. and Vishakha Darbha",
+      "summary": "민주당의 선거 결과가 어떻게 되든 미국 정치가 근본적으로 변화할 시기가 왔다고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5ffa0635817a",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "공화당의 '치즈케이크팩토리' 정치 작전 실패",
+      "link": "https://www.nytimes.com/2026/10/31/opinion/democrats-populist-working-class.html",
+      "publishedAt": "2026-10-31T11:45:28.000Z",
+      "description": "It’s become screamingly obvious who represents billionaires and unchecked plutocratic power.",
+      "author": "Michelle Goldberg",
+      "summary": "공화당이 Cheesecake Factory를 이용해 민주당 공격을 시도했지만 실패했으며, 누가 억만장자들의 이익을 대표하는지는 이미 명백하다고 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2038709b8576",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "캘리포니아 민주당의 딜레마: 유권자는 찬성, 지도자는 반대",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/31/california-billionaire-tax-democrats-voters",
+      "publishedAt": "2026-10-31T11:00:41.000Z",
+      "description": "The unprecedented measure has enormous potential nationwide. The clash exposes the party’s corporate-progressive divide Midway through this summer, a high-quality poll found that Democrats in California were overwhelmingly in favor of the upcoming ballot measure for a one-time 5% tax on billionaire wealth. The ratio was more than 4 to 1. But the state’s most powerful Democrats – including the governor Gavin Newsom, his near-certain successor Xavier Becerra and the Los Angeles mayor Karen Bass – have lined up with Silicon Valley billionaires who’ve raised upward of $340m to defeat the initiativ",
+      "author": "Norman Solomon",
+      "summary": "캘리포니아 민주당 지지자들이 억만장자 일회성 부유세에 압도적으로 찬성하지만, 뉴섬 주지사 등 주요 민주당 지도자들이 실리콘밸리 억만장자들과 함께 반대한다며 당의 기업 편향성을 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "91e8b4ab2154",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "중간선거에서 도덕성이 투표되다",
+      "link": "https://www.nytimes.com/video/opinion/100000011242382/in-the-midterms-morality-is-on-the-ballot.html",
+      "publishedAt": "2026-10-31T11:00:12.000Z",
+      "description": "With the midterms just days away, Times Opinion writers are taking stock of key races and the themes emerging from them. The columnist Jamelle Bouie sees a “politics of morality” taking shape in the messaging of popular Democratic candidates, like Jon Ossoff and James Talarico. He’s hopeful that it signals a larger shift away from the grievance-filled politics of Donald Trump.",
+      "author": null,
+      "summary": "Jamelle Bouie 칼럼니스트가 민주당 후보들의 메시지에서 '도덕성 정치'를 발견했으며, 이것이 Trump의 불평 정치에서 벗어나는 긍정적 방향 전환의 신호라고 낙관했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e36560de5f23",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "민주당의 남성성 위기",
+      "link": "https://www.nytimes.com/2026/10/31/opinion/democrats-republicans-toxic-masculinity.html",
+      "publishedAt": "2026-10-31T11:00:05.000Z",
+      "description": "The Democrats have been searching for a way to counteract the toxic masculinity of the right.",
+      "author": "Mike Mariani",
+      "summary": "민주당이 우파의 독성적 남성성에 맞서기 위해 새로운 남성성의 담론을 형성해야 한다고 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8ce6c4dda09a",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "BBC 정치인 버전 '배신자들'의 진짜 문제",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/31/political-traitors-burnham-autumn-budget-games-lies",
+      "publishedAt": "2026-10-31T10:00:40.000Z",
+      "description": "For Westminster’s special budget edition of the series, politicians have played to their strengths. Bombast, duplicity, distrust: it’s all second nature You join us on a steam train in Scotland as we head to the next episode of the BBC’s hit show Political Traitors. It’s like the celebrity edition, except that everyone is less comely – politics being the practice of show business for ugly people. For this week’s task, the players have to construct a “budget” of tiny crowd-pleasing measures, carefully balanced by invisible tax rises. What makes the show so compelling is that the players don’t k",
+      "author": "Robert Hutton",
+      "summary": "영국 정치의 현실을 풍자하면서, 정치인들의 화려한 수사, 기만, 상호 불신을 드러내는 BBC 프로그램의 한계를 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "684151da5c54",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "AI에 의존하는 것이 당신의 뇌를 부식시킨다",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/31/ai-rely-brain-new-tech-product-lives-boredom",
+      "publishedAt": "2026-10-31T08:00:37.000Z",
+      "description": "Each new tech product is designed to make our lives easier and keep us mindlessly entertained. Switch off: embrace discomfort – and boredom Ever longed for your own personal assistant? In the ever quickening tech race, Meta has recently launched Muse, a new AI personal agent. Unlike traditional chatbots, this little AI tool will be able to fill out forms for you, organise calendars, pay bills and make reservations. Meta describes Muse as a personal agent “built for everyone”. The launch comes at a time when AI agents have been making headlines for hacking into government websites, public agenc",
+      "author": "Carly Dober",
+      "summary": "Meta의 AI 비서 Muse를 비판하면서 AI 과의존이 뇌 능력을 약화시킨다고 경고했으며, 불편함과 지루함을 받아들일 것을 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2fd6835d39aa",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "당신이 거짓 고소와 심리 조종을 당할 때 – 흑인 역사의 달은 중요하다",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/31/black-history-month-debate-nativists",
+      "publishedAt": "2026-10-31T06:00:38.000Z",
+      "description": "There is always debate about the concept’s necessity and efficacy. But with nativists in their pomp, it’s good to focus on who we are and why What forces shaped four generations of Black Britons? | The panel Pity Black History Month UK, assailed on all sides. Those on the right seek to end the celebration on the basis that it amounts to special treatment for a group that doesn’t deserve it. History should be colour-blind: society should not differentiate, they say. We are not racist, we just want fairness. But often, they are – and they really don’t. On the other side of the argument are the p",
+      "author": "Hugh Muir",
+      "summary": "흑인 역사의 달에 대해 우파가 역차별 논리로 폐지를 주장하지만, 흑인들이 겪는 거짓 고소와 심리 조종을 고려할 때 흑인 역사의 달이 반드시 필요하다고 주장했다.",
+      "summarySource": "llm"
+    }
+  ],
+  "summarizedAt": "2026-11-01T00:50:24.980Z",
+  "summaryStats": {
+    "llm": 50,
+    "fallback": 0,
+    "model": "claude-haiku-4-5"
+  }
+}
