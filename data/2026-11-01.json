@@ -1,0 +1,899 @@
+{
+  "date": "2026-11-01",
+  "generatedAt": "2026-11-02T01:18:10.204Z",
+  "categories": [
+    {
+      "id": "it",
+      "label": "IT·과학·AI"
+    },
+    {
+      "id": "economy",
+      "label": "경제·금융"
+    },
+    {
+      "id": "politics",
+      "label": "정치·사회"
+    },
+    {
+      "id": "world",
+      "label": "세계·국제"
+    },
+    {
+      "id": "editorial",
+      "label": "사설·칼럼",
+      "opinion": true,
+      "summaryMaxChars": 220
+    }
+  ],
+  "feedStatus": [
+    {
+      "source": "Ars Technica",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "Hacker News",
+      "category": "it",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "TechCrunch",
+      "category": "it",
+      "ok": true,
+      "matched": 7
+    },
+    {
+      "source": "The Verge",
+      "category": "it",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "블로터",
+      "category": "it",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "전자신문",
+      "category": "it",
+      "ok": true,
+      "matched": 25
+    },
+    {
+      "source": "ZDNet Korea",
+      "category": "it",
+      "ok": true,
+      "matched": 28
+    },
+    {
+      "source": "BBC Business",
+      "category": "economy",
+      "ok": true,
+      "matched": 5
+    },
+    {
+      "source": "The Guardian",
+      "category": "economy",
+      "ok": true,
+      "matched": 13
+    },
+    {
+      "source": "매일경제 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 22
+    },
+    {
+      "source": "연합뉴스",
+      "category": "economy",
+      "ok": true,
+      "matched": 40
+    },
+    {
+      "source": "경향신문 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 40
+    },
+    {
+      "source": "경향신문 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 22
+    },
+    {
+      "source": "노컷뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 3
+    },
+    {
+      "source": "서울신문",
+      "category": "politics",
+      "ok": true,
+      "matched": 5
+    },
+    {
+      "source": "연합뉴스 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 20
+    },
+    {
+      "source": "연합뉴스 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 37
+    },
+    {
+      "source": "SBS 뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "Al Jazeera",
+      "category": "world",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC World",
+      "category": "world",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "NPR",
+      "category": "world",
+      "ok": true,
+      "matched": 5
+    },
+    {
+      "source": "The Guardian",
+      "category": "world",
+      "ok": true,
+      "matched": 5
+    },
+    {
+      "source": "연합뉴스 국제",
+      "category": "world",
+      "ok": true,
+      "matched": 63
+    },
+    {
+      "source": "매일경제 증권",
+      "category": "economy",
+      "ok": true,
+      "matched": 18
+    },
+    {
+      "source": "경향신문 오피니언",
+      "category": "editorial",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "NYT Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 5
+    },
+    {
+      "source": "The Guardian Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 7
+    },
+    {
+      "source": "Washington Post Opinions",
+      "category": "editorial",
+      "ok": false,
+      "error": "HTTP 502",
+      "matched": 0
+    },
+    {
+      "source": "동아일보 사설",
+      "category": "editorial",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "동아일보 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 18
+    },
+    {
+      "source": "조선일보",
+      "category": "politics",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "동아일보 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "머니투데이",
+      "category": "economy",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "Wired",
+      "category": "it",
+      "ok": true,
+      "matched": 10
+    },
+    {
+      "source": "DW News",
+      "category": "world",
+      "ok": true,
+      "matched": 15
+    }
+  ],
+  "items": [
+    {
+      "id": "8ca32e07052d",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "사상 첫 ‘수출 1조 달러’ 눈앞…9월 이어 10월에도 1100억 달러 넘어",
+      "link": "https://zdnet.co.kr/view/?no=20261101235028",
+      "publishedAt": "2026-11-01T14:50:28.000Z",
+      "description": "[지디넷코리아]사상 첫 수출 1조 달러 달성이 초읽기에 들어갔다.산업통상부는 10월 수출이 지난해 같은 달보다 93.7% 증가한 1152억 8000만 달러, 수입은 36% 증가한 727억 8000억 달러, 무역수지는 425억 달러를 기록했다고 1일 밝혔다. 10월까지 누적 수출은 9300억 달러로 사상 처음으로 9000억 달러를 넘어섰다. 1조 달러까지 남은 금액은 700억 달러다.수출은 지난달에 이어 2개월 연속으로 1100억 달러 이상을 기록했다. 반도체 수출은 259%, 반도체 외 품목 수출은 34% 증가했다. 조업일수를 고려한 하루평균 수출은 76% 증가한 52억 4000만 달러로 2개월 연속 50억 달러를 넘었다.10월에는 20대 주력 수출 품목 가운데 반도체를 비롯한 18개 품목 수출이 증가했다.반도체 수출은 259.4% 증가한 564억 4000만 달러를 기록했다. 산업부는 인공지능(AI) 산업 주도권 확보를 위한 글로벌 빅테크 기업의 설비 투자가 지속되며 높은 단가와 물량을 유지하면서 2개월 연속 500억 달러 이상을 기록했다고 분석했다.메모리 고정가격은 DDR516Gb가 지난 6월 40달러에서 10월 50달러로, NAND128Gb는 지난 8월 ",
+      "author": "주문정 기자",
+      "summary": "[지디넷코리아]사상 첫 수출 1조 달러 달성이 초읽기에 들어갔다.산업통상부는 10월 수출이 지난해 같은 달보다 93.7% 증가한 1152억 8000만 달러, 수입은 36% 증가한 727억 8000억 달러, 무역수지는 425억 달러를 기록했다고 1일 밝혔다.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "31b8003cdd2b",
+      "category": "it",
+      "source": "Hacker News",
+      "region": "intl",
+      "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+      "link": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+      "publishedAt": "2026-11-01T14:34:43.000Z",
+      "description": "Article URL: https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/ Comments URL: https://news.ycombinator.com/item?id=50326099 Points: 388 # Comments: 139",
+      "author": "entryleveljobsc",
+      "summary": "Article URL: https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/ Comments URL: https://news.ycombinator.com/item?id=50326099 Point…",
+      "summarySource": "rss"
+    },
+    {
+      "id": "b9273cfbb5b0",
+      "category": "it",
+      "source": "The Verge",
+      "region": "intl",
+      "title": "North Korea linked to massive Binance crypto heist",
+      "link": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
+      "publishedAt": "2026-11-01T14:33:11.000Z",
+      "description": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th. The FBI labeled the activity \"TraderTraitor\" and said that it had observed actors it has connected to hack converting the tokens to Ethereum and preparing for further laundering of the funds. The agency offered few other details or evidence. The statement says: North Korea Responsible for $6 Billion+ Binance Attack The Federal Bureau of Investigation (FBI) is releasing information advising the Democratic People's Republic of Korea (North Korea) was responsible for the theft of more than ",
+      "author": null,
+      "summary": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "38208e01c0f2",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "자배원, 경상환자 장기치료 심사체계 가동…피해자 보호도 강화",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=677330",
+      "publishedAt": "2026-11-01T14:30:00.000Z",
+      "description": "자동차손해배상진흥원이 자동차사고 경상환자의 8주 초과 장기치료 검토제도 시행에 맞춰 의료심사 전문성을 높이고 피해자 권익보호 체계를 정비하고 있다. 전문의료인을 대상으로 검토·심의 기준과 업무절차를 공유하는 한편 제도 관련 민원에 대응할 지원센터를 운영하고 외국인 자동차사고 피해자를 위한 상담창구도 마련했다. 장기치료 검토제도의 안정적인 정착과 함께 자동차사고 피해구제 기능을 확대하려는 움직임이다.1일 보험업계에 따르면 자배원은 지난달부터 자동차사고 경상환자의 8주 초과 추가치료 필요성과 적정 치료기간에 대한 검토업무를 시작했다.",
+      "author": "박준한 기자",
+      "summary": "자동차손해배상진흥원이 자동차사고 경상환자의 8주 초과 장기치료 검토제도 시행에 맞춰 의료심사 전문성을 높이고 피해자 권익보호 체계를 정비하고 있다. 전문의료인을 대상으로 검토·심의 기준과 업무절차를 공유하는 한편 제도 관련 민원에 대응할 지원센터를 운영하고 외국인 자동차사고 피해자를 위한 상담창구도 마련했다.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "74944b3c814d",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "비아트론, 소부장 으뜸기업 선정...\"120억원 규모 반도체 장비 개발\"",
+      "link": "https://zdnet.co.kr/view/?no=20261101230401",
+      "publishedAt": "2026-11-01T14:06:55.000Z",
+      "description": "[지디넷코리아]디스플레이 열처리 장비가 주력인 비아트론이 산업통상부 주관 '소재부품장비 으뜸기업'에 선정됐다고 1일 밝혔다. 비아트론은 국내 종합반도체 기업 등과 120억여원 규모 급속열처리(RTP) 장비를 개발한다. 비아트론은 \"반도체 공정에 필수인 RTP 기술 우수성과 경쟁력을 인정받았다\"며 \"고성능 열처리 기술을 기반으로 3D D램 등 차세대 3D 반도체 공정에 최적화한 RTP 장비를 개발할 계획\"이라고 설명했다. 비아트론은 증착과 식각 공정 챔버를 한 장비 안에 통합한 올인원 타입 플랫폼을 구축해 공정 효율과 생산성을 높일 계획이다. 비아트론은 \"기존 램프 기반 열처리 방식은 공정별로 상이한 온도 조건에 신속하게 대응하는 데 제약이 있었다\"며 \"레이저 기반의 빠르고 정밀한 온도 제어 기술로 한계를 개선하고, 기존 장비에서 구현하기 어려웠던 통합형 공정 플랫폼 개발을 추진하고 있다\"고 덧붙였다.비아트론은 \"반도체 소자가 초미세, 고집적화하면서 박막 품질을 좌우하는 열처리 공정 중요성이 커지고 있다\"며 \"RTP 기술 경쟁력을 강화해 글로벌 반도체 장비 시장에 성공적으로 진입하겠다\"고 말했다.",
+      "author": "이기종 기자",
+      "summary": "[지디넷코리아]디스플레이 열처리 장비가 주력인 비아트론이 산업통상부 주관 '소재부품장비 으뜸기업'에 선정됐다고 1일 밝혔다. 비아트론은 국내 종합반도체 기업 등과 120억여원 규모 급속열처리(RTP) 장비를 개발한다.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "c0f8e37d433c",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
+      "link": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/",
+      "publishedAt": "2026-11-01T14:00:00.000Z",
+      "description": "Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar.",
+      "author": "Tim De Chant",
+      "summary": "Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "c2bba9472338",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "IPARK현대산업개발, 자원순환·환경교육으로 ESG 실천",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=677356",
+      "publishedAt": "2026-11-01T14:00:00.000Z",
+      "description": "IPARK현대산업개발이 자원순환과 생명 존중, 미래세대 환경교육을 중심으로 임직원 참여형 사회공헌 활동을 확대하고 있다. 폐전자제품 기부와 유기동물 보호소 봉사, 초등학교 내 친환경 공간 조성 등을 통해 환경 보호와 지역사회 나눔을 실천하고 있다.1일 IPARK현대산업개발에 따르면 회사는 전문기관 및 지역사회 기관과 협력해 임직원이 직접 참여하는 사회공헌 활동을 추진하고 있다. 폐전자제품 회수·재활용 체계를 구축하고, 학생들이 자연을 접하며 환경의 중요성을 배울 수 있는 교육공간을 조성하는 방식이다.IPARK현대산업개발 사회공헌 관",
+      "author": "김호연 기자",
+      "summary": "IPARK현대산업개발이 자원순환과 생명 존중, 미래세대 환경교육을 중심으로 임직원 참여형 사회공헌 활동을 확대하고 있다.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "6f63bd729056",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "“어린 소녀들만 노렸다”… 日서 한국인 남성 성범죄 혐의로 5번째 체포",
+      "link": "https://www.etnews.com/20261101000105",
+      "publishedAt": "2026-11-01T13:30:00.000Z",
+      "description": "일본에서 미성년 여아를 상대로 한 성범죄 혐의로 네 차례나 체포됐던 20대 한국인 남성이 또다시 유사한 혐의로 경찰에 붙잡혀 충격을 주고 있다. 이번에는 중학교 1학년 여학생을 성폭행하고 범행 장면을 촬영한 혐의로, 다섯 번째 체포 사실이 알려지면서 논란이 일고 있다. 10월 27일 일본 마이니치방송(MBS)에 따르면 효고현 경찰은 한국 국적의 25세 무직 남성을 성폭행 등 혐의로 다시 체포했다. 이 남성은 지난 4월 사회관계망서비스(SNS)를",
+      "author": "서희원",
+      "summary": "일본에서 미성년 여아를 상대로 한 성범죄 혐의로 네 차례나 체포됐던 20대 한국인 남성이 또다시 유사한 혐의로 경찰에 붙잡혀 충격을 주고 있다. 이번에는 중학교 1학년 여학생을 성폭행하고 범행 장면을 촬영한 혐의로, 다섯 번째 체포 사실이 알려지면서 논란이 일고 있다.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "6776b0db619b",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "핵폭발에도 버틴다…중국이 짓는 '이동식 섬'",
+      "link": "https://www.etnews.com/20261030000274",
+      "publishedAt": "2026-11-01T13:30:00.000Z",
+      "description": "핵폭발 충격에도 버티는 '이동식 섬'이 중국에서 건조됩니다. 상하이교통대가 추진하는 '원해 부유도'는 바다 위에서 장기간 머물며 자체 동력으로 이동할 수 있는 반잠수식 해양 연구시설입니다. 최대 배수량은 약 7만4000톤으로 238명이 머물 수 있으며 시속 약 20km로 이동합니다. 선체 일부를 물속에 잠그는 구조를 적용해 거친 바다에서도 연구를 이어갈 수 있습니다. 연구진은 비상전원과 통신, 항법제어 등 핵심 구획을 핵폭발 충격으로부터 보호할",
+      "author": "이창민",
+      "summary": "핵폭발 충격에도 버티는 '이동식 섬'이 중국에서 건조됩니다. 상하이교통대가 추진하는 '원해 부유도'는 바다 위에서 장기간 머물며 자체 동력으로 이동할 수 있는 반잠수식 해양 연구시설입니다. 최대 배수량은 약 7만4000톤으로 238명이 머물 수 있으며 시속 약 20km로 이동합니다.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "02b88a159874",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "The 30 Best Gifts for Star Wars Fans (2026)",
+      "link": "https://www.wired.com/gallery/best-star-wars-gifts/",
+      "publishedAt": "2026-11-01T12:30:00.000Z",
+      "description": "From marble runs to advent calendars, these are the best Star Wars gifts for fans of all ages.",
+      "author": "Simon Hill",
+      "summary": "From marble runs to advent calendars, these are the best Star Wars gifts for fans of all ages.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "2ed8c48f5fc2",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "유리지갑 직장인만 강제로 모범납세자…사업자 소득 10조 뒷북확인",
+      "link": "https://www.mk.co.kr/news/economy/12193032",
+      "publishedAt": "2026-11-01T13:20:39.000Z",
+      "description": "국세청이 지난해 법인과 개인사업자를 대상으로 실시한 세무조사에서 10조원 넘는 소득을 추가로 확인한 것으로 나타났다. 최근 5년간 가장 큰 규모다. 특히 세무조사를 받은 개인사업자..",
+      "author": "매일경제",
+      "summary": "국세청이 지난해 법인과 개인사업자 세무조사에서 10조원 넘는 소득을 추가로 확인했으며, 이는 최근 5년간 최대 규모였다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "93c93a2f467d",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "바이낸스, 63억 달러 해킹 손실의 90% 보상",
+      "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-01T13:11:37.000Z",
+      "description": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
+      "author": null,
+      "summary": "암호화폐 거래소 바이낸스가 북한의 해킹으로 발생한 63억 달러 규모 손실의 90%를 보상하기로 했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3448243d39e3",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "영국 예산안에 숨겨진 아동·청소년·노숙자 지원 보호 조치",
+      "link": "https://www.theguardian.com/business/2026/nov/01/pdel-preventative-departmental-expenditure-limit-",
+      "publishedAt": "2026-11-01T12:36:48.000Z",
+      "description": "PDEL, which will ringfence money for preventive policies, marks a welcome and potentially consequential addition John Healey’s debut budget was far from a blockbuster, but it may come to be remembered for the birth of a plucky new character in the tax and spend universe – little PDEL. It may not have the charm of Disney’s Wall-E, but PDEL (pronounced P-Del), or preventative departmental expenditure limit, to give it its full name, marks a welcome, and potentially very consequential, addition. Continue reading...",
+      "author": "Heather Stewart",
+      "summary": "존 힐리 영국 재정장관의 첫 예산안에 예방적 지출 한도(PDEL)가 포함되어 아동, 청소년, 노숙자 지원에 자금을 보호할 수 있게 됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "835da4bc8b2d",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "\"운동화 선택지 많지만 이건 유일\"…주가 76% 폭등한 '구멍숭숭' 못난이 신발",
+      "link": "https://www.mk.co.kr/news/stock/12193024",
+      "publishedAt": "2026-11-01T12:12:44.000Z",
+      "description": "美크록스 실적·주가 쾌재 해외매출 전년대비 11% 늘고 애물단지 자회사 실적도 개선 죽자 39% 빠진 나이키와 비교구멍이 송송 뚫린 특이한 디자인으로 국내에서도 인기가 많은 미국 ..",
+      "author": "매일경제",
+      "summary": "미국 크록스가 실적과 주가에서 호조를 보이며 해외매출은 전년대비 11% 증가했고, 나이키 주가 39% 하락과 대조를 이뤘다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "cb183912350d",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "런던 번화가 슬롯머신 바, 빙고홀 허점으로 세금인상 회피 가능",
+      "link": "https://www.theguardian.com/society/2026/nov/01/high-street-slot-farms-budget-tax-rise-business-rates-bingo-licence-loophole",
+      "publishedAt": "2026-11-01T12:04:59.000Z",
+      "description": "Hundreds of adult gaming centres in England have bingo licences that still qualify them for discounted business rates Hundreds of high street “slot farms” could continue claiming a discount on their business rates, unless the government closes a loophole that allows them to pose as bingo halls. John Healey singled out adult gaming centres (AGCs) in his first budget this week, in which he increased duty on slot machine takings from 20% to 25%, claiming he was “raising taxes on gambling to support good growth on every high street”. Continue reading...",
+      "author": "Rob Davies",
+      "summary": "영국의 수백 개 성인 게임센터들이 빙고홀 면허를 이용해 정부의 슬롯머신 세금 인상(20%→25%)을 피할 수 있으며, 정부가 허점을 막지 않으면 계속 할인된 사업세율을 받을 수 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9f13f6ffc845",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "생활비 인상 항의 시위가 폭력화되며 독일 상점 약탈",
+      "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-01T11:57:48.000Z",
+      "description": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+      "author": null,
+      "summary": "베를린, 함부르크, 프랑크푸르트 등 독일 전역에서 생활비 인상에 항의하는 시위가 폭력화되어 상점 약탈이 발생했으며, 같은 날 수십만 명이 프랑스에서도 시위를 벌였다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6a27ef934a7c",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "\"미장할 시간인데 주식창 왜 얼었죠?\"…서머타임 해제에 1시간 뒤로",
+      "link": "https://www.mk.co.kr/news/stock/12192998",
+      "publishedAt": "2026-11-01T11:20:26.000Z",
+      "description": "증시 개장도 1시간 늦춰미국의 일광절약 시간제(서머타임)가 11월 1일(현지시간) 해제되면서 한국과 미국 주요 지역의 시차가 1시간 늘어났다. 이에 따라 미국 동부와 한국의 시차는..",
+      "author": "매일경제",
+      "summary": "미국의 서머타임이 11월 1일 해제되면서 한국과 미국 동부의 시차가 1시간 늘어났고, 미국 증시 개장 시간도 1시간 늦춰졌다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c0c3f96dfda1",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "이형일, 경제현안간담회서 주택공급·일자리 논의",
+      "link": "https://www.yna.co.kr/view/AKR20261101046100002",
+      "publishedAt": "2026-11-01T10:40:44.000Z",
+      "description": "(세종=연합뉴스) 송정은 기자 = 이형일 부총리 겸 재정경제부 장관은 1일 경제현안간담회를 열고 주택공급 추진방안, 3대 민생 프로젝트 중 국민...",
+      "author": "송정은",
+      "summary": "이형일 부총리 겸 재정경제부 장관이 경제현안간담회를 열어 주택공급 추진방안과 3대 민생 프로젝트를 논의했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8a5781ccfa53",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "한국 수출 '꿈의 1조달러' 달성 초읽기",
+      "link": "https://www.mk.co.kr/news/economy/12192946",
+      "publishedAt": "2026-11-01T08:37:10.000Z",
+      "description": "한국의 연간 누적 수출이 사상 처음으로 9000억달러를 돌파했다. 반도체 호황과 바이오·화장품 선전에 힘입어 이달 중 미국과 중국, 독일에 이어 세계에서 네 번째로 '꿈의 1조달러..",
+      "author": "매일경제",
+      "summary": "한국의 연간 수출이 사상 처음 9000억달러를 넘었으며, 반도체 호황과 바이오·화장품 호조에 힘입어 이달 중 1조달러 달성을 목표로 하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "bf55a5e744cc",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "똑똑해진 아파트, 개인정보 안전할까…건설사 해킹에 보안 우려",
+      "link": "https://www.yna.co.kr/view/AKR20261031047451003",
+      "publishedAt": "2026-11-01T06:57:48.000Z",
+      "description": "(세종=연합뉴스) 오진송 기자 = 스마트폰을 통한 커뮤니티 시설 예약부터 얼굴인식 출입시스템까지 아파트 생활이 첨단화하는 가운데 GS건설 해킹 ...",
+      "author": "오진송",
+      "summary": "스마트폰 커뮤니티 예약과 얼굴인식 출입시스템 등으로 첨단화된 아파트 기술이 늘어나는 가운데, GS건설 해킹 사건으로 개인정보 보안에 대한 우려가 제기됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b6a1b69d304c",
+      "category": "politics",
+      "source": "노컷뉴스",
+      "region": "kr",
+      "title": "농기평, K-농산물 기반 맞춤형 영유아식 26종 개발…300만 달러 수출 MOU",
+      "link": "https://www.nocutnews.co.kr/news/6600262",
+      "publishedAt": "2026-11-01T14:51:35.000Z",
+      "description": "우리 농산물로 만든 K-영유아식품이 동남아시아를 비롯한 글로벌 시장 진출에 속도를 내고 있다. 농림식품기술기획평가원(이하 농기평)은 농림축산식품부 지원을 통해 아시아 신흥국 소비자의 기호와 시장 특성을 반영한 영유아식품 26종을 개발·상품화하고, 총 300만 달러 규모의 수출 MOU를 체결하는 성과를 거뒀다고 1일 밝혔다. 베트남을 비롯한 아시아 신흥국의 경제성장과 한류·K-푸드 확산 등에 따라 프리미엄 영유아식품에 대한 관심이 높아지고 있는 가운데 국가별 식문화와 소비자 기호, 인허가·유통환경이 달라 현지 수요를 반영한 제품 개발부터 생산·유통·수출까지 연계한 맞춤형 전략이 필요하다. 이에 ㈜에코맘의산골이유식 연구팀은 '국제협력기반수출농업경쟁력강화기술개발사업'을 통해 2023년부터 약 3년간 현지 시장과 소비자 기호도를 조사하고, 영유아의 성장단계와 섭취 편의성, 현지에서 선호하는 맛과 식품 형태 등을 반영해 단계별 실온 이유식 20종, 키성장 과채음료 3종, 두뇌발달 과일퓨레 3종 등 총 26종의 맞춤형 영유아식품을 개발·상품화했다. 연구팀은 약 3년간 아시아 신흥국(베트남, 태국 등)의 식문화, 소비 트렌드 및 현지 영유아의 영양 수요를 분석했다. 이를",
+      "author": null,
+      "summary": "농기평이 아시아 신흥국의 소비 특성을 반영한 맞춤형 영유아식품 26종을 개발해 300만달러 규모의 수출 MOU를 체결했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9dcf48010712",
+      "category": "politics",
+      "source": "조선일보",
+      "region": "kr",
+      "title": "\"그래도 박정희가 애국자데이\"… '항명 파동'으로 유배된 아버지가 말했지",
+      "link": "https://www.chosun.com/opinion/2026/11/01/BYP2MPAS4FF6PO3WXXPAYYLZPQ/",
+      "publishedAt": "2026-11-01T14:46:00.000Z",
+      "description": "",
+      "author": "김윤덕 선임기자",
+      "summary": "항명 파동으로 유배를 당한 아버지가 박정희가 애국자라고 말했다고 전해졌다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8efe2c32db7d",
+      "category": "politics",
+      "source": "서울신문",
+      "region": "kr",
+      "title": "'보수 3파전' 신호탄… 장동혁 독주, 오세훈 \"한동훈 배제 안 해\"",
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20261102006005",
+      "publishedAt": "2026-11-01T14:19:34.000Z",
+      "description": "張, 조기 퇴진론 차단… 연임 시동 吳, 여권 빅텐트 맞설 연대 움직임 韓, 장외서 중진 세력과 독자 행보 장동혁 국민의힘 대표의 연임 도전 움직임이 포착되면서 보수야권의 권력 재편을 둘러싼 물밑 탐색전이 본격화하고 있다. 사법 리스크를 상당 부분 덜어내며 입지가 강해진 오세훈 서울시장과 향후 ‘반장(반장동혁)’ 연대에서 역할론이 거론되는 한동훈 무소속 의원 등 3인 간 대결도 점차 뜨거워질 전망이다. 당내에선 장 대표의 연임 도전을 기정사실로 보는 분위기다. 일각에선 내년 4월 재보궐선거 이후 조기 사퇴 전망도 나오지만, 장 대표 측에선 이번 임기를 우선은 다 채우는 것이 유리하다고 보는 것으로 전해졌다. 장 대표 측 핵심 관계자는 1일 서울신문과의 통화에서 “마지막 날까지 해야 할 일을 할 것”이라고 말했다. 장 대표는 강성 당원들의 지지를 연임의 강력한 동력으로 삼고 있다. 장 대표는 이날 MBN에 출연해 “지도부의 리더십을 흔들려는 움직임들이 있었지만 당원들께서 든든히 지켜줘 지금까지 당대표 자리에 있게 됐다”고 말했다. 하지만 당내에선 강성 지지층에 기댄 장 대표의 연임 도전에 부정적인 시각이 적지 않다. 한 재선 의원은 “이미 구주류 대부분이 ‘장",
+      "author": "손지은 기자",
+      "summary": "국민의힘 장동혁 대표가 연임을 추진하면서 보수진영의 권력 재편을 놓고 오세훈, 한동훈과의 3파전이 본격화하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "76fde37647e5",
+      "category": "politics",
+      "source": "SBS 뉴스",
+      "region": "kr",
+      "title": "[단독] 훈련기끼리 공중에서 '쾅'…충돌사고 숨긴 공군",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008825244",
+      "publishedAt": "2026-11-01T13:44:00.000Z",
+      "description": "음주 간담회가 열린 공군 3훈련비행단에선 훈련기가 공중에서 충돌하는 사고도 났던 걸로 확인됐습니다. 두 달 전, KT-1 훈련기 2대가 공중 충돌한 뒤 비상 착륙한 겁니다.",
+      "author": "oneway@sbs.co.kr (김태훈)",
+      "summary": "공군 3훈련비행단 소속 KT-1 훈련기 2대가 공중에서 충돌해 비상착륙했으나 공군이 이를 숨겼다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "33e6ee622134",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "미 FBI \"바이낸스 해킹 배후는 북한\"…'인류 최대 은행 강도 사건'",
+      "link": "https://www.khan.co.kr/article/202611012151005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-11-01T12:51:00.000Z",
+      "description": "북 조직 ‘트레이더트레이터’ 지목가상자산 63억달러 탈취에 ‘20분’미국 연방수사국(FBI)이 세계 최대 가상자산거래소 바이낸스에서 발생한 약 63억달러(약 8조4000억원) 규모 해킹 사건의 배후로 북한을 지목했다. 이번 사건은 가상자산 역사상 단일 해킹으로는 최대 규모다. 북한의 해킹 공격이 갈수록 대담하고 정교해지고 있다는 분석이 나온다. FBI는 ···",
+      "author": "워싱턴 | 정유진 특파원",
+      "summary": "FBI가 가상자산거래소 바이낸스에서 발생한 약 63억달러 규모 해킹 사건의 배후를 북한의 해킹 조직으로 지목했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1713f945460b",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "공군 KT-1 훈련기 2대 공중 충돌…인명 피해는 없어",
+      "link": "https://www.donga.com/news/Politics/article/all/20261101/134947110/1",
+      "publishedAt": "2026-11-01T12:47:00.000Z",
+      "description": "지난 9월 공군 제3훈련비행단 소속 KT-1 훈련기 2대가 공중 충돌한 사실이 뒤늦게 알려졌다. 비상 착륙에 성공해 인명 피해는 발생하지 않았다.1일 공군에 따르면 지난 9월 1일 오전 9시 17분쯤 경남 사천 공군기지 인근 상공에서 3훈비 소속 KT-1 훈련기 2대가 착륙 절차를 밟다가 충돌했다.당시 훈련기 1대는 엔진 비상 상황을 가정한 훈련 중이었고, 다른 1대는 착륙을 위해 선회 비행하며 기지로 접근 중이었다. 두 기체는 서로의 위치를 알지 못한 채 거리를 좁혀가다 부딪혔으며, 한 기체의 날개가 다른 기체의 동체와 서로 부딪혔다.사고 이후 훈련기 2대 모두 비상 착륙에 성공했고, 조종사 부상 등 인명피해는 없었던 것으로 파악됐다. 훈련기들은 파손 및 손상 부위에 대한 수리를 진행 중인 것으로 확인됐다. 이번 사고는 조종사의 전방주시 미흡이 원인이 된 것으로 파악됐으며, 관련자들은 현재 문책위원회에 회부된 상황이다. 문책위는 징계위원회랑 별도로 비행 관련 사고 발생 시",
+      "author": null,
+      "summary": "9월 1일 사천 공군기지 인근에서 KT-1 훈련기 2대가 공중 충돌해 비상착륙했으나 조종사의 전방주시 미흡이 원인으로 파악되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3182a41bdc53",
+      "category": "politics",
+      "source": "연합뉴스 사회",
+      "region": "kr",
+      "title": "사천 공군기지 KT-1 훈련기 '아찔' 공중충돌…부상자 없어",
+      "link": "https://www.yna.co.kr/view/AKR20261101049800504",
+      "publishedAt": "2026-11-01T12:23:48.000Z",
+      "description": "(서울=연합뉴스) 전명훈 기자 = 공군 제3비행단 소속 KT-1 훈련기 2대가 공중에서 충돌하는 사고가 발생했던 것으로 1일 뒤늦게 알려졌다.",
+      "author": "전명훈",
+      "summary": "공군 제3비행단 소속 KT-1 훈련기 2대가 공중에서 충돌했으나 부상자는 발생하지 않았다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5d81062ee142",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "방미길 오른 與진성준 \"출국직전까지 美비자 불투명, 대단히 유감\"",
+      "link": "https://www.yna.co.kr/view/AKR20261101049100001",
+      "publishedAt": "2026-11-01T12:20:55.000Z",
+      "description": "(서울=연합뉴스) 박재하 기자 = 더불어민주당 소속 국회 국방위원회 위원장인 진성준 의원이 1일 국회 방미단과 함께 출국하면서 \"비자 발급이 거...",
+      "author": "박재하",
+      "summary": "더불어민주당 진성준 의원이 국회 방미단과 함께 출국하면서 미국 비자 발급이 출국직전까지 불투명했다고 유감을 표했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "09b6d2039cf7",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "[포토뉴스]지하철서 듣는 나태주 시인의 낭송…'시의 날' 행사",
+      "link": "https://www.khan.co.kr/article/202611012106045/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-11-01T12:06:04.000Z",
+      "description": "시인 나태주씨(가운데)가 ‘시의 날’을 맞아 1일 서울 지하철 2호선 내선순환 열차에서 열린 ‘시 읽는 서울지하철’ 행사에서 시를 낭독하고 있다.",
+      "author": "공동취재단",
+      "summary": "시인 나태주가 1일 서울 지하철 2호선에서 열린 '시 읽는 서울지하철' 행사에서 시를 낭독했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "4b18b35527a2",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "직업계고 현장실습생 산재 느는데…안전교육은 '형식적'",
+      "link": "https://www.khan.co.kr/article/202611012106025/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-11-01T12:06:02.000Z",
+      "description": "학교 산업안전교육 ‘온라인’ 중심…기업 현장교육도 평가 장치 없어작년 산재 신청 2배로…“안전수칙 숙지 등 실질적 관리·감독 강화를”직업계고등학교 현장실습생의 산업재해가 늘고 있지만 관련 안전교육은 형식적인 수준에 머물러 있는 것으로 나타났다. 학교 안전교육은 온라인 수업으로 대체할 수 있는 데다 기업 현장교육도 실시 여부만 확인할 뿐 실제 교육 효과를 평···",
+      "author": "우혜림 기자",
+      "summary": "직업계고 현장실습생의 산업재해가 증가하고 있으나 학교의 온라인 중심 안전교육과 기업 현장교육이 형식적인 수준에 머물러 있는 것으로 나타났다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "cc86e8190b9a",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "프랑스, 경찰 공격으로 살인미수 혐의 수사 개시",
+      "link": "https://www.dw.com/en/france-opens-attempted-murder-probe-after-protest-attack/a-79822853?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-11-01T14:50:00.000Z",
+      "description": "Paris prosecutors have opened an attempted murder investigation after a Molotov attack on police. France reported 779 arrests during nationwide protests and Halloween night, fewer than on previous weekends.",
+      "author": null,
+      "summary": "파리 검찰이 할로윈 밤 경찰을 대상으로 한 몰로토프 칼테일 공격 사건으로 살인미수 수사를 개시했습니다. 프랑스는 전국 시위 중 779명을 체포했습니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ab75559bd0cd",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "우크라이나 올레시키 국지휴전 6일 만에 종료",
+      "link": "https://www.dw.com/en/ukraine-six-day-localized-ceasefire-in-oleshky-comes-to-end/live-79815409?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-11-01T14:13:00.000Z",
+      "description": "A US-brokered ceasefire in Ukraine's southern Kherson region ended on Sunday night with no violations reported. But Russian drones and missiles hit other regions in Ukraine.",
+      "author": null,
+      "summary": "미국이 중재한 우크라이나 헤르손 지역의 6일간 국지휴전이 일요일 밤 종료됐습니다. 휴전 기간 위반 사항은 없었으나 러시아군이 우크라이나 다른 지역을 드론과 미사일로 공격했습니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e19dc377002a",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "호주 주택 가격 7개월 연속 하락, 40년 만의 낙폭",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/02/home-values-fall-for-seventh-month-interest-rates-dent-property-demand",
+      "publishedAt": "2026-11-01T14:00:18.000Z",
+      "description": "Centre of downturn shifts away from Sydney and Melbourne, but after such strong growth most homeowners still sit on sizeable gains Get our breaking news email, free app or daily news podcast Australian home values have dropped for a seventh consecutive month, with prices in the capital cities now falling at the fastest pace in 40 years as rising mortgage rates scare off buyers. Cotality data shows the centre of the downturn is also shifting away from Sydney and Melbourne towards the mid-sized state capital cities, with Brisbane and Perth leading October’s declines. Continue reading...",
+      "author": "Jonathan Barrett Business editor",
+      "summary": "호주 주택 가격이 7개월 연속 하락했으며 금리 상승으로 인한 수요 감소가 주요 원인입니다. 가격 하락이 시드니·멜버른에서 브리즈번·퍼스 등 중규모 도시로 확산되면서 최근 40년 중 최대 낙폭을 기록했습니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2c64af5e9154",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "호주 자유당 출신, 원 네이션(One Nation) 후보 선정 주도",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/02/former-nsw-liberal-leads-overhaul-of-one-nation-candidate-selection-process-ntwnfb",
+      "publishedAt": "2026-11-01T14:00:15.000Z",
+      "description": "Exclusive: Mark Jones, once on track for one of the Liberal party’s most powerful roles, is now instrumental in One Nation’s expansion Get our daily political email, free app or daily news podcast In 2023, a young and ambitious Liberal moderate was on the brink of securing one of the most powerful roles in the party: state director of the New South Wales branch. Three years later, he is playing a key role in selecting and vetting One Nation candidates determined to beat his former colleagues. Multiple Liberal sources familiar with recruitment for the position, which involves running election c",
+      "author": "Henry Belot and Penry Buckley",
+      "summary": "호주 자유당 뉴사우스웨일즈 주 지부 주도권을 노릴 수 있었던 마크 존스가 현재 원 네이션의 후보자 선정 및 심사 과정을 주도하고 있습니다. 그는 자신의 전직 동료들을 물리칠 목표의 당 확장에 핵심 역할을 하고 있습니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "37bff0511d87",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "이란 외무 \"카타르 중재 협의 진전…최종 타결은 美답변에 달려\"",
+      "link": "https://www.yna.co.kr/view/AKR20261101050800079",
+      "publishedAt": "2026-11-01T13:45:33.000Z",
+      "description": "(카이로=연합뉴스) 김상훈 특파원 = 이란 고위급 외교 대표단이 중재국 카타르를 방문해 미국과 평화 협상을 위한 논의를 이어가고 있으나 아직 최...",
+      "author": "김상훈",
+      "summary": "이란 고위급 외교 대표단이 카타르를 방문해 미국과의 평화 협상 협의를 진행 중입니다. 협상의 최종 타결은 미국의 답변에 달려 있는 상황입니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "fc19e670d84b",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "연장없는 국지휴전…러·우크라, 에너지시설 난타전(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261101039851109",
+      "publishedAt": "2026-11-01T13:22:35.000Z",
+      "description": "(로마=연합뉴스) 민경락 특파원 = 러시아와 우크라이나는 올레시키 국지 휴전의 마지막 날인 1일(현지시간) 휴전 연장 없이 서로의 에너지 시설을...",
+      "author": "민경락",
+      "summary": "러시아와 우크라이나는 올레시키 국지 휴전이 종료된 1일 연장 없이 서로의 에너지 시설을 공격했습니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b6a44f0caf25",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "크루즈선 급작스러운 운항 중단, 승객들 캄보디아에서 하선",
+      "link": "https://www.npr.org/2026/11/01/nx-s1-6022214/they-signed-up-for-a-lifetime-at-sea-on-an-endless-cruise-high-gas-prices-intervened",
+      "publishedAt": "2026-11-01T13:15:28.000Z",
+      "description": "A cruise ship suspended operations suddenly, citing soaring fuel costs. Passengers, including Randy Cassingham, had to disembark in Cambodia. NPR's Ayesha Rascoe talks to Cassingham about the ordeal.",
+      "author": "Ayesha Rascoe",
+      "summary": "급등한 연료비로 인해 크루즈선이 운영을 갑자기 중단했고, 랜디 캐싱엄 등 승객들이 캄보디아에서 강제 하선했습니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "93c93a2f467d",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "바이낸스, 63억 달러 규모 해킹 손실의 90% 충당",
+      "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-01T13:11:37.000Z",
+      "description": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
+      "author": null,
+      "summary": "FBI가 북한을 바이낸스 해킹의 배후로 지목했습니다. 바이낸스는 63억 달러 규모의 해킹 손실 중 90%를 충당했습니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9f13f6ffc845",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "독일 생활비 시위 폭력화, 상점 약탈 발생",
+      "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-01T11:57:48.000Z",
+      "description": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+      "author": null,
+      "summary": "독일의 생활비 관련 시위가 폭력사태로 확대되면서 베를린, 함부르크, 프랑크푸르트 등 주요 도시의 상점들이 약탈당했습니다. 같은 날 프랑스에서도 수십만 명의 시위가 있었습니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c443e30b8362",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "루비오 국무장관, G20 외교장관 회의 개최, 각국 입장차 난항",
+      "link": "https://www.npr.org/2026/10/31/nx-s1-6022223/secretary-rubio-has-a-tough-time-getting-officials-at-g20-on-the-same-page",
+      "publishedAt": "2026-10-31T21:14:34.000Z",
+      "description": "U.S. Secretary of State Marco Rubio is hosting the G20 foreign ministers' meeting in Atlanta, with a focus on economic and security challenges.",
+      "author": "Michele Kelemen",
+      "summary": "마르코 루비오 미국 국무장관이 애틀란타에서 G20 외교장관 회의를 주최했으며 경제와 안보 과제가 논의되었습니다. 회의에서 여러 국가 간 입장차를 조율하는 데 어려움을 겪었습니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3da323b44745",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]FBI \"바이낸스 8조 해킹 뒤에 北\"… 보안 사각 韓 거래소도 비상",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261101/134946784/2",
+      "publishedAt": "2026-11-01T14:30:00.000Z",
+      "description": "지난달 29일 세계 최대 가상자산 거래소인 바이낸스에서 불과 20여 분 만에 63억 달러(약 8조4000억 원) 상당의 비트코인, 이더리움 등 가상화폐가 탈취됐다. 미국 연방수사국(FBI)은 역대 최대 규모의 이번 해킹의 배후로 북한을 지목했다. 북한의 해킹 수법이 세계 1위 거래소의 빗장을 풀고 북한 국민총소득(GNI)의 약 5분의 1에 해당하는 거액을 순식간에 빼갈 정도로 위협적 수준에 도달한 것이다. FBI는 해킹 주체로 북한 해킹 조직인 ‘트레이더트레이터(TraderTraitor)’를 특정했다. 이들은 지난해 15억 달러의 피해를 일으킨 바이비트 해킹 등 2023년 이후 최소 3건의 가상자산 해킹에 연루된 것으로 알려진 북한 해킹 그룹이다. 바이낸스의 방어망은 이들의 공격에 무력했다. 보안팀이 해킹을 알아챈 지 불과 20여 분 만에 60억 달러의 가상자산이 수차례에 걸쳐 무단으로 빠져나갔다. “바이낸스 임원진들은 공포에 질려 지켜보기만 했다”고 외신들은 전했다. 바이낸스 측",
+      "author": null,
+      "summary": "동아일보는 바이낸스의 63억 달러 해킹이 북한 해킹 조직에 의한 것이며 세계 1위 거래소의 보안도 무력했다고 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e994d232e54a",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]오피스텔 전세가율 85%… 전세 사기 경고등 다시 켤 때",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261101/134946788/2",
+      "publishedAt": "2026-11-01T14:27:00.000Z",
+      "description": "전국 오피스텔 전세가율(집값 대비 전셋값)이 85%를 넘어 2011년 통계 작성 이후 최고치를 기록했다. 특히 전용면적 30㎡ 이하 초소형 오피스텔은 전세가율이 89.9%에 달했다. 서울을 중심으로 아파트 매매·전세·월세 가격이 동시에 오르는 ‘트리플 강세’가 나타나면서, 상대적으로 자금 부담이 적은 오피스텔에 거주하려는 수요가 늘어난 영향으로 풀이된다. 한동안 침체됐던 연립·다세대주택(빌라) 시장도 최근 전월세 수요가 몰리며 다시 들썩이고 있다. 한국부동산원에 따르면 서울의 연립·다세대주택 전셋값은 올해 9월까지 누적 상승률이 4.7%로 지난해 같은 기간 상승률(1.0%)을 크게 웃돌았다. 전세가율도 반등해 서울 일부 자치구에선 80%에 육박한다. 문제는 빌라·오피스텔의 매매가와 전세보증금의 차이가 좁아질수록 전세사기가 재연될 위험이 커진다는 점이다. 4년 전 ‘빌라왕’ 등으로 불렸던 전세사기범들은 자기 돈을 거의 들이지 않는 ‘무자본 갭투자’ 방식으로 주택을 대거 사들였다.",
+      "author": null,
+      "summary": "동아일보는 오피스텔 전세가율이 사상 최고로 상승하면서 과거 '무자본 갭투자' 방식의 전세사기가 재연될 위험이 커진다고 경고했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9ad530b07d1e",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]국민연금 수급자 800만… '넓고 얕은' 기초연금 재설계를",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261101/134946786/2",
+      "publishedAt": "2026-11-01T14:24:00.000Z",
+      "description": "올해 국민연금 수급자가 800만 명을 넘어섰다. 4년 뒤면 1000만 명을 넘어설 것으로 전망된다. 1988년 처음 도입된 국민연금 제도가 수급자와 수령액이 빠르게 늘며 실질적인 노후 보장 제도로 성숙하고 있는 것이다. 이에 따라 국민연금을 보충하기 위해 도입됐던 고령자를 위한 기초연금도 재설계해야 할 필요성이 커지고 있다. 기초연금의 전신인 기초노령연금이 도입된 2008년 우리나라의 노인 빈곤율은 44.8%였다. 그러나 국민연금 수급자는 약 253만 명, 평균 연금액은 월 32만 원에 불과했다. 수급자 규모도 작았고, 연금액 역시 노후 생활을 영위하기에 턱없이 부족했다. 올해 국민연금 수급자와 평균 연금액(약 70만 원)은 각각 당시의 3배, 2배가 됐다. 국민연금만으로 노후 생활비를 온전히 충당하기는 어렵지만, 제도가 성숙할수록 연금액은 점차 늘어날 것이다. 실제 국민연금 수급자 7명 중 1명은 월 100만 원 이상을 받고 있다. 이제 노인 빈곤 문제의 본질은 빈곤율 수치 자",
+      "author": null,
+      "summary": "동아일보는 국민연금이 수급자 3배, 평균액 2배로 성숙하면서 노인 빈곤 해결 정책도 새로 설계해야 한다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "fa81942eef54",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "피자게이트 10년, 미국에 끼친 영향",
+      "link": "https://www.nytimes.com/2026/11/01/opinion/pizzagate-conspiracy-epstein.html",
+      "publishedAt": "2026-11-01T14:16:37.000Z",
+      "description": "A decade after the Pizzagate theory began, the Epstein files give the conspiracy theory a new life.",
+      "author": "Anna Merlan",
+      "summary": "Anna Merlan은 피자게이트 음모론이 에프스타인 파일로 인해 새로운 생명력을 얻었다고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f4c437f6fc0f",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "삶의 고통 속 순간의 기쁨이 신경계를 쉬게 한다",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/02/life-is-full-of-suffering-but-leaning-into-moments-of-pleasure-can-allow-the-nervous-system-to-rest",
+      "publishedAt": "2026-11-01T14:00:19.000Z",
+      "description": "The simplicity of breathing; the sweetness of laughter; the privilege of lying on a bed. Buddhism teaches us how to enjoy the small pleasures Making sense of it is a column about spirituality and how it can be used to navigate everyday life There is a particular Buddhist story that reassured me I had found the right path. The story goes that Prince Siddhartha Gautama was deep in spiritual practice – arduous, unforgiving practice. He had tried everything from breath-holding to extreme fasting. But none of it brought the freedom from suffering he sought. Continue reading...",
+      "author": "Nadine Levy",
+      "summary": "Nadine Levy는 불교의 가르침에 따라 호흡, 웃음, 편안함 같은 작은 쾌락의 순간이 신경계의 휴식을 가져온다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c5ff2792d534",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "미국 건국자들의 대통령 사면권 부여는 중대한 오류였다",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/01/president-trump-pardon-power",
+      "publishedAt": "2026-11-01T14:00:17.000Z",
+      "description": "Trump’s utter abuse of the power proves it. As the midterms approach, voters have not forgotten January 6 From betraying Ukraine and dispatching masked agents who killed Americans to deporting US citizens and pulling out of accords controlling climate change and Iranian nuclear weapons, the list of Donald Trump’s abuses is long and growing still longer, seemingly by the day. Looking back decades from now, historians will see that at the top of this shameful list is Trump’s utter abuse of his pardon power. It started on the first day of his second term, when he pardoned more than 1,500 insurrec",
+      "author": "James Rosen",
+      "summary": "James Rosen은 트럼프의 사면권 남용이 미국 건국자들의 큰 실수임을 증명한다고 비판하며, 우크라이나 배신, 국민 해외 추방, 기후·핵 협정 탈퇴 등 남용 사례를 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "142a1f9307cc",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "노숙자 정책, 덴버에서 배우다",
+      "link": "https://www.nytimes.com/2026/11/01/opinion/homelessness-denver.html",
+      "publishedAt": "2026-11-01T14:00:06.000Z",
+      "description": "Readers discuss the city’s policies and offer their own suggestions. Also: An A.I. monster?",
+      "author": null,
+      "summary": "독자들이 덴버의 노숙자 지원 정책에 대해 각각의 의견을 나누고 개선방안을 제시했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "86b5ddb8636d",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[알림]정책토론회-AI 시대의 양극화 현상: 진단과 해법",
+      "link": "https://www.khan.co.kr/article/202611012140005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-11-01T12:40:00.000Z",
+      "description": "대한민국헌정회(회장 정대철)와 한국사회정책학회(회장 이주하)가 ‘인공지능(AI) 시대의 양극화 현상: 진단과 해법’을 주제로 정책토론회를 개최합니다. 대통령직속 기본사회위원회·경향신문 후원으로 열리는 이번 토론회는 이재명 정부가 AI 반도체 대기업 지원에 주력하는 가운데 양극화 해소 정책이 부재하다는 문제의식하에 다양한 정책적 대안을 토론하기 위해 기획됐습···",
+      "author": null,
+      "summary": "대한민국헌정회와 한국사회정책학회가 AI 시대 양극화 현상의 진단과 해법을 주제로 정책토론회를 개최한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c2b5edbade54",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[NGO 현장]10년 미룬 '부양의무자 기준' 폐지",
+      "link": "https://www.khan.co.kr/article/202611012009015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-11-01T11:09:01.000Z",
+      "description": "2008년, 한 사람이 기초생활수급 신청을 하려다 포기했다. 심사 과정에서 부모에게 연락이 간다는 주민센터의 안내를 들어서다. 나이 든 부모에게 어려운 처지를 알리고 싶지 않았던 그는 이후 거리에서 생활했다. 2018년 부모가 세상을 떠났다는 사실을 알고 나서야 다시 신청했다. 10년이 걸렸다. 지금은 공공임대주택에 살지만 희귀질환을 얻었다.지난달 28일,···",
+      "author": "이재임 빈곤사회연대 활동가",
+      "summary": "이재임 활동가는 부양의무자 기준으로 인해 10년간 어려움을 겪던 사례를 통해 기준 폐지의 필요성을 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "29666b6a2d94",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[황규관의 전환의 상상력]AI는 구세계의 극단적인 폭력",
+      "link": "https://www.khan.co.kr/article/202611012009005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-11-01T11:09:00.000Z",
+      "description": "우리나라의 2분기 무역흑자가 1166억달러로 중국에 이어 세계 2위를 기록했다는 기사가 보도됐다. 독일과 일본의 흑자 규모를 합친 것보다 많고, 중국의 1937억2000만달러에 이어 두 번째로 큰 규모다. 바야흐로 국운의 상승기인가? 유례없는 경상수지 흑자는 물론 반도체 덕분이다. 그것도 반도체 가격의 폭등 때문이다. 아무튼 대한민국의 경제적 위상이 이재명···",
+      "author": "황규관 시인",
+      "summary": "황규관 시인은 한국의 사상 최고 무역흑자가 반도체 덕분이지만, AI 시대의 경제 변화에 대해 깊이 있는 성찰이 필요하다고 주장했다.",
+      "summarySource": "llm"
+    }
+  ],
+  "summarizedAt": "2026-11-02T01:24:45.325Z",
+  "summaryStats": {
+    "llm": 40,
+    "fallback": 10,
+    "model": "claude-haiku-4-5"
+  }
+}
