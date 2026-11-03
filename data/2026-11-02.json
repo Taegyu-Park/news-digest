@@ -1,0 +1,899 @@
+{
+  "date": "2026-11-02",
+  "generatedAt": "2026-11-03T03:19:41.934Z",
+  "categories": [
+    {
+      "id": "it",
+      "label": "IT·과학·AI"
+    },
+    {
+      "id": "economy",
+      "label": "경제·금융"
+    },
+    {
+      "id": "politics",
+      "label": "정치·사회"
+    },
+    {
+      "id": "world",
+      "label": "세계·국제"
+    },
+    {
+      "id": "editorial",
+      "label": "사설·칼럼",
+      "opinion": true,
+      "summaryMaxChars": 220
+    }
+  ],
+  "feedStatus": [
+    {
+      "source": "Ars Technica",
+      "category": "it",
+      "ok": true,
+      "matched": 2
+    },
+    {
+      "source": "Hacker News",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "TechCrunch",
+      "category": "it",
+      "ok": true,
+      "matched": 2
+    },
+    {
+      "source": "The Verge",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "블로터",
+      "category": "it",
+      "ok": true,
+      "matched": 5
+    },
+    {
+      "source": "전자신문",
+      "category": "it",
+      "ok": true,
+      "matched": 12
+    },
+    {
+      "source": "ZDNet Korea",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC Business",
+      "category": "economy",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "The Guardian",
+      "category": "economy",
+      "ok": true,
+      "matched": 18
+    },
+    {
+      "source": "매일경제 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 33
+    },
+    {
+      "source": "연합뉴스",
+      "category": "economy",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "경향신문 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 24
+    },
+    {
+      "source": "경향신문 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 36
+    },
+    {
+      "source": "노컷뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "서울신문",
+      "category": "politics",
+      "ok": true,
+      "matched": 5
+    },
+    {
+      "source": "연합뉴스 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "연합뉴스 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 54
+    },
+    {
+      "source": "SBS 뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "Al Jazeera",
+      "category": "world",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC World",
+      "category": "world",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "NPR",
+      "category": "world",
+      "ok": true,
+      "matched": 5
+    },
+    {
+      "source": "The Guardian",
+      "category": "world",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "연합뉴스 국제",
+      "category": "world",
+      "ok": true,
+      "matched": 18
+    },
+    {
+      "source": "매일경제 증권",
+      "category": "economy",
+      "ok": true,
+      "matched": 32
+    },
+    {
+      "source": "경향신문 오피니언",
+      "category": "editorial",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "NYT Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 11
+    },
+    {
+      "source": "The Guardian Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 10
+    },
+    {
+      "source": "Washington Post Opinions",
+      "category": "editorial",
+      "ok": false,
+      "error": "HTTP 502",
+      "matched": 0
+    },
+    {
+      "source": "동아일보 사설",
+      "category": "editorial",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "동아일보 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 11
+    },
+    {
+      "source": "조선일보",
+      "category": "politics",
+      "ok": true,
+      "matched": 2
+    },
+    {
+      "source": "동아일보 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "머니투데이",
+      "category": "economy",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "Wired",
+      "category": "it",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "DW News",
+      "category": "world",
+      "ok": true,
+      "matched": 14
+    }
+  ],
+  "items": [
+    {
+      "id": "78036d3639cc",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "The world has a new plan to save nature, but it still needs the money",
+      "link": "https://arstechnica.com/science/2026/11/the-world-has-a-new-plan-to-save-nature-but-it-still-needs-the-money/",
+      "publishedAt": "2026-11-02T14:56:52.000Z",
+      "description": "A new action plan aims to rescue 2030 nature targets as financing remains inadequate.",
+      "author": "Kenza Bryan, Financial Times",
+      "summary": "A new action plan aims to rescue 2030 nature targets as financing remains inadequate.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "a229a49a2031",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "[넥센타이어 is]④ 독립이사 추천위 수장은 오너 2세...견제 구조는",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=677444",
+      "publishedAt": "2026-11-02T14:49:36.000Z",
+      "description": "넥센타이어가 올해 감사위원 분리선출 인원을 확대하고 최대주주 측의 의결권을 제한하는 등 지배구조 개선에 나섰다. 감사위원 선임 과정에서 오너 측 의결권을 합산 3%로 제한하는 제도를 마련했고 이사회를 독립이사 4명과 사내이사 2명으로 재편해 독립이사 과반 체제를 갖췄다.사외이사후보추천위원회 위원장은 오너 2세인 강호찬 대표이사 부회장이다. 강 부회장은 그룹 지주사 넥센의 대표이사이자 넥센타이어 이사회 의장을 겸한다. 감사위원 선임 단계에서 대주주의 의결권을 제한하는 제도와 후보 추천 단계에 오너가 관여하는 구조가 병존하는 셈이다.",
+      "author": "나영찬 기자",
+      "summary": "넥센타이어가 올해 감사위원 분리선출 인원을 확대하고 최대주주 측의 의결권을 제한하는 등 지배구조 개선에 나섰다.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "eb2c6525a39d",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "에쓰오일, 3분기 영업익 1.4조 '윤활부문' 수익성 개선",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=677448",
+      "publishedAt": "2026-11-02T14:47:30.000Z",
+      "description": "에쓰오일이 3분기 정제마진 강세와 윤활기유 수익성 개선에 힘입어 1조4000억원대 영업이익을 기록했다. 윤활부문은 분기 기준 최대 이익을 내며 정유부문을 넘어섰다. 석유화학부문은 적자를 이어가 사업별 수익성은 엇갈렸다.에쓰오일은 3분기 매출 11조9687억원, 영업이익 1조4067억원을 각각 기록했다고 2일 밝혔다. 지난해 같은 기간보다 매출은 42.2%, 영업이익은 513.7% 증가했다. 영업이익률은 11.8%다.실적을 끌어올린 핵심은 윤활부문이다. 매출 1조5424억원, 영업이익 7427억원이며 직전 분기보다 각각 18.5%,",
+      "author": "나영찬 기자",
+      "summary": "에쓰오일이 3분기 정제마진 강세와 윤활기유 수익성 개선에 힘입어 1조4000억원대 영업이익을 기록했다. 윤활부문은 분기 기준 최대 이익을 내며 정유부문을 넘어섰다. 석유화학부문은 적자를 이어가 사업별 수익성은 엇갈렸다.에쓰오일은 3분기 매출 11조9687억원, 영업이익 1조4067억원을 각각 기록했다고 2일 밝혔다.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "dc429f8f7e6d",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "Ninja’s first-ever microwave just replaced two of my kitchen appliances at once",
+      "link": "https://techcrunch.com/2026/11/02/ninjas-first-ever-microwave-just-replaced-two-of-my-kitchen-appliances-at-once/",
+      "publishedAt": "2026-11-02T14:42:38.000Z",
+      "description": "The Ninja Crispi Microwave stands out for its FusionCrisp technology, which combines the speed of a microwave with the crispy results you'd expect from an air fryer.",
+      "author": "Lauren Forristal",
+      "summary": "The Ninja Crispi Microwave stands out for its FusionCrisp technology, which combines the speed of a microwave with the crispy results you'd expect from an air fryer.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "ea0f04f8ce2f",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "Northwood Space raises $375M Series C at a $2B valuation from a16z and DFJ Growth",
+      "link": "https://techcrunch.com/2026/11/02/northwood-space-raises-375m-series-c-at-a-2b-valuation-from-a16z-and-dfj-growth/",
+      "publishedAt": "2026-11-02T14:22:35.000Z",
+      "description": "Space infrastructure company Northwood Space on Monday said it had raised $375 million in a Series C round co-led by Andreessen Horowitz and DFJ Growth, valuing the company at $2 billion.",
+      "author": "Dominic-Madori Davis",
+      "summary": "Space infrastructure company Northwood Space on Monday said it had raised $375 million in a Series C round co-led by Andreessen Horowitz and DFJ Growth, valuing the company at $2 b…",
+      "summarySource": "rss"
+    },
+    {
+      "id": "f53ea0ea5507",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "Get 25 Percent Off My Favorite Renter-Friendly Storage Lockers",
+      "link": "https://www.wired.com/story/mustard-made-sale-october-2026/",
+      "publishedAt": "2026-11-02T14:15:29.000Z",
+      "description": "These gorgeous, renter-friendly storage lockers are hardly ever discounted.",
+      "author": "Louryn Strampe",
+      "summary": "These gorgeous, renter-friendly storage lockers are hardly ever discounted.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "831f81d339da",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "Birdbuddy vs. Birdfy: Which Budget Smart Feeder Should You Buy? (2026)",
+      "link": "https://www.wired.com/story/birdbuddy-nook-vs-birdfy-rookie/",
+      "publishedAt": "2026-11-02T14:00:00.000Z",
+      "description": "I tested Birdbuddy’s Nook and Birdfy’s Rookie in my backyard. Saving money comes with compromises, but some are easier to live with.",
+      "author": "Kat Merck",
+      "summary": "I tested Birdbuddy’s Nook and Birdfy’s Rookie in my backyard. Saving money comes with compromises, but some are easier to live with.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "0df0e170994e",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "“너네 과소비야, 집에 가면 안써” 입담 하나로 대박…남대문 '스카프 아저씨' 돌연 휴업 왜?",
+      "link": "https://www.etnews.com/20261102000469",
+      "publishedAt": "2026-11-02T13:37:53.000Z",
+      "description": "재치 있는 입담으로 소셜미디어(SNS)에서 인기를 얻은 서울 남대문시장의 '스카프 아저씨'가 몰려드는 방문객을 감당하지 못하고 임시 휴업을 결정했다. 온라인에서 유명해진 뒤 가게를 찾는 사람들이 급격히 늘면서 영업은 물론 주변 상인들의 일상에도 영향을 미치자 안전을 위해 잠시 문을 닫기로 한 것이다. 2일 관련 업계에 따르면 남대문시장에서 스카프 등을 판매하는 상인 A씨는 지난 주말부터 임시 휴무에 들어갔다. 그는 지난달 31일 자신의 SNS에",
+      "author": "이상목",
+      "summary": "재치 있는 입담으로 소셜미디어(SNS)에서 인기를 얻은 서울 남대문시장의 '스카프 아저씨'가 몰려드는 방문객을 감당하지 못하고 임시 휴업을 결정했다. 온라인에서 유명해진 뒤 가게를 찾는 사람들이 급격히 늘면서 영업은 물론 주변 상인들의 일상에도 영향을 미치자 안전을 위해 잠시 문을 닫기로 한 것이다.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "bce5fcb1016b",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "밤을 낮처럼 밝힌다…'우주 거울' 프로젝트",
+      "link": "https://www.etnews.com/20261102000462",
+      "publishedAt": "2026-11-02T13:30:00.000Z",
+      "description": "밤에도 원하는 장소에 햇빛을 비추는 이른바 '우주 거울' 프로젝트가 논란이 되고 있습니다. 미국 스타트업 리플렉트 오비탈은 지난달 10일 캘리포니아에서 대형 조명을 이용해 우주에서 햇빛을 반사했을 때의 모습을 재현했습니다. 이 회사는 앞으로 우주에 대형 반사경 위성을 띄워 태양빛을 지상의 특정 지역으로 보낼 계획입니다. 이를 통해 해가 진 뒤에도 태양광 발전을 이어가고 야간 구조 현장이나 외딴 작업 현장에 빛을 제공한다는 구상입니다. 이용자가",
+      "author": "이창민",
+      "summary": "밤에도 원하는 장소에 햇빛을 비추는 이른바 '우주 거울' 프로젝트가 논란이 되고 있습니다. 미국 스타트업 리플렉트 오비탈은 지난달 10일 캘리포니아에서 대형 조명을 이용해 우주에서 햇빛을 반사했을 때의 모습을 재현했습니다. 이 회사는 앞으로 우주에 대형 반사경 위성을 띄워 태양빛을 지상의 특정 지역으로 보낼 계획입니다.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "aa5c09b1dfd3",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "This $48 e-paper display can be whatever you want it to be",
+      "link": "https://arstechnica.com/gadgets/2026/11/this-48-e-paper-display-can-be-whatever-you-want-it-to-be/",
+      "publishedAt": "2026-11-02T12:00:07.000Z",
+      "description": "This DIY e-paper display works in two official ecosystems or on your own server.",
+      "author": "Nick Indge",
+      "summary": "This DIY e-paper display works in two official ecosystems or on your own server.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "263b8fdb5c91",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "톰 레이더 제작진이 말하는 게임이 인생에 미친 영향",
+      "link": "https://www.theguardian.com/culture/2026/nov/02/tomb-raider-creators-lara-croft",
+      "publishedAt": "2026-11-02T14:40:35.000Z",
+      "description": "‘Giving Lara Croft pistols meant we could show off her acrobatics. And when she goes to Peru, we threw in a T rex!’ I joined Core Design in the summer of 1994 and met Toby Gard, who showed me his concept sketches for Tomb Raider. He’d already come up with the title and drawn a mock-up box cover with a woman holding two pistols. Continue reading...",
+      "author": "Interviews by Sean Cole",
+      "summary": "톰 레이더 개발진이 1994년 게임 제작 과정에서 주인공 라라 크로프트의 권총과 페루 배경, 티렉스 등장 등을 중심으로 한 제작 경험담을 공유했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c7e6c6d4a6a5",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "금융당국, 지주회장 3연임 문턱 높인다",
+      "link": "https://www.mk.co.kr/news/economy/12194016",
+      "publishedAt": "2026-11-02T14:07:55.000Z",
+      "description": "금융당국이 금융지주 회장의 연임 횟수가 늘어날수록 사외이사 등으로 구성된 임원후보추천위원회(임추위)와 주주총회의 의결 요건을 강화하는 방안을 추진한다. 회장 후보를 추천한 임추위 ..",
+      "author": "매일경제",
+      "summary": "금융당국이 금융지주 회장의 연임이 늘어날수록 임원후보추천위원회와 주주총회의 의결 요건을 강화하는 방안을 추진했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "21a5fa262b03",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "아마존 광산 붐에 변모한 볼리비아 마을, 중국 기업의 착취 논란",
+      "link": "https://www.theguardian.com/global-development/2026/nov/02/chinese-cigarettes-and-bolivian-beer-the-amazonian-town-transformed-by-a-rampant-mining-boom",
+      "publishedAt": "2026-11-02T14:00:43.000Z",
+      "description": "Mayaya, once-remote, has become a hub for Chinese companies. But critics accuse them of exploitation and illegal exports The pork belly hits the oil with a sizzle, and a rich aroma of soy sauce and caramelising sugar fills the kitchen. Zhang Changchun, a middle-aged man from China’s Heilongjiang province, is cooking dinner for his friends on a warm evening in Mayaya, a small town in the Bolivian Amazon. “Bolivia is my happy place,” he says in Mandarin as he adds the dish to a table overflowing with pork trotters, duck wings and braised sábalo fish. In this small restaurant, a group of half a d",
+      "author": "By Yanzhi Chen and Benjamin Swift in Mayaya, Bolivia",
+      "summary": "볼리비아 아마존의 마야야 마을이 광산 붐으로 중국 기업의 거점이 되었으나 착취와 불법 수출에 대한 비판이 제기되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "385540a86547",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "파운드랜드 전 소유자, 재투자 제의",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wv1j0xgywo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-02T13:40:36.000Z",
+      "description": "Wolverhampton's Steve Smith said he wants to put some money back into the firm he started.",
+      "author": null,
+      "summary": "파운드랜드의 창립자 스티브 스미스가 자신이 설립한 회사에 재투자할 의향을 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9585d250a133",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "운명의 美 중간선거 '카운트다운'…트럼프 2기 후반전 방향 갈린다",
+      "link": "https://www.mk.co.kr/news/economy/12194001",
+      "publishedAt": "2026-11-02T13:33:56.000Z",
+      "description": "이번 주 자본시장 이슈 점검11월 첫째 주 세계 금융시장의 시선은 미국 유권자들의 선택으로 향합니다. 미국 현지시간 3일 치러지는 중간선거는 도널드 트럼프 대통령의 남은 임기 동안..",
+      "author": "매일경제",
+      "summary": "11월 3일 치러지는 미국 중간선거가 도널드 트럼프 대통령의 남은 임기 방향을 결정할 것으로 예상된다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6a63a750176f",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "앤트로픽, 4조7000억원 규모 공모주 일본에서 판다",
+      "link": "https://www.mk.co.kr/news/stock/12193997",
+      "publishedAt": "2026-11-02T13:29:05.000Z",
+      "description": "‘22억弗’ 스페이스X IPO 크게 웃돌아생성형 인공지능(AI) 모델 ‘클로드’ 개발사인 미국 앤트로픽이 기업공개(IPO)를 통해 일본에서 최대 35억달러(약 4조7000억원)를 ..",
+      "author": "매일경제",
+      "summary": "생성형 AI 모델 '클로드' 개발사인 미국 앤트로픽이 기업공개를 통해 일본에서 최대 35억달러(약 4조7000억원)를 조달했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "cdf1fae39d82",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "늘 자신감 넘치는 CFO, 증시 예측엔 낙제점",
+      "link": "https://www.mk.co.kr/news/stock/12193967",
+      "publishedAt": "2026-11-02T12:49:26.000Z",
+      "description": "美 연준·듀크대 연구 CFO 6700명 설문 22년 분석독자 여러분께서는 기업의 최고재무책임자(CFO)에 대해 어떤 인상을 갖고 계시나요? 영화나 드라마에서의 모습을 떠올려보면 자..",
+      "author": "매일경제",
+      "summary": "미국 연방준비제도와 듀크대학의 22년 연구로 CFO 6700명 설문 분석 결과, 기업 최고재무책임자들이 증시 예측에서 형편없는 경향을 보였다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3de5beed089b",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "인텔 폭락 속 연기금의 '구원투수', 이틀간 1조원 매수",
+      "link": "https://www.mk.co.kr/news/stock/12193965",
+      "publishedAt": "2026-11-02T12:41:15.000Z",
+      "description": "지난주 미국기술주 폭락에 ‘블랙먼데이’ 공포 컸지만 연기금 이틀간 1조 사들여‘큰손’ 연기금이 이틀간 1조원이 넘는 매수 우위를 보이며 국내 증시 구원투수로 나섰다. 그 덕분에 최..",
+      "author": "매일경제",
+      "summary": "미국 기술주 폭락으로 인한 위기 속에서 연기금이 이틀간 1조원 이상을 매수하여 코스피를 지탱했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "bca783f29451",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "기업대출 수도권 집중 심화, 83%가 수도권으로",
+      "link": "https://www.mk.co.kr/news/economy/12193958",
+      "publishedAt": "2026-11-02T12:33:38.000Z",
+      "description": "정부 지방우대금융 기조에도 수도권 대출비중 16년來 최고 반도체·제조중심 대기업 대출 4대은행 증가율, 中企의 5배기업대출의 수도권 집중이 심화하고 있다. 전체 대출잔액에서 수도권..",
+      "author": "매일경제",
+      "summary": "정부의 지방우대금융 정책에도 불구하고 기업대출의 수도권 집중이 심화되어 전체 기업대출의 83%가 수도권으로 몰렸다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "572b5ec81ccd",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "라이언에어, 직원 임금 동결과 항공료 인상 검토",
+      "link": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-02T12:22:10.000Z",
+      "description": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
+      "author": null,
+      "summary": "라이언에어가 2028년 연료 비용이 20억유로 이상 증가할 수 있다며 직원 임금 동결과 항공료 인상을 검토 중이라고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c9e7ad30d589",
+      "category": "politics",
+      "source": "조선일보",
+      "region": "kr",
+      "title": "1000년만의 최강 엘니뇨, 무엇이 일어나려고 하는가",
+      "link": "https://www.chosun.com/jp/opinion-jp/2026/11/02/NTBRRY6GOJAUJBGWOPWKJF44IM/",
+      "publishedAt": "2026-11-02T14:55:00.000Z",
+      "description": "",
+      "author": "ハン・サムヒ環境コラムニスト",
+      "summary": "1000년만의 강력한 규모를 자랑하는 엘니뇨 현상이 나타나고 있다는 분석이 제시되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "068ec65dcccf",
+      "category": "politics",
+      "source": "SBS 뉴스",
+      "region": "kr",
+      "title": "경찰, '강남 임플란트 치과 사망사건' 의사 공소청 송치",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008827209",
+      "publishedAt": "2026-11-02T14:37:00.000Z",
+      "description": "▲ 서울경찰청 광역수사단 청사경찰이 강남의 대형 저수가 임플란트 치과에서 환자를 숨지게 한 의사를 공소청에 넘겼습니다.오늘 서울경찰청…",
+      "author": "wook@sbs.co.kr (김지욱)",
+      "summary": "임플란트 시술 중 환자를 사망에 이르게 한 강남 치과의사가 검찰에 송치되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3148157d4985",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "오세훈-한동훈, 김성원 부친상서 조우…'공식 만남 갖자' 교감",
+      "link": "https://www.yna.co.kr/view/AKR20261102175600001",
+      "publishedAt": "2026-11-02T14:30:02.000Z",
+      "description": "(서울=연합뉴스) 이율립 기자 = 보수 진영의 유력 차기 주자로 꼽히는 오세훈 서울시장과 무소속 한동훈 의원이 2일 국민의힘 김성원 의원의 부친...",
+      "author": "이율립",
+      "summary": "보수진영 차기 주자인 오세훈 서울시장과 한동훈 의원이 부친상에서 만나 공식 회담을 갖기로 했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "69fd00a2a25a",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "李 여권번호-'공군 1호기' 168명 정보 5개월간 인터넷 노출",
+      "link": "https://www.donga.com/news/Politics/article/all/20261102/134954194/1",
+      "publishedAt": "2026-11-02T13:59:00.000Z",
+      "description": "이재명 대통령 부부와 청와대 핵심 참모 및 주요 장관들의 개인정보가 한 인터넷 사이트에 5개월가량 노출돼 있었던 것으로 뒤늦게 알려졌다. 올 6월 이 대통령의 유럽 순방 참석자 명단과 주요 개인정보가 사이트에 게시됐는데도 최근까지 정부가 별다른 조치를 취하지 않았다는 것이다.2일 정부와 보안 업계에 따르면 한 유료 악성코드 검사 사이트에 6월 2일 ‘1호기 탑승자 명단’ 제목을 단 엑셀 파일이 올라왔다. 파일에는 이 대통령 부부, 한성숙 국무총리(당시 중소벤처기업부 장관), 위성락 국가안보실장 등 정부 고위급 인사와 경호원 등 168명의 생년월일과 여권 번호, 여권 발급일, 만료일 정보 등이 담겼다.보안 전문가들은 악성코드 검사를 위해 파일이 업로드된 것으로 추정했다. 이 사이트는 유료 가입자 누구나 업로드된 파일을 내려 받을 수 있다.북한 해킹 조직의 공격이 잇따르는 상황에서 이 대통령 부부를 근접 경호하는 경호관들의 정보까지 대거 유출돼 수개월간 방치된 것을 두고 ‘보안 참",
+      "author": null,
+      "summary": "이재명 대통령 부부를 포함한 공군 1호기 탑승자 168명의 개인정보가 5개월간 웹사이트에 유출된 것으로 드러났다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "23014dc55b0f",
+      "category": "politics",
+      "source": "서울신문",
+      "region": "kr",
+      "title": "李대통령 개인정보까지 털렸다…靑 \"사전 인지 후 대응\"",
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20261102500335",
+      "publishedAt": "2026-11-02T13:33:43.000Z",
+      "description": "이재명 대통령 부부를 포함해 청와대 경호처 관계자와 출입기자 등 순방 인원 총 168명의 개인정보가 인터넷상에 노출되는 사건이 발생했다. 청와대는 유출 사실을 확인하고 대책을 마련하고 있다고 밝혔다. 2일 청와대와 업계 등에 따르면 한 보안 관련 유료 사이트에는 지난 6월 ‘대한민국 공군 1호기’ 탑승자 명단 파일이 게시됐다. ‘탑승객 명단’(대한민국-벨기에)라는 이름의 이 파일에는 이 대통령 부부는 물론이고 당시 김용범 정책실장, 위성락 국가안보실장, 배경훈·조현·김성환·한성숙(현 국무총리) 장관 등 정부 주요 인사들 명단과 개인정보가 담겨 있었다. 이 밖에도 청와대와 외교부 소속 순방 실무 수행원, 대통령경호처 소속 경호원, 청와대 기자단 등 개인정보가 포함된 인원은 모두 168명이었다. 노출된 개인정보는 이들의 소속과 직책, 생년월일, 여권번호 등이었다고 한다. 이 명단은 해당 사이트에 약 5개월간 노출된 것으로 알려졌다. 이는 지난 6월 G7(주요 7개국) 정상회의 참석 등을 위한 순방 당시 탑승자 명단으로 추정된다. 이 대통령은 당시 6월 9일 벨기에·EU(유럽연합) 정상회담과 프랑스 에비앙에서 열린 G7 정상회담을 앞두고 있었다. 해당 사이트는 유",
+      "author": "김진아 기자",
+      "summary": "이재명 대통령 부부를 포함한 공군 1호기 탑승자 168명의 개인정보가 악성코드 검사 사이트에 5개월간 노출되었으며 청와대는 사실 인지 후 대응 중이라고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c89b5d4acc1a",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "한일 외교차관 \"한반도 비핵화·평화·안정 공조 지속\"",
+      "link": "https://www.yna.co.kr/view/AKR20261102174500504",
+      "publishedAt": "2026-11-02T13:29:07.000Z",
+      "description": "(서울=연합뉴스) 김지헌 기자 = 박윤주 외교부 제1차관은 2일 오후 일본 가루이자와에서 후나코시 다케히로 일본 외무성 사무차관과 제17차 한일...",
+      "author": "김지헌",
+      "summary": "박윤주 외교부 제1차관과 후나코시 다케히로(Funakoshi Takehiro) 일본 외무성 사무차관이 한반도 비핵화·평화·안정을 위한 공조 지속에 합의했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "56b7bcbcec22",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "대통령 부부 여권번호도 유출…웹사이트에 '1호기 탑승자' 168명 개인정보",
+      "link": "https://www.khan.co.kr/article/202611022220005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-11-02T13:20:00.000Z",
+      "description": "장관·청와대 실장·출입기자 등지난 6월 유럽 순방 인원들 추정청 “인지 후 대응, 추가 조치 예정”이재명 대통령과 김혜경 여사의 생년월일과 여권번호 등 대통령 전용기인 공군 1호기 탑승자의 개인정보가 담긴 엑셀파일이 악성코드를 검사해주는 유료 웹사이트에 수개월간 노출됐던 것으로 알려졌다. 청와대는 “인지 후 대응 조치를 취했다”고 밝혔다.2일 KBS 보도를···",
+      "author": "김원진·정환보 기자",
+      "summary": "지난 6월 이재명 대통령 부부를 포함한 공군 1호기 탑승자 168명의 개인정보가 담긴 파일이 악성코드 검사 사이트에 수개월간 노출되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b5b137a5ea1d",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "경찰, '이재명 혼외자설' '5·18 북한 개입설' 전한길 송치···명예훼손·5·18 특별법 위반 등 혐의",
+      "link": "https://www.khan.co.kr/article/202611022144001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-11-02T12:44:00.000Z",
+      "description": "한국사 강사 출신 유튜버 전한길 씨가 지난 4월16일 오전 서울 서초구 서울중앙지방법원에서 열린 영장실질심사(구속 전 피의자 심문)에 출석하고 있다. 사진공동취재단‘이재명 대통령 혼외자설’, ‘5·18 북한 개입설’ 등 허위사실을 유포한 혐의로 수사를 받아온 극우 성향 유튜버 전한길씨가 공소청에 넘겨졌다.2일 경향신문 취재를 종합하면, 서울경찰청 광역수사단···",
+      "author": "김태욱 기자",
+      "summary": "한국사 강사 출신 유튜버 전한길이 이재명 대통령 혼외자설과 5·18 북한 개입설 등 허위사실 유포 혐의로 검찰에 송치되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "4d313d86a9f6",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "법관 68% \"AI가 쓴 허위 판례 경험\"",
+      "link": "https://www.khan.co.kr/article/202611022135035/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-11-02T12:35:03.000Z",
+      "description": "존재하지도 않는 판례 인용 최다소송 서면에는 AI 대화 내용도변호사마저 ‘AI 가짜 판례’ 인용허위 여부 확인에 재판 지연·소송비 증가 우려사법절차에 인공지능(AI) 활용이 늘면서 AI가 만들어낸 허위 판례나 사건 등이 재판문건에 등장하는 사례가 증가하고 있다. 허위 여부를 일일이 확인하느라 재판이 지연되거나 소송비 부담이 늘 수 있어 대책이 필요하다는 지···",
+      "author": "김정화 기자",
+      "summary": "법관 10명 중 7명이 AI가 생성한 존재하지 않는 판례를 소송 서면에서 접했으며, 이로 인해 재판 지연과 소송비 증가가 우려되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0fd7229a9162",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "[뉴스분석] \"공정\"에 담긴 '배제의 정치'",
+      "link": "https://www.khan.co.kr/article/202611022135025/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-11-02T12:35:02.000Z",
+      "description": "이 대통령 발언 논란“내년도 예산 820조9000억” 이재명 대통령이 2일 국회 본회의장에서 2027년도 예산안에 대한 시정연설을 하고 있다. 국회사진기자단외국인·다문화 ‘역차별’ 잇단 제기 사회 갈등이 ‘과도한 특혜 탓’ 낙인 “지키지 못하는 기준 남에게 강요” ‘정치적 올바름’ 비판에 “내로남불” 사안 건건이 반박에 논쟁만 부각이재명 대통령이 다문···",
+      "author": "김윤나영 기자",
+      "summary": "이재명 대통령의 발언을 둘러싼 논쟁에서 외국인·다문화 정책에 대한 역차별 비판과 '공정' 개념이 배제의 정치로 활용되고 있다는 분석이 제시되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f553147911ae",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "뉴욕증시, 미-이란 합의 기대감에 상승 출발",
+      "link": "https://www.yna.co.kr/view/AKR20261102176400009",
+      "publishedAt": "2026-11-02T14:44:29.000Z",
+      "description": "(서울=연합뉴스) 윤정원 연합인포맥스 기자 = 뉴욕증시의 3대 주가지수는 미국과 이란의 합의에 진전이 이뤄지고 있다는 기대감에 상승 출발했다.",
+      "author": "국제뉴스공용1",
+      "summary": "뉴욕증시의 3대 주가지수는 미국과 이란의 합의 진전에 대한 기대감에 힘입어 상승 출발했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9f70ed70aa62",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "루턴발 위즈에어, 폭탄 위협으로 긴급착륙",
+      "link": "https://www.bbc.co.uk/news/articles/c6rryvwre0p5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-02T14:35:38.000Z",
+      "description": "A Hungarian fighter jet escorted the aircraft to Budapest after the threat was received mid-air.",
+      "author": null,
+      "summary": "공중에서 폭탄 위협을 받은 항공편이 헝가리 전투기의 호위로 부다페스트에 긴급착륙했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b1246efd6cff",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "유럽 슈퍼마켓, 두 번째 사이버공격 표적",
+      "link": "https://www.dw.com/en/european-supermarkets-targeted-in-second-reported-cyberattack/a-79831139?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-11-02T14:31:00.000Z",
+      "description": "Supermarkets across Europe have been targeted in cyberattacks once again. Three weeks after a defrosting attack in France, supermarkets in Belgium, Estonia, Ireland, Luxembourg and Sweden reported freezer malfunctions.",
+      "author": null,
+      "summary": "벨기에, 에스토니아, 아일랜드, 룩셈부르크, 스웨덴의 슈퍼마켓들이 사이버공격으로 냉동고 고장을 겪었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "dbec71ec829f",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "우크라이나·러시아 경보 앱 해킹 사건",
+      "link": "https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-02T14:24:25.000Z",
+      "description": "Both Ukraine and Russia say their air raid alert apps were cyber-attacked - Joe Tidy explains what we know so far.",
+      "author": null,
+      "summary": "우크라이나와 러시아는 각각 자국의 공습 경보 앱이 사이버공격을 받았다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7936bb061223",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "로스앤젤레스, 석유 개발 금지 정책 가결",
+      "link": "https://www.dw.com/en/la-communities-kick-out-big-oil/a-79830843?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-11-02T14:21:00.000Z",
+      "description": "After years of advocacy from residents and legal battles with Big Oil, Los Angeles voted to ban drilling and phase out oil extraction in the city. It's the first city in the United States to kick the oil industry out.",
+      "author": null,
+      "summary": "로스앤젤레스는 시민 운동과 법적 투쟁 끝에 시내 석유 채굴 금지 및 점진적 폐지 정책을 가결했으며, 미국 최초의 조치다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3e8c7cbead19",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "이란 대통령 \"최고지도자, 대화 통한 위기 해결 정부에 권한 부여\"",
+      "link": "https://www.yna.co.kr/view/AKR20261102175700079",
+      "publishedAt": "2026-11-02T14:08:41.000Z",
+      "description": "(카이로=연합뉴스) 김상훈 특파원 = 마수드 페제시키안 이란 대통령은 2일(현지시간) 적들이 국가에 조장한 위기를 극복하기 위해 대화를 모색하고...",
+      "author": "김상훈",
+      "summary": "이란 대통령은 최고지도자가 위기 극복을 위해 대화를 모색하는 정부에 권한을 부여했다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "bf1da31b5db5",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "호주인 3분의 2, 멜버른컵에 관심 잃다",
+      "link": "https://www.theguardian.com/sport/2026/nov/03/melbourne-cup-2026-poll-record-numbers-turn-their-backs",
+      "publishedAt": "2026-11-02T14:00:46.000Z",
+      "description": "Growing disdain for gambling and animal cruelty concerns drive sliding interest in race that once ‘stopped the nation’ Get our breaking news email, free app or daily news podcast A record number of Australians are turning their backs on the Melbourne Cup, with more than two-thirds surveyed saying they have low or zero interest in the annual horse race. Support for the Melbourne Cup has been sliding consistently for a number of years, but the Guardian Essential poll found just 9% of Australians said they had high interest in the race now – nearly half the proportion in 2025. Continue reading...",
+      "author": "Josh Butler",
+      "summary": "호주인 3분의 2 이상이 연간 경마 멜버른컵에 관심이 없거나 낮으며, 고관심층은 2025년 대비 절반 이하로 감소했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "77935d63e436",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "민주당 인사 공화당 상원 후보 지지, 걸프만 국가들 이란 공격 대비",
+      "link": "https://www.npr.org/2026/11/02/g-s1-151215/up-first-newsletter-michigan-senate-iran-war-supreme-court-colorado-catholic-church",
+      "publishedAt": "2026-11-02T12:19:54.000Z",
+      "description": "Democrats in Michigan are considering their options after Haley Stevens endorsed GOP candidate Mike Rogers for Senate. And the Gulf states are bracing for a possible U.S. attack on Iran after the midterms.",
+      "author": "Brittney Melton",
+      "summary": "미시간의 민주당 인사 하일리 스티븐스가 상원 선거에서 공화당 후보를 지지했으며, 걸프만 국가들은 미국의 이란 공격에 대비하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6bdaf0e92893",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "러시아-우크라이나 임시 휴전 중 수백 명 대피",
+      "link": "https://www.npr.org/2026/11/02/nx-s1-6022261/hundreds-evacuate-city-during-temporary-ceasefire-between-russia-and-ukraine",
+      "publishedAt": "2026-11-02T09:42:11.000Z",
+      "description": "The ceasefire in a Russian-occupied Ukrainian city has ended. The ceasefire, which lasted several days, allowed hundreds of residents to evacuate.",
+      "author": "Joanna Kakissis",
+      "summary": "러시아 점령 우크라이나 도시에서 며칠간 지속된 임시 휴전 기간 수백 명이 대피했으나, 휴전은 종료되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "981b2c085de2",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "대다수 이스라엘인, 정착촌 정책 변경 필요하다고 생각",
+      "link": "https://www.theguardian.com/world/2026/nov/02/uk-trade-ban-west-bank-settlements-israel-election-poll",
+      "publishedAt": "2026-11-02T06:00:33.000Z",
+      "description": "Survey finds UK government’s decision to impose trade ban was not a decisive factor in how Israelis voted in election The UK government’s decision to impose a ban on trade in goods from illegal settlements was not decisive in how Israelis voted in their general election, but a majority think the Israeli government’s settlements policy should change if it is going to lead to further sanctions, a new poll of Israelis shows. There had been fierce criticism of the UK foreign secretary Ed Miliband’s decision in September to impose a trade ban and wider sanctions on illegal settlements, with some cl",
+      "author": "Patrick Wintour Diplomatic editor",
+      "summary": "여론조사에서 대다수 이스라엘인이 추가 제재를 피하려면 정부의 정착촌 정책이 변경되어야 한다고 응답했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "4eed5eeceef3",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]\"모두의 성장\" 진짜 해법은 일자리다",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261102/134953952/2",
+      "publishedAt": "2026-11-02T14:30:00.000Z",
+      "description": "이재명 대통령이 2일 국회 시정연설에서 “2027년도 예산안은 미래 선점 예산이자 성장 확산 예산”이라고 했다. 820조9000억 원 규모의 내년도 예산안을 설명하고 국회의 협조를 요청한 것이다. 더불어민주당 의원들은 박수로 화답했지만, 국민의힘 의원들은 “국채의 순증가분이 거의 없다”는 발언에 야유를 보냈다. 약 40초간 발언을 멈춘 이 대통령은 “자꾸 방해를 하고 있다”고 했다. 올해 예산 국회 역시 순탄치 않게 시작됐다. 내년 예산안은 올해 본예산 대비 12.8%, 93조 원 증가한 말 그대로 ‘슈퍼 예산’이다. 정부는 ‘추가 세수’ 162조 원을 청년, 미래성장동력, 지방, 교육·인재 등 4개 축에 집중 투자한다는 방침이다. 국회는 역대 최대로 늘어난 예산이 꼭 필요한 곳에 제대로 쓰일지 철저히 심사하고 혈세 낭비를 막아야 한다. 이 대통령은 성장은 36회, 투자는 24회 언급했다. 그러면서 “달라진 시대와 상황에 맞는 새로운 성장 공식을 적용해야 한다”고 강조했다. “모",
+      "author": null,
+      "summary": "동아일보는 820조 원대 내년 예산이 성장 확산을 위한 필요한 투자라면서도, 국회가 철저히 심사하여 혈세 낭비를 막아야 한다고 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ab91243ec3eb",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]\"확고한 자력 방위\"는 北 신무기 억제력 확보부터",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261102/134953956/2",
+      "publishedAt": "2026-11-02T14:27:00.000Z",
+      "description": "이재명 대통령이 내년 국방 예산과 관련해 국회 시정연설에서 강조한 대목은 “확고한 자력 방위”와 “전시작전권 조기 환수에 필요한 핵심 전력의 확보”였다. 미국은 유사시 한국군이 북한의 재래식 공격에 대한 방어를 주도할 능력을 갖추고 있는지를 전작권 전환의 조건 중 하나로 꼽고 있다. 이를 충족하기 위한 전력을 집중적으로 도입하겠다는 것이다. 정부가 편성한 내년 국방 예산안은 올해보다 8.2% 증액한 73조3000억 원 규모다. 북한은 핵·미사일 고도화에 이어 한국을 표적 삼은 재래식 신(新)무기 증강에도 속도를 내고 있다. 지난달엔 신형 집속탄 시험을 한 뒤 축구장 18개에 해당하는 면적을 초토화했다고 주장했다. 레이더를 피하는 스텔스 드론 등 각종 신형 드론은 물론 사거리와 화력을 대폭 늘린 초대형 방사포의 발사 장면도 공개했다. 그동안 핵을 제외한 북한의 재래식 전력은 한국의 군사력에 비해 크게 떨어지는 것으로 평가돼 왔다. 하지만 북한이 우크라이나 전쟁에서 실전 경험을 쌓",
+      "author": null,
+      "summary": "동아일보는 북한의 재래식 신무기 증강에 대응하기 위해, 정부의 73조 원대 국방예산이 한국군의 독립적 방어 능력과 전작권 조기 환수에 필요한 전력 확보에 집중해야 한다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "bd4d024f38a3",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]'AI 가짜 판례' 제시에 과태료?… 증거인멸-위증만큼 엄벌해야",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261102/134953954/2",
+      "publishedAt": "2026-11-02T14:24:00.000Z",
+      "description": "법원행정처가 인공지능(AI)이 만든 허위 판례를 제시한 변호사 등에게 과태료를 부과할 수 있도록 국회에 법 개정 의견을 내기로 했다. 허위 판례 제시가 더는 방치할 수 없을 정도로 빠르게 확산되고 있다는 판단에서다. 법원행정처가 현직 판사 360명에게 설문조사한 결과 10명 중 7명 가까이가 AI가 생성한 허위 또는 존재하지 않는 판례가 제시된 사례를 경험한 것으로 확인됐다고 한다. AI가 ‘환각’(할루시네이션) 현상으로 그럴듯하게 지어낸 허위 판례 문제는 이미 심각한 수준이다. 이번 법원행정처 조사에 따르면 존재하지 않는 판례를 제시하는 것은 물론이고 가짜 법령을 제시하는 일도 벌어지고 있었다. 대법원 판결문 형식을 모방해 AI로 생성한 가짜 판결문을 제출하거나, 가짜 대법원 사건번호를 기재하는 경우도 있었다. 허위 판례 제시는 소송 당사자와 변호사를 가리지 않았다. 올해 6월 한 특허소송에서는 변호사가 허위 판례 8건을 제시한 사실을 재판부가 판결문에 적시하는 일도 있었다.",
+      "author": null,
+      "summary": "동아일보는 AI의 '환각' 현상으로 인한 허위 판례 제시 문제가 심각하므로, 과태료 수준을 넘어 증거인멸이나 위증만큼 엄격하게 처벌해야 한다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ebedf81ce581",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "두부 탈라리코, 치즈케이크 팩토리와 중간선거에 대한 불만",
+      "link": "https://www.nytimes.com/2026/11/02/opinion/midterms-food-talarico.html",
+      "publishedAt": "2026-11-02T14:12:38.000Z",
+      "description": "Seldom have political food fights been this ridiculous.",
+      "author": "Frank Bruni",
+      "summary": "프랑크 브루니는 중간선거를 둘러싼 정치적 음식 싸움이 이 정도로까지 비합리적이 되었다고 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "93de484a2d15",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "내 환자들이 환각제로 혜택을 볼 수 있을까?",
+      "link": "https://www.nytimes.com/2026/11/02/opinion/psychedelics-medicine-patients.html",
+      "publishedAt": "2026-11-02T14:10:49.000Z",
+      "description": "Medicine has developed many tools for suppressing suffering, but fewer for cultivating meaning or peace.",
+      "author": "Daniela J. Lamas",
+      "summary": "다니엘라 라마스는 의학이 고통을 억제하는 도구는 발달했지만, 삶의 의미와 평온을 증진하는 도구는 부족하다고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "15b071ddfc49",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "암 치료가 효과적일수록 물어야 할 질문: 치료받는 환자들의 삶은?",
+      "link": "https://www.theguardian.com/australia-news/commentisfree/2026/nov/03/as-cancer-treatments-become-more-effective-we-must-ask-what-is-life-like-for-the-people-who-receive-them",
+      "publishedAt": "2026-11-02T14:00:42.000Z",
+      "description": "Many treatments are now extending lives but the measure of progress should not end with a scan or a survival curve Two decades ago, a dear friend called me in a trembling voice. Was there hope for his young nephew, whose cancer had spread to the brain? Sadly, “no”, I said. But today, for such patients, there are options that were unimaginable back then. Recently, researchers at the European Society For Medical Oncology presented the latest chapter results from a randomised controlled trial of a bespoke cancer vaccine for patients with high-risk melanoma. The trial involved 1,137 patients whose",
+      "author": "Ranjana Srivastava",
+      "summary": "라냐나 스리바스타바는 암 치료로 생명 연장이 가능해졌지만, 치료의 성공을 단순히 스캔 결과나 생존율로만 평가하지 말고 환자들의 실제 삶의 질을 중심으로 평가해야 한다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2b2c714275bf",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "억만장자 세금은 모두를 위한 승리",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/02/california-billionaire-tax",
+      "publishedAt": "2026-11-02T12:00:40.000Z",
+      "description": "The measure would ease inequality and bolster healthcare – without draining our coffers or triggering a billionaire exodus On Tuesday, California voters will decide whether to enact Proposition 40, a one-time, 5% tax on the net worth of about 250 California billionaires. In recent months, a number of California billionaires and their apologists in the media and in government have come out swinging against the ballot measure. I’m not a billionaire, but I’m a Californian wealthy enough to know that they have no valid reason to fight the proposition. For multimillionaires like me, paying a 5% tax",
+      "author": "George Zimmer",
+      "summary": "조지 짐머는 자신도 부유한 입장에서, 캘리포니아의 억만장자 순자산의 5% 일시 세금(Prop 40)이 부등식 완화와 보건의료 강화를 가능하게 하므로 모두를 위한 긍정적 조치라고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b4fc4c9a21f0",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[김재인의 피지컬vs디지털]AI로 절약한 시간은 어디로 갔는가?",
+      "link": "https://www.khan.co.kr/article/202611022018005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-11-02T11:18:00.000Z",
+      "description": "AI 환각보다 더 무서운 건 우리의 환각, 기계가 우리보다 낫다고 믿고 더 확인하지 않아도 된다는 착각이다 몇년이 지난 뒤에 가장 어려운 문제를 마주했을 때, 과연 조직 안에 판단할 사람이 남아 있을까중요한 것은 그때 누가 이렇게 말할 수 있느냐는 점이다. ‘이건 제가 원자료부터 다시 확인해 보겠습니다.’회의가 끝난 뒤, 대시보드에는 인공지능(AI) 도입의···",
+      "author": "김재인 경희대 비교문화연구소 교수",
+      "summary": "김재인 교수는 AI의 환각보다 더 위험한 것은 AI를 무조건 신뢰하고 검증하지 않는 우리의 착각이며, 미래에 중요한 판단을 할 때 원자료부터 다시 확인할 수 있는 인물이 조직에 남아있을 것인가에 대해 우려했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a57786b6b02f",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[공감+]부캉이와 공존할 준비가 됐나",
+      "link": "https://www.khan.co.kr/article/202611022011035/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-11-02T11:11:03.000Z",
+      "description": "부산 북항을 걷던 시민들의 발걸음이 멈췄다. 도심 수로 한가운데를 상어 한 마리가 헤엄치고 있었다. 친수공원 인공수로에 나타나 30여일간 머문 흑상어 ‘부캉이’였다.“인간은 오직 인간에 대해서만 의무를 진다.” 근대 철학자 칸트는 인간을 자연세계의 다른 존재들과 구별되는 존재로 봤고, 인류는 오랫동안 자연을 인간을 위한 수단으로 여겨왔다. 부캉이는 이 오래···",
+      "author": "강도형 전 해양수산부 장관",
+      "summary": "강도형 전 장관은 부산 북항에 나타난 상어 부캉이의 사례를 통해, 자연을 인간을 위한 수단으로만 여겨온 근대 인간중심주의를 벗어나 자연과의 공존을 준비해야 한다고 제시했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2333bed973ea",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[생각그림]무표정들",
+      "link": "https://www.khan.co.kr/article/202611022011025/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-11-02T11:11:02.000Z",
+      "description": "종이에 아크릴 펜(53×78㎝)모두들 무표정한 얼굴로 흔들거리는 차 안에서 집으로, 혹은 일터로 가고 있습니다. 앞사람을 보고 있지만, 그냥 초점 없이 앞을 보고 있을 뿐입니다. 간혹 휴대폰을 보며 웃기도 하지만, 대부분 무표정으로 흔들거리는 차 속에서 리듬을 탈 뿐입니다. 옆에 있던 아가가 나에게 미소를 짓습니다. 나도 따라 미소를 짓습니다. 아이를 안고···",
+      "author": "김상민 기자",
+      "summary": "김상민 기자는 아크릴 펜 드로잉을 통해 무표정한 도시인들의 일상 속에서 아이의 미소가 주는 인간적 따뜻함을 표현하며 현대인의 감정 소외를 성찰하도록 제시했다.",
+      "summarySource": "llm"
+    }
+  ],
+  "summarizedAt": "2026-11-03T03:27:24.569Z",
+  "summaryStats": {
+    "llm": 40,
+    "fallback": 10,
+    "model": "claude-haiku-4-5"
+  }
+}
