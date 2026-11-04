@@ -1,0 +1,899 @@
+{
+  "date": "2026-11-03",
+  "generatedAt": "2026-11-04T01:55:38.140Z",
+  "categories": [
+    {
+      "id": "it",
+      "label": "IT·과학·AI"
+    },
+    {
+      "id": "economy",
+      "label": "경제·금융"
+    },
+    {
+      "id": "politics",
+      "label": "정치·사회"
+    },
+    {
+      "id": "world",
+      "label": "세계·국제"
+    },
+    {
+      "id": "editorial",
+      "label": "사설·칼럼",
+      "opinion": true,
+      "summaryMaxChars": 220
+    }
+  ],
+  "feedStatus": [
+    {
+      "source": "Ars Technica",
+      "category": "it",
+      "ok": true,
+      "matched": 10
+    },
+    {
+      "source": "Hacker News",
+      "category": "it",
+      "ok": true,
+      "matched": 5
+    },
+    {
+      "source": "TechCrunch",
+      "category": "it",
+      "ok": true,
+      "matched": 3
+    },
+    {
+      "source": "The Verge",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "블로터",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "전자신문",
+      "category": "it",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "ZDNet Korea",
+      "category": "it",
+      "ok": true,
+      "matched": 21
+    },
+    {
+      "source": "BBC Business",
+      "category": "economy",
+      "ok": true,
+      "matched": 13
+    },
+    {
+      "source": "The Guardian",
+      "category": "economy",
+      "ok": true,
+      "matched": 18
+    },
+    {
+      "source": "매일경제 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 28
+    },
+    {
+      "source": "연합뉴스",
+      "category": "economy",
+      "ok": true,
+      "matched": 25
+    },
+    {
+      "source": "경향신문 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 41
+    },
+    {
+      "source": "경향신문 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 39
+    },
+    {
+      "source": "노컷뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "서울신문",
+      "category": "politics",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "연합뉴스 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "연합뉴스 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 90
+    },
+    {
+      "source": "SBS 뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 13
+    },
+    {
+      "source": "Al Jazeera",
+      "category": "world",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC World",
+      "category": "world",
+      "ok": true,
+      "matched": 21
+    },
+    {
+      "source": "NPR",
+      "category": "world",
+      "ok": true,
+      "matched": 3
+    },
+    {
+      "source": "The Guardian",
+      "category": "world",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "연합뉴스 국제",
+      "category": "world",
+      "ok": true,
+      "matched": 49
+    },
+    {
+      "source": "매일경제 증권",
+      "category": "economy",
+      "ok": true,
+      "matched": 32
+    },
+    {
+      "source": "경향신문 오피니언",
+      "category": "editorial",
+      "ok": true,
+      "matched": 10
+    },
+    {
+      "source": "NYT Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 12
+    },
+    {
+      "source": "The Guardian Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 12
+    },
+    {
+      "source": "Washington Post Opinions",
+      "category": "editorial",
+      "ok": false,
+      "error": "HTTP 502",
+      "matched": 0
+    },
+    {
+      "source": "동아일보 사설",
+      "category": "editorial",
+      "ok": true,
+      "matched": 13
+    },
+    {
+      "source": "동아일보 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 27
+    },
+    {
+      "source": "조선일보",
+      "category": "politics",
+      "ok": true,
+      "matched": 18
+    },
+    {
+      "source": "동아일보 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "머니투데이",
+      "category": "economy",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "Wired",
+      "category": "it",
+      "ok": true,
+      "matched": 29
+    },
+    {
+      "source": "DW News",
+      "category": "world",
+      "ok": true,
+      "matched": 14
+    }
+  ],
+  "items": [
+    {
+      "id": "0093518f68d3",
+      "category": "it",
+      "source": "Hacker News",
+      "region": "intl",
+      "title": "모든 규모의 맥 구축",
+      "link": "https://namespace.so/blog/mac-at-any-scale",
+      "publishedAt": "2026-11-03T14:53:42.000Z",
+      "description": "Article URL: https://namespace.so/blog/mac-at-any-scale Comments URL: https://news.ycombinator.com/item?id=50352758 Points: 314 # Comments: 182",
+      "author": "anner_",
+      "summary": "다양한 규모로 맥 환경을 구축하고 운영하는 실무 경험과 노하우를 다룬 기사다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8ec8eb5dfa46",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "EPA, 공장식 농장 대기오염 단속 포기",
+      "link": "https://arstechnica.com/tech-policy/2026/11/epa-throws-in-the-towel-on-policing-air-pollution-from-factory-farms/",
+      "publishedAt": "2026-11-03T14:49:00.000Z",
+      "description": "Critics say EPA is effectively abandoning Clean Air Act enforcement at factory farms.",
+      "author": "Georgina Gustin, Inside Climate News",
+      "summary": "EPA가 청정공기법 집행을 통한 공장식 농장의 대기오염 단속을 효과적으로 포기하고 있으며, 비평가들이 이를 규제 약화로 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9e3737c67f0c",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "투표에 AI를 사용하지 말아야 하는 이유",
+      "link": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
+      "publishedAt": "2026-11-03T14:45:08.000Z",
+      "description": "From hallucinations to partisan bias, artificial intelligence chatbots like ChatGPT and Claude are not helpful when it comes to Election Day.",
+      "author": "David Gilbert",
+      "summary": "ChatGPT, Claude 등 AI 챗봇들은 환각과 당파적 편향으로 인해 선거 결정에 도움이 되지 않는다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "97cf0072e2f1",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "AI 모델만으론 부족…스노우플레이크, 기업 데이터로 승부",
+      "link": "https://zdnet.co.kr/view/?no=20261103102329",
+      "publishedAt": "2026-11-03T14:01:02.000Z",
+      "description": "[지디넷코리아]스노우플레이크가 기업 데이터와 업무 시스템을 연결하는 역량으로 인공지능(AI) 에이전트 시장에서 승부를 건다. 오픈AI, 앤트로픽 모델을 활용하면서 AI가 회사 내부 정보를 이해하고 실제 업무를 처리하도록 만드는 플랫폼으로 차별화한다.스노우플레이크는 3일(현지시간) 개막하는 '엑스페디션 2026'에 맞춰 기업 데이터를 기반으로 업무를 수행하는 '코코·코워크 봇'과 AI 실행을 관리하는 새 기능을 공개했다. 회사 업무를 이해하는 데 필요한 정보부터 작업 수행과 통제까지 자사 플랫폼에서 지원하겠다는 구상이다. 엑스페디션 2026은 스노우플레이크가 데이터·AI 분야 신기술과 제품을 소개하는 온라인 행사로 3일(현지시간)부터 사흘간 열린다.크리스티안 클레이너만 스노우플레이크 제품 담당 수석부사장은 지난달 28일 열린 사전 미디어 간담회에서 오픈AI, 앤트로픽과 차별점을 묻는 질문에 기업 데이터와 업무 맥락을 강조했다. 강력한 모델을 확보해도 회사 내부 정보와 운영 방식을 모르면 정확한 업무 처리가 어렵다는 설명이다.스노우플레이크가 내세운 강점은 고객 데이터를 관리해 온 기반이다. AI 모델에 필요한 정보를 연결하면서 기존 데이터 접근 권한과 보안 규칙",
+      "author": "김동원 기자",
+      "summary": "스노우플레이크가 OpenAI, Anthropic 모델을 활용하면서 기업 데이터와 업무 시스템을 연결하여 AI가 실제 업무를 처리하도록 하는 플랫폼으로 차별화했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b5df4de65163",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "악기 제조사 롤리 파산, 고객들 피해 입어",
+      "link": "https://www.wired.com/story/roli-has-fallen-apart-and-left-customers-holding-the-bag/",
+      "publishedAt": "2026-11-03T14:00:34.000Z",
+      "description": "The inventive instrument maker collapsed into insolvency, leaving buyers empty-handed and users scrambling to keep their musical gear alive.",
+      "author": "Boone Ashworth",
+      "summary": "혁신적인 악기 제조사 롤리가 파산하여 구매자들이 손실을 입었고, 기존 사용자들은 음악 장비를 유지하기 위해 어려움을 겪고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "fbd0eff8d1e7",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "메르세데스-벤츠, 홀로그래픽 헤드업 디스플레이 개발",
+      "link": "https://arstechnica.com/cars/2026/11/beyond-screens-mercedes-benzs-new-holographic-heads-up-display/",
+      "publishedAt": "2026-11-03T14:00:07.000Z",
+      "description": "After pioneering the passenger screen, Mercedes has designs on the windshield.",
+      "author": "James Riswick",
+      "summary": "메르세데스-벤츠가 승객 스크린 개발에 이어 윈드실드에 홀로그래픽 헤드업 디스플레이를 도입하는 설계를 추진 중이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2b376a551173",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "티크런치 파운더 서밋, 보스턴 개최",
+      "link": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
+      "publishedAt": "2026-11-03T14:00:00.000Z",
+      "description": "Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. ET. Save up to $100 on your pass, and get a second for free.",
+      "author": "TechCrunch Events",
+      "summary": "티크런치가 보스턴에서 파운더 서밋을 개최하며, 내일 오전 9시 ET에 패스 가격이 인상된다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "63c6028c652d",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "알티베이스, 베트남서 열린 IR 피칭서 최우수기업 선정",
+      "link": "https://zdnet.co.kr/view/?no=20261103224657",
+      "publishedAt": "2026-11-03T13:46:57.000Z",
+      "description": "[지디넷코리아]고성능 하이브리드 DBMS 전문기업 알티베이스(ALTIBASE)가 지난달 29일 베트남 하노이에서 열린 ‘2026 Vietnam–Korea AI & Digital Forum’의 IR 피칭(IR Pitching) 프로그램에서 한국과 베트남 참가 기업 10개사 중 1위를 차지하며 최우수 기업에 선정됐다.3일 회사에 따르면, 이번 행사는 한국 정보통신산업진흥원(NIPA) 하노이 IT지원센터와 베트남 국가혁신센터(NIC)가 공동으로 개최한 행사다. 양국 기술기업의 혁신 솔루션과 사업모델을 소개하고 투자 및 글로벌 협력 기회를 확대하기 위해 마련됐다.IR 피칭에는 한국과 베트남에서 각각 5개 기업이 참가해 인공지능(AI), 데이터 인프라, 헬스케어, 친환경 기술 등 다양한 분야의 솔루션을 발표했다. 한국과 베트남 전문가로 구성된 심사위원단의 평가와 채점을 거쳐 알티베이스가 최종 1위에 선정됐다. 또 베트남 기업 V-Indoor Care와 VEEP가 각각 2위와 3위를 차지했다.알티베이스는 이번 발표에서 인메모리 DBMS의 빠른 처리 성능과 디스크 기반 DBMS의 대용량 데이터 관리 기능을 결합한 하이브리드 DBMS 기술을 소개했다. 특히 금융, 통신, ",
+      "author": "방은주 기자",
+      "summary": "하이브리드 DBMS 전문기업 알티베이스가 베트남 하노이의 2026 Vietnam–Korea AI & Digital Forum에서 참가 기업 10개 중 1위로 선정돼 최우수 기업상을 수상했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1ae577c814d2",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "빛으로 켰다 끄는 '투명 문신' 개발",
+      "link": "https://www.etnews.com/20261103000445",
+      "publishedAt": "2026-11-03T13:30:00.000Z",
+      "description": "빛을 비추면 나타났다가 숨길 수도 있는 문신 잉크가 개발됐습니다. 미국 콜로라도대 볼더 연구팀이 개발한 '포토탯(PhotoTat)'은 평소에는 거의 보이지 않지만 자외선을 비추면 몇 초 만에 파란색과 자홍색, 노란색 등으로 색이 나타납니다. 기존 UV 타투는 자외선을 비출 때만 보이지만, 포토탯은 자외선을 한번 비추면 색이 나타난 상태가 수시간 동안 유지됩니다. 이후 밝은 빛을 비추면 다시 보이지 않게 만들 수 있습니다. 이를 이용하면 직장이나",
+      "author": "이창민",
+      "summary": "미국 콜로라도대 연구팀이 자외선으로 켰다가 밝은 빛으로 끌 수 있는 포토탯 잉크를 개발했으며, 자외선 노출 후에도 색이 수시간 동안 유지된다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "55e8ed95bb63",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "중학생의 심폐소생술로 심정지 아버지 생명 구해",
+      "link": "https://www.etnews.com/20261103000457",
+      "publishedAt": "2026-11-03T12:55:54.000Z",
+      "description": "학교에서 배운 심폐소생술(CPR)이 한 가족의 생명을 구했다. 전북 전주에서 중학생 아들이 심정지 상태에 빠진 아버지에게 약 7분간 심폐소생술을 실시하고, 119구급상황센터가 영상통화로 응급처치를 안내하면서 환자의 심장 박동이 돌아왔다. 3일 전북특별자치도소방본부에 따르면 지난달 18일 오후 7시51분께 전주시 덕진구의 한 아파트에서 40대 남성 B씨가 갑작스러운 호흡곤란으로 쓰러졌다. 현장을 목격한 중학생 아들 A군은 즉시 119에 신고했다.",
+      "author": "이상목",
+      "summary": "중학생이 학교에서 배운 심폐소생술로 심정지 상태의 아버지를 약 7분간 돌보다가, 119 응급통화 안내로 심장 박동을 회복시켰다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a82f5e448f50",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "바이낸스, 63억 달러 규모 해킹으로 브랜드 위기",
+      "link": "https://www.theguardian.com/technology/2026/nov/02/binance-cryptocurrency-exchange-hack",
+      "publishedAt": "2026-11-03T14:45:30.000Z",
+      "description": "World’s largest crypto exchange faces fallout from angry customers, and Lula wins with WhatsApp This was originally published in TechScape, a newsletter about how technology shapes our lives. Sign up to receive it here This week in tech, we’re discussing the fallout from the multibillion-dollar hack of Binance and the significance of Lula’s political mobilization on WhatsApp. And if you’ll be at Web Summit in Lisbon next week, drop me a line! I’ll be there moderating panels on open-source AI and human agency in the age of AI agents. Tell us: have you been affected by the Binance hack? Polymark",
+      "author": "Blake Montgomery",
+      "summary": "세계 최대 암호화폐 거래소 바이낸스가 63억 달러 규모의 해킹으로 인한 고객 분노와 브랜드 이미지 손상에 직면했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "16d4c9fecf14",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "채용 의도 없이 올려지는 구인공고",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct990m?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-03T14:30:00.000Z",
+      "description": "Some employers create job ads with no intent to hire",
+      "author": null,
+      "summary": "일부 고용주들이 실제 채용 의도 없이 구인공고를 올리고 있는 것으로 드러났다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0a7b94125b3c",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "바클레이스, 자동차 금융 부실 판매 보상금 지급 시작",
+      "link": "https://www.theguardian.com/business/2026/nov/03/car-finance-barclays-bank-offer-payouts-loans",
+      "publishedAt": "2026-11-03T13:34:10.000Z",
+      "description": "Bank to make ‘early settlement’ offers before outcome of legal battle, with those who accept likely to get money before Christmas Barclays will this month start offering compensation to tens of thousands of people who claim they were mis-sold car loans, with some of those who accept likely to see the money land in their account before Christmas. Amid an ongoing legal battle over an industry-wide compensation scheme for victims of the UK’s car finance scandal, Barclays has become the first big UK lender to break cover and begin offering payouts to some customers who have complained. Continue re",
+      "author": "Rupert Jones",
+      "summary": "바클레이스가 자동차 금융 부실 판매 피해자들에게 보상금 지급을 시작하며, 일부 고객은 크리스마스 전에 입금받을 것으로 예상된다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0351efc9ab8a",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "美 중간선거 후 반등 나온다…신중론자 김학주도 \"공포에 사라\" [머니닥터 시장진단]",
+      "link": "https://www.mk.co.kr/news/stock/12195336",
+      "publishedAt": "2026-11-03T13:05:39.000Z",
+      "description": "머니닥터 8인의 11월 증시 전망국내 증시가 7월에 이어 10월에도 가파른 조정을 겪으면서 전문가들도 11월 코스피 전망치를 대폭 낮춰 잡았다. 지난달까지만 해도 7000~8000..",
+      "author": "매일경제",
+      "summary": "7월과 10월의 가파른 조정 이후 전문가들은 11월 증시에 반등 가능성을 점치고 있으며, 신중한 전망자들도 시장 공포심이 사라질 것으로 예상하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "065b572443c9",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "자동차 금융 배상금 수령 대상 설명",
+      "link": "https://www.bbc.co.uk/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-03T12:30:04.000Z",
+      "description": "Millions could be entitled to compensation as a result of commission arrangements between lenders and dealers.",
+      "author": null,
+      "summary": "대출업체와 판매점 간의 수수료 약정으로 인해 수백만 명이 자동차 금융 부실 판매로 배상금을 받을 자격이 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a62e5961cdb7",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "\"비거주자 징벌 과세\" vs \"과세 정상화\"…부동산 세제개편 전문가도 충돌",
+      "link": "https://www.mk.co.kr/news/economy/12195307",
+      "publishedAt": "2026-11-03T12:16:33.000Z",
+      "description": "국회 재정경제기획위원회가 3일 개최한 정부 세제개편안 공청회에서는 실거주 중심의 부동산 세제 전환에 대한 전문가들의 엇갈린 평가가 이어지고 있다. 비거주 주택 보유자에게 세 부담이..",
+      "author": "매일경제",
+      "summary": "국회가 개최한 정부 세제개편안 공청회에서 실거주 중심의 부동산 세제 전환에 대해 전문가들의 평가가 엇갈리고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "351e7e6db52e",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "\"2700조? 앤트로픽, 몸값 낮춰라\"…AI 거품론 불붙인 월가",
+      "link": "https://www.mk.co.kr/news/stock/12195287",
+      "publishedAt": "2026-11-03T11:46:20.000Z",
+      "description": "상장 앞두고 25% 인하 요구 기술주 약세에 코스피 흔들이달 미국 증시 상장을 추진하는 인공지능(AI) 기업 앤트로픽이 월가의 기업가치 인하 압박에 직면했다. 한때 2조달러(약 2..",
+      "author": "매일경제",
+      "summary": "미국 증시 상장을 추진 중인 AI 기업 앤트로픽이 월가로부터 기업가치 인하 압박을 받고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "16e1a5486e0f",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "李대통령 국채발언 놓고 공방…\"잘못 보고했나\"·\"줄어든 것 맞아\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261103162451001",
+      "publishedAt": "2026-11-03T11:10:23.000Z",
+      "description": "(서울=연합뉴스) 박재하 기자 = 국회 재정경제기획위원회가 3일 개최한 정부 세제개편안 공청회에서는 실거주 중심의 부동산 세제 전환에 대한 전문...",
+      "author": "박재하",
+      "summary": "이 대통령의 국채 발언을 두고 정부와 야당 사이에 국채 감소 여부를 놓고 공방이 벌어지고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b0d59d795ea7",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "한·튀르키예 FTA 공동위, 정상회담 계기 장관급 격상",
+      "link": "https://www.yna.co.kr/view/AKR20261103181700003",
+      "publishedAt": "2026-11-03T11:09:13.000Z",
+      "description": "(서울=연합뉴스) 신창용 기자 = 한국과 튀르키예 정상회담을 계기로 기존 국장급으로 운영되던 양국 간 자유무역협정(FTA) 공동위원회가 장관급으...",
+      "author": "신창용",
+      "summary": "한국과 튀르키예 정상회담을 계기로 양국 간 자유무역협정 공동위원회가 국장급에서 장관급으로 격상되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ba37ef8e9f7f",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "GTX '삼성역 무정차 통과' 내년으로 연기",
+      "link": "https://www.mk.co.kr/news/economy/12195233",
+      "publishedAt": "2026-11-03T10:35:55.000Z",
+      "description": "수도권 광역급행철도(GTX)-A노선 삼성역의 연내 무정차 통과가 사실상 무산됐다. 기둥 철근 누락에 따른 안전성 검증이 길어지면서 보강안이 확정되더라도 열차 운행은 1년 늦춰져 내..",
+      "author": "매일경제",
+      "summary": "수도권 광역급행철도 GTX-A노선의 삼성역 무정차 통과가 기둥 철근 누락에 따른 안전성 검증으로 인해 내년으로 연기되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "82fa2c546155",
+      "category": "politics",
+      "source": "조선일보",
+      "region": "kr",
+      "title": "[정우상 칼럼] 이런 지하철과 버스, 보수의 굉장한 성취",
+      "link": "https://www.chosun.com/opinion/column/2026/11/03/TX6Y6LIAJ5GBRBHLASRA23C6YI/",
+      "publishedAt": "2026-11-03T14:55:00.000Z",
+      "description": "",
+      "author": "정우상 논설위원",
+      "summary": "지하철과 버스 등 대중교통 인프라 발전을 보수 정부의 뛰어난 성취로 평가하는 칼럼이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "bd2b3a4da59a",
+      "category": "politics",
+      "source": "SBS 뉴스",
+      "region": "kr",
+      "title": "\"배후는 북한\" 미국이 지목하자…김여정 의미심장 발언",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008829060",
+      "publishedAt": "2026-11-03T14:39:00.000Z",
+      "description": "미국이 8조 원대에 달하는 가상화폐 탈취 사건의 배후로 북한을 공식 지목한 지 이틀 만에 북한이 반응을 내놓았습니다. 김여정이 직접 나서 황당무계한 낭설이라고 일축했는데, 그러면서 미국을 향해 재고해 볼 문제가 있다는 의미심장한 발언까지 던졌습니다.김아영 기자입니다.",
+      "author": "nina@sbs.co.kr (김아영 기자)",
+      "summary": "미국이 8조 원대 가상화폐 탈취 사건의 배후로 북한을 공식 지목하자, 김여정이 황당무계한 낭설이라 반박하고 미국을 향해 재고해야 할 문제가 있다는 의미심장한 발언을 했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f283e7f6ab5a",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "[단독]'1호기 탑승자 정보', 벨기에 정부와 공유하다 샜을 가능성",
+      "link": "https://www.donga.com/news/Politics/article/all/20261103/134958809/1",
+      "publishedAt": "2026-11-03T13:46:00.000Z",
+      "description": "이재명 대통령 부부 등 대통령 전용기인 공군 1호기 탑승자 168명의 개인정보가 5개월 동안 유출된 사건과 관련해 청와대와 정부가 뒤늦게 진상 파악에 나섰다. 경찰은 3일 정식 수사에 착수했다.외교부 당국자는 이날 기자들과 만나 “해킹에 의한 것이 아니라 행사를 준비하면서 여러 문서가 유통되는 과정에서 유출되지 않았나 생각한다”고 말했다. 이어 “외교부에서 작성하는 양식과 유사하다”고 했다. 유출된 엑셀 파일 작성자는 외교부 영문 약칭인 ‘MOFA(Ministry of Foreign Affairs)’로 기재돼 있는 것으로 알려졌다.외교부는 해외 순방을 총괄하는 의전장실에서 해당 문서가 작성된 것으로 보고 있다. 정부는 주벨기에 대사관으로 파일이 전송된 뒤 현지 관련 기관이나 상대국 정부에 공유되는 과정에서 유출된 것에 무게를 둔 것으로 알려졌다.이 대통령 부부 등 168명의 이름과 여권번호, 만료일 등의 개인정보가 담긴 엑셀 파일은 유럽 순방을 일주일 앞둔 6월 2일 해외 악성",
+      "author": null,
+      "summary": "이재명 대통령 부부 등 공군 1호기 탑승자 168명의 개인정보가 5개월간 유출된 사건과 관련해, 정부는 외교부 의전장실 문서가 벨기에 대사관을 거쳐 유출된 것으로 보고 경찰은 수사를 착수했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2a4b9e670efc",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "오세훈, 국힘 행안위원들과 만찬…\"與 공세 적극대응 공감대\"",
+      "link": "https://www.yna.co.kr/view/AKR20261103185700001",
+      "publishedAt": "2026-11-03T13:13:42.000Z",
+      "description": "(서울=연합뉴스) 박수윤 노선웅 기자 = 오세훈 서울시장이 3일 국회 행정안전위원회 소속 국민의힘 의원들을 서울 한남동 공관으로 초청해 만찬을 ...",
+      "author": "노선웅",
+      "summary": "오세훈 서울시장이 국민의힘 행안위원 의원들과 만찬을 개최해 여당의 공세에 적극 대응할 공감대를 형성했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b03f8c4ad6ce",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "다문화 '우대 시책' 조사에…지자체 \"도입 배경 등 살펴야\"",
+      "link": "https://www.khan.co.kr/article/202611032212005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-11-03T13:12:00.000Z",
+      "description": "법무부 ‘과다한 특혜 찾아 제출’ 모호한 공문에 혼란…‘낙인’ 우려“취약계층 포함, 고향 방문 지원 등 지역 특성 고려한 정책이 다수”정부가 전국 지방자치단체가 시행 중인 ‘다문화가족 우대 시책’ 현황 파악에 나서면서 각 지자체가 혼란을 겪고 있다. 다문화뿐 아니라 취약계층을 포함한 정책인데도 ‘다문화 우대 시책’으로 분류되는 등 과도한 ‘정책 낙인’이 될···",
+      "author": "강현석·고귀한·백경열·강정의 기자",
+      "summary": "법무부가 지자체의 다문화가족 우대 시책 현황 파악을 진행 중이나, 취약계층 포함 정책이 '다문화 우대 시책'으로만 분류되면서 지자체의 혼란과 과도한 '정책 낙인' 우려가 제기됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "fb2db852ccdd",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "\"불공정 프레임, '반이주민' 혐오 기폭제 돼\"",
+      "link": "https://www.khan.co.kr/article/202611032204005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-11-03T13:04:00.000Z",
+      "description": "청와대 앞에 선 이주민들‘이주민 차별’ 규탄 전국이주인권노동시민사회단체 회원들이 3일 서울 종로구 청와대 분수대 앞에서 이재명 대통령의 이주민 관련 발언에 대한 사과와 재발 방지 대책을 촉구하고 있다. 권도현 기자이 대통령에 사과·재발방지 촉구 통합수석, 간담회서 “대신 사과”이주민 노동인권단체들이 3일 서울 종로구 청와대 분수대 앞에서 기자회견을 열고 ···",
+      "author": "최서은 기자",
+      "summary": "이주민 노동인권단체들이 청와대 앞에서 기자회견을 열어 이재명 대통령의 이주민 관련 차별 발언에 사과와 재발 방지 대책을 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2134acaeb91e",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "역차별 논란에 가려진 '다문화 정책' 사각지대…\"보이지 않는 차별\" 봐주세요",
+      "link": "https://www.khan.co.kr/article/202611032151025/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-11-03T12:51:02.000Z",
+      "description": "이 대통령, 다문화 제도 점검 주문성평등부 “여러 부처 함께 신경을”새 정책마다 불거진 형평성 논란역대 정부, 간극 좁히기 노력 병행이주민 노동·인권 단체가 3일 서울 종로구 청와대 분수대 앞에서 이재명 대통령 이주민 관련 차별 발언 규탄 기자회견을 열고 이 대통령의 사과와 재발 방치 대책을 촉구하고 있다. 권도현 기자이재명 대통령이 연일 다문화가족 지원 ···",
+      "author": "김지혜 기자",
+      "summary": "이재명 대통령이 다문화 제도 점검을 주문했으나, 역차별 논란에 가려진 다문화 정책의 사각지대와 보이지 않는 차별이 여전한 문제로 지적됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "28eb9b36b0b4",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "외교부 \"1호기 탑승자 명단 내부 유출…해킹 아냐\"",
+      "link": "https://www.khan.co.kr/article/202611032151005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-11-03T12:51:00.000Z",
+      "description": "이 대통령 부부 포함 168명 전원 여권 재발급 진행…국수본 수사 착수정부는 이재명 대통령 부부를 포함한 공군 1호기 탑승자 개인정보가 외부 사이트에 게시된 사건을 두고 외부 해킹이 아닌 내부 유출에 의한 것으로 판단했다. 외교부는 대통령 부부와 정부 관계자, 기자 등 168명의 여권 재발급 절차에 나섰고, 경찰은 수사에 착수했다. | 관련기사 4면박두순···",
+      "author": "강연주·김원진 기자",
+      "summary": "이재명 대통령 부부 등 168명의 개인정보 유출이 외부 해킹이 아닌 내부 유출로 판단되어, 여권 재발급이 진행 중이고 경찰은 수사를 착수했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "40f5b1f3c07a",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "與, 여성위원장 김남희 등 전국위원장 10명 선출…현역 5명",
+      "link": "https://www.yna.co.kr/view/AKR20261103182800001",
+      "publishedAt": "2026-11-03T11:59:43.000Z",
+      "description": "(서울=연합뉴스) 안정훈 기자 = 더불어민주당은 3일 여성·노인·청년·대학생·장애인·노동·농어민·을지키는민생실천·사회연대경제·소상공인 등 전국위...",
+      "author": "안정훈",
+      "summary": "더불어민주당이 여성·노인·청년·대학생·장애인·노동·농어민 등 분야별 전국위원장 10명을 선출했으며, 이 중 5명이 현역이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c9de6a7943d9",
+      "category": "politics",
+      "source": "서울신문",
+      "region": "kr",
+      "title": "野 \"국가 안보 맡길 수 있나\"…1호기 명단 유출에 '보안 참사' 질타",
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20261103500290",
+      "publishedAt": "2026-11-03T08:17:53.000Z",
+      "description": "국민의힘은 3일 이재명 대통령 부부를 포함해 청와대 비서실·경호처 직원과 출입기자 등 순방 인원 168명의 개인정보가 외부 사이트에 장기간 노출된 데 대해 “대통령의 민감 정보조차 지키지 못하는 청와대에 국가 안보를 맡길 수 있겠나”라고 비판했다. 이 대통령을 향해서는 관련 책임자 문책을 촉구했다. 장동혁 국민의힘 대표는 이날 페이스북에 “공군 1호기 탑승 명단이 유출됐다”며 “대통령 부부부터 순방 기자단까지 개인정보가 싹 털렸다”고 지적했다. 이어 해당 자료가 지난 6월 게시된 뒤 5개월 넘게 방치된 점을 언급하며 ‘회사가 망한다는 생각이 들도록 해야 한다’는 이재명 대통령의 쿠팡 개인정보 유출 사고 당시 발언을 인용한 뒤 “청와대가 망할 차례인가”라고 꼬집었다. 조용술 대변인도 논평에서 “동네 통장 모임에 야유회를 가더라도 이 정도로 개인정보가 무방비로 노출되는 경우는 드물다”라며 “내 안방도 못 지키면서 무슨 국가 안보를 책임지나”라고 지적했다. 이어 “이 대통령의 외교 순방 관련 핵심 정보가 불특정 다수에게 공개된 것은 사실상 적국이나 테러단체에 안방 문을 대놓고 열어준 것이나 다름없는 경호 참사”라고 비판했다. 그러면서 수사기관에 유출 경위와 실제 ",
+      "author": "곽진웅 기자",
+      "summary": "국민의힘이 이재명 대통령 부부 등 168명의 개인정보가 5개월 이상 외부 사이트에 노출된 사건을 강하게 비판하며, 대통령의 민감 정보도 지키지 못하면서 국가 안보를 맡길 수 있냐고 지적하고 관련 책임자 문책을 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "760244892153",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "리비아 최고 종교 지도자, Nike 의류 착용 금지",
+      "link": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-03T14:56:46.000Z",
+      "description": "The US company was named after the Greek goddess of victory, so the Dar al-Ifta said displaying its logo was unIslamic.",
+      "author": null,
+      "summary": "리비아의 최고 이슬람 종교 지도자인 Dar al-Ifta가 미국 스포츠 브랜드 Nike의 로고를 이슬람식이 아니라며 의류 착용을 금지했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6c08a2e3f5d7",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "이란 안보수장 \"우리 요구에 대한 美 반응, 설득력 없어\"",
+      "link": "https://www.yna.co.kr/view/AKR20261103188600079",
+      "publishedAt": "2026-11-03T14:54:52.000Z",
+      "description": "(카이로=연합뉴스) 김상훈 특파원 = 이란이 제시한 호르무즈 해협 재개방 및 평화 협상 재개를 위한 요구사항에 대한 미국의 반응이 불충분하다고 ...",
+      "author": "김상훈",
+      "summary": "이란 안보 관계자가 호르무즈 해협 재개방과 평화 협상 재개를 위한 자국 요구에 대한 미국의 답변이 설득력이 부족하다고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "14520b5303e8",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "美 \"북한 사이버범죄, 전지구적 문제\"…北 '바이낸스 해킹' 부인 반박",
+      "link": "https://www.yna.co.kr/view/AKR20261103188300071",
+      "publishedAt": "2026-11-03T14:51:33.000Z",
+      "description": "(워싱턴=연합뉴스) 장동우 홍정규 특파원 = 미국은 '바이낸스 가상화폐 해킹 사건'의 배후로 지목된 북한이 이를 부인한 데 대해 3일(현지시간)...",
+      "author": "홍정규",
+      "summary": "미국이 바이낸스 암호화폐 거래소 해킹 배후로 지목된 북한의 부인에 대해 북한의 사이버 범죄가 전 지구적 문제라고 반박했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "36bc4a2046f9",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "중국-인도 국경 긴장 고조, 외교 관계 개선에 의문",
+      "link": "https://www.dw.com/en/china-and-india-achieved-diplomatic-thaw-now-the-border-is-flaring-up/a-79843273?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-11-03T14:48:00.000Z",
+      "description": "Indian authorities have confirmed a new border \"face-off\" between Indian and Chinese troops in Arunachal Pradesh, raising questions about the still fragile thaw in relations between New Delhi and Beijing.",
+      "author": null,
+      "summary": "인도군과 중국군이 아루나찰프라데시주에서 새로운 국경 대치 상황을 벌였으며, 인도와 중국 사이의 여전히 취약한 관계 개선에 의문이 제기되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3ccecbce421f",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "베를린의 아랍 퀴어들, 커뮤니티 구축 중",
+      "link": "https://www.dw.com/en/how-berlin-s-arab-queers-are-building-their-community/a-79833143?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-11-03T14:37:00.000Z",
+      "description": "As the co-founder of the ADIRA Drag Festival, Lebanese performance artist, drag performer, DJ and cultural organizer Hassandra has become an essential part of Berlin's queer artistic landscape.",
+      "author": null,
+      "summary": "레바논 태생의 공연 예술가이자 드래그 퍼포머 Hassandra가 ADIRA 드래그 페스티벌 공동 창립자로서 베를린 퀴어 예술계에서 중요한 역할을 수행하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9d27eb983bb0",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "인도 해군, 소말리아 인근에서 납치된 이란 어선 승무원 20명 구출",
+      "link": "https://www.npr.org/2026/11/03/g-s1-151468/indian-navy-rescues-20-crew-from-iranian-fishing-boat-hijacked-off-somalia",
+      "publishedAt": "2026-11-03T14:13:58.000Z",
+      "description": "he operation involved a warship, a maritime surveillance aircraft and marine commandos. The hijacking followed a resurgence of Somali piracy across the Gulf of Aden and western Indian Ocean.",
+      "author": "The Associated Press",
+      "summary": "인도 해군이 전함, 해상 감시 항공기, 해병대를 동원해 소말리아 해적에게 납치된 이란 어선의 승무원 20명을 아덴만과 인도양에서 구출했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9409d373b62b",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "호주 공무원노조, 공직 감원과 컨설턴트 지출 규탄하며 노동당 지지 거부",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/04/cpsu-public-servants-union-refuses-to-back-labor-at-victorian-election",
+      "publishedAt": "2026-11-03T14:00:46.000Z",
+      "description": "Exclusive: Community and Public Sector Union denounces ‘privatisation by stealth’, joining growing number of unions turning on Carroll government Get our breaking news email, free app or daily news podcast Victoria’s public servants union says it will not support Labor at this month’s state election, condemning the government for cutting public service jobs while spending $1.2bn on consultants. The Community and Public Sector Union (CPSU) will announce the decision on Wednesday, joining several other unions that have refused to back Labor or are actively campaigning against the government ahea",
+      "author": "Benita Kolovos Victorian state correspondent",
+      "summary": "호주 빅토리아주 공공 부문 노조가 정부의 공직 감원과 12억 달러 규모 컨설턴트 지출을 규탄하며 이달의 주(州) 선거에서 노동당 지지를 거부했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b40a595dae67",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "Snowy Hydro 2.0 경영진, 비용 초과에도 불구하고 보너스 수령",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/04/snowy-hydro-20-executives-awarded-bonuses-totalling-751925-despite-cost-blowout",
+      "publishedAt": "2026-11-03T14:00:44.000Z",
+      "description": "Annual reports show NSW renewable company’s CEO opted out of cash bonus, while CSIRO’s chief received an extra $200,000 Get our breaking news email, free app or daily news podcast Executives at the troubled Snowy Hydro company collectively banked bonuses worth a combined $751,925 in the last financial year, despite its renewable energy project blowing out to 12 times its original cost. But Guardian Australia can reveal chief executive, Dennis Barnes, who has a base salary of $1,845,126, opted not to accept the extra cash. Continue reading...",
+      "author": "Tess Ikonomou",
+      "summary": "Snowy Hydro의 경영진들이 신재생 에너지 사업이 원래 예상 비용의 12배로 초과되었음에도 불구하고 총 75만1925달러의 보너스를 수령했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f3fab471bb69",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "유럽 10개국 슈퍼마켓, 사이버 공격으로 냉동식품 폐기",
+      "link": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-03T13:55:47.000Z",
+      "description": "Supermarkets have reported problems from Estonia and Sweden to Portugal and Italy and many retainers have been forced to discard food.",
+      "author": null,
+      "summary": "에스토니아에서 포르투갈까지 유럽 10개국의 슈퍼마켓들이 사이버 공격으로 냉동실 문제가 발생해 대량의 식품을 폐기했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "015283f45e75",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "미국 의회 선거 투표 진행, 클래인시 사건 판사 결정 예정",
+      "link": "https://www.npr.org/2026/11/03/g-s1-151445/up-first-newsletter-midterms-election-day-iran-war-lindsay-clancy",
+      "publishedAt": "2026-11-03T11:43:49.000Z",
+      "description": "Election Day is here, and voters are heading to the polls in an election that may change control of Congress. And, a judge is considering whether to dismiss Lindsay Clancy's murder case.",
+      "author": "Brittney Melton",
+      "summary": "미국 의회의 다수당 주도권이 결정될 선거 투표가 진행 중이며, 판사가 Lindsay Clancy의 살인 혐의 사건 해제 신청을 심리 중이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "cc5b2e5db080",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "수도권 공공주택 24% 무늬만 착공… 이래선 '닥공' 어렵다",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261103/134961018/2",
+      "publishedAt": "2026-11-03T14:30:00.000Z",
+      "description": "수도권에서 착공한 공공주택 4채 중 1채는 ‘무늬만 착공’인 것으로 나타났다. 정부 집계로는 착공한 것으로 돼 있지만, 실제 공사는 거의 진행된 적이 없다는 뜻이다. 한국토지주택공사(LH)에 따르면 2023∼2025년 수도권에서 착공했다고 보고된 7만3700채 중 1만7600채(24%)가 올해 9월까지도 공정이 1% 미만이었다. 내년 7월 준공을 목표로 했던 3기 신도시의 경기 하남교산 A2블록은 2024년 10월 착공한 것으로 통계에 잡힌다. 그런데 사실은 2년 가까이 공사가 멈춰 있다가 최근에야 터파기에 들어갔다. 지난해 6월 착공됐다는 경기 평택고덕국제화계획 Ab-35블록 역시 비슷하다. 두 곳의 공사 지연은 오염토 정화 때문이라고 한다. 동아일보 취재팀이 찾아가 본 인천 계양구 박촌동 A6블록도 작년 12월 착공했다는 서류와 달리 이제 막 토사를 퍼내는 중이었다. 심지어 토지 보상 문제가 해결되지 않은 서울의 일부 도심복합사업들까지 ‘착공’으로 분류된 것은 어떻게 설명할 건",
+      "author": null,
+      "summary": "수도권 공공주택의 24%가 실제 공사 진행 없이 착공 통계만 올려진다며, 이 같은 관행으로는 '닥공'(내년 완공) 목표 달성이 어렵다고 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "691f8e59613b",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]金 \"신천지 비밀연합 증거 없다\"… 거짓이란 건지, 덮자는 건지",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261103/134961020/2",
+      "publishedAt": "2026-11-03T14:27:00.000Z",
+      "description": "더불어민주당 김민석 대표가 8·17 전당대회 때 자신이 제기한 신천지의 전당대회 개입설에 대해 3일 돌연 “증거를 찾지 못했다”며 사과했다. 김 대표는 당시 전당대회 경쟁자였던 정청래 전 대표를 겨냥해 ‘반명(반이재명)·분열주의·신천지 3자 비밀 연합 결성’ 의혹을 제기했다. 그런데 해당 의혹에 대한 당 자체 조사 결과를 발표하려던 이날 의총에서 갑자기 자신의 주장이 근거가 없다고 한 것이다. 전당대회 때만 해도 이른바 ‘3자 비밀 연합’을 깨는 것이 당 대표 선거의 본질이라고까지 주장했던 김 대표다. 그만큼 해당 의혹은 전당대회의 최대 쟁점 가운데 하나였다. 당시 김 대표는 신천지가 당내 특정 세력과 연관됐다는 의혹을 반복적으로 주장하면서도 정작 그에 대한 구체적인 사실관계는 밝히지 않았다. 해당 의혹을 7월 처음 제기한 이후 전당대회 내내 논란이 확산되는 상황에서도 관련 근거의 공개 여부에 대해서는 자신에게 맡겨 달라는 말만 되풀이했을 뿐이다. 당 대표 선거 중 허위 정보를 주",
+      "author": null,
+      "summary": "김민석 대표가 전당대회 때 제기한 신천지 비밀연합 의혹에 대해 구체적 근거 없이 제기했다가 갑자기 철회한 것을 비판하며, 이것이 허위 정보 유포라고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c594ee41e972",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]대통령 여권번호까지 줄줄… 어처구니없는 보안 참사",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261103/134961022/2",
+      "publishedAt": "2026-11-03T14:24:00.000Z",
+      "description": "이재명 대통령 부부와 장관들, 청와대 비서실·경호처 직원, 기자단 등 해외 순방단의 개인정보가 인터넷 사이트에 약 5개월간 노출됐던 사실이 뒤늦게 확인됐다. 정부는 3일 “결코 가볍게 넘길 수 없는 중대한 사안으로서 매우 엄중하게 인식하고 있다”며 모든 인사에 대한 여권 재발급과 함께 철저한 경위 조사, 재발 방지 조치를 취하겠다고 밝혔다. 경찰청도 곧바로 수사에 착수했다. 국가 최고지도자부터 근접 경호팀까지 해외 순방단의 개인정보가 몇 개월씩이나 온라인에 방치된 것은 중대한 보안 참사가 아닐 수 없다. 순방단 168명의 국·영문 이름과 소속, 직책, 여권번호 등이 담긴 ‘공군 1호기 탑승자 명단’ 엑셀 파일이 한 악성코드 검사 사이트에 오른 것은 유럽 순방 일주일 전인 6월 2일이었다. 이후 5개월 동안 유료 회원이면 누구나 파일을 내려받을 수 있는 사이트에 노출됐다가 2일 언론 보도가 나오기 직전에야 열람이 차단됐다. 혹시라도 적대 세력에 넘어갔다면 표적 공격에 악용될 가능성도",
+      "author": null,
+      "summary": "이재명 대통령 부부와 순방단 168명의 여권번호·국영문 이름 등 개인정보가 5개월간 온라인에 노출된 것을 중대한 보안 참사라고 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9d94467bfb30",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "호주 중앙은행의 기준금리 인상, 호주인에겐 쓸쓸한 약",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/04/rba-split-inflation-effects-rate-hike-australia-economic-outlook",
+      "publishedAt": "2026-11-03T14:00:45.000Z",
+      "description": "The country’s economic outlook makes for grim reading – with two major exceptions Get our breaking news email, free app or daily news podcast Financial markets and economists were of one mind that the Reserve Bank of Australia (RBA) would this week announce yet another rate hike, its fifth in this cycle, and they did. But it’s probably worth focusing on the fact that three of the nine monetary board members voted to keep rates on hold. To be clear, it’s likely the dissenters agreed that inflation remains too high at present: it clearly is. Underlying inflation, the best indicator of price pres",
+      "author": "Nicki Hutley",
+      "summary": "호주 중앙은행(RBA)의 기준금리 인상이 통화 이사회 9명 중 3명의 반대에도 진행됐으며, 인상의 위험성을 우려하는 입장이 있다고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "65cec3807574",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "미국이 열망해온 비선출 엘리트, 실세 권력층",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/03/courtier-class-us-aristocracy",
+      "publishedAt": "2026-11-03T14:00:43.000Z",
+      "description": "From Hamilton to the ‘Epstein class’, we have long been fascinated by a charismatic yet shadowy set of power brokers. American aristocracy is alive and well Americans remain awed by the extravagance of the super-rich, oddly enticed and generally accepting of the fact that the moneyed elite have privileges that they use to their own advantage. After the Hollywood celebrity and the professional athlete, the figure who invites the most curiosity is what is colloquially termed “powerbroker”. We’re talking about the dealmaker, the inside player – or in the words of Sade’s song, a “smooth operator”.",
+      "author": "Nancy Isenberg",
+      "summary": "미국 사회가 부자층과 비선출 엘리트 권력자들의 특권을 신비롭게 여기며 용인하는 태도를 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "dfb7a4dd9119",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "영국인은 노예제에 대해 사과할 필요는 없지만, 정부는 해야 한다",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/03/british-people-slavery-governmment-andy-burnham-transatlantic-trade",
+      "publishedAt": "2026-11-03T13:52:30.000Z",
+      "description": "Andy Burnham’s intervention is important. Because when it comes to Britain’s role in the transatlantic trade, the collective amnesia is stunning Departing from his predecessors’ stances, the UK prime minister, Andy Burnham, surprised us all when he stated he was open to listening to calls for an apology for the UK’s role in centuries of transatlantic enslavement. King Charles is expected to speak with “unflinching honesty” and “sincere sorrow” about the UK’s role in the transatlantic slave trade at the Commonwealth heads of government meeting in Antigua and Barbuda today. Burnham was quick to ",
+      "author": "Olivette Otele",
+      "summary": "영국의 지난 노예무역에 대해 국민 개인이 아닌 정부의 공식 사과가 필요하다며, 총리 앤디 번햄의 개방적 입장을 긍정적으로 평가했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6037aed5745f",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "교육 선택의 자유, 왜 웃을 수 없나?",
+      "link": "https://www.nytimes.com/2026/11/03/opinion/school-choice-education.html",
+      "publishedAt": "2026-11-03T13:40:44.000Z",
+      "description": "Hey, no one said having all this freedom was going to be easy. Or survivable.",
+      "author": "Jennifer L. Jennings",
+      "summary": "교육 선택의 자유가 주어져도 현실적으로 그것이 쉽거나 지속 가능하지 않다고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8eff6181907c",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "머스크, 트럼프와 '아인 랜드식 슈퍼맨'",
+      "link": "https://www.nytimes.com/video/opinion/100000011243960/musk-trump-and-the-ayn-randian-superman.html",
+      "publishedAt": "2026-11-03T12:20:45.000Z",
+      "description": "Elon Musk and Donald Trump both embody the “Ayn Randian superman” trope in American politics, argues the Opinion columnist Ezra Klein. On “The Ezra Klein Show,” Quinn Slobodian, a co-author of “Muskism,” complicates this image of Musk and asks, “How can you dethrone Musk?”",
+      "author": null,
+      "summary": "엘론 머스크와 도널드 트럼프를 '아인 랜드식 슈퍼맨' 원형을 체현한 인물들이라고 평가하며, 미국 정치에서 이 유형의 영향력을 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "22f0f264bafa",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[강준만의 화이부동]'유튜브 권력'의 반란",
+      "link": "https://www.khan.co.kr/article/202611032012005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-11-03T11:12:00.000Z",
+      "description": "팬덤정치와 유튜브 선동에선 이재명에 뒤지지 않는 유시민·김어준은 그들의 부족주의 비즈니스를 하고 있을 뿐 그게 기존 미디어 생태계의 증폭을 거치면서 정권에 큰 타격을 주는 ‘유튜브 권력 반란’이지만, 그 반란의 주역들은 무죄다팬덤권력에 취한 ‘주취 소란’ 혐의는 있지만, 경찰까지 부를 정도는 아니다. 유튜브 축복과 저주, 알고나 당하자전 국회의장 김진표는 ···",
+      "author": "강준만 전북대 명예교수",
+      "summary": "유튜브 권력의 반란이 정권에 타격을 주지만, 그 주역들은 팬덤정치의 주취 소란 수준에 불과하다고 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "76554f4dce76",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[경제직필]불평등 해소, 쓸돈은 있으나 의지가 없다",
+      "link": "https://www.khan.co.kr/article/202611032009015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-11-03T11:09:01.000Z",
+      "description": "정부는 올해 명목 경제성장률을 12% 정도로 예측한다. 그러나 이는 엄살이다. (12% 성장 예측이 과장이 아니라 엄살이라니!) 나는 최소한 22%는 성장할 것이라고 생각한다. 실제로 올해 상반기 이미 22% 성장했다. 상반기 성장 속도를 이어간다면 연간으로도 22%는 가능하다. 반도체 가격은 3분기에도, 지금도 오르고 있다. 실제로 국제통화기금(IMF)의···",
+      "author": "이상민 나라살림연구소 수석연구위원",
+      "summary": "정부의 경제성장률 예측이 과장됐으며, 불평등 해소를 위한 재원은 충분하나 정치적 의지가 부족하다고 지적했다.",
+      "summarySource": "llm"
+    }
+  ],
+  "summarizedAt": "2026-11-04T02:00:51.041Z",
+  "summaryStats": {
+    "llm": 50,
+    "fallback": 0,
+    "model": "claude-haiku-4-5"
+  }
+}
