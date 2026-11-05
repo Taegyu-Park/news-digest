@@ -1,0 +1,901 @@
+{
+  "date": "2026-11-04",
+  "generatedAt": "2026-11-05T02:00:26.298Z",
+  "categories": [
+    {
+      "id": "it",
+      "label": "IT·과학·AI"
+    },
+    {
+      "id": "economy",
+      "label": "경제·금융"
+    },
+    {
+      "id": "politics",
+      "label": "정치·사회"
+    },
+    {
+      "id": "world",
+      "label": "세계·국제"
+    },
+    {
+      "id": "editorial",
+      "label": "사설·칼럼",
+      "opinion": true,
+      "summaryMaxChars": 220
+    }
+  ],
+  "feedStatus": [
+    {
+      "source": "Ars Technica",
+      "category": "it",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "Hacker News",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "TechCrunch",
+      "category": "it",
+      "ok": true,
+      "matched": 3
+    },
+    {
+      "source": "The Verge",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "블로터",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "전자신문",
+      "category": "it",
+      "ok": false,
+      "error": "fetch failed",
+      "matched": 0
+    },
+    {
+      "source": "ZDNet Korea",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC Business",
+      "category": "economy",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "The Guardian",
+      "category": "economy",
+      "ok": true,
+      "matched": 18
+    },
+    {
+      "source": "매일경제 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 31
+    },
+    {
+      "source": "연합뉴스",
+      "category": "economy",
+      "ok": true,
+      "matched": 27
+    },
+    {
+      "source": "경향신문 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 42
+    },
+    {
+      "source": "경향신문 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 27
+    },
+    {
+      "source": "노컷뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "서울신문",
+      "category": "politics",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "연합뉴스 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "연합뉴스 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 76
+    },
+    {
+      "source": "SBS 뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 10
+    },
+    {
+      "source": "Al Jazeera",
+      "category": "world",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC World",
+      "category": "world",
+      "ok": true,
+      "matched": 11
+    },
+    {
+      "source": "NPR",
+      "category": "world",
+      "ok": true,
+      "matched": 5
+    },
+    {
+      "source": "The Guardian",
+      "category": "world",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "연합뉴스 국제",
+      "category": "world",
+      "ok": true,
+      "matched": 32
+    },
+    {
+      "source": "매일경제 증권",
+      "category": "economy",
+      "ok": true,
+      "matched": 25
+    },
+    {
+      "source": "경향신문 오피니언",
+      "category": "editorial",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "NYT Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 17
+    },
+    {
+      "source": "The Guardian Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 11
+    },
+    {
+      "source": "Washington Post Opinions",
+      "category": "editorial",
+      "ok": false,
+      "error": "HTTP 502",
+      "matched": 0
+    },
+    {
+      "source": "동아일보 사설",
+      "category": "editorial",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "동아일보 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 25
+    },
+    {
+      "source": "조선일보",
+      "category": "politics",
+      "ok": true,
+      "matched": 19
+    },
+    {
+      "source": "동아일보 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "머니투데이",
+      "category": "economy",
+      "ok": false,
+      "error": "fetch failed",
+      "matched": 0
+    },
+    {
+      "source": "Wired",
+      "category": "it",
+      "ok": true,
+      "matched": 26
+    },
+    {
+      "source": "DW News",
+      "category": "world",
+      "ok": true,
+      "matched": 10
+    }
+  ],
+  "items": [
+    {
+      "id": "06bc7b7acb67",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "'머스크' 감독, 민주당의 머스크 책임 추궁 가능성 묻다",
+      "link": "https://www.wired.com/story/wired-world-fair-2026-alex-gibney-musk/",
+      "publishedAt": "2026-11-04T14:15:21.000Z",
+      "description": "Spending hundreds of millions of dollars means nothing to Elon Musk, director Alex Gibney says.",
+      "author": "Kate Taylor",
+      "summary": "영화 '머스크' 감독 알렉스 깁니는 일론 머스크가 수억 달러를 써도 책임을 피할 수 없다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1f380d299553",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "레볼럿 기업 가치 53% 올라 1,150억 달러 달성",
+      "link": "https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/",
+      "publishedAt": "2026-11-04T14:10:10.000Z",
+      "description": "Glade Brook, Coatue, and T. Rowe Price were among the investors that led the share sale.",
+      "author": "Jagmeet Singh",
+      "summary": "핀테크 스타트업 레볼럿이 새로운 주식 공모에서 기업 가치를 53% 올려 1,150억 달러에 도달했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2ed04fd892b3",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "영국 관료 주장 AI 경제 효과 4,000억 파운드, 사실은 구글 자료에서",
+      "link": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
+      "publishedAt": "2026-11-04T13:49:51.000Z",
+      "description": "The AI minister now concedes the estimated figure is less than a third of that. Researchers blame the country’s slow rate of adoption.",
+      "author": "Ben Gartside",
+      "summary": "영국의 AI 장관이 AI 경제 영향으로 제시한 4,000억 파운드 수치는 실제로 구글 자료에서 나왔으며, 정정된 추정치는 그보다 훨씬 낮다고 인정했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "00b50b86ce81",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "'트럼프와 전적으로 전쟁', 중간선거 참패 후 매그(MAGA) 진영 분열",
+      "link": "https://www.wired.com/story/im-100-percent-at-war-with-trump-maga-revolts-after-midterms-wipeout/",
+      "publishedAt": "2026-11-04T13:48:28.000Z",
+      "description": "While some of Donald Trump’s closest allies have remained silent, much of MAGA is blaming him for historic losses.",
+      "author": "David Gilbert",
+      "summary": "도널드 트럼프의 동맹 일부가 침묵하는 가운데, 매그 진영 대부분이 중간선거의 역사적 패배에 대해 트럼프를 비난하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9629b9d628e6",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "테크크런치 창업자 서밋 2026 보스턴 개최",
+      "link": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
+      "publishedAt": "2026-11-04T13:00:00.000Z",
+      "description": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.",
+      "author": "TechCrunch Events",
+      "summary": "테크크런치 창업자 서밋 2026이 보스턴의 소와 파워 스테이션에서 개최되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0496dc6e4ae1",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "캔바, 성장 둔화 속 1,200명 이상 감원",
+      "link": "https://techcrunch.com/2026/11/04/canva-lays-off-over-1200-people-amid-slowing-growth/",
+      "publishedAt": "2026-11-04T11:59:00.000Z",
+      "description": "Canva is cutting 22% of its staff as it faces its 'hardest year' yet.",
+      "author": "Ivan Mehta",
+      "summary": "디자인 협업 플랫폼 캔바가 성장 둔화로 인해 직원의 22%인 1,200명 이상을 감원했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "019f83a4c8e6",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "아마존 신형 킨들, 35달러 액세서리로 충분할 수 있다 (2026)",
+      "link": "https://www.wired.com/story/finally-a-kindle-page-turner/",
+      "publishedAt": "2026-11-04T11:36:00.000Z",
+      "description": "If you already have a compatible e-reader, the $35 Kindle Click could be all the upgrade you need.",
+      "author": "Nena Farrell",
+      "summary": "이미 호환되는 이북 리더를 소유 중인 경우, 35달러짜리 킨들 클릭이 필요한 모든 업그레이드가 될 수 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5f58c4321f5d",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "캘리포니아, 트럼프 행정부의 브로드밴드법 폐지 요구에 저항",
+      "link": "https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/",
+      "publishedAt": "2026-11-03T22:39:37.000Z",
+      "description": "State tries to obtain broadband funds despite rejecting Trump admin condition.",
+      "author": "Jon Brodkin",
+      "summary": "캘리포니아가 트럼프 행정부의 조건을 거부하면서도 연방 브로드밴드 펀드를 받으려고 노력하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2f70d6c369eb",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "우크라이나 드론 공격, 러시아의 지하 데이터센터 건설 계획 촉발",
+      "link": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
+      "publishedAt": "2026-11-03T20:39:55.000Z",
+      "description": "Russia tries to fix exposed digital infrastructure as data center war backfires.",
+      "author": "Jeremy Hsu",
+      "summary": "우크라이나의 드론 공격으로 노출된 러시아의 디지털 인프라를 보호하기 위해 러시아가 지하 데이터센터 건설을 추진하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e9e1cc36cc97",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "뉴욕타임즈, 브레이브의 페이월 차단기 중단 요구",
+      "link": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
+      "publishedAt": "2026-11-03T18:30:27.000Z",
+      "description": "Lawsuit calls Brave \"supplier, dealer, and distributor\" of stolen news content.",
+      "author": "Jon Brodkin",
+      "summary": "뉴욕타임즈가 브레이브를 도용 뉴스 콘텐츠의 '공급자, 판매자, 유통자'라고 주장하며 소송을 제기했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "344d603ac6e9",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "코트라 \"미국 관세정책 유지 전망…쟁점법안 거부권 가능성\"",
+      "link": "https://www.yna.co.kr/view/AKR20261104185300003",
+      "publishedAt": "2026-11-04T14:48:59.000Z",
+      "description": "(서울=연합뉴스) 장보인 기자 = 미국 중간선거에서 민주당이 완승을 거뒀지만 도널드 트럼프 행정부의 관세 정책과 대중국 견제 기조는 유지될 것이...",
+      "author": "장보인",
+      "summary": "미국 중간선거에서 민주당이 완승을 거뒀지만 트럼프 행정부의 관세 정책과 대중국 견제 기조는 유지될 것으로 코트라가 전망했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c87ebdead0ce",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "영국 서비스업 성장 가속에 영은행 금리 인상 예상",
+      "link": "https://www.theguardian.com/business/2026/nov/04/uk-interest-rates-increase-expected-service-sector-activity-accelerates-pmi",
+      "publishedAt": "2026-11-04T13:53:38.000Z",
+      "description": "Purchasing manager’s index at eight-month high, bolstered by spending on AI as firms regain momentum lost to Iran war The Bank of England is expected to raise interest rates on Thursday after a closely watched survey showed growth across the UK’s services sector leapt last month to an eight-month high, bolstered by spending on artificial intelligence. S&P Global’s survey of the services sector in October showed businesses regained much of the momentum they lost after the start of the Iran war, but also felt the impact of a renewed spurt of input price inflation, which accelerated to a five-mon",
+      "author": "Phillip Inman",
+      "summary": "영국 서비스업 지수가 AI 투자 증가로 인해 8개월 만에 최고 수준을 기록했으며, 영국중앙은행의 금리 인상이 임박한 것으로 예상된다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8fc826cf8ddd",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "李대통령, '대통령 집값 발언 강남만 맞았다' 보도에 \"가짜뉴스\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261104050951001",
+      "publishedAt": "2026-11-04T13:28:23.000Z",
+      "description": "(서울=연합뉴스) 임형섭 기자 = 이재명 대통령은 4일 자신의 부동산 관련 발언을 소개하며 \"'집값 폭락 중' 대통령 발언, 강남만 맞았다\"라는...",
+      "author": "황윤기",
+      "summary": "이재명 대통령이 자신의 부동산 관련 발언에 대한 일부 보도를 가짜뉴스라고 반박했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "315fbc89b26a",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "마크스앤스펜서 CEO, 영국 재무장관 예산안 비판",
+      "link": "https://www.theguardian.com/business/2026/nov/04/m-and-s-recover-from-cyber-attack-profits-bounce-back",
+      "publishedAt": "2026-11-04T12:34:30.000Z",
+      "description": "Stuart Machin hits out at Labour but welcomes expected UK-EU food deal as retailer reveals half-year results The chief executive of Marks & Spencer has called John Healey’s first budget as chancellor a “whole lot of nothing” and bemoaned an “onslaught of taxation and regulation” from the Labour government despite welcoming an expected deal on EU border checks. Stuart Machin said he was disappointed at last week’s budget statement, adding that it “didn’t really address the issues we need to focus on growth”. He said the chancellor’s “real terms” freeze on business rates, for example, would lead",
+      "author": "Sarah Butler",
+      "summary": "마크스앤스펜서 CEO는 존 힐리 재무장관의 첫 예산안을 \"아무것도 아닌 것\"이라고 비판하며 경제성장에 필요한 조치가 부족하다고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "06f8f2849e33",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "리센느 뜨기전 투자한 '신의 촉'…33억 넣어 600억 회수 대박도 터트렸다",
+      "link": "https://www.mk.co.kr/news/economy/12196893",
+      "publishedAt": "2026-11-04T11:48:17.000Z",
+      "description": "이구욱 JB인베스트먼트 대표 인터뷰 “아이돌 리센느 뜨기전 빠른투자 반년만에 기업가치 67% 뛰었죠” 달바엔 33억 투입, 600억 회수 4년만에 운용자산 3배로 늘어걸그룹 리센느..",
+      "author": "매일경제",
+      "summary": "이구욱 JB인베스트먼트 대표가 아이돌 리센느 상장 전 투자해 반년 만에 기업가치를 67% 상승시켰으며, 달바에 33억원을 투입해 600억원을 회수했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7057e5a644a1",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "급등과 급락 반복한 코스피…무엇이 흔들었나",
+      "link": "https://www.mk.co.kr/news/stock/12196891",
+      "publishedAt": "2026-11-04T11:46:56.000Z",
+      "description": "9000선 돌파에도 하락 종목 속출 반도체 쏠림에 AI 투자 불안 겹쳐 외국인 매도에 급등락 장세 반복사상 처음 9000선을 넘어섰던 코스피가 불과 한 달여 만에 5000선대로 추..",
+      "author": "매일경제",
+      "summary": "코스피가 사상 처음 9000선을 돌파했으나 한 달여 만에 5000선대로 급락하며, 반도체 쏠림과 AI 투자 불안, 외국인 매도로 인한 급등락이 반복되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d1137d2ae6ec",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "영국 기준금리 인상이 모기지 금리에 미치는 영향",
+      "link": "https://www.bbc.co.uk/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T10:47:31.000Z",
+      "description": "The interest rate set by the Bank of England affects mortgage, loan and savings rates for millions.",
+      "author": null,
+      "summary": "영국중앙은행이 설정한 기준금리는 수백만 명의 모기지, 대출, 저축 금리에 직접적인 영향을 미친다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "4f0fd2b08eb6",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "LX인터, 3분기 영업익 1431억원",
+      "link": "https://www.mk.co.kr/news/stock/12196742",
+      "publishedAt": "2026-11-04T09:19:20.000Z",
+      "description": "전년比 120% 증가LX인터내셔널은 연결 기준 올해 3분기 영업이익이 1431억원으로 전년 동기 대비 120.8% 증가한 것으로 잠정 집계됐다고 4일 공시했다. 3분기 매출은 5조..",
+      "author": "매일경제",
+      "summary": "LX인터내셔널의 3분기 영업이익이 1431억원으로 전년 동기 대비 120.8% 증가한 것으로 잠정 집계되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c9479bd43e02",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "\"기업가치 자신감\" … 곽동신 또 자사주 매입",
+      "link": "https://www.mk.co.kr/news/stock/12196694",
+      "publishedAt": "2026-11-04T08:43:55.000Z",
+      "description": "곽동신 한미반도체 회장이 또 한 번 자사주를 100억원어치 매입했다. 3분기 성적이 전 분기 대비 뒷걸음친 상황에서 향후 실적 확대에 대한 자신감을 드러내는 행보다. 4일 금융감독..",
+      "author": "매일경제",
+      "summary": "곽동신 한미반도체 회장이 자사주를 100억원어치 추가로 매입했으며, 이는 3분기 실적 부진 속에서도 향후 실적 확대에 대한 자신감을 드러낸 것이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6583c0f8b49c",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "수영장과 체육관 요금, 인플레이션을 넘어 인상 예정",
+      "link": "https://www.bbc.co.uk/news/articles/c6pvgw8gz1k4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T06:13:19.000Z",
+      "description": "The rises would impact Perdiswell, St John's Sports Centre and Nunnery Wood Sports Complex.",
+      "author": null,
+      "summary": "수영장과 체육관 요금이 인플레이션을 초과하여 인상될 예정이며, Perdiswell, St John's Sports Centre, Nunnery Wood Sports Complex 등이 영향을 받을 것이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "55d436629b90",
+      "category": "politics",
+      "source": "조선일보",
+      "region": "kr",
+      "title": "[경제포커스] AI를 믿어도 되나",
+      "link": "https://www.chosun.com/opinion/economic_focus/2026/11/04/UNFF5KGWJJD4BDPB4B7MNJ4TMM/",
+      "publishedAt": "2026-11-04T14:50:00.000Z",
+      "description": "",
+      "author": "전수용 기자",
+      "summary": "AI 기술의 신뢰성 문제를 경제적·사회적 관점에서 깊이 있게 검토하는 칼럼이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1622da87b3a3",
+      "category": "politics",
+      "source": "SBS 뉴스",
+      "region": "kr",
+      "title": "\"서울의 주요 지역은…\" 이 대통령의 이 말 놓고 또 충돌",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008831003",
+      "publishedAt": "2026-11-04T14:45:00.000Z",
+      "description": "이재명 대통령이 자신의 집값 발언을 전한 일부 보도를 두고, 가짜 뉴스라고 직접 반박했습니다. 이 반박을 놓고 또 한 번 충돌이 일었는데요.어떤 내용인지 하정연 기자가 취재했습니다.",
+      "author": "ha@sbs.co.kr (하정연 기자)",
+      "summary": "이재명 대통령이 자신의 집값 발언 관련 일부 보도를 가짜뉴스라고 직접 반박하며 논쟁을 촉발했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0fe0a37f835e",
+      "category": "politics",
+      "source": "서울신문",
+      "region": "kr",
+      "title": "與 '조작기소 특검법' 강행… 공소 취소 조항은 삭제",
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20261105001005",
+      "publishedAt": "2026-11-04T13:22:08.000Z",
+      "description": "윤석열 정부 검찰의 조작기소 의혹 사건을 다루는 조작기소 특검법이 4일 더불어민주당 주도로 국회 법제사법위원회 강행 처리 절차를 밟았다. 논란이 된 공소취소 관련 조항은 수정안을 통해 삭제됐지만 국민의힘은 여전히 “이재명 대통령 사건에 대한 특혜”라며 거세게 반발했다. 민주당의 계획대로 5일 본회의에 특검법이 상정되면 국민의힘은 필리버스터(무제한 토론)로 맞설 것으로 보인다. 민주당은 이날 법사위 법안심사1소위와 전체회의를 잇달아 열어 국민의힘 반대 속에 특검법 수정안을 의결했다. 국민의힘은 저녁 전체회의에서 안건조정위원회 구성을 요구했지만, 민주당 주도로 안건조정위 심사를 마쳤다. 국민의힘은 법안 처리에 반발하며 오전 전체회의와 오후 소위, 저녁 전체회의 도중 퇴장하기도 했다. 지난 4월 민주당이 발의한 특검법에는 특검이 공소 유지 여부를 결정할 수 있도록 한 조항이 담겼지만 소위 심사 과정에서 빠졌다. 공소 유지 중인 사건에 대한 특검의 이첩 요구권 조항과 영장 전담 법관 설치 조항도 삭제했다. 법사위 민주당 간사인 김의겸 의원은 소위 회의 직후 “공소 취소와 관련된 내용은 말끔히 삭제했다”고 말했다. 조작기소 특검팀에는 개정 형사소송법의 수사·기소 분리",
+      "author": "강윤혁·박효준 기자",
+      "summary": "더불어민주당이 조작기소 특검법을 국회 법제사법위원회에서 강행 처리했으며, 논란이 된 공소취소 조항은 삭제했지만 국민의힘은 이를 대통령 특혜라며 반발했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ef5ae774b6f0",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "조작기소 특검법안, 공소취소 삭제…일각 \"형소법 근거로 가능\"",
+      "link": "https://www.yna.co.kr/view/AKR20261104157851001",
+      "publishedAt": "2026-11-04T12:48:56.000Z",
+      "description": "(서울=연합뉴스) 최주성 정연솔 기자 = 국회 법제사법위 전체회의에서 4일 더불어민주당 주도로 통과한 '조작기소 특검법안'은 이른바 '공소 취소...",
+      "author": "최주성",
+      "summary": "국회 법제사법위 전체회의에서 조작기소 특검법안이 민주당 주도로 통과했으며, 공소취소 조항이 삭제되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "4c25e37c3293",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "특검 '투표록 사후수정' 중앙선관위 압수수색…관계자 10명 입건",
+      "link": "https://www.yna.co.kr/view/AKR20261104088454004",
+      "publishedAt": "2026-11-04T12:47:34.000Z",
+      "description": "(서울=연합뉴스) 황재하 최원정 최윤선 기자 = 6·3 지방선거의 투표용지 부족 사태 등을 수사 중인 이태한 선거관리위원회 특별검사팀이 중앙선관...",
+      "author": "최윤선",
+      "summary": "선거관리위원회 특별검사팀이 6·3 지방선거 투표용지 부족 및 투표록 사후수정 의혹을 수사하며 중앙선관위를 압수수색하고 관계자 10명을 입건했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b8fd7a80bd59",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "외교부, OECD 가입 30주년 세미나 개최…韓 성장잠재력 논의",
+      "link": "https://www.donga.com/news/Politics/article/all/20261104/134968454/1",
+      "publishedAt": "2026-11-04T12:32:53.000Z",
+      "description": "외교부는 4일 서울 더그랜드롯데에서 ‘OECD(경제협력개발기구)와의 동행 30년과 새로운 미래’를 주제로 ‘OECD 가입 30주년 기념 세미나’를 개최했다고 밝혔다.주OECD대표부 주관으로 열린 이날 행사는 1996년 OECD 가입 이후 30년간 한국의 경제·사회 발전과 한-OECD 협력 성과를 돌아보고 한국 경제의 성장잠재력 확충과 구조 전환을 위한 정책 방향을 논의하기 위해 마련됐다. 백태웅 주OECD 대사는 개회사를 통해 주OECD대표부를 글로벌 정책허브로 발전시키는 한편, AI·기술혁신을 통한 잠재성장률 제고를 2027년 OECD 각료이사회의 핵심 의제로 제안하는 방안을 검토 중이라고 밝혔다.한성숙 국무총리는 영상축사에서 “저출생·고령화와 지역 격차 등 구조적 과제를 해결하고 앞으로 30년은 성장 성과가 ‘국민 모두의 더 나은 삶’으로 이어지도록 인공지능 대전환과 지방 주도 성장을 통한 성장잠재력 확충과 포용적 성장을 추진하겠다”라고 말했다. 김진아 외교부 제2차관은",
+      "author": null,
+      "summary": "외교부가 OECD 가입 30주년을 기념하는 세미나를 개최하여 지난 30년간의 경제·사회 발전과 한-OECD 협력 성과를 돌아보고 한국 경제의 성장잠재력 확충을 논의했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a348390b9843",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "'선거법 위반' 윤석열, 2심서도 당선무효형",
+      "link": "https://www.khan.co.kr/article/202611042129015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-11-04T12:29:01.000Z",
+      "description": "1심 선고 유지…윤 측 상고 뜻형 확정 땐 국힘 ‘397억 반환’윤석열 전 대통령이 20대 대통령 선거를 앞두고 허위사실을 말한 혐의로 기소된 사건의 항소심에서 1심과 같은 징역형을 선고받았다. 대법원에서 이 형이 확정되면 국민의힘은 국고에서 보전받은 선거비용 397억원을 반환해야 한다. | 관련기사 9면서울고법 형사2-1부(재판장 백승엽)는 4일 윤 전···",
+      "author": "김정화·김나현 기자",
+      "summary": "윤석열 전 대통령이 대선 관련 허위사실 공표 혐의 항소심에서 1심과 같은 징역형을 선고받았으며, 대법원 확정 시 국민의힘은 선거비용 397억원을 반환해야 한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f8828b7de1a1",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "공공·민간 집값 통계 '오래된 온도차'…한 방향 해석 땐 '혼란'",
+      "link": "https://www.khan.co.kr/article/202611042118005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-11-04T12:18:00.000Z",
+      "description": "이 대통령 거론한 부동산 통계 문제…정권마다 반복되는 논란재개발 현장 살펴보는 이 대통령 이재명 대통령이 4일 서울 성북구 장위뉴타운 정비사업 현장에서 현장 관계자의 설명을 듣고 있다. 이준헌 기자 heon@kyunghyang.com공공 부동산원, 강남 3구 ‘하락’ 민간 KB서는 ‘하락·보합·상승’ 조사 방식 차이로 생긴 ‘격차’ 하락 신호 강조에···",
+      "author": "유설희 기자",
+      "summary": "공공 부동산원과 민간 KB의 조사 방식 차이로 강남 3구의 집값 추세에 대한 해석이 달라지면서 혼란을 야기하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "94566d99e926",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "법사위, 공소취소 뺀 조작기소 특검법 통과…야 \"대통령 특혜\"",
+      "link": "https://www.khan.co.kr/article/202611042116005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-11-04T12:16:00.000Z",
+      "description": "대통령 기소 사건 등 기존 12건 등민주당, 5일 본회의에 상정 요청국민의힘 반발…필리버스터 예고국회 법제사법위원회 야당 간사인 박형수 국민의힘 의원이 4일 법사위 전체회의 도중 의사진행 발언 후 퇴장하고 있다. 연합뉴스이재명 대통령이 기소된 사건이 수사 대상에 포함된 조작기소 특검법이 범여권 주도로 국회 법제사법위원회를 통과했다. 특검의 공소취소 권한 조···",
+      "author": "강한들 기자",
+      "summary": "이재명 대통령이 기소된 사건을 포함한 조작기소 특검법이 범여권 주도로 법제사법위를 통과했고, 민주당은 5일 본회의 상정을 요청했으나 국민의힘은 필리버스터로 맞설 예정이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "52511206e8ea",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "\"윤석열의 허위사실 공표, 대선 파급효과 작지 않아\"",
+      "link": "https://www.khan.co.kr/article/202611042105005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-11-04T12:05:00.000Z",
+      "description": "‘선거법 위반’ 항소심 징역형 유지“선거제도 침해하고도 변명 일관”국힘, 선거비 397억원 반환 가능성 커져 윤석열 전 대통령이 공직선거법 위반 사건 항소심에서도 징역형이 선고된 4일 서울 영등포구 여의도 국민의힘 중앙당사 모습. 대법원에서도 이 선고가 유지되면 국민의힘은 2022년 대선에서 보전받은 선거비용 397억원을 국고로 반환해야 한다. 연합뉴스서···",
+      "author": "김정화 기자",
+      "summary": "윤석열 전 대통령의 허위사실 공표 행위가 항소심에서도 징역형으로 인정되었으며, 대법원 확정 시 국민의힘은 선거비용 397억원을 반환해야 한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b39e4f6cf42c",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "남아공 지방선거에서 ANC 저조 예상…전력·수도난에 민심 이탈",
+      "link": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
+      "publishedAt": "2026-11-04T14:50:47.000Z",
+      "description": "Party expected to get less than a third of the vote amid frustration over water outages and power cuts The African National Congress is on course for a bruising result in South Africa’s local elections on Wednesday as voters go to the polls amid deep discontent over water outages, power cuts and crumbling infrastructure. The former liberation movement, which Nelson Mandela led to power in 1994 at the end of apartheid as South Africa’s first black president, is still likely to be the largest party. However, polls showed it getting less than a third of the vote, down from 45.6% at the last munic",
+      "author": "Rachel Savage in Johannesburg",
+      "summary": "남아프리카공화국의 지방선거에서 아프리카민족회의(ANC)가 전력난과 수도 부족에 시달리는 주민들의 불만 속에 30% 미만의 지지율로 침체될 것으로 예상되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "4f77caf32fb0",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "러 아이스하키 복귀에 '보이콧'…국제대회 파행 예고",
+      "link": "https://www.yna.co.kr/view/AKR20261104185800082",
+      "publishedAt": "2026-11-04T14:49:20.000Z",
+      "description": "(베를린=연합뉴스) 김계연 특파원 = 러시아가 아이스하키 국제무대에 복귀하게 되자 유럽을 중심으로 반발이 확산하고 있다. 각국 연맹과 대회 개최...",
+      "author": "김계연",
+      "summary": "러시아가 아이스하키 국제무대에 복귀하자 유럽을 중심으로 각국 연맹의 반발이 확산하고 있으며 보이콧 움직임이 이어지고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "eeebf61a97e9",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "EU, 몬테네그로 2028년 가입 추진…알바니아·몰도바 뒤따를 예정",
+      "link": "https://www.dw.com/en/eu-says-montenegro-on-track-to-become-bloc-s-next-member-state-by-2028/a-79855011?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-11-04T14:49:00.000Z",
+      "description": "Brussels says Montenegro is likely to become the EU's 28th member state, followed by Albania and Moldova. It said Ukraine needed to speed up reforms and offered fresh hope to Serbia following elections last month.",
+      "author": null,
+      "summary": "유럽연합이 몬테네그로를 2028년까지 28번째 회원국으로 가입시킬 계획을 밝혔으며, 알바니아와 몰도바가 차례로 가입할 것으로 예상했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "aa540e46886c",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "'칼리굴라' 이탈리아 영화감독 틴토 브라스 별세",
+      "link": "https://www.yna.co.kr/view/AKR20261104183600109",
+      "publishedAt": "2026-11-04T14:34:57.000Z",
+      "description": "(로마=연합뉴스) 민경락 특파원 = 이탈리아 에로티시즘 영화의 거장으로 평가받는 틴토 브라스 감독이 향년 93세로 별세했다고 이탈리아 안사통신 ...",
+      "author": "민경락",
+      "summary": "에로티시즘 영화의 거장으로 평가받는 이탈리아 영화감독 틴토 브라스(Tinto Brass)가 향년 93세로 별세했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d171f48776cc",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "이란, '트럼프 제거하겠다' 현수막 공개…미국의 폭격 재개 가능성도",
+      "link": "https://www.theguardian.com/us-news/2026/nov/04/joy-iran-trump-defeat-us-midterm-elections-war",
+      "publishedAt": "2026-11-04T14:07:17.000Z",
+      "description": "Iran celebrates its claimed role in ‘regime change’ amid pressure on Trump to ‘finish the job’ with attack US midterms live – latest updates Iran this week unveiled a huge billboard and banners over Enqelab Square in central Tehran. The billboard pledged in English: “We will kill Trump” – elevating the degree of personal animus with which Donald Trump is viewed in official Iranian circles. The poster depicts the US president behind bars with his head bowed. And in a sense, given the US midterm election results on Tuesday, Iran has indeed killed Trump, or at least the second term of his preside",
+      "author": "Patrick Wintour Diplomatic editor",
+      "summary": "이란이 테헤란 중심부에 '트럼프를 죽이겠다'는 대형 현수막을 설치했으며, 트럼프 대통령에 대한 이란 관계자들의 개인적 적대감이 심화되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "4f60b56c74ad",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "미국 중간선거의 모든 것…민주당의 역사적 승리",
+      "link": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T14:05:42.000Z",
+      "description": "Democrats secured some big wins - and a few historic firsts - earning congratulations from President Trump.",
+      "author": null,
+      "summary": "민주당이 중간선거에서 큰 승리를 거두었으며 여러 역사적 진전을 이루어냈다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a6decd68b0cf",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "미시간 첫 무슬림 상원의원 당선자, 트럼프의 이스라엘 군원조 삭감 환영",
+      "link": "https://www.npr.org/2026/11/04/nx-s1-6028702/abdul-el-sayed-michigan-senate-israel-aid",
+      "publishedAt": "2026-11-04T13:38:09.000Z",
+      "description": "Michigan's first Muslim senator-elect, Abdul El-Sayed, discusses his historic victory, an unlikely agreement with Trump on Israel military aid and the political divisions that remain.",
+      "author": "Steve Inskeep",
+      "summary": "미시간에서 첫 무슬림 상원의원으로 당선된 압둘 엘사예드(Abdul El-Sayed)가 트럼프의 이스라엘 군사원조 삭감 계획에 동의했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d21b00291adc",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "'이것은 재앙이다': 공화당, 중간선거 패배를 트럼프 책임으로 지적",
+      "link": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T13:33:30.000Z",
+      "description": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.",
+      "author": null,
+      "summary": "공화당 일부가 트럼프가 자신의 유산에만 집중하고 유권자의 우려를 무시함으로써 중간선거 패배를 초래했다고 비난했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "99f5690c27d8",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "주요 아이스하키 국가들, 러시아 복귀 반대…스폰서도 동참",
+      "link": "https://www.dw.com/en/leading-ice-hockey-nations-sponsors-oppose-russia-s-return/a-79853742?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-11-04T13:27:00.000Z",
+      "description": "Ice hockey's governing body says the impact of a court decision forcing it to reinstate Russia presents \"significant practical and sporting challenges.\" Several leading nations say they won't play against Russian teams.",
+      "author": null,
+      "summary": "아이스하키 지배기구가 러시아 복귀로 인한 상당한 실질적·스포츠 문제들을 지적했으며, 주요 국가들이 러시아팀과의 경기 거부 의사를 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a6d063b2be4d",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "전세계, 민주당 중간선거 압승에 주목…국제관계 영향 평가",
+      "link": "https://www.npr.org/2026/11/04/nx-s1-6028664/world-reacts-midterm-elections",
+      "publishedAt": "2026-11-04T12:34:35.000Z",
+      "description": "From Kyiv to Moscow, and Tehran to Tel Aviv, all eyes were on the Democrats' big win as foreign powers weigh how a flipped Congress will affect international relations.",
+      "author": "Kate Bartlett",
+      "summary": "키이우(Kyiv)에서 모스크바, 테헤란에서 텔아비브에 이르기까지 세계 각국이 민주당의 중간선거 대승을 주목하며 의회 교체가 국제관계에 미칠 영향을 평가하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e452fd948bff",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]美 휩쓴 '블루 쓰나미'… 우선주의 앞세운 여소야대 시대로",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261104/134968326/2",
+      "publishedAt": "2026-11-04T14:30:00.000Z",
+      "description": "3일 치러진 미국 중간선거에서 민주당은 2006년 이후 20년 만에 상·하원 다수당을 모두 차지하게 됐다. 반(反)트럼프 표심이 공화당의 전통 텃밭까지 휩쓸면서 이른바 ‘블루 쓰나미’(민주당 압승)가 몰아친 것이다. ‘공화당 대통령’과 ‘민주당 의회’로 갈린 워싱턴 정치는 향후 2년간 우리가 상대해야 할 현실이 됐다. 도널드 트럼프 대통령의 4년 임기의 절반이 지난 시점에서 열린 이번 선거에서 공화당은 수십 년 텃밭에서도 판판이 밀렸다. 캔자스에서는 1932년 이후 94년 만에, 텍사스에서는 38년 만에 민주당 상원의원이 탄생하는 등 트럼프 심판이 이어졌다. 강경한 이민정책, 전쟁 장기화와 관세 폭탄으로 인한 고유가 고물가에 지친 유권자들이 반트럼프 세력을 형성하면서 선거 막판 트럼프의 ‘공산주의’ 색깔론도 먹히지 않았다. 공화당의 선거 참패에도 당장 트럼프식 미국 우선주의 기조가 크게 후퇴를 할 것이란 관측은 많지 않다. 오히려 트럼프 대통령의 예측 불가능한 성향과 미 행정부",
+      "author": null,
+      "summary": "강경한 이민정책과 관세 폭탄으로 인한 고물가에 지친 유권자들이 민주당을 선택하면서 이른바 '블루 쓰나미'가 몰아쳤다고 분석하고, 여소야대 정국의 도래를 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3e48d503a4b0",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "트럼프, 공화당을 정치적 황무지로 이끌다",
+      "link": "https://www.nytimes.com/2026/11/03/opinion/politics/election-midterms-senate-house.html",
+      "publishedAt": "2026-11-04T14:27:00.000Z",
+      "description": "Michelle Cottle and David French wonder if there’s a paradigm shift in American politics.",
+      "author": "New York Times Opinion",
+      "summary": "트럼프의 리더십이 공화당을 정치적 위기에 빠뜨렸으며, 이것이 미국 정치의 패러다임 전환을 의미하는지를 검토했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e191912589b2",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]尹 당선무효형 유지… '후보 거짓말에 黨도 책임' 재확인한 2심",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261104/134968330/2",
+      "publishedAt": "2026-11-04T14:27:00.000Z",
+      "description": "2022년 대선에서 허위 사실을 공표한 혐의로 재판을 받아 온 윤석열 전 대통령이 4일 2심에서 1심과 마찬가지로 당선무효형인 징역 1년 6개월, 집행유예 3년을 선고받았다. 대선 후보가 공직선거법 위반으로 벌금 100만 원 이상의 형을 최종 선고받으면 후보의 소속 정당은 보전받은 선거 비용을 전액 국고로 반환해야 한다. 1, 2심 모두 국민의힘이 2022년 대선 이후 국가로부터 돌려받은 397억 원을 반납해야 한다고 판결한 것이다. 2심 재판부는 1심의 판단을 그대로 유지했다. 윤 전 대통령이 건진법사 전성배 씨를 김건희 여사와 함께 만난 적이 없다고 한 주장, 뇌물 혐의 수사를 받던 윤우진 전 용산세무서장에게 변호사를 소개한 적이 없다고 한 주장 모두 허위라고 밝혔다. 윤 전 서장은 ‘대윤’ ‘소윤’이라 불릴 정도로 윤 전 대통령과 막역한 사이였던 윤대진 전 검사장의 형이다. 재판부는 두 사안 모두 유권자의 선택권을 침해하고 선거의 공정성을 훼손해 죄질이 가볍지 않다고 지적했다",
+      "author": null,
+      "summary": "윤 전 대통령의 당선무효형 판결을 유지하며 국민의힘의 선거 비용 397억 원 반납을 명령한 2심은 후보의 거짓말에 정당도 책임이 있음을 재확인했다고 평가했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d458b9633143",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "트럼프주의의 종말이 시작됐다",
+      "link": "https://www.nytimes.com/video/opinion/100000011257707/the-beginning-of-the-end-of-trumpism.html",
+      "publishedAt": "2026-11-04T14:25:32.000Z",
+      "description": "“People hate the way that Trump is running this country,” the columnist Michelle Goldberg argues. Her fellow columnists and the American electorate agree. Democrats had a great night, but what now? Eight Opinion columnists offer their views on what Democrats need to do next, and what Trump’s final two years in office might hold.",
+      "author": null,
+      "summary": "트럼프의 정치 방식에 대한 국민적 반감이 중간선거 결과로 나타났다며, 향후 트럼프의 마지막 2년이 어떻게 전개될지를 8명의 칼럼니스트들이 각자의 관점에서 분석했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b3be07e27cb5",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "중앙은행의 '과도 수요' 진단, 현실과 맞지 않는다",
+      "link": "https://www.theguardian.com/business/grogonomics/2026/nov/04/the-rba-says-there-is-excess-demand-in-the-economy-households-doing-it-tough-might-disagree",
+      "publishedAt": "2026-11-04T14:00:37.000Z",
+      "description": "The problem with inflation driven by factors such as wars and supply side shocks is that interest rate rises don’t do much Get our daily political email, free app or daily news podcast On Tuesday this week came the biggest news regarding inflation. No, not the Reserve Bank’s decision to raise interest rates; that will do barely anything (although it will most certainly raise unemployment). No, the most important news for inflation was that the US had launched limited strikes on ​Iran’s Qeshm Island. This announcement came after word from the Iranian government that talks were under way to end ",
+      "author": "Greg Jericho",
+      "summary": "공급 부족과 지정학적 위기로 인한 인플레이션에는 금리 인상이 별 효과가 없으며, 이는 실업률 상승과 가계 부담 증가만 초래할 것이라고 우려했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "bcb9274b7534",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "임금 공개, 신중하게 생각해보자",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/04/pay-transparency-coworkers-earn-know-open-workers",
+      "publishedAt": "2026-11-04T13:42:27.000Z",
+      "description": "A new proposal for openness about pay could have unexpected downsides – if workers become demotivated, resentful and more likely to quit Would you like to know what your colleagues are paid? If the Equality and Human Rights Commission gets its way, you will be able to find out. Under its proposals, workers will be able to request detailed information about the pay, bonuses and other perks received by their co-workers. The government agency argues that if we increase pay transparency, we can also reduce the pay gap between men and women. But countries that have tried this model have discovered ",
+      "author": "André Spicer",
+      "summary": "급여 투명성이 성별 임금 격차를 줄일 수 있지만, 근로자의 사기 저하와 이직 증가 같은 예상치 못한 부작용을 초래할 수 있다고 경고했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8ce534dcee8c",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "중간선거가 보여주는 트럼프의 실패",
+      "link": "https://www.nytimes.com/2026/11/04/opinion/trump-midterms-republicans.html",
+      "publishedAt": "2026-11-04T13:25:16.000Z",
+      "description": "There was nothing inevitable about this comeuppance.",
+      "author": "Christopher Caldwell",
+      "summary": "트럼프의 중간선거 참패는 필연이 아니었으며, 전적으로 자신의 실수와 정책 선택으로 인한 결과라고 분석했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "01c955083113",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[김홍표의 과학 한 귀퉁이]쓸개즙과 여성",
+      "link": "https://www.khan.co.kr/article/202611042015025/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-11-04T11:15:02.000Z",
+      "description": "큼직한 오동잎이 뚝뚝 떨어지는가 싶더니 가을비가 내렸다. 입동을 코앞에 두고 기온도 제법 내려갔다. 따스운 국물이 생각나는 때다. 나무 궤짝에 든 생선을 찍어내듯 꺼내 통나무 도마에서 칼집 낸 언 동태 토막을 뒤집어 보며 어머니는 혹시라도 쓸개가 남아 있는지 세심히 닦달하곤 했다. 쓰디쓴 쓸개즙이 애써 끓인 동탯국의 맛을 통째로 버려놓을 수 있기 때문이다.···",
+      "author": "김홍표 아주대 약학대학 교수",
+      "summary": "계절의 변화 속 어머니가 동탕국을 준비할 때 쓸개를 세심히 제거했던 어린 시절 추억을 통해 쓸개의 맛이 요리에 미치는 영향을 소개했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "86947f196560",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[역사와 현실]파리는 불타고 있는가?",
+      "link": "https://www.khan.co.kr/article/202611042015015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-11-04T11:15:01.000Z",
+      "description": "파리가 불타고 있다. 불길은 금방 꺼질 수도 있고, 오래갈 수도 있다. 파리만 불타고 있는 게 아니다. 이탈리아와 스페인, 포르투갈, 독일의 주요 도시에서도 불꽃이 튀고 있다. 연일 대규모 집회와 시위가 발생하고 시위대와 경찰이 충돌한다. 혁명의 도시 파리가 신호탄을 쏘아올린 대중 반란은 열악한 교육 환경이라는 이슈로 시작됐다. 그러나 곧 높은 물가와 낮은···",
+      "author": "장문석 서울대 서양사학과 교수",
+      "summary": "유럽 주요 도시에서 벌어지는 대중 반란이 열악한 교육 환경에서 시작되었지만 높은 물가 문제로 확대되고 있다고 분석하며, 혁명의 도시 파리를 신호탄으로 한 광범위한 사회 불만의 표출이라고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "58c8d870ed11",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[기고]시민을 주체로, 참여를 권리로",
+      "link": "https://www.khan.co.kr/article/202611042015005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-11-04T11:15:00.000Z",
+      "description": "정부는 매일 수많은 정책을 만들고 시행한다. 그러나 그 정책의 영향을 가장 직접적으로 받는 시민은 정책 결정 과정에서 어떤 역할을 하고 있을까? 정책이 발표된 뒤 의견을 내거나 문제가 발생한 뒤 민원을 제기하는 것만으로 시민의 참여가 충분하다고 할 수 있을까? 민주주의는 선거 때만 필요한 제도가 아니다. 시민이 주권자로서 일상의 공공 문제에 의견을 내고, ···",
+      "author": "이승훈 시민사회단체연대회의 공동운영위원장",
+      "summary": "민주주의는 선거 때만이 아니라 정책 결정 과정에서도 작동해야 하며, 시민이 주권자로서 정책 형성에 능동적으로 참여하는 것이 중요하다고 촉구했다.",
+      "summarySource": "llm"
+    }
+  ],
+  "summarizedAt": "2026-11-05T02:08:11.525Z",
+  "summaryStats": {
+    "llm": 50,
+    "fallback": 0,
+    "model": "claude-haiku-4-5"
+  }
+}
