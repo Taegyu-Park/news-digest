@@ -1,0 +1,898 @@
+{
+  "date": "2026-11-06",
+  "generatedAt": "2026-11-07T01:39:35.522Z",
+  "categories": [
+    {
+      "id": "it",
+      "label": "IT·과학·AI"
+    },
+    {
+      "id": "economy",
+      "label": "경제·금융"
+    },
+    {
+      "id": "politics",
+      "label": "정치·사회"
+    },
+    {
+      "id": "world",
+      "label": "세계·국제"
+    },
+    {
+      "id": "editorial",
+      "label": "사설·칼럼",
+      "opinion": true,
+      "summaryMaxChars": 220
+    }
+  ],
+  "feedStatus": [
+    {
+      "source": "Ars Technica",
+      "category": "it",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "Hacker News",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "TechCrunch",
+      "category": "it",
+      "ok": true,
+      "matched": 12
+    },
+    {
+      "source": "The Verge",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "블로터",
+      "category": "it",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "전자신문",
+      "category": "it",
+      "ok": true,
+      "matched": 21
+    },
+    {
+      "source": "ZDNet Korea",
+      "category": "it",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "BBC Business",
+      "category": "economy",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "The Guardian",
+      "category": "economy",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "매일경제 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 24
+    },
+    {
+      "source": "연합뉴스",
+      "category": "economy",
+      "ok": true,
+      "matched": 91
+    },
+    {
+      "source": "경향신문 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 43
+    },
+    {
+      "source": "경향신문 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 19
+    },
+    {
+      "source": "노컷뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "서울신문",
+      "category": "politics",
+      "ok": true,
+      "matched": 3
+    },
+    {
+      "source": "연합뉴스 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 44
+    },
+    {
+      "source": "연합뉴스 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 91
+    },
+    {
+      "source": "SBS 뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 23
+    },
+    {
+      "source": "Al Jazeera",
+      "category": "world",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC World",
+      "category": "world",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "NPR",
+      "category": "world",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "The Guardian",
+      "category": "world",
+      "ok": true,
+      "matched": 12
+    },
+    {
+      "source": "연합뉴스 국제",
+      "category": "world",
+      "ok": true,
+      "matched": 56
+    },
+    {
+      "source": "매일경제 증권",
+      "category": "economy",
+      "ok": true,
+      "matched": 45
+    },
+    {
+      "source": "경향신문 오피니언",
+      "category": "editorial",
+      "ok": true,
+      "matched": 2
+    },
+    {
+      "source": "NYT Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 12
+    },
+    {
+      "source": "The Guardian Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 18
+    },
+    {
+      "source": "Washington Post Opinions",
+      "category": "editorial",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "동아일보 사설",
+      "category": "editorial",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "동아일보 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 37
+    },
+    {
+      "source": "조선일보",
+      "category": "politics",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "동아일보 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 28
+    },
+    {
+      "source": "머니투데이",
+      "category": "economy",
+      "ok": true,
+      "matched": 1
+    },
+    {
+      "source": "Wired",
+      "category": "it",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "DW News",
+      "category": "world",
+      "ok": true,
+      "matched": 10
+    }
+  ],
+  "items": [
+    {
+      "id": "6d4440308761",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "[단독] 진시스템, '매출 50억' 문턱…화장품·건기식 기업 인수 추진",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=677956",
+      "publishedAt": "2026-11-06T14:55:16.000Z",
+      "description": "진시스템이 올해 두 번째 인수합병(M&A)을 추진하고 있다. 7월 전력기기 업체 경보전기를 인수한 데 이어 이번에는 라이프케어 기업 한 곳과 인수를 논의 중이다. 기술특례상장으로 그간 유예받았던 매출 기준이 올해부터 적용되면서 추가 매출 확보에 나섰다.6일 투자은행(IB) 업계에 따르면 진시스템은 현재 라이프케어 분야 기업 한 곳과 인수를 논의하고 있다. 해당 기업은 화장품과 건강기능식품의 제조·유통을 주력으로 한다. 구체적인 인수 규모와 시기는 정해지지 않았으며, 회사는 지분 인수와 영업양수도 등 여러 방안을 검토 중이다.7월 전",
+      "author": "정유진 기자",
+      "summary": "진시스템이 기술특례상장 이후 적용되는 매출 50억 기준을 충족하기 위해 라이프케어 기업 인수를 추진 중이며, 7월 경보전기 인수에 이어 화장품·건강기능식품 업체와 인수를 논의하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "fb4de9100c01",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "테슬라 사이버트럭 생산 중단",
+      "link": "https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/",
+      "publishedAt": "2026-11-06T14:20:59.000Z",
+      "description": "The decision to halt production of Tesla’s polarizing polygonal pickup marks the end of an error.",
+      "author": "Jeremy White",
+      "summary": "테슬라가 다각형 디자인의 논란이 많던 사이버트럭 생산을 중단하기로 결정했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8250334af197",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "엔비디아 CEO 젠슨 황, 중국 첩보 우려로 의회 소환",
+      "link": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
+      "publishedAt": "2026-11-06T14:13:32.000Z",
+      "description": "Lawmakers want answers about Jensen Huang’s ties to an alleged Chinese intelligence asset.",
+      "author": "Demetri Sevastopulo, Financial Times",
+      "summary": "미국 의회가 엔비디아 CEO 젠슨 황을 중국 정보요원과의 관계 규명을 위해 소환했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ab4846bbc512",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "아마존, 알렉사 문자 쇼핑 기능 출시",
+      "link": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+      "publishedAt": "2026-11-06T14:10:00.000Z",
+      "description": "Amazon said that the feature will roll out to millions of users in coming weeks.",
+      "author": "Ivan Mehta",
+      "summary": "아마존이 사용자가 알렉사와 문자로 쇼핑을 도움받을 수 있는 기능을 수백만 사용자에게 수주 내 출시할 예정이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8dfc44d8993a",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "\"예수 만나려면 굶어 죽어야\"…아동 190명 아사시킨 사이비 교주 '징역 200년'",
+      "link": "https://www.etnews.com/20261106000366",
+      "publishedAt": "2026-11-06T14:05:52.000Z",
+      "description": "케냐에서 어린이 등 수백 명을 굶어 죽게 한 사이비 종교 지도자에게 징역 200년형이 선고됐다. 집단 아사 사건이 드러난 지 3년여 만이다. 6일(현지시간) 로이터통신과 AP통신 등에 따르면 케냐 몸바사 고등법원은 어린이 190명과 성인 1명 등 191명을 살해한 혐의로 기소된 폴 은텡게 매켄지에게 징역 200년을 선고했다. 매켄지는 2023년 4월 케냐 동부 해안 도시 말린디에서 자신이 이끌던 '기쁜소식 국제교회' 신도들에게 “예수를 만나려면",
+      "author": "이상목",
+      "summary": "케냐의 사이비 종교 지도자 폴 은텡게 매켄지가 신도들에게 단식을 강요해 어린이 190명을 포함해 191명을 살해한 혐의로 징역 200년을 선고받았다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ca4976c80491",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "\"100여차례 여탕 몰카\"…아내가 찍고 남편이 팔아 4300만원 챙긴 日 부부",
+      "link": "https://www.etnews.com/20261106000313",
+      "publishedAt": "2026-11-06T13:20:00.000Z",
+      "description": "일본에서 젊은 부부가 목욕탕에 몰래카메라를 설치하거나 휴대전화를 이용해 여성들의 모습을 불법 촬영한 뒤, 영상을 온라인으로 판매한 혐의로 경찰에 검거됐다. 아내가 현장에서 촬영을 담당하고 남편은 이를 인터넷에 유통하는 방식으로 역할을 나눠 범행한 것으로 조사됐다. 5일(현지시간) 교도통신에 따르면 교토부 경찰은 이날 성적 모습 촬영 처벌법 위반 혐의로 이시카와현 가나자와시에 거주하는 회사원 나카타케 다이치(35)와 아내 미사토(24)를 체포했다",
+      "author": "이원지",
+      "summary": "일본의 한 부부가 목욕탕에서 여성들을 약 100회에 걸쳐 불법 촬영하고 영상을 온라인으로 판매해 4300만원을 챙긴 혐의로 체포됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "fbf575ba8ccd",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "언더독, 32MB 음성 모델 공개",
+      "link": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+      "publishedAt": "2026-11-06T13:02:16.000Z",
+      "description": "Despite its small size, Underdog's new model can generate both speech and music.",
+      "author": "Ivan Mehta",
+      "summary": "언더독이 음성과 음악을 모두 생성할 수 있는 32MB 규모의 소형 음성 모델을 시연했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "047512c5ae1a",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "2026년 최고의 자동 고양이 화장실: 펫킷과 리터로봇",
+      "link": "https://www.wired.com/gallery/best-automatic-cat-litter-boxes/",
+      "publishedAt": "2026-11-06T12:05:00.000Z",
+      "description": "With these high-tech automatic litter boxes, gone are the days of scooping and smells. Welcome to the future.",
+      "author": "Molly Higgins",
+      "summary": "펫킷과 리터로봇 등 첨단 자동 고양이 화장실이 기존의 수동식 청소와 냄새 문제를 해결하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "95bc007a167d",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "조신 사장, 개인정보 600만건 유출 우려 사과",
+      "link": "https://zdnet.co.kr/view/?no=20261106194220",
+      "publishedAt": "2026-11-06T11:03:02.000Z",
+      "description": "[지디넷코리아]일본 가전양판점 조신(ジョーシン)의 다카하시 데쓰야 사장이 제3자의 불법 접속으로 고객 이름과 주소 등 600만건이 넘는 개인정보가 유출됐을 우려가 있다며 공개 사과했다. 조신은 재발 방지책으로 불필요한 고객 정보를 보유하지 않기로 했다.TBS뉴스, MBS뉴스 등 여러 외신은 6일 다카하시 사장이 중간결산 설명회 첫머리에서 \"많은 폐와 걱정을 끼친 점을 최고 책임자로서 깊이 사과했다\"고 보도했다.유출 우려가 제기된 곳은 '회원정보 데이터베이스 서버'다. 조신은 이 서버에 대한 제3자의 불법 접속을 파악했다. 운전면허증 이미지 2건, 마이넘버카드 정보 1건, 계좌번호 5건도 유출됐을 가능성이 있다고 전했다.오사카시에 본사를 둔 조신은 10월께 불법 접속을 당했다. 불법 접속 원인은 조사 중으로 알려졌다.다카하시 사장은 정보 보유 방식을 두고 불법 접속을 계기로 반성할 점이 보이고 있다고 말했다. 필요하지 않은 정보는 가능한 한 갖지 않는다는 방침이라는 취지로 풀이된다.현지 매체들은 조신이 불필요한 정보의 삭제 작업을 이미 시작했다고 보도했다.",
+      "author": "박광하 기자",
+      "summary": "일본 가전양판점 조신이 제3자의 불법 접속으로 600만건 이상의 고객 개인정보가 유출됐을 가능성을 인정하고 불필요한 정보 보유를 중단하겠다고 사과했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "da61566c4682",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "AI가 반도체 쓸어가자 자동차업계 '비상'…내년 가격 폭등 경고",
+      "link": "https://zdnet.co.kr/view/?no=20261106194204",
+      "publishedAt": "2026-11-06T10:42:04.000Z",
+      "description": "[지디넷코리아]인공지능(AI) 데이터센터 투자 확대가 자동차 산업의 새로운 비용 부담으로 떠오르고 있다. AI 인프라 구축에 반도체 생산 역량이 집중되면서 자동차 업계 반도체 확보 경쟁이 심화하고 있기 때문이다. 특히 내년에는 반도체와 전자부품 가격 상승이 본격화하면서 완성차 업체 수익성까지 압박할 수 있다는 경고가 나온다.5일(현지시간) 블룸버그통신과 로이터통신 등에 따르면 독일 자동차 부품업체 아우모비오는 AI 데이터센터 수요 급증으로 내년 반도체 가격이 가파르게 상승할 것으로 전망했다.클라우스 바우어 아우모비오 임시 재무책임자(CFO)는 이날 실적발표 컨퍼런스콜에서 \"반도체 가격 상승은 3분기에 서서히 시작됐고 4분기에 가속화한 뒤 내년에는 폭발적으로 커질 것\"이라고 밝혔다.그는 반도체 가격 상승세에 대해 \"상상을 초월하는 수준\"이라며 AI 데이터센터가 자동차 업계에서 감당하기 어려운 가격과 물량으로 반도체 공급을 흡수하고 있다고 설명했다.아우모비오는 내년 반도체와 메모리, 인쇄회로기판(PCB) 등 원재료 가격 상승으로 최소 10억 유로(약 1조 5000억원) 비용 부담이 발생할 것으로 예상했다. 이는 가격 상승에 따른 총비용 부담 추정치로, 실제 영업",
+      "author": "류은주 기자",
+      "summary": "AI 데이터센터 수요 증가로 반도체 공급이 쏠리면서 자동차 업계의 반도체 확보 경쟁이 심화되고 있으며, 내년 반도체와 전자부품 가격이 폭발적으로 상승할 것으로 예상된다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0c4419cf2433",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "근로자 권리가 경제성장에 '종속'",
+      "link": "https://www.bbc.co.uk/news/videos/cq369l9r634ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T14:52:49.000Z",
+      "description": "Jersey's Economic Development Minister has told the BBC that workers' rights may have to take 'second place' to economic growth.",
+      "author": null,
+      "summary": "Jersey의 경제개발장관이 근로자 권리가 경제성장 추구 과정에서 '종속'될 수 있다고 BBC에 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c2fb0d1d556f",
+      "category": "economy",
+      "source": "머니투데이",
+      "region": "kr",
+      "title": "\"왕처럼 즐기는 건강 미식, 지역도 몸도 살린다\" 7일 코엑스서 이색 토크쇼",
+      "link": "https://www.mt.co.kr/thebio/2026/11/06/2026110623170687243",
+      "publishedAt": "2026-11-06T14:35:29.000Z",
+      "description": "지역에서의 즐거운 체험과 함께 맛있는 음식을 먹으며 건강까지 챙길 수 있다면 사람의 발길이 몰려들기 마련이다. 맛있고 건강한 음식이 어떻게 사람을 지역으로 불러 모으는지 살펴보는 이색 토크쇼가 열려 주목된다. 코엑스가 주최하고 한양대 관광연구소와 웰니스 컨텐츠 전문기업 더블오랩스가 공동주관하는 '한 끼가 지역을 살린다 - 2026 미식관광 토크쇼'가 7일 오전 10시30분부터 오후 1시까지 서울 삼성동 코엑스 C홀 푸드위크 메인 세미나장에서 열린다. 인구 감소로 지역소멸 위기가 커진 가운데, 지역에 외부인을 오게 하고 오래 머물게 하는 수단으로 '현지 식재료로 만든 맛있고 신선한 음식'이 주목받는다. 이번 토크쇼는 기업과 지자체가 지역 먹거리를 상품·스토리·경험·변화로 풀어낸 사례를 한자리에서 소개하고, 음식을 통한 건강 증진과 지역관광 활성화, 생활인구 확대 방안을 함께 이야기한다....",
+      "author": null,
+      "summary": "코엑스가 주최하는 미식관광 토크쇼가 7일 개최되며, 지역 음식을 통해 지역 활성화와 건강 증진을 연계하는 사례를 소개한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ed7a344f8f02",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "AI 혼란 우려하는 화이트칼라 근로자들 퇴직 택함",
+      "link": "https://www.theguardian.com/technology/2026/nov/06/ai-disruption-job-quitting",
+      "publishedAt": "2026-11-06T14:00:45.000Z",
+      "description": "While there’s no evidence linking AI to mass layoffs, the tech has already ‘changed worker psychology’ When artificial intelligence researcher Mrinank Sharma quit his job at Anthropic earlier this year, the news rippled across the internet. In his resignation letter, posted on X and viewed 15.3m times, Sharma warned of a world “in peril” from the technology he had helped build. “It is clear to me the time has come to move on,” he wrote. His next move: a poetry degree. Continue reading...",
+      "author": "Amelia Penniman",
+      "summary": "AI 연구자 Mrinank Sharma를 포함한 화이트칼라 근로자들이 AI 기술로 인한 업무 변화를 우려해 퇴직을 택하고 있으며, 실제 대량 해고 증거는 없지만 근로자 심리에 변화가 생겼다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a3f906fed1f4",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "증권사들, 신용융자 담보비율↓·반대매매 유예…'빚투 강제처분 완화'",
+      "link": "https://www.yna.co.kr/view/AKR20261106190300008",
+      "publishedAt": "2026-11-06T13:46:04.000Z",
+      "description": "(서울=연합뉴스) 황철환 기자 = 미국 민주당의 중간선거 압승 여파로 글로벌 증시가 된서리를 맞은 가운데 국내 주요 증권사들이 일제히 신용·대출...",
+      "author": "황철환",
+      "summary": "미국 중간선거 여파로 글로벌 증시가 부진하자 국내 증권사들이 신용융자 담보비율을 인하하고 반대매매를 유예하며 빚투 강제처분을 완화했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d85ff254a2e2",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "증시 폭락에 트럼프 \"멍청한 민주당 때문…이들에 투표한 스스로를 탓해야\"",
+      "link": "https://www.mk.co.kr/news/stock/12200996",
+      "publishedAt": "2026-11-06T13:27:45.000Z",
+      "description": "미국 중간선거 직후인 5일(현지 시간) 뉴욕증시 3대 지수가 일제히 폭락한 가운데, 도널드 트럼프 대통령이 민주당을 지지한 유권자들에게 책임을 돌렸다. 트럼프 대통령은 이날 소셜미..",
+      "author": "매일경제",
+      "summary": "미국 중간선거 이후 뉴욕증시 3대 지수가 폭락하자 트럼프 대통령이 민주당을 비난하고 민주당 지지자들에게 책임을 돌렸다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "34ae7ca9e1f2",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "한국금융IT, 신개념 'AI 조건검색' 개발",
+      "link": "https://www.mk.co.kr/news/stock/12200973",
+      "publishedAt": "2026-11-06T13:00:05.000Z",
+      "description": "검증된 조건검색 기술에 AI 접목 자연어 기반 新종목검색 방식 구현 신한證에 공급, 상용화 확대 모색AI 트레이딩 솔루션 전문기업 한국금융IT(대표이사 이문태)가 기존 조건검색 기..",
+      "author": "매일경제",
+      "summary": "한국금융IT가 기존 조건검색 기술에 AI를 접목해 자연어 기반의 신종목검색 방식을 개발했으며, 신한증권에 공급하고 상용화를 확대하려 하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0b31d6e8c038",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "다카이치 \"日銀 ETF 매각 이익으로 반도체·AI 투자\"",
+      "link": "https://www.mk.co.kr/news/world/12200962",
+      "publishedAt": "2026-11-06T12:44:44.000Z",
+      "description": "성장전략회의서 투자계획 밝혀 ETF 매각 속도 2.6배로 높여 추가 이익으로 첨단산업 육성 가교국채 발행해 자금 선조달 2040년까지 민관 370조엔 투자일본 정부가 중앙은행인 일..",
+      "author": "매일경제",
+      "summary": "일본 정부가 일본은행의 ETF 매각 속도를 높여 반도체와 AI 첨단산업 투자에 충당하며, 2040년까지 민간과 정부가 함께 370조엔을 투자할 계획이라고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "31cf370a8d36",
+      "category": "economy",
+      "source": "동아일보 경제",
+      "region": "kr",
+      "title": "나스닥 5.5% 와르르, 하루새 3400조원 증발…서학개미 13조 날려",
+      "link": "https://www.donga.com/news/Economy/article/all/20261106/134978401/1",
+      "publishedAt": "2026-11-06T11:18:00.000Z",
+      "description": "한국 등 아시아 주식 시장을 덮친 ‘검은 금요일’ 충격은 미국 뉴욕증시에서 시작됐다. 미국 중간선거에서 민주당이 압승하면서 인공지능(AI) 데이터센터 건설 규제가 강화될 것이란 우려에 미국 반도체주가 폭락했고, 여파가 한국뿐 아니라 일본, 대만 등 아시아 증시 전반을 끌어내렸다. 5일(현지 시간) 미국 나스닥 종합지수는 전날보다 5.52%, 스탠더드앤드푸어스(S&P) 500지수는 4.36% 하락했다. 도널드 트럼프 미국 대통령이 상호관세를 발표하며 증시가 충격을 받았던 지난해 4월 이후 하락 폭이 가장 컸다. 나스닥 시가총액은 약 2조5000억 달러(약 3400조 원) 증발하며 하루 기준 역대 최대 감소액을 기록했다. 한국예탁결제원에 따르면 서학개미(미국 주식을 보유한 국내 개인 투자자) 보유 주식 평가액은 이날 하루 약 99억 달러(약 13조4000억 원) 증발했다. AI 투자 확대 수혜주였던 반도체 기업들이 직격탄을 맞았다. 샌디스크(―22.26%)와 마이크론(―17.",
+      "author": null,
+      "summary": "미국 중간선거에서 민주당 압승으로 AI 데이터센터 규제 우려가 커지면서 나스닥 지수가 5.52% 하락해 하루 기준 역대 최대인 약 3400조원의 시가총액이 증발했고, 미국 주식에 투자한 한국 개인 투자자도 약 13조원의 손실을 입었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "124faec1cbf1",
+      "category": "economy",
+      "source": "동아일보 경제",
+      "region": "kr",
+      "title": "KPGA 대상·상금왕 노리던 장유빈, 스코어카드 오기로 실격",
+      "link": "https://www.donga.com/news/Sports/article/all/20261106/134981943/1",
+      "publishedAt": "2026-11-06T10:52:00.000Z",
+      "description": "2026시즌 한국프로골프(KPGA)투어 대상과 상금왕을 노렸던 장유빈(24)이 시즌 최종전에서 스코어카드 오기(誤記)로 실격을 당했다.장유빈은 6일 제주 서귀포 테디밸리 골프앤리조트(파72)에서 열린 KPGA 투어챔피언십 2라운드에서 4언더파 68타를 쳤지만 스코어를 잘못 적었다. 그는 스코어카드에 보기를 한 17번홀(파3) 타수를 3타로, 버디를 한 18번홀(파4) 타수를 4타로 기록했다. 장유빈은 17번 홀에서 스코어를 실제보다 적게 적어내 골프 규칙에 따라 실격됐다. 실격 전까지 장유빈은 중간합계 1오버파 145타로 공동 18위에 자리해 있었다. KPGA투어 사무국에 따르면 플레이어가 스코어카드를 스코어링시스템에 입력한 후 15분 이내에 스코어접수처로 복귀해 수정하면 페널티를 받지 않는다. 하지만 장유빈은 이날 정정 기한이 지난 시점에 접수처로 돌아왔다.지난해 LIV골프에서 최종 순위 53위에 그쳐 다음 시즌 시드를 잃은 장유빈은 올해 KPGA투어로 돌아왔다. 올 시즌 2",
+      "author": null,
+      "summary": "2026시즌 KPGA 투어 대상과 상금왕을 노리던 장유빈이 최종전 스코어카드에 한 홀의 타수를 잘못 적어 실격을 당했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "4d028f03ddcf",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "가상자산 거래소 고팍스, 해킹 위협에 입출금·매매 중단",
+      "link": "https://www.yna.co.kr/view/AKR20261106174751002",
+      "publishedAt": "2026-11-06T10:20:59.000Z",
+      "description": "(서울=연합뉴스) 유동현 기자 = 가상자산 거래소 고팍스가 해킹 협박 이메일을 받고 이용자 자산 보호를 위해 가상자산 입출금과 매매 서비스를 중...",
+      "author": "유동현",
+      "summary": "가상자산 거래소 고팍스가 해킹 협박 이메일을 받고 이용자 자산 보호를 위해 가상자산 입출금과 매매 서비스를 중단했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7e3abddcd1eb",
+      "category": "politics",
+      "source": "연합뉴스 사회",
+      "region": "kr",
+      "title": "경북 앞바다에 7일 0시 풍랑주의보 발효",
+      "link": "https://www.yna.co.kr/view/AKR20261106191800527",
+      "publishedAt": "2026-11-06T14:07:45.000Z",
+      "description": "(울산=연합뉴스) 기상청은 7일 0시를 기해 경북 남부 앞바다에 풍랑주의보를 발효한다고 6일 밝혔다.",
+      "author": "기상뉴스",
+      "summary": "기상청이 경북 남부 앞바다에 대해 7일 자정부터 풍랑주의보를 발효했다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "22208ae87382",
+      "category": "politics",
+      "source": "연합뉴스 사회",
+      "region": "kr",
+      "title": "\"요양보호사가 80대 환자 밀쳐 중상\" 고소…경찰, 수사 착수",
+      "link": "https://www.yna.co.kr/view/AKR20261106189300054",
+      "publishedAt": "2026-11-06T13:21:38.000Z",
+      "description": "(나주=연합뉴스) 정다움 기자 = 전남광주 나주 한 요양병원에서 돌봄 인력이 고령의 환자를 밀어 다치게 했다는 고소장이 접수돼 경찰이 수사에 나...",
+      "author": "정다움",
+      "summary": "전남 나주의 요양병원에서 요양보호사가 80대 환자를 밀쳐 중상을 입혔다는 고소가 들어와 경찰이 수사를 착수했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "117d799e3032",
+      "category": "politics",
+      "source": "SBS 뉴스",
+      "region": "kr",
+      "title": "민주당도 \"누구야?\"…국힘 \"돌고 돌아 성남 라인\"",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008834638",
+      "publishedAt": "2026-11-06T12:58:00.000Z",
+      "description": "이용철 법무장관 후보자 발탁을 두곤 민주당도 술렁이는 분위기였습니다. 국민의힘은 돌고 돌아 결국 '경기 성남 라인'이냐며, 이재명…",
+      "author": "spirit@sbs.co.kr (김관진)",
+      "summary": "이용철 법무장관 후보자 발탁으로 민주당도 반응을 보이는 가운데 국민의힘은 '성남 라인'을 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "09174f00ead9",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "일본 지바현 동남동쪽 해역 규모 6.1 지진",
+      "link": "https://www.khan.co.kr/article/202611062017001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-11-06T11:17:00.000Z",
+      "description": "기상청 제공일본 지바현 동남동쪽 해역에서 규모 6.1의 지진이 발생했다.기상청에 따르면 6일 오후 7시 39분쯤 일반 지바현 지바시 동남동쪽 202km 해역에서 규모 6.1의 지진이 발생했다.진앙은 북위 35.00도, 동경 142.20도다. 지진 발생 깊이는 10km로 분석됐다.기상청은 국내에 영향이 없으며, 발생 시각·규모·위치·깊이는 일본기상청(JMA)···",
+      "author": "반기웅 기자",
+      "summary": "일본 지바현 동남동쪽 해역에서 규모 6.1의 지진이 발생했지만 국내에는 영향이 없었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2ea8e8e677a9",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "정무수석에 '원조 친노' 최인호…당내 계파 갈등 해소 포석",
+      "link": "https://www.donga.com/news/Politics/article/all/20261106/134981749/1",
+      "publishedAt": "2026-11-06T10:58:00.000Z",
+      "description": "이재명 대통령이 6일 신임 대통령정무수석비서관으로 내정한 최인호 전 주택도시보증공사(HUG) 사장(60)은 ‘원조 친노(친노무현)계’로 부산에서 재선 국회의원을 지냈다. 최 신임 수석에게 친명(친이재명)계와 친노·친문(친문재인)를 잇는 역할을 맡기며 당내 갈등 해소에 나선 것으로 풀이된다.최 수석은 경남 창녕 출신으로 부산대 정치외교학과를 졸업했다. 노무현 전 대통령이 국회의원으로 재직할 당시 비서관을 지냈고, 노무현 정부에선 대통령홍보수석비서관실 국내언론비서관으로 일했다. 이후 20, 21대 총선에서 부산 사하갑에서 당선돼 재선 의원을 지냈다. 2022년 민주당 대선후보 경선 당시 이낙연 후보를 도왔지만 이후에는 이 대통령과 정치적 행보를 함께 해왔다. 22대 총선에선 같은 지역구에서 낙선한 뒤 올해 1월 HUG 사장으로 임명됐다. 청와대 관계자는 “최 수석은 친노 적자에 해당하는 인물”이라며 “민주당 내 계파갈등 해소의 중간자 역할을 할 것”이라고 했다. 임광현 대통령비서실장은",
+      "author": null,
+      "summary": "이재명 대통령이 당내 계파 갈등 해소를 위해 '원조 친노' 최인호 전 HUG 사장을 신임 정무수석으로 내정했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b45ca3cb4fcb",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "외교1차관, 벨기에 외교차관 면담…정책협의회 재개 추진",
+      "link": "https://www.yna.co.kr/view/AKR20261106182700504",
+      "publishedAt": "2026-11-06T10:42:56.000Z",
+      "description": "(서울=연합뉴스) 민선희 기자 = 박윤주 외교부 1차관은 6일 오후 서울에서 테오도라 겐치스 벨기에 외교부 사무차관과 면담하고 차관보급 정책협의...",
+      "author": "민선희",
+      "summary": "박윤주 외교부 1차관이 벨기에 외교부 사무차관과 면담해 양국 정책협의회 재개를 추진했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6784233d1c7f",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "국조실장, 국토대전환 전략논의…\"좋은 구상 변화로 만들어야\"",
+      "link": "https://www.yna.co.kr/view/AKR20261106179300001",
+      "publishedAt": "2026-11-06T10:11:59.000Z",
+      "description": "(서울=연합뉴스) 이상현 기자 = 정부는 6일 정부서울청사에서 임기근 국무조정실장 주재로 국토대전환 전략 자문단과 오찬을 겸한 간담회를 개최했다...",
+      "author": "이상현",
+      "summary": "정부가 국토대전환 전략 자문단과의 간담회를 열어 정책 실현 방안을 논의했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "49b1e98fe148",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "광장의 노래에서 삶의 노래로···김호철·윤민석 '야간비행'",
+      "link": "https://www.khan.co.kr/article/202611061821001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-11-06T09:21:00.000Z",
+      "description": "‘긴급 생계형 창작 프로젝트’를 표방하며 프로젝트 그룹 ‘야간비행’을 결성한 작곡가 김호철(왼쪽)과 윤민석.민중가요 두 작곡가 의기투합해 프로젝트 그룹 결성‘긴급 생계형 창작’ 내걸고 5년간 매달 신곡 발표프로젝트 그룹 ‘야간비행’(작곡가 김호철·윤민석)이 11일 발표하는 첫 싱글 ‘야간비행 에피소드 1(Episode 1)’의 앨범 커버.‘파업가’와 ‘헌법···",
+      "author": "김창효 선임기자",
+      "summary": "민중가요 작곡가 김호철과 윤민석이 '야간비행' 프로젝트 그룹을 결성해 5년간 매달 신곡을 발표하기로 했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f7b2b0927f7b",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "정부, 내년 핵잠수함 건조 업체 계약 '속도전'…한·미 협의가 관건",
+      "link": "https://www.khan.co.kr/article/202611061747001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-11-06T08:47:00.000Z",
+      "description": "이재명 대통령이 지난 5월 경남 창원 진해구에서 열린 제1회 미래국방전략위원회에서 핵추진잠수함 개발 기본계획 보고를 듣고 있다. 연합뉴스정부가 2030년대 후반 전력화를 목표로 하는 한국형 핵추진잠수함의 건조 업체를 내년 후반기 중 선정해 계약할 예정이라고 6일 밝혔다. 정부가 핵잠 개발 사업에 속도를 내는 가운데 핵잠용 핵연료 확보를 위한 미국과의 협의가···",
+      "author": "김병관 기자",
+      "summary": "정부가 2030년대 후반 전력화 목표의 한국형 핵추진잠수함 건조 업체를 내년 후반기 중 선정할 예정이며 미국과의 협의가 중요하다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e2e57b59e5ae",
+      "category": "politics",
+      "source": "서울신문",
+      "region": "kr",
+      "title": "李의 유튜브 첫방… \"댓글에도 아이디어, 욕설에 상처 안 받아\"",
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20261106010004",
+      "publishedAt": "2026-11-05T15:51:16.000Z",
+      "description": "30분 대담… “직접 소통은 내 목숨줄” SNS 많다는 지적에 “일리는 있어” “국무회의 공개했으면 계엄 불가능” 불시의 생방송 등 방식 확대 시사도 이재명 대통령은 5일 소셜미디어(SNS) 등으로 국민과 직접 소통을 하는 것에 대해 “저는 믿는 게 국민들의 집단지성”이라며 “(기존 언론의 정보 전달) 그걸로는 충분치 않다. 저한테는 (SNS 직접 소통이) 목숨 줄 같다”고 말했다. 이 대통령은 이날 오후 9시 첫 공개된 유튜브 프로그램 ‘대통령의 Y’에서 “제가 삶을 살아오면서 수없이 많은 공격을 당했는데 언론도, 정치도, 권력도 모두가 저를 공격할 경우가 많았다”며 “그럴 때 제가 국민들과 직접 소통을 안 했으면 아마 저는 지금 이 자리에 없을 것”이라며 이처럼 밝혔다. MBC 아나운서를 지낸 손정은 소울브릿지ENT 대표의 진행으로 30분 정도 진행된 이날 방송에서 이 대통령은 ‘SNS를 줄이는 게 어떠냐’는 일각의 지적에 대해 “일리가 있다”고 했다. 그러면서도 “SNS에도 사람이 산다고 하는 게 제 생각인데 익명이라서 좀 더 자유롭긴 하지만 거기도 사람이 있는 것이고 그 사람들도 대한민국 국민이고 그 속에서 제가 이렇게 아이디어를 얻는 경우도 매우 많",
+      "author": "김진아 기자",
+      "summary": "이재명 대통령이 유튜브 프로그램에 출연해 SNS를 통한 국민과의 직접 소통이 자신에게 중요하다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3560c404a29d",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "탄자니아 야당 지도자, 소요 선동죄는 유죄·반역죄는 무죄",
+      "link": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T14:57:08.000Z",
+      "description": "The 58-year-old, who has been detained since April last year, says the charges are politically motivated.",
+      "author": null,
+      "summary": "탄자니아 야당 지도자가 소요를 선동한 혐의로 유죄 판결을 받았으나 반역죄로는 무죄 판정을 받았다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a768c75142fe",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "케냐 종말론 사이비종교 지도자 200년형 선고",
+      "link": "https://www.npr.org/2026/11/06/nx-s1-6032593/kenya-cult-leader-paul-mackenzie-sentenced-murder",
+      "publishedAt": "2026-11-06T14:53:46.000Z",
+      "description": "Cult leader Paul Mackenzie was convicted of murdering 190 children and one adult after he ordered his followers to starve themselves to death in order to meet Jesus.",
+      "author": "The Associated Press",
+      "summary": "케냐 사이비종교 지도자 폴 맥켄지가 추종자들을 굶어 죽게 한 살인 혐의로 유죄 판결을 받아 200년형을 선고받았다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "55b173fd1e9c",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "美 10월 고용 16만5천명 '깜짝 증가'…12월 금리인상 전망 강화(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261106191452072",
+      "publishedAt": "2026-11-06T14:50:58.000Z",
+      "description": "(뉴욕=연합뉴스) 김연숙 특파원 = 10월 미국의 일자리가 예상보다 큰 폭으로 증가했다.",
+      "author": "김연숙",
+      "summary": "미국의 10월 비농업 부문 고용이 16만 5천 명 증가하며 예상을 크게 웃돌았고, 이는 12월 금리인상 가능성을 높였다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "141dabb65365",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "뉴욕증시, 기술주 반등·비농업 고용지표 소화하며 혼조 출발",
+      "link": "https://www.yna.co.kr/view/AKR20261106193000009",
+      "publishedAt": "2026-11-06T14:50:12.000Z",
+      "description": "(서울=연합뉴스) 윤정원 연합인포맥스 기자 = 뉴욕증시의 3대 주가지수는 기술주가 반등하는 동시에 예상을 웃돈 비농업 고용지표 소화하면서 혼조세...",
+      "author": "국제뉴스공용1",
+      "summary": "뉴욕증시가 기술주의 반등과 예상치를 넘은 고용지표를 반영하며 혼조로 마감했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d8384e7235c9",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "케냐 종말론 사이비종교 지도자 191명 살해죄로 무기징역",
+      "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T14:46:03.000Z",
+      "description": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
+      "author": null,
+      "summary": "케냐의 사이비종교 지도자 폴 맥켄지가 191명을 살해한 혐의로 무기징역형을 선고받았다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "56587b8b319e",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "프랑스의 증가하는 부채비용, 안정성 위협 속 개혁 추진",
+      "link": "https://www.dw.com/en/protests-and-reforms-france-s-rising-debt-costs-threaten-stability/a-79865654?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-11-06T14:37:00.000Z",
+      "description": "France plans to spend an extra €4 billion on education amid nationwide protests. But with public debt mounting and interest costs climbing, how much fiscal room does the government have?",
+      "author": null,
+      "summary": "프랑스가 전국 시위 와중에 교육에 40억 유로를 추가 투입하지만, 공적 부채와 이자 비용의 증가로 재정 운신의 폭이 제한되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9b00f281784f",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "호주 화염개미 박멸 반대 활동가, 주권시민 논거로 유죄",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/07/trevor-hold-activist-convicted-qld-fire-ant-eradication-program-queensland-ntwnfb",
+      "publishedAt": "2026-11-06T14:00:46.000Z",
+      "description": "Legal expert compares Trevor Hold’s failed defence to ‘tried and tested argument’ used by sovereign citizen movement Get our breaking news email, free app or daily news podcast The Queensland leader of a group opposing the eradication of fire ants in Australia has been convicted of obstructing government officers, after a magistrate threw out his argument that the commonwealth-funded program is illegal. Trevor Hold was fined $1,500 but a conviction was not recorded. Hold has described himself as an “ultrapreneur”, a mental health counsellor, an organic cattle farmer and the chief executive off",
+      "author": "Andrew Messenger",
+      "summary": "호주 퀸즐랜드의 활동가 트레버 홀드가 연방 기금 화염개미 박멸을 불법이라 주장했으나, 주권시민 운동과 유사한 논거라는 이유로 정부 관리자 방해 혐의로 유죄 판결받았다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f3b65180f9c3",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "호주 자유당 선거 캠프 버스, 출범식에서 상점 충돌사고",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/07/the-victorian-liberals-campaign-bus-was-supposed-to-be-a-reset-instead-it-became-the-symbol-of-a-rough-week",
+      "publishedAt": "2026-11-06T14:00:45.000Z",
+      "description": "Crashing into a shop awning ended the first outing of the Jess Express – but the opposition’s electoral momentum will be harder to stop Get our daily political email, free app or daily news podcast Jess Wilson has barely put a foot wrong since becoming Victorian Liberal leader a little under a year ago. That was until this week, which ended with her campaign bus reversing into a small business. The bus was launched on Friday, a few days earlier than planned, in what appeared to be an effort to reset Wilson’s relationship with the Spring Street press pack. Continue reading...",
+      "author": "Benita Kolovos",
+      "summary": "호주 빅토리아주 자유당 신임 지도자 제시 윌슨의 선거 캠프 버스가 출범식에서 소상공인점 차양에 역주행으로 충돌하는 사고가 발생했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "eb6e2e63895e",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "체코 무기 제조업체, 우크라이나 호황 지속 위해 우주 방위 진출",
+      "link": "https://www.dw.com/en/czech-arms-makers-set-sights-on-space-defense-in-bid-to-sustain-ukraine-driven-arms-boom/a-79876035?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-11-06T14:00:00.000Z",
+      "description": "Czech arms makers have thrived on demand linked to the war in Ukraine. To sustain their growth, they need to look beyond ammunition and toward new technologies — and even space.",
+      "author": null,
+      "summary": "체코 무기 제조업체들이 우크라이나 전쟁으로 호황을 누렸으나, 지속적 성장을 위해 탄약 이상의 신기술, 특히 우주 방위 분야로 진출하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "aa0c85878262",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "마카오 전직 의원, 국가보안법 위반 혐의로 12.5년형 선고",
+      "link": "https://www.npr.org/2026/11/06/g-s1-152217/ex-lawmaker-gets-12-5-years-in-macaos-first-national-security-case",
+      "publishedAt": "2026-11-06T13:56:43.000Z",
+      "description": "Au's arrest last year was the first publicly known prosecution under Macao's national security law since it was enacted in 2009.",
+      "author": "The Associated Press",
+      "summary": "마카오의 전직 의원이 국가보안법을 위반한 혐의로 12.5년형을 선고받았으며, 이는 2009년 국가보안법 제정 이후 마카오에서 처음으로 공개된 기소 사건이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9be140c2c6e5",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "Joshua Wong 투옥, 중국의 홍콩 민주화 탄압 의지를 드러내다",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/06/hong-kong-prisoners-china-signal-democracy-joshua-wong",
+      "publishedAt": "2026-11-06T14:53:05.000Z",
+      "description": "My friend was due to be released next January. Under draconian security laws, his sentence has been extended by 10 years Two years ago, I wrote in this newspaper about the lengthy imprisonment of my friend Joshua Wong, who I spent years campaigning alongside for the advancement of Hong Kong’s democracy. He was given an unjust sentence meant to keep him behind bars until January 2027. He was supposed to be released in a few months, when I hoped he would finally be able to reunite with his friends and family and embark on a new chapter. But this hope was misplaced. The end of the tunnel isn’t ne",
+      "author": "Nathan Law",
+      "summary": "Nathan Law가 친구 Joshua Wong의 형이 중국의 엄격한 보안법으로 10년 연장된 것을 지적하며, 이를 홍콩 민주화에 대한 중국의 억압 의지를 드러내는 사례라고 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "478123feb36f",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]더 잦아질 美 '블루웨이브' 발작… 더 거세질 '앵그리덕' 폭주",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261106/134982414/2",
+      "publishedAt": "2026-11-06T14:30:00.000Z",
+      "description": "11·3 미국 중간선거의 거센 후폭풍이 세계 경제에 밀려들고 있다. 인공지능(AI) 과속 투자에 부정적인 민주당이 압승한, 이른바 ‘블루웨이브(blue wave)’ 여파로 반도체 주가가 폭락하고 코스피가 장중 5,000 선이 무너지는 등 세계 증시가 급락했다. 이런 가운데 도널드 트럼프 미 대통령은 선거 참패 이틀 만에 “미국에 공장을 안 지으면 관세가 최고 300%”라며 으름장을 놓았다. 반도체로 먹고사는 한국 경제 앞에 미 민주당발 ‘AI 거품 붕괴 공포’와 트럼프발 ‘관세 폭탄’의 이중 파도가 몰려오고 있다.미 중간선거 직후 뉴욕증시는 정치적 불확실성 해소와 이란 전쟁의 조기 종식 기대감으로 급등했다. 하지만 AI 데이터센터 건설이 몰린 텍사스·오하이오·조지아 주지사 선거에서 민주당 후보들이 속속 당선되면서 5일 3대 지수가 동반 급락했다. 이 여파로 6일 한국 일본 대만 증시도 하락했다. 민주당이 장악한 미 의회가 AI 규제를 강화하면 데이터센터 투자가 위축되고 반도체 수요",
+      "author": null,
+      "summary": "동아일보가 미국 중간선거에서 민주당의 승리로 AI 규제 우려가 높아져 반도체 주가가 폭락하고 있으며, 트럼프의 관세 정책까지 겹치면서 한국 경제가 이중 타격을 받을 것으로 우려했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "aeb5d8f09915",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]모순과 논란투성이 '조작 기소 특검법'… 후폭풍 감당하겠나",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261106/134982418/2",
+      "publishedAt": "2026-11-06T14:27:00.000Z",
+      "description": "더불어민주당이 ‘조작수사·조작기소 진상규명 특검법’을 국회 본회의에서 강행 처리했다. 특검이 임명되면 최대 309명의 인력이 최장 200일간 쌍방울 대북송금 사건을 비롯한 15개 사건에 대한 검찰 등 국가기관의 권력 오남용 여부를 수사하게 된다. 그러나 이번 특검법은 여러 가지 모순과 문제점을 안고 있어 수사 결과를 놓고도 적지 않은 논란이 일 것으로 보인다. 여당 안에서도 “좀 더 숙의 과정이 필요하지 않았나”라는 지적이 나온다. 이번 특검법에서 가장 문제가 되는 내용은 특검이 공소청에서 최대 20명의 검사를 파견받아 수사를 맡길 수 있도록 한 조항이다. 민주당은 수사권과 기소권을 함께 갖고 있으면 권력 남용 등의 부작용이 많다며 검찰청을 폐지하고 검사들의 수사권을 박탈했다. 그래 놓고 전 정권 국가기관의 권력 오남용 의혹 사건에 대해 공소청 검사들을 특검에 파견해 수사권을 준다는 것은 모순적 태도가 아닐 수 없다. 민주당은 선관위 특검법에서도 파견 검사가 수사할 수 있도록",
+      "author": null,
+      "summary": "동아일보가 민주당의 조작 기소 특검법을 검찰청 폐지와 검사 수사권 파견 등이 모순적이라며, 특검 결과를 둘러싼 후폭풍에 대한 우려를 제기했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b6989bd6f51d",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "역사상 가장 다양하고 반기득권적인 의회, 낙관할 이유가 있다",
+      "link": "https://www.theguardian.com/us-news/2026/nov/05/congress-midterms-diverse",
+      "publishedAt": "2026-11-06T14:17:18.000Z",
+      "description": "After years of outrage or numbness being the main options for dealing with politics, Tuesday’s results were permission to be optimistic This was originally published in the Stakes 2026, a newsletter about the midterm elections. Sign up to get it in your inbox We shed some tears this midterm cycle. US politics always makes people emotional, but I heard from friends and colleagues many times this year that speeches, campaigns and underdog success stories moved people in unexpected ways, whether it was this ad of Michigan senator-elect Abdul El-Sayed doing bedtime, a photo of newly elected Texas ",
+      "author": "Ankita Rao",
+      "summary": "Ankita Rao가 중간선거로 가장 다양하고 반기득권적인 의회가 구성되었다며, 이것이 미국 정치에 낙관주의를 가져올 수 있다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6526e01ab8ef",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "워싱턴의 최강 민주당, 진정한 리더십이 필요하다",
+      "link": "https://www.nytimes.com/2026/11/06/opinion/hakeem-jeffries-congress-democrats-midterms.html",
+      "publishedAt": "2026-11-06T12:41:52.000Z",
+      "description": "He’s the country’s top Democrat now. He needs to act like it.",
+      "author": "Michelle Cottle",
+      "summary": "Michelle Cottle이 미국의 최상위 민주당 지도자에게 그 위치에 맞는 행동을 할 것을 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ea637d9ffb5a",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "JD Vance 이란 탓, 오하이오가 보여주는 현실은 다르다",
+      "link": "https://www.washingtonpost.com/opinions/2026/11/06/jd-vance-ohio-ugly-maga-limits/",
+      "publishedAt": "2026-11-06T12:30:00.000Z",
+      "description": "Ohio may be MAGA territory no longer.",
+      "author": "Kate Andrews",
+      "summary": "Kate Andrews가 JD Vance가 이란을 탓하지만, 그의 모국 오하이오의 정치적 변화가 더 근본적인 문제를 드러낸다고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "20de19c3de03",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "로봇이 내 자기소개서를 읽는다",
+      "link": "https://www.washingtonpost.com/opinions/2026/11/06/job-seeking-age-ai-robots-read-my-cover-letter/",
+      "publishedAt": "2026-11-06T12:15:00.000Z",
+      "description": "For young job seekers, the hardest part isn’t hearing no. It’s that nobody is listening.",
+      "author": "Adeline Von Drehle",
+      "summary": "Adeline Von Drehle이 AI 자동화된 채용 심사로 청년 구직자들이 거절을 들을 기회도 없이 무시당하는 현실을 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "bc1340696a67",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "레임덕 Trump로부터 무엇을 기대할 것인가",
+      "link": "https://www.nytimes.com/video/opinion/100000011257733/what-to-expect-from-lame-duck-trump.html",
+      "publishedAt": "2026-11-06T10:02:31.000Z",
+      "description": "“When he feels cornered, when he feels attacked, he fights back,” the columnist Carlos Lozada says of Donald Trump, who is now entering the lame-duck phase of his presidency. Columnists from across Times Opinion share their predictions for what the final two years of Trump’s term might look like — and they’re not pretty.",
+      "author": null,
+      "summary": "뉴욕타임스 칼럼니스트들이 Trump가 코너에 몰렸을 때 반발하는 성향을 고려할 때 그의 대통령 말년이 악화될 수 있다고 예측했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "295825270ba7",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[사설]유튜브 시작한 이 대통령, 지금 소통 부족이 문제인가",
+      "link": "https://www.khan.co.kr/article/202611061818001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-11-06T09:18:00.000Z",
+      "description": "이재명 대통령이 유튜브 방송 를 촬영하는 장면을 청와대가 지난 4일 공개했다. 청와대 제공이재명 대통령이 지난 5일 유튜브 방송 ‘대통령의 와이(Y)’를 공개했다. “대통령이 하는 공적인 일은 주인인 국민에게 보여야 한다”며 취임 전부터 운영해 온 개인 유튜브 채널을 통해 정부 정책과 국정 현안을 직접 설명하겠다고 했다. 그러면서···",
+      "author": null,
+      "summary": "경향신문이 이재명 대통령이 유튜브를 통해 정책을 직접 설명하려는 시도를 언급하면서, 현재 정부의 소통 방식이 충분한지에 대한 의문을 제기했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b8e0415dca84",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[사설]미 '블루 쓰나미'에 주가 폭락, 반도체 일극 경제에 대한 경고",
+      "link": "https://www.khan.co.kr/article/202611061801001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-11-06T09:01:00.000Z",
+      "description": "6일 코스피가 미국 인공지능(AI) 데이터센터 투자 축소에 대한 우려로 전 거래일 대비 6.02% 급락한 5059.69로 거래를 마쳤다. 코스피는 장 초반 4911.28까지 폭락해 9개월 만에 ‘5천피’가 깨지기도 했다. 사진은 이날 서울 여의도 한국거래소 화면에 표시된 코스피 지수. 연합뉴스미국 중간선거에서 민주당이 압승한 ‘블루 쓰나미’ 이후 국내 증···",
+      "author": null,
+      "summary": "경향신문이 미국 '블루 쓰나미' 이후 반도체 산업 축소로 한국 주가가 폭락한 현상을 지적하며, 반도체에 지나치게 의존하는 한국 경제 구조에 대한 경고를 제시했다.",
+      "summarySource": "llm"
+    }
+  ],
+  "summarizedAt": "2026-11-07T01:45:13.796Z",
+  "summaryStats": {
+    "llm": 50,
+    "fallback": 0,
+    "model": "claude-haiku-4-5"
+  }
+}
