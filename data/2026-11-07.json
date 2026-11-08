@@ -1,0 +1,899 @@
+{
+  "date": "2026-11-07",
+  "generatedAt": "2026-11-08T01:07:48.250Z",
+  "categories": [
+    {
+      "id": "it",
+      "label": "IT·과학·AI"
+    },
+    {
+      "id": "economy",
+      "label": "경제·금융"
+    },
+    {
+      "id": "politics",
+      "label": "정치·사회"
+    },
+    {
+      "id": "world",
+      "label": "세계·국제"
+    },
+    {
+      "id": "editorial",
+      "label": "사설·칼럼",
+      "opinion": true,
+      "summaryMaxChars": 220
+    }
+  ],
+  "feedStatus": [
+    {
+      "source": "Ars Technica",
+      "category": "it",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "Hacker News",
+      "category": "it",
+      "ok": true,
+      "matched": 1
+    },
+    {
+      "source": "TechCrunch",
+      "category": "it",
+      "ok": true,
+      "matched": 11
+    },
+    {
+      "source": "The Verge",
+      "category": "it",
+      "ok": true,
+      "matched": 4
+    },
+    {
+      "source": "블로터",
+      "category": "it",
+      "ok": true,
+      "matched": 42
+    },
+    {
+      "source": "전자신문",
+      "category": "it",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "ZDNet Korea",
+      "category": "it",
+      "ok": true,
+      "matched": 25
+    },
+    {
+      "source": "BBC Business",
+      "category": "economy",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "The Guardian",
+      "category": "economy",
+      "ok": true,
+      "matched": 24
+    },
+    {
+      "source": "매일경제 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "연합뉴스",
+      "category": "economy",
+      "ok": true,
+      "matched": 23
+    },
+    {
+      "source": "경향신문 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 18
+    },
+    {
+      "source": "경향신문 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 3
+    },
+    {
+      "source": "노컷뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "서울신문",
+      "category": "politics",
+      "ok": true,
+      "matched": 1
+    },
+    {
+      "source": "연합뉴스 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 30
+    },
+    {
+      "source": "연합뉴스 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "SBS 뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "Al Jazeera",
+      "category": "world",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC World",
+      "category": "world",
+      "ok": true,
+      "matched": 13
+    },
+    {
+      "source": "NPR",
+      "category": "world",
+      "ok": true,
+      "matched": 4
+    },
+    {
+      "source": "The Guardian",
+      "category": "world",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "연합뉴스 국제",
+      "category": "world",
+      "ok": true,
+      "matched": 82
+    },
+    {
+      "source": "매일경제 증권",
+      "category": "economy",
+      "ok": true,
+      "matched": 10
+    },
+    {
+      "source": "경향신문 오피니언",
+      "category": "editorial",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "NYT Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 21
+    },
+    {
+      "source": "The Guardian Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "Washington Post Opinions",
+      "category": "editorial",
+      "ok": false,
+      "error": "타임아웃 15000ms",
+      "matched": 0
+    },
+    {
+      "source": "동아일보 사설",
+      "category": "editorial",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "동아일보 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 20
+    },
+    {
+      "source": "조선일보",
+      "category": "politics",
+      "ok": true,
+      "matched": 3
+    },
+    {
+      "source": "동아일보 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 41
+    },
+    {
+      "source": "머니투데이",
+      "category": "economy",
+      "ok": true,
+      "matched": 22
+    },
+    {
+      "source": "Wired",
+      "category": "it",
+      "ok": true,
+      "matched": 17
+    },
+    {
+      "source": "DW News",
+      "category": "world",
+      "ok": true,
+      "matched": 13
+    }
+  ],
+  "items": [
+    {
+      "id": "d0eb2e5c75b0",
+      "category": "it",
+      "source": "The Verge",
+      "region": "intl",
+      "title": "테슬라 사이버트럭, 내년 생산 중단",
+      "link": "https://www.theverge.com/transportation/1029460/elon-musk-cybertruck-death-election-backlash",
+      "publishedAt": "2026-11-07T14:40:06.000Z",
+      "description": "I'm calling it: time of death, November 6th, 1:30 AM, by tweet. Elon Musk's declaration Friday that Tesla would be \"winding down\" production of the Cybertruck next year to make room for the Cybercab was fascinating for a number of reasons. First, it was a humiliating way to kill a vehicle that was once hailed as the pinnacle of Tesla's engineering - faster than a Porsche 911, more powerful than an F-150, able to leap over the Model Y as a singular representation of Musk's Blade Runner-inspired designs for the future. \"I think the Tesla Cybertruck is our best product ever,\" he declared during a",
+      "author": null,
+      "summary": "테슬라의 일론 머스크가 사이버트럭 생산을 내년에 중단하고 사이버캡에 생산 집중 계획을 발표했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "077466db6c7b",
+      "category": "it",
+      "source": "Hacker News",
+      "region": "intl",
+      "title": "$8 리눅스 컴퓨터",
+      "link": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
+      "publishedAt": "2026-11-07T14:00:20.000Z",
+      "description": "Article URL: http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html Comments URL: https://news.ycombinator.com/item?id=50404599 Points: 194 # Comments: 84",
+      "author": "zenincognito",
+      "summary": "2022년 개발된 8달러 가격대의 저가 리눅스 컴퓨터를 소개하는 기사다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "36c3219d884a",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "PHP 메모리 오류 악용해 서버 침투…SK쉴더스, 패치·재시작 권고",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=677918",
+      "publishedAt": "2026-11-07T14:00:00.000Z",
+      "description": "웹사이트 개발에 널리 사용되는 프로그래밍 언어 PHP에서 발견된 'PHP2Shell' 취약점을 악용하면 별도의 로그인 없이도 웹서버에서 임의의 명령을 실행할 수 있는 것으로 나타났다. 공격자가 조작된 파일 업로드 요청으로 서버에 메모리 부족 오류를 일으킨 뒤 정상적으로 정리되지 않은 메모리를 악용하는 방식이다.이번 취약점은 웹사이트의 개별 개발 오류가 아닌 PHP의 메모리 관리와 요청 처리 과정에서 발생한다. 서로 다른 두 취약점이 동일한 메모리 오류에서 출발하면서도 각각 독립적인 공격 경로를 형성한다는 점에서 주의가 요구된다. S",
+      "author": "강준혁 기자",
+      "summary": "PHP의 메모리 관리 오류를 악용하는 'PHP2Shell' 취약점이 발견되었으며, 로그인 없이도 웹서버에서 임의의 명령을 실행할 수 있어 패치와 재시작이 권고되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "dc186c0f6775",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "\"백종원 시키신 분\"…피자 시켰더니 그가 나타난 이유는",
+      "link": "https://www.etnews.com/20261107000029",
+      "publishedAt": "2026-11-07T13:40:00.000Z",
+      "description": "백종원 더본코리아 대표가 직접 오토바이를 몰고 피자 배달에 나섰다. 자신이 운영하는 피자 프랜차이즈 가맹점을 찾아 일일 배달원으로 활동하며 고객과 소통하고 매장 영업을 지원하는 모습을 공개했다. 백 대표는 지난 5일 자신의 유튜브 채널에 '피자 배달 알바합니다! 그런데 사람들이 못 알아봅니다'라는 제목의 영상을 올렸다. 영상에는 충남 계룡시에서 부부가 운영하는 빽보이피자 가맹점을 찾아 하루 동안 배달 업무를 하는 모습이 담겼다. 백 대표는 헬멧",
+      "author": "이상목",
+      "summary": "더본코리아 대표 백종원이 자신이 운영하는 빽보이피자 가맹점에서 일일 배달원으로 활동하는 영상을 유튜브에 공개했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "00f3812e8d6c",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "中지린OLED, LG화학 특허 무효심판 청구",
+      "link": "https://zdnet.co.kr/view/?no=20261107220705",
+      "publishedAt": "2026-11-07T13:22:49.000Z",
+      "description": "[지디넷코리아]중국 유기발광다이오드(OLED) 재료업체 지린OLED(Jilin OLED)가 LG화학 OLED 특허를 상대로 무효심판을 청구했다. LG화학이 배터리 소재 분야에서 재세능원 등과 한국에서 수년째 특허분쟁 중이지만, 중국 업체가 LG화학 OLED 특허를 상대로 한국에서 무효심판을 청구한 것은 이번이 처음이다. 7일 업계에 따르면 지린OLED의 자회사 상해글린트화학재료유한공사(上海珂力恩特化学材料有限公司)는 지난해 11월 한국 특허심판원에 LG화학의 '헤테로환 화합물 및 이를 포함하는 유기발광소자' 특허(1499356, 아래 '356 특허)를 상대로 무효심판을 청구했다. 특허심판원은 지난 10월 하순 양측에 구술심리기일지정통지서를 발송했다. '356 특허는 OLED 소자 재료 기술이다. 전자주입층(EIL)과 전자수송층(ETL), 정공주입층(HIL), 정공수송층(HTL), 발광층 호스트 등에 사용할 수 있다. 지난 2013년 출원(신청)해 2015년 등록됐다. 일반적으로 특허무효심판은 특허권자가 경쟁사에 특허침해소송을 제기하거나 특허침해를 경고한 뒤, 경쟁사가 대응 차원에서 청구하는 것이 일반적이다. 지린OLED 입장에선 LG화학 '356 특허가 사업 ",
+      "author": "이기종 기자",
+      "summary": "중국의 OLED 재료업체 지린OLED가 LG화학의 유기발광다이오드 소재 특허를 상대로 한국 특허심판원에 무효심판을 청구했으며, 이는 중국 업체의 첫 사례이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f62907d345e3",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "냉장고 해킹 열풍, IoT 보안의 경각심",
+      "link": "https://www.wired.com/story/kernel-panic-refrigeration-hacks-internet-of-things/",
+      "publishedAt": "2026-11-07T13:00:00.000Z",
+      "description": "Escalating hacks affecting blood labs and grocery stores show the very real risks to critical infrastructure that come from basic security lapses involving internet-connected devices.",
+      "author": "Lily Hay Newman, Matt Burgess",
+      "summary": "혈액 검사실과 식료품점을 겨냥한 냉장고 해킹 사례가 증가하면서 인터넷 연결 기기의 기본 보안 부족이 중요 인프라에 미치는 위험성이 드러났다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f510be305e79",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "반투 민족의 아프리카 확산, 유전자·고고학으로 규명",
+      "link": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
+      "publishedAt": "2026-11-07T12:15:55.000Z",
+      "description": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
+      "author": "Katarina Zimmer, Knowable Magazine",
+      "summary": "과학자들이 유전자와 고고학 자료를 종합 분석하여 반투 언어를 사용하는 민족들이 아프리카 대부분 지역으로 확산된 경로와 과정을 추적하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1c5237d36b65",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "카카오뱅크, 대출증가율 초점…'총량 밖' 승부수 띄운다",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=677991",
+      "publishedAt": "2026-11-07T12:00:00.000Z",
+      "description": "카카오뱅크가 가계대출 성장 둔화를 극복하기 위해 분양잔금대출 시장 공략에 나섰다. 정부가 집단대출을 은행별 가계대출 총량 목표와 분리해 관리하면서 새로운 성장 기회가 열렸다. 3분기 대출 증가율이 0.8%에 그친 반면 수신은 7.0% 늘어 여신 확대의 필요성도 커졌다. 관건은 대출 성장세 회복이 실제 수익성 개선으로 이어질 수 있느냐다.7일 카카오뱅크에 따르면 3분기 말 여신 잔액은 48조6000억원으로 전분기 대비 0.8% 증가했다. 주택담보대출은 14조8000억원에서 15조3000억원으로, 개인사업자대출은 3조7000억원에서 4",
+      "author": "이나리 기자",
+      "summary": "카카오뱅크가 정부의 집단대출 총량 분리 관리 정책을 활용하여 분양잔금대출 시장에 진출, 3분기 0.8%에 그친 대출 증가율 개선을 추진하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "868fca1c46a5",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "'블루웨이브'와 한국 AI의 전략적 대응",
+      "link": "https://zdnet.co.kr/view/?no=20261107192636",
+      "publishedAt": "2026-11-07T10:27:37.000Z",
+      "description": "[지디넷코리아]미국 총선에서 민주당이 상·하원을 모두 차지했다. 가히 '블루웨이브'다. 국제 정세는 늘 움직여 왔다. 미국도 예외가 아니다. 중요한 것은 변화 자체가 아니다. 무엇이 바뀌고 무엇이 그대로인지를 가려내 각각에 맞게 유연히 대응하는 일이다.당분간 그대로일 것으로 예상하는 것은 관세·수출통제·투자 요구다. 대통령 권한인 데다 트럼프는 거부권을 쥔 채 1기 때 익힌 행정명령 통치를 더 과감하게 쓸 것이다. 바뀌는 것은 데이터센터를 둘러싼 정치, 주(州)마다 자라는 AI 규제, 그리고 우리 투자까지 들여다볼 의회의 감독이다. 이 둘을 구분해 놓고 보면 한국이 할 일은 다섯 가지로 정리된다.첫째, 상대를 둘로 나눠 접근해야 한다. 관세와 투자 이행은 백악관이, 조사와 감독은 의회가 쥔다. 지금까지의 대미 교섭은 행정부 한 곳만 바라봤다. 이제는 기존의 행정부 중심 대미 교섭에 의회 채널을 더해야 한다. 민주당이 문제 삼는 '불투명한 투자 조건'에 대해 설명할 수 있도록 투자 조건의 투명성을 확보하고, 의회 감독이 새로운 통상 장벽으로 이어지지 않도록 외교적 대응을 강화해야 한다.둘째, 수요가 이동하는 곳에 먼저 가 있어야 한다. 미국의 데이터센터 건설이",
+      "author": "최경진 가천대학교 교수(한국정보법학회장)",
+      "summary": "미국 선거 결과 정치 구도가 변하면서 한국은 관세 정책은 지속되지만 데이터센터와 AI 규제 정책이 변할 것으로 예상되어, 행정부와 의회 양쪽을 대상으로 한 전략적 외교 대응이 필요하다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "48ae0d68c3de",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "시쿼이아 스카우츠 프로그램 폐지, 벤처 모델 변화의 신호",
+      "link": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
+      "publishedAt": "2026-11-07T05:01:54.000Z",
+      "description": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.",
+      "author": "Anna Heim",
+      "summary": "VC 회사 시쿼이아 캐피탈이 개척한 스카우츠 프로그램을 폐지하면서 현재의 스카우츠 모델이 한계에 도달했다는 업계의 합의가 형성되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "35660650d285",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "트럼프 행정부, 수중 데이터센터 추진…커뮤니티 반발 줄일 것 예상",
+      "link": "https://www.theguardian.com/us-news/2026/nov/07/underwater-datacenters-great-lakes-trump",
+      "publishedAt": "2026-11-07T14:00:14.000Z",
+      "description": "Tech companies like the idea, as they largely eliminate community opposition, and could cut down on utility costs While Elon Musk has often touted putting datacenters in space, reports suggest that another geographic area may soon become a widespread target: our lakes and oceans. Two underwater datacenters are already in operation off the coast of China, and recent reports suggest that the Trump administration is considering plans for four proposed underwater, sealed-pod datacenters to be built off the shores of Maine and Alaska. Continue reading...",
+      "author": "Stephen Starr",
+      "summary": "트럼프 행정부가 메인주와 알래스카 해안에 수중 데이터센터 건설을 추진하고 있으며, 기술 기업들은 커뮤니티 반발이 적고 유틸리티 비용을 절감할 수 있다는 점에 주목하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "92e0940b5e56",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "필라델피아 배달 로봇 저지 시위, 78세 퇴직 교수가 앞장서다",
+      "link": "https://www.theguardian.com/technology/ng-interactive/2026/nov/07/philadelphia-blocking-food-delivery-robots",
+      "publishedAt": "2026-11-07T14:00:12.000Z",
+      "description": "Semi-retired professor Carolyn Marvin became a local celebrity facing down Philadelphia’s growing robot delivery army: ‘It’s my first amendment right to protest’ “One of you needs to be on the lookout for cops, while I block the robot, OK?” It is a crisp fall morning in Philadelphia. Tucked away in a dingy alley, opposite a garage called Patriot Parking, 78-year-old Carolyn Marvin is laying out some ground rules for a robot-disrupting expedition. Once a suitable target is identified, we will follow it to a busy sidewalk and Marvin will stand in front of the robot, blocking its way. The photogr",
+      "author": "Arwa Mahdawi with visuals by Kriston Jae Bethel",
+      "summary": "필라델피아에서 활동하는 78세 퇴직 교수 캐롤린 마빈이 음식 배달 로봇을 직접 막으며 시위를 벌이고 있으며, 이를 헌법 수정 제1조의 표현의 자유라고 주장하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8f2222d6eee5",
+      "category": "economy",
+      "source": "동아일보 경제",
+      "region": "kr",
+      "title": "美 해군 고위급, HD현대 울산조선소 방문…'마스가' 다시 시동",
+      "link": "https://www.donga.com/news/Economy/article/all/20261107/134983850/1",
+      "publishedAt": "2026-11-07T13:40:10.000Z",
+      "description": "미국 해군과 해병대의 시설·군수 분야를 총괄하는 고위 인사들이 처음으로 한국 조선소를 찾았다. 이들은 한미 조선 협력 프로젝트인 ‘마스가(MASGA)’ 구체화 방안을 논의했다.7일 업계에 따르면 브렌든 로저스 미 해군성 에너지·시설·환경 담당 차관보와 앤드루 니벨 미 해병대 시설·군수 담당 부사령관 일행은 지난 4일 울산 HD현대중공업 조선소를 방문했다. 두 사람은 미 해군과 해병대의 함정 건조를 관할하는 실무 책임자로 꼽힌다.일행은 조선소 곳곳을 둘러보며 HD현대중공업 임원진에게 설명을 들었다. 이 자리에서 특정 미 해군 함정의 유지·보수·정비(MRO) 사업을 협의한 것으로 알려졌다.국내 조선사가 미국에 진출해 현지에서 선박을 건조하는 마스가 사업을 본격화하는 방안도 테이블에 오른 것으로 전해졌다.업계에서는 한동안 진척 소식이 뜸했던 마스가에 다시 속도가 붙는 신호라는 해석이 많다. 미 해군 고위 인사가 국내 조선소를 직접 찾아 구체적인 사업을 논의했다는 점에서 의미가 작지",
+      "author": null,
+      "summary": "미국 해군과 해병대의 고위 인사들이 울산 HD현대중공업 조선소를 방문하여 한미 조선 협력 프로젝트 '마스가'의 구체화 방안과 미 해군 함정 유지보수 사업을 논의했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3de2630266fd",
+      "category": "economy",
+      "source": "머니투데이",
+      "region": "kr",
+      "title": "김현철, 유재석 결혼식 축의금 50만원 공개…\"혜택이 없다\"",
+      "link": "https://www.mt.co.kr/entertainment/2026/11/07/2026110722173962019",
+      "publishedAt": "2026-11-07T13:23:28.000Z",
+      "description": "개그맨 김현철이 방송인 유재석의 결혼식에 낸 축의금을 공개했다. 7일 방송된 JTBC '아는 형님'에는 김현철, 이지현, 김영희가 게스트로 출연했다. 방송에서 김현철은 강호동과 1970년생 동갑내기 친구라며 \"많이 불편하다\"고 털어놨다. 그는 20년 전 강호동 결혼식 당시 이야기를 꺼냈다. 김현철은 \"당시 경조사가 많아 선을 정했다. 친한 PD는 10만원, 메인 작가는 5만원, 다른 친한 작가는 3만원으로 정했다. 호동 씨가 결혼하길래 잘 보여야겠다고 생각해서 엄청난 돈, 15만원을 냈다\"고 말했다. 그러면서 \"20만원은 부담스럽고 15만원은 할만하더라\"고 말했다. 그는 비슷한 시기 결혼한 유재석에게는 축의금 50만원을 냈다고 밝혀 웃음을 자아냈다....",
+      "author": null,
+      "summary": "개그맨 김현철이 유재석의 결혼식에 50만원의 축의금을 냈다고 공개했으며, 20년 전 강호동 결혼식에는 15만원을 냈다고 회상했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "09c925eefc4f",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "보험금 분쟁 막는 데 집중…지급 공정성·소비자 보호 강화하는 보험사",
+      "link": "https://www.mk.co.kr/news/economy/12201540",
+      "publishedAt": "2026-11-07T13:05:40.000Z",
+      "description": "보험금 분쟁 해마다 끊이질 않아 보험사, 외부 위원 위촉·TF 구성보험업계가 소비자 보호를 위해 보험금 분쟁을 해결하는 데 집중하고 있다. 보험사마다 외부 위원을 위촉하거나 소비자..",
+      "author": "매일경제",
+      "summary": "보험사들이 끊이지 않는 보험금 분쟁을 해결하기 위해 외부 위원을 위촉하고 특별팀을 구성하여 지급 공정성과 소비자 보호를 강화하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "530725983b0c",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "반도체 ETF 하루 만에 40% 폭락…서학개미들 '충격'",
+      "link": "https://www.mk.co.kr/news/stock/12201537",
+      "publishedAt": "2026-11-07T12:32:04.000Z",
+      "description": "美반도체지수 7개월來 최저치 반도체x3 속슬, 5일 40% 폭락 기술주 추종 ETF서 대거 떨어져뉴욕증시에서 반도체 지수가 7개월 만에 최저치를 찍은 가운데 미 증시에 상장한 레버..",
+      "author": "매일경제",
+      "summary": "뉴욕증시의 반도체 지수가 7개월 만에 최저치를 기록하면서 레버리지 반도체 ETF인 '속슬'이 하루 만에 40% 급락했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d88f7cda194d",
+      "category": "economy",
+      "source": "동아일보 경제",
+      "region": "kr",
+      "title": "젠슨 황 딸 매디슨 황 방한 돌연 취소…배경훈 과기부총리 만남 불발",
+      "link": "https://www.donga.com/news/Economy/article/all/20261107/134983790/1",
+      "publishedAt": "2026-11-07T12:25:00.000Z",
+      "description": "젠슨 황 엔비디아 최고경영자(CEO)의 장녀인 매디슨 황 엔비디아 수석이사의 방한이 취소되면서 배경훈 부총리 겸 과학기술정보통신부 장관과의 만남이 불발됐다. 구체적인 방한 취소 사유는 공개되지 않았다. 다만 젠슨 황 CEO가 중국 정보기관에 포섭된 여성 기업인과 연인 관계였다는 외신 보도가 터져 나온 시점과 맞물려 관심이 쏠린다.7일 과기정통부에 따르면 매디슨 황 수석이사의 방한 일정이 취소되면서 오는 8일 예정됐던 배 부총리와의 면담도 무산됐다.당초 과기정통부는 배 부총리와 매디슨 황 수석이사의 면담을 통해 정부와 엔비디아 간 고위급 접촉을 진행할 예정이었다. 그러나 매디슨 황 수석이사의 방한 자체가 취소되면서 면담 일정도 전면 철회됐다.과기정통부는 방한 취소 사실을 알리면서도 구체적인 사유는 밝히지 않았다.매디슨 황 수석이사는 엔비디아에서 옴니버스·로보틱스 제품 마케팅을 담당하고 있다. 젠슨 황 CEO의 장녀라는 점뿐 아니라 엔비디아의 피지컬 인공지능(AI) 사업을 이끄",
+      "author": null,
+      "summary": "엔비디아 CEO 젠슨 황의 장녀 매디슨 황 수석이사의 한국 방문이 취소되면서 배경훈 과학기술정보통신부 장관과의 예정된 면담도 무산되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "891f400c6e1d",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "세계식량가격지수 하락 전환…곡물·육류·유제품 내려",
+      "link": "https://www.yna.co.kr/view/AKR20261107034800030",
+      "publishedAt": "2026-11-07T05:52:59.000Z",
+      "description": "(서울=연합뉴스) 한주홍 기자 = 석 달 연속 오름세를 보였던 세계식량가격지수가 지난달 하락 전환했다.",
+      "author": "한주홍",
+      "summary": "3개월 연속 상승하던 세계식량가격지수가 지난달 하락으로 전환했으며, 곡물과 육류, 유제품 가격이 내려갔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d70eb30f4545",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "농식품부, 우리술 품평회 수상작 국내외 판로 확대 지원",
+      "link": "https://www.yna.co.kr/view/AKR20261106142200030",
+      "publishedAt": "2026-11-07T04:00:01.000Z",
+      "description": "(서울=연합뉴스) 한주홍 기자 = 농림축산식품부가 올해 대한민국 우리술 품평회 수상작의 해외 판로 개척과 국내 소비 확대를 지원한다고 7일 밝혔...",
+      "author": "한주홍",
+      "summary": "농림축산식품부가 올해 우리술 품평회 수상작의 해외 판로 개척과 국내 소비 확대를 지원한다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6e77464d543f",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "영국 금리 인상으로 모기지 월 200파운드 인상…가계 부담 가중",
+      "link": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T01:41:36.000Z",
+      "description": "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions.",
+      "author": null,
+      "summary": "영국의 금리 인상으로 인해 수백만 명이 모기지, 신용카드, 대출 금리 상승의 영향을 받을 것으로 예상된다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "fa9c33efe42b",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "李대통령 \"정치인 칭찬·비판 필요하나 종교적찬양·숭배 안돼\"",
+      "link": "https://www.yna.co.kr/view/AKR20261107040051001",
+      "publishedAt": "2026-11-07T14:56:31.000Z",
+      "description": "(서울=연합뉴스) 설승은 기자 = 이재명 대통령은 7일 \"정치인이나 지도적 인사들에게는 칭찬도 비판도 필요하지만, 그것이 종교적 찬양이나 숭배에...",
+      "author": "설승은",
+      "summary": "이재명 대통령이 정치인에 대한 칭찬과 비판은 필요하지만 종교적 찬양이나 숭배로 이어져서는 안 된다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "75cf316f701e",
+      "category": "politics",
+      "source": "연합뉴스 사회",
+      "region": "kr",
+      "title": "부산 가을밤 화려하게 수놓은 불꽃 8만발…120만명 인파 환호",
+      "link": "https://www.yna.co.kr/view/AKR20261107050251051",
+      "publishedAt": "2026-11-07T13:47:43.000Z",
+      "description": "(부산=연합뉴스) 박성제 기자 = 부산 광안리의 밤하늘에 형형색색의 불꽃이 피어올랐다.",
+      "author": "박성제",
+      "summary": "부산 광안리에서 열린 불꽃 축제에서 8만발의 불꽃이 터져나갔고 120만 명의 인파가 환호했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "17a85d6ca95a",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "고양이가 전기레인지 스위치 밟았나···익산 원룸서 화재",
+      "link": "https://www.khan.co.kr/article/202611072225001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-11-07T13:25:00.000Z",
+      "description": "반려묘가 작동시킨 것으로 추정되는 전기레인지에서 불이 나 세탁기 등 가재도구와 주방 내부가 검게 그을려 있다. 전북소방본부 제공전북 익산의 한 다가구주택에서 고양이가 전기레인지 전원 스위치를 밟아 불이 난 것으로 추정되는 화재가 발생했다.7일 익산소방서에 따르면 이날 오후 5시32분쯤 익산시 신동의 한 다가구주택 3층 원룸에서 불이 나 28분 만에 진화됐다···",
+      "author": "김창효 선임기자",
+      "summary": "전북 익산의 한 원룸에서 반려묘가 전기레인지 스위치를 밟아 화재가 발생했고 28분 만에 진화됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f427460cc5ba",
+      "category": "politics",
+      "source": "조선일보",
+      "region": "kr",
+      "title": "매디슨 황, 입국 하루 앞두고 방한 취소… 엔비디아 행사 예정대로",
+      "link": "https://www.chosun.com/economy/tech_it/2026/11/07/GIYGMOBVGM3WIYRRGBTDKZLFGU/",
+      "publishedAt": "2026-11-07T13:02:19.000Z",
+      "description": "젠슨 황 엔비디아 최고경영자(CEO)의 장녀인 매디슨 황 옴니버스·로보틱스 제품 마케팅 수석이사가 한국 방문을 취소했다. 7일 정부와 정보기술(IT) 업계에 따르면 황 수석이사는 9∼10일 서울 코엑스에서 개최되는 ‘엔비디아 AI 데이 서울 2026’ 참석과 관계 부처 협의를 위해 8일 입국할 계획이었다. 하지만 가족 사유로 방한 일정을 취소한 것으로 알려",
+      "author": "홍인석 기자(조선비즈)",
+      "summary": "엔비디아 CEO의 장녀인 매디슨 황이 가족 사유를 이유로 방한 일정을 취소했으나, 서울에서의 엔비디아 AI 데이 2026 행사는 예정대로 진행된다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f86db85a38af",
+      "category": "politics",
+      "source": "연합뉴스 사회",
+      "region": "kr",
+      "title": "주인 없는 사이 고양이가 전기조리기 켰나…원룸서 불",
+      "link": "https://www.yna.co.kr/view/AKR20261107052200055",
+      "publishedAt": "2026-11-07T12:26:12.000Z",
+      "description": "(익산=연합뉴스) 나보배 기자 = 7일 오후 5시 32분께 전북 익산시 신동의 한 원룸에서 불이 나 20여분 만에 진화됐다.",
+      "author": "나보배",
+      "summary": "전북 익산의 원룸에서 반려묘가 전기조리기를 켠 것으로 추정되는 화재가 발생해 20여 분 만에 진화됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ad1d8bfd37e7",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "\"이재명 탈옥법\" 국힘, '조작기소 특검법' 규탄 도심 집회",
+      "link": "https://www.donga.com/news/Politics/article/all/20261107/134983683/1",
+      "publishedAt": "2026-11-07T09:35:00.000Z",
+      "description": "국민의힘은 더불어민주당 주도로 ‘조작기소 특검법안’이 국회를 통과한 다음 날인 7일 서울 도심에서 대규모 장외집회를 열고 이재명 대통령과 민주당을 비판했다. 장동혁 대표는 특검법을 “이재명 탈옥법”으로 규정한 뒤 “이제 탄핵만이 답”이라고 말했다.국민의힘은 이날 서울 경복궁역 앞에서 ‘이재명 재판취소 악법 강행처리 국민규탄대회’를 열었다. 집회에는 장 대표와 정점식 원내대표를 비롯한 소속 의원 70여 명과 원외 당협위원장들이 참석했다. 참석자들은 ‘민주주의 사망’이라고 적힌 근조리본을 단 채 ‘이재명 셀프면죄 강력규탄’, ‘이재명 재판재개 국민의 명령이다’ 등의 손팻말을 들었다. 국민의힘은 당 추산 15만 명이 참석했다고 밝혔고, 경찰은 6000여 명 참석으로 잠정 집계했다.장 대표는 이날 “범죄자 이재명이 전 국민을 상대로 사기를 쳤다. 이재명은 더 이상 대한민국의 대통령이 아니다”라고 주장했다. 그는 이 대통령이 이용철 방위사업청장을 신임 법무장관 후보자로 지명한 것을 거론하",
+      "author": null,
+      "summary": "국민의힘이 조작기소 특검법을 \"이재명 탈옥법\"으로 규정하며 서울 도심에서 대규모 규탄 집회를 열었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "297e31c324be",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "與 \"국힘, 李대통령의 소통 두려운가…尹 도어스테핑 떠올라서?\"",
+      "link": "https://www.donga.com/news/Politics/article/all/20261107/134983487/1",
+      "publishedAt": "2026-11-07T07:21:00.000Z",
+      "description": "여야가 7일 이재명 대통령의 유튜브 방송 ‘대통령의 Y(와이)’를 두고 날을 세웠다. 벌였다. 더불어민주당이 국민의힘을 향해 “(대통령의) 소통이 못마땅한가”라고 묻자, 국민의힘은 “소통이 아닌 궤변의 장”이라고 반박했다.민주당 전은수 원내대변인은 이날 서면 브리핑에서 “대통령이 국민과 소통해도 비난, 소통하지 않아도 비난할 것인가”라며 “대통령이 직접 국정을 설명하고 국민 목소리를 듣겠다는 게 어째서 자기 홍보인가”라고 꼬집었다. 전 원내대변인은 “국민의힘은 대통령이 국민과 가까워지는 것이 두려운가. 국민에게 직접 평가받는 것이 불편한가”라며 “아니면 도중에 사라져 버린 윤석열의 도어스테핑(출근길 문답)이 떠올라서인가”라고 했다. 이어 “국민의힘이 진정 민생을 생각한다면 대통령 소통 방식에 트집을 잡으며 장외투쟁에만 골몰하지 말고 정책 대안부터 제시하라”며 “대통령 흠집 내기에 쏟는 열정의 10분의 1만이라도 민생에 쏟기를 바란다”고 강조했다.이에 국민의힘 박성훈 수석대변인은",
+      "author": null,
+      "summary": "여야가 이재명 대통령의 유튜브 방송을 두고 대립했으며, 민주당은 국민의힘이 대통령의 소통을 두려워한다고 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3319b3ab6642",
+      "category": "politics",
+      "source": "SBS 뉴스",
+      "region": "kr",
+      "title": "북한 김성남, 중국 류하이싱과 회담…방중 세 번째 고위급 회동",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008835161",
+      "publishedAt": "2026-11-07T07:02:00.000Z",
+      "description": "▲ 북한 김성남, 중국 공식 방문 평양 출발북한 조선노동당 대표단을 이끌고 중국을 공식 방문 중인 김성남 당 국제비서가 류하이싱 중국…",
+      "author": "oneway@sbs.co.kr (김태훈)",
+      "summary": "북한의 김성남 조선노동당 국제비서가 중국을 공식 방문하는 가운데 류하이싱과의 회담은 이번 방중의 세 번째 고위급 회동이었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e272ade88289",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "연평도에 15년 만에 위문열차…이 대통령 \"장병 한 사람 한 사람 목소리 듣겠다\"",
+      "link": "https://www.khan.co.kr/article/202611071334001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-11-07T04:34:00.000Z",
+      "description": "이재명 대통령이 지난 6월 24일 인천시 옹진군 해병대 연평부대에서 열린 장병들과의 오찬에서 한 병사의 발언을 듣고 있다.청와대 제공. 연합뉴스 자료사진이재명 대통령이 7일 해병대 연평부대에서 2011년 이후 처음으로 위문열차 공연이 열린 데 대해 “나라를 지키는 장병들의 작은 바람에도 귀 기울이고, 하나씩 실현해나가겠다”고 밝혔다. 지난 6월 연평부대 방···",
+      "author": "이윤정 기자",
+      "summary": "이재명 대통령이 연평부대에서 15년 만에 개최된 위문열차 공연 행사에 참석해 장병들의 목소리를 듣고 실현하겠다고 말했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "93879b855945",
+      "category": "politics",
+      "source": "서울신문",
+      "region": "kr",
+      "title": "\"개과천선 기회 찼다\"…이준석이 전한길을 향해 '형사 처벌 원한다' 선언한 사연",
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20261107500013",
+      "publishedAt": "2026-11-07T03:45:07.000Z",
+      "description": "이준석 개혁신당 의원이 자신을 둘러싼 학력 위조 의혹을 제기했던 한국사 강사 출신 유튜버 전한길(본명 전유관)씨를 향해 결국 칼을 빼들었다. 당초 선처의 여지를 열어두려 했으나, 전씨 측의 태도 변화가 없자 ‘강력한 처벌’을 공식 요구하고 나선 것이다. 사건의 발단은 전씨 등이 유튜브 방송 등을 통해 이 의원의 학력 관련 의혹을 잇달아 제기하면서 시작됐다. 이에 이 의원은 명예훼손 등 혐의로 법적 대응에 나섰고, 경찰은 최근 전씨의 혐의를 인정해 기소 의견으로 검찰에 송치했다. 이 의원은 지난 6일 자신의 소셜미디어(SNS)를 통해 “전유관씨에 대한 기소는 저에 대한 근거 없는 학력 의혹을 제기하는 이들이 스스로를 되돌아보는 계기가 되길 바란다”고 했다. 그는 “살면서 아마 듣지도 못했을 ‘아포스티유’니 하는 방언을 유튜브에서 얼핏 듣고 이런 이야기를 맹신했다면, 본인의 정치 정보 습득 경로를 진지하게 의심해 봐야 한다”고 했다. 당초 이 의원 측은 전씨가 잘못을 인정하고 사실관계를 바로잡는다면 처벌불원(선처)을 고려할 예정이었던 것으로 알려졌다. 하지만 이 의원은 전씨가 취한 태도를 두고 “본인이 만든 작은 세상에서 망신사고 싶지 않았는지 자존심을 세우는 ",
+      "author": "문경근 기자",
+      "summary": "이준석 의원이 자신에 대한 학력 위조 의혹을 제기한 유튜버 전한길에 대해 당초 선처의 의지를 철회하고 형사 처벌을 공식 요구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2e0f9321e112",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "트럼프 대통령, 추가 인적개편 가능성 낮다고 표현",
+      "link": "https://www.yna.co.kr/view/AKR20261107054000071",
+      "publishedAt": "2026-11-07T14:55:46.000Z",
+      "description": "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령이 백악관 배서실장 교체에 이어 행정부의 추가 인적 개편에 나설 가능성에 대해 \"...",
+      "author": "이유미",
+      "summary": "트럼프 대통령이 행정부의 추가 인적 개편에 대해 거의 없을 것이라고 언급하며, 현재 내각이 훌륭하다고 평가했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e984fe710a20",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "이란 국왕의 아들, 프랑크푸르트에서 '자유상' 수상",
+      "link": "https://www.dw.com/en/son-of-iran-s-shah-receives-freedom-prize-in-frankfurt/a-79885661?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-11-07T14:38:00.000Z",
+      "description": "18,000 people gathered in Frankfurt to show support for Reza Pahlavi, the son of the Iranian monarch ousted in 1979. Factions in the opposition have accused him of not distancing himself from his father's rule.",
+      "author": null,
+      "summary": "1979년 축출된 이란 왕정의 아들 레자 팔레비가 프랑크푸르트에서 개최된 행사에 1만8,000명이 참석하여 지지를 표현했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "738d28357404",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "중간선거 승리 후 미국 민주당의 향후 전략",
+      "link": "https://www.dw.com/en/after-victory-in-the-midterms-what-next-for-us-democrats/a-79884957?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-11-07T14:15:00.000Z",
+      "description": "Donald Trump's Republican party has lost its majority in both chambers of the US Congress. But the president still has a lot of power — and the Democrats have yet to agree on how best to use theirs.",
+      "author": null,
+      "summary": "미국 중간선거에서 민주당이 양원의 공화당 다수당 지위를 약화시켰으나, 민주당이 권력 활용 방식에 대해 아직 합의하지 못했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "316b4601847b",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "199명 생물학적 자녀 둔 네덜란드 남성, 정자 기증 중단키로",
+      "link": "https://www.yna.co.kr/view/AKR20261107053700098",
+      "publishedAt": "2026-11-07T14:03:22.000Z",
+      "description": "(브뤼셀=연합뉴스) 현윤경 특파원 = 정자 기증을 통해 최소 199명의 생물학적 자녀를 둔 것으로 추정되는 40대 네덜란드 남성이 더 이상 정자...",
+      "author": "현윤경",
+      "summary": "40대 네덜란드 남성이 정자 기증을 통해 최소 199명의 생물학적 자녀를 두었으며, 향후 정자 기증을 중단하기로 결정했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2068ada09574",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "뉴질랜드 선거 연립 협상에 수주가 소요될 것으로 예상",
+      "link": "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls",
+      "publishedAt": "2026-11-07T13:12:22.000Z",
+      "description": "This blog is closed, you can read our report on the New Zealand election here Another update here with 8% of the vote counted. National on 31.2%, Labour 28.4%, the Greens 12.9%, Act 11.2%, NZ First 9.6%, Opportunity 5.7% and Te Pāti Māori 0.4%. On these numbers, we would have a right bloc coalition back in power. Long way to go. Continue reading...",
+      "author": "Mark Saunokonoko",
+      "summary": "뉴질랜드 선거에서 중앙우파 연립 블록이 정권 복귀 가능성을 보이고 있으나, 연립 협상에는 수주가 필요할 것으로 예상된다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "48f8e0cb03d1",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "러시아의 우크라이나 에너지망 공격으로 키이우 정전·수도 부족",
+      "link": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid",
+      "publishedAt": "2026-11-07T13:03:03.000Z",
+      "description": "Moscow used 172 drones and 36 ballistic missiles in attacks on electricity substations and bridge over the Dnipro Volodymyr Zelenskyy has accused Russia of trying to “plunge Kyiv and the entire country into a blackout”, after a major attack overnight on energy infrastructure in the capital and a bridge over the Dnipro River. Ukraine’s president said Moscow’s preparations for peace talks next week involved pummelling a city of millions with ballistic missiles. Continue reading...",
+      "author": "Luke Harding in Kyiv",
+      "summary": "러시아가 드론 172기와 탄도미사일 36발을 사용해 키이우의 에너지 인프라와 드니프로 강 다리를 공격하여 대규모 정전과 수도 부족 사태를 초래했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a2a207396239",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "러시아, 담주 협상 앞두고 우크라이나 전력망 공격",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T12:49:36.000Z",
+      "description": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
+      "author": null,
+      "summary": "러시아의 공격으로 우크라이나 전력망이 손상되었으며, 우크라이나와 러시아 대표단은 다음 주 아부다비에서 3자 협상을 진행할 예정이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0ff25a762b11",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "2028년 백악관 대선에 영향을 미칠 네 가지 변수",
+      "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T12:23:28.000Z",
+      "description": "The seismic Democratic gains in Congress could shape the presidential election, so who had a good night and who's making moves?",
+      "author": null,
+      "summary": "의회에서의 민주당의 급격한 이득은 대통령 선거 구도를 형성할 수 있으며, 여러 정치 지도자들의 차기 행보가 주목되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c690c3f7ecbe",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "결과 불확실한 선거 후 이스라엘의 아랍계 정당들 주목",
+      "link": "https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties",
+      "publishedAt": "2026-11-06T20:42:51.000Z",
+      "description": "Israel's center-right opposition has a chance to unseat Netanyahu — but backing of Arab-led parties will be key.",
+      "author": "Ruth Sherlock",
+      "summary": "이스라엘의 미결정 선거에서 중도우파 야당이 네타냐후를 축출할 기회를 얻었으나, 정부 구성을 위해 아랍계 정당들의 지지가 필수적이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "224d85f86cf8",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "프란치스코 교황, 폐암 수술 후 남미 3국 순방 시작",
+      "link": "https://www.npr.org/2026/11/06/nx-s1-6026702/pope-leo-begins-12-day-3-country-tour-after-cancer-surgery",
+      "publishedAt": "2026-11-06T19:13:06.000Z",
+      "description": "Pope Leo begins his first South American tour since lung cancer surgery. The 12-day journey takes him to Uruguay, Argentina and Peru, where he spent two decades.",
+      "author": "Carrie Kahn",
+      "summary": "프란치스코 교황이 폐암 수술 이후 처음으로 우루과이, 아르헨티나, 페루를 방문하는 12일간의 남미 순방을 시작했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c554e2d8f260",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "가장 흥미로운 민주당 캠프들로부터 배운 점들",
+      "link": "https://www.nytimes.com/2026/11/07/opinion/ezra-klein-podcast-michelle-goldberg.html",
+      "publishedAt": "2026-11-07T14:45:02.000Z",
+      "description": "Michelle Goldberg reported on the Democrats’ most exciting campaigns. Here’s what she saw.",
+      "author": "Ezra Klein and Annie Galvin",
+      "summary": "Ezra Klein과 Annie Galvin이 미셸 골드버그의 민주당 캠프 취재를 바탕으로 성공한 민주당 캠프들의 전략과 교훈을 분석했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "aff2f70c1cd5",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "피트 헉세스가 블루 쓰나미의 다음 피해자가 될까?",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/07/pete-hegseth-midterms-consequences",
+      "publishedAt": "2026-11-07T13:00:12.000Z",
+      "description": "The ‘secretary of war’ and his shameful history are facing bipartisan scrutiny Can you smell the schadenfreude in the air? Watching some of the worst people in the world get their comeuppance this week has been deeply satisfying. And the show isn’t over yet. While the midterms have wrapped up, the blame game is only just getting started, with Republicans desperate to find scapegoats for their shellacking. Arwa Mahadwi is a Guardian columnist Continue reading...",
+      "author": "Arwa Mahdawi",
+      "summary": "Arwa Mahdawi가 Pete Hegseth의 부끄러운 역사가 양당의 정밀조사를 받을 것이라며, 공화당의 참패에 따른 자연스러운 인과응보가 이루어질 것이라고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "216748b66243",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "민주당은 어떻게 해냈나",
+      "link": "https://www.nytimes.com/video/opinion/100000011267047/how-the-democrats-did-it.html",
+      "publishedAt": "2026-11-07T12:00:15.000Z",
+      "description": "Michelle Goldberg reported on the Democrats’ most exciting campaigns. Here’s what she saw.",
+      "author": null,
+      "summary": "미셸 골드버그가 민주당의 흥미로운 캠프 사례들을 분석하며 그들의 성공 비결을 보도했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "86e733ec1a03",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "탈라리코의 사랑의 정치학",
+      "link": "https://www.nytimes.com/video/opinion/100000011267051/talaricos-politics-of-love.html",
+      "publishedAt": "2026-11-07T12:00:15.000Z",
+      "description": "Senator-elect James Talarico had a clear vision of what Texans were looking for. Ezra Klein and Michelle Goldberg discuss his successful Senate campaign on “The Ezra Klein Show.”",
+      "author": null,
+      "summary": "Ezra Klein과 Michelle Goldberg가 상원 당선자 James Talarico의 '사랑의 정치학'이 텍사스 유권자들의 마음을 사로잡은 이유를 분석했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "448a818679ed",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "오소프 캠프에 대한 밴스의 분석이 틀렸다",
+      "link": "https://www.nytimes.com/video/opinion/100000011267049/vance-was-wrong-about-ossoffs-campaign.html",
+      "publishedAt": "2026-11-07T12:00:13.000Z",
+      "description": "After the 2024 election, JD Vance suggested that Senator Jon Ossoff would have to cozy up to President Trump to win a Senate seat. On “The Ezra Klein Show,” Michelle Goldberg and Ezra Klein discuss what actually happened — and how Ossoff channelled a “popular revulsion.”",
+      "author": null,
+      "summary": "Ezra Klein과 Michelle Goldberg가 JD Vance의 Jon Ossoff 캠프 분석이 틀렸다고 지적하며, 오소프가 실제로는 '인기 있는 혐오감'을 캠프의 중심으로 삼았다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1fbd5aa4a957",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "플립 유권자가 깨달은 트럼프 인종주의의 비용",
+      "link": "https://www.theguardian.com/us-news/2026/nov/07/flip-voters-trump-midterms",
+      "publishedAt": "2026-11-07T12:00:12.000Z",
+      "description": "Maga’s regret voters were all-in for Trump’s racism. Then they found out they couldn’t afford it For the first time in a decade, election predictions far exceeded public expectations. What pollsters anticipated as a blue wave billowed into a blue tsunami. Wins that held ground for already blue seats eased nerves, and the flips of swing states like Michigan, Georgia, North Carolina and Ohio energized the blue base. But red-belt-busting wins in Republican strongholds like Texas, South Carolina and Kansas alongside pending races in Alaska and Mississippi left mouths agape. The explanation was tha",
+      "author": "Saida Grundy",
+      "summary": "Saida Grundy가 MAGA 지지자들이 트럼프의 인종주의와 외국인 혐오에는 동의했으나 경제적 비용 앞에서 그 지지를 접었다고 분석했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8de10774ec1b",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "미국 중간선거에서 타격을 맞은 이스라엘",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/07/midterms-israel-criticism",
+      "publishedAt": "2026-11-07T12:00:11.000Z",
+      "description": "In a reversal of longstanding assumptions, strong criticism of Israel’s actions may have helped put candidates over the top “You took a chance on the unlikeliest of candidates,” Abdul El-Sayed told a Detroit crowd on Wednesday, declaring victory in Michigan’s hard-fought, often ugly, Senate race. In what was predicted to be a squeaker, the Democrat beat his Republican opponent, Mike Rogers, by a healthy seven points. In some ways, El-Sayed was an unlikely candidate. At 34, in his first run for elected office, he set his sights almost cockily on a US Senate seat. He ran on what has become an un",
+      "author": "Judith Levine",
+      "summary": "Judith Levine이 이스라엘에 대한 강한 비판이 오히려 민주당 후보들의 승리를 도왔다며 기존의 이스라엘 지지가 선거를 좌우한다는 통념이 뒤집혔다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "48139396e27a",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "모스크바가 노바야 가제타를 폐쇄했다 - 우리는 진실을 말했고 대가를 치렀다",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/07/moscow-novaya-gazeta-journalism-russia-newspaper",
+      "publishedAt": "2026-11-07T08:00:05.000Z",
+      "description": "Russia’s best-known independent newspaper was my home for 17 years. It’s being shut down, but the spirit of its journalism will live on Novaya Gazeta – Russia’s most prominent independent newspaper – is being shut down. On 29 October, two things became known: Novaya was being evicted from its newsroom, and banks would stop processing readers’ donations to Novaya (its only legal income). Insiders spoke of the risk of Novaya being declared an extremist organisation – then any employee could be jailed: a journalist, an editor, an accountant, a cleaner. Closing was safer. Novaya Gazeta is a second",
+      "author": "Elena Kostyuchenko",
+      "summary": "Elena Kostyuchenko가 17년간 몸담은 러시아 독립신문 노바야 가제타의 폐쇄로 진실을 추구한 언론인들이 억압받았다고 비판하며 독립 언론의 가치를 강조했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f885df146a96",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "파인애플 피자는 이탈리아 요리 전통에 대한 모욕 - 우리가 몰래 사랑하는 이유",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/07/pineapple-pizza-italian-food-insult-chef-sacked",
+      "publishedAt": "2026-11-07T07:00:06.000Z",
+      "description": "Of course an Italian chef would rather be sacked than make this. Defending our food against such blasphemy makes us feel like better people Luca Cesari is a food historian and author of The History of Pizza You may have smiled at the news a few days ago: the Italian chef Davide Tamburella was sacked by a Brisbane restaurant after refusing to put pineapple on a pizza. Never mind that Queensland grows almost all of Australia’s pineapples. Tamburella would not give way to his customers or his boss, insisting that the combination was an insult to Italian culture. Strange as it may sound, he is not",
+      "author": "Luca Cesari",
+      "summary": "Luca Cesari가 파인애플 피자를 이탈리아 요리 전통의 모욕이라 비판하면서도 이를 방어하는 행위 자체가 우리를 더 나은 사람으로 느끼게 하는 역설을 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "dd2e5088c0ef",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "중간선거가 2028년에 대해 우리에게 말하는 것",
+      "link": "https://www.nytimes.com/2026/11/05/opinion/midterm-election-trump-bouie-cottle-french.html",
+      "publishedAt": "2026-11-07T05:30:24.000Z",
+      "description": "Live from Brooklyn, Michelle Cottle, Jamelle Bouie and David French weigh in on the “blue tsunami.”",
+      "author": "Jamelle Bouie, Michelle Cottle, David French and Derek Arthur",
+      "summary": "Michelle Cottle, Jamelle Bouie, David French가 '파란 쓰나미'의 의미를 논하며 2028년 대선 선거에 미칠 영향을 분석했다.",
+      "summarySource": "llm"
+    }
+  ],
+  "summarizedAt": "2026-11-08T01:15:00.655Z",
+  "summaryStats": {
+    "llm": 50,
+    "fallback": 0,
+    "model": "claude-haiku-4-5"
+  }
+}
