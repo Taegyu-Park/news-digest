@@ -1,0 +1,899 @@
+{
+  "date": "2026-11-08",
+  "generatedAt": "2026-11-09T01:27:44.100Z",
+  "categories": [
+    {
+      "id": "it",
+      "label": "IT·과학·AI"
+    },
+    {
+      "id": "economy",
+      "label": "경제·금융"
+    },
+    {
+      "id": "politics",
+      "label": "정치·사회"
+    },
+    {
+      "id": "world",
+      "label": "세계·국제"
+    },
+    {
+      "id": "editorial",
+      "label": "사설·칼럼",
+      "opinion": true,
+      "summaryMaxChars": 220
+    }
+  ],
+  "feedStatus": [
+    {
+      "source": "Ars Technica",
+      "category": "it",
+      "ok": true,
+      "matched": 1
+    },
+    {
+      "source": "Hacker News",
+      "category": "it",
+      "ok": true,
+      "matched": 4
+    },
+    {
+      "source": "TechCrunch",
+      "category": "it",
+      "ok": true,
+      "matched": 5
+    },
+    {
+      "source": "The Verge",
+      "category": "it",
+      "ok": true,
+      "matched": 2
+    },
+    {
+      "source": "블로터",
+      "category": "it",
+      "ok": true,
+      "matched": 20
+    },
+    {
+      "source": "전자신문",
+      "category": "it",
+      "ok": true,
+      "matched": 23
+    },
+    {
+      "source": "ZDNet Korea",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC Business",
+      "category": "economy",
+      "ok": true,
+      "matched": 4
+    },
+    {
+      "source": "The Guardian",
+      "category": "economy",
+      "ok": true,
+      "matched": 10
+    },
+    {
+      "source": "매일경제 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 19
+    },
+    {
+      "source": "연합뉴스",
+      "category": "economy",
+      "ok": true,
+      "matched": 45
+    },
+    {
+      "source": "경향신문 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 33
+    },
+    {
+      "source": "경향신문 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 17
+    },
+    {
+      "source": "노컷뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "서울신문",
+      "category": "politics",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "연합뉴스 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "연합뉴스 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 46
+    },
+    {
+      "source": "SBS 뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 18
+    },
+    {
+      "source": "Al Jazeera",
+      "category": "world",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC World",
+      "category": "world",
+      "ok": true,
+      "matched": 11
+    },
+    {
+      "source": "NPR",
+      "category": "world",
+      "ok": true,
+      "matched": 4
+    },
+    {
+      "source": "The Guardian",
+      "category": "world",
+      "ok": true,
+      "matched": 11
+    },
+    {
+      "source": "연합뉴스 국제",
+      "category": "world",
+      "ok": true,
+      "matched": 63
+    },
+    {
+      "source": "매일경제 증권",
+      "category": "economy",
+      "ok": true,
+      "matched": 21
+    },
+    {
+      "source": "경향신문 오피니언",
+      "category": "editorial",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "NYT Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "The Guardian Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "Washington Post Opinions",
+      "category": "editorial",
+      "ok": true,
+      "matched": 7
+    },
+    {
+      "source": "동아일보 사설",
+      "category": "editorial",
+      "ok": true,
+      "matched": 13
+    },
+    {
+      "source": "동아일보 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 17
+    },
+    {
+      "source": "조선일보",
+      "category": "politics",
+      "ok": true,
+      "matched": 5
+    },
+    {
+      "source": "동아일보 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "머니투데이",
+      "category": "economy",
+      "ok": false,
+      "error": "fetch failed",
+      "matched": 0
+    },
+    {
+      "source": "Wired",
+      "category": "it",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "DW News",
+      "category": "world",
+      "ok": true,
+      "matched": 14
+    }
+  ],
+  "items": [
+    {
+      "id": "d7cca286aea3",
+      "category": "it",
+      "source": "Hacker News",
+      "region": "intl",
+      "title": "I'm not a fan of Deno's security model (2024)",
+      "link": "https://goldstein.lol/posts/deno-security/",
+      "publishedAt": "2026-11-08T14:42:38.000Z",
+      "description": "Article URL: https://goldstein.lol/posts/deno-security/ Comments URL: https://news.ycombinator.com/item?id=50413769 Points: 84 # Comments: 40",
+      "author": "maxloh",
+      "summary": "Article URL: https://goldstein.lol/posts/deno-security/ Comments URL: https://news.ycombinator.com/item?id=50413769 Points: 84 # Comments: 40",
+      "summarySource": "rss"
+    },
+    {
+      "id": "bf15564a8032",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "한온시스템, 수익성 회복했지만 수주 목표 54%...성장성 입증 숙제",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=678033",
+      "publishedAt": "2026-11-08T14:30:00.000Z",
+      "description": "한온시스템이 원가절감과 운영 효율화를 통해 수익성 회복에 성과를 내고 있지만 신규 수주 확대라는 과제를 안고 있다. 3분기 영업이익은 전년 동기 대비 26.6% 증가했으나 누적 매출 증가율은 1.2%에 그쳤다. 연간 신규·연장 수주 목표 달성률도 3분기까지 54%에 머무르면서 비용 절감으로 확보한 이익을 매출 성장으로 연결할 수 있을지가 실적 개선의 관건으로 떠올랐다.한온시스템이 새로운 성장동력으로 추진하는 에너지저장장치(ESS)와 인공지능(AI) 데이터센터용 열관리 사업도 아직 본격적인 매출 발생까지는 시간이 필요하다. 일부 사업",
+      "author": "나영찬 기자",
+      "summary": "한온시스템이 원가절감과 운영 효율화를 통해 수익성 회복에 성과를 내고 있지만 신규 수주 확대라는 과제를 안고 있다. 3분기 영업이익은 전년 동기 대비 26.6% 증가했으나 누적 매출 증가율은 1.2%에 그쳤다.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "8a73c0d9c4cb",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "‘1시간 장보기'가 새 성장공식…편의점·슈퍼 퀵커머스 쟁탈전",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=678052",
+      "publishedAt": "2026-11-08T14:04:57.000Z",
+      "description": "편의점과 기업형슈퍼마켓(SSM) 업계에서 '근거리 장보기'가 새로운 전략으로 떠올랐다. 배달·픽업 매출이 최대치를 갈아치우면서 동네 점포를 배송 거점으로 쓰는 퀵커머스가 근거리 유통의 성장 해법으로 굳어지고 있다.퀵커머스는 주문 뒤 1시간 안팎에 상품을 배달하거나 매장에서 찾아가게 하는 서비스다. 업계에선 상반기부터 퀵커머스 성장세가 거론됐다. GS 퀵커머스 매출 68.8%↑…슈퍼 매출 10%가 '배달·픽업'3분기 GS리테일의 퀵커머스(배달·픽업) 매출은 전년 동기 대비 68.8% 늘어 분기 최대치를 기록했다. 직전 분기보다도 14",
+      "author": "이진솔 기자",
+      "summary": "편의점과 기업형슈퍼마켓(SSM) 업계에서 '근거리 장보기'가 새로운 전략으로 떠올랐다. 배달·픽업 매출이 최대치를 갈아치우면서 동네 점포를 배송 거점으로 쓰는 퀵커머스가 근거리 유통의 성장 해법으로 굳어지고 있다.퀵커머스는 주문 뒤 1시간 안팎에 상품을 배달하거나 매장에서 찾아가게 하는 서비스다.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "07e1389dfaa3",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "“없던 고소공포증도 생길 지경”…365m 벼랑에 매달린 페루 이색 호텔",
+      "link": "https://www.etnews.com/20261106000260",
+      "publishedAt": "2026-11-08T13:30:00.000Z",
+      "description": "페루의 한 호텔이 수백 미터 높이의 절벽에 매달린 객실과 아찔한 숙박 방식으로 눈길을 끌고 있다. 객실에 들어가려면 약 2시간 동안 암벽을 올라야 하며, 숙박을 마친 뒤에는 집라인을 타고 내려와야 한다. 최근 영국 BBC에 따르면 페루 남부 안데스산맥의 세이크리드 밸리(성스러운 계곡)에 자리한 '스카이로지 어드벤처 스위트'는 계곡 바닥에서 약 365m 높이의 절벽에 투명 캡슐 형태의 객실을 설치한 이색 숙박시설이다. 이 호텔은 잉카 유적과 전통",
+      "author": "서희원",
+      "summary": "페루의 한 호텔이 수백 미터 높이의 절벽에 매달린 객실과 아찔한 숙박 방식으로 눈길을 끌고 있다. 객실에 들어가려면 약 2시간 동안 암벽을 올라야 하며, 숙박을 마친 뒤에는 집라인을 타고 내려와야 한다.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "30a200bc766f",
+      "category": "it",
+      "source": "The Verge",
+      "region": "intl",
+      "title": "There’s no slowing down media’s pivot-to-video 2.0",
+      "link": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
+      "publishedAt": "2026-11-08T13:00:00.000Z",
+      "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the pressures of creating content for the internet, follow Mia Sato. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Almost exactly a decade ago, the media industry was in the middle of a video revolution - or so it thought. In the mid-2010s, publications poured money into burgeoning social media video efforts, chasing the promise of reaching larger audiences and opening new lines of revenue. Print publications and digit",
+      "author": null,
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the pressures of creating content for the internet, follow Mia Sato.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "bfb781931450",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "Physicists listened to electrical noise to crack a superconductor mystery",
+      "link": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
+      "publishedAt": "2026-11-08T12:15:31.000Z",
+      "description": "Tuning in to electronic noise can tell us whether electrons have paired up or not.",
+      "author": "Jacek Krywko",
+      "summary": "Tuning in to electronic noise can tell us whether electrons have paired up or not.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "7f6f09594d74",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "8 Best Computer Speakers (2026) After Testing 30 Pairs",
+      "link": "https://www.wired.com/gallery/best-computer-speakers/",
+      "publishedAt": "2026-11-08T12:00:00.000Z",
+      "description": "After testing 30 pairs of computer speakers, these are the best computer speakers—from stereo speakers to subwoofers to surround sound systems.",
+      "author": "Simon Hill",
+      "summary": "After testing 30 pairs of computer speakers, these are the best computer speakers—from stereo speakers to subwoofers to surround sound systems.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "ddfd5322a4e4",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
+      "link": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
+      "publishedAt": "2026-11-08T12:00:00.000Z",
+      "description": "The New York Times has added a beta feature to its Cooking app that helps readers swap ingredients or adjust recipes to suit their needs. It mostly hits the mark.",
+      "author": "Joe Ray",
+      "summary": "The New York Times has added a beta feature to its Cooking app that helps readers swap ingredients or adjust recipes to suit their needs. It mostly hits the mark.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "abaa93cd474b",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "쿠팡·네이버서도 '한복'을 '한푸'로 판매…“中 억지주장에 빌미 제공”",
+      "link": "https://www.etnews.com/20261108000095",
+      "publishedAt": "2026-11-08T10:11:48.000Z",
+      "description": "국내 주요 온라인 쇼핑몰에서 한국 전통 의상인 한복이 중국 전통 의상인 한푸로 잘못 표기돼 판매되는 사례가 확인되면서 전자상거래 플랫폼의 상품 관리 책임이 논란이 되고 있다. 단순한 상품명 오류를 넘어 한복의 문화적 정체성과 관련한 논쟁에 영향을 줄 수 있다는 지적이다. 서경덕 성신여대 교수는 8일 자신의 사회관계망서비스(SNS)를 통해 쿠팡과 네이버, G마켓, 11번가 등 국내 쇼핑몰에서 일부 판매자가 한복을 한푸로 표기하거나 두 의상을 혼용",
+      "author": "이상목",
+      "summary": "국내 주요 온라인 쇼핑몰에서 한국 전통 의상인 한복이 중국 전통 의상인 한푸로 잘못 표기돼 판매되는 사례가 확인되면서 전자상거래 플랫폼의 상품 관리 책임이 논란이 되고 있다. 단순한 상품명 오류를 넘어 한복의 문화적 정체성과 관련한 논쟁에 영향을 줄 수 있다는 지적이다.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "ed263cbbe1a4",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "publishedAt": "2026-11-07T22:07:22.000Z",
+      "description": "On Equity, we unpacked what the midterms mean for the tech industry.",
+      "author": "Anthony Ha",
+      "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "d5250915f976",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "영국, 사용되지 않은 브렉시트 국경 검사소에 1억 파운드 낭비",
+      "link": "https://www.theguardian.com/politics/2026/nov/08/uk-zombie-brexit-border-inspection-posts-check-goods",
+      "publishedAt": "2026-11-08T13:32:58.000Z",
+      "description": "Five of seven facilities in England and Wales never reached operational stage as Tories vacillated over plans to check goods The UK wasted at least £100m in taxpayers’ money to set up zombie Brexit border inspection posts that were never used, it has been revealed. The overall cost of Brexit was put at an estimated £4.7bn by the National Audit Office last year but this included years-long transformation of the software used for customs declarations and other systems built to cope with the UK leaving the single market. Continue reading...",
+      "author": "Lisa O’Carroll and Joanna Partridge",
+      "summary": "영국이 브렉시트 이후 조성한 국경 검사 시설 7개 중 5개가 가동 단계에 도달하지 못해 최소 1억 파운드의 세금이 낭비된 것으로 드러났다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "53f49d7ad809",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "번 돈의 절반은 주주에 돌려줍니다…4대 금융지주, 배당·자사주 소각 역대급",
+      "link": "https://www.mk.co.kr/news/economy/12201960",
+      "publishedAt": "2026-11-08T13:25:25.000Z",
+      "description": "KB금융 55%·신한 52% 등 글로벌 메가뱅크 수준 육박 ESG·밸류업 전략 적극 강조 5년새 주주환원율 두배로↑ 자본건전성 약화 우려는 과제KB·신한·하나·우리 등 국내 ..",
+      "author": "매일경제",
+      "summary": "KB금융, 신한, 하나, 우리 등 국내 4대 금융지주가 순이익의 50% 이상을 배당과 자사주 소각으로 주주에게 돌려주며 글로벌 수준의 주주환원 정책을 펼치고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ae730e5b391e",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "영국 기업의 미국 셰일 에탄 수출 주도 드러나",
+      "link": "https://www.theguardian.com/environment/2026/nov/08/ineos-fracking-us",
+      "publishedAt": "2026-11-08T13:00:41.000Z",
+      "description": "Ineos is driving exports with potentially far-reaching environmental and social repercussions “My children started getting sick,” says Lois Bower-Bjornson, a campaigner at the Clean Air Council in Washington County, Pennsylvania. “My oldest son had rashes all over his body. His ears, his eyelids, everywhere. My youngest had terrible nosebleeds, it was so bad that he became anaemic and would almost pass out. He would wake up bleeding.” Continue reading...",
+      "author": "Pippa Neill Environment reporter",
+      "summary": "영국의 이네오스(Ineos)가 미국 수압파쇄 에탄 수출을 주도하는 가운데, 인근 지역 주민들이 건강 악화를 호소하며 환경·사회적 영향에 대한 우려가 제기되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7a550b938ba7",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "개미들은 이번 월요일만 기다립니다…일단 美 반도체는 회복 성공",
+      "link": "https://www.mk.co.kr/news/stock/12201946",
+      "publishedAt": "2026-11-08T11:06:04.000Z",
+      "description": "저가 매수에 급락 진정세 AMD 11%·인텔 7% 급상승 헤지펀드발 기술주 과매도 일부 해소되며 수급여건 개선 10일 코어위브 실적이 관건블루쓰나미 파장이 잦아들며 6일(현지시간)..",
+      "author": "매일경제",
+      "summary": "저가 매수로 기술주 과매도가 일부 해소되면서 미국 반도체주가 회복세를 보였으며, AMD는 11%, 인텔은 7% 상승했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "fa5947bcef10",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "與 \"정부에 '실거주 구분 없이 종부세 공제 14억' 강력히 요구\"",
+      "link": "https://www.yna.co.kr/view/AKR20261108048251001",
+      "publishedAt": "2026-11-08T10:50:12.000Z",
+      "description": "(서울=연합뉴스) 박경준 안정훈 기자 = 더불어민주당은 8일 종합부동산세(종부세) 기본공제 기준선을 실거주 여부와 관계 없이 주택 가액 14억원...",
+      "author": "박경준",
+      "summary": "더불어민주당이 정부에 종합부동산세 기본공제 기준선을 실거주 여부와 무관하게 14억원으로 통일해 줄 것을 강력히 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "283dba3b1fa4",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "카뱅·토뱅도 애플페이 … 현대카드 독점 깨진다",
+      "link": "https://www.mk.co.kr/news/economy/12201942",
+      "publishedAt": "2026-11-08T10:49:14.000Z",
+      "description": "이르면 이달 애플페이에 카카오뱅크와 토스뱅크 체크카드 등록이 가능해질 전망이다. 그동안 국내에서 애플페이를 이용하려면 현대카드를 발급받아야 했는데 이러한 독점 구조가 3년여 만에 ..",
+      "author": "매일경제",
+      "summary": "카카오뱅크와 토스뱅크의 체크카드가 이달 중 애플페이에 등록되면서 국내 애플페이에서 현대카드의 3년 독점 구조가 종료될 것으로 보인다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2964eb9d5338",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "1만피 간다더니 이제와 5천피라고?…황당한 증권사 고무줄 전망",
+      "link": "https://www.mk.co.kr/news/stock/12201928",
+      "publishedAt": "2026-11-08T09:49:55.000Z",
+      "description": "증권시장 불안에 코스피도 급락을 거듭하는 모양새다. 증권가도 좀처럼 갈피를 잡지 못하고 목표치를 상승장에서 높이고 하락장에서 낮추는 ‘뒷북 전망’을 반복적으로 내놓고 있다. 증권가..",
+      "author": "매일경제",
+      "summary": "증권시장 불안으로 코스피가 계속 하락하는 가운데, 증권사들이 상승장에서는 목표치를 높이고 하락장에서는 낮추는 뒷북 전망을 반복하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b3076156f793",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "상인들, 1만2000파운드 크리스마스 마켓 점포에서 배제",
+      "link": "https://www.bbc.co.uk/news/articles/ckn8wew92xw1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T07:11:02.000Z",
+      "description": "Stall holders said they'd met the council leader to express their concerns at high costs since a new operator took over.",
+      "author": null,
+      "summary": "새로운 운영 업체 인수 이후 크리스마스 시장 점포 임차료가 1만2000파운드까지 상승하면서 소상공인 노점상들이 진입 장벽에 직면하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "452e532a96d5",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "LH \"공공이 개발사업 시행하면 속도 빨라지고 부정부패 줄어\"",
+      "link": "https://www.yna.co.kr/view/AKR20261108031800003",
+      "publishedAt": "2026-11-08T06:18:44.000Z",
+      "description": "(서울=연합뉴스) 임기창 기자 = 최근 이재명 대통령이 공공재개발 현장을 방문해 공공 주도 개발에 힘을 실은 뒤 서울시가 그에 비판적 입장을 내...",
+      "author": "임기창",
+      "summary": "한국토지주택공사(LH)가 공공이 개발사업을 주도하면 사업 속도가 빨라지고 부정부패가 감소한다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "191fa3edca87",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "5만달러를 라부부에 투자했지만 인기가 식고 있다",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T23:02:35.000Z",
+      "description": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
+      "author": null,
+      "summary": "라부부에 대한 수집 수요가 감소하면서 모회사인 팝마트(Pop Mart)의 수익이 하락했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0e94b75e68fc",
+      "category": "politics",
+      "source": "조선일보",
+      "region": "kr",
+      "title": "“유럽의 몰락은 중국에 공장 보내고, ‘개념 설계’ 역량 상실한 탓”",
+      "link": "https://www.chosun.com/opinion/economic_focus/2026/11/08/4OVIJDGAX5GNHCPZZ73SPGW4CY/",
+      "publishedAt": "2026-11-08T14:46:00.000Z",
+      "description": "",
+      "author": "김홍수 경제 에디터",
+      "summary": "",
+      "summarySource": "rss"
+    },
+    {
+      "id": "9e143c67b821",
+      "category": "politics",
+      "source": "서울신문",
+      "region": "kr",
+      "title": "與 ‘신천지’ 당내 이견 지속…“호남 가입 집중”·“전대 개입 근거 無”",
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20261108500092",
+      "publishedAt": "2026-11-08T13:18:17.000Z",
+      "description": "더불어민주당이 신천지 교인의 집단 입당 의혹에 대한 자체 조사 결과를 소속 의원과 원외 지역위원장이 개별 열람할 수 있도록 했지만 당내 갈등은 이어지고 있다. 김민석 대표의 취임 100일을 앞두고 정청래 전 대표가 정치 행보를 예고하면서 전·현직 대표의 입지를 둘러싼 당내 긴장감도 커지고 있다. 조계원 대변인은 8일 국회에서 기자들과 만나 전남광주를 비롯한 호남 지역에 신천지 가입 정황이 집중됐다며 “조직적으로 (신천지 교인이) 가입한 상황은 분명해진 것 같다”고 했다. 그는 “여러 증거를 통해 지시 없이는 가입하지 않았고, 오더 없이는 움직이지 않는다는 점이 확인됐다”고도 했다. 반면 친청(친정청래)계는 지난 전당대회에 조직적으로 개입했다는 근거를 찾지 못했다며 조사 자료 공개와 김민석 대표의 책임을 요구하고 있다. 한민수 최고위원은 조직적 가입 여부와 가입 시점·경로 등이 확인되지 않았다고 지적했다. 이성윤 최고위원도 김 대표가 정 전 대표에게 직접 사과하고 그에 상응하는 조치를 해야 한다고 요구했다. 민주당은 지난 6일부터 오는 13일까지 현역 의원과 원외 지역위원장이 당 사무총장실에서 당원정비 태스크포스(TF)의 조사 결과를 볼 수 있도록 했다. 자료",
+      "author": "반영윤 기자",
+      "summary": "더불어민주당이 신천지 교인의 집단 입당 의혹에 대한 자체 조사 결과를 소속 의원과 원외 지역위원장이 개별 열람할 수 있도록 했지만 당내 갈등은 이어지고 있다. 김민석 대표의 취임 100일을 앞두고 정청래 전 대표가 정치 행보를 예고하면서 전·현직 대표의 입지를 둘러싼 당내 긴장감도 커지고 있다.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "d28afbf77e87",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "與 “총선 직결” 비거주 1주택도 종부세 공제 14억 요구…靑 “불가”",
+      "link": "https://www.donga.com/news/Politics/article/all/20261108/134987887/1",
+      "publishedAt": "2026-11-08T12:43:00.000Z",
+      "description": "당정이 1주택자 종합부동산세 기본공제액을 두고 이견을 드러냈다. 더불어민주당은 기본공제액을 14억 원으로 통일해달라고 정부에 요구했지만 청와대는 실거주자는 14억 원, 비거주자는 12억 원으로 차등화하는 기존 방침을 유지하겠다고 선을 그은 것. 정부와 여당은 추미애 경기도지사의 ‘소방 재정 빨대’ 발언 등으로 논란이 확산된 가운데 소방 재정 지원에 2조 원 이상을 긴급 투입하기로 결정했다.박성준 민주당 수석대변인은 8일 서울 종로구 삼청동 국무총리 공관에서 열린 고위당정협의회 이후 국회에서 기자들과 만나 “거주와 비거주 14억 원에 대해 한정애 사무총장이 나누지 않았으면 좋겠다고 하는 의견 등이 있었다”고 밝혔다. 1주택자 종부세 기본공제 금액을 실거주·비거주 여부와 관계없이 14억 원으로 통일하는 방안을 정부에 공식 제안했다는 것. 앞서 정부는 비거주 1주택자의 종부세 기본공제를 현행 12억 원에서 9억 원으로 낮춰 세 부담을 높이는 안을 내놨지만 민주당의 우려가 나오자 기본공제",
+      "author": null,
+      "summary": "당정이 1주택자 종합부동산세 기본공제액을 두고 이견을 드러냈다. 더불어민주당은 기본공제액을 14억 원으로 통일해달라고 정부에 요구했지만 청와대는 실거주자는 14억 원, 비거주자는 12억 원으로 차등화하는 기존 방침을 유지하겠다고 선을 그은 것.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "4df0813cd769",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "“AI·로봇에 대체되는 노동…기본소득으로 ‘부의 쏠림’ 줄여야”",
+      "link": "https://www.khan.co.kr/article/202611082130015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-11-08T12:30:01.000Z",
+      "description": "헌정회·사회정책학회 ‘AI 시대의 양극화 현상’ 정책토론회AI 시대 해법은 서상목 대한민국헌정회 정책연구위원회 의장이 지난 6일 서울 영등포구 헌정회 회의실에서 열린 ‘AI 시대의 양극화 현상: 진단과 해법’ 정책토론회에서 발표를 하고 있다.‘선 성장 후 분배’, 불균형 키워 경제 성과 기업에만 쏠려 ‘문제’ AI 토큰세·로봇세 등 도입하고 복지국가 ···",
+      "author": "글·사진｜이혜인 기자",
+      "summary": "헌정회·사회정책학회 ‘AI 시대의 양극화 현상’ 정책토론회AI 시대 해법은 서상목 대한민국헌정회 정책연구위원회 의장이 지난 6일 서울 영등포구 헌정회 회의실에서 열린 ‘AI 시대의 양극화 현상: 진단과 해법’ 정책토론회에서 발표를 하고 있다.‘선 성장 후 분배’, 불균형 키워 경제 성과 기업에만 쏠려 ‘문제’ AI 토큰세…",
+      "summarySource": "rss"
+    },
+    {
+      "id": "0888d8c8cf66",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "누구도 배제되지 않는 포용금융, 새 길을 묻다",
+      "link": "https://www.khan.co.kr/article/202611082130005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-11-08T12:30:00.000Z",
+      "description": "11일 ‘경향 미래금융 콘퍼런스’이한주, 손병두, 강경훈, 김은경, 정운영, 이병윤(왼쪽부터)경향신문이 오는 11일 서울 중구 은행회관에서 개최하는 는 포용금융의 새로운 길을 모색하는 자리다.‘포용금융, 모두의 내일을 품다’를 주제로 열리는 이번 콘퍼런스에서는 금융당국과 현장 전문가들이 모여 포용금융의 현주소를 ···",
+      "author": "고영득 기자",
+      "summary": "11일 ‘경향 미래금융 콘퍼런스’이한주, 손병두, 강경훈, 김은경, 정운영, 이병윤(왼쪽부터)경향신문이 오는 11일 서울 중구 은행회관에서 개최하는 는 포용금융의 새로운 길을 모색하는 자리다.‘포용금융, 모두의 내일을 품다’를 주제로 열리는 이번 콘퍼런스에서는 금융당국과 현장 전문가들이 모여 포용금융의 현주소를 ···",
+      "summarySource": "rss"
+    },
+    {
+      "id": "41c448c3130e",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "특검법엔 “탈옥법” 이용철엔 “똘마니” 국민의힘, 장외 여론전으로 대여 공세",
+      "link": "https://www.khan.co.kr/article/202611082120025/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-11-08T12:20:02.000Z",
+      "description": "9일 청 앞서 최고위·의원총회밖으로 나간 국힘 장동혁 대표와 정점식 원내대표 등 국민의힘 의원들이 지난 7일 서울 경복궁역 앞에서 여당의 조작기소특검법 강행을 규탄하는 장외 집회를 열고 있다. 연합뉴스장동혁 국민의힘 대표가 8일 더불어민주당 주도로 국회를 통과한 조작기소특검법을 두고 “이재명 탈옥법”이라고 비판했다. 장 대표는 이날 유튜브 채널 ‘펜앤마이크···",
+      "author": "이예슬·심윤지 기자",
+      "summary": "9일 청 앞서 최고위·의원총회밖으로 나간 국힘 장동혁 대표와 정점식 원내대표 등 국민의힘 의원들이 지난 7일 서울 경복궁역 앞에서 여당의 조작기소특검법 강행을 규탄하는 장외 집회를 열고 있다. 연합뉴스장동혁 국민의힘 대표가 8일 더불어민주당 주도로 국회를 통과한 조작기소특검법을 두고 “이재명 탈옥법”이라고 비판했다.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "7dc7c76169de",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "오남용 못 막고, 해외 처방약 반입은 막고…비만치료제 규제 7개월째 ‘표류’",
+      "link": "https://www.khan.co.kr/article/202611082058035/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-11-08T11:58:03.000Z",
+      "description": "위고비·마운자로 등 ‘오남용우려의약품’ 지정 심사 일정도 못 잡아국산 ‘에페’ 등장에 형평성 논란…해외 반입 차단 해제도 기약 없어위고비, 마운자로 등 비만치료제를 규제하기 위한 논의가 결론 없이 수개월째 표류하고 있다. ‘오남용우려의약품’으로 지정하는 작업은 추진 7개월이 됐는데도 최종 심사 일정조차 잡지 못했고, 해외에서 처방받은 약까지 막는 반입 차단···",
+      "author": "김찬호 기자",
+      "summary": "위고비·마운자로 등 ‘오남용우려의약품’ 지정 심사 일정도 못 잡아국산 ‘에페’ 등장에 형평성 논란…해외 반입 차단 해제도 기약 없어위고비, 마운자로 등 비만치료제를 규제하기 위한 논의가 결론 없이 수개월째 표류하고 있다.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "483c9b5a2ac3",
+      "category": "politics",
+      "source": "SBS 뉴스",
+      "region": "kr",
+      "title": "'소방 빨대' 논란에 2조 투입한다…'미래대응기금' 활용?",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836161",
+      "publishedAt": "2026-11-08T11:57:00.000Z",
+      "description": "내일은 64주년 '소방의 날'입니다. 소방공무원이 국가직으로 전환된 지 4년이 지났는데도 예산 부담은 여전히 지자체가 떠안고 있는 현실에 논란이 지속돼 왔습니다.",
+      "author": "khm@sbs.co.kr (김혜민 기자)",
+      "summary": "내일은 64주년 '소방의 날'입니다. 소방공무원이 국가직으로 전환된 지 4년이 지났는데도 예산 부담은 여전히 지자체가 떠안고 있는 현실에 논란이 지속돼 왔습니다.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "91e2828f5034",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "당정 \"소방에 2조원 재정지원…미래대응기금 활용은 추후 결정\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261108047251001",
+      "publishedAt": "2026-11-08T11:11:16.000Z",
+      "description": "(서울=연합뉴스) 최평천 안정훈 기자 = 더불어민주당과 정부, 청와대는 소방에 관련된 긴급한 필수 투자를 위해 중앙정부가 지방정부에 2조원 수준...",
+      "author": "최평천",
+      "summary": "(서울=연합뉴스) 최평천 안정훈 기자 = 더불어민주당과 정부, 청와대는 소방에 관련된 긴급한 필수 투자를 위해 중앙정부가 지방정부에 2조원 수준...",
+      "summarySource": "rss"
+    },
+    {
+      "id": "2edee5f709e4",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "국힘, 당정 '미래대응기금 통한 소방지원'에 \"秋 망언 물타기용\"",
+      "link": "https://www.yna.co.kr/view/AKR20261108048900001",
+      "publishedAt": "2026-11-08T10:38:49.000Z",
+      "description": "(서울=연합뉴스) 노선웅 기자 = 국민의힘은 8일 정부·여당이 미래대응기금을 통한 소방 예산 지원을 검토하겠다고 밝힌 데 대해 \"추미애 지사의 ...",
+      "author": "노선웅",
+      "summary": "(서울=연합뉴스) 노선웅 기자 = 국민의힘은 8일 정부·여당이 미래대응기금을 통한 소방 예산 지원을 검토하겠다고 밝힌 데 대해 \"추미애 지사의 ...",
+      "summarySource": "rss"
+    },
+    {
+      "id": "2b3c182dacc4",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "트럼프 \"중간선거 후퇴 두려워말라…우린 더 강하게 돌아올 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20261108055300071",
+      "publishedAt": "2026-11-08T14:42:18.000Z",
+      "description": "(워싱턴=연합뉴스) 홍정규 특파원 = 도널드 트럼프 미국 대통령은 8일(현지시간) 민주당의 중간선거 압승으로 미국이 퇴보했다고 주장했다.",
+      "author": "홍정규",
+      "summary": "(워싱턴=연합뉴스) 홍정규 특파원 = 도널드 트럼프 미국 대통령은 8일(현지시간) 민주당의 중간선거 압승으로 미국이 퇴보했다고 주장했다.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "3ba157effb66",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "Homes and temples glow across India to mark Diwali",
+      "link": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T14:42:09.000Z",
+      "description": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
+      "author": null,
+      "summary": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "dfb1d705c034",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "이집트 카이로 남부서 열차 추돌로 최소 120명 부상",
+      "link": "https://www.yna.co.kr/view/AKR20261108055400079",
+      "publishedAt": "2026-11-08T14:36:06.000Z",
+      "description": "(카이로=연합뉴스) 김상훈 특파원 = 8일(현지시간) 이집트 수도 카이로 남부 기자주에서 주행 중이던 두 열차가 추돌해 최소 120명이 다치는 ...",
+      "author": "김상훈",
+      "summary": "(카이로=연합뉴스) 김상훈 특파원 = 8일(현지시간) 이집트 수도 카이로 남부 기자주에서 주행 중이던 두 열차가 추돌해 최소 120명이 다치는 ...",
+      "summarySource": "rss"
+    },
+    {
+      "id": "940dac3ad365",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "Weakening AI copyright law will spell ‘disaster for creativity’, global music body warns Albanese",
+      "link": "https://www.theguardian.com/technology/2026/nov/09/weakening-ai-copyright-law-will-spell-disaster-for-creativity-australia",
+      "publishedAt": "2026-11-08T14:00:43.000Z",
+      "description": "Exclusive: Head of IFPI says allowing AI companies access to online content would be a ‘huge mistake’ and damage Australia’s reputation Get our breaking news email, free app or daily news podcast Australia weakening copyright protections to aid AI companies would be “ridiculous and dangerous”, the global peak body for the music recording industry has warned as it watches with concern how the Albanese government responds to big tech’s demands. While local creatives have raised constitutional issues and threatened political backlash, the International Federation of the Phonographic Industry (IFP",
+      "author": "Josh Butler",
+      "summary": "Exclusive: Head of IFPI says allowing AI companies access to online content would be a ‘huge mistake’ and damage Australia’s reputation Get our breaking news email, free app or dai…",
+      "summarySource": "rss"
+    },
+    {
+      "id": "bbea174fd3cf",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "Iran executes three men for 'armed unrest' after January protests",
+      "link": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T13:37:50.000Z",
+      "description": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
+      "author": null,
+      "summary": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "d5250915f976",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "UK spent £100m on zombie Brexit border inspection posts",
+      "link": "https://www.theguardian.com/politics/2026/nov/08/uk-zombie-brexit-border-inspection-posts-check-goods",
+      "publishedAt": "2026-11-08T13:32:58.000Z",
+      "description": "Five of seven facilities in England and Wales never reached operational stage as Tories vacillated over plans to check goods The UK wasted at least £100m in taxpayers’ money to set up zombie Brexit border inspection posts that were never used, it has been revealed. The overall cost of Brexit was put at an estimated £4.7bn by the National Audit Office last year but this included years-long transformation of the software used for customs declarations and other systems built to cope with the UK leaving the single market. Continue reading...",
+      "author": "Lisa O’Carroll and Joanna Partridge",
+      "summary": "Five of seven facilities in England and Wales never reached operational stage as Tories vacillated over plans to check goods The UK wasted at least £100m in taxpayers’ money to set…",
+      "summarySource": "rss"
+    },
+    {
+      "id": "844c3a5b37c7",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "Iran: US strikes ship after Hormuz blockade breach",
+      "link": "https://www.dw.com/en/iran-us-strikes-ship-after-hormuz-blockade-breach/a-79890434?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-11-08T13:00:00.000Z",
+      "description": "The US military said a vessel trying to leave an Iranian port was hit due to the naval blockade on the country. On its part, Iran said three \"non compliant\" oil tankers caught fire in the Strait of Hormuz.",
+      "author": null,
+      "summary": "The US military said a vessel trying to leave an Iranian port was hit due to the naval blockade on the country.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "c65027c3cf8a",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "A desert stirs to life: Chile's Atacama erupts in its biggest floral display in decades",
+      "link": "https://www.npr.org/2026/11/08/nx-s1-6023812/chile-desert-el-nino",
+      "publishedAt": "2026-11-08T11:00:00.000Z",
+      "description": "El Niño rains have transformed Chile's Atacama Desert into a spectacular sea of color, awakening a fleeting ecosystem of flowers and wildlife in one of the driest places on Earth.",
+      "author": "John Bartlett",
+      "summary": "El Niño rains have transformed Chile's Atacama Desert into a spectacular sea of color, awakening a fleeting ecosystem of flowers and wildlife in one of the driest places on Earth.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "2458a9aee302",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "Gaza: Rains add misery to humanitarian catastrophe",
+      "link": "https://www.dw.com/en/gaza-rains-add-misery-to-humanitarian-catastrophe/a-79889580?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-11-08T10:58:00.000Z",
+      "description": "With most homes damaged or destroyed by the war, Gazans are facing worsening humanitarian conditions due to heavy rain.",
+      "author": null,
+      "summary": "With most homes damaged or destroyed by the war, Gazans are facing worsening humanitarian conditions due to heavy rain.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "13ccfe0a19b5",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "A correspondent finds Cuba's people struggling",
+      "link": "https://www.npr.org/2026/11/07/nx-s1-6029398/a-correspondent-finds-cubas-people-struggling",
+      "publishedAt": "2026-11-07T22:12:06.000Z",
+      "description": "Reporting from Cuba comes with distinct challenges especially amid widespread power outages and fuel shortages.",
+      "author": "Gabriel J. Sánchez",
+      "summary": "Reporting from Cuba comes with distinct challenges especially amid widespread power outages and fuel shortages.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "7504051190db",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "빅 텐트는 현실이다",
+      "link": "https://www.nytimes.com/video/opinion/100000011258482/this-is-what-the-big-tent-looks-like.html",
+      "publishedAt": "2026-11-08T14:50:33.000Z",
+      "description": "On “The Ezra Klein Show,” Ezra Klein argues that “the big tent is real” and breaks down Democratic showings in North Carolina, Georgia, Kansas and Mississippi.",
+      "author": null,
+      "summary": "Ezra Klein은 민주당의 광역 지지층이 실재한다고 주장하며 노스캐롤라이나, 조지아, 캔자스, 미시시피의 선거 성과를 분석했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "acf5e58fb44b",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]초등 입학 첫 20만 명대… 교육 장기비전 새로 짜야",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261108/134988358/2",
+      "publishedAt": "2026-11-08T14:30:00.000Z",
+      "description": "저출산 여파로 내년 초등학교 입학생 수가 처음으로 30만 명 아래로 떨어질 전망이다. 국가데이터처에 따르면 내년 초등학교 입학 대상인 2020년 출생아 수는 전년보다 10% 줄어든 27만 명 남짓으로 집계됐다. 2024년 입학생이 30만 명대로 줄어든 지 3년 만에 20만 명대로 내려앉은 것이다. 초등 입학생이 105만 명으로 사상 최대였던 1968년과 비교하면 입학생 규모가 59년 만에 4분의 1로 줄었다. 2년 전부터 출산율이 반등했지만 소폭 증가에 그쳐 입학생 규모는 상당 기간 20만 명대를 유지할 전망이다. 학령 인구 급감에 따른 학교 통폐합은 이미 시작됐다. 2021∼2025년 통폐합으로 폐교된 학교는 초등학교 120곳을 포함해 153곳이다. 인구 감소 지역으로 선정된 32곳 중 22곳에서 소규모 학교 통폐합이 추진 중이다. 서울에선 2020년 염강초교, 2023년 화양초교에 이어 2028년엔 등명초교도 폐교가 예고된 상태다. 지방 중소도시와 농어촌뿐만 아니라 수도권에서도",
+      "author": null,
+      "summary": "저출산으로 초등학교 입학생이 크게 감소하고 학교 통폐합이 가속화되고 있으므로, 교육 체계의 근본적 개편이 필요하다고 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "14a1eae40edb",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]'기촉법' 일몰 눈앞… 한계기업 연쇄도산 막을 안전판인데",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261108/134988362/2",
+      "publishedAt": "2026-11-08T14:27:00.000Z",
+      "description": "경영난을 겪는 기업의 워크아웃(기업개선작업)을 돕는 기업구조조정촉진법(기촉법)이 다음 달 26일 효력 만료를 앞두고 있다. 현재 유효기간을 3년 연장하는 법안과 아예 유효기간 규정을 삭제해 상시법으로 전환하는 법안이 각각 발의돼 국회 정무위원회에 계류 중이다. 고금리와 내수 부진 장기화로 한계 상황에 내몰린 기업들이 속출하는 가운데 국회의 입법 처리가 지연되면 신규 워크아웃이 가로막혀 기업 구조조정의 적기를 놓칠 수 있다. 기촉법은 외환위기 이후 기업들의 줄도산을 막기 위해 2001년 한시법으로 도입됐다. 채권단 75% 이상이 동의하면 채무 조정과 신규 자금 지원 등을 신속히 추진할 수 있도록 했다. 이후 한시법의 굴레를 벗어나지 못한 채 일몰과 재연장을 반복해 왔고, 3년 전인 2023년에는 국회 파행으로 약 두 달간 법적 공백 사태가 벌어졌다. 기촉법 효력이 사라지면 법적 구속력이 없는 채권단 자율협약에 의존해야 하는데, 일부 채권자의 이탈을 막지 못해 구조조정의 동력이 상실될",
+      "author": null,
+      "summary": "기업구조조정촉진법이 내달 만료를 앞두고 있는데, 국회의 입법 지연으로 신규 워크아웃이 가로막혀 경영난 기업들의 구조조정 시기를 놓칠 수 있다고 우려했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f88c8427c24a",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "부모의 불안 완화가 오히려 아이를 약하게 만들 수 있을까?",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/09/parenting-protecting-children-from-anxiety",
+      "publishedAt": "2026-11-08T14:00:44.000Z",
+      "description": "No one wants their child to struggle. But the things parents do can disempower children later in life The modern mind is a column where experts discuss mental health issues they are seeing in their work When a child is anxious, most parents instinctively want to make things better. If your daughter is terrified of attending a birthday party, you might suggest she stay home. If your son worries you’ll forget to collect him from school, you reassure him that you’ll be there. When your child is afraid to sleep alone, you sit beside them until they fall asleep – inadvertently setting up a situatio",
+      "author": "Diane Young",
+      "summary": "부모가 자녀의 불안을 덜어주려는 행동이 오히려 아이를 장기적으로 무능하게 만들 수 있다고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ba2cc30581d5",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "새로운 정치의 빛이 떠오르다: 미국 중간선거 승리 연설의 최고 순간들",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/08/best-midterm-victory-speeches",
+      "publishedAt": "2026-11-08T14:00:41.000Z",
+      "description": "Tuesday’s winners offered a new politics at a time when ‘there is something broken in America’ As the US election returns came in throughout the night on Tuesday, there was ebullience at the size of the margin. It was comparable to the significant thumpings over the years. Yet bigger. In 2006, Americans were exhausted by the war in Iraq (by simply changing the last letter to “n”, we have a similar situation today). But even that big win paled in comparison. Continue reading...",
+      "author": "Ted Widmer",
+      "summary": "미국 중간선거의 승자들이 '미국 내 무언가 깨져 있다'는 상황 속에서 새로운 정치의 가능성을 제시했다고 평가했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "614814852a88",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "Trump의 과학 공격이 초래할 많은 비용들",
+      "link": "https://www.nytimes.com/2026/11/08/opinion/trump-science.html",
+      "publishedAt": "2026-11-08T14:00:02.000Z",
+      "description": "Readers respond to a report on the administration’s campaign to defund and eliminate crucial scientific research.",
+      "author": null,
+      "summary": "Trump 행정부가 중요한 과학 연구를 축소·폐지하려는 것이 초래할 다양한 폐해를 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0ffb8db334e9",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[알림]모두를 품는 따뜻한 금융…오는 11일 '2026 경향 미래금융 콘퍼런스' 개최",
+      "link": "https://www.khan.co.kr/article/202611082142005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-11-08T12:42:00.000Z",
+      "description": "경향신문이 창간 80년을 맞아 오는 11일 ‘2026 경향 미래금융 콘퍼런스’를 개최합니다. 주제는 ‘포용금융, 모두의 내일을 품다’입니다.지속 가능한 성장은 포용적 제도와 연결돼 있습니다. 경제 혈맥으로 불리는 금융의 포용성은 아무리 강조해도 지나치지 않을 것입니다. 그럼에도 우리 사회에는 금융 이력이 부족하거나 소득과 담보가 충분하지 않다는 이유로 제도···",
+      "author": null,
+      "summary": "포용금융이 지속 가능한 경제 성장의 핵심이라며, 경향신문이 창간 80년을 기념해 관련 콘퍼런스를 개최한다고 알렸다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0177271dc74f",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "선거 부정론자들이 졌고, 선거 비관론자들도 졌다",
+      "link": "https://www.washingtonpost.com/opinions/2026/11/08/midterms-were-victory-federalism/",
+      "publishedAt": "2026-11-08T12:28:06.000Z",
+      "description": "Trump tested institutions that his critics sometimes underestimated.",
+      "author": "Editorial Board",
+      "summary": "선거 부정론자뿐만 아니라 선거 결과에 극단적으로 비관했던 비평가들도 틀렸으며, 미국의 제도가 예상보다 견고하다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "dc19002fc7c7",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "골프의 음주 문제와 새로운 해결책",
+      "link": "https://www.washingtonpost.com/opinions/2026/11/08/golf-has-drinking-problem-sober-golfers-offer-another-way-play/",
+      "publishedAt": "2026-11-08T12:15:00.000Z",
+      "description": "For people in recovery, a round without booze can be a kind of spiritual practice.",
+      "author": "Cornelia Powers",
+      "summary": "중독 회복자들을 위해 음주 없는 라운드가 영적 수련이 될 수 있는 방식을 제시했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6bf976046115",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[고영의 문헌 속 '밥상']이 계절 김장 풍경",
+      "link": "https://www.khan.co.kr/article/202611082009025/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-11-08T11:09:02.000Z",
+      "description": "입동(立冬)과 소설(小雪)이 든 11월은 김장의 계절이다. 김장의 기본 재료인 무와 배추가 얼기 전이고, 그 맛이 폭 든 철이다. 19세기를 살다 간 김형수는 에서 옛 경기지역 음력 시월의 김장 풍경을 이렇게 노래했다.“…벼 거둔 다음에는 무슨 일이 남았나/ 김장 아직 못했다면 무·배추로 할 일이 있지/ 무·배추 뽑아다 깨끗한 물···",
+      "author": "고영 음식문화연구자",
+      "summary": "음식문화연구자가 옛 문헌을 인용해 11월이 무와 배추의 맛이 가장 좋은 김장의 계절이라고 소개했다.",
+      "summarySource": "llm"
+    }
+  ],
+  "summarizedAt": "2026-11-09T01:35:15.549Z",
+  "summaryStats": {
+    "llm": 20,
+    "fallback": 30,
+    "model": "claude-haiku-4-5"
+  }
+}
