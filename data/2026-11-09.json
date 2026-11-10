@@ -1,0 +1,898 @@
+{
+  "date": "2026-11-09",
+  "generatedAt": "2026-11-10T03:58:16.865Z",
+  "categories": [
+    {
+      "id": "it",
+      "label": "IT·과학·AI"
+    },
+    {
+      "id": "economy",
+      "label": "경제·금융"
+    },
+    {
+      "id": "politics",
+      "label": "정치·사회"
+    },
+    {
+      "id": "world",
+      "label": "세계·국제"
+    },
+    {
+      "id": "editorial",
+      "label": "사설·칼럼",
+      "opinion": true,
+      "summaryMaxChars": 220
+    }
+  ],
+  "feedStatus": [
+    {
+      "source": "Ars Technica",
+      "category": "it",
+      "ok": true,
+      "matched": 1
+    },
+    {
+      "source": "Hacker News",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "TechCrunch",
+      "category": "it",
+      "ok": true,
+      "matched": 2
+    },
+    {
+      "source": "The Verge",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "블로터",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "전자신문",
+      "category": "it",
+      "ok": true,
+      "matched": 24
+    },
+    {
+      "source": "ZDNet Korea",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC Business",
+      "category": "economy",
+      "ok": true,
+      "matched": 7
+    },
+    {
+      "source": "The Guardian",
+      "category": "economy",
+      "ok": true,
+      "matched": 12
+    },
+    {
+      "source": "매일경제 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 34
+    },
+    {
+      "source": "연합뉴스",
+      "category": "economy",
+      "ok": true,
+      "matched": 3
+    },
+    {
+      "source": "경향신문 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 26
+    },
+    {
+      "source": "경향신문 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 21
+    },
+    {
+      "source": "노컷뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "서울신문",
+      "category": "politics",
+      "ok": true,
+      "matched": 5
+    },
+    {
+      "source": "연합뉴스 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "연합뉴스 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 69
+    },
+    {
+      "source": "SBS 뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 13
+    },
+    {
+      "source": "Al Jazeera",
+      "category": "world",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC World",
+      "category": "world",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "NPR",
+      "category": "world",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "The Guardian",
+      "category": "world",
+      "ok": true,
+      "matched": 5
+    },
+    {
+      "source": "연합뉴스 국제",
+      "category": "world",
+      "ok": true,
+      "matched": 21
+    },
+    {
+      "source": "매일경제 증권",
+      "category": "economy",
+      "ok": true,
+      "matched": 28
+    },
+    {
+      "source": "경향신문 오피니언",
+      "category": "editorial",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "NYT Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 3
+    },
+    {
+      "source": "The Guardian Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 12
+    },
+    {
+      "source": "Washington Post Opinions",
+      "category": "editorial",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "동아일보 사설",
+      "category": "editorial",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "동아일보 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 22
+    },
+    {
+      "source": "조선일보",
+      "category": "politics",
+      "ok": true,
+      "matched": 2
+    },
+    {
+      "source": "동아일보 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "머니투데이",
+      "category": "economy",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "Wired",
+      "category": "it",
+      "ok": true,
+      "matched": 12
+    },
+    {
+      "source": "DW News",
+      "category": "world",
+      "ok": true,
+      "matched": 11
+    }
+  ],
+  "items": [
+    {
+      "id": "30f28b708aaa",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "젠슨 황, 스캔들 전문 PR회사 고용",
+      "link": "https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/",
+      "publishedAt": "2026-11-09T14:30:56.000Z",
+      "description": "The Nvidia CEO began working with consultants from Heller as early as October 2025, around the same time he was first linked to a suspected Chinese spy.",
+      "author": "Lauren Goode",
+      "summary": "엔비디아 최고경영자 젠슨 황은 2025년 10월부터 스캔들 대응 전문 PR회사인 헬러의 컨설턴트를 고용했으며, 이는 중국 스파이 혐의와 연결된 시기와 맞물렸다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2a6f73508049",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "음악 공유 앱 Drops 출시",
+      "link": "https://techcrunch.com/2026/11/09/meet-drops-the-new-music-app-bringing-back-the-fun-of-sharing-songs-with-friends/",
+      "publishedAt": "2026-11-09T14:00:00.000Z",
+      "description": "The new music discovery app lets users scroll through 10- to 30-second snippets of songs, comment, and share with friends.",
+      "author": "Lauren Forristal",
+      "summary": "새 음악 발견 앱 'Drops'는 사용자가 10~30초 길이의 곡 샘플을 스크롤하며 댓글을 달고 친구와 공유할 수 있게 한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "95c3c02be004",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "Automattic, 'Spacefast' 플랫폼 출시",
+      "link": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+      "publishedAt": "2026-11-09T14:00:00.000Z",
+      "description": "Automattic aims to compete with the likes of Lovable with Spacefast.",
+      "author": "Ivan Mehta",
+      "summary": "Automattic이 'Spacefast' 플랫폼을 통해 Lovable 같은 비즈니스와 경쟁하려는 움직임을 보였다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d42deb701f5d",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "용접할 곳도 스스로 찾는다…중국의 '용접 로봇'",
+      "link": "https://www.etnews.com/20261109000285",
+      "publishedAt": "2026-11-09T13:30:00.000Z",
+      "description": "스스로 이동하며 용접 작업을 수행하도록 설계된 휴머노이드 로봇이 공개됐습니다. 중국 로봇 기업 스피드봇(SPEEDBOT)이 개발한 'W1'은 키 170cm, 무게 60kg으로 27개의 자유도를 갖췄습니다. 계단을 오르내리고 장애물을 피하면서 좁은 공간을 이동할 수 있으며, 서 있거나 쪼그려 앉는 등 다양한 자세로 용접 작업을 수행할 수 있습니다. 또한 라이다와 3D 카메라를 이용해 주변 환경을 파악하고, 용접할 부위를 스스로 찾아 작업하도록 설",
+      "author": "이창민",
+      "summary": "중국 스피드봇이 개발한 'W1' 휴머노이드 로봇은 높이 170cm, 무게 60kg으로 자율 주행하며 라이다와 3D 카메라로 용접 부위를 찾아 작업을 수행한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3c7667d892fe",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "민주당 새 의회, 트럼프 '골든돔' 프로젝트 변경 추진",
+      "link": "https://arstechnica.com/space/2026/11/new-democratic-congress-will-likely-strip-the-gilding-from-trumps-golden-dome/",
+      "publishedAt": "2026-11-09T12:00:05.000Z",
+      "description": "\"There’s no doubt that whatever it’s going to be called, it won’t be called Golden Dome.\"",
+      "author": "Stephen Clark",
+      "summary": "새로 구성되는 민주당 의회가 트럼프의 'Golden Dome' 프로젝트에서 금칠을 제거할 가능성이 높으며, 프로젝트의 이름도 바뀔 것으로 예상됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7b1211148f34",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "King Arthur Baking 'Sourdough Sidekick' 리뷰",
+      "link": "https://www.wired.com/review/king-arthur-baking-sourdough-sidekick/",
+      "publishedAt": "2026-11-09T12:00:00.000Z",
+      "description": "This techy automatic starter feeder has some quirks, but it ended my yearlong sourdough slump.",
+      "author": "Kat Merck",
+      "summary": "자동 스타터 피더 'Sourdough Sidekick'은 기술적 결함이 있지만 1년간의 사워도우 슬럼프를 종료했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d047c320898f",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "Hulu 다큐 'Get Huge', 룩스맥싱의 치명적 결과 조명",
+      "link": "https://www.wired.com/story/hulu-doc-get-huge-shows-the-deadly-toll-of-looksmaxxing/",
+      "publishedAt": "2026-11-09T12:00:00.000Z",
+      "description": "The new Hulu docuseries Get Huge: Looksmaxxing to Death shines a light on the mysterious deaths and disappearances of a group of male influencers in Thailand—and the leader at the center of it all.",
+      "author": "Ej Dickson",
+      "summary": "Hulu 신작 다큐시리즈 'Get Huge: Looksmaxxing to Death'는 태국에서 발생한 남성 인플루언서 그룹의 의문사 및 실종과 그 중심 지도자에 대해 다뤘다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d358951e3bc9",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "1시간 전만해도 노랗게 물들었는데…1300살 은행나무, 하루아침에 '우수수'",
+      "link": "https://www.etnews.com/20261109000415",
+      "publishedAt": "2026-11-09T08:51:45.000Z",
+      "description": "강원도 원주의 명물인 반계리 은행나무가 입동인 지난 7일 불과 1~2시간 만에 잎을 모두 떨어뜨렸다. 가을마다 거대한 황금빛 물결을 이루던 나무가 순식간에 앙상한 모습으로 바뀌면서 주말 관광객들의 아쉬움이 이어졌다. 9일 네이버 지도 리뷰와 사회관계망서비스(SNS)에는 지난 7~8일 원주시 문막읍 반계리 은행나무 광장을 찾았다가 잎이 모두 떨어진 나무만 보고 돌아왔다는 방문객들의 후기가 잇따랐다. 1964년 천연기념물 제167호로 지정된 반계리",
+      "author": "이상목",
+      "summary": "강원도 원주의 1300년 된 반계리 은행나무는 입동 날씨에 1~2시간 만에 모든 잎을 떨어뜨렸으며, 주말 관광객들의 아쉬움을 샀다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f4c2b978c21a",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "\"재산 220조\" 불륜 인정한 젠슨 황, 이혼시 위자료 110조 폭탄?…\"엔비디아 또다른 뇌관\"",
+      "link": "https://www.etnews.com/20261109000414",
+      "publishedAt": "2026-11-09T08:46:27.000Z",
+      "description": "젠슨 황 엔비디아 최고경영자(CEO)의 사생활 논란이 불거지면서 그가 보유한 천문학적인 재산에도 관심이 집중되고 있다. 이혼할 경우 배우자에게 최대 110조원가량이 돌아갈 수 있다는 추산도 제기됐다. 9일(현지시간) 미국 경제 전문지 포브스의 억만장자 순위에 따르면 황 CEO의 순자산은 1622억달러(약 220조원)로 집계됐다. 전 세계 부호 가운데 8위에 해당하는 규모다. 황 CEO는 1993년 엔비디아를 공동 설립한 뒤 현재까지 경영을 총괄",
+      "author": "이원지",
+      "summary": "불륜 논란을 인정한 젠슨 황 엔비디아 CEO의 순자산은 약 220조원이며, 이혼 시 배우자에게 최대 110조원의 위자료가 돌아갈 수 있다는 분석이 제기됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "cdb59b4bd4ca",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "지진 10분 만에 달려와 '생얼 방송' 日 아나운서…\"지진 때마다 그랬다\"",
+      "link": "https://www.etnews.com/20261109000409",
+      "publishedAt": "2026-11-09T08:18:56.000Z",
+      "description": "일본 공영방송 NHK의 여성 아나운서가 한밤중 발생한 지진에 대응하기 위해 화장기 없는 얼굴과 안경 차림으로 긴급 뉴스를 진행해 현지에서 주목받고 있다. 9일(현지시간) 닛칸스포츠에 따르면 NHK 나가노방송국의 이나이 사야카 아나운서는 최근 지진 관련 속보를 전달한 모습이 사회관계망서비스(SNS)를 통해 확산하면서 일본 누리꾼들의 호평을 받고 있다. 일본 기상청 발표를 보면 전날 오전 1시4분경 시즈오카현 서쪽 지역에서 규모 5.7의 지진이 일",
+      "author": "이원지",
+      "summary": "NHK 나가노방송국의 이나이 사야카 아나운서는 규모 5.7의 지진 발생 10분 만에 화장 없이 긴급 뉴스를 진행했으며, 일본 누리꾼들의 호평을 받았다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "64b078084803",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "가업상속공제 놓고 여야 '충돌'…종부세 강화엔 나란히 제동",
+      "link": "https://www.mk.co.kr/news/economy/12203086",
+      "publishedAt": "2026-11-09T14:48:57.000Z",
+      "description": "與 “가업상속 혜택 지나치게 확대” 野 “기업 승계 막는 탁상행정” 종부세 인상엔 여당도 의문 제기올해 세법개정안 처리가 본격화된 가운데 가업상속공제를 놓고 여야의 입장이 정면으로..",
+      "author": "매일경제",
+      "summary": "가업상속공제 규모 확대를 놓고 여야가 대립하고 있으며, 종부세 강화에 대해서는 여당도 의문을 제기했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7e19e8e2101e",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "EU, 국경 시스템 납기 지연으로 IBM과 유럽 기업 2곳 상대 소송",
+      "link": "https://www.theguardian.com/world/2026/nov/09/eu-lawsuit-ibm-atos-leonardo-entry-exit-border-system",
+      "publishedAt": "2026-11-09T14:24:26.000Z",
+      "description": "Lawsuit filed last year against IBM, Atos and Leonardo after delays to delivery to troubled new system The EU has filed a lawsuit against IBM and two other companies involved in its troubled border-management system, an internal document has revealed. The bloc’s IT agency, EU-Lisa, filed a case last year against IBM, the French IT company Atos and Italian defence contractor Leonardo, the three members of a consortium to implement and maintain the EU’s entry/exit system, which was launched in October 2025. Continue reading...",
+      "author": "Jennifer Rankin in Brussels",
+      "summary": "EU가 2025년 발족한 국경 출입시스템 구현을 맡은 IBM, Atos, Leonardo를 납기 지연 관련으로 소송했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c8d3e9c97fc2",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "템스워터, 200억 파운드 부채 상환 기한 연기 요청",
+      "link": "https://www.theguardian.com/business/2026/nov/09/thames-water-asks-creditors-more-time-repay-debt-pile",
+      "publishedAt": "2026-11-09T14:08:09.000Z",
+      "description": "Troubled utility lobbies for deadline on part of the debt to be extended to March 2028 Thames Water has asked creditors for more time to pay back billions of pounds in debt, as the water company scrambles to keep itself afloat. The UK’s largest water company said it had proposed an “interim” deal under which the deadline to pay off an unspecified portion of the £20bn of debt on its balance sheet would be extended from 2027 to March 2028. Continue reading...",
+      "author": "Lauren Almeida and Jasper Jolly",
+      "summary": "영국 최대 수도회사 템스워터(Thames Water)가 200억 파운드 규모 부채의 상환 기한을 2028년 3월로 연기해 달라고 채권자에게 요청했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "afd4e29a676d",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "[단독] 정부가 낸 법안에 정부가 '유감'…호텔·병원 가업상속 혜택 놓고 부처 이견",
+      "link": "https://www.mk.co.kr/news/economy/12203045",
+      "publishedAt": "2026-11-09T13:59:50.000Z",
+      "description": "세제개편안 놓고 진통 계속 병원·약국 등 업종 제외에 복지부도 “필수의료 위태” 조승래 “정책 정합성 따져봐야” 野, 병원·호텔 포함 지원법 발의정부가 지난 8월부터 가업상속공제 ..",
+      "author": "매일경제",
+      "summary": "가업상속공제에서 병원과 호텔 등을 제외하는 정부안을 놓고 복지부는 필수의료가 위태로워진다며 의견을 달리했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "aed127e9be33",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "영국의 생활비 상승이 넷제로 목표에 미치는 영향",
+      "link": "https://www.bbc.co.uk/news/videos/cm1dwd4e4ywvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-09T13:42:03.000Z",
+      "description": "From floods to wildfires to heatwaves, 2026 is the year it became hard to ignore the impact of climate change on UK weather. But will soaring living costs affect the government’s commitment to tackling climate change?",
+      "author": null,
+      "summary": "2026년 홍수, 산불, 폭염 등 기후변화 영향이 가시화된 가운데, 치솟는 생활비가 영국 정부의 넷제로 목표 추진을 어렵게 할 수 있다는 우려가 제기됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0398bfe8467c",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "'블루 쓰나미'에 흔들린 AI주…10일 밤 美 CPI발표에 촉각",
+      "link": "https://www.mk.co.kr/news/stock/12203028",
+      "publishedAt": "2026-11-09T13:36:06.000Z",
+      "description": "지난주 미국 중간선거의 ‘블루 쓰나미’가 세계 증시를 덮쳤다. 민주당이 상·하원을 모두 확보하면서 AI 산업 규제 우려가 확산했다. 5일(현지시간) 나스닥은 5% 넘게, 반도체지수..",
+      "author": "매일경제",
+      "summary": "미국 중간선거에서 민주당이 상·하원을 장악하면서 AI 산업 규제 우려가 확산했고, 나스닥과 반도체지수가 5% 이상 하락했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "45a448d02524",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "만들기만 하면 떼돈 벌던 소프트웨어…AI는 왜 데이터센터에 돈을 쏟아붓나",
+      "link": "https://www.mk.co.kr/news/stock/12202975",
+      "publishedAt": "2026-11-09T12:57:10.000Z",
+      "description": "윈도우와 챗GPT로 살핀 AI의 비용과 수익거래처에 납품이 사흘 늦어진다는 이메일을 보내야 한다. 챗GPT에 사정을 설명하면 곧 초안이 나온다. 내용은 맞지만 오래 거래한 회사에 ..",
+      "author": "매일경제",
+      "summary": "소프트웨어와 달리 AI는 데이터센터에 막대한 투자를 요구하는 높은 비용 구조를 가지고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1f4beda6af34",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "새 빈틈 노린 해커…금융 플랫폼 통해 법카 부정결제 잇단 시도",
+      "link": "https://www.yna.co.kr/view/AKR20261109157200002",
+      "publishedAt": "2026-11-09T12:35:34.000Z",
+      "description": "(서울=연합뉴스) 김지연 강류나 기자 = 스타트업들에 법인카드 발급·지출 관련 서비스를 제공하는 국내 핀테크 플랫폼이 해킹 공격을 받아 일부 카...",
+      "author": "강류나",
+      "summary": "법인카드 서비스를 제공하는 국내 핀테크 플랫폼이 해킹을 당해 부정결제 시도가 잇따르고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5c6dd9fddadc",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "정부의 전기차 보급 목표, 이번 주 하향 조정될 것으로 예상",
+      "link": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-09T12:06:22.000Z",
+      "description": "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission.",
+      "author": null,
+      "summary": "정부가 이번 주 전기차 보급 목표를 조정할 것으로 예상되며, 현재는 2030년 신규 휘발유·디젤차 판매 금지 목표를 추진 중이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "46d57b08acd0",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "파리바게뜨, 16일부터 제조 음료 10종 가격 평균 2.7% 인상",
+      "link": "https://www.yna.co.kr/view/AKR20261109156300030",
+      "publishedAt": "2026-11-09T11:49:34.000Z",
+      "description": "(서울=연합뉴스) 한주홍 기자 = 파리바게뜨는 오는 16일부터 제조 음료 10종의 가격을 평균 2.7% 올린다고 9일 밝혔다.",
+      "author": "한주홍",
+      "summary": "파리바게뜨가 16일부터 제조 음료 10종의 가격을 평균 2.7% 인상한다고 발표했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "00a7e458c383",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "與주도 법사위 '대법관 격려금' 예산 3억여원 삭감",
+      "link": "https://www.donga.com/news/Politics/article/all/20261109/134995573/1",
+      "publishedAt": "2026-11-09T13:26:00.000Z",
+      "description": "국회 법제사법위원회 예산결산심사소위원회가 9일 여당 주도로 대법관 격려금 예산 3억여 원을 삭감했다.법사위는 이날 예산결산심사소위원회를 열고 법무부와 대법원 등의 내년도 예산안을 의결했다. 예산 심사 보이콧을 선언한 국민의힘 소속 법사위원들은 회의에 참석하지 않았다. 예결소위 소속 여당 위원들은 대법원이 제출한 본부 기본경비 예산 가운데 대법관 격려금에 해당하는 3억2400만 원을 삭감했다. 앞서 감사원은 8월 대법원 정기감사 결과를 발표하면서 법원행정처가 2022년부터 2025년 9월까지 대법관 12명과 법원행정처장에게 격려금을 지급했다고 밝혔다. 대법관은 월평균 200만 원, 법원행정처장은 300만 원가량을 받은 것으로 파악됐다. 감사원은 이 격려금에 법령상 지급 근거가 없다고 지적했다.한편 법무부 소관 일반회계 세출 예산은 781억5500만 원, 범죄피해자보호기금 지출은 53억3800만 원 각각 증액됐다. 고위공직자범죄수사처(공수처) 소관 세출 예산도 27억2900만 원",
+      "author": null,
+      "summary": "국회 법사위가 여당 주도로 법령상 근거 없이 지급된 대법관 격려금 3억2400만 원을 예산에서 삭감했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "fde591900798",
+      "category": "politics",
+      "source": "SBS 뉴스",
+      "region": "kr",
+      "title": "'실거주 구분없이 14억' 요구했지만…속타는 민주당",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008837869",
+      "publishedAt": "2026-11-09T13:23:00.000Z",
+      "description": "집에 실제로 살고 있는지와 상관없이 집이 한 채라면 종합부동산세 공제 기준을 14억 원으로 통일하자고 민주당이 연일 목소리를 높이고 있습니다. …",
+      "author": "spirit@sbs.co.kr (김관진)",
+      "summary": "민주당이 실거주 여부와 관계없이 종합부동산세 기본공제 기준을 주택 1채당 14억 원으로 통일하는 방안을 요구하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "fd4c7352920b",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "육사 충청권 이전·유지 검토…'3사 통합' 절충안",
+      "link": "https://www.khan.co.kr/article/202611092149015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-11-09T12:49:01.000Z",
+      "description": "국방부, 세종시 32사단 인근 거론해사·공사는 기존 부지에 남을 듯졸업과 동시에 석사…5년제 거론강신철 “사관학교 폐교 생각 없어”통합교육·사관학교별 교육 병행…대학원 과정 1년 추가안도국방부가 육군사관학교를 충청권으로 이전해 유지하는 방안을 검토하고 있는 것으로 파악됐다. 국방부는 3군 사관학교 전면 통합이 아니라 신설되는 국군사관학교와 기존 3군 사관학···",
+      "author": "김병관·강연주 기자",
+      "summary": "국방부가 육군사관학교의 충청권 이전을 검토하고 있으며, 3군 사관학교 전면 통합 대신 절충안을 추진하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2589b61402f1",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "[포토뉴스]'가장 오래된 궁궐 문' 창덕궁 돈화문 새단장 한창",
+      "link": "https://www.khan.co.kr/article/202611092149005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-11-09T12:49:00.000Z",
+      "description": "현존하는 궁궐 정문 중 가장 오래된 창덕궁 돈화문이 9일 본격적인 보수공사에 들어갔다. 태종 12년(1412년) 처음 건립된 돈화문은 임진왜란 때 소실되었다가 광해군 1년(1609년)에 세워진 대한민국 보물이다.",
+      "author": "문재원 기자",
+      "summary": "1412년 건립되어 현존하는 궁궐 정문 중 가장 오래된 창덕궁 돈화문이 9일 본격적인 보수공사에 들어갔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a240aba22db9",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "\"지구기온 상승폭 '1.5도' 억제, 어렵더라도 해보자\"…COP31 개막",
+      "link": "https://www.khan.co.kr/article/202611092148005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-11-09T12:48:00.000Z",
+      "description": "튀르키예서 198개 당사국 참석네팔 돌발홍수 참사 이후…‘취약 개발도상국 지원’ 쟁점 전망지구 평균기온 상승폭을 산업화 이전 대비 1.5도 이내로 제한한다는 국제사회의 목표를 사실상 달성하기 어려워진 상황에서 제31차 유엔기후변화협약 당사국총회(COP31)가 9일(현지시간) 튀르키예 안탈리아에서 개막했다. 총회 의장단은 1.5도 초과가 불가피해지더라도 목표···",
+      "author": "안탈리아(튀르키예) | 오경민 기자",
+      "summary": "지구 평균기온 상승폭을 1.5도 이내로 제한하는 목표 달성이 어려워진 상황에서 제31차 유엔기후변화협약 당사국총회가 튀르키예에서 개막했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e1fc5a689b12",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "민주당·청와대 '종부세 공제 한도' 놓고 이견…국회 논의 충돌 불가피",
+      "link": "https://www.khan.co.kr/article/202611092132015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-11-09T12:32:01.000Z",
+      "description": "당 “비거주 1주택도 14억으로 완화” 요구에 청 “12억 유지” 입장청 “시장에 잘못된 신호 줄 우려” 난색…여당 “조율 쉽지 않을 듯”더불어민주당이 종합부동산세 기본공제 기준선을 실거주 여부와 관계 없이 주택 가액 14억원으로 통일하는 방안을 강력히 요구했다고 밝혔다. 사진은 9일 서울 강남구 공인중개사에 게시된 아파트 매물. 연합뉴스 더불어민주당과 청···",
+      "author": "심윤지·김윤나영·강한들 기자",
+      "summary": "민주당은 종합부동산세 공제 기준을 14억 원으로 통일하기를 요구하는 반면, 청와대는 12억 원 유지 입장으로 의견이 엇갈렸다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a2425e09bc2b",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "與 법사위 예결소위, '대법관 격려금' 3억2천만원 삭감",
+      "link": "https://www.yna.co.kr/view/AKR20261109155600001",
+      "publishedAt": "2026-11-09T12:05:12.000Z",
+      "description": "(서울=연합뉴스) 정연솔 기자 = 국회 법제사법위원회 예산결산기금심사소위원회는 9일 회의를 열어 법무부와 대법원 등 소관 6개 기관의 2027년...",
+      "author": "정연솔",
+      "summary": "국회 법사위 예산결산기금심사소위원회가 법원의 2027년 예산안 심사 과정에서 대법관 격려금 3억2천만 원을 삭감했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "13ae77f22582",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "김원이 민주당 의원, 단식 11일만에 병원 이송(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261109142351054",
+      "publishedAt": "2026-11-09T11:11:12.000Z",
+      "description": "(전남광주=연합뉴스) 박철홍 기자 = 김원이(목포) 더불어민주당 의원이 단식 11일 만에 병원으로 이송됐다.",
+      "author": "박철홍",
+      "summary": "김원이 더불어민주당 목포 의원이 11일 동안의 단식 투쟁을 벌인 끝에 병원으로 이송되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "68409a83f875",
+      "category": "politics",
+      "source": "서울신문",
+      "region": "kr",
+      "title": "[단독] 주택 공급 속도 내는 與…'2만㎡ 미만' 정비 구역, 자치구에 인허가권",
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20261109500372",
+      "publishedAt": "2026-11-09T08:59:20.000Z",
+      "description": "더불어민주당이 주택 공급 ‘전격전’을 위해 서울 재개발·재건축 인허가 권한의 일부를 자치구로 이양하는 법안을 추진 중인 가운데, 이양 기준을 ‘2만㎡ 미만’으로 정하는 안을 정부와 협의 중인 것으로 9일 파악됐다. 기존에 추진한 ‘500가구 미만’ 대신에 면적을 기준으로 정해 사업 과정의 혼란을 방지하겠다는 것이다. 하지만 서울시는 권한 이양 자체를 반대하고 있어 향후 진통이 예상된다. 국회 국토교통위원회 소속 민주당 의원은 이날 서울신문과의 통화에서 “서울의 2만㎡ 미만 재개발·재건축 사업에서 정비계획과 사업시행계획 변경 권한을 시에서 자치구에 넘기는 법안을 준비 중”이라면서 “국토교통부와 협의가 마무리되면 발의를 서두를 계획”이라고 말했다. 다른 민주당 의원은 “기존처럼 500가구라는 세대를 기준으로 하면 용적률에 따라 사업 면적이 들쑥날쑥하다”며 “면적 기준 등 체계를 다시 잡아갈 필요가 있다”고 배경을 설명했다. 그간 민주당은 서울시에 정비구역 지정 권한이 집중돼 ‘병목 현상’이 생기면서 정비사업의 속도가 느려졌다며 소규모 정비구역 지정 권한을 자치구에 넘기는 방안을 추진해 왔다. 당초 당정은 500가구 미만을 기준으로 제시했다. 그러나 정비사업이 이",
+      "author": "반영윤·김서호 기자",
+      "summary": "민주당이 서울의 소규모 재개발·재건축 사업(2만㎡ 미만)의 인허가 권한을 서울시에서 자치구로 이양하는 법안을 추진 중이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "43bb91a20afc",
+      "category": "politics",
+      "source": "조선일보",
+      "region": "kr",
+      "title": "출시 임박 GTA6가 뭐기에 전 세계가 들썩...\"美직장인 150만 결근, 10억달러 경제손실\"",
+      "link": "https://www.chosun.com/economy/tech_it/2026/11/09/UBHTMQFOQNAXJAD5H4ZJIMF3X4/",
+      "publishedAt": "2026-11-08T21:00:01.000Z",
+      "description": "",
+      "author": "구동완 기자",
+      "summary": "출시를 앞둔 게임 '그랜드 셀프트 오토 6(GTA6)'로 인해 미국에서 직장인 150만 명의 결근과 약 10억 달러의 경제손실이 예상되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "aef5ca1f6168",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "엔비디아, 젠슨 황 '中스파이 불륜' 의혹에 장중 8%대 급락",
+      "link": "https://www.yna.co.kr/view/AKR20261109160100072",
+      "publishedAt": "2026-11-09T14:55:35.000Z",
+      "description": "(뉴욕=연합뉴스) 임수정 특파원 = 젠슨 황 엔비디아 최고경영자(CEO)가 중국 정보기관과 연계된 스파이로 의심받는 여성 기업인과의 불륜을 인정...",
+      "author": "임수정",
+      "summary": "엔비디아 CEO 젠슨 황이 중국 정보기관과 연계된 여성 기업인과의 불륜을 인정했고, 이로 인해 주가가 8%대 급락했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "764e41efb86a",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "뉴욕증시, 저가매수·유가하락에 상승출발",
+      "link": "https://www.yna.co.kr/view/AKR20261109159900009",
+      "publishedAt": "2026-11-09T14:50:53.000Z",
+      "description": "(서울=연합뉴스) 윤정원 연합인포맥스 기자 = 뉴욕증시의 3대 주가지수는 저가매수세 유입과 유가 하락에 힘입어 상승 출발했다.",
+      "author": "국제뉴스공용1",
+      "summary": "뉴욕증시 3대 주가지수가 저가매수세 유입과 유가 하락의 긍정 요인에 따라 상승세로 출발했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a8711b602f30",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "엔비디아 수사의 중심인물, 중국 스파이 용의자는?",
+      "link": "https://www.bbc.co.uk/news/videos/c80404zyr53wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-09T14:50:35.000Z",
+      "description": "Alice Huang, a Chinese businesswoman, had a close relationship with Nvidia boss Jensen Huang, reports say.",
+      "author": null,
+      "summary": "중국 사업가 앨리스 황이 엔비디아 CEO 젠슨 황과 긴밀한 관계가 있었던 것으로 보도되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "59d89ec5cbc2",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "호르무즈 해협, 이란의 영향력 수단으로 계속 작용",
+      "link": "https://www.dw.com/en/strait-of-hormuz-still-a-source-of-leverage-for-iran/a-79901647?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-11-09T14:49:00.000Z",
+      "description": "Attacks in the Strait of Hormuz put crews at risk and drive up energy shipping costs. Iran's ability to sustain them and the limits of US protection will shape how much trade can continue and at what price.",
+      "author": null,
+      "summary": "호르무즈 해협에서의 공격은 해운 비용을 높이고 있으며, 이란의 공격 지속 능력과 미국 방어 한계가 지역 무역의 규모와 비용을 결정할 것이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d8e607998069",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "러셀 브랜드, 성폭력 혐의로 10년 이상 징역형",
+      "link": "https://www.dw.com/en/russell-brand-sentenced-to-over-10-years-in-prison-for-rape-and-sexual-assault-convictions/a-79896124?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-11-09T14:30:00.000Z",
+      "description": "The former comedian was found guilty of raping one woman and sexually assaulting three others last week. The judge referred to Brand as a \"predator.\"",
+      "author": null,
+      "summary": "전 코미디언 러셀 브랜드가 강간 1건과 성적 학대 3건 혐의로 10년 이상의 징역형을 선고받았다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "573e5cd8134a",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "크레타 해역서 보트 침몰로 13명 사망",
+      "link": "https://www.bbc.co.uk/news/articles/c65ynyxrjdyeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-09T13:50:01.000Z",
+      "description": "The Greek coastguard says it has rescued 18 people, all of whom were Sudanese nationals.",
+      "author": null,
+      "summary": "크레타 인근 해역에서 보트가 침몰해 13명이 사망했고, 그리스 해안경비대가 모두 수단 국적인 18명을 구조했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "63d1d4a297c2",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "공화당의 중간선거 패배 후 의회 복귀, 트럼프 수석참모진 교체",
+      "link": "https://www.npr.org/2026/11/09/g-s1-152627/up-first-newsletter-stephen-miller-trump-congress-nvidia-cop31",
+      "publishedAt": "2026-11-09T12:45:14.000Z",
+      "description": "Republicans have just weeks left of control of Congress. Here's what to expect. And, Trump has appointed Stephen Miller as his new chief of staff, signaling his readiness to confront his opposition.",
+      "author": "Brittney Melton",
+      "summary": "공화당이 의회 통제권을 남은 몇 주만 유지할 예정이며, 트럼프는 스티븐 밀러를 새로운 수석 참모진으로 임명했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c6ee121bbca6",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "이라크 북부 지역 폭풍우로 인한 치명적인 홍수 발생",
+      "link": "https://www.theguardian.com/environment/2026/nov/09/deadly-floods-iraq-thunderstorms-iran-portugal-japan-snow",
+      "publishedAt": "2026-11-09T10:59:06.000Z",
+      "description": "Violent storms lash northern Iraq and parts of Iran, while Portugal faces strong winds and Japan braces for further snowfall Deadly flash floods hit northern Iraq on Saturday as severe thunderstorms swept across the region, including in neighbouring Iran. The city of Erbil, in Iraq, was particularly badly hit, with extensive damage to homes and businesses. Streets were inundated as torrential rain fell over a short period. Rainfall exceeded forecasts, with an estimated 80mm falling in the city, compared with expectations of 30mm. Two people were killed in the floods. Continue reading...",
+      "author": "Oliver Wyndham-Lewis and Magdalena Shopova for the MetDesk",
+      "summary": "강한 폭풍우로 인한 이라크 북부의 치명적 홍수로 2명이 사망했으며, 에르빌시에 예상치보다 2배 이상의 폭우가 내려 광범위한 피해가 발생했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "11c9565c80d0",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "한국 도시, AI에 대항하기 위해 미국 대학과 협력",
+      "link": "https://www.npr.org/2026/11/09/g-s1-151519/why-a-south-korean-city-is-turning-to-a-u-s-college-to-outsmart-ai",
+      "publishedAt": "2026-11-09T10:47:00.000Z",
+      "description": "Through civic participation and liberal education, South Korean educators hope to \"quietly stitch the fabric of our democracy…before it unravels beyond repair.\"",
+      "author": "Anthony Kuhn",
+      "summary": "한국의 교육자들이 시민 참여와 자유 교육을 통해 민주주의가 훼손되기 전에 사회 결속을 지키고자 미국 대학과 협력하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "55b9b8d140b9",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "교황 레오 14세, 아르헨티나 방문 중 밀레이 긴축정책 강하게 비판",
+      "link": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity",
+      "publishedAt": "2026-11-09T02:11:25.000Z",
+      "description": "Pontiff tells Argentina’s president the economy must benefit all on second stop of 12-day Latin America tour Pope Leo XIV has delivered a stinging critique of Argentine president Javier Milei’s harsh austerity measures, insisting growth must benefit all in a speech met with rapturous applause in Buenos Aires. “The economy must be at the service of the people, rather than people being at the service of the economy,” he said on Sunday, shortly after landing in Argentina on the second leg of a Latin America tour. Continue reading...",
+      "author": "Agence France-Presse",
+      "summary": "교황 레오 14세는 아르헨티나 방문 중 대통령 자비에르 밀레이의 긴축정책을 신랄하게 비판하며, 경제는 국민을 위해 봉사해야 한다고 강조했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d8180c425356",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]'일하는 국회법' 만든 지 6년… 지킬 시늉조차 않는 여야",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261109/134995544/2",
+      "publishedAt": "2026-11-09T14:30:00.000Z",
+      "description": "이른바 ‘일하는 국회법’이 제정된 지 6년이 됐지만 22대 국회 들어 2년 반 동안 이 법을 지킨 상임위원회는 한 곳도 없는 것으로 나타났다. 국회사무처가 22대 국회 17개 상임위의 회의 건수를 분석한 결과, 일하는 국회법에 따라 매달 상임위 전체회의를 최소 2회, 법안심사소위를 최소 3회 개최한 상임위는 0곳이었다. 여야가 스스로 만든 법조차 유명무실화한 것이다. 여야는 1년 내내 국회를 여는 상시 국회와 상임위의 정례화를 위해 회의 의무 개최 횟수(전체회의 2회, 법안소위 3회)를 규정한 국회법 개정안을 2020년 말 통과시키고 이듬해 3월 시행에 들어갔다. 과거 군사정권 시절에는 ‘국회는 연 150일을 초과해 개회할 수 없다’는 헌법 규정으로 인해 일하고 싶어도 일하지 못했다며 개정안을 ‘일하는 국회법’이라고 명명했다. 하지만 그뿐이었다. 시행 초기부터 최소한의 의무를 다한 상임위는 없었다. 이번 22대 국회 들어서도 마찬가지였다. 국회법상 회의 의무 개최 횟수를 지킨 상",
+      "author": null,
+      "summary": "여야가 2020년 시행한 '일하는 국회법'을 지킨 상임위가 한 곳도 없다며, 스스로 만든 법을 유명무실화하고 있다고 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d65fffee6a56",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]\"중국은 저리 뛰는데 우리는 충분히 절박한가\"",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261109/134995548/2",
+      "publishedAt": "2026-11-09T14:27:00.000Z",
+      "description": "김정관 산업통상부 장관이 최근 중국 출장을 다녀온 뒤 소셜미디어에 “중국은 저렇게 뛰고 있는데 우리는 충분히 절박한가”라는 자성의 글을 올렸다. 현지에서 확인한 중국의 변화와 발전 속도에 놀라움을 넘어 깊은 위기감을 느꼈다는 고백이다. 특히 “기업들이 최대한 뛸 수 있도록 중국은 온 나라가 나서는데, 우리는 그러고 있느냐”는 한 현지 진출 기업인의 질문이 가장 기억에 남는다며 “가슴이 답답했다”고 털어놨다. 중국 정부의 전폭적인 지원에 힘입어 중국 기업들의 기술력은 이미 한국 기업들을 압도하고 있다. 과거 우리가 앞섰던 분야에서도 이제는 오히려 중국을 추격해야 하는 상황이 됐다. 한국이 독식하던 고부가가치 선박인 대형 액화천연가스(LNG) 운반선 시장마저 지난달 전 세계 발주량 7척 중 5척을 중국이 싹쓸이하며 역전당했다. 세계 1위에 올라선 중국 전기차는 압도적인 가격 경쟁력을 무기로 세계 시장을 잠식하고 있다. 글로벌 기업분석기관 블룸버그 인텔리전스는 2030년까지 17개 미래",
+      "author": null,
+      "summary": "중국 기업들의 기술력이 한국을 압도하고 있으며, LNG 운반선과 전기차 시장까지 역전 당하고 있다며 정부와 기업이 더 절박한 위기의식을 가져야 한다고 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6edc513a8f37",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "실업 후 재취업의 벽: 호주의 구조적 배제",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/10/when-i-became-unemployed-i-expected-to-find-a-job-in-no-time-as-months-passed-i-realised-i-was-being-shunned",
+      "publishedAt": "2026-11-09T14:00:11.000Z",
+      "description": "The jobless are the sacrificial lambs of Australia’s monetary policy. I remain shocked that the lucky country actively excludes so many from a chance at its luck The causes of finding yourself out of work are many. Being made redundant, having a contract not renewed, bullied into resigning, your own business failing to keep up. Maybe you left a job for health or safety reasons. I was made redundant at the end of 2018. For five years I tried to run a solo business, including through Covid lockdowns. Eventually, with no more resources of my own, having sold everything of value, I had no choice b",
+      "author": "John Emerson",
+      "summary": "저자가 2018년 해고 후 자영업과 팬데믹을 거치면서 사회적 배제와 재취업의 어려움을 경험했으며, 호주의 통화정책이 실업자들을 희생양으로 삼고 있다고 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "612b62d2f13f",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "반격의 시간: 선거 후 민주당이 해야 할 일",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/08/time-to-fight-back",
+      "publishedAt": "2026-11-09T13:15:54.000Z",
+      "description": "Democrats have taken control of Congress in a sweeping blue wave – now the real work begins Welcome to a special edition of How We Win, a Guardian opinion series with leading thinkers, offering bold ideas for America’s political future. Sign up here to receive future editions in your inbox. Continue reading...",
+      "author": "Robert Reich, Wajahat Ali, Katie Phang, Judd Legum and Charles Blow",
+      "summary": "민주당이 선거에서 승리한 후 미국의 정치적 미래를 위해 무엇을 해야 하는지를 주제로 5명의 저명한 사상가들이 의견을 제시했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3f83589b9b7c",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "2026년 중간선거가 보여준 미국 정치의 변화",
+      "link": "https://www.nytimes.com/2026/11/07/opinion/america-midterms-democrats-trump.html",
+      "publishedAt": "2026-11-09T13:01:37.000Z",
+      "description": "What the spectacular midterms showed.",
+      "author": "Lydia Polgreen",
+      "summary": "2026년 중간선거의 극적 결과가 미국의 정치 체계와 민주주의의 현황을 어떻게 드러냈는지를 분석했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b15e05899ca7",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "NATO 비가입 상황에서 우크라이나 방어 방안",
+      "link": "https://www.washingtonpost.com/opinions/2026/11/09/new-security-alliance-could-protect-ukraine-without-nato/",
+      "publishedAt": "2026-11-09T12:30:00.000Z",
+      "description": "Western troops could help defend Ukraine in a future war without bringing it into the alliance.",
+      "author": "Lise Howard, Michael O'Hanlon",
+      "summary": "NATO 가입 없이도 서방 국가들의 군사 지원을 통해 향후 전쟁에서 우크라이나를 방어할 수 있는 방안을 제시했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d5e1366a2462",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "Claude와 영혼의 문제: 기술이 아닌 신학의 질문",
+      "link": "https://www.washingtonpost.com/opinions/2026/11/09/artificial-intelligence-raises-an-ancient-religious-question/",
+      "publishedAt": "2026-11-09T12:30:00.000Z",
+      "description": "The question isn’t just whether machines can think. It’s whether they can feel.",
+      "author": "Shadi Hamid",
+      "summary": "Claude 같은 AI가 사고 능력뿐 아니라 감정을 느낄 수 있는지 여부가 중요한 질문이며, 이는 기술 회사가 아닌 종교와 신학의 영역이라고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "39194873a957",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[오항녕의 독사관견 讀史管見]마음이 어떻게 논쟁이 될 수 있나?",
+      "link": "https://www.khan.co.kr/article/202611092015005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-11-09T11:15:00.000Z",
+      "description": "선불교는 마음공부의 커리큘럼을 축적했다 성리학의 마음공부는 불교가 없었다면 체계 자체가 불가능했다 그래서 조선시대에는 지식·수행이 가까이 있었다 반면 현대 학문은 인간의 마음을 묻지 않았다 그만큼 새 자본주의 문명이 들춰 만든 욕망은 방임됐다 이제 다시 인간의 마음은 위태롭다는 걸 인정하자 마음은 공부하면 다스려져 다스린 만큼 내가 편안하다···",
+      "author": "오항녕 전주대 명예교수",
+      "summary": "현대 학문과 자본주의 문명이 인간의 마음을 소외시켰다며, 조선시대 불교와 성리학의 지식·수행 통합 전통으로 돌아가야 한다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "97086dbd01da",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[생각그림]그림 같은 집",
+      "link": "https://www.khan.co.kr/article/202611092011005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-11-09T11:11:00.000Z",
+      "description": "나무에 아크릴 펜(10×15㎝)하늘과 맞닿은 나지막한 언덕 위에 그림 같은 하얀 집을 짓고 살고 싶습니다. 내 좋아하는 것들 모아놓은 작은 공간도 만들고, 내가 먹고 싶은 것들도 조금 키워봅니다. 흘러가는 물을 보며 낚시를 하고, 흘러가는 구름을 보며 나만의 세상을 만들어봅니다. 바람과 햇살과 비와 눈을 친구 삼아 똑같은 하루를 매일 새롭게 시작해봅니다. ···",
+      "author": "김상민 기자",
+      "summary": "시골 언덕의 그림 같은 집에서 자연과 함께 소박하게 살고 싶은 개인의 이상적인 삶의 모습을 표현했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3e29f0babd32",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "민주당의 중간선거 승리와 향후 과제",
+      "link": "https://www.nytimes.com/2026/11/09/opinion/democrats-midterms-populism.html",
+      "publishedAt": "2026-11-09T10:03:38.000Z",
+      "description": "The Democrats still have a long way to go before they can govern the country productively. But the victors of 2026 have started to point the way.",
+      "author": "The Editorial Board",
+      "summary": "민주당의 선거 승리를 평가하면서도 생산적 통치를 위한 과제가 많이 남아 있지만, 새로운 방향성을 제시했다고 평가했다.",
+      "summarySource": "llm"
+    }
+  ],
+  "summarizedAt": "2026-11-10T04:04:03.207Z",
+  "summaryStats": {
+    "llm": 50,
+    "fallback": 0,
+    "model": "claude-haiku-4-5"
+  }
+}
