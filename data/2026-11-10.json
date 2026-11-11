@@ -1,0 +1,898 @@
+{
+  "date": "2026-11-10",
+  "generatedAt": "2026-11-11T01:43:18.605Z",
+  "categories": [
+    {
+      "id": "it",
+      "label": "IT·과학·AI"
+    },
+    {
+      "id": "economy",
+      "label": "경제·금융"
+    },
+    {
+      "id": "politics",
+      "label": "정치·사회"
+    },
+    {
+      "id": "world",
+      "label": "세계·국제"
+    },
+    {
+      "id": "editorial",
+      "label": "사설·칼럼",
+      "opinion": true,
+      "summaryMaxChars": 220
+    }
+  ],
+  "feedStatus": [
+    {
+      "source": "Ars Technica",
+      "category": "it",
+      "ok": true,
+      "matched": 7
+    },
+    {
+      "source": "Hacker News",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "TechCrunch",
+      "category": "it",
+      "ok": true,
+      "matched": 1
+    },
+    {
+      "source": "The Verge",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "블로터",
+      "category": "it",
+      "ok": true,
+      "matched": 7
+    },
+    {
+      "source": "전자신문",
+      "category": "it",
+      "ok": true,
+      "matched": 23
+    },
+    {
+      "source": "ZDNet Korea",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC Business",
+      "category": "economy",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "The Guardian",
+      "category": "economy",
+      "ok": true,
+      "matched": 23
+    },
+    {
+      "source": "매일경제 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 26
+    },
+    {
+      "source": "연합뉴스",
+      "category": "economy",
+      "ok": true,
+      "matched": 28
+    },
+    {
+      "source": "경향신문 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 35
+    },
+    {
+      "source": "경향신문 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 34
+    },
+    {
+      "source": "노컷뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "서울신문",
+      "category": "politics",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "연합뉴스 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "연합뉴스 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 96
+    },
+    {
+      "source": "SBS 뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 20
+    },
+    {
+      "source": "Al Jazeera",
+      "category": "world",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC World",
+      "category": "world",
+      "ok": true,
+      "matched": 13
+    },
+    {
+      "source": "NPR",
+      "category": "world",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "The Guardian",
+      "category": "world",
+      "ok": true,
+      "matched": 10
+    },
+    {
+      "source": "연합뉴스 국제",
+      "category": "world",
+      "ok": true,
+      "matched": 34
+    },
+    {
+      "source": "매일경제 증권",
+      "category": "economy",
+      "ok": true,
+      "matched": 25
+    },
+    {
+      "source": "경향신문 오피니언",
+      "category": "editorial",
+      "ok": true,
+      "matched": 13
+    },
+    {
+      "source": "NYT Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 17
+    },
+    {
+      "source": "The Guardian Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "Washington Post Opinions",
+      "category": "editorial",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "동아일보 사설",
+      "category": "editorial",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "동아일보 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 33
+    },
+    {
+      "source": "조선일보",
+      "category": "politics",
+      "ok": true,
+      "matched": 2
+    },
+    {
+      "source": "동아일보 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "머니투데이",
+      "category": "economy",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "Wired",
+      "category": "it",
+      "ok": true,
+      "matched": 33
+    },
+    {
+      "source": "DW News",
+      "category": "world",
+      "ok": true,
+      "matched": 18
+    }
+  ],
+  "items": [
+    {
+      "id": "d1c0f42e69ec",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "포스코인터, 광양 제2 LNG터미널 준공…장인화 '트리플 코어' 결실",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=678221",
+      "publishedAt": "2026-11-10T14:59:25.000Z",
+      "description": "포스코인터내셔널이 광양 제2 액화천연가스(LNG)터미널을 종합준공하며 국내 LNG 저장·공급 역량을 확대했다. 기존 터미널을 포함한 총 저장용량은 133만㎘로 늘어났다. 가스전 개발부터 LNG 트레이딩, 터미널, 발전으로 이어지는 밸류체인을 강화하는 동시에 포스코그룹의 '트리플 코어' 전략 중 에너지자원 분야의 핵심 인프라를 확충했다는 점에서 의미가 있다.포스코인터내셔널은 10일 광양 제2 LNG터미널에서 종합준공식을 개최했다고 밝혔다. 행사에는 권향엽 국회의원과 박상진 한국산업은행 회장, 강명수 전남광주통합특별시 산업경제부시장,",
+      "author": "김수민 기자",
+      "summary": "포스코인터내셔널이 광양 제2 LNG터미널을 완공하여 국내 LNG 저장·공급 역량을 확대했고, 포스코그룹의 에너지자원 분야 밸류체인 강화의 의미를 갖는다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9b4a70eb8e07",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "목동13단지, 삼성물산 시공사 선정…고급화 경쟁에 '래미안' 가세",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=678214",
+      "publishedAt": "2026-11-10T14:58:18.000Z",
+      "description": "서울 양천구 목동13단지 재건축 시공사로 삼성물산이 선정됐다. 삼성물산이 목동신시가지에서 처음으로 래미안 시공권을 확보하면서 대형 건설사들의 고급 주거단지 조성 경쟁에 합류했다. 삼성물산은 목동13단지에 특화설계를 제안한 데 이어 인접한 9단지의 추가 수주도 추진하고 있다. 단독 응찰 끝 2조3763억 시공권 확보10일 금융감독원 전자공시에 따르면 삼성물산은 이달 7일 열린 목동13단지 토지등소유자 전체회의에서 시공사로 선정됐다. 사업시행자인 대신자산신탁이 개최한 전체회의에는 부재자 투표를 포함해 1884명이 참여했다. 이 가운데",
+      "author": "최민수 기자",
+      "summary": "삼성물산이 서울 목동13단지 재건축의 시공사로 선정되어 목동신시가지에서 처음으로 래미안 브랜드로 고급 주거단지를 조성하게 되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "952761630128",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "엔비디아(Nvidia)의 젠슨 황 리스크, 명확한 후계자 부재",
+      "link": "https://arstechnica.com/gadgets/2026/11/nvidia-has-a-jensen-huang-problem-and-no-obvious-successor/",
+      "publishedAt": "2026-11-10T14:53:05.000Z",
+      "description": "Huang faces a board probe as investors fret over Nvidia’s lack of a clear successor.",
+      "author": "Michael Acton, Financial Times",
+      "summary": "엔비디아의 투자자들이 명확한 후계자 부족을 우려하면서 젠슨 황 CEO가 이사회 조사를 받고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "50bad3cfec03",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "FDA, GLP-1 약물의 시력 상실 유발 희귀질환 위험 경고",
+      "link": "https://arstechnica.com/health/2026/11/glp-1-drugs-may-increase-risk-of-vision-loss-from-rare-condition-fda-warns/",
+      "publishedAt": "2026-11-10T14:43:49.000Z",
+      "description": "The risk appears small and data is mixed, but FDA wants patients to be aware.",
+      "author": "Beth Mole",
+      "summary": "미국 FDA가 GLP-1 계열 약물이 시력 상실을 유발하는 희귀 질환의 위험을 초래할 수 있다고 경고했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d10ce5761f29",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "어도비, 포토샵·프리미어·파이어플라이에 AI 에이전트 추가",
+      "link": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+      "publishedAt": "2026-11-10T14:05:10.000Z",
+      "description": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
+      "author": "Ivan Mehta",
+      "summary": "어도비가 포토샵, 프리미어, 파이어플라이에 AI 에이전트와 신규 창작 도구를 추가하여 피그마(Figma)에 대항하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "4897ecf57163",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "로코, 미니 미니 냉장고 출시",
+      "link": "https://www.wired.com/story/rocco-made-a-mini-version-of-its-mini-fridge/",
+      "publishedAt": "2026-11-10T14:00:00.000Z",
+      "description": "The new Mini Mini holds 12 cans and fits on a countertop. And if you buy a full-sized Rocco fridge, you can take $50 off the little one.",
+      "author": "Kat Merck",
+      "summary": "로코가 캔 12개를 수용할 수 있는 소형 냉장고 '미니 미니'를 출시했으며, 풀사이즈 냉장고 구매 시 소형 냉장고 할인이 제공된다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f949b31b74b5",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "4DX 영화, 로맨스 장르로의 확장",
+      "link": "https://www.wired.com/story/4dx-movies-horny-romances-wicker-heated-rivalry/",
+      "publishedAt": "2026-11-10T14:00:00.000Z",
+      "description": "From Heated Rivalry to Wicker, the movie format that embraces thrusting chairs and splashing the crowd is catering to those who want a horny communal theatergoing experience.",
+      "author": "Ej Dickson",
+      "summary": "4DX 영화 형식이 가열식 의자와 물 분사 등을 활용하여 에로틱한 로맨스 영화의 몰입감을 높이는 방향으로 확대되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e835a66b8bda",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "AI 전문가를 위한 새로운 리눅스 데스크톱 OS 등장",
+      "link": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
+      "publishedAt": "2026-11-10T14:00:00.000Z",
+      "description": "Built by Cyanogen’s cofounder, Kora is a next-gen alternative to Windows and macOS built for power users running local AI models.",
+      "author": "Reece Rogers",
+      "summary": "사이아노젠 공동창립자가 개발한 코라(Kora) OS는 로컬 AI 모델 실행에 최적화된 리눅스 기반 운영체제로 파워 사용자를 위해 설계되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2ddfed5e71c7",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "발에 바퀴 단 '아틀라스'…360도 회전 점프까지",
+      "link": "https://www.etnews.com/20261110000302",
+      "publishedAt": "2026-11-10T13:30:00.000Z",
+      "description": "보스턴다이내믹스가 발 대신 바퀴를 장착한 휴머노이드 로봇 '아틀라스'의 실험 영상을 공개했습니다. 연구진은 별도로 제작한 연결 부품 하나를 이용해 기존 발을 스쿠터용 바퀴로 교체했습니다. 이렇게 개조된 아틀라스는 좌우로 미끄러지듯 이동하고, 공중에서 360도 회전하는 점프까지 선보였습니다. 이 가운데 좌우 이동은 AI가 바퀴를 활용하는 방법을 스스로 학습한 결과입니다. 360도 점프는 사람의 동작을 기록한 데이터를 활용했으며, 첫 시도에서 성공",
+      "author": "이창민",
+      "summary": "보스턴다이내믹스가 바퀴 달린 휴머노이드 로봇 아틀라스의 실험 영상을 공개했으며, 좌우 이동은 AI 학습 결과이고 360도 점프는 인간 동작 데이터를 기반으로 했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5ae230aaf66d",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "160만닉스·30만전자 vs 470만닉스·67만전자…극과 극 전망? 개미들 \"아무도 못믿어\"",
+      "link": "https://www.etnews.com/20261110000500",
+      "publishedAt": "2026-11-10T12:46:36.000Z",
+      "description": "글로벌 투자은행(IB)들의 삼성전자와 SK하이닉스 목표주가가 극명하게 엇갈렸다. 모건스탠리는 SK하이닉스 목표주가를 160만원으로 낮춘 반면 노무라증권은 470만원을 유지했다. 삼성전자 역시 모건스탠리는 30만9000원, 노무라는 67만원을 제시했다. 같은 반도체 호황을 두고 한쪽은 공급과잉을, 다른 한쪽은 공급 부족 지속을 예상한 것이다. 10일 금융투자업계에 따르면 모건스탠리는 SK하이닉스 목표주가를 기존 260만원에서 160만원으로 38%",
+      "author": "이상목",
+      "summary": "글로벌 투자은행들이 SK하이닉스와 삼성전자의 목표주가에서 극명한 의견 차를 보이고 있으며, 공급 과잉과 공급 부족에 대한 상이한 전망이 반영되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "381e9609352a",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "10월 미국 인플레이션 예상 초과",
+      "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-10T14:45:46.000Z",
+      "description": "Prices rose by 0.4% over the month, driven by increases in shelter, food and energy costs.",
+      "author": null,
+      "summary": "10월 월간 물가가 0.4% 상승했으며, 주택임차료와 식료품, 에너지 가격이 상승을 주도했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c8957e9e0559",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "석기시대식 친환경 건축, 미래 빌딩의 방향인가",
+      "link": "https://www.theguardian.com/artanddesign/2026/nov/10/petra-heights-flintstones-style-towers-future-of-eco-building",
+      "publishedAt": "2026-11-10T14:25:29.000Z",
+      "description": "Ruggedly good-looking and greener than bricks and concrete, Petra Heights are made of three-metre slabs of rough rock. Could they herald a new stone age? Our writer fires up his Flintmobile There’s been a geological eruption on London’s Finchley Road. Great chunks of pink basalt and igneous larvikite appear to have exploded from the railway cutting, shooting skywards to form teetering towers. Anyone trying to find Finchley Road & Frognal station need wonder no more: just look for the multistorey Stonehenge. Countless apartment towers have sprouted above London’s stations in recent years, a res",
+      "author": "Oliver Wainwright",
+      "summary": "런던에 건설 중인 페트라 하이츠는 3미터 규모의 돌 슬라브로 지어져 벽돌과 콘크리트보다 친환경적이며 새로운 석조 건축의 미래를 시사한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "bf512f0a9152",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "몰래 5개 직업 유지한 공무원 사기 유죄",
+      "link": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-10T13:39:28.000Z",
+      "description": "Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries.",
+      "author": null,
+      "summary": "공무원이 여러 공공부문 직을 동시에 전임직 급여로 비밀리에 유지한 혐의로 사기 유죄 판결을 받았다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ac8a574c8540",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "IT 거대 기업들, 억만장자 부의세 제안 무산",
+      "link": "https://www.theguardian.com/us-news/2026/nov/10/california-billionaire-tax-opposition",
+      "publishedAt": "2026-11-10T13:19:35.000Z",
+      "description": "California saw the most expensive opposition campaign in its history as funding of political campaigns broke records in the US midterms In the hours after polls closed on election day, tech industry players began praising Sergey Brin, the co-founder of Google, on social media. “Huge thanks to Sergey Brin here,” wrote Garry Tan, the CEO of Y Combinator. Venture capitalist Ilya Sukhar posted: “God bless Sergey Brin.” And David Marcus, a crypto entrepreneur, simply wrote: “Hero.” Continue reading...",
+      "author": "Dara Kerr",
+      "summary": "기술 산업 지도자들이 4억2500만 달러를 투입해 캘리포니아의 억만장자 부의세 제안을 반대하는 가장 비싼 캠페인을 전개했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1cbb914fe998",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "공무원 92% \"퇴직 후 5년 소득 공백 걱정\"",
+      "link": "https://www.mk.co.kr/news/economy/12204444",
+      "publishedAt": "2026-11-10T12:51:51.000Z",
+      "description": "퇴직공무원 절반 “월 200만원 모자라” 60% “퇴직수당 예상보다 빨리 소진” “정년 연장때 임금삭감 방식 지양해야”정년퇴직 후 공무원연금을 받기 전까지 소득공백이 발생할 것으로..",
+      "author": "매일경제",
+      "summary": "60세 정년 퇴직 후 65세부터 연금을 받기까지 5년간의 소득 공백이 발생하면서 공무원들이 생활비 부족을 우려하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "41045cf794d0",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "빚 독촉하며 성관계 강요한 사금융업자 구속",
+      "link": "https://www.yna.co.kr/view/AKR20261110176400004",
+      "publishedAt": "2026-11-10T12:32:18.000Z",
+      "description": "(서울=연합뉴스) 양수연 기자 = 성관계를 강요하는 등 불법 채권추심을 일삼은 사금융업자가 구속 상태로 공소청에 넘겨졌다.",
+      "author": "양수연",
+      "summary": "빚 상환을 독촉하며 피해자에게 성관계를 강요한 사금융업자가 불법 채권추심 혐의로 구속 송치되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e3c0fecde401",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "금융보안원 해킹, 금융사 보안평가 정보 유출",
+      "link": "https://www.yna.co.kr/view/AKR20261110174700002",
+      "publishedAt": "2026-11-10T11:34:05.000Z",
+      "description": "(서울=연합뉴스) 배영경 한지훈 박수현 기자 = 금융위원회 산하 금융보안 전담 기관인 금융보안원이 해킹 공격을 받아 금융사 보안평가 관련 일부 ...",
+      "author": "배영경",
+      "summary": "금융위원회 산하 금융보안원이 해킹 공격을 받아 금융사의 보안평가 관련 정보 일부가 유출되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c89974da65e8",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "종부세 실거주 우대 원칙 지키기로",
+      "link": "https://www.mk.co.kr/news/economy/12204287",
+      "publishedAt": "2026-11-10T11:00:26.000Z",
+      "description": "이형일 부총리 겸 재정경제부 장관(사진)이 1가구 1주택자의 종합부동산세 기본공제를 실거주 여부에 따라 차등 적용하겠다고 10일 강조했다. 여당인 더불어민주당에서 비거주 1주택자의..",
+      "author": "매일경제",
+      "summary": "부총리는 1가구 1주택자에 대한 종합부동산세 기본공제를 실거주 여부에 따라 차등 적용하는 원칙을 유지하겠다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "015ad2b4cbf0",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "한미 증시의 바로미터 퀄컴과 삼성전자",
+      "link": "https://www.mk.co.kr/news/stock/12204256",
+      "publishedAt": "2026-11-10T08:58:07.000Z",
+      "description": "나스닥과 코스피 선행지표 퀄컴 분석요즘 한국과 미국 주식시장에선 ‘어닝 쇼크 없는 주가 쇼크’가 종종 발생한다. 실적이 괜찮은데도 주가는 여지없이 급락한다. 특히 주식시장에 영향력..",
+      "author": "매일경제",
+      "summary": "나스닥, 삼성전자, 코스피로 이어지는 글로벌 증시 간 연결고리가 있으며, 퀄컴 등이 한미 주식시장의 중요한 선행지표 역할을 한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "bd2148ae5714",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "日 AI 기업, 주차장 회사 인수 이유",
+      "link": "https://www.mk.co.kr/news/world/12204255",
+      "publishedAt": "2026-11-10T08:57:55.000Z",
+      "description": "파크샤테크놀로지의 ‘공진화 M&A’일본 도쿄의 한 주차장. 차량이 들어오지만 바닥에서 잠금판이 올라오지 않는다. 대신 카메라가 번호판을 읽는다. 언제 들어와 얼마나 머물렀는지, 어..",
+      "author": "매일경제",
+      "summary": "일본의 AI 기업 파크샤테크놀로지가 주차장 회사를 인수한 것은 카메라 기반 번호판 인식 기술로 자동화된 주차 관리 시스템을 구축하기 위함이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5c81631a5adc",
+      "category": "politics",
+      "source": "조선일보",
+      "region": "kr",
+      "title": "[선우정 칼럼] 대통령도 손이 부끄러웠나 보다",
+      "link": "https://www.chosun.com/opinion/column/2026/11/10/ABFFELPZ7ZHTBIL4HGXAD633HU/",
+      "publishedAt": "2026-11-10T14:55:00.000Z",
+      "description": "",
+      "author": "선우정 기자",
+      "summary": "",
+      "summarySource": "rss"
+    },
+    {
+      "id": "5caee033b75e",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "韓총리 \"관계성 범죄에 무거운 책임감…종합대책 준비\"",
+      "link": "https://www.yna.co.kr/view/AKR20261110178900001",
+      "publishedAt": "2026-11-10T13:59:52.000Z",
+      "description": "(서울=연합뉴스) 이상현 기자 = 한성숙 국무총리는 10일 \"폭력을 피해 일상을 포기해야 하는 사람이 더는 나오지 않도록 국가의 보호 체계를 전...",
+      "author": "이상현",
+      "summary": "한성숙 국무총리가 관계성 범죄 문제에 대해 무거운 책임감을 표하고 종합대책을 준비할 계획을 밝혔다. 피해자를 보호하기 위한 국가 체계 강화를 강조했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "01c243eb16a6",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "李대통령, 내일 김민석·한병도와 만찬…부동산 논의 등 주목",
+      "link": "https://www.yna.co.kr/view/AKR20261110179600001",
+      "publishedAt": "2026-11-10T13:59:02.000Z",
+      "description": "(서울=연합뉴스) 임형섭 오규진 기자 = 이재명 대통령과 더불어민주당 김민석 대표·한병도 원내대표가 11일 청와대에서 만찬을 가질 예정인 것으로...",
+      "author": "임형섭",
+      "summary": "이재명 대통령이 더불어민주당 김민석 대표와 한병도 원내대표와 청와대에서 만찬을 가질 예정이며, 부동산 등 주요 현안을 논의할 것으로 예상된다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "919524c7ee42",
+      "category": "politics",
+      "source": "서울신문",
+      "region": "kr",
+      "title": "강신철 \"전체 생도 설문·결과 공개\"… 생도들은 \"군 과오·교육 개편 구분해야\"",
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20261111006005",
+      "publishedAt": "2026-11-10T13:39:08.000Z",
+      "description": "강 “통합 땐 네트워크형 될 가능성” 현장선 “최근 안 온전한 형태 아냐” 안규백 전 장관, 강 장관에 항의 전화 강신철 국방부 장관이 10일 국군사관학교 창설을 둘러싼 생도들의 반발과 우려에 전체 생도 대상 설문조사를 실시하고 결과를 공개하겠다고 밝혔다. 전날에도 육군·해군·공군 사관학교 총동창회와의 간담회에서 “사관학교 폐교는 없다”고 못 박았지만 통합안을 둘러싼 비판 여론이 여전한 분위기다. 전문가들은 반대 측은 각군 정체성 약화 우려가 가장 큰 만큼 이를 아우르는 통합 교육안 마련이 중요하다고 제언했다. 강 장관은 이날 서울 태릉 육사에서 3군 사관학교 생도들과 간담회를 열고 “국군사관학교가 창설되면 네트워크형이 될 가능성이 많다”며 “제가 생각하는 앤드스테이트(최종 상태)는 가장 좋은 군사적 석·박사 과정을 갖출 수 있는 학교”라고 말했다. 또 “통합으로 복장이나 생각이 바뀌는 게 아니고 아카데믹한 교육 부분이 바뀌는 것”이라고도 설명했다. 그럼에도 현장에선 반대 목소리가 컸다. 이날 간담회에 참석한 육사 1학년 생도는 “최근 나온 2+2, 1+2+1안 등은 4년 형태를 온전히 갖추지 못한 것”이라고 말했다. ‘육사 출신들이 군사 쿠데타를 했다’는 ",
+      "author": "백서연 기자·국방부 공동취재단",
+      "summary": "강신철 국방부 장관이 삼군 사관학교 생도들의 반발에 대해 전체 생도 대상 설문조사를 실시하고 결과를 공개하겠다고 밝혔다. 생도들은 국군사관학교 통합안에 대해 각군 정체성 약화를 우려하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "55656d65502b",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "조현 외교장관, 루비오 미 국무장관과 환담…북한 문제 포함 의견 교환",
+      "link": "https://www.khan.co.kr/article/202611102146001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-11-10T12:46:00.000Z",
+      "description": "주요 7개국(G7) 외교장관 회의 참석을 위해 프랑스 파리를 방문 중인 조현 외교부 장관과 마코 루비오 미국 국무장관이 10일(현지시간) 파리에서 만나 환담을 나누고 있다. 외교부 제공주요 7개국(G7) 외교장관 회의 참석차 프랑스를 방문 중인 조현 외교부 장관이 10일(현지시간) 마코 루비오 미국 국무장관과 만나 한·미 관계 전반에 관한 의견을 나눴다.외···",
+      "author": "정환보 기자",
+      "summary": "조현 외교부 장관이 G7 외교장관 회의에 참석하기 위해 프랑스를 방문 중 마코 루비오 미국 국무장관과 만나 한·미 관계와 북한 문제 등을 논의했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0b0a864381a2",
+      "category": "politics",
+      "source": "SBS 뉴스",
+      "region": "kr",
+      "title": "'합의 이행' 강조했지만…미국 측 \"공감대 없다\"",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008839734",
+      "publishedAt": "2026-11-10T12:33:00.000Z",
+      "description": "트럼프 대통령이 참패한 미국 중간선거 결과를 두고, 이재명 대통령의 첫 공식 발언이 나왔습니다. 우리 경제에 미칠 불확실성을 최소화하라고 관계부처에 주문했습니다.",
+      "author": "blue@sbs.co.kr (강청완)",
+      "summary": "이재명 대통령이 미국과의 합의 이행을 강조했으나 미국 측은 공감대가 없다는 입장을 나타냈다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "15b4d1554882",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "\"이용철, 공소취소 관련 李생각 '복붙' 한듯 답변해 섬뜩\"[황형준의 법정모독]",
+      "link": "https://www.donga.com/news/Politics/article/all/20261110/135001917/1",
+      "publishedAt": "2026-11-10T12:29:00.000Z",
+      "description": "동아일보 정치 라이브 ＜법정모독＞- 일시: 화·목요일 오전 10~11시- 토크: 김근식 경남대 교수, 조응천 전 국회의원- 진행·연출: 황형준 김수은- 동아일보 유튜브: www.youtube.com/@donga-ilbo이재명 대통령이 이용철 방위사업청장을 법무부 장관 후보자로 지명한 것을 두고 “공소 취소를 밀어붙일 사람을 고른 것”이라며 “기자들의 공소취소 관련 질문에 대한 답변 역시 이 대통령의 생각을 그대로 복사해 붙이고 있다”는 비판이 나왔다. 동시에 “현 국민의힘 당권파가 헌정 질서를 흔드는 사안(조작기소 특검법 통과)을 당권 유지의 땔감으로 쓰고 있다”는 비판도 제기됐다.조응천 개혁신당 전 의원은 10일 동아일보 정치 라이브 ＜법정모독＞에서 공소 취소 관련 질문에 “정리해서 말하겠다”, “법과 원칙에 따라 하는 게 바람직하다”고 한 이 후보자의 답변에 대해 “섬뜩했다”며 “공소 취소에 대한 이 대통령의 생각을 그대로 복사해 붙인 것”이라고 말했다. 그는 “이 대",
+      "author": null,
+      "summary": "이재명 대통령이 이용철 방위사업청장을 법무부 장관 후보자로 지명하자, 공소 취소 관련 답변이 대통령의 생각을 그대로 반영한다는 비판이 제기되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8158c4c3dc44",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "제 역할 못하는 법원 '스토킹 잠정조치'…통계도 없다",
+      "link": "https://www.khan.co.kr/article/202611102111015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-11-10T12:11:01.000Z",
+      "description": "관계성 범죄 느는데 ‘잠정조치’ 유형별 청구·기각 관련 자료 전무수사기관 청구에 기각률은 증가세…법원, 피해자 보호 외면 논란A씨는 B씨한테서 돈을 빌렸다가 5년 넘게 스토킹과 협박에 시달렸다. 결국 아파트 지하주차장에서 B씨가 휘두른 흉기에 숨졌다. 경찰은 사건 두 달 전 범행장소를 배회하는 B씨를 발견하고도 경고만 했다. A씨의 유족은 경찰이 법원에 B···",
+      "author": "임현경 기자",
+      "summary": "스토킹 범죄가 증가하는 가운데 법원의 잠정조치가 제 역할을 하지 못하고 있으며, 관련 통계도 부족하다는 문제점이 지적되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5c30222f6257",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "\"전국법관대표회의 연 3회로 확대를\"",
+      "link": "https://www.khan.co.kr/article/202611102111005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-11-10T12:11:00.000Z",
+      "description": "법원 내부망에 내규 개정 요구글“9월 회의로 현안 적시 대응 필요”이달 회의 앞 다양한 의견 표출대법관 재제청 문제, 여권의 대법원장 국정조사 추진 등 사법부의 독립과 신뢰를 둘러싼 논란이 잇따르는 가운데 전국법관대표회의(전법대) 정기회의를 연 2회에서 3회로 늘려 대응해야 한다는 주장이 법원 내부에서 제기됐다. 집단행동에 소극적이던 판사들이 관련 사안들에···",
+      "author": "임현경 기자",
+      "summary": "사법부의 독립과 신뢰 문제가 제기되는 가운데, 판사들이 전국법관대표회의 정기회의를 연 2회에서 3회로 확대하자는 제안을 제기했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "612af5089ed8",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "추미애 아들 귀국하자 출국금지…'軍휴가 특혜 의혹' 수사 재개",
+      "link": "https://www.donga.com/news/Politics/article/all/20261110/135002379/1",
+      "publishedAt": "2026-11-10T11:28:00.000Z",
+      "description": "군 복무 중 병가 특혜를 받았다는 의혹이 제기된 추미애 경기도지사 아들 사건과 관련해 공소청이 수사를 재개했다.서울동부공소청은 해외에 체류하다 4일 입국한 추 지사의 아들 서 씨에 대해 출국금지 조치를 내리고 수사를 재개했다고 10일 밝혔다. 이번 출국금지는 서 씨가 2023년 해외로 출국해 기소중지 처분을 받을 당시 검찰이 요청한 ‘입국 시 통보’ 및 출국금지 조치에 따른 것이다. 추 지사 측은 “이미 무혐의로 정리된 사건”이라는 입장인 것으로 전해졌다.앞서 2019년 자유한국당(현 국민의힘)은 서 씨의 ‘군 휴가 특혜’ 의혹을 제기했다. 당시 자유한국당은 서 씨가 수술을 이유로 군 복무 중 병가를 사용했는데, 당시 더불어민주당 대표였던 추 지사의 외압으로 사전 승인 없이 병가가 연장됐다고 주장했다.2020년 9월 서울동부지검(현 서울동부공소청)은 “외압이나 청탁은 없었다”며 무혐의로 불기소 처분했고, 국민의힘이 항고했으나 2022년 6월 서울고검에서도 기각됐다. 이후 같은 해 1",
+      "author": null,
+      "summary": "추미애 경기도지사 아들의 군 휴가 특혜 의혹 사건과 관련해 4일 귀국 후 출국금지 조치가 취해졌고, 공소청이 수사를 재개했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1f848840194e",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "EU, 드론 공격 잇따른 흑해 해상안보에 750억원 지원",
+      "link": "https://www.yna.co.kr/view/AKR20261110180600109",
+      "publishedAt": "2026-11-10T14:55:32.000Z",
+      "description": "(로마=연합뉴스) 민경락 특파원 = 유럽연합(EU)이 최근 잇따른 드론 공격으로 긴장이 고조된 흑해 해상안보를 강화하기 위해 5천만 유로(약 7...",
+      "author": "민경락",
+      "summary": "EU가 드론 공격이 잇따른 흑해의 해상안보 강화를 위해 5천만 유로(약 750억원)를 지원하기로 했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c65f991194b8",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "뉴욕증시, CPI·월러 발언 소화하며 하락 출발",
+      "link": "https://www.yna.co.kr/view/AKR20261110181000009",
+      "publishedAt": "2026-11-10T14:51:41.000Z",
+      "description": "(서울=연합뉴스) 윤정원 연합인포맥스 기자 = 뉴욕증시의 3대 주가지수는 예상을 웃돈 10월 소비자물가지수(CPI) 결과와 크리스토퍼 월러 미국...",
+      "author": "국제뉴스공용1",
+      "summary": "뉴욕증시 3대 주가지수가 예상을 웃도는 10월 소비자물가지수와 크리스토퍼 월러 연방준비제도 위원의 발언을 소화하면서 하락했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "94cca911f72d",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "메가스피드와 고성능 엔비디아 칩의 중국 반출 논란",
+      "link": "https://www.dw.com/en/megaspeed-and-the-battle-to-go-high-end-nvidia-chips-into-china/a-79909129?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-11-10T14:32:00.000Z",
+      "description": "Jensen Huang's affair with a suspected Chinese spy has shone a light on Megaspeed, the company she worked for. It is under investigation in the US for smuggling Nvidia chips into China, which it denies.",
+      "author": null,
+      "summary": "엔비디아 CEO 젠슨 황의 의심인 중국인 여성이 근무하던 메가스피드가 고성능 칩을 중국으로 밀반출한 혐의로 미국 당국의 수사를 받고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5b109e6acfae",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "북한 김정은의 딸을 후계자로 보는 탈북자들",
+      "link": "https://www.npr.org/2026/11/10/g-s1-152795/like-gods-reigning-over-humans-many-defectors-see-daughter-of-north-koreas-kim-as-heir-apparent",
+      "publishedAt": "2026-11-10T14:16:53.000Z",
+      "description": "Little is known about her except that she's reportedly about 13 and named Kim Ju Ae, but Korea's spy agency says she's likely her father's heir.",
+      "author": "The Associated Press",
+      "summary": "한국 정보기관은 약 13세로 추정되는 김정은의 딸 김주애가 아버지의 후계자일 가능성이 높다고 보고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0e7c90c24423",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "인도네시아 부통령, 자격 논쟁 속 사직 제안",
+      "link": "https://www.npr.org/2026/11/10/g-s1-152788/indonesias-vp-offers-resignation-as-questions-mount-over-his-eligibility",
+      "publishedAt": "2026-11-10T14:01:14.000Z",
+      "description": "His resignation offer comes amid a widening political rift between Prabowo and Widodo and a separate investigation into allegations that senior police officials wiretapped the president.",
+      "author": "The Associated Press",
+      "summary": "프라보워 인도네시아 부통령이 자신의 자격에 대한 의문과 정치적 갈등 속에서 사직을 제안했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "677362292538",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "호주 빅토리아주 노동당의 '용서 불가능한' 선거 전략에 녹색당 경고",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/11/labor-decision-greens-preference-one-nation-battleground-seat-prahran-ntwnfb",
+      "publishedAt": "2026-11-10T14:00:55.000Z",
+      "description": "Exclusive: Ellen Sandell says Labor’s decision not to back progressives in key inner-seat could hand power to rightwing coalition in close election Get our breaking news email, free app or daily news podcast The Victorian Greens say Labor’s “frankly unforgivable” decision not to preference the minor party in a key inner-city seat could hand the upcoming election to a Liberal-One Nation coalition. The party’s leader, Ellen Sandell, lambasted Labor’s decision on Tuesday to run an open ticket in Prahran, an inner Melbourne seat currently held by the Liberals’ Rachel Westaway on a tiny 1.3% margin",
+      "author": "Benita Kolovos Victorian state correspondent",
+      "summary": "호주 빅토리아주 녹색당은 노동당이 프라란 선거구에서 진보 진영을 지지하지 않기로 한 결정이 자유당-원 네이션 연립정부를 초래할 수 있다고 경고했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "89f9cb395340",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "교황의 남미 순방과 정치적 논쟁",
+      "link": "https://www.dw.com/en/pope-leo-vs-javier-milei-how-political-is-the-pope/a-79907666?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-11-10T13:47:00.000Z",
+      "description": "Pope Leo XIV's tour of South America has drawn huge crowds — and a measure of political controversy. Perceived criticism of Argentina's leader, and earlier rebukes of Donald Trump, offer a glimpse into papacy politics.",
+      "author": null,
+      "summary": "교황 레오의 남미 순방이 큰 인파를 모았으나, 아르헨티나 지도자에 대한 비판과 도널드 트럼프에 대한 꾸중으로 정치적 논란을 빚었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5b6c4c489dc0",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "프랑스 저항 운동 영웅 솔랑주 알렉산드르, 104세로 별세",
+      "link": "https://www.bbc.co.uk/news/articles/cjdx3x7wg941o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-10T13:23:54.000Z",
+      "description": "With 30 men under her orders, she organised sabotage operations, sheltered Allied airmen and joined the fight against the occupying German forces.",
+      "author": null,
+      "summary": "2차 세계대전 중 프랑스 저항군 지도자 솔랑주 알렉산드르가 104세로 별세했으며, 그는 독일군에 대한 사보타주 작전과 연합군 조종사 보호에 나섰다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e1ce18c8a146",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "캘리포니아 하프마라톤 이벤트에서 27명 집단 발병",
+      "link": "https://www.bbc.co.uk/news/articles/cq0ldlyd556go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-10T13:22:12.000Z",
+      "description": "A local hospital says runners had \"unusual\" symptoms after racing on an atypically hot day.",
+      "author": null,
+      "summary": "캘리포니아 하프마라톤 이벤트에서 27명의 참가자가 비정상적으로 더운 날씨에서 달린 후 이상한 증상을 보여 경찰이 수사에 나섰다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e84468f62c23",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "세계가 녹색에너지 분야에서 중국을 따라야 한다: 존 케리",
+      "link": "https://www.theguardian.com/environment/2026/nov/10/china-green-energy-john-kerry-cop31",
+      "publishedAt": "2026-11-10T12:08:23.000Z",
+      "description": "Former US secretary of state says most nations are ‘stumbling along’ while Beijing has ‘hugely accelerated’ Cop31 live – latest updates China is leading the world in moving away from fossil fuels, and the rest of the globe – including the US – must now follow, the former US secretary of state John Kerry has told the Guardian, as Cop watchers wonder exactly how China is going to approach this year’s climate summit. As Cop31 opens – this year the climate conference is in Turkey – there is plenty of speculation about whether China will finally step into the leadership role that it has long avoide",
+      "author": "Fiona Harvey in Antalya and Rebecca Bailey",
+      "summary": "존 케리 전 미국 국무장관은 COP31에서 중국이 화석연료 전환을 주도하고 있으며 미국을 포함한 전 세계가 이를 따라야 한다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1e76aa2d5eb9",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]18년째 그대로인 근소세… 靑 TF '그림자 증세'부터 손보라",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261110/135002607/2",
+      "publishedAt": "2026-11-10T14:30:00.000Z",
+      "description": "청와대가 직장인의 생활비 부담을 줄이고 실질적 가처분소득을 늘리기 위해 이른바 ‘월급방위대 태스크포스(TF)’를 운영한다. 임광현 대통령비서실장이 9일 수석·보좌관회의에서 “월급통장이 오래 머물 수 있는 호수가 돼야 한다”며 이렇게 지시했다고 한다. ‘월급방위대’는 이재명 대통령이 민주당 대표 시절 당내에 뒀던 조직이다. 당시 민주당 의원이던 임 실장이 간사를 맡았었다. 직장인 사이에서 월급통장은 잠시 거쳐가는 ‘정류장’처럼 여겨지는 게 사실이다. 세금 등 각종 공과금을 떼고 카드값과 대출 이자를 갚고 나면 통장 계좌가 텅 빈다고 해서 ‘텅장’이라는 말도 나온다. 직장인의 식비, 교통비, 육아비, 주거비 지출 부담을 덜어주려면 무엇보다 물가와 집값부터 안정시켜야 한다. 정부는 구체적으로 종합소득 기본공제 대상자 요건 완화, 월세 세액공제 한도 확대, 근로장려세제(EITC) 확대를 추진하고 있다. 가처분소득은 개인소득에서 세금을 빼고 저축과 소비에 쓸 수 있는 돈을 말한다. 이를",
+      "author": null,
+      "summary": "청와대의 월급방위대 TF가 직장인 가처분소득을 늘리려 하고 있지만, 근소세 개선과 물가·집값 안정이 선행돼야 한다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "612848194f0d",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]위장전입, 위장미혼, 위장퇴사… 청약제도 확 뜯어고쳐야",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261110/135002611/2",
+      "publishedAt": "2026-11-10T14:27:00.000Z",
+      "description": "정부가 부정 청약 의심 사례 354건을 적발해 수사를 의뢰하기로 했다. 작년 7월부터 올해 3월까지 분양한 주요 단지 43곳, 약 2만5000채를 대상으로 점검한 결과다. 위장 전입이 334건으로 가장 많았고, 결혼 사실을 숨긴 위장 미혼이 18건이었다. 법으로 금지된 청약 자격 매매와 고소득을 감추기 위한 위장 퇴사도 1건씩 있었다. 제도 허점을 악용한 불법 청약과 이를 단속하려는 정부의 숨바꼭질이 끝없이 반복되고 있는 것이다. 서울의 한 의사 부부는 고소득자가 아닌 것처럼 속여 신혼부부 특별공급 혜택을 봤다. 소득을 ‘공고일’ 기준으로 판단한다는 점을 노려, 일하던 병원에서 일단 허위로 퇴사했다가 공고 직후 재입사한 것이다. 인천의 한 당첨자는 4년 전 결혼해 자녀를 키우면서도 혼인신고를 하지 않았다. 배우자가 아파트와 분양권을 갖고 있었지만 서류상 미혼인 그는 무주택자 자격으로 청약에 당첨됐다. 이런 꼼수가 결국 보금자리가 꼭 필요한 누군가의 기회를 박탈한 셈이다. 정부의",
+      "author": null,
+      "summary": "부정 청약이 계속 적발되고 있으며, 제도의 허점을 악용한 위장 전입과 미혼 위장이 대부분이므로 청약제도를 근본적으로 뜯어고쳐야 한다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "90fdee0488e2",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "호주가 역사의 교훈을 거부하는 이유",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/11/remembrance-day-australia-lessons-of-military-history",
+      "publishedAt": "2026-11-10T14:00:54.000Z",
+      "description": "Our national identity is becoming increasingly militarised. Today I’m thinking of a mother’s words – not the veneration of war dished out by politicians Countless are the times politicians have spoken for the Australian military personnel whose names appear on the roll of honour at the Australian War Memorial because they were killed in service. Remembrance Day, like Anzac Day on 25 April, is an opportunity for our political leaders to reaffirm, with bipartisan assurance, words to the effect that none of the 103,000 people named on that roll died in vain. Continue reading...",
+      "author": "Paul Daley",
+      "summary": "호주의 국가 정체성이 점점 군사화되고 있으며, 기념일에 정치인들이 하는 형식적인 추모와 전쟁 찬양이 역사의 진정한 교훈을 외면하고 있다고 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "94f8abe1978d",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "셀레나 고메즈, 베이핑으로 목소리 변했다며 경고",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/11/selena-gomez-says-vaping-has-changed-her-voice-can-e-cigarettes-really-affect-your-vocal-cords-and-is-it-reversible",
+      "publishedAt": "2026-11-10T14:00:53.000Z",
+      "description": "Experts say the practice can damage delicate tissues in the voice box and there is not yet sufficient data to say if people can recover Read more in the Antiviral series While vaping is known to cause lung damage, breathlessness and nicotine addiction, the singer and actor Selena Gomez has posted in a video on Instagram that vaping has permanently changed her voice. “Nicotine is so hard to quit and I just wanted to say, if you’re going through it, or if you’re even trying to vape, it’s just not worth it,” she said. “It’s so stupid and it changed my voice. I’m not going to be able to change my ",
+      "author": "Melissa Davey",
+      "summary": "베이핑이 성대 조직에 손상을 줄 수 있으며 셀레나 고메즈는 자신의 목소리가 영구적으로 변했다고 주장했고, 전문가들도 이것이 가능하다고 언급했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f1b7b95e57e9",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "중간선거의 최대 놀라움",
+      "link": "https://www.nytimes.com/video/opinion/100000011268016/the-biggest-surprise-of-election-night.html",
+      "publishedAt": "2026-11-10T13:51:55.000Z",
+      "description": "For the columnist Jamelle Bouie, the story of the midterm elections was a “transformation of the partisan landscape in the Deep South.” In a live conversation for “The Opinions,” he breaks down the most surprising wins across the South and explains how the organizing power of Black voters is reshaping the region’s politics.",
+      "author": null,
+      "summary": "칼럼니스트 Jamelle Bouie는 중간선거의 가장 큰 뉴스는 딥 사우스의 정당 지형 변화이며, 흑인 유권자의 조직력이 남부 정치를 재편하고 있다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3bf7c021b53b",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "월스트리트가 세계의 주식시장이 되고 있다",
+      "link": "https://www.washingtonpost.com/opinions/2026/11/10/wall-street-is-becoming-stock-market-world/",
+      "publishedAt": "2026-11-10T12:46:46.000Z",
+      "description": "Global equities are increasingly being traded in New York.",
+      "author": "Matthew Lynn",
+      "summary": "글로벌 주식들이 뉴욕에서 점점 더 거래되고 있으며, 월스트리트가 세계 주식시장으로 자리잡고 있다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "74ff8890022f",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "여성들이 심장 전문의와 월경을 상담해야 하는 이유",
+      "link": "https://www.washingtonpost.com/opinions/2026/11/10/care-cardiovascular-disease-among-women-is-changing-here-why/",
+      "publishedAt": "2026-11-10T12:28:00.000Z",
+      "description": "Cardiovascular disease is the leading cause of death for women. The medical field's methods for combating that are changing.",
+      "author": "Leana Wen",
+      "summary": "심혈관 질환이 여성의 주요 사망 원인이므로 여성들이 월경과 심장 건강의 연관성에 대해 심장 전문의와 상담할 필요가 있다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0f95945490fb",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "한 비전가와의 삶",
+      "link": "https://www.nytimes.com/video/opinion/100000010825547/living-with-a-visionary.html",
+      "publishedAt": "2026-11-10T12:18:05.000Z",
+      "description": "After 50 years of marriage, John found himself caring for his wife, an art curator grappling with Parkinson’s.",
+      "author": null,
+      "summary": "50년의 결혼 생활에서 미술 큐레이터인 아내가 파킨슨병을 앓으면서 남편이 돌봄의 역할을 맡게 되는 상황을 다룬 글이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "482c1eacd766",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[기자메모]표준이 된 미성년 아이돌…'권리'는 여전히 비표준",
+      "link": "https://www.khan.co.kr/article/202611102048015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-11-10T11:48:01.000Z",
+      "description": "‘니온’ 신드롬을 일으킨 그룹 A2O 라이트의 멤버 아이찡은 올해로 만 13세다. 그룹 평균 연령은 14.9세. 사람들은 ‘너무 어리다’며 놀라다가도 이들의 ‘로봇 같은 완벽함’에 환호했다. 텐아시아의 전수조사에 따르면 2019년 한국의 아이돌 데뷔 평균 연령은 18.2세였지만 2025년에는 17.2세로 최저치를 기록했다. 화려한 무대는 K팝 산업 안에서 ···",
+      "author": "서현희 기자",
+      "summary": "미성년 아이돌의 데뷔 연령이 계속 낮아지면서 표준화되고 있지만, 이들의 기본 권리 보호는 여전히 미흡한 상황을 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6b8262765383",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[기고]함께 뛰며 이해하는 다문화 스포츠, 성과 넘어 지속·확대로",
+      "link": "https://www.khan.co.kr/article/202611102029005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-11-10T11:29:00.000Z",
+      "description": "‘삼성 다문화청소년 스포츠 클래스’ 프로그램이 한창 진행 중이다. 본래 이 프로그램은 이주배경 청소년들과 일반 청소년들이 서로 어울릴 수 있는 기회를 제공하고 그들의 몸과 마음의 성장을 지원하기 위해 시작됐다. 이주배경 학생들은 계속 늘어나고 있지만 학교생활에 잘 적응하지 못하고 있다. 부적응의 가장 큰 원인은 “친구들과 어울리지 못해서”(2021년 전국다···",
+      "author": "장한업 이화여대 교수 다문화연구소장",
+      "summary": "이주배경 청소년들의 학교 적응 문제를 해결하기 위해 다문화 스포츠 프로그램의 성과를 바탕으로 이를 지속하고 확대해야 한다고 촉구했다.",
+      "summarySource": "llm"
+    }
+  ],
+  "summarizedAt": "2026-11-11T01:50:34.265Z",
+  "summaryStats": {
+    "llm": 49,
+    "fallback": 1,
+    "model": "claude-haiku-4-5"
+  }
+}
