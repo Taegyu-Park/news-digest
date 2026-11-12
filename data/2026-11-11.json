@@ -1,0 +1,898 @@
+{
+  "date": "2026-11-11",
+  "generatedAt": "2026-11-12T02:43:03.772Z",
+  "categories": [
+    {
+      "id": "it",
+      "label": "IT·과학·AI"
+    },
+    {
+      "id": "economy",
+      "label": "경제·금융"
+    },
+    {
+      "id": "politics",
+      "label": "정치·사회"
+    },
+    {
+      "id": "world",
+      "label": "세계·국제"
+    },
+    {
+      "id": "editorial",
+      "label": "사설·칼럼",
+      "opinion": true,
+      "summaryMaxChars": 220
+    }
+  ],
+  "feedStatus": [
+    {
+      "source": "Ars Technica",
+      "category": "it",
+      "ok": true,
+      "matched": 10
+    },
+    {
+      "source": "Hacker News",
+      "category": "it",
+      "ok": true,
+      "matched": 3
+    },
+    {
+      "source": "TechCrunch",
+      "category": "it",
+      "ok": true,
+      "matched": 7
+    },
+    {
+      "source": "The Verge",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "블로터",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "전자신문",
+      "category": "it",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "ZDNet Korea",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC Business",
+      "category": "economy",
+      "ok": true,
+      "matched": 10
+    },
+    {
+      "source": "The Guardian",
+      "category": "economy",
+      "ok": true,
+      "matched": 20
+    },
+    {
+      "source": "매일경제 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 34
+    },
+    {
+      "source": "연합뉴스",
+      "category": "economy",
+      "ok": true,
+      "matched": 1
+    },
+    {
+      "source": "경향신문 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 30
+    },
+    {
+      "source": "경향신문 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 26
+    },
+    {
+      "source": "노컷뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "서울신문",
+      "category": "politics",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "연합뉴스 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "연합뉴스 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 72
+    },
+    {
+      "source": "SBS 뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "Al Jazeera",
+      "category": "world",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC World",
+      "category": "world",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "NPR",
+      "category": "world",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "The Guardian",
+      "category": "world",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "연합뉴스 국제",
+      "category": "world",
+      "ok": true,
+      "matched": 22
+    },
+    {
+      "source": "매일경제 증권",
+      "category": "economy",
+      "ok": true,
+      "matched": 34
+    },
+    {
+      "source": "경향신문 오피니언",
+      "category": "editorial",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "NYT Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 18
+    },
+    {
+      "source": "The Guardian Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "Washington Post Opinions",
+      "category": "editorial",
+      "ok": true,
+      "matched": 13
+    },
+    {
+      "source": "동아일보 사설",
+      "category": "editorial",
+      "ok": true,
+      "matched": 13
+    },
+    {
+      "source": "동아일보 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 19
+    },
+    {
+      "source": "조선일보",
+      "category": "politics",
+      "ok": true,
+      "matched": 13
+    },
+    {
+      "source": "동아일보 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "머니투데이",
+      "category": "economy",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "Wired",
+      "category": "it",
+      "ok": true,
+      "matched": 26
+    },
+    {
+      "source": "DW News",
+      "category": "world",
+      "ok": true,
+      "matched": 14
+    }
+  ],
+  "items": [
+    {
+      "id": "dadb501df184",
+      "category": "it",
+      "source": "Hacker News",
+      "region": "intl",
+      "title": "Atuin Threads: 모든 컴퓨터에서 에이전트 세션 관리",
+      "link": "https://blog.atuin.sh/threads-agent-sessions/",
+      "publishedAt": "2026-11-11T14:10:46.000Z",
+      "description": "Article URL: https://blog.atuin.sh/threads-agent-sessions/ Comments URL: https://news.ycombinator.com/item?id=50453637 Points: 191 # Comments: 73",
+      "author": "linsomniac",
+      "summary": "Atuin Threads를 사용하면 모든 기계에서 에이전트 세션을 한곳에서 통합적으로 관리하고 접근할 수 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ef892408bebc",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "Google DeepMind, Signal 주요 부분 수학적으로 검증",
+      "link": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
+      "publishedAt": "2026-11-11T14:08:57.000Z",
+      "description": "The four-week project hints that AI could make formal verification far more practical.",
+      "author": "Lily Hay Newman, wired.com",
+      "summary": "Google DeepMind가 4주 프로젝트를 통해 Signal의 주요 부분을 수학적으로 검증했으며, 이는 AI가 형식적 검증을 더 실용적으로 만들 수 있음을 시사한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7c021a2e6c5b",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "자율주행차 학습 방식으로 AI 에이전트 성능 개선하는 Plurai",
+      "link": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+      "publishedAt": "2026-11-11T14:00:00.000Z",
+      "description": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
+      "author": "Tim Fernholz",
+      "summary": "Plurai는 자율주행차 개발에 사용된 end-to-end 학습 방식을 활용해 불확실한 환경에서 작동하는 AI 에이전트의 성능을 개선하려 한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d584bdd46b86",
+      "category": "it",
+      "source": "Hacker News",
+      "region": "intl",
+      "title": "WebGL2를 이용한 하이퍼리얼리스틱 모래 표현",
+      "link": "https://av.github.io/safe-sand/",
+      "publishedAt": "2026-11-11T13:39:29.000Z",
+      "description": "Article URL: https://av.github.io/safe-sand/ Comments URL: https://news.ycombinator.com/item?id=50453288 Points: 318 # Comments: 64",
+      "author": "everlier",
+      "summary": "WebGL2 기술을 활용하여 웹 환경에서 매우 현실적인 모래의 움직임과 표현을 구현할 수 있는 기법이 소개됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e9053da94161",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "EU 디지털 공정성 규칙, Duolingo·Strava·Ticketmaster 등에 적용",
+      "link": "https://www.wired.com/story/duolingo-strava-and-ticketmaster-are-all-caught-up-in-eus-new-digital-fairness-rules/",
+      "publishedAt": "2026-11-11T13:36:15.000Z",
+      "description": "Winning streaks can be turned off and influencers will be forced to reveal when they’re being paid under the new Digital Fairness Act aimed at tackling “dark patterns” on platforms and services.",
+      "author": "Isabella Ward",
+      "summary": "EU의 Digital Fairness Act에 따라 Duolingo, Strava, Ticketmaster 등이 어두운 패턴을 제거해야 하며, 연승 기능 해제와 인플루언서 금전 관계 공개가 강제된다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "04be0ebed94c",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "호박통에 얼굴 끼어 물도 못마신 사슴… 10일 추적 끝에 '극적 구조'",
+      "link": "https://www.etnews.com/20261111000420",
+      "publishedAt": "2026-11-11T13:30:00.000Z",
+      "description": "미국에서 핼러윈 장식용 플라스틱 호박통에 얼굴이 끼인 채 열흘 동안 돌아다니던 사슴이 지역 주민들과 동물구조단체의 노력 끝에 구조됐다. 9일(현지시간) 영국 인디펜던트에 따르면 미국 미시간주 디트로이트 일대에서 머리에 주황색 플라스틱 호박통을 뒤집어쓴 어린 수사슴 한 마리가 지난 8일 밤 구조됐다. 이 사슴은 디트로이트 인근 리보니아에서 처음 발견됐다. 당시 플라스틱 호박 장식물이 사슴의 코를 완전히 덮고 있어 먹이를 먹거나 물을 마시기 어려운",
+      "author": "서희원",
+      "summary": "미국 미시간주 디트로이트 인근에서 핼러윈 플라스틱 호박통에 얼굴이 낀 사슴이 10일 만에 지역 주민과 동물구조단체의 노력으로 구조됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0e16dba4f6cd",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "집에서 키우는 최고의 실내 정원 시스템들 (2026)",
+      "link": "https://www.wired.com/gallery/best-indoor-gardening-systems/",
+      "publishedAt": "2026-11-11T12:30:00.000Z",
+      "description": "Grow a backyard’s worth of greens and vegetables in your house with a hydroponic garden. Here are a few that might be worth the investment.",
+      "author": "Kat Merck",
+      "summary": "수경재배 기술을 활용한 실내 정원 시스템을 사용하면 집에서 채소를 대량으로 재배할 수 있으며, 투자 가치가 있는 제품들을 소개한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e8632cfa6cfe",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "증시 바닥인 줄…'남은 건 반등' 지하 못 본 개미들 '빚투' 자극한 결과",
+      "link": "https://www.etnews.com/20261111000446",
+      "publishedAt": "2026-11-11T08:42:22.000Z",
+      "description": "은행권 가계대출 잔액이 사상 처음으로 1200조원을 넘어섰다. 주택 거래가 둔화하는 가운데 중도금·이주비 등 집단대출이 늘어난 데다 개인투자자들의 주식 매수세가 신용대출 증가로 이어진 영향이다. 특히 코스피 반등을 노린 개인투자자들의 이른바 '빚투' 수요까지 가세하면서 가계대출 증가세가 다시 확대됐다. 11일 한국은행이 발표한 '2026년 10월 금융시장 동향'에 따르면 지난달 은행권 가계대출 잔액은 1203조9000억원으로 전월보다 5조원 증",
+      "author": "이상목",
+      "summary": "주식 반등을 기대한 개인투자자들의 신용대출 증가로 인해 은행권 가계대출 잔액이 사상 처음으로 1200조원을 넘어섰다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a390f90d4604",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "Nvidia 위기에 기업지배구조 전문가들도 '관전 중'",
+      "link": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+      "publishedAt": "2026-11-11T07:30:51.000Z",
+      "description": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
+      "author": "Connie Loizos",
+      "summary": "Nvidia의 현재 위기는 전례 없는 기업지배구조 문제를 드러내고 있어 전문가들의 주목을 받고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "51c33ac2c706",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "Seagate 새 하이브리드 드라이브, 오래된 질문들 다시 제기",
+      "link": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
+      "publishedAt": "2026-11-10T23:30:56.000Z",
+      "description": "The FireCuda Forge revisits an old idea, with some familiar questions.",
+      "author": "Nick Indge",
+      "summary": "Seagate의 FireCuda Forge 하이브리드 드라이브는 과거의 개념을 재제시하면서 익숙한 의문점들을 제기한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "594f344a1c5d",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "英항공관제 시스템 장애 후 책임자가 '영국 최고 미움받은 인물'",
+      "link": "https://www.theguardian.com/business/2026/nov/11/air-traffic-control-nats-martin-rolfe-outages-ryanair",
+      "publishedAt": "2026-11-11T13:35:52.000Z",
+      "description": "Nats chief says he ‘quite enjoyed’ ignoring calls from Ryanair CEO to quit over system outages in September The boss of Nats has said he was “the most disliked person in the UK” after air traffic control systems failed twice in September, disrupting flights for hundreds of thousands of passengers. He told an aviation industry conference: “My name is Martin Rolfe, I’m the CEO of Nats – or as I like to think of myself, the most disliked person in the UK in September.” Continue reading...",
+      "author": "Gwyn Topham Transport correspondent",
+      "summary": "9월 영국 항공관제 시스템 장애로 수십만 명의 승객이 영향을 받은 가운데, 나츠 최고경영자 마틴 롤프는 자신이 그 달 가장 미움받은 인물이었다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3f085dd0707a",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "영국 경유 가격, 유가 하락에도 2파운드 근처 고착",
+      "link": "https://www.theguardian.com/money/2026/nov/11/diesel-prices-petrol-business-oil-hormuz",
+      "publishedAt": "2026-11-11T13:30:27.000Z",
+      "description": "Pump prices stay stubbornly high as leading bank official warns energy costs are likely to remain ‘elevated’ The price of diesel on UK forecourts remains stubbornly close to October’s record high of £2 despite a sharp fall in oil prices. A litre costs an average of 197p, according to the AA, which described the situation as “dismal”. By contrast, petrol has fallen 6p to 168p from the peak of 174.7p in early October. That was the highest level since August 2022. Continue reading...",
+      "author": "Zoe Wood",
+      "summary": "유가가 급락했음에도 영국 휘발유 가격은 평균 1리터당 197펜스로 머물러 있으며, 휘발유는 168펜스로 6펜스 하락해 가격 하락 속도의 격차가 크다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "19058d926dee",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "韓총리, 수도권 교육감들 만나 \"학교용지 복합개발 활성화\"",
+      "link": "https://www.yna.co.kr/view/AKR20261111180100001",
+      "publishedAt": "2026-11-11T12:56:15.000Z",
+      "description": "(서울=연합뉴스) 이상현 기자 = 한성숙 국무총리는 11일 서울 삼청동 국무총리 공관에서 수도권 지역 교육감들과 만찬 간담회를 열어 학교 용지 ...",
+      "author": "이상현",
+      "summary": "한성숙 국무총리가 서울에서 수도권 교육감들과 만찬 간담회를 열어 학교 용지의 복합개발 활성화에 대해 논의했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1f7f9eb43aaa",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "추운 날씨 난방비 지원 제도 및 신청 자격",
+      "link": "https://www.bbc.co.uk/news/articles/c87470q4w21o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T12:49:31.000Z",
+      "description": "Some people in England, Wales and Northern Ireland can get help with heating costs during cold spells.",
+      "author": null,
+      "summary": "영국 잉글랜드, 웨일스, 북아일랜드에 거주하는 일부 국민은 추운 시기에 난방비 지원을 받을 수 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6de05c2c2735",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "\"통장 만들면 1000원 기부\"…DB저축은행, 연말 나눔 캠페인",
+      "link": "https://www.mk.co.kr/news/economy/12205716",
+      "publishedAt": "2026-11-11T10:36:11.000Z",
+      "description": "세이브더칠드런과 손잡고 아동 지원 파킹통장 최고 연 5% 금리 제공DB저축은행이 연말을 맞아 통장을 개설하면 은행이 대신 기부금을 내는 나눔 캠페인을 진행한다. 고객은 별도 비용 ..",
+      "author": "매일경제",
+      "summary": "DB저축은행이 세이브더칠드런과 협력해 통장 개설 시 은행이 기부금을 내는 나눔 캠페인을 진행하며, 고객에게 최고 연 5% 금리의 파킹통장을 제공한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "88388d45578d",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "인터넷 성인 콘텐츠로 큰 부를 이룬 인물들의 추적",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8mlr?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T10:00:00.000Z",
+      "description": "Tracking down the men who have made serious money from internet porn.",
+      "author": null,
+      "summary": "인터넷 포르노 산업에서 막대한 수익을 거둔 인물들을 추적하는 내용을 다루고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "cf1b801e2c77",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "이중근 부영 회장, '유엔참전용사 추모' 국민대표로 헌화",
+      "link": "https://www.mk.co.kr/news/economy/12205696",
+      "publishedAt": "2026-11-11T09:26:29.000Z",
+      "description": "국민 대표로 2년째 참배부영그룹은 이중근 회장이 ‘제20회 유엔참전용사 국제추모의 날’ 기념식에서 국민대표로 헌화했다고 11일 밝혔다. 이날 기념식은 한국전쟁 때 희생된 유엔군 참..",
+      "author": "매일경제",
+      "summary": "부영그룹의 이중근 회장이 제20회 유엔참전용사 국제추모의 날 기념식에서 국민대표로 헌화했으며, 이는 2년째 참배하는 것이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "963447248950",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "네이버, 美 데이터센터 규제 '반사이익' … 두산에너빌과 시총 20위 각축",
+      "link": "https://www.mk.co.kr/news/stock/12205639",
+      "publishedAt": "2026-11-11T08:41:29.000Z",
+      "description": "미국의 데이터센터 건설 규제 우려가 커지면서 네이버를 비롯한 국내 기업이 반사이익을 볼 것이라는 기대가 높아지고 있다. 이 같은 수혜를 바탕으로 네이버가 시가총액 20위권 진입을 ..",
+      "author": "매일경제",
+      "summary": "미국의 데이터센터 건설 규제 우려 속에서 네이버를 비롯한 국내 기업들이 반사이익을 거둘 것으로 기대되며, 네이버가 시가총액 20위권 진입을 노린다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e0040efb66ee",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "관리종목 딱지 떼도 … 90%는 주가 떨어져",
+      "link": "https://www.mk.co.kr/news/stock/12205637",
+      "publishedAt": "2026-11-11T08:41:28.000Z",
+      "description": "코스닥시장에서 관리종목이나 투자주의환기종목에 지정됐던 곳들이 주가 관리에 비상이 걸렸다. 투자자 주의를 요구했기 때문에 이처럼 지정됐다가 요건을 해소한 이후에도 주가가 큰 폭으로 ..",
+      "author": "매일경제",
+      "summary": "코스닥 시장에서 관리종목이나 투자주의환기종목 지정 해제를 받은 기업들도 대다수 주가가 큰 폭으로 하락하는 사례가 많아 실질적 개선이 어렵다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7eba94ae0fa3",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "증권 웃었지만 … 메리츠금융 고전",
+      "link": "https://www.mk.co.kr/news/stock/12205638",
+      "publishedAt": "2026-11-11T08:41:28.000Z",
+      "description": "메리츠금융지주의 올해 3분기 당기순이익이 전년 동기 대비 26.6% 감소했다. 핵심 계열사인 메리츠화재가 금융시장 변동성 확대에 따른 투자손익 감소로 부진한 실적을 거둔 영향이다...",
+      "author": "매일경제",
+      "summary": "메리츠금융지주의 3분기 당기순이익이 전년 동기 대비 26.6% 감소했으며, 계열사 메리츠화재가 금융시장 변동성으로 인한 투자손익 감소로 부진한 실적을 거둔 것이 주요 원인이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5effb5162540",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "나경원 \"당나라 군대냐\"·강신철 \"말씀 취소하라\"…예결위 설전",
+      "link": "https://www.yna.co.kr/view/AKR20261111182800001",
+      "publishedAt": "2026-11-11T14:44:25.000Z",
+      "description": "(서울=연합뉴스) 노선웅 기자 = 강신철 국방부 장관은 11일 '북한과 전쟁이 일어났을 때 미군을 믿을 수 있냐'고 한 자신의 과거 발언에 대해...",
+      "author": "노선웅",
+      "summary": "강신철 국방부 장관의 미군 신뢰도 관련 과거 발언을 두고 예결위에서 여야 의원들의 설전이 벌어졌다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "401cc7acbfb3",
+      "category": "politics",
+      "source": "조선일보",
+      "region": "kr",
+      "title": "[윤희영의 News English] 불륜 스캔들 젠슨 황의 '엔비디아' 이름 뜻 알고 보니",
+      "link": "https://www.chosun.com/opinion/specialist_column/2026/11/11/UZGBAZ4IWVECJK4L6BLL5AHS5Y/",
+      "publishedAt": "2026-11-11T14:32:00.000Z",
+      "description": "",
+      "author": "윤희영 기자",
+      "summary": "젠슨 황 NVIDIA CEO의 불륜 스캔들 관련 기사로 엔비디아의 이름 뜻을 설명한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9fe51dc5fcae",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "주민이 불지른 광주전남 아파트···불은 껐지만 경비원 심정지로 발견",
+      "link": "https://www.khan.co.kr/article/202611112312001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-11-11T14:12:00.000Z",
+      "description": "전남광주 북구에서 11일 오후 6시33분쯤 발생한 아파트 화재. 전남광주통합소방본부 제공11일 전남광주 북구 아파트에서 발생한 화재는 주민의 방화에서 시작된 것으로 밝혀졌다.광주 북부경찰서는 현주건조물방화 혐의로 A씨(40대)를 입건해 조사 중이다.A씨는 이날 오후 6시33분쯤 전남광주 북구 운암동 한 아파트 6층 자신의 집에 불을 낸 혐의를 받는다. 당시···",
+      "author": "김준용 기자",
+      "summary": "전남 광주 북구의 아파트 화재가 40대 주민의 방화로 밝혀졌고, 진압 후 경비원이 심정지 상태로 발견됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "eeb2770f3eaa",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "李대통령 \"농지개혁·CPTPP, 농업인에 도움이 되도록 추진\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261111079151001",
+      "publishedAt": "2026-11-11T13:24:14.000Z",
+      "description": "(서울=연합뉴스) 임형섭 기자 = 이재명 대통령은 11일 \"농지 개혁과 농협 개혁, CPTPP(포괄적·점진적 환태평양경제동반자협정) 등 중요 현...",
+      "author": "임형섭",
+      "summary": "이재명 대통령이 농지개혁, 농협개혁, CPTPP 등의 정책을 농업인에 도움이 되도록 추진하겠다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ed04ced64a81",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "李, 김민석·한병도와 3시간 만찬…'부동산 세제 이견' 논의 안한 듯",
+      "link": "https://www.donga.com/news/Politics/article/all/20261111/135010539/1",
+      "publishedAt": "2026-11-11T13:16:00.000Z",
+      "description": "이재명 대통령이 11일 더불어민주당 투톱인 김민석 대표와 한병도 원내대표를 청와대로 초청해 만찬을 가졌다.이 대통령은 이날 만찬에서 “우리 국민의 삶이 나아질 수 있도록 당정이 한마음 한뜻으로 움직여야 한다”며 내년도 예산안에 대한 여당과 국회의 적극적인 협조를 주문했다고 강유정 수석대변인은 서면 브리핑에서 전했다. 김 대표가 “양극화 극복과 소비진작을 위해 정부의 과감하고 신속한 대책이 필요하다”고 요청하자 당정이 민생 의제에 집중하자는 당부를 한 것으로 풀이 된다.이날 만찬은 오후 6시반부터 9시 20분까지 약 3시간 동안 이어졌다. 민주당 일각에서 종합부동산세(종부세) 기본공제 14억 원 통일 등 부동산 세제 완화 요구가 나온 것과 관련해선 별다른 논의가 이뤄지지 않은 것으로 알려졌다. 당내 일각의 요구와 관련해 당정 협의 등을 건너뛰고 이 대통령이 직접 언급하는 것은 이르다는 판단에 따른 것이라는 해석이 나온다. 17일 국무회의에서 의결될 예정인 ‘조작수사·조작기소 진상규",
+      "author": null,
+      "summary": "이재명 대통령이 민주당 지도부와 청와대에서 3시간 만찬을 가졌지만, 종부세 공제 기준 완화 요구에 대한 본격적인 논의는 이루어지지 않았다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b79f06795442",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "\"종부세 '종' 자도 안 나왔다\"는 청와대 만찬···이 대통령, 여 지도부에 \"당정 한마음 한뜻 움직여야\"",
+      "link": "https://www.khan.co.kr/article/202611112208001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-11-11T13:08:00.000Z",
+      "description": "이재명 대통령과 김민석 더불어민주당 대표를 비롯한 민주당 지도부가 11일 청와대에서 만찬을 하고 있다. 청와대 제공이재명 대통령이 11일 더불어민주당 김민석 대표와 한병도 원내대표 등 여당 지도부와 청와대에서 만찬을 함께했다. 이 대통령은 “당정이 한마음 한뜻으로 움직여야 한다”며 내년도 예산안 처리에 대한 국회의 협조를 요청했다. 가장 큰 쟁점이던 종합부···",
+      "author": "김윤나영 기자",
+      "summary": "이재명 대통령이 민주당 지도부와의 청와대 만찬에서 종합부동산세 문제는 언급하지 않은 채 예산안 처리를 위한 당정 협력을 당부했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "76f4c6e7981a",
+      "category": "politics",
+      "source": "SBS 뉴스",
+      "region": "kr",
+      "title": "기자들 향해 \"하이에나 떼\"…논란 퍼지자 결국",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008841692",
+      "publishedAt": "2026-11-11T13:01:00.000Z",
+      "description": "민주당 최민희 의원이 국회에서 취재 중인 기자들을 하이에나 떼라고 지칭해, 논란이 되고 있습니다. SNS 대화방에 기자들의 사진을 올리면서 이런…",
+      "author": "wook@sbs.co.kr (김지욱)",
+      "summary": "민주당 최민희 의원이 국회 취재 기자들을 '하이에나 떼'라고 지칭한 사실이 알려져 논란이 되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9b985e2cc70b",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "\"1.5도 제한 목표까지 남은 탄소예산 4년\"",
+      "link": "https://www.khan.co.kr/article/202611112151015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-11-11T12:51:01.000Z",
+      "description": "COP31 ‘35% 전기화’ 제안전문가들 “너무 낮다” 지적클라이밋 애널리틱스의 로잔 마터 박사가 10일(현지시간) 튀르키예 안탈리아에서 열린 제31차 유엔기후변화협약 당사국총회(COP31) 중 아이슬란드 전시관에서 오버슈트가 지역에 미칠 영향에 관해 설명하고 있다. 오경민 기자“오버슈트 위험 목전…탄소 감축·기후 적응 대책 병행을”올해 세계 탄소 배출이 ···",
+      "author": "안탈리아(튀르키예) | 오경민 기자",
+      "summary": "제31차 유엔기후변화협약 당사국총회(COP31)에서 전문가들이 1.5도 제한 목표 달성까지 남은 탄소예산이 4년으로 제한적이라고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f8c6abf447e8",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "\"규제 완화\" \"실거주 우대\"…여당, 비거주 1주택 종부세 '갑론을박'",
+      "link": "https://www.khan.co.kr/article/202611112139015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-11-11T12:39:01.000Z",
+      "description": "서울 지역 의원들, 거주·비거주 구분 문제제기 “공제 한도 상향”“왜 정책 흔드나” “14억은 딴 나라 얘기” 정부안 유지 목소리도9일 서울 강남구 공인중개사에 게시된 아파트 매물. 연합뉴스 서울 지역 의원을 중심으로 여당 내부에서 비거주 1주택자의 종합부동산세 공제 기준도 실거주와 같이 14억원으로 완화하자는 주장이 제기되자 11일 당내에서 정부안(12억···",
+      "author": "강한들 기자",
+      "summary": "여당 내에서 비거주 1주택자의 종합부동산세 공제 기준을 실거주와 같이 14억 원으로 완화해야 한다는 주장과 정부안 유지 주장이 대립했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "649f66024188",
+      "category": "politics",
+      "source": "서울신문",
+      "region": "kr",
+      "title": "\"하이에나 떼\" 기자들 비하한 최민희 의원, 유출자 탓하더니…결국 고개 숙였다 [포착]",
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20261111500331",
+      "publishedAt": "2026-11-11T07:44:11.000Z",
+      "description": "최민희 더불어민주당 최고위원이 국회에서 취재 중인 사진·영상 기자들을 ‘하이에나 떼들’이라고 비하한 사실이 알려지자 11일 사과했다. 기자들이 정치권 내부 갈등을 부각할 영상을 찍으려 한다고 주장한 데 대해 언론단체들이 반발하면서 논란이 이어지고 있다. 최 최고위원은 지난 5일 오후 2시 23분쯤 남양주 지역 당원 단체대화방에 국회에서 민주당 의원총회를 취재하던 사진·영상 기자들의 사진을 올리며 “하이에나 떼들”이라고 적었다. 사진에는 카메라를 들고 촬영을 준비하거나 바닥에 앉아 촬영하는 기자들의 모습이 담겼다. 한 참여자가 “깜짝 놀랐다”는 반응을 보이자 최 최고위원은 약 16분 뒤 “국회 출입 언론사 기자들. 어떻게든 이간 영상 찍으려 저러고 있습니다”라고 설명했다. 논란이 불거지자 최 최고위원 측은 처음에는 발언의 맥락이 잘못 전달됐다고 해명했다. 의원실은 “저 사진 부분만 캡처해서 유포되고 있는데 확인해 보니 앞뒤 맥락은 그게 아니었다”며 “누군가 의도를 가지고 그런 것 같아 매우 유감”이라고 밝혔다. 최 최고위원도 당원 대화방에서 “이 방 글을 외부로 퍼나르는 분들이 계십니다”라며 대화 내용이 외부로 알려진 경위를 문제 삼았다. 그는 “정민철씨가 이",
+      "author": "권윤희 기자",
+      "summary": "민주당 최민희 최고위원이 국회 취재 기자들을 '하이에나 떼'라고 비하한 후, 논란이 확산되자 결국 사과했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b6390c7f99ab",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "74세 납치범, 아르헨티나 가택연금에서 로프 타고 탈출",
+      "link": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T14:56:11.000Z",
+      "description": "Leonardo Bertulazzi, a former member of the Marxist guerrilla group the Red Brigades, was about to be extradited to his home country of Italy.",
+      "author": null,
+      "summary": "이탈리아 적색여단 출신의 74세 납치범 레오나르도 베르투라지가 아르헨티나에서 가택연금 중 발코니에서 로프를 이용해 탈출했다. 그는 이탈리아로의 범죄인 인도를 앞두고 있었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "590d2e6d057b",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "뉴욕증시, 코어위브 실적 소화하며 혼조 출발",
+      "link": "https://www.yna.co.kr/view/AKR20261111183500009",
+      "publishedAt": "2026-11-11T14:49:26.000Z",
+      "description": "(서울=연합뉴스) 윤정원 연합인포맥스 기자 = 뉴욕증시의 3대 주가지수는 코어위브의 호실적을 소화하며 혼조세로 출발했다.",
+      "author": "국제뉴스공용1",
+      "summary": "뉴욕 증시의 주가지수들이 코어위브의 호실적을 받아들이며 혼합된 방향으로 거래를 시작했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b5a744a4793c",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "이란 안보수장 \"미국이 공격하면 유럽 미군 기지까지 타격\"",
+      "link": "https://www.yna.co.kr/view/AKR20261111183100079",
+      "publishedAt": "2026-11-11T14:49:18.000Z",
+      "description": "(카이로=연합뉴스) 김상훈 특파원 = 이란의 안보수장인 모흐센 레자이 이란 최고국가안보회의(SNSC) 사무총장은 11일(현지시간) 자국이 공격받...",
+      "author": "김상훈",
+      "summary": "이란의 최고국가안보회의 사무총장 모흐센 레자이는 미국의 공격 시 유럽에 주둔한 미군 기지도 반격 대상이 될 것이라고 경고했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "686acf6a2c59",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "에콰도르 기자 살해, 악화되는 치안 상황 부각",
+      "link": "https://www.theguardian.com/world/2026/nov/11/ecuador-journalist-killing",
+      "publishedAt": "2026-11-11T14:00:52.000Z",
+      "description": "Tomás Beltrán was shot dead amid gang warfare that has turned Latin American country into one of its most violent Tomás Beltrán was manoeuvring his car into his garage on Sunday night when the Ecuadorian journalist was shot dead. Beltrán ran a Facebook page with news about Calceta, a small city in the province of Manabí, whose Pacific coastline has made it a key flashpoint in the gang warfare over drug trafficking routes that has transformed one of Latin America’s safest countries into one of its most violent. Continue reading...",
+      "author": "Tiago Rogero South America correspondent",
+      "summary": "에콰도르 언론인 토마스 벨트란이 마약 밀매로 인한 갱 폭력에 피살되었으며, 이는 라틴 아메리카에서 가장 안전하던 국가를 가장 폭력적인 곳으로 변모시킨 상황을 보여줬다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9cb7bd4343ce",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "이탈리아: 폭탄 위협으로 수백 개 학교 휴교",
+      "link": "https://www.dw.com/en/italy-hundreds-of-schools-evacuated-after-bomb-threats/a-79918034?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-11-11T13:43:00.000Z",
+      "description": "Although the government believes the threat to be a hoax, it has nevertheless prompted concerns about \"hybrid warfare\" in Europe. Similar messages were sent in Northern Ireland, Ireland, and Bulgaria.",
+      "author": null,
+      "summary": "이탈리아에서 폭탄 위협으로 수백 개 학교가 휴교했으며, 유사한 협박 메시지가 북아일랜드, 아일랜드, 불가리아에도 발송되어 유럽의 '하이브리드 전쟁'에 대한 우려를 촉발했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9d32006a91bf",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "탄자니아 야당 지도자 리수, 사형 피하고 징역형 받아",
+      "link": "https://www.dw.com/en/tundu-lissu-after-escaping-the-death-penalty-what-does-his-guilty-verdict-mean-for-tanzania-s-democracy/a-79908512?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-11-11T13:33:00.000Z",
+      "description": "A treason trial could have meant death by hanging for Tanzanian opposition leader Tundu Lissu. Instead, he now faces four years in prison for incitement to unrest. Can voices of dissident truly be heard in the country?",
+      "author": null,
+      "summary": "탄자니아 야당 지도자 툰두 리수는 반역죄 재판에서 사형을 면했으나 선동죄로 4년의 징역형을 선고받았다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "bd77f67a2de9",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "러시아-우크라이나, 포로 교환 합의",
+      "link": "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks",
+      "publishedAt": "2026-11-11T13:30:00.000Z",
+      "description": "Russia and Ukraine have agreed to a large exchange of prisoners of war. U.S.-mediated talks in Abu Dhabi led to this decision, marking the biggest humanitarian release since the war began in 2022.",
+      "author": "The Associated Press",
+      "summary": "러시아와 우크라이나가 미국의 중재 아래 아부다비에서 진행된 회담을 통해 2022년 전쟁 개전 이후 가장 큰 규모의 전쟁 포로 교환에 합의했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "208bedbdc9db",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "이집트 기자 재판 연기, UN 언론자유 침해 경고",
+      "link": "https://www.bbc.co.uk/news/articles/cmkg5jr59835o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T13:25:47.000Z",
+      "description": "Mada Masr editor-in-chief Lina Attalah is being tried on the charge of \"publishing false news\" and potentially faces imprisonment.",
+      "author": null,
+      "summary": "이집트 언론사 마다 마스르의 편집장 리나 아탈라가 '거짓 뉴스 발행' 혐의로 투옥 가능성을 두고 재판받고 있으며, UN은 이를 언론자유 침해로 경고했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a047c3e8c94f",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "헤그스스 탄핵 사실상 종료, 영국 공격 계획자 3명 체포",
+      "link": "https://www.npr.org/2026/11/11/g-s1-152949/up-first-newsletter-pete-hegseth-jim-jordan-iran-backed-trio-us-bases",
+      "publishedAt": "2026-11-11T12:21:59.000Z",
+      "description": "Defense Secretary Pete Hegseth has been spared from the House's impeachment effort, at least for now. And, federal prosecutors arrested three men accused of being Iran-backed operatives.",
+      "author": "Brittney Melton",
+      "summary": "국방부 장관 피트 헤그스스가 하원의 탄핵 시도에서 당분간 면책되었으며, 연방 검사가 이란의 지원을 받은 영국 공격 계획자로 의심되는 3명을 체포했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e6f606a42903",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "혼외 출산으로 사우디 여성, 채찍질 판결",
+      "link": "https://www.theguardian.com/global-development/2026/nov/11/woman-in-saudi-arabia-sentenced-to-100-lashes-for-giving-birth-outside-marriage",
+      "publishedAt": "2026-11-11T09:15:44.000Z",
+      "description": "Rights groups condemn reported punishment of Kenyan migrant worker as an ‘act of violence’ A Kenyan mother in Saudi Arabia has reportedly been sentenced to 100 lashes after giving birth outside marriage. Under the Saudi sharia law system, sex outside marriage is a criminal offence. But it is women who are disproportionately targeted, say rights groups, which have condemned the punishment as an “act of violence”. Continue reading...",
+      "author": "Deepa Parent",
+      "summary": "케냐 출신 이주 노동자가 혼외 출산으로 사우디아라비아에서 100대의 채찍질 형을 선고받았으며, 인권 단체들은 이를 불합리한 폭력 행위로 규탄했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b4a8ce879b9f",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "Russell Brand 재판이 여성 성적 학대 논의를 늦게 촉발한 이유",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/11/russell-brand-david-walliams-noughties-culture-girls-women",
+      "publishedAt": "2026-11-11T14:55:39.000Z",
+      "description": "As a survivor of the era, I welcome this reckoning – and I salute the women who were brave enough to bring it about Mr Justice Bennathan’s sentencing remarks in the trial of Russell Brand hit me like a train, and I know I’m not the only one. This week my Instagram feed has been full of female friends, colleagues and acquaintances sharing his words: “Whatever women wear, wherever they go, indeed whatever they drink, they retain the right to say no and to demand justice from the criminal courts when sexual predators like you, Russell Brand, act without their consent.” Those same women are now sh",
+      "author": "Rhiannon Lucy Cosslett",
+      "summary": "2000년대 문화가 여성에 대한 성적 학대를 정상화했기 때문에 Russell Brand 사건이 오래 공론화되지 못했다고 비판하며, 피해자들의 용감한 증언과 이번 판결을 환영한다고 주장한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "feb53d5bbe52",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "공화당의 두 갈래 길: 현명한 선택이 필요하다",
+      "link": "https://www.nytimes.com/2026/11/11/opinion/post-trump-republicans.html",
+      "publishedAt": "2026-11-11T14:48:28.000Z",
+      "description": "Not since the Civil War has the party had so much up for grabs.",
+      "author": "Oren Cass",
+      "summary": "내전 이후로 공화당이 가장 많은 변수를 안고 있는 기로에 있으며, 향후 방향에 대한 현명한 선택이 필요하다고 주장한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d17b02f6b779",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "정부 편파성으로부터 가족 농장의 법적 보호",
+      "link": "https://www.washingtonpost.com/opinions/2026/11/11/supreme-court-has-another-chance-rein-administrative-justice/",
+      "publishedAt": "2026-11-11T14:41:52.000Z",
+      "description": "This family farm deserved its day in court.",
+      "author": "Editorial Board",
+      "summary": "정부 기관의 불공정한 개입으로 피해를 본 가족 농장이 공정한 법적 판단을 받을 기본적 권리가 있다고 주장한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "93ea156ded4d",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]\"자산 가치보다 주가 낮으면 할증 과세\"… 혼란과 왜곡 부를 뿐",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261111/135010468/2",
+      "publishedAt": "2026-11-11T14:30:00.000Z",
+      "description": "더불어민주당이 주가가 자산 가치에 비해 낮은 기업의 경우 세금을 더 무겁게 매기는 상속·증여세법 개정안을 다음 달 초까지 처리하기로 했다. 미국 중간선거 이후 인공지능(AI) 투자 거품 우려 등이 불거지며 증시 변동성이 커진 상황에서 주가 부양을 위한 입법에 본격적으로 시동을 건 것이다. 민주당은 증시 저평가 요인으로 대주주가 상속 및 증여 과정에서 세금을 줄이기 위해 주가를 고의로 낮추는, 이른바 ‘주가 누르기’를 지목했다. 현행법상 상장 주식은 상속·증여 기준일 전후 2개월간 평균 주가로 과세한다. 대주주가 세금을 낮추려고 일부러 주가를 낮게 유지하지 못하도록 순자산 대비 주가(PBR)가 크게 낮은 경우 상속·증여세를 더 무겁게 매기는 ‘주가 누르기 방지법’을 추진한다는 것이다. 문제는 고의적 세금 회피와 정상적 주식 저평가를 구분하는 일이 쉽지 않다는 점이다. 그렇다 보니 과세 대상과 방식을 두고 아직 당정 간은 물론이고 여당 내에서도 이견이 있다. 자산 가치에 비해 주가가",
+      "author": null,
+      "summary": "민주당의 주가 누르기 방지법이 세금 회피를 억제하려는 의도는 좋으나, 고의성과 정상적 저평가를 구분하기 어려워 오히려 시장 혼란과 왜곡만 초래할 것이라고 비판한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "4cf316fa0a8f",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]'선정률 97%' 정책자금 브로커 기승… 서민 울리는 복잡한 제도",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261111/135010460/2",
+      "publishedAt": "2026-11-11T14:27:00.000Z",
+      "description": "영세 소상공인과 중소기업의 숨통을 틔워줘야 할 정책자금이 불법 브로커들의 배를 불리는 먹잇감이 되고 있다. 최근 서울경찰청은 5000억 원대 정책자금 대출을 중개하고 대출금의 5∼7%를 수수료로 뜯어내 250억 원 넘게 챙긴 59명을 대부업법 위반 혐의로 불구속 송치했다. 수강생 1600여 명에게 수강료 200억 원을 받고 불법 영업 수법을 가르친 교육업체 관계자 12명도 함께 덜미를 잡혔다. 정책자금을 둘러싼 범죄가 단순 알선을 넘어 거대한 불법 산업으로 진화하고 있는 것이다. 대출 브로커들은 온라인에 ‘선정률 97%’ 같은 자극적인 광고를 내걸고 경영 컨설팅을 명목으로 접근해 거액의 수수료를 챙겼다. 대출 승인을 받기 위해 허위 매출 전자세금계산서를 만들어 서류를 조작하는 일도 서슴지 않았다. 수수료 대신 고액의 보험 가입을 강요하는 ‘꺾기’ 수법도 버젓이 횡행한다. ‘경영 컨설팅’ 교육업체는 수강생들에게 소상공인들의 연락처까지 무더기로 넘겨 불법 영업을 부추긴 것으로 드러났다",
+      "author": null,
+      "summary": "영세 소상공인을 돕기 위한 정책자금이 불법 브로커들의 수익원이 되며, 허위 서류와 보험 강요 등 불법 관행이 거대 산업으로 확대되고 있다고 지적하며 제도 개선을 촉구한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d954791037a3",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "Tradwife 인플루언서의 후퇴도 그들이 끼친 피해는 남아있다",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/12/tradwife-influencers-in-retreat-lasting-damage-feminism",
+      "publishedAt": "2026-11-11T14:00:53.000Z",
+      "description": "Should forgiveness be extended to de-tradders recusing themselves from aesthetics they served out of commercial self-interest? The tradwife pivot is on: some female influencers whose family, faith and from-scratch cooking content brought headship-of-a-husband “traditional” households into anti-feminist view are “stepping away” from the label. As a feminist, my instinctive reaction is … fraught. Continue reading...",
+      "author": "Van Badham",
+      "summary": "Tradwife 인플루언서들이 상업적 이익을 위해 확산시킨 반페미니즘 미학의 해로움이 지속될 것이라며, 이들의 레이블 포기만으로는 부족하다고 주장한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3e693135f333",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "소설가들이 마주한 '개인적 경험'의 문제",
+      "link": "https://www.nytimes.com/2026/11/11/opinion/lived-experience-novelists-artists.html",
+      "publishedAt": "2026-11-11T14:00:09.000Z",
+      "description": "Readers respond to John McWhorter’s essay about “lived experience” and the arts. Also: Susan Collins; the Democrats’ challenge; A.I. in the classroom.",
+      "author": null,
+      "summary": "John McWhorter의 \"개인적 경험\"과 예술의 관계에 관한 에세이에 대한 독자들의 다양한 관점과 이의를 담은 독자 반응 모음이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "49ef22efbace",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "초라하지만 중요한 윤초(leap second) 옹호론",
+      "link": "https://www.washingtonpost.com/opinions/2026/11/11/leap-second-is-kind-ridiculous-let-not-get-rid-it/",
+      "publishedAt": "2026-11-11T12:30:00.000Z",
+      "description": "The world’s timekeepers just cut the cord to the spinning Earth.",
+      "author": "Joel Achenbach",
+      "summary": "세계의 시간 담당자들이 윤초를 폐지했지만, 이 제도가 지구의 자전과 인간의 표준 시간을 연결하는 데 중요하다고 옹호한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "714099644b30",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[김범준의 옆집물리학]아인슈타인 테스트",
+      "link": "https://www.khan.co.kr/article/202611112010005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-11-11T11:10:00.000Z",
+      "description": "미래의 어느 날 외계 지적 생명체의 메시지가 지구에 도착했다. 궁금한 것이 있으면 무엇이라도 물어보라는 내용이 담겼다. 당신이라면 어떤 질문을 하겠는가? 먼 우주에서 보면 티끌같이 작은 이곳 지구에 지적 존재가 있다는 것을 알아내 먼저 연락했다는 사실 자체가 이들의 까마득한 과학기술 수준을 보여준다고 할 수 있다. 시간이 흐르면서 발전하는 과학기술의 속성을···",
+      "author": "김범준 성균관대 물리학과 교수",
+      "summary": "외계 지적 생명체의 메시지 도착이라는 가설적 상황을 통해 과학기술 발전의 속성과 문명의 수준을 사색하는 물리학자의 칼럼이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ca0a14f77e94",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[기고]용산공원을 국립자연박물관을 비롯한 '국가박물관 단지'로",
+      "link": "https://www.khan.co.kr/article/202611112008015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-11-11T11:08:01.000Z",
+      "description": "주택문제 해결 방안으로 서울 외곽의 그린벨트 해제와 용산공원의 주택단지 조성이 논의되고 있다. 그러나 이는 미래세대의 삶의 질 향상에 역행하는 근시안적 발상으로, 재고가 필요하다.여기에 광활한 용산공원 부지마저 주택난 해결을 위한 개발 대상으로 거론되는 것은 실망스럽다. 고 송상용 한림대 교수 등 여러 학자가 용산공원을 국립자연박물관을 비롯한 ‘박물관 단지···",
+      "author": "이병훈 전북대 생명과학과 명예교수",
+      "summary": "주택난 해결을 위한 용산공원 개발은 근시안적이며, 미래 세대의 삶의 질 향상을 위해 국립자연박물관 중심의 국가박물관 단지로 조성할 것을 제안한다.",
+      "summarySource": "llm"
+    }
+  ],
+  "summarizedAt": "2026-11-12T02:49:04.604Z",
+  "summaryStats": {
+    "llm": 50,
+    "fallback": 0,
+    "model": "claude-haiku-4-5"
+  }
+}
