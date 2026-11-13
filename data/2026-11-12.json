@@ -1,0 +1,898 @@
+{
+  "date": "2026-11-12",
+  "generatedAt": "2026-11-13T02:26:00.742Z",
+  "categories": [
+    {
+      "id": "it",
+      "label": "IT·과학·AI"
+    },
+    {
+      "id": "economy",
+      "label": "경제·금융"
+    },
+    {
+      "id": "politics",
+      "label": "정치·사회"
+    },
+    {
+      "id": "world",
+      "label": "세계·국제"
+    },
+    {
+      "id": "editorial",
+      "label": "사설·칼럼",
+      "opinion": true,
+      "summaryMaxChars": 220
+    }
+  ],
+  "feedStatus": [
+    {
+      "source": "Ars Technica",
+      "category": "it",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "Hacker News",
+      "category": "it",
+      "ok": true,
+      "matched": 2
+    },
+    {
+      "source": "TechCrunch",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "The Verge",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "블로터",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "전자신문",
+      "category": "it",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "ZDNet Korea",
+      "category": "it",
+      "ok": true,
+      "matched": 3
+    },
+    {
+      "source": "BBC Business",
+      "category": "economy",
+      "ok": true,
+      "matched": 10
+    },
+    {
+      "source": "The Guardian",
+      "category": "economy",
+      "ok": true,
+      "matched": 20
+    },
+    {
+      "source": "매일경제 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 36
+    },
+    {
+      "source": "연합뉴스",
+      "category": "economy",
+      "ok": true,
+      "matched": 34
+    },
+    {
+      "source": "경향신문 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 39
+    },
+    {
+      "source": "경향신문 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 26
+    },
+    {
+      "source": "노컷뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 1
+    },
+    {
+      "source": "서울신문",
+      "category": "politics",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "연합뉴스 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "연합뉴스 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 90
+    },
+    {
+      "source": "SBS 뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 19
+    },
+    {
+      "source": "Al Jazeera",
+      "category": "world",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC World",
+      "category": "world",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "NPR",
+      "category": "world",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "The Guardian",
+      "category": "world",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "연합뉴스 국제",
+      "category": "world",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "매일경제 증권",
+      "category": "economy",
+      "ok": true,
+      "matched": 35
+    },
+    {
+      "source": "경향신문 오피니언",
+      "category": "editorial",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "NYT Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 7
+    },
+    {
+      "source": "The Guardian Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 11
+    },
+    {
+      "source": "Washington Post Opinions",
+      "category": "editorial",
+      "ok": true,
+      "matched": 12
+    },
+    {
+      "source": "동아일보 사설",
+      "category": "editorial",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "동아일보 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 33
+    },
+    {
+      "source": "조선일보",
+      "category": "politics",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "동아일보 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "머니투데이",
+      "category": "economy",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "Wired",
+      "category": "it",
+      "ok": true,
+      "matched": 34
+    },
+    {
+      "source": "DW News",
+      "category": "world",
+      "ok": true,
+      "matched": 13
+    }
+  ],
+  "items": [
+    {
+      "id": "59ecab2bdb56",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "[르포] 이스라엘 CERT \"우린 키보드 든 특수기동대\"",
+      "link": "https://zdnet.co.kr/view/?no=20261112134936",
+      "publishedAt": "2026-11-12T14:40:44.000Z",
+      "description": "[지디넷코리아][베르셰바(이스라엘)=박광하 기자] 11일(현지시간) 방문한 이스라엘 국가 사이버긴급대응팀(CERT-IL) 청사 내부는 차분했지만 바빴다. 사이버 사고 상담원 책상에 놓인 전화기는 수시로 울어댔다. 두 팔을 다 뻗을 수 없는 복도에서는 빠르게 지나가는 직원들의 어깨가 서로 부딪혔다. 모니터링룸 상황판에서는 사이버 위협, 에너지 시설 안전 상황 등의 정보가 실시간으로 변했다.CERT-IL은 이스라엘 남부 네게브 사막의 도시 베르셰바에 청사가 있다. 텔아비브에서 남쪽으로 110km 정도 떨어진 곳이다. 밴 구리온 공항에서 차를 타면 1시간 정도 걸린다. 텔아비브, 예루살렘보다 가자지구, 이집트 국경이 더 가깝다. 한국 IT미디어로는 지디넷코리아가 처음으로 방문했다.총리실 산하 국가사이버국(INCD)이 운영한다. INCD는 2017년 12월 정부 결정으로 국가사이버사무국과 국가사이버보안청을 합쳐 만든 조직이다. 핵심 인프라, 기업 등 민간 영역 사이버 방어를 총괄한다. CERT-IL 운영, 방어 방법론·규제 지침 마련 등의 업무를 한다. 정부 부처, 금융, 에너지 분야별 센터도 뒀다.기업과 시민 누구나 CERT-IL이 운영하는 사고 신고 번호 '11",
+      "author": "박광하 기자",
+      "summary": "이스라엘의 국가 사이버긴급대응팀 CERT-IL은 베르셰바에 소재하며, 총리실 산하 국가사이버국(INCD)이 운영하면서 정부와 민간 영역의 사이버 방어를 총괄한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "69087877f2e4",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "젠슨 황 CEO 불명예 퇴진...콜렛 크레스 CFO가 대행",
+      "link": "https://zdnet.co.kr/view/?no=20261112233500",
+      "publishedAt": "2026-11-12T14:35:25.000Z",
+      "description": "[지디넷코리아]33년간 엔비디아 최고경영자(CEO)를 수행핬던 젠슨 황이 사임했다. 후임 CEO가 선임될 때까지 콜렛 크레스 최고재무책임자(CFO)가 임시 CEO를 맡는다.엔비디아 이사회는 12일(현지시간) 젠슨 황이 엔비디아 회장과 CEO, 이사회에서 물러난다고 밝혔다.콜렛 크레스 CFO는 기존 CFO 직책을 수행하면서 임시 CEO를 맡는다. 엔비디아 이사회는 정식 후임자 선임을 위한 절차에 착수했으며, 내부 및 외부 후보자를 모두 검토할 계획이다.하비 C. 존스 엔비디아 이사회 의장은 \"콜렛 크레스는 엔비디아 사업과 고객, 운영 및 재무 상황에 대한 깊은 이해를 갖추고 있다\"고 평가했다.그는 이어 \"엔비디아 이사회는 콜렛 크레스와 경영진을 신뢰하며, 회사 운영과 고객과의 약속, 제품 로드맵은 차질 없이 이어질 것\"이라고 밝혔다.콜렛 크레스 임시 CEO는 \"젠슨 황이 지난 33년간 구축한 사업 기반을 이어가겠다\"고 밝혔다. 또 \"가속 컴퓨팅과 AI 분야에서 기술 개발을 지속하고 고객과 파트너, 개발자 및 주주에 대한 지원에 집중하겠다\"고 덧붙였다.엔비디아는 올 3분기(회계연도 기준 2027년 3분기) 실적을 예정대로 오는 17일(현지시간) 발표할 예정이다.",
+      "author": "권봉석 기자",
+      "summary": "엔비디아의 33년 CEO 젠슨 황이 사임했으며, CFO 콜렛 크레스가 정식 후임자 선임까지 임시 CEO직을 맡는다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3c2088766b86",
+      "category": "it",
+      "source": "Hacker News",
+      "region": "intl",
+      "title": "모더들이 완성한 포기된 Quake 4 확장팩, 이제 플레이 가능",
+      "link": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+      "publishedAt": "2026-11-12T14:18:49.000Z",
+      "description": "Article URL: https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64 Comments URL: https://news.ycombinator.com/item?id=50467618 Points: 242 # Comments: 84",
+      "author": "klaussilveira",
+      "summary": "포기된 Quake 4 확장팩을 모더들이 완성해 게임할 수 있는 상태로 만들었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e2a9b83689de",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "젠슨 황 엔비디아 CEO 공식 사임…콜레트 크레스 CFO 임시 CEO로",
+      "link": "https://www.etnews.com/20261112000481",
+      "publishedAt": "2026-11-12T14:17:01.000Z",
+      "description": "엔비디아의 공동 창업자이자 33년간 회사를 이끌어온 젠슨 황 최고경영자(CEO)가 사생활 논란 끝에 전격 사임했다. 엔비디아는 콜레트 크레스 최고재무책임자(CFO)를 임시 CEO로 선임하고 즉각 비상 경영 체제에 돌입했다. 12일(현지시간) 엔비디아 이사회는 성명을 통해 젠슨 황이 사장 겸 CEO와 이사회 이사직에서 즉시 사임한다고 공식 발표했다. 정식 후임자가 선임될 때까지 현 수석 부사장 겸 CFO인 콜레트 크레스가 임시 CEO직을 겸임하며",
+      "author": "이형두",
+      "summary": "엔비디아의 공동 창업자 젠슨 황이 33년 CEO직에서 사임했으며, CFO 콜레트 크레스가 임시 CEO로 선임됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "69c1c682346d",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "엔비디아의 새로운 임시 CEO, 콜레트 크레스",
+      "link": "https://www.wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang/",
+      "publishedAt": "2026-11-12T14:14:33.000Z",
+      "description": "Nvidia’s longtime chief financial officer helped transform the company into an AI powerhouse. Now she’s taking the reins following Jensen Huang’s resignation on Thursday.",
+      "author": "Lauren Goode, Louise Matsakis",
+      "summary": "엔비디아를 AI 강국으로 키운 장기 CFO 콜레트 크레스가 젠슨 황의 사임으로 임시 CEO직을 맡게 됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "19edf142065b",
+      "category": "it",
+      "source": "Hacker News",
+      "region": "intl",
+      "title": "AMD의 Zen 6에 대해 Mike Clark과 나누는 심층 분석",
+      "link": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
+      "publishedAt": "2026-11-12T14:12:37.000Z",
+      "description": "Article URL: https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at Comments URL: https://news.ycombinator.com/item?id=50467460 Points: 190 # Comments: 2",
+      "author": "dverlaeckt80",
+      "summary": "칩스앤치즈에서 AMD 엔지니어 Mike Clark과 차세대 Zen 6 프로세서에 대해 상세히 논의했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "786f478617ff",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "수백 개의 스트리밍 서비스, 볼 게 없다",
+      "link": "https://arstechnica.com/gadgets/2026/11/hundreds-of-streaming-services-and-nothing-to-watch/",
+      "publishedAt": "2026-11-12T14:00:19.000Z",
+      "description": "Most viewers wish there was a TV Guide for streaming.",
+      "author": "Scharon Harding",
+      "summary": "수백 개의 스트리밍 서비스에도 불구하고 시청자들이 원하는 콘텐츠를 찾기 어려워하며, TV 가이드 같은 안내 기능이 필요하다는 의견이 제기됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f4f1f2b7cb85",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "구글과 삼성의 Android XR 스마트 안경 드디어 출시",
+      "link": "https://www.wired.com/story/google-samsung-intelligent-eyewear-launch-warby-parker-gentle-monster-smart-glasses/",
+      "publishedAt": "2026-11-12T14:00:00.000Z",
+      "description": "The Warby Parker and Gentle Monster frames cost $395 and $449, respectively, and come in a handful of styles.",
+      "author": "Julian Chokkattu",
+      "summary": "구글과 삼성이 협력한 Android XR 스마트 안경이 Warby Parker와 Gentle Monster 프레임으로 각각 395달러와 449달러 가격대로 출시됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2f76a801f147",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "집에 도둑 들면 바로 출동?…아마존 '보안 드론'",
+      "link": "https://www.etnews.com/20261111000454",
+      "publishedAt": "2026-11-12T13:30:00.000Z",
+      "description": "집 안에서 이상 징후가 감지되면 자동으로 날아가 현장을 확인하는 보안 드론이 공개됐습니다. 미국 아마존 보안기기 업체 링(Ring)은 지난 10일 가정용 보안 드론 '드론 캠'을 공개했습니다. 이 드론은 연결된 보안 센서나 경보기가 작동하면 미리 설정된 장소로 날아가 영상을 촬영합니다. AI를 이용해 집 안 구조를 파악하고 가구 등 장애물을 피해 비행할 수 있으며, 사용자가 원하는 시간과 경로를 설정해 자동 순찰할 수 있습니다. 탑재된 2K 카",
+      "author": "이창민",
+      "summary": "아마존 링이 공개한 보안 드론은 센서 작동 시 자동으로 비행해 영상을 촬영하며, AI로 집 구조를 파악해 장애물을 회피하고 자동 순찰 설정이 가능하다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ad3b47c024ee",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "리뷰: 애플 M6 iMac은 비싸지만 깔끔한 책상에는 여전히 좋은 선택",
+      "link": "https://arstechnica.com/features/2026/11/review-apples-m6-imac-is-pricey-but-its-still-a-good-choice-for-a-clean-desk/",
+      "publishedAt": "2026-11-12T12:00:37.000Z",
+      "description": "Apple's M6 keeps the iMac current without shaking things up much.",
+      "author": "Andrew Cunningham",
+      "summary": "애플 M6 칩 iMac은 혁신적이진 않지만 현재 기준을 충족하는 제품으로, 미니멀한 책상 구성을 원하는 사용자에게 여전히 좋은 선택이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "450dfea3126d",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "[속보] 엔비디아, 젠슨황 사임에 뉴욕증시서 13% 급락 출발",
+      "link": "https://www.mk.co.kr/news/stock/12207212",
+      "publishedAt": "2026-11-12T14:49:37.000Z",
+      "description": "엔비디아 급락 출발…1년4개월來 최저 뉴욕증시 혼조세…국제유가는 하락해엔비디아 CEO 스캔들 의혹이 일파만파 커지자 젠슨 황이 사임했다. 엔비디아의 주가는 장초반 13% 가량 급락..",
+      "author": "매일경제",
+      "summary": "엔비디아 CEO 젠슨 황의 사임 소식에 뉴욕증시에서 주가가 장초반 13% 가량 급락했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a4fea584d350",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "세상에서 일어나는 일",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct9955?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-12T14:30:00.000Z",
+      "description": "What can you do to protect your personal date?",
+      "author": null,
+      "summary": "개인 정보를 보호하기 위해 개인이 취할 수 있는 실천 방법들을 소개했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "72c3b4d1d62c",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "Poundland, 인수 협상 추가 기간 확보",
+      "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-12T14:29:59.000Z",
+      "description": "A deadline to secure a buyer was set to expire at midnight, but the retailer now has an extra 10 days to find a buyer.",
+      "author": null,
+      "summary": "영국 저가 소매업체 Poundland가 채권자로부터의 법적 보호를 받은 가운데 인수자 확보 기한을 추가 10일로 연장받았다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0e5425f56ff5",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "특례시 시장들 \"규모에 걸맞는 실질적 권한 부여해야\" 한목소리",
+      "link": "https://www.mk.co.kr/news/economy/12207183",
+      "publishedAt": "2026-11-12T14:26:18.000Z",
+      "description": "‘특례시시장협의회’ 정기회의 법적권한·재정 확대 등 논의대한민국특례시시장협의회는 12일 용인시 처인구 포곡읍 에버랜드 판다월드 교육장에서 ‘2026년 제2회 정기회의’를 열고 특례..",
+      "author": "매일경제",
+      "summary": "특례시 시장협의회가 정기회의를 열어 규모에 걸맞는 실질적 권한 부여와 재정 확대를 요구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e2d5b81f0bf5",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "중국의 배터리 스와핑 기술, 전기트럭 주행거리 불안 해소할까?",
+      "link": "https://www.theguardian.com/environment/2026/nov/12/china-battery-swapping-e-trucks-catl-ev-range-anxiety",
+      "publishedAt": "2026-11-12T14:00:42.000Z",
+      "description": "Battery maker CATL aims to have 2,000 swapping stations in China by the end of 2027 and to bring the tech to Europe Every day, Wang Bing drives his big electric lorry to send about five tonnes of goods between the cities of Haikou and Dongfang on Hainan, a tropical island in southern China. A round trip covers about 500 kilometres (310 miles). But refuelling is not something Wang worries about. “When my battery runs low, I just drive my truck into a battery-swapping station to get a fully charged one,” says the 53-year-old, who shares the journey with a colleague in eight-hour shifts. Continue",
+      "author": "Xiaoying You",
+      "summary": "중국 배터리 제조업체 CATL은 2027년까지 2000개의 배터리 스와핑 스테이션을 중국에 설치하고 유럽 진출을 계획하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "79c040ca3290",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "주식 손실 나도 못 파는 개인투자자…3명 중 2명 '보유·물타기'",
+      "link": "https://www.mk.co.kr/news/stock/12207149",
+      "publishedAt": "2026-11-12T13:59:07.000Z",
+      "description": "국내 개인투자자 3명 중 2명은 손실이 난 종목을 계속 보유하거나 추가 매수에 나서고 있다는 보고서가 나왔다. 토스 금융경영연구소 토스인사이트가 12일 발간한 ‘국내 개인 투자자들..",
+      "author": "매일경제",
+      "summary": "국내 개인투자자의 3분의 2가 손실이 난 종목을 계속 보유하거나 추가 매수에 나서고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7b12264cc892",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "Poundland, 2주 추가 기간으로 생존 모색",
+      "link": "https://www.theguardian.com/business/2026/nov/12/poundland-owner-secures-two-extra-weeks-ensure-retail-chains-survival",
+      "publishedAt": "2026-11-12T13:46:34.000Z",
+      "description": "US investment firm Gordon Brothers is ‘taking due care’ to consider if one of three bidders has enough funds Poundland’s owner has said it is “taking due care” to consider if one of three bidders had enough funds to ensure its survival after the troubled budget retail chain secured two more weeks to find a deal. The management of Poundland, which employs approximately 12,000 people and operates 600 stores in the UK and Ireland, won approval from the high court for an extension of legal protection from creditors on Thursday morning. Continue reading...",
+      "author": "Sarah Butler",
+      "summary": "Poundland의 소유사가 법원으로부터 채권자로부터의 법적 보호 연장을 승인받아 2주 추가 시간을 확보했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2531909e420e",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "경북 예천 소 농장서 구제역 발생…19일까지 전국 집중 소독",
+      "link": "https://www.yna.co.kr/view/AKR20261112181800030",
+      "publishedAt": "2026-11-12T12:40:26.000Z",
+      "description": "(서울=연합뉴스) 한주홍 기자 = 경북 예천군의 소 사육 농장에서 구제역이 발생했다. 올해 들어 국내 구제역 발생 사례는 모두 16건으로 늘었다...",
+      "author": "한주홍",
+      "summary": "경북 예천군의 소 사육 농장에서 구제역이 발생했으며, 올해 국내 구제역 발생은 총 16건으로 늘었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "197d9ca4703c",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "인천 강화 산란계 농장서 고병원성 AI 발생…이달 들어 네 번째",
+      "link": "https://www.yna.co.kr/view/AKR20261112110051030",
+      "publishedAt": "2026-11-12T12:16:01.000Z",
+      "description": "(서울=연합뉴스) 한주홍 기자 = 고병원성 조류인플루엔자(AI) 중앙사고수습본부는 12일 인천 강화군의 산란계 농장(4만8천여 마리 사육)에서 ...",
+      "author": "한주홍",
+      "summary": "인천 강화군의 산란계 농장에서 고병원성 조류인플루엔자가 발생했으며, 이달 들어 네 번째 사례이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7e6adc98e25c",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "[단독] 美경제석학 로고프 \"AI거품 극적으로 붕괴할것…그래도 한국은 승자\"",
+      "link": "https://www.mk.co.kr/news/economy/12206895",
+      "publishedAt": "2026-11-12T11:38:26.000Z",
+      "description": "케네스 로고프 하버드대 국제경제학 석좌교수 인터뷰 부유세 도입만으론 효과 적어 韓 경제 불평등 해소하려면 중산층 더 두텁게 만들어야 AI 거품은 언젠가는 꺼질 것 나랏빚 너무 늘리..",
+      "author": "매일경제",
+      "summary": "하버드대 케네스 로고프 교수는 AI 거품이 극적으로 붕괴할 것으로 예측하면서도 한국은 경제적 승자가 될 것이라고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "cc8e25c38098",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "신천지 갈등 속 尹탄핵발언 논란 '최민희 감찰'…與계파 대립 새국면",
+      "link": "https://www.yna.co.kr/view/AKR20261112183100001",
+      "publishedAt": "2026-11-12T14:48:00.000Z",
+      "description": "(서울=연합뉴스) 박경준 기자 = 더불어민주당 김민석 대표가 12일 '언행 논란'을 이유로 친청(친정청래)계 최고위원인 최민희 의원에 대한 '즉...",
+      "author": "박경준",
+      "summary": "더불어민주당 김민석 대표가 최민희 최고위원의 언행 논란을 빌미로 당 윤리감찰단에 즉시감찰을 지시했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6fb07e2e006b",
+      "category": "politics",
+      "source": "조선일보",
+      "region": "kr",
+      "title": "[카페 2030] AI에 '당했음 인간'들의 시대",
+      "link": "https://www.chosun.com/opinion/cafe_2040/2026/11/12/DFZ5U6U4VNDSNBLNRS7D3X3ZMM/",
+      "publishedAt": "2026-11-12T14:46:00.000Z",
+      "description": "",
+      "author": "이해인 기자",
+      "summary": "'카페 2030'이라는 코너에서 인공지능 발전으로 인한 인간의 삶의 변화를 조명한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b5f973d8192c",
+      "category": "politics",
+      "source": "노컷뉴스",
+      "region": "kr",
+      "title": "'코스닥 부양책' 소문 퍼지자 당국·거래소 \"사실무근\"",
+      "link": "https://www.nocutnews.co.kr/news/6605940",
+      "publishedAt": "2026-11-12T14:40:52.000Z",
+      "description": "금융당국과 한국거래소가 정부가 코스닥 부양책을 발표한다는 소문이 사실이 아니라고 12일 밝혔다. 근거 없는 풍문을 유포하는 행위가 자본시장법상 불공정거래에 해당할 수 있다며 위법 행위가 확인되면 엄정 조치하겠다고 경고했다. 금융위원회와 금융감독원, 한국거래소는 이날 언론 공지를 통해 \"현재 인터넷 상에서 유포되고 있는 11월 13일 코스닥 활성화 추가대책 발표 예정, 현행 가격제한폭 완화 또는 단계적 폐지방안 검토는 전혀 사실이 아니다\"라고 밝혔다. 현재 소셜미디어(SNS) 등에선 정부가 13일 자본시장 대책으로 코스닥 활성화 방안을 발표할 것이란 공지가 '받은 글' 등 형식으로 유포되고 있다. 해당 글에는 개인투자자 거래 활성화와 유동성 확대를 위해 현행 코스닥 시장의 가격제한폭(±30%)을 완화하거나 단계적으로 폐지하는 방안을 검토하고 있으며, 세부 적용 방식은 관계부처 협의 후 발표될 예정이라는 내용이 담겼다. 그러나 금융당국은 \"근거 없는 풍문 유포는 자본시장법상 불공정거래에 해당할 수 있으며, 위법 행위가 확인되면 엄정 조치할 예정\"이라고 밝혔다. 이어 투자자들에게 출처가 확인되지 않은 풍문에 따라 투자하지 말고 정책 관련 정보는 반드시 공식 보도자",
+      "author": null,
+      "summary": "금융당국과 거래소가 정부의 코스닥 부양책 발표 소문을 부인하고 근거 없는 풍문 유포를 자본시장법상 불공정거래로 경고했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d4a1c9b59159",
+      "category": "politics",
+      "source": "SBS 뉴스",
+      "region": "kr",
+      "title": "'청년 월세'도 미래기금…3년 뒤엔 못 주나?",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008843696",
+      "publishedAt": "2026-11-12T13:06:00.000Z",
+      "description": "국회에서 진행 중인 내년도 정부 예산안 심사에서 단연 화두는 신설되는 미래대응기금입니다. 전체 162조 원 규모로 104조 원은 미래 대응을 위해 적립하고, 45조 원은 청년과 지방 등에 투자한다는 게 정부 구상입니다.",
+      "author": "ms@sbs.co.kr (장민성)",
+      "summary": "정부가 신설하는 162조 원 규모의 미래대응기금 중 45조 원을 청년과 지방에 투자할 계획이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6bf96e0bfe9f",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "김민석, '李대통령 尹탄핵반대' 발언 논란 최민희 즉시감찰 지시(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261112180351001",
+      "publishedAt": "2026-11-12T12:58:42.000Z",
+      "description": "(서울=연합뉴스) 김남권 최주성 기자 = 더불어민주당 김민석 대표는 12일 최고위원인 최민희 의원의 언행 논란과 관련해 당 윤리감찰단에 즉시 감...",
+      "author": "최주성",
+      "summary": "민주당 김민석 대표가 최민희 최고위원의 언행 논란에 대해 당 윤리감찰단에 즉시감찰을 지시했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3b051ab619b7",
+      "category": "politics",
+      "source": "서울신문",
+      "region": "kr",
+      "title": "김민석, 최민희 긴급 감찰조사 지시… \"최근 언행 심각하게 인식\"",
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20261112500369",
+      "publishedAt": "2026-11-12T12:50:36.000Z",
+      "description": "김민석 더불어민주당 대표가 12일 당 윤리감찰단에 최근 잇달아 언행 관련 논란을 일으킨 최민희 민주당 최고위원에 대해 즉시 감찰조사에 착수할 것을 지시했다. 민주당은 이날 공지를 내고 “김 대표가 최근 최 최고위원의 일련의 언행과 관련한 여러 논란을 심각하게 인식하고 당 윤리감찰단에 관련 사안에 대해 즉시 감찰조사를 지시했다”며 “이번 조사는 그간 제기된 문제들의 사실관계와 경위를 객관적으로 확인하고, 당헌·당규 및 윤리규범 위반 여부를 살펴보기 위한 것”이라고 밝혔다. 앞서 이날 최 최고위원이 지난 10월 본인의 지역구인 남양주시에서 열린 지역 비공개 간담회에서 “이재명 대통령도 윤석열 전 대통령 탄핵에 반대했다”는 취지의 내용이 보도됐다. 그러자 청와대는 강유정 수석대변인 명의의 입장문에서 “이 대통령이 윤 전 대통령의 탄핵에 반대했다는 최 최고위원의 전언은 사실무근이며 강한 유감을 표한다”고 반박했다. 최 최고위원은 문제가 커지자 페이스북에 “유시민 작가가 검찰개혁 관련해 대통령이 ‘속였다’는 발언을 부인하는 과정에서 나온 말”이라고 해명했다. 하지만 비판이 끊이지 않자 다시 한번 글을 올려 “대통령께서는 내란 후 일관되게 윤석열 탄핵을 주장·관철시키셨",
+      "author": "김서호 기자",
+      "summary": "민주당 최민희 최고위원이 '이재명 대통령도 윤석열 탄핵에 반대했다'는 발언으로 논란을 빚어 김민석 대표가 윤리감찰을 지시했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c5506419a473",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "[포토뉴스]메가프로젝트 '첫 삽'",
+      "link": "https://www.khan.co.kr/article/202611122136025/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-11-12T12:36:02.000Z",
+      "description": "이재명 대통령이 12일 충남 아산 삼성전자 온양캠퍼스 건설 현장에서 열린 충청권 메가프로젝트 착공식에서 세리머니를 하고 있다. 왼쪽부터 오세현 아산시장, 박수현 충남도지사, 김정관 산업통상부 장관, 이 대통령, 이재용 삼성전자 회장, 박문성 삼성전자 우수직원과 자녀.",
+      "author": "청와대사진기자단",
+      "summary": "이재명 대통령이 충남 아산 삼성전자 온양캠퍼스 건설 현장에서 충청권 메가프로젝트 착공식을 개최했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "99171d8755a1",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "\"한덕수 석방 땐 재판에 지장\"…내란특검, 이진관 재판부에 의견서",
+      "link": "https://www.donga.com/news/Society/article/all/20261112/135017174/1",
+      "publishedAt": "2026-11-12T12:23:00.000Z",
+      "description": "내란 특검(특별검사 조은석)이 한덕수 전 국무총리의 ‘헌법재판소 재판관 미임명’ 사건을 맡은 서울중앙지법 형사합의33부(부장판사 이진관)에 한 전 총리가 석방될 수 있는 상황에 대한 의견서를 12일 제출했다. 한 전 총리는 20일 구속기간이 만료돼 해당 재판부가 추가 구속영장을 발부하지 않으면 일시 석방될 수 있다.특검은 이날 ‘선고기일 전 한덕수의 별건 구속 만료에 따른 참고 의견’이라는 제목의 의견서를 제출했다. 특검은 한 전 총리가 석방되면 30일로 예정된 해당 재판 선고를 비롯해 한 전 총리의 내란 중요임무 종사 혐의 재판 절차에도 지장이 있을 수 있다는 의견을 낸 것으로 파악됐다. 다만 구속영장 발부를 직접적으로 요청하는 내용은 담기지 않은 것으로 전해졌다.한 전 총리는 내란 중요임무 종사 등 혐의로 구속돼 항소심에서 징역 15년을 선고받았다. 한 전 총리가 상고한 후 사건은 대법원 전원합의체에 회부됐다. 이후 대법원은 구속기간이 만료되는 20일 전까지도 선고기일을 잡지",
+      "author": null,
+      "summary": "내란 특검이 한덕수 전 총리의 구속기간 만료에 따른 석방이 재판 절차에 미치는 영향에 대한 의견서를 제출했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "359c7f33a685",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "올공 시위대 \"1인 시위는 못 쫓아내\"…자진철거 기한 연장에도 '요지부동'",
+      "link": "https://www.khan.co.kr/article/202611122110025/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-11-12T12:10:02.000Z",
+      "description": "추가 연장·강제철수 여부 ‘미정’피해액 31억원…책임 주체 모호물러날 기미 안 보이는 시위대 잠실 개표소 봉쇄 시위 자진 철수 연장 기한 마지막 날인 12일 서울 송파구 올림픽공원 핸드볼경기장에서 시위대가 태극기를 흔들고 있다. 문재원 기자“여긴 제2의 4·19혁명 성지가 될 건데 왜 치워.”‘개표소 봉쇄 시위’의 자진철수 기한 마지막 날인 12일 오후 1···",
+      "author": "하주언 기자",
+      "summary": "올림픽공원 개표소 봉쇄 시위대가 자진철거 기한 연장 후에도 계속 버티고 있으며 피해액은 31억원에 이르렀다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "4191a3f5f213",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "'차별 맞다' 대법 판결에도 버티다…정부, 배상 책임 인정",
+      "link": "https://www.khan.co.kr/article/202611122110015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-11-12T12:10:01.000Z",
+      "description": "우체국 금융서비스 이용 차별에정신장애인들, 국가배상금 신청재심 거쳐 2년9개월 만에 확정우체국 금융서비스를 이용하는 과정에서 차별을 당한 정신장애인 40명이 정부로부터 1인당 20만원씩 위자료를 받게 됐다. 이들이 배상을 받기까지 2년9개월이 걸렸다.12일 경향신문 취재 결과 법무부 산하 본부배상심의회는 지난 3일 정신장애인 40명이 우정사업본부의 업무상 ···",
+      "author": "허진무 기자",
+      "summary": "정신장애인 40명이 우체국 금융서비스 차별에 대해 정부로부터 1인당 20만원의 위자료를 받기로 결정되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "930d3dc7496f",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "트럼프 \"대규모 이민행렬 美침공…멕시코, 안막으면 관세 2배\"",
+      "link": "https://www.yna.co.kr/view/AKR20261112184000071",
+      "publishedAt": "2026-11-12T14:59:54.000Z",
+      "description": "(워싱턴=연합뉴스) 홍정규 특파원 = 도널드 트럼프 미국 대통령은 멕시코에서 미국으로 향하는 대규모 이민자 행렬이 형성됐다면서, 이를 막지 않으...",
+      "author": "홍정규",
+      "summary": "트럼프 미국 대통령이 멕시코발 대규모 이민 행렬을 '침공'으로 표현하며 이를 막지 않으면 관세를 2배로 올리겠다고 위협했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f650656bd35b",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "40년 집권 우간다 대통령…아들이 권력 승계하나",
+      "link": "https://www.yna.co.kr/view/AKR20261112186700099",
+      "publishedAt": "2026-11-12T14:59:00.000Z",
+      "description": "(요하네스버그=연합뉴스) 나확진 특파원 = 아프리카 우간다에서 40년째 집권하고 있는 요웨리 무세베니(82) 대통령에 이어 그의 아들 무후지 카...",
+      "author": "나확진",
+      "summary": "40년 집권한 우간다 무세베니 대통령(82)의 아들이 권력을 승계할 가능성이 제기되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1b0ca78d3e52",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "이란, 망명한 기자들도 국경 넘어 억압",
+      "link": "https://www.dw.com/en/iran-exiled-journalists-still-repressed-by-regime/a-79929694?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-11-12T14:25:00.000Z",
+      "description": "For many independent reporters, leaving Iran does not mean fully escaping the grasp of the Iranian state. The regime uses family members, bank accounts and the property they left behind to apply pressure across borders.",
+      "author": null,
+      "summary": "이란을 떠난 독립적 기자들도 가족과 자산을 인질로 삼는 방식의 이란 정권의 국경 간 억압으로부터 벗어나지 못하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8a0fc2266967",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "가자 다큐 'NAZA' 영화관·온라인으로 상영",
+      "link": "https://www.theguardian.com/global/2026/nov/12/naza-how-to-watch-guardian-acclaimed-gaza-documentary",
+      "publishedAt": "2026-11-12T14:23:50.000Z",
+      "description": "Film features testimony from 24 Israeli officials involved in surveillance and remote killing of Palestinian civilians • NAZA is in cinemas worldwide and will screen for free on the Guardian’s website from early December. Sign up here to be the first to watch it Continue reading...",
+      "author": "Guardian staff",
+      "summary": "이스라엘 관계자 24명의 증언을 담은 가자 다큐멘터리 'NAZA'가 세계 영화관에서 상영 중이며 12월 초부터 영국 가디언 웹사이트에서 무료로 시청할 수 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d14bcac7850e",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "인도네시아 부통령 학위 위조 의혹으로 사직",
+      "link": "https://www.npr.org/2026/11/12/g-s1-153190/indonesias-vp-resigns-as-his-eligibility-and-academic-credentials-are-questioned",
+      "publishedAt": "2026-11-12T14:22:50.000Z",
+      "description": "Raka is the son of former President Joko Widodo. The Constitutional Court and the Supreme Court ruled last month that the documents that Raka submitted regarding his overseas education didn't meet election requirements.",
+      "author": "The Associated Press",
+      "summary": "전 대통령 조코 위도도의 아들인 라카 부통령이 해외 교육 자격 문서가 선거 요건을 충족하지 못한다는 헌법재판소 판결 이후 사직했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c645948630e6",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "콜롬비아 공습, 갈프클랜 간부 8명 살상",
+      "link": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-12T13:58:49.000Z",
+      "description": "A suspected gang leader considered a \"priority target\" was among those killed, the Colombian president says.",
+      "author": null,
+      "summary": "콜롬비아가 갈프클랜 범죄조직을 표적으로 한 공습을 단행하여 중요 인물로 지목된 조직원 8명을 살상했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0e756b78f68d",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "시진핑, 타이완 통일 필연성 강조",
+      "link": "https://www.dw.com/en/china-s-xi-jinping-renews-calls-for-reunification-with-taiwan/a-79929738?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-11-12T13:26:00.000Z",
+      "description": "Xi Jinping said that reunification was inevitable, but stopped short of mentioning military force. Taiwan though swiftly rejected Beijing's demands as tensions continue over the island's future.",
+      "author": null,
+      "summary": "시진핑 중국 국가주석이 타이완과의 통일이 피할 수 없다고 주장했으나 무력 사용에 대해서는 언급하지 않았고, 타이완은 즉시 이를 거부했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "4b9bcb35c6f5",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "짐바브웨 작가, 상 수상작 AI 작성 의혹 해제",
+      "link": "https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story",
+      "publishedAt": "2026-11-12T13:14:38.000Z",
+      "description": "After a month-long investigation it was concluded that Kundizeza’s story The Blue Fighter, which won the £10,000 Caine prize, was ‘human-written’ The Zimbabwean author Simbarashe Kundizeza has been cleared of using AI to write a prize-winning short story, after the prestigious Caine prize for African writers concluded that his entry was “human-written” after a month-long investigation. Kundizeza’s story The Blue Fighter, which charts the declining fortunes of a family after the father invests in fish tanks, was announced as the winner of the £10,000 prize on 6 October. Continue reading...",
+      "author": "Rachel Savage in Johannesburg and agencies",
+      "summary": "짐바브웨 작가 심바라셰 쿤디제자의 단편소설 '더 블루 파이터'에 대한 AI 사용 의혹이 1개월 조사 후 해제되었으며, 작품은 인간이 작성한 것으로 판정되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "aece5c03bdfe",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "우크라이나 발전소, 러시아 드론 공격 속 운영 중",
+      "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-12T13:02:46.000Z",
+      "description": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
+      "author": null,
+      "summary": "우크라이나 최대 규모 발전소 중 하나가 러시아의 탄도 미사일 공격 이후 거의 초토화된 상태에서 끊임없는 드론 위협 속에 운영되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3e27b844923e",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "미시시피 상원선거서 콜롬 당선, 백악관 민주당 조사 경고",
+      "link": "https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia",
+      "publishedAt": "2026-11-12T12:15:48.000Z",
+      "description": "After more than a week of counting ballots, Scott Colom has narrowly won the Mississippi Senate seat. And, the White House has sent a letter warning Democrats who plan to investigate the administration.",
+      "author": "Brittney Melton",
+      "summary": "1주일 이상의 개표 과정을 거쳐 스콧 콜롬이 미시시피 상원 의석을 근소한 차이로 획득했으며, 백악관은 행정부 조사를 계획 중인 민주당에 경고장을 발송했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9145ab7d4a71",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]금융 회장 연임 요건 강화… '이너서클'도 '낙하산'도 안 된다",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261112/135017470/2",
+      "publishedAt": "2026-11-12T14:30:00.000Z",
+      "description": "당정이 금융지주 최고경영자(CEO)의 장기 연임을 까다롭게 하고 임원추천위원회(임추위)의 독립성을 높이는 금융회사 지배구조 개선 방안을 12일 내놓았다. 이재명 대통령이 지난해 12월 금융권의 ‘부패한 이너서클(내부조직)’ 문제를 지적한 지 약 11개월 만에 대책을 내놓은 것이다. 개선 방안에는 은행지주 CEO를 이사회 대신 주주총회에서 선임하게 하고 후보를 추천하는 임추위 의결 요건을 현행 과반수 찬성에서 선임과 연임 시 각각 3분의 2, 4분의 3으로 강화하는 내용이 포함됐다. ‘위헌 논란’이 있었던 연임 제한 대신 의결 요건을 대폭 강화한 것이다. 임추위도 모두 현직 CEO와 독립된 사외이사인 ‘독립이사’로 구성하게 했다. 임추위가 7명의 독립이사로 구성된다면 2명만 반대해도 CEO의 연임이 불가능하다. 금융회사처럼 지배주주가 없는 ‘주인 없는 회사’의 경우 현직 CEO의 영향력이 클 수밖에 없어 견제가 필요하다. 실제로 금융지주에서 경영 승계 절차가 개시된 뒤 재임 가능",
+      "author": null,
+      "summary": "정부가 금융지주 CEO 연임 요건을 대폭 강화하고 임원추천위원회를 독립이사로만 구성하면서, 지배주주 없는 금융회사에서 CEO의 과도한 영향력을 견제할 필요가 있다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "bf39b826b80e",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]메가 프로젝트 1호 온양서 첫 삽… 지원 입법도 '전격전'으로",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261112/135017474/2",
+      "publishedAt": "2026-11-12T14:27:00.000Z",
+      "description": "삼성전자가 46조 원을 투자하는 첨단 반도체 패키징 공장(팹) 착공식이 충남 삼성전자 온양 캠퍼스 건설 현장에서 12일 열렸다. 정부가 7월 미래 성장동력 확보를 위해 반도체, 피지컬 인공지능(AI), AI 데이터센터를 축으로 하는 ‘3대 메가 프로젝트’를 발표한 지 넉 달 만에 1호 사업이 첫 삽을 뜬 것이다. 온양 캠퍼스 신규 팹의 투자가 마무리되면 고대역폭메모리(HBM) 패키징 핵심 거점으로 부상하게 된다. 전 세계 고성능 반도체 패키징 시장은 지난해 121억 달러 규모에서 2031년에는 510억 달러로 증가할 것으로 전망된다. SK하이닉스의 용인 반도체 공장의 경우 계획 발표 이후 착공까지 6년이 걸렸다. 하지만 온양 캠퍼스 신규 팹은 충남도와 아산시가 인허가 소요 기간을 기존 사업의 3분의 1로 단축하면서 발표부터 착공까지 넉 달이 걸렸다. 기업의 투자 속도전은 지자체와 정부의 신속한 인허가와 인프라 지원 없이는 불가능하다. 메가 프로젝트 1호 사업이 첫발을 뗐지만,",
+      "author": null,
+      "summary": "삼성전자의 46조 원 반도체 팹이 발표 4개월 만에 착공하게 된 것은 정부와 지자체의 신속한 인허가와 인프라 지원이 있었기에 가능했다고 평가했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f2b390cb09cc",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "저녁 식사 후 민트가 나올 때, 우리는 어린 시절로 돌아간다",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/13/after-dinner-mints-australian-childhood-after-eights",
+      "publishedAt": "2026-11-12T14:00:44.000Z",
+      "description": "Australians of a certain age will all remember their parents ending dinner parties with the thin, chocolate-covered squares It’s an almost world-class error to volunteer the dessert for a meal with friends, when your only talent for dessert is the eating of it and you have $20 in your bank account until the next payday. Still, that was the unenviable position I found myself in recently. Blaming Donald Trump and his ridiculous wars for my lack of disposable income, I made my way to the supermarket, hoping there would be grapes and berries aplenty to make a fruit plate. Continue reading...",
+      "author": "Melanie Tait",
+      "summary": "저자가 트럼프(Donald Trump)의 정책으로 인한 경제적 곤란으로 저렴한 과일 디저트를 준비해야 하는 상황을 풍자적으로 묘사했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "443672b5db76",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "배우 존 말코비치(John Malkovich)는 여전히 파악하기 어렵다",
+      "link": "https://www.washingtonpost.com/opinions/2026/11/12/wild-horse-nine-star-john-malkovich-is-still-impossible-pin-down/",
+      "publishedAt": "2026-11-12T12:30:00.000Z",
+      "description": "His turn as a dying spy in “Wild Horse Nine” could bring a long-overdue Oscar.",
+      "author": "Will Leitch",
+      "summary": "평론가가 배우 존 말코비치의 '와일드 호스 나인(Wild Horse Nine)' 스파이 역할이 오스카상으로 이어질 수 있을 것으로 평가했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "23a42b4f639f",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "마크 레빈은 싫어한다. 인터넷은 조롱한다. 하지만 나는 떠나지 않겠다.",
+      "link": "https://www.washingtonpost.com/opinions/2026/11/12/mark-levins-aol-meltdown-wont-dissuade-this-user/",
+      "publishedAt": "2026-11-12T12:15:00.000Z",
+      "description": "The internet has moved on, but this longtime user still finds reasons to stay.",
+      "author": "John Ficarra",
+      "summary": "저자가 마크 레빈(Mark Levin)의 비판과 인터넷의 조롱에도 불구하고 계속 그곳에 머물러야 할 이유가 있다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "49ff8b7c31aa",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "냉혹한 진실: 네타냐후가 사라져도 가자의 살상은 멈추지 않을 것이다",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/12/gaza-benjamin-netanyahu-israel-opposition-palestinians",
+      "publishedAt": "2026-11-12T12:00:47.000Z",
+      "description": "It’s naive to think the Israeli opposition will act very differently. Look at what it has said about even the most vulnerable Palestinians “Every child, every baby in Gaza is the enemy.” In a normal society, a politician who said something so depraved would face total reputational ruin. Not so in Israel. Meet Moshe Feiglin, previously considered a “far-right outcast”, who has just been elected to Israel’s legislature. He said this last May, but he has also called for more Palestinian babies to die and for Gaza’s entire population, newborns included, to be expelled. In last month’s election, Fe",
+      "author": "Owen Jones",
+      "summary": "필자가 이스라엘 야당도 현 정부와 마찬가지로 팔레스타인에 대해 강경할 것이며, 이스라엘 정치에서 팔레스타인 추방 같은 극단적 주장이 정치적 대가 없이 방치되는 현실을 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "88b56a476077",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[김경의 별잇기 예술여행]배미정의 바다까지 다섯 시간 반",
+      "link": "https://www.khan.co.kr/article/202611122019015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-11-12T11:19:01.000Z",
+      "description": "나는 배미정을 잘 모른다. 한 번도 만난 적이 없다. 전시장에서 그림을 본 일도 없다. 그런데도 배미정의 개인전 ‘바닷가, 사이시옷’을 보기 위해 기꺼이 먼 길을 달려가고 있다. 강원도 평창에서 부산 좌천동. 무려 5시간 반 거리.배미정에게는 그런 힘이 있다. 멀리 있어도 가까이 다가가게 만들고, 옆에 앉아서 말을 붙이고, 속 깊은 이야기를 하고 또 듣게 ···",
+      "author": "김경 오별아트 디렉터·작가",
+      "summary": "미술 비평가가 낯선 배미정 작가의 전시를 보기 위해 5시간 반을 달려가는 여정을 담았다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "900c15e672c3",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[김태일의 좋은 정부 만들기]성명서: 미래대응기금의 성공을 위한 수정을 촉구합니다",
+      "link": "https://www.khan.co.kr/article/202611122019005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-11-12T11:19:00.000Z",
+      "description": "미래대응기금 법률안은 기금 목적을 경기 변동으로 인한 세수 변동성 완화와 미래대응투자라고 명시하고 있습니다. 그런데 실제 내용은 이러한 목적을 달성하기 어렵게 되어 있습니다. 그리고 법률안 설계대로 운영한다면 지방자치를 훼손하고 국회의 재정권을 침해합니다. 우리는 급증한 세수를 적립하여 대한민국의 미래를 위해 투자하겠다는 애초 취지가 충실히 구현되기를 바랍···",
+      "author": "김태일 고려대 행정학과 교수",
+      "summary": "교수가 미래대응기금 법안이 원래 목적을 달성하기 어렵고 지방자치와 국회의 재정권을 침해할 수 있다며 수정을 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6dfd2d15e185",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "민주당이 이제 권력을 갖고 있다. 그것을 깨어있는 정책에 낭비해서는 안 된다.",
+      "link": "https://www.nytimes.com/2026/11/12/opinion/interesting-times-christine-rosen-catherine-liu.html",
+      "publishedAt": "2026-11-12T10:50:34.000Z",
+      "description": "This leftist thinker is skeptical that they can govern without lecturing the country.",
+      "author": "Christine Rosen and Sophia Muniz",
+      "summary": "필자들이 민주당이 국민을 계몽하려 하기보다는 실질적인 정책 추진에 중점을 두어야 한다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "13be1d06d321",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "젠슨 황이 가죽 자켓 커뮤니티를 배반했다",
+      "link": "https://www.nytimes.com/2026/11/11/opinion/jensen-huang-leather-jacket.html",
+      "publishedAt": "2026-11-11T23:46:42.000Z",
+      "description": "One man’s fleshly failures should not impugn our second skins.",
+      "author": "Anand Giridharadas",
+      "summary": "필자가 한 개인의 실패가 그가 속한 커뮤니티나 문화 전체를 대표하지는 않는다며 풍자적으로 주장했다.",
+      "summarySource": "llm"
+    }
+  ],
+  "summarizedAt": "2026-11-13T02:32:01.875Z",
+  "summaryStats": {
+    "llm": 50,
+    "fallback": 0,
+    "model": "claude-haiku-4-5"
+  }
+}
