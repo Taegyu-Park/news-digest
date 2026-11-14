@@ -1,0 +1,898 @@
+{
+  "date": "2026-11-13",
+  "generatedAt": "2026-11-14T01:59:11.059Z",
+  "categories": [
+    {
+      "id": "it",
+      "label": "IT·과학·AI"
+    },
+    {
+      "id": "economy",
+      "label": "경제·금융"
+    },
+    {
+      "id": "politics",
+      "label": "정치·사회"
+    },
+    {
+      "id": "world",
+      "label": "세계·국제"
+    },
+    {
+      "id": "editorial",
+      "label": "사설·칼럼",
+      "opinion": true,
+      "summaryMaxChars": 220
+    }
+  ],
+  "feedStatus": [
+    {
+      "source": "Ars Technica",
+      "category": "it",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "Hacker News",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "TechCrunch",
+      "category": "it",
+      "ok": true,
+      "matched": 12
+    },
+    {
+      "source": "The Verge",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "블로터",
+      "category": "it",
+      "ok": true,
+      "matched": 19
+    },
+    {
+      "source": "전자신문",
+      "category": "it",
+      "ok": true,
+      "matched": 27
+    },
+    {
+      "source": "ZDNet Korea",
+      "category": "it",
+      "ok": true,
+      "matched": 17
+    },
+    {
+      "source": "BBC Business",
+      "category": "economy",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "The Guardian",
+      "category": "economy",
+      "ok": true,
+      "matched": 18
+    },
+    {
+      "source": "매일경제 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 29
+    },
+    {
+      "source": "연합뉴스",
+      "category": "economy",
+      "ok": true,
+      "matched": 99
+    },
+    {
+      "source": "경향신문 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 40
+    },
+    {
+      "source": "경향신문 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 23
+    },
+    {
+      "source": "노컷뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 1
+    },
+    {
+      "source": "서울신문",
+      "category": "politics",
+      "ok": true,
+      "matched": 4
+    },
+    {
+      "source": "연합뉴스 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 54
+    },
+    {
+      "source": "연합뉴스 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 84
+    },
+    {
+      "source": "SBS 뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 26
+    },
+    {
+      "source": "Al Jazeera",
+      "category": "world",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC World",
+      "category": "world",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "NPR",
+      "category": "world",
+      "ok": true,
+      "matched": 3
+    },
+    {
+      "source": "The Guardian",
+      "category": "world",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "연합뉴스 국제",
+      "category": "world",
+      "ok": true,
+      "matched": 55
+    },
+    {
+      "source": "매일경제 증권",
+      "category": "economy",
+      "ok": true,
+      "matched": 37
+    },
+    {
+      "source": "경향신문 오피니언",
+      "category": "editorial",
+      "ok": true,
+      "matched": 2
+    },
+    {
+      "source": "NYT Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "The Guardian Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 12
+    },
+    {
+      "source": "Washington Post Opinions",
+      "category": "editorial",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "동아일보 사설",
+      "category": "editorial",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "동아일보 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 39
+    },
+    {
+      "source": "조선일보",
+      "category": "politics",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "동아일보 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 27
+    },
+    {
+      "source": "머니투데이",
+      "category": "economy",
+      "ok": true,
+      "matched": 7
+    },
+    {
+      "source": "Wired",
+      "category": "it",
+      "ok": true,
+      "matched": 31
+    },
+    {
+      "source": "DW News",
+      "category": "world",
+      "ok": true,
+      "matched": 15
+    }
+  ],
+  "items": [
+    {
+      "id": "8feaf77cade0",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "삼성, 플랙트 이어 美 모딘 눈독…AI 냉각시장 공략 가속",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=678555",
+      "publishedAt": "2026-11-13T14:59:57.000Z",
+      "description": "삼성전자가 독일 플랙트그룹에 이어 미국 데이터센터 냉각 전문기업 '모딘 매뉴팩처링(Modine Manufacturing)'까지 인수하는 방안을 논의 중인 것으로 알려졌다. AI(인공지능) 데이터센터 확대로 고성능 냉각설비 수요가 급증하자 플랙트그룹의 공조 기술에 모딘의 북미 고객망과 생산 기반을 더해 글로벌 시장 공략에 속도를 내려는 것으로 풀이된다. 214조원이 넘는 현금성 자산을 확보한 만큼 인수가 성사되면 데이터센터 냉각사업을 새로운 성장동력으로 키우는 데 한층 탄력이 붙을 전망이다. AI 서버 발열량 급증…고성능 냉각설비 수",
+      "author": "이가영 기자",
+      "summary": "삼성전자가 독일 플랙트그룹에 이어 미국 냉각 전문기업 모딘 매뉴팩처링 인수를 논의 중이며, 플랙트의 공조 기술과 모딘의 북미 고객망을 결합해 AI 데이터센터 냉각시장 공략을 가속화하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a351355edf69",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "우버, 보안 사고로 수천 명 운전자 면허 정보 도난 확인",
+      "link": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+      "publishedAt": "2026-11-13T14:57:55.000Z",
+      "description": "The ridesharing giant said drivers' license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
+      "author": "Zack Whittaker",
+      "summary": "우버가 AI 클라우드 기업 파이어웍스AI에 저장된 수천 명의 드라이버 면허 정보가 보안 사고로 도난당했다고 확인했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "109e2cb06f81",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "화면 없는 GPS, 슬레이트 오토의 도로 지도책 부활 프로젝트",
+      "link": "https://arstechnica.com/culture/2026/11/screenless-gps-slate-auto-says-remember-the-road-atlas/",
+      "publishedAt": "2026-11-13T14:45:04.000Z",
+      "description": "What’s more fitting than a spiral-bound map for a bare-bones two-door pickup?",
+      "author": "Jonathan M. Gitlin",
+      "summary": "슬레이트 오토가 화면 없는 GPS로 전통적인 종이 도로 지도의 개념을 부활시키려고 한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "de9330788d49",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "정진완 우리은행장, 1년 연임 '자본비율 개선' 성과 검증 재신임",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=678552",
+      "publishedAt": "2026-11-13T14:41:24.000Z",
+      "description": "우리금융그룹이 정진완 우리은행장의 임기를 1년 연장하기로 결정했다. 은행 이사회와 외부 전문기관이 참여한 경영성과 검증을 거쳐 재신임했으며 자본비율 개선과 실적 회복 등을 주요 평가 근거로 제시했다.13일 우리금융은 자회사대표이사후보추천위원회를 열고 정 행장의 임기를 2027년 12월31일까지 연장하기로 했다. 정 행장은 11월 말 예정된 우리은행 주주총회에서 최종 선임되면 추가로 1년간 은행을 이끈다. 2024년 11월 차기 행장 후보로 선정돼 2025년 1월 취임한 정 행장의 기존 임기는 2026년 말까지였다. 2년 성과 평가",
+      "author": "류수재 기자",
+      "summary": "우리금융이 정진완 우리은행장의 임기를 2027년 12월까지 1년 연장하기로 결정했으며, 자본비율 개선과 실적 회복이 주요 평가 근거가 됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ecba2d3bd137",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "엔젤 이스트, 2026년 에코바디스 실버 메달 획득…전 세계 상위 10% 진입",
+      "link": "https://zdnet.co.kr/view/?no=20261113231012",
+      "publishedAt": "2026-11-13T14:10:12.000Z",
+      "description": "[지디넷코리아] 이창, 중국 2026년 11월 13일 /PRNewswire/ -- 엔젤 이스트(Angel Yeast)(SSE: 600298)가 종합 점수 100점 만점에 78점을 기록하며 2026년 에코바디스 실버 메달(EcoVadis Silver Medal)을 획득했다. 이는 2025년보다 7점 상승한 점수다. 이번 성적으로 엔젤 이스트는 에코바디스가 평가한 전 세계 기업 중 상위 10%, '기타 식품 제조업' 분야에서는 상위 3%에 속하게 됐다. 이번 평가는 2027년 11월 9일까지 유효하며 회사가 4대 영역, 즉 환경, 노동 및 인권, 윤리, 지속가능한 조달에서 이룬 진전이 바탕이 됐다. Angel Yeast Awarded EcoVadis Silver Medal in 2026 with 78/100 Rating, Placing in the Top 10% of companies evaluated globally 에코바디스 평가 소개 에코바디스는 세계적으로 인정받는 CSR 등급평가 기관으로, 환경, 노동 및 인권, 윤리, 지속가능한 조달 분야에서 기업의 비재무적 성과를 평가한다. 평가 방법론은 국제 지속가능성 표준을 기초로 하며 엄격성과 신뢰성을 널리 인정",
+      "author": "글로벌뉴스",
+      "summary": "중국 효모 회사 엔젤 이스트가 에코바디스 평가에서 78점을 기록해 2026년 실버 메달을 획득했으며, 전 세계 기업 중 상위 10%, 식품 제조업 분야 상위 3%에 랭크됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "bd23f7e7b005",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "오만투자청, 술탄 중국 방문 중 역대 최대 투자 협약 체결",
+      "link": "https://zdnet.co.kr/view/?no=20261113231002",
+      "publishedAt": "2026-11-13T14:10:02.000Z",
+      "description": "[지디넷코리아]수십억 달러 규모 협약으로 투자, 에너지, 광업, 물류, 기술, 우주 분야 망라…프로젝트 대부분 오만에서 추진 예정 무스카트, 오만, 2026년 11월 13일 /PRNewswire/ -- 오만의 국부펀드 오만투자청(Oman Investment Authority, OIA)이 하이삼 빈 타리크(Haitham bin Tarik) 오만 술탄의 중국 국빈 방문 기간에 중국 기관 및 기업들과 하루 기준 역대 최대 규모인 수십억 달러 투자 협약 패키지를 체결했다. 오만 술탄의 중국 방문은 이번이 처음이다. Mr. Chen Liang Chairman of CICC and HE . HE Abdulsalam Al Murshidi. President of OIA 이번 협약은 재생에너지, 광업, 물류, 디지털 기술, 우주, 금융 서비스 등 다양한 분야를 망라하고 있다. 오만과 중국의 경제 관계가 전통적인 교역에서 공동 투자, 산업 현지화, 기술 이전, 장기적인 자본 협력으로 전환하고 있음을 보여주는 결과다. 오만투자청은 중국 실크로드기금(Silk Road Fund)과 미화 8억 달러 규모의 공동 펀드 조성 협약을 체결했으며, 자본의 대부분은 오만에 투자될 예정이다.",
+      "author": "글로벌뉴스",
+      "summary": "오만투자청이 오만 술탄의 중국 국빈 방문 중 중국 기관·기업과 수십억 달러 규모의 투자 협약을 체결했으며, 재생에너지·광업·물류·기술·우주 등 다양한 분야를 망라했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5a2f94425ce1",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "캠핑하다 실종된 호주 10대 소년, 엿새 만에 구조",
+      "link": "https://www.etnews.com/20261113000127",
+      "publishedAt": "2026-11-13T13:30:00.000Z",
+      "description": "호주에서 캠핑 도중 실종된 10대 소년이 엿새 만에 극적으로 구조됐다. 낯선 산속에서 길을 잃은 소년은 감자칩 한 봉지와 개울물에 의지하며 구조를 기다린 것으로 알려졌다. 12일(현지시간) 미국 피플지와 호주 시드니모닝헤럴드 등에 따르면 지난 6일 호주 빅토리아주 월할라에서 실종된 윌리엄 바클리(17)가 이날 오후 경찰 헬기에 의해 발견됐다. 자폐스펙트럼장애가 있는 윌리엄은 지난 6일 친구와 함께 캠핑하기 위해 멜버른에서 약 185㎞ 떨어진 월",
+      "author": "서희원",
+      "summary": "호주에서 캠핑 중 실종된 17세 청소년 윌리엄 바클리가 6일 만에 경찰 헬기에 발견됐으며, 감자칩 한 봉지와 개울물로 생존했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "4e641c9e72c9",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "2026년 최고의 워킹패드 트레드밀 3선",
+      "link": "https://www.wired.com/story/best-walking-pads/",
+      "publishedAt": "2026-11-13T12:34:00.000Z",
+      "description": "Our team clocked serious hours walking, working, and sometimes jogging to find the best under-desk treadmills for home offices and small spaces.",
+      "author": "Boutayna Chokrane",
+      "summary": "워이어드 편집진이 홈 오피스와 소규모 공간용 최고의 언더데스크 트레드밀을 찾기 위해 광범위한 테스트를 진행했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e264108e8e3d",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "TCL QM7L 미니LED TV 리뷰 (2026)",
+      "link": "https://www.wired.com/review/tcl-qm7l/",
+      "publishedAt": "2026-11-13T12:00:00.000Z",
+      "description": "$1,500 buys you vibrant color, deep blacks, and a fast screen fit for just about anything. Just be sure the wide pedestal fits your setup.",
+      "author": "Rick Broida",
+      "summary": "1500달러대의 TCL QM7L은 생생한 색감과 깊은 검은색, 빠른 화면 응답속도를 제공하지만 넓은 받침대가 공간에 맞는지 사전 확인이 필요하다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e759170b86ec",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "삼성·구글·젠틀몬스터 AI 안경, 1차 예판 완판…체험예약도 마감",
+      "link": "https://www.etnews.com/20261113000294",
+      "publishedAt": "2026-11-13T09:08:16.000Z",
+      "description": "삼성전자와 구글, 젠틀몬스터가 협업한 인공지능(AI) 안경 '인텔리전트 아이웨어'가 정식 출시 전부터 초기 반응을 끌어내고 있다. 사전예약을 시작한 지 수 시간 만에 주요 제품이 품절됐고, 미국 뉴욕에서 진행하는 일반 공개 행사도 예약이 모두 찬 것으로 파악됐다. 13일 업계에 따르면 젠틀몬스터는 전날 한국과 미국에서 인텔리전트 아이웨어 컬렉션 사전예약을 시작했다. 예약 개시 이후 수 시간 만에 주요 제품이 품절됐다. 현재 공식 온라인 스토어를",
+      "author": "남궁경",
+      "summary": "삼성·구글·젠틀몬스터의 AI 안경 '인텔리전트 아이웨어'가 정식 출시 전부터 사전예약 수 시간 만에 주요 제품이 품절되고 뉴욕 체험 예약도 마감됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ead88978aacd",
+      "category": "economy",
+      "source": "머니투데이",
+      "region": "kr",
+      "title": "젠슨 황 노린 '미인계'였나…\"불륜상대 中국가안전부 소속\"",
+      "link": "https://www.mt.co.kr/world/2026/11/13/2026111323284067553",
+      "publishedAt": "2026-11-13T14:35:12.000Z",
+      "description": "美 정보당국 \"중공 중앙판공청, AI 패권 경쟁 대응용 전담조직 설치\" \"앨리스 황, 中국가안전부 '반도체팀' 소속…시진핑 측근 지휘 받아\" '제2의 앨리스 황' 이미 암약…데이터센터 반대 여론전 등 전방위 공작 젠슨 황 엔비디아 전 최고경영자(CEO)의 불륜 상대인 앨리스 황(중국명 황러)이 중국 국가안전부 반도체 전담조직의 일원이라는 의혹이 제기됐다. 대만 유력 일간지 자유시보는 미국 측 정보 등을 인용해 중국공산당 중앙판공청이 미국과의 인공지능(AI) 패권 경쟁에서 우위를 확보하기 위해 당 중앙 차원의 최고위급 전담조직을 신설하고 국가안전부(MSS) 요원을 동원해 황 전 CEO에게 접근하는 등 전방위적인 대미(對美) 공작을 벌여온 정황이 포착됐다고 13일(현지시간) 보도했다....",
+      "author": null,
+      "summary": "美 정보당국 \"중공 중앙판공청, AI 패권 경쟁 대응용 전담조직 설치\" \"앨리스 황, 中국가안전부 '반도체팀' 소속…시진핑 측근 지휘 받아\" '제2의 앨리스 황' 이미 암약…데이터센터 반대 여론전 등 전방위 공작 젠슨 황 엔비디아 전 최고경영자(CEO)의 불륜 상대인 앨리스 황(중국명 황러)이 중국 국가안전부 반도체 전담…",
+      "summarySource": "rss"
+    },
+    {
+      "id": "f403a1640296",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "Shoplifters 'stealing to order' in Scottish shops",
+      "link": "https://www.bbc.co.uk/news/videos/cw772xkxjm37o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-13T14:16:09.000Z",
+      "description": "Shopworkers in Scotland say they're facing rising levels of violence, including attacks with harpoon guns and machetes, as reports of shoplifting rise dramatically.",
+      "author": null,
+      "summary": "Shopworkers in Scotland say they're facing rising levels of violence, including attacks with harpoon guns and machetes, as reports of shoplifting rise dramatically.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "fd6881f303a6",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "UK’s biggest insurer hit by rise in subsidence claims after record hot summer",
+      "link": "https://www.theguardian.com/business/2026/nov/13/uk-insurer-rise-in-subsidence-claims-aviva-hastings-direct-axa",
+      "publishedAt": "2026-11-13T13:37:31.000Z",
+      "description": "Increase reported by Aviva after Hastings Direct said claims were up 140% in August and Axa said it had been a ‘surge year’ The UK’s largest insurer has been hit by a rise in subsidence claims after an extremely hot summer left households across the country grappling with the fallout from the growing climate crisis. Aviva said on Friday it had experienced the jump amid an industry-wide surge in households filing subsidence claims with their insurers to cover repairs, which typically are needed to address cracks, sloping floors, and off-kilter doors and windows. Continue reading...",
+      "author": "Kalyeena Makortoff Banking correspondent",
+      "summary": "Increase reported by Aviva after Hastings Direct said claims were up 140% in August and Axa said it had been a ‘surge year’ The UK’s largest insurer has been hit by a rise in subsi…",
+      "summarySource": "rss"
+    },
+    {
+      "id": "1f34b0a1bb43",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "노사정, 초광역특구 '노동특례' 논의 물꼬…17일부터 본격화",
+      "link": "https://www.yna.co.kr/view/AKR20261113177600530",
+      "publishedAt": "2026-11-13T12:39:06.000Z",
+      "description": "(서울=연합뉴스) 옥성구 기자 = 노사정이 13일 열린 '초광역특구법' 사회적 대화에서 주 52시간 예외 등 노동 특례에 대한 논의에 착수했다....",
+      "author": "옥성구",
+      "summary": "(서울=연합뉴스) 옥성구 기자 = 노사정이 13일 열린 '초광역특구법' 사회적 대화에서 주 52시간 예외 등 노동 특례에 대한 논의에 착수했다....",
+      "summarySource": "rss"
+    },
+    {
+      "id": "ab9fa946a110",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "2차 모두의창업 정보 유출, 1차 사고 판박이…'취약한 API' 타깃(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261113174151030",
+      "publishedAt": "2026-11-13T12:25:19.000Z",
+      "description": "(서울=연합뉴스) 이상서 기자 = 중소벤처기업부가 주관하는 '2차 모두의창업'에서 개인정보 유출 사고가 1차 프로젝트와 마찬가지로 취약한 응용 ...",
+      "author": "이상서",
+      "summary": "(서울=연합뉴스) 이상서 기자 = 중소벤처기업부가 주관하는 '2차 모두의창업'에서 개인정보 유출 사고가 1차 프로젝트와 마찬가지로 취약한 응용 ...",
+      "summarySource": "rss"
+    },
+    {
+      "id": "eb2566516dd7",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "주가 하락에 ‘줍줍’ 美 개미들…“엔비디아서 당장 나와라” 투자거물 경고, 왜?",
+      "link": "https://www.mk.co.kr/news/world/12208382",
+      "publishedAt": "2026-11-13T11:38:03.000Z",
+      "description": "“엔비디아, 성장속도·이익률 하락할수도” 美증시 개장 30분후, 유례없는 매수 쏠려영화 ‘빅쇼트’의 실제 인물인 투자자 마이클 버리가 엔비디아 주식을 매도하라고 경고했다. 젠슨 황..",
+      "author": "매일경제",
+      "summary": "“엔비디아, 성장속도·이익률 하락할수도” 美증시 개장 30분후, 유례없는 매수 쏠려영화 ‘빅쇼트’의 실제 인물인 투자자 마이클 버리가 엔비디아 주식을 매도하라고 경고했다. 젠슨 황..",
+      "summarySource": "rss"
+    },
+    {
+      "id": "daaca97c6c7e",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "백령도공항 3년뒤 착공…사업 타당성재조사 통과",
+      "link": "https://www.mk.co.kr/news/economy/12208346",
+      "publishedAt": "2026-11-13T10:47:27.000Z",
+      "description": "백령도 소형공항 건설사업이 타당성 재조사를 통과했다. 국토교통부는 13일 기획예산처 재정투자평가위원회에서 이같이 결정됐다고 밝혔다. 환경영향평가와 설계 등 후속 절차가 차질 없이 ..",
+      "author": "매일경제",
+      "summary": "백령도 소형공항 건설사업이 타당성 재조사를 통과했다. 국토교통부는 13일 기획예산처 재정투자평가위원회에서 이같이 결정됐다고 밝혔다. 환경영향평가와 설계 등 후속 절차가 차질 없이 ..",
+      "summarySource": "rss"
+    },
+    {
+      "id": "04230fdebf42",
+      "category": "economy",
+      "source": "동아일보 경제",
+      "region": "kr",
+      "title": "젠슨 황 사임에도 GPU 26만장 공급 예정대로…정부 “협력 차질 없다”",
+      "link": "https://www.donga.com/news/It/article/all/20261113/135022631/1",
+      "publishedAt": "2026-11-13T09:58:23.000Z",
+      "description": "젠슨 황 엔비디아 최고경영자(CEO)의 사임에도 국내 첨단 그래픽처리장치(GPU) 공급과 인공지능(AI) 분야 협력 사업은 예정대로 추진될 전망이다. 정부는 엔비디아 측과 긴급 현안 점검 회의를 열고 국내 공급이 예정된 GPU 26만 장의 공급과 주요 협력 사업을 차질 없이 이행하겠다는 입장을 재확인했다.배경훈 부총리 겸 과학기술정보통신부 장관은 13일 자신의 페이스북을 통해 “첨단 GPU 26만 장 공급과 국내 기업과의 협력을 엔비디아가 회사 차원에서 기존 발표대로 추진할 계획임을 재확인했다”고 밝혔다.과기정통부는 이날 오전 제2차관 주재로 엔비디아 측과 현안 점검 회의를 열고 양측이 논의해 온 주요 협력 사업을 지속 추진하기로 했다. 구체적으로 엔비디아의 고속 인터커넥트 기술인 ‘NVLink’를 활용한 국산 AI 반도체와 엔비디아 플랫폼 간 연계, AI 컴퓨팅 인프라 구축, 피지컬 AI 공동연구 및 인재 양성 등이 포함됐다.엔비디아의 연례 개발자 행사인 ‘GTC’(GPU 테",
+      "author": null,
+      "summary": "젠슨 황 엔비디아 최고경영자(CEO)의 사임에도 국내 첨단 그래픽처리장치(GPU) 공급과 인공지능(AI) 분야 협력 사업은 예정대로 추진될 전망이다.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "2c99ada963da",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "휘발유ℓ당 1784원, 석유제품 최고가격 5차례 연속 동결",
+      "link": "https://www.mk.co.kr/news/economy/12208312",
+      "publishedAt": "2026-11-13T09:08:30.000Z",
+      "description": "정부가 석유제품 최고가격을 5차례 연속 동결했다. 최근 국제유가가 하락하고 있지만 중동 정세가 여전히 불안한 만큼 최고가격제를 유지해 물가 부담을 덜겠다는 판단이다. 산업통상부는 ..",
+      "author": "매일경제",
+      "summary": "정부가 석유제품 최고가격을 5차례 연속 동결했다. 최근 국제유가가 하락하고 있지만 중동 정세가 여전히 불안한 만큼 최고가격제를 유지해 물가 부담을 덜겠다는 판단이다. 산업통상부는 ..",
+      "summarySource": "rss"
+    },
+    {
+      "id": "b09ae7a756f8",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "‘젠슨 황 없는 엔비디아’ 미래는?…테크 전문가들은 우려와 낙관이 엇갈렸다 [이슈 플러스]",
+      "link": "https://www.mk.co.kr/news/stock/12208309",
+      "publishedAt": "2026-11-13T09:01:07.000Z",
+      "description": "궈밍치·태 김 등 전문가 긴급진단11월 12일 젠슨 황이 엔비디아 최고경영자(CEO)와 이사회에서 사임하고 콜레트 크레스 최고재무책임자(CFO)가 임시 CEO로 취임하면서 시장이 ..",
+      "author": "매일경제",
+      "summary": "궈밍치·태 김 등 전문가 긴급진단11월 12일 젠슨 황이 엔비디아 최고경영자(CEO)와 이사회에서 사임하고 콜레트 크레스 최고재무책임자(CFO)가 임시 CEO로 취임하면서 시장이 ..",
+      "summarySource": "rss"
+    },
+    {
+      "id": "f3573703dffd",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "조현 \"한반도 中 건설적 역할\" 당부…왕이 \"정책 변함없다\"",
+      "link": "https://www.yna.co.kr/view/AKR20261113174651083",
+      "publishedAt": "2026-11-13T14:47:16.000Z",
+      "description": "(베이징·서울=연합뉴스) 한종구 특파원 김지헌 기자 = 조현 외교부 장관이 13일 한반도 문제와 관련한 중국의 건설적 역할을 당부했다.",
+      "author": "김지헌",
+      "summary": "조현 외교부 장관이 베이징에서 한반도 문제와 관련하여 중국의 건설적 역할을 당부했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2fe826b96a6b",
+      "category": "politics",
+      "source": "연합뉴스 사회",
+      "region": "kr",
+      "title": "교육위 예결소위, 사립대 반값등록금 예산 2.7조원 증액 의결",
+      "link": "https://www.yna.co.kr/view/AKR20261113182800001",
+      "publishedAt": "2026-11-13T14:45:53.000Z",
+      "description": "(서울=연합뉴스) 권희원 기자 = 국회 교육위원회 예산결산기금심사소위원회는 13일 회의를 열어 '사립대 반값 등록금' 지원 사업을 위한 예산 증...",
+      "author": "권희원",
+      "summary": "교육위원회 예산결산기금심사소위가 사립대 반값등록금 지원사업을 위한 예산 2.7조원을 증액 의결했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "af32a7485d93",
+      "category": "politics",
+      "source": "SBS 뉴스",
+      "region": "kr",
+      "title": "빨간 넥타이 매고 \"욕 먹더라도 M&A 활성화\"",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008845377",
+      "publishedAt": "2026-11-13T14:40:00.000Z",
+      "description": "이재명 대통령이 자본시장 정책 간담회에서 금융시장 불공정 행위에 대한 개혁을 강조했습니다. 기업 인수합병 과정에서 소액 주주에게 매각 기회를 주는 의무공개매수제를 놓곤, 즉석 현장 투표로 의견을 묻기도 했습니다.강청완 기자입니다.",
+      "author": "blue@sbs.co.kr (강청완)",
+      "summary": "이재명 대통령이 자본시장 정책 간담회에서 기업인수합병 관련 의무공개매수제 도입을 촉진하고 금융시장 불공정 개혁을 강조했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "51abd94d4a93",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "李대통령, 주가조작 범LG 3세 검거에 \"새로운 韓에선 법지켜야\"",
+      "link": "https://www.yna.co.kr/view/AKR20261113181200001",
+      "publishedAt": "2026-11-13T13:49:04.000Z",
+      "description": "(서울=연합뉴스) 황윤기 기자 = 이재명 대통령은 13일 주가조작 혐의 수사를 피해 8년간 해외 도피 생활을 한 범LG가(家) 3세 구본현(57...",
+      "author": "황윤기",
+      "summary": "이재명 대통령이 주가조작 혐의로 8년간 해외 도피한 구본현을 검거한 사건과 관련해 새로운 정부에서는 반드시 법을 지켜야 한다고 강조했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "32d8520c5271",
+      "category": "politics",
+      "source": "조선일보",
+      "region": "kr",
+      "title": "\"매일 울었다→아이 보고도 멍 때려\" 진서연, 산후우울증 고백",
+      "link": "https://www.chosun.com/entertainments/broadcast/2026/11/13/GZRDKOJZMU3TMMRXME2DMMBSMM/",
+      "publishedAt": "2026-11-13T13:47:00.000Z",
+      "description": "[OSEN=최지연 기자] 배우 진서연이 과거 산후우울증을 겪었다고 털어놓았다. 지난 11일 유튜브 채널 '진짜루 진서연'에는 '불안, 번아웃, 회피형 연애까지. 진서연한테 물어보세요'라는 제목의 영상이 게재됐다. 이날 진서연은 사연자들의 고민 상담을 진행했다. 한 사연자는 자신이 워킹맘이라며 육아와 일을 완벽하게 해내고 있지 못하다고 털어놓았다. 진서연은",
+      "author": "OSEN",
+      "summary": "배우 진서연이 유튜브 채널에서 산후우울증을 겪으며 매일 울고 아이를 봐도 멍하니 있었다고 고백했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "bac904887fc2",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "외교부, '뱁새가 황새 따라가면' 이란 메시지에…\"전쟁 불관여 원칙\"",
+      "link": "https://www.donga.com/news/Politics/article/all/20261113/135023175/1",
+      "publishedAt": "2026-11-13T12:31:35.000Z",
+      "description": "외교부는 이란 외무부 대변인이 한국 속담을 인용해 우리 정부의 청해부대 임무 확대 방침을 겨냥한 경고 메시지를 내놓은 것과 관련, 13일 “전쟁 불관여·불개입” 원칙을 강조했다.외교부 당국자는 이날 “우리 정부는 우리 국민 보호와 경제이익 수호를 목적으로 전쟁 불관여·불개입 원칙 하에 청해부대 임무를 강화하는 방안의 파견연장 동의안을 진행 중”이라고 밝혔다. 이어 “이와 관련해 이란 등 관련국들과 지속적으로 소통하고 있다”라고 덧붙였다. 이란 메흐르 통신에 따르면 에스마일 바가이 이란 외무부 대변인은 12일 밤(현지시간) 자신의 X 계정에 “뱁새가 황새를 따라가면 가랑이가 찢어진다”(A sparrow that tries to fly after a stork will eventually break its legs)는 한국 속담 문구와 관련 이미지를 올렸다. 바가이 대변인은 “이란에 대한 공격 행위나 비인도적인 경제 테러에 직접적이든 간접적이든 관여하는 모든 행위, 즉 해군 병력",
+      "author": null,
+      "summary": "외교부는 이란의 청해부대 임무 확대에 대한 경고 메시지에 대해 우리 정부이 전쟁 불관여·불개입 원칙 하에 청해부대 임무를 강화한다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7df4998862c2",
+      "category": "politics",
+      "source": "노컷뉴스",
+      "region": "kr",
+      "title": "9월 통화량 17.1조원↑…11개월 연속 증가",
+      "link": "https://www.nocutnews.co.kr/news/6606390",
+      "publishedAt": "2026-11-13T12:00:00.000Z",
+      "description": "지난 9월 통화량이 반도체 등 수출 호조 등의 영향으로 17조 원 넘게 늘었다. 한국은행이 13일 발표한 통화 및 유동성 통계에 따르면 올해 9월 광의통화(M2) 평잔은 4천283조 9천억 원으로, 전월보다 17조 1천억 원(0.4%) 증가했다. 지난해 11월 이후 11개월 연속 증가세가 이어졌다. 넓은 의미의 통화량 지표인 M2에는 현금, 요구불예금, 수시입출금식 예금(이상 M1) 외 머니마켓펀드(MMF), 2년 미만 정기 예·적금, 양도성예금증서(CD), 환매조건부채권(RP), 2년 미만 금융채, 2년 미만 금전신탁 등 곧바로 현금화할 수 있는 단기 금융상품이 포함된다. 이 중 기타 통화성 상품(2년미만 외화예수금)은 대기업 수출대금이 유입되면서 11조 1천억 원 늘었고, 2년 미만 정기예적금은 금리 상승으로 8조 2천억 원 증가했다. 전월에 2022년 1월 이후 최대인 14조 2천억 원 증가했던 2년 미만 금전신탁은 10조 원 감소했다. 경제 주체별로는 비금융기업이 전월 34조원 증가에서 3조 3천억 원 감소했다. 지난해 10월(-2조 원) 이후 11개월 만에 감소로 전환됐다. 반면, 가계 및 비영리단체(+12조 6천억 원), 기타금융기관(+5조 2천억",
+      "author": null,
+      "summary": "한국은행 집계에 따르면 9월 광의통화(M2)가 전월 대비 17조 1천억원 증가하면서 지난해 11월 이후 11개월 연속 증가세를 이어갔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b1b8ab24eb3a",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "한·중 외교장관 베이징에서 회담…한국인 관광객 중국 무비자 입국 연장될까",
+      "link": "https://www.khan.co.kr/article/202611131939001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-11-13T10:39:00.000Z",
+      "description": "조현 외교부 장관과 왕이 중국 공산당 외사판공실 주임 겸 외교부장이 13일 베이징 댜오위타이에서 외교장관 회담을 했다. /베이징특파원 공동취재단다음 주 중국 선전에서 열리는 아시아·태평양경제협력체(APEC) 정상회의를 앞두고 한·중 외교장관이 베이징에서 만나 양국 관계 발전을 위해 노력할 것이라고 밝혔다.왕이 중국 공산당 외사판공실 주임 겸 외교부장은 13···",
+      "author": "베이징 | 박은하 특파원",
+      "summary": "조현 외교부 장관과 왕이 중국 외사판공실 주임이 베이징에서 회담을 갖고 다음 주 APEC 정상회의를 앞두고 양국 관계 발전을 논의했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "cf5ab1b62606",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "술 취해 옷에 라이터로 불 붙여···아파트에 불 내 14명 다치게 한 40대 구속영장 신청",
+      "link": "https://www.khan.co.kr/article/202611131931001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-11-13T10:31:00.000Z",
+      "description": "지난 11일 화재가 발생한 전남광주 북구의 한 아파트에서 불길과 연기가 퍼져 나오고 있다. 전남광주소방본부 제공70대 경비원 심정지 등 인명피해아파트에 불을 내 인명피해를 낸 40대에 대해 경찰이 구속영장을 신청했다.광주 북부경찰서는 13일 현주건조물방화치상 혐의로 A씨에 대한 구속영장을 신청했다.A씨는 지난 11일 오후 6시33분쯤 전남광주 북구 운암동에···",
+      "author": "이종섭 기자",
+      "summary": "술 취한 40대 남성이 자신의 옷에 라이터로 불을 붙여 아파트 화재를 발생시켜 14명이 다쳤으며, 경찰이 현주건조물방화치상 혐의로 구속영장을 신청했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5ddd26b344bd",
+      "category": "politics",
+      "source": "서울신문",
+      "region": "kr",
+      "title": "민형배 시장, 아스투토 주한유럽연합대사와 교류·협력 방안 협의",
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20261113500279",
+      "publishedAt": "2026-11-13T08:05:18.000Z",
+      "description": "민형배 전남광주통합특별시장이 13일 광주청사에서 우고 아스투토(Ugo ASTUTO) 주한 유럽연합(EU)대사를 만나 미래산업 분야 교류·협력과 그린 파트너십 구축에 대해 의견을 나눴다. 아스투토 대사는 지난 2025년 9월 부임한 이후 처음으로 전남광주통합특별시를 방문했다. 민형배 시장은 아스투토 대사에게 “전남과 광주는 지난 7월 광역자치단체로서는 대한민국 최초로 통합, 특별시가 됐다”며 “통합의 힘으로 새로운 성장의 길을 만들고 있으며, 반도체 메가프로젝트가 그 중심에 있다”고 설명했다. 민 시장은 이어 “반도체 산업이 성장하려면 안정적인 전력과 용수, 기술과 인재가 함께 갖춰져야 하고, 특히 재생에너지를 산업 경쟁력으로 연결하는 일이 중요하다”며 “전남광주는 해상풍력을 비롯한 재생에너지 자원이 풍부해 EU와 함께할 일이 많다”고 덧붙였다. 전남광주와 유럽연합 간 협력 사례도 소개됐다. 한-EU 국제도시·지역협력(IURC) 프로그램을 통해 에너지 분야 교류를 이어가고 있고, 광주과학기술원(GIST)은 최근 EU 연구혁신 프로그램인 ‘호라이즌 유럽’ 연구과제에 참여하고 있다. 민 시장은 “기존의 협력을 기업과 산업으로 넓혀 반도체와 해상풍력, 기후기술 분야",
+      "author": "전남광주 홍행기 기자",
+      "summary": "민형배 전남광주 시장이 아스투토 EU 대사를 만나 반도체와 재생에너지 분야의 교류·협력 및 그린 파트너십 구축을 협의했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f3573703dffd",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "조현 \"한반도 中 건설적 역할\" 당부…왕이 \"정책 변함없다\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261113174651083",
+      "publishedAt": "2026-11-13T14:47:16.000Z",
+      "description": "(베이징·서울=연합뉴스) 한종구 특파원 김지헌 기자 = 조현 외교부 장관이 13일 한반도 문제와 관련한 중국의 건설적 역할을 당부했다.",
+      "author": "김지헌",
+      "summary": "조현 외교부 장관은 13일 한반도 문제에 대한 중국의 건설적 역할을 당부했고, 왕이 중국 외교부 장장은 정책에 변함이 없다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "fd1bf4f1259c",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "진보파 밴홀런, 美민주 상원 원내대표 도전…중도파 슈머와 대결",
+      "link": "https://www.yna.co.kr/view/AKR20261113182300071",
+      "publishedAt": "2026-11-13T14:38:08.000Z",
+      "description": "(워싱턴=연합뉴스) 홍정규 특파원 = 민주당 내 '진보파'로 분류되는 크리스 밴 홀런 상원의원(메릴랜드)이 당 원내대표 자리를 놓고 '중도파'인...",
+      "author": "홍정규",
+      "summary": "민주당 내 진보파 크리스 밴홀런 상원의원이 중도파 척 슈머를 상대로 민주당 원내대표직을 놓고 경합을 펼치고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0f79c50990c5",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "인도네시아 도청 의혹으로 보안기관 내 정치적 분열 심화",
+      "link": "https://www.dw.com/en/indonesia-s-wiretapping-scandal-opens-a-political-fault-line/a-79939753?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-11-13T14:29:00.000Z",
+      "description": "Senior police officers are accused of illegally monitoring President Prabowo Subianto, exposing rival networks within Indonesia's security establishment and renewing concerns about political misuse of surveillance.",
+      "author": null,
+      "summary": "인도네시아 경찰 고위층이 프라보워 대통령을 불법 도청한 혐의를 받으면서 국가보안기관 내 권력 다툼과 감시의 정치적 악용 우려가 드러났다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "788f4fc3b3cc",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "이란, 보복 공격으로 바레인 미군 레이더 타격",
+      "link": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz",
+      "publishedAt": "2026-11-13T13:52:11.000Z",
+      "description": "First direct attack on US military installations for months was in response to US airstrike on communications tower Iran’s Islamic Revolutionary Guard Corps says it has targeted and destroyed a US early-warning radar in Bahrain in response to a US airstrike on a communications tower in Sirik overlooking the strait of Hormuz. It is Iran’s first direct attack on US military installations for months. “This is a serious warning to the aggressor enemy to end its aerial mischief and oil smuggling in the strait of Hormuz,” the IRGC said. “In the event of repeated violations and aggression, the IRGC a",
+      "author": "Patrick Wintour Diplomatic editor",
+      "summary": "이란 이슬람혁명수비대가 미국의 통신탑 공습에 대한 보복으로 바레인 주둔 미군의 조기경보 레이더를 타격했으며 이는 수개월 만의 직접 공격이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a3636c35ae23",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "우크라이나 전 총리 측근, 모스크바 자동차 폭탄으로 부상",
+      "link": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-13T13:11:23.000Z",
+      "description": "Sergei Zavorotny, now a journalist and commentator, was previously an adviser to Ukrainian ex-prime minister Mykola Azarov.",
+      "author": null,
+      "summary": "우크라이나 전 총리 니콜라 아자로프의 전 고문이자 현재 기자인 세르게이 자보로트니가 모스크바에서 발생한 자동차 폭탄 테러로 부상했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c3313f99572d",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "Anthropic 상장 시점에 AI 버블 붕괴 신호는 과연 임박했나?",
+      "link": "https://www.dw.com/en/is-the-ai-bubble-bursting-just-as-anthropic-goes-public/a-79896537?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-11-13T12:27:00.000Z",
+      "description": "The sharp sell-off in tech stocks after the US midterms has cast doubt on Anthropic's looming IPO. Yet with hundreds of billions still being invested, some think the AI party is still in full swing.",
+      "author": null,
+      "summary": "미국 중간선거 후 기술 주식이 급락하면서 Anthropic의 상장에 대한 의구심이 커졌으나, 수천억 달러의 계속되는 투자로 AI 산업 확장이 지속될 것이라는 분석도 나온다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "bada20604b5f",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "엔비디아 CEO 개인 문제, 백악관까지 파급되는 정치 논란으로",
+      "link": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-13T12:22:30.000Z",
+      "description": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
+      "author": null,
+      "summary": "젠슨 황의 개인적 문제가 엔비디아의 위기를 촉발했으며, 이 사건이 백악관의 정치적 압박으로까지 확대되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "28ca039ce0b3",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "엔비디아 CEO 사임, 밴홀런 상원의원 원내대표 도전",
+      "link": "https://www.npr.org/2026/11/13/g-s1-153532/up-first-newsletter-nvidia-jensen-huang-colette-kress-ukraine-russia-chris-van-hollen",
+      "publishedAt": "2026-11-13T12:07:12.000Z",
+      "description": "Nvidia's chief financial officer has been appointed interim CEO after Jensen Huang stepped down from the role. And, Sen. Chris Van Hollen says he will challenge Chuck Schumer for majority leader.",
+      "author": "Brittney Melton",
+      "summary": "젠슨 황 엔비디아 CEO 퇴임 후 최고재무책임자가 임시 CEO로 임명되었고, 크리스 밴홀런 상원의원이 척 슈머 원내대표에 도전했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b7922c6703f0",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "엔비디아 임시 CEO, 위험한 AI 투자와 법적 분쟁 떠안다",
+      "link": "https://www.npr.org/2026/11/13/nx-s1-6038868/nvidia-interim-ceo-colette-kress-ai-bets-investigation-lutnick",
+      "publishedAt": "2026-11-13T11:47:00.000Z",
+      "description": "AI expert Gary Marcus breaks down what's at stake for Nvidia and the mess its new CEO has inherited.",
+      "author": "Michel Martin",
+      "summary": "엔비디아의 신임 임시 CEO가 위험한 AI 투자 결정과 복잡한 법적 분쟁을 동시에 처리해야 하는 난처한 상황을 맞게 됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e4b70f9e7098",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "호주 청소년 극단주의 급증의 배경",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/13/australia-surge-in-teen-extremism-ntwnfb",
+      "publishedAt": "2026-11-13T11:33:57.000Z",
+      "description": "Young people are being found with ‘hard drives full of what can only be described as gore’, one expert says Get our breaking news email, free app or daily news podcast In March, Guardian Australia revealed that most people who have been charged with the new federal crime of possession of violent extremist material are under 18. This week Australian federal police sounded the alarm about a surge in teen extremism: 32 of the 37 young people prosecuted in counter-terrorism cases since 2020 were charged in the past two years. Continue reading...",
+      "author": "Ariel Bogle",
+      "summary": "호주 연방경찰이 청소년 극단주의 급증을 경고했으며, 2020년 이후 반테러 관련 기소 사건의 대다수가 지난 2년 사이에 집중된 것으로 나타났다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f0dc7ba3564c",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "감기와 독감 시즌",
+      "link": "https://www.washingtonpost.com/opinions/2026/11/13/edith-pritchett-cartoon-cold-flu-season/",
+      "publishedAt": "2026-11-13T14:55:59.000Z",
+      "description": "Germs abound.",
+      "author": "Edith Pritchett",
+      "summary": "겨울철 감기와 독감 시즌이 본격화되면서 일상 속 병균 증식이 심각해진다는 점을 강조했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ce8045f9ce4e",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]젠슨 황 불명예 퇴진… '엔비디아 뉴노멀' 격랑에 대비해야",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261113/135022980/2",
+      "publishedAt": "2026-11-13T14:30:00.000Z",
+      "description": "인공지능(AI) 시대의 아이콘이었던 젠슨 황 엔비디아 최고경영자(CEO)가 창업 33년 만에 불명예 퇴진했다. 중국 스파이로 의심받는 여성에 이어 사내 임원과의 불륜 의혹까지 제기되자 더는 버티지 못한 것이다. ‘젠슨 스캔들’로 엔비디아 시가총액은 불과 닷새 만에 5500억 달러(약 733조 원)가 증발했다. 세계 AI 산업의 엔진 역할을 했던 엔비디아는 이제 경영진 교체와 사업 계획 재편에 따른 ‘뉴노멀’ 상황을 맞게 됐다. 엔비디아의 차기 행보는 AI 생태계 전체를 흔들 수 있는 파급력을 가질 것이다. 엔비디아는 AI 핵심 두뇌인 그래픽처리장치(GPU)를 거의 독점 공급하는, 생태계의 가장 정점에 서 있는 기업이다. 그런 엔비디아의 리더십 부재가 길어지거나 차기 CEO가 ‘사업 확장 신중론’으로 선회할 경우 전후방 산업 모두 후폭풍이 클 수밖에 없다. 오픈AI, 앤스로픽, 구글 같은 AI 개발사들과 데이터센터 개발 업체, 삼성과 SK 등 반도체 기업도 상당 부분 전략 수정이 불",
+      "author": null,
+      "summary": "젠슨 황 CEO의 불명예 퇴진으로 AI 산업의 정점에 있는 엔비디아의 리더십 공백이 생겼으며, 이는 AI 생태계 전체에 큰 파급력을 미칠 것이라고 경고했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "822557c655c4",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]\"국가 부채 공짜 점심 아냐… 거품 꺼질 때 관건은 재정 여력\"",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261113/135022984/2",
+      "publishedAt": "2026-11-13T14:27:00.000Z",
+      "description": "2008년 글로벌 금융위기 이후 지속된 초저금리 시대에 굳어진 돈 풀기 정책이 더는 지속되기 어렵다는 경제 석학의 진단이 나왔다. 케네스 로고프 미국 하버드대 경제학과 교수는 12일 한국은행 초청 세미나에서 “국가 부채가 ‘공짜 점심’이라는 생각은 잘못됐다”며 “저금리는 일시적일 뿐 영원할 수 없다”고 지적했다. 미국 등 주요국이 저금리 시대에 정부 부채를 늘렸다가 금리 상승에 따른 이자 부담이 커지면서 재정 압박을 받고 있다는 분석이다. 로고프 교수는 국제통화기금(IMF) 수석 이코노미스트를 지낸 거시경제와 국제경제 석학이다. 금융위기 직후 800년에 걸친 국가 부채와 금융 위기의 역사를 실증적으로 분석한 베스트셀러 ‘이번엔 다르다’로 널리 알려진 학자다. 세계적인 금융위기 전문가의 경고를 흘려들을 수는 없다. 한국은 미국 일본 유럽에 비해 아직은 재정이 양호하지만, 급격한 고령화에 따른 연금 복지 의료 지출 증가와 반도체 등 특정 산업 세수 의존이라는 구조적 한계를 안고 있",
+      "author": null,
+      "summary": "로고프 교수는 초저금리 시대가 끝나면서 국가 부채 증가 정책이 지속 불가능하며, 고령화 등 구조적 한계를 가진 한국도 금리 상승에 대비해 재정 여력을 준비해야 한다고 경고했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f928ebec8c59",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "뉴사우스웨일스 주지사의 환경경시 태도가 역효과를 낼 것",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/14/chris-minns-trumpian-disdain-climate-coalmining-rising-tide-protest-ban-ntwnfb",
+      "publishedAt": "2026-11-13T14:00:21.000Z",
+      "description": "Chris Minns has gone out of his way to help ban peaceful protest in Newcastle, the world’s biggest coal port. Voters will remember in March Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here We know that El Niño climate patterns are supercharged by the burning of fossil fuels. In Europe, more than 50,000 people died of intolerable heat this year. And yet, in September the premier of New South Wales, Chris Minns, oversaw the largest coalmine expansion in the state’s history. Coal from that operation in the Hunter Valley will inevitably increase global warmin",
+      "author": "Bob Brown",
+      "summary": "뉴사우스웨일스 주지사 크리스 미니스가 석탄 산업 피해를 무시하고 역사상 최대 규모의 석탄광 확대를 추진하는 태도가 유권자의 반발을 받을 것이라고 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "985c9afe8eba",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "웨일스의 개혁당(Reform) 혼란이 영국의 미래를 보여준다",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/13/reform-uk-government-wales-senedd-chaotic-record",
+      "publishedAt": "2026-11-13T13:35:49.000Z",
+      "description": "As the main opposition in the Senedd, the party should be taking politics seriously. Spoiler alert: it’s not In May 2026, Reform UK became the official opposition inside the Welsh Senedd. It was the best result the party had ever received in a national parliament – and since that time it has been a wild ride. Given that its leader, Nigel Farage, claims he expects to one day lead the UK government, how it performs in Wales matters more than just for the people of Cymru; it gives the rest of the UK a sense of what it could expect if Reform does well in the next general election. Just to give you",
+      "author": "Will Hayward",
+      "summary": "웨일스에서 공식 야당이 된 개혁당의 혼란스러운 기록이 향후 영국 정부를 이끌 수 있는 파라지 지도자의 능력을 의심하게 한다고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "681dbfae1451",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "노년층 운동의 가능성을 묻다",
+      "link": "https://www.washingtonpost.com/opinions/2026/11/13/reversing-frailty-older-adults-is-possible-here-why/",
+      "publishedAt": "2026-11-13T13:00:00.000Z",
+      "description": "Doctors and patients often underestimate how much progress seniors can achieve.",
+      "author": "Leana Wen",
+      "summary": "의사와 환자들이 고령자들이 신체 활동을 통해 달성할 수 있는 진전을 과소평가하는 경향이 있다고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b5da0d780236",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "하산 파이커의 자유주의 시오니즘론",
+      "link": "https://www.nytimes.com/video/opinion/100000011278289/hasan-piker-on-liberal-zionism.html",
+      "publishedAt": "2026-11-13T11:25:16.000Z",
+      "description": "On “The Ezra Klein Show,” the political commentator Hasan Piker discusses his views on liberal Zionism with Ezra Klein.",
+      "author": null,
+      "summary": "정치평론가 하산 파이커가 자유주의 시오니즘에 대한 자신의 견해를 제시했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1dea4699eede",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "민주당이 권력을 행사해야 하는 방식",
+      "link": "https://www.nytimes.com/video/opinion/100000011278291/hasan-piker-on-how-democrats-should-wield-power.html",
+      "publishedAt": "2026-11-13T11:14:55.000Z",
+      "description": "Hasan Piker wants Democrats to confront Trump with “files and trials” once they control the House and Senate. On “The Ezra Klein Show,” he explains his agenda for the Democratic Party.",
+      "author": null,
+      "summary": "하산 파이커는 민주당이 하원과 상원을 장악하면 '파일과 재판'으로 트럼프에 대항해야 한다고 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "37d7656822f2",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[사설]'AI 안경 부정행위'에 시험 공정성 불신 확산, 비상한 대책 마련을",
+      "link": "https://www.khan.co.kr/article/202611131810001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-11-13T09:10:00.000Z",
+      "description": "지난 11일 서울 용산구 서울특별시교육청에서 열린 수능 스마트안경 전담 본부요원 연수 중 스마트안경이 문제지 위에 놓여 있다. 연합뉴스최근 국가자격시험과 대입 수리논술시험 등에서 스마트 안경의 인공지능(AI) 기능을 활용한 부정행위 사례가 잇달아 적발되면서 시험 공정성에 대한 신뢰가 흔들리고 있다. 일부 응시자들이 이례적으로 높은 점수를 받자 ‘AI 안경’···",
+      "author": null,
+      "summary": "AI 스마트안경을 이용한 부정행위가 잇달아 적발되면서 시험 공정성에 대한 신뢰가 흔들리고 있으므로 비상한 대책 마련이 필요하다고 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d2645f5d7674",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[사설]'최민희 감찰'에 재점화한 민주당 내홍, 분열 발언·신천지 책임 모두 규명해야",
+      "link": "https://www.khan.co.kr/article/202611131805001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-11-13T09:05:00.000Z",
+      "description": "13일 더불어민주당 최고위원회의에 불참한 최민희·한민수·이성윤(오른쪽부터) 최고위원이 국회 소통관에서 기자회견을 한 뒤 자리를 떠나고 있다. 공동취재사진더불어민주당 내 계파 갈등이 최민희 최고위원에 대한 윤리감찰을 계기로 재점화하고 있다. 최 최고위원 등 친정청래(친청)계 최고위원 3명은 13일 김민석 대표가 주재하는 최고위원회의에 불참한 채 기자회견을 열···",
+      "author": null,
+      "summary": "최민희 감찰을 둘러싼 민주당의 계파 갈등이 심화되고 있으며, 분열 발언과 신천지 책임이 모두 명확히 규명되어야 한다고 주장했다.",
+      "summarySource": "llm"
+    }
+  ],
+  "summarizedAt": "2026-11-14T02:04:17.991Z",
+  "summaryStats": {
+    "llm": 40,
+    "fallback": 10,
+    "model": "claude-haiku-4-5"
+  }
+}
