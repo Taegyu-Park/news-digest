@@ -1,0 +1,898 @@
+{
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-15T01:31:45.969Z",
+  "categories": [
+    {
+      "id": "it",
+      "label": "IT·과학·AI"
+    },
+    {
+      "id": "economy",
+      "label": "경제·금융"
+    },
+    {
+      "id": "politics",
+      "label": "정치·사회"
+    },
+    {
+      "id": "world",
+      "label": "세계·국제"
+    },
+    {
+      "id": "editorial",
+      "label": "사설·칼럼",
+      "opinion": true,
+      "summaryMaxChars": 220
+    }
+  ],
+  "feedStatus": [
+    {
+      "source": "Ars Technica",
+      "category": "it",
+      "ok": true,
+      "matched": 12
+    },
+    {
+      "source": "Hacker News",
+      "category": "it",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "TechCrunch",
+      "category": "it",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "The Verge",
+      "category": "it",
+      "ok": true,
+      "matched": 5
+    },
+    {
+      "source": "블로터",
+      "category": "it",
+      "ok": true,
+      "matched": 32
+    },
+    {
+      "source": "전자신문",
+      "category": "it",
+      "ok": true,
+      "matched": 12
+    },
+    {
+      "source": "ZDNet Korea",
+      "category": "it",
+      "ok": true,
+      "matched": 10
+    },
+    {
+      "source": "BBC Business",
+      "category": "economy",
+      "ok": true,
+      "matched": 10
+    },
+    {
+      "source": "The Guardian",
+      "category": "economy",
+      "ok": true,
+      "matched": 17
+    },
+    {
+      "source": "매일경제 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 5
+    },
+    {
+      "source": "연합뉴스",
+      "category": "economy",
+      "ok": true,
+      "matched": 23
+    },
+    {
+      "source": "경향신문 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "경향신문 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "노컷뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 5
+    },
+    {
+      "source": "서울신문",
+      "category": "politics",
+      "ok": true,
+      "matched": 1
+    },
+    {
+      "source": "연합뉴스 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 22
+    },
+    {
+      "source": "연합뉴스 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 11
+    },
+    {
+      "source": "SBS 뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "Al Jazeera",
+      "category": "world",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC World",
+      "category": "world",
+      "ok": true,
+      "matched": 7
+    },
+    {
+      "source": "NPR",
+      "category": "world",
+      "ok": true,
+      "matched": 1
+    },
+    {
+      "source": "The Guardian",
+      "category": "world",
+      "ok": true,
+      "matched": 10
+    },
+    {
+      "source": "연합뉴스 국제",
+      "category": "world",
+      "ok": true,
+      "matched": 91
+    },
+    {
+      "source": "매일경제 증권",
+      "category": "economy",
+      "ok": true,
+      "matched": 7
+    },
+    {
+      "source": "경향신문 오피니언",
+      "category": "editorial",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "NYT Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 24
+    },
+    {
+      "source": "The Guardian Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 10
+    },
+    {
+      "source": "Washington Post Opinions",
+      "category": "editorial",
+      "ok": true,
+      "matched": 10
+    },
+    {
+      "source": "동아일보 사설",
+      "category": "editorial",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "동아일보 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 18
+    },
+    {
+      "source": "조선일보",
+      "category": "politics",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "동아일보 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 30
+    },
+    {
+      "source": "머니투데이",
+      "category": "economy",
+      "ok": true,
+      "matched": 2
+    },
+    {
+      "source": "Wired",
+      "category": "it",
+      "ok": true,
+      "matched": 35
+    },
+    {
+      "source": "DW News",
+      "category": "world",
+      "ok": true,
+      "matched": 14
+    }
+  ],
+  "items": [
+    {
+      "id": "6cef2aaaf2f7",
+      "category": "it",
+      "source": "Hacker News",
+      "region": "intl",
+      "title": "휴대폰 잠금해제 도구의 기술적 이해",
+      "link": "https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/",
+      "publishedAt": "2026-11-14T14:44:28.000Z",
+      "description": "Article URL: https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/ Comments URL: https://news.ycombinator.com/item?id=50497416 Points: 72 # Comments: 6",
+      "author": "iloveyoutwo",
+      "summary": "휴대폰 잠금해제 도구의 기술적 측면을 설명하는 글로, 그 작동 원리를 이해하기 위한 가이드다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "eae892c51aaf",
+      "category": "it",
+      "source": "The Verge",
+      "region": "intl",
+      "title": "테슬라 사이버캡, 일부 고객 개인용 구매 기회 제공",
+      "link": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
+      "publishedAt": "2026-11-14T14:18:36.000Z",
+      "description": "Tesla is doubling, or perhaps tripling down on its bold claims of an autonomous future with the offer to \"select customers\" to purchase a Cybercab for \"personal use.\" But the gilded, steering-wheel-free two-seater will \"only be available in supported service areas\" - meaning you'll only be able to buy one if you live in one of the cities where Tesla currently operates its Robotaxi service. The price of a Cybercab is listed at $29,990, plus a mandatory $299-a-month \"Autonomy Subscription.\" Tesla's Robotaxi account on X announced the new offer, including screenshots of the order page and the inv",
+      "author": null,
+      "summary": "테슬라가 자율주행 로보택시 서비스 운영 지역의 선정된 고객을 대상으로 사이버캡 개인용 판매를 시작했으며, 가격은 29,990달러에 월 299달러의 자율주행 구독료가 필수다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "642d100bfab3",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "코웨이, 음식물처리기 판매 106% 급증…11년만의 재도전 통했다",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=678530",
+      "publishedAt": "2026-11-14T14:00:00.000Z",
+      "description": "코웨이가 11년 만에 재진출한 음식물처리기 시장에서 초기 판매 성과를 거두며 사업 확대에 속도를 내고 있다. 이미 다수의 렌탈업체가 경쟁하는 시장에 후발주자로 뛰어들었지만 제품 성능과 렌탈 관리 서비스를 앞세워 소비자 수요를 확보하고 있다. 코웨이는 앞으로 제품군을 다양화하고 렌탈 관리 서비스를 확대해 음식물처리기 시장에서 입지를 더욱 강화할 계획이다. 국내 성장동력 찾는 코웨이…기존 렌탈망 활용해 차별화13일 코웨이에 따르면 3분기 음식물처리기 판매량은 직전 분기 대비 106% 증가했다. 5월 말 '제로 음식물처리기 분쇄형'을 출",
+      "author": "이가영 기자",
+      "summary": "코웨이가 11년 만에 음식물처리기 시장에 재진출해 3분기 판매량을 직전 분기 대비 106% 늘리며 시장 진출이 성공적임을 보여주었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "538cdbcf6e51",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "숲속 땅 파헤치니 현금 261억 무더기 발견…헝가리 前 장관 뇌물?",
+      "link": "https://www.etnews.com/20261114000034",
+      "publishedAt": "2026-11-14T13:30:00.000Z",
+      "description": "헝가리 당국이 전직 장관의 부패 혐의를 수사하는 과정에서 숲속 땅에 묻혀 있던 현금 등 약 261억원을 압수했다. 지난 4월 정권 교체 이후 빅토르 오르반 전 총리 측근들을 겨냥한 부패 수사가 확대되는 가운데 나온 대규모 현금 압수 사례다. 13일(현지시간) AP통신과 AFP통신 등에 따르면 헝가리 국가자산회수보호청(NVVH)은 이날 성명을 통해 미클로시 셰스타크 전 국가개발부 장관의 뇌물수수 혐의와 관련한 수색에서 총 1950만달러(약 261",
+      "author": "서희원",
+      "summary": "헝가리 당국이 전직 국가개발부 장관의 뇌물 혐의 수사 중 숲속 매장지에서 약 261억원의 현금을 압수했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f1e65cb46a0d",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "AI 기반 랜섬웨어 위협 급증",
+      "link": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+      "publishedAt": "2026-11-14T13:00:00.000Z",
+      "description": "Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.",
+      "author": "Matt Burgess, Lily Hay Newman",
+      "summary": "완전 자동화된 랜섬웨어는 아직 출현하지 않았으나, 상대적으로 덜 정교한 공격자들이 AI 도구를 활용해 심각한 피해를 일으키고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "36a3bda31172",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "제임스 웹 망원경, 자신이 공전하는 별보다 나이 많은 얼음 발견",
+      "link": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
+      "publishedAt": "2026-11-14T12:15:48.000Z",
+      "description": "Radiation and collisions reshape the planetary building materials.",
+      "author": "Jacek Krywko",
+      "summary": "제임스 웹 망원경이 자신이 공전하는 별보다 나이가 많은 얼음을 발견했으며, 방사선과 충돌이 행성 형성 물질을 재형성하는 것으로 나타났다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6dcb9b057645",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "최고의 디지털 노트북 테스트 및 추천",
+      "link": "https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/",
+      "publishedAt": "2026-11-14T12:05:00.000Z",
+      "description": "These nifty tools combine the ease of jotting notes by hand with the power of saving them digitally.",
+      "author": "Nena Farrell",
+      "summary": "손으로 메모하는 편의성과 디지털 저장의 강력함을 결합한 디지털 노트북들을 테스트해 추천했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "94d46ee50130",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "192만명 가입 중기중앙회 '노란우산' 해킹 정황",
+      "link": "https://zdnet.co.kr/view/?no=20261114210227",
+      "publishedAt": "2026-11-14T12:02:27.000Z",
+      "description": "[지디넷코리아]중소기업중앙회(중기중앙회)가 운영하는 '노란우산공제' 시스템에 비정상 접근이 확인됐다.중기중앙회는 성명, 주민등록번호 앞 7자리, 휴대전화번호, 자택 주소, 자택 전화번호, 이메일 주소, 문자메시지 등의 정보가 유출됐을 가능성이 있다고 홈페이지에 공지하는 한편 한국인터넷진흥원(KISA)에 이를 신고했다. 중기중앙회는 다만 주민등록번호 뒷자리는 복호화가 불가능한 암호화 방식으로 관리되고 있다고 설명했다. 비정상 접근은 지난 11일 발생했다.중기중앙회는 실제 개인정보 조회 여부와 피해 범위는 조사 결과에 따라 달라질 수 있다고 밝히며 공격에 이용된 인터넷주소(IP)를 차단하고 관련 화면의 접근 통제를 강화하는 등 보안 조치를 시행했다고 덧붙였다. 노란우산공제는 소기업과 소상공인의 폐업이나 노후에 대비해 중기중앙회가 2007년부터 운영하는 공제제도다. 5일 기준 재적 가입자 수는 192만명이다.",
+      "author": "방은주 기자",
+      "summary": "중소기업중앙회의 노란우산공제 시스템이 비정상 접근을 당해 192만 가입자의 성명, 휴대폰번호, 주소, 이메일 등이 유출되었을 가능성이 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ddc89586d458",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "유동화증권 발행 10월 '45조' 사상 최대…예금 빼니 역성장",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=678573",
+      "publishedAt": "2026-11-14T12:00:00.000Z",
+      "description": "유동화증권 발행액이 지난달 사상 최대를 기록했지만 정기예금 유동화를 제외한 시장은 전월보다 1조8000억원 줄었다. 올해 누적 발행 증가분의 90% 이상도 정기예금 유동화가 차지했다. 시장의 외형 성장과 다른 자산의 자금조달 흐름 사이에 온도차가 뚜렷해졌다.14일 한국신용평가의 10월 구조화금융 보고서에 따르면 지난달 유동화증권 발행액은 45조7000억원으로 9월보다 12.4% 증가했다. 지난해 10월과 비교하면 51.4% 늘었다. 정기예금 유동화 발행액은 21조7000억원에서 28조5000억원으로 6조8000억원 증가했다. 전체",
+      "author": "조윤호 기자",
+      "summary": "10월 유동화증권 발행액이 45조7000억원으로 사상 최대를 기록했으나, 정기예금 유동화를 제외한 나머지 시장은 전월 대비 감소했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "57ae9f9b1f76",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "아마존 신형 킨들 컬러소프트, 프리미엄 가격대의 프리미엄 E-리더",
+      "link": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
+      "publishedAt": "2026-11-13T23:00:00.000Z",
+      "description": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade.",
+      "author": "Aisha Malik",
+      "summary": "새로운 킨들 컬러소프트는 전작보다 가볍고 얇으며 베젤리스 디스플레이를 갖췄지만, 1세대 소유자에겐 업그레이드할 이유가 거의 없다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2260b28244b1",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "영국중앙은행, 향후 금리 인상 필요…인플레이션 대처",
+      "link": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rises-inflation-bank-of-england-chief-economist",
+      "publishedAt": "2026-11-14T14:42:27.000Z",
+      "description": "‘We have further to go,’ says Huw Pill after increase to 4% this month as Bank seeks to tackle rising inflation The Bank of England will probably need to raise interest rates next month and again in early 2027 to combat rising inflation, its chief economist has said. Signalling a sharp rise in mortgage payments for an estimated 2.3 million homeowners who will have to refinance their loans next year, Huw Pill said that while the decision to nudge interest rates from 3.75% to 4% earlier this month was a “significant step” towards getting monetary policy into a better place, “we ⁠have further to ",
+      "author": "Phillip Inman",
+      "summary": "영국중앙은행 수석 경제학자가 인플레이션 억제를 위해 다음달과 2027년 초에 기준금리 인상이 필요할 것으로 예상된다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ad0e5b7e0254",
+      "category": "economy",
+      "source": "머니투데이",
+      "region": "kr",
+      "title": "손발 묶인 흔적 남긴 채 숨진 15세 아들…친모 구속영장 기각",
+      "link": "https://www.mt.co.kr/society/2026/11/14/2026111423055898815",
+      "publishedAt": "2026-11-14T14:28:14.000Z",
+      "description": "발달 장애 아들을 학대해 숨지게 한 혐의로 경찰에 붙잡힌 40대 엄마에 대한 구속영장이 기각됐다. 14일 뉴스1에 따르면 대전지법 천안지원은 이날 아동학대치사 혐의로 입건된 40대 여성 A씨에 대한 구속 전 피의자 심문에서 \"관련 증거 자료가 상당부분 수집돼 있어 구속 사유와 그 상당성을 인정하기 어렵다\"며 구속영장을 기각했다. A씨는 지난 12일 오전 8시 27분쯤 천안 서북구 한 아파트에서 15살 B군을 학대해 숨지게 한 혐의를 받는다. A씨는 B군이 아침에 의식을 잃고 일어나지 않자 119에 신고했다. B군은 심정지 상태로 인근 병원으로 옮겨졌지만 숨졌다....",
+      "author": null,
+      "summary": "발달장애 아들을 학대해 사망하게 한 혐의를 받은 40대 여성에 대한 구속영장이 증거 자료 충분을 이유로 기각되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3e66c0230397",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "브로드컴 뛰자 같이 뛰었다…기판株 코리아써키트, 51% 반등",
+      "link": "https://www.mk.co.kr/news/stock/12209039",
+      "publishedAt": "2026-11-14T13:53:51.000Z",
+      "description": "일주일 새 가파른 반등 기록 코어위브 호실적 발표에 젠슨황 반사수혜 기대 가세반도체 인쇄회로기판(PCB) 제조기업 코리아써키트 주가가 내년도 실적 턴어라운드 및 젠슨 황 사태 반사..",
+      "author": "매일경제",
+      "summary": "반도체 기판 제조사 코리아써키트의 주가가 일주일 만에 51% 반등하며 내년 실적 턴어라운드와 업계 호실적을 반영했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5f0b377cba31",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "뉴욕의 전기자전거 배터리 화재 급증, 안전 인프라 부족",
+      "link": "https://www.theguardian.com/us-news/2026/nov/14/new-york-city-ebike-battery-fires-deaths",
+      "publishedAt": "2026-11-14T12:00:44.000Z",
+      "description": "City has failed to build infrastructure that could reduce threat, and saw 400 fires, 83 injuries and 12 deaths this year Fires from lithium-ion batteries, which power ebikes and scooters, have become regular occurrences in New York, causing deaths and fear among residents, but the city has failed to build infrastructure that could reduce the threat. New York has seen a dramatic uptick this year in fires from the batteries. In 2025, there were 292 fires, 51 injuries and one death, according to the New York fire department (FDNY). This year, there have already been more than 400 fires, 83 injuri",
+      "author": "Eric Berger",
+      "summary": "뉴욕에서 리튬이온 배터리 화재가 올해 400건을 넘으며 12명이 사망했으나 시가 위험 감소 인프라 구축을 미루고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e121156339a8",
+      "category": "economy",
+      "source": "동아일보 경제",
+      "region": "kr",
+      "title": "중기중앙회 \"노란우산 개인정보 조회 의심 정황 확인…KISA 신고\"",
+      "link": "https://www.donga.com/news/Society/article/all/20261114/135024380/1",
+      "publishedAt": "2026-11-14T08:52:12.000Z",
+      "description": "소기업·소상공인 공제제도인 노란우산 홈페이지에서 일부 고객 개인정보의 제3자 조회 의심 정황이 확인됐다. 중소기업중앙회는 한국인터넷진흥원(KISA)에 침해사고를 신고하고 실제 조회 여부와 피해 범위 확인에 나섰다. 14일 중기중앙회가 노란우산 홈페이지에 게시한 ‘개인정보 유출 가능성 및 침해사고’ 공지에 따르면 지난 11일 외부 비인가자의 비정상적인 접근이 발생했다. 이 과정에서 일부 고객 개인정보의 제3자 조회 의심 정황이 확인됐다.조회 가능성이 있는 정보는 성명, 주민등록번호 앞 7자리, 휴대전화번호, 자택 주소, 자택 전화번호, 이메일 주소, 문자메시지·이메일 수신 동의 여부다.중기중앙회는 “주민등록번호 나머지 뒷자리의 경우 복호화가 불가능한 암호화로 관리하고 있다”고 설명했다. 이어 “의심 정황이 있는 항목을 모두 나열했으며, 실제 조회 여부와 항목은 조사 결과에 따라 달라질 수 있다”고 언급했다.중기중앙회는 현재까지 확인된 조회 의심 대상 고객에게 개별 문자를 발",
+      "author": null,
+      "summary": "노란우산 홈페이지가 외부의 비인가 접근을 받아 고객 개인정보(성명, 주민등록번호 앞자리, 연락처 등) 조회 의심 정황이 확인되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "46c12f5e1d2b",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "무료 축구용품 배포로 청소년 참여 확대",
+      "link": "https://www.bbc.co.uk/news/articles/ck20v651473qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T08:13:40.000Z",
+      "description": "Millie Bright helps hand out free kit to young girls to help them keep playing in spite of costs.",
+      "author": null,
+      "summary": "여자 축구 선수가 비용 부담으로 인한 청소년의 스포츠 활동 포기를 막기 위해 무료 축구 용품을 배포하는 캠페인을 진행하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f6f75214755d",
+      "category": "economy",
+      "source": "동아일보 경제",
+      "region": "kr",
+      "title": "가입자 191만명 '노란우산' 개인정보 유출정황… \"제3자 비정상 접근\"",
+      "link": "https://www.donga.com/news/Society/article/all/20261114/135024335/1",
+      "publishedAt": "2026-11-14T07:33:00.000Z",
+      "description": "소기업·소상공인 공제제도 ‘노란우산’의 홈페이지가 외부의 비정상적인 접근을 받아 일부 고객의 개인정보가 유출(제3자에게 조회)됐을 가능성이 있는 것으로 전해졌다.노란우산을 운영하는 중소기업중앙회는 14일 홈페이지 공지에서 “11일 노란우산 홈페이지에 대한 외부 비인가자의 비정상적인 접근을 확인했고, 이 과정에서 일부 고객 개인정보의 제3자 조회 의심 정황을 확인했다”며 사과했다. 유출(제 3자조회) 가능성이 있는 항목은 성명, 주민등록번호 앞 7자리, 휴대전화번호, 자택 주소, 자택 전화번호, 이메일 주소, 문자메시지·이메일 수신 동의 여부다. 다만 중기중앙회는 주민등록번호 뒷자리는 복호화가 불가능한 암호화로 관리하고 있다고 밝혔다. 중기중앙회는 “중기중앙회나 노란우산 관계자를 사칭해 금전이나 대출을 요구하는 전화나 문자메시지에는 응해서는 안 된다”며 “아이디 및 비밀번호의 입력이나 변경을 요구하는 전화나 문자메시지에도 응하지 말길 바란다”고 당부했다. 또 고객마다 해당하는 항목이",
+      "author": null,
+      "summary": "중소기업중앙회는 노란우산 홈페이지의 외부 비인가 접근으로 191만 가입자의 개인정보 조회 의심 정황을 확인하고 공지했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d445fc5f65c9",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "중기중앙회 \"노란우산 정보 유출 가능성…주소·연락처 등 포함\"",
+      "link": "https://www.yna.co.kr/view/AKR20261114037500030",
+      "publishedAt": "2026-11-14T06:57:04.000Z",
+      "description": "(서울=연합뉴스) 이상서 기자 = 중소기업중앙회는 11일 노란우산 홈페이지에 대한 외부의 비정상적인 접근과 함께 일부 고객 개인정보의 제3자 조...",
+      "author": "이상서",
+      "summary": "중소기업중앙회가 노란우산 홈페이지의 비정상 접근으로 인한 고객 개인정보 유출 가능성을 공지하고 피해 범위 확인에 나섰다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "af0bbb53e79b",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "\"군인·산모·실직자 주목…보험료 안 내도 국민연금 가입기간 늘어난다?\"",
+      "link": "https://www.mk.co.kr/news/economy/12208863",
+      "publishedAt": "2026-11-14T05:44:16.000Z",
+      "description": "내년부터 군 복무 기간 전체 인정 둘째 출산 땐 가입기간 15개월 실업 땐 보험료 75% 지원받아군 복무, 출산, 실직 등 불가피하게 보험료를 납부하기 어려워진 기간도 국민연금 가..",
+      "author": "매일경제",
+      "summary": "내년부터 군 복무, 출산, 실업 등으로 보험료를 납부하지 못한 기간도 국민연금 가입기간으로 인정되어 연금 수급에 유리하게 작용할 예정이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "415a539e477b",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "\"파격가에 의료통역 지원까지\"…비만약 원정처방 마케팅 확산",
+      "link": "https://www.yna.co.kr/view/AKR20261113174400017",
+      "publishedAt": "2026-11-14T04:30:00.000Z",
+      "description": "(서울=연합뉴스) 신선미 기자 = \"일본 정품 마운자로. 파격적이고 합리적인 가격.\"",
+      "author": "신선미",
+      "summary": "일본 정품 비만약을 저렴한 가격에 판매하면서 의료통역 지원까지 제공하는 해외 원정처방 마케팅이 확산되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "cedf9ad775fe",
+      "category": "politics",
+      "source": "노컷뉴스",
+      "region": "kr",
+      "title": "왕이 만난 조현 \"북미 정상회담 열릴 수도 있다\"",
+      "link": "https://www.nocutnews.co.kr/news/6606910",
+      "publishedAt": "2026-11-14T14:25:17.000Z",
+      "description": "조현 외교부 장관은 중국 베이징에서 왕이 외교부장과 회담을 한 후 북·미 정상회담이 이뤄질 가능성이 있다고 밝혔다. 조 장관은 14일 베이징 주중대사관에서 기자들과 만나 전날 한중 외교장관 회담에 대해 \"아시아태평양경제협력체(APEC)를 계기로 한반도 문제에 대해 깊이 있는 의견을 나눴다\"고 말했다. 그는 이어 북·미 정상회담에 대해서는 \"아직 가능성 정도의 수준이지만 개최될 수도 있다\"고 전했다. 외교부 고위 당국자는 왕 부장으로부터 김정은 북한 국무위원장의 단둥 방문과 김성남 노동당 국제비서의 중국 방문에 대해 상세히 들었다면서 \"정무적인 것보다 경제 협력에 초점을 맞춘 것이라는 쪽으로 이야기했고, 그런 인상을 많이 받았다\"고 전했다. 왕이 부장은 지난달 24일 김 위원장의 단둥 방문 당시 일정을 함께했으며, 이달 5일에는 중국을 찾은 김성남 국제비서와 회동했다. 김 위원장의 단둥 방문 당시 동행한 김 국제비서가 얼마 지나지 않아 상하이와 칭다오를 찾은 것은 북·미 대화 장소를 물색하기 위한 것이라는 관측도 나왔다. 조 장관은 \"한반도 평화의 당사자로서 (한반도 문제가) 우리의 사활적 이익이라는 점을 강조하고 설명했다\"며 \"중국 측에도 한반도 평화와 안정",
+      "author": null,
+      "summary": "조현 외교부 장관이 중국의 왕이 외교부장과 회담 후 북·미 정상회담 개최 가능성을 언급했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5a69ac975da1",
+      "category": "politics",
+      "source": "연합뉴스 사회",
+      "region": "kr",
+      "title": "메타엠 고객상담 시스템 해킹…전화번호·상담내용 유출 확인",
+      "link": "https://www.yna.co.kr/view/AKR20261114049400017",
+      "publishedAt": "2026-11-14T14:24:42.000Z",
+      "description": "(서울=연합뉴스) 유현민 기자 = 고객 상담 업무를 위탁 운영하는 메타엠의 일부 고객상담 시스템이 외부 공격을 받아 이용자의 전화번호와 상담 대...",
+      "author": "유현민",
+      "summary": "메타엠의 고객상담 시스템이 외부 공격으로 인해 이용자의 전화번호와 상담 내용이 유출되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8f66f10b581b",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "김정은 최측근 조용원, 러시아 방문···\"북·러 관계 강화 예상\"",
+      "link": "https://www.khan.co.kr/article/202611142203001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-11-14T13:03:00.000Z",
+      "description": "김정은 북한 국무위원장 주재로 지난해 1월27일 진행된 제8기 제30차 비서국 확대회의에서 조용원 당 조직비서가 보고하고 있다. 연합뉴스김정은 북한 국무위원장의 최측근으로 알려진 조용원 노동당 중앙위원회 비서가 14일 당과 정부 관계자로 구성된 대표단을 이끌고 러시아로 향했다고 교도통신이 보도했다.보도에 따르면 조 당 비서는 이날 평양 국제공항에서 항공편으···",
+      "author": "최민지 기자",
+      "summary": "김정은 국무위원장의 최측근인 조용원 당 중앙위원회 비서가 대표단을 이끌고 러시아로 향했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "49b8216b87a4",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "인제대서도 학생·교직원 정보 유출···약 2만4000건",
+      "link": "https://www.khan.co.kr/article/202611142134001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-11-14T12:34:00.000Z",
+      "description": "언스플래쉬금융기관과 대학 등에서 개인정보 유출 사고가 잇따르는 가운데 인제대에서도 학생과 직원의 개인정보가 유출됐다.14일 인제대에 따르면 대학은 전날 공식 홈페이지에 ‘개인정보 유출 사실 안내 및 사과문’을 게재하고 “수업 운영을 위해 사용하는 사이트 관련 서버에 대한 외부 공격으로 개인정보가 유출된 정황을 확인했다”고 밝혔다.인제대는 사과문 게재 하루 ···",
+      "author": "최민지 기자",
+      "summary": "인제대에서 수업 운영 사이트 서버가 외부 공격을 받아 학생과 직원의 개인정보 약 2만4000건이 유출되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "929c4eb8f304",
+      "category": "politics",
+      "source": "연합뉴스 사회",
+      "region": "kr",
+      "title": "오세훈, 남대문시장 달빛미식회 \"스카프아저씨 덕에…즐거운 마음\"",
+      "link": "https://www.yna.co.kr/view/AKR20261114047400004",
+      "publishedAt": "2026-11-14T12:26:15.000Z",
+      "description": "(서울=연합뉴스) 김준태 기자 = 오세훈 서울시장은 14일 저녁 서울 중구 남대문시장의 '서울 달빛미식회' 행사 현장을 방문했다.",
+      "author": "김준태",
+      "summary": "오세훈 서울시장이 남대문시장의 달빛미식회 행사를 방문해 '스카프아저씨' 덕분에 즐거운 심정을 표현했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ca6049d78a21",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "李대통령 \"가장 힘든 건 등 뒤서 날아오는 화살\"…與천준호 격려",
+      "link": "https://www.yna.co.kr/view/AKR20261114046600001",
+      "publishedAt": "2026-11-14T11:34:26.000Z",
+      "description": "(서울=연합뉴스) 황윤기 기자 = 이재명 대통령은 당 대표 시절 비서실장이었던 더불어민주당 천준호 원내운영수석부대표를 향해 14일 \"고생 많으셨...",
+      "author": "황윤기",
+      "summary": "이재명 대통령이 당 대표 시절 비서실장이었던 천준호 민주당 원내운영수석부대표에게 격려 발언을 했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "16b9b4e43c99",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "與 \"특검법에 공소취소 없다\" vs 野 \"누굴 바보로 아느냐\"…국힘 장외집회 두고 공방",
+      "link": "https://www.donga.com/news/Politics/article/all/20261114/135024329/1",
+      "publishedAt": "2026-11-14T09:55:47.000Z",
+      "description": "여야는 14일 국민의힘의 ‘조작기소 특검법’ 규탄 장외집회를 두고 공방을 벌였다. 더불어민주당은 국민의힘이 “특검법을 빌미로 대통령을 조롱하는 장외투쟁에 나섰다”고 비판했고, 국민의힘은 공소취소 권한이 없다는 민주당 주장에 “국민을 바보로 아느냐”고 맞받았다.민주당 손명수 대변인은 이날 서면 브리핑에서 국민의힘이 이날 부산에서 장외집회를 여는 데 대해 “예산국회를 팽개치고 특검법을 빌미로 대통령을 조롱하는 장외투쟁에 나선 것”이라며 “특검법 내용에 대해서는 알지도, 알고 싶지도 않고 오로지 정쟁으로 몰고 싶은 듯하다”고 비판했다. 이어 “분명히 밝힌다. 특검법에는 공소취소 권한이 없다”며 “국민의힘이 문제 삼았던 공소유지 여부 결정 조항과 사건 이첩 요구권까지 삭제했다”고 강조했다. 민주당 조계원 대변인도 서면 브리핑에서 “특검 후보자는 민주당과 국민의힘, 조국혁신당이 추천한다”며 “대통령에게 특검을 고를 수 있는 권한이 있는 것처럼 국민을 속이는 이유가 무엇이냐”고 따졌다. 이에",
+      "author": null,
+      "summary": "여야가 특검법을 둘러싼 특검 임명권 문제로 공방을 벌였으며, 민주당은 특검법에 공소취소 권한이 없다고 강조했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2d567495c428",
+      "category": "politics",
+      "source": "서울신문",
+      "region": "kr",
+      "title": "10년 전 공개한 졸업장 또 소환…전한길의 '하버드 2차 공세'에 이준석 폭발",
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20261114500025",
+      "publishedAt": "2026-11-14T07:29:08.000Z",
+      "description": "이준석 개혁신당 의원이 자신의 하버드대 입학 및 학력에 대해 거듭 의혹을 제기한 한국사 강사 출신 유튜버 전한길(본명 전유관)씨를 상대로 추가 형사 조치를 예고하며 강경 대응에 나섰다. 이 의원은 14일 소셜미디어(SNS)에 전씨의 유튜브 방송 영상을 공유하고 “허위 사실을 계속 남발하고 있다”며 불쾌감을 드러냈다. 갈등의 발단은 전씨가 지난 10일 자신의 유튜브 채널에서 제기한 ‘2차 학력 의혹’이다. 당시 전씨는 이 의원이 정당한 입학 절차를 거쳐 하버드대에 들어간 것이 아니라 고(故) 노무현 전 대통령의 추천을 받아 입학했다는 취지의 주장을 펼쳤다. 이와 함께 이 의원이 졸업장을 공개하지 않았다는 의혹도 덧붙였다. 이 의원은 전씨의 주장을 조목조목 반박했다. 그는 “졸업장은 이미 공개한 지 10년이 넘었다”며 해묵은 논란을 다시 꺼낸 점을 지적했다. 이어 ‘노무현 전 대통령 추천서설’에 대해서는 “노무현 대통령의 추천서를 내가 왜, 어떻게 받겠느냐”며 황당하다는 반응을 보였다. 이 의원은 이번 사안을 좌시하지 않겠다는 입장이다. 그는 “월요일(16일) 추가로 형사 조치하겠다”며 법적 대응을 공식화했다. 전씨가 이 의원의 학력 위조 의혹을 제기한 것은 이",
+      "author": "문경근 기자",
+      "summary": "이준석 개혁신당 의원이 자신의 하버드대 학력 의혹을 제기한 유튜버를 상대로 추가 형사 조치를 예고했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ef41a7c18acc",
+      "category": "politics",
+      "source": "SBS 뉴스",
+      "region": "kr",
+      "title": "최민희 민주당 최고위원 당원 간담회 녹취 발언 공개 [현장영상]",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008845917",
+      "publishedAt": "2026-11-14T07:21:00.000Z",
+      "description": "최민희 민주당 최고위원이 당원 간담회에서 한 발언의 파장이 커지고 있습니다. SBS가 입수한 간담회 녹취록 주요 내용을 공개합니다. 영상에서 직…",
+      "author": "so5what@sbs.co.kr (심영구)",
+      "summary": "최민희 민주당 최고위원이 당원 간담회에서 한 발언의 녹취록이 공개되면서 파장이 커지고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9138059588b6",
+      "category": "politics",
+      "source": "조선일보",
+      "region": "kr",
+      "title": "[산업X파일] '데이터센터 전기료 청구서'... 美·유럽 거쳐 한국 날아든다",
+      "link": "https://www.chosun.com/economy/economy_general/2026/11/14/U35FNNU6X5HAHGMAM2JRZUR44Q/",
+      "publishedAt": "2026-11-13T21:00:00.000Z",
+      "description": "",
+      "author": "이영빈 기자",
+      "summary": "데이터센터 전기료 청구서가 미국과 유럽을 거쳐 한국에 도달하는 국제 물류 체계를 소개했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "fa92b1a42431",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "축구장으로 돌진한 트럭 운전자, 기소 면제",
+      "link": "https://www.theguardian.com/us-news/2026/nov/14/kansas-driver-soccer-field-deaths-no-charges",
+      "publishedAt": "2026-11-14T14:38:36.000Z",
+      "description": "Authorities declined to file charges against napping woman whose truck accelerated on to field during youth game A soccer mom napping in her pickup truck when it suddenly accelerated on to the field at a Kansas youth tournament where her child was playing, killing two people, won’t face criminal charges, a prosecutor has said. Investigators believe the 34-year-old woman had failed to put the Chevrolet 1500 in park and likely put her foot on the gas pedal while sleeping at the Stryker Sports Complex in Wichita on 17 October. They conducted multiple interviews and even ran a test in the same par",
+      "author": "Associated Press",
+      "summary": "자신의 자동차가 낮잠 중 가속해 축구 경기장으로 진입, 2명을 죽인 34세 여성이 형사 기소를 면제받았다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "28ebb0b3a6da",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "美교통장관 \"항공운항 서서히 정상화…일부 지연·결항 지속\"",
+      "link": "https://www.yna.co.kr/view/AKR20261114049500071",
+      "publishedAt": "2026-11-14T14:24:15.000Z",
+      "description": "(워싱턴=연합뉴스) 박성민 특파원 = 미국 전역에서 13일(현지시간) 항공관제 통신시스템 장애로 4시간 30분 동안 항공기 운항이 전면 중단되는...",
+      "author": "박성민",
+      "summary": "미국 항공관제 통신 장애로 13일 항공운항이 4시간 30분 중단되었으며, 일부 지연과 결항이 계속되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "eff2a44231d9",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "이탈리아, 메타에 1조 과징금…\"이용자 사진에 무단 접근\"",
+      "link": "https://www.yna.co.kr/view/AKR20261114049000109",
+      "publishedAt": "2026-11-14T13:26:07.000Z",
+      "description": "(로마=연합뉴스) 민경락 특파원 = 이탈리아 당국이 14일(현지시간) 사회관계망서비스(SNS) 기업 메타가 사전 동의 없이 사진 등 이용자 정보...",
+      "author": "민경락",
+      "summary": "이탈리아 당국이 사용자 동의 없이 사진 정보에 접근한 메타에 1조원대 과징금을 부과했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "49a313893a40",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "극한 날씨로 휩싸인 2026년, 수만 명 사망",
+      "link": "https://www.theguardian.com/world/2026/nov/14/fires-heat-floods-extreme-weather-2026",
+      "publishedAt": "2026-11-14T13:00:44.000Z",
+      "description": "People around the world have contended with unprecedented weather events and their fatal effects caused by the climate catastrophe After the world’s hottest summer since records began in 1850, the death toll from extreme weather in 2026 is already in the high tens of thousands. That is a conservative estimate and is certain to rise much higher. As Cop31 continues and scientists warn that climate breakdown may be accelerating, the Guardian looks back at a year of droughts, fires and floods as a reminder that, unless the world takes urgent action to cut emissions, this disastrous year will be on",
+      "author": "Jonathan Watts; graphics by Sara Fiorillo",
+      "summary": "2026년은 1850년 이후 최고 온도를 기록한 여름 이후 극한 기후로 인한 사망자가 수만 명대에 이르고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1143c858b6b7",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "\"연금 양보하세요\" \"평생 일했는데\"…유럽시위 뒤엔 세대갈등",
+      "link": "https://www.yna.co.kr/view/AKR20261114048500085",
+      "publishedAt": "2026-11-14T12:57:57.000Z",
+      "description": "(런던=연합뉴스) 김지연 특파원 = 생활비 항의 시위가 유럽 전반으로 확산한 배경에는 고령화 시대 불어나는 연금 비용으로 다른 공공 부문에 쓸 ...",
+      "author": "김지연",
+      "summary": "유럽의 생활비 시위 배경에는 고령화 시대 연금 비용 증가로 인한 공공 부문 예산 부족과 세대 간 갈등이 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b0917cb125f7",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "젤렌스키, 보안 합의가 국민투표에 부칠 수 있다고 발언",
+      "link": "https://www.dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-11-14T11:40:00.000Z",
+      "description": "The US has broached the idea of Kyiv giving up the Donbas region in exchange for NATO membership, the Ukrainian president said.",
+      "author": null,
+      "summary": "우크라이나 젤렌스키 대통령이 미국이 제안한 돈바스 지역 포기 대 NATO 가입 보안 합의가 국민투표에 부칠 수 있다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "24fa2d6a6594",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "라오스·캄보디아에 군사시설 구축하는 중국, 동남아 군사 영향력 확대",
+      "link": "https://www.dw.com/en/new-facilities-in-laos-and-cambodia-is-china-expanding-its-military-presence-in-southeast-asia/a-79944798?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-11-14T11:24:00.000Z",
+      "description": "China has been growing its economic relationships in Southeast Asia. Now new military facilities in Laos and Cambodia are causing smaller countries to worry China's military networks are also expanding.",
+      "author": null,
+      "summary": "중국이 라오스와 캄보디아에 새로운 군사 시설을 건설하면서 동남아 지역에서의 군사 영향력 확대 움직임이 포착되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f6c3db73e337",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "헝가리, 오르반 시대 관료 조사 중 2,000만 달러 적발",
+      "link": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T10:42:20.000Z",
+      "description": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
+      "author": null,
+      "summary": "페터 마자르 헝가리 총리가 오르반 시대 관료에 대한 부패 수사 중 2,000만 달러를 적발했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "84db177e63a3",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "마이크로소프트, 전 세계 서비스 장애 완전 복구",
+      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T06:42:27.000Z",
+      "description": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+      "author": null,
+      "summary": "마이크로소프트가 Outlook, Teams, Copilot 등의 전 세계 서비스 장애 복구를 완료했다고 발표했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9195e1858d87",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "트럼프, 이란에 대한 현상 유지 전략 유지",
+      "link": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
+      "publishedAt": "2026-11-13T19:02:04.000Z",
+      "description": "President Trump says the \"status quo\" is what Gulf Arab allies want as the Iran war hits a stalemate and the U.S. midterms force a pivot from threats of attacks to economic pressure.",
+      "author": "Aya Batrawy",
+      "summary": "트럼프 대통령이 이란과의 군사적 교착 상태와 미국 중간선거 시기를 고려해 공격 위협에서 경제 압박 중심의 현상 유지 전략으로 전환했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "23c703295964",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "차기 제임스 본드 배우 선정",
+      "link": "https://www.washingtonpost.com/opinions/2026/11/14/edith-pritchett-cartoon-casting-next-james-bond-final-audition/",
+      "publishedAt": "2026-11-14T13:53:42.000Z",
+      "description": "The final audition.",
+      "author": "Edith Pritchett",
+      "summary": "차기 제임스 본드 역 캐스팅을 놓고 최종 오디션 단계가 진행 중이라는 내용의 의견입니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7eaca7c6f8f5",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "민주당 엘리트들이 정체성 정치를 악용해 진보진영을 폄하하고 있다",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/14/corporate-democrats-identity-politics-progressives",
+      "publishedAt": "2026-11-14T13:00:46.000Z",
+      "description": "House members have responded to legitimate criticism with cynicism. Let’s not have another ‘Bernie bros’ moment Before we get started, some ground rules. You are, of course, completely free to disagree with everything I have to say here. However, doing so might mean that you’re racist, homophobic and/or sexist. (Not to boast, but I have a lot of oppression cards to play.) So, you might want to tread carefully, OK? That might sound ridiculous, but I don’t make the rules: I’m just taking a page from the corporate Democrat playbook. From Haley Stevens to Hakeem Jeffries, cynically weaponizing ide",
+      "author": "Arwa Mahdawi",
+      "summary": "마흐다위 칼럼니스트는 민주당 엘리트들이 진보진영의 정당한 비판에 상대방을 인종차별주의자·혐오자로 낙인찍으며 정체성 정치를 악용하고 있다고 비판했습니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6efce65f634d",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "유럽의 녹색 규제가 누수되다",
+      "link": "https://www.washingtonpost.com/opinions/2026/11/14/europes-green-regulation-fever-shows-signs-breaking/",
+      "publishedAt": "2026-11-14T12:15:00.000Z",
+      "description": "Brussels wants to stop “carbon leakage.” Then stop fighting the market.",
+      "author": "Editorial Board",
+      "summary": "워싱턴 포스트 사설진은 유럽이 탄소 누출을 방지하려면 시장 메커니즘을 거스르지 말아야 한다고 촉구했습니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "41d9cca10a1f",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "젠슨 황의 몰락, 실리콘밸리의 독재체제가 초래한 어두운 결과",
+      "link": "https://www.nytimes.com/2026/11/14/opinion/jensen-huang-donald-trump-silicon-valley.html",
+      "publishedAt": "2026-11-14T12:00:16.000Z",
+      "description": "Silicon Valley’s authoritarianism has left itself particularly vulnerable to Donald Trump’s corruptive tendencies.",
+      "author": "Amit Seru and David Larcker",
+      "summary": "세루·라커 필자들은 실리콘밸리의 독재적 지배 구조가 트럼프의 부패적 영향력에 취약하게 만들었다고 주장했습니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5a267c46f64e",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "'MAGA에서 더 이상 착취할 여지가 없다'",
+      "link": "https://www.nytimes.com/video/opinion/100000011276423/theres-no-juice-left-to-squeeze-from-maga.html",
+      "publishedAt": "2026-11-14T11:55:00.000Z",
+      "description": "More than a week after the blue wave, what comes next for both parties?",
+      "author": null,
+      "summary": "칼럼니스트가 파란 물결 선거 이후 미국 양대 정당이 취할 다음 전략과 방향이 무엇인지 묻고 있습니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "672511c702da",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "의료 승리가 백신 거부 부모들의 희생양이 되다",
+      "link": "https://www.washingtonpost.com/opinions/2026/11/14/vitamin-k-shot-worked-so-well-that-parents-forgot-why-kids-need-it/",
+      "publishedAt": "2026-11-14T10:45:00.000Z",
+      "description": "Medical progress has an enemy: short memories.",
+      "author": "Editorial Board",
+      "summary": "워싱턴 포스트 사설진은 의료 진보가 백신 거부 운동과 단기 기억 상실로 인해 위협받고 있다고 비판했습니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "72c04933ac0e",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "영국 건국 1100주년, 성대한 축하가 필요한 이유",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/14/king-athelstan-england-1100-anniversary-2027",
+      "publishedAt": "2026-11-14T10:00:41.000Z",
+      "description": "Nearly 1,100 years ago, the nation’s first king drove out the ‘heathen’ Vikings, declared war on starvation and made ‘Englalonde’ what it is today On 4 July, the United States celebrated its 250th birthday with all the razzmatazz and dazzle characteristic of an American public occasion. Next summer, on 12 July, England will be celebrating the 1,100th anniversary of the event that, more than any other, marked the founding of the country – but of razzmatazz and dazzle there will be, I suspect, very little. The great turning point took place on 12 July 927, beside the river Eamont in what today i",
+      "author": "Tom Holland",
+      "summary": "톰 홀런드 필자는 927년 에델스탄 왕이 건국한 영국의 1100주년을 미국 독립 250주년만큼 성대하게 축하해야 한다고 주장했습니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8d5af8127b87",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "권력과 전쟁의 악순환, 예술이 이를 깨뜨린다",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/14/ukraine-gaza-better-stories-war-artists-remembrance",
+      "publishedAt": "2026-11-14T08:00:38.000Z",
+      "description": "Artists’ acts of remembrance about destruction and violence defy the dominant narratives of heroism and sacrifice The way stories are told about wars really matters. It is a point powerfully made by the classical scholar Alice König who, in her work on ancient and modern warfare, points out that the way war is depicted and narrativised feeds into the way wars are actually conducted. Creating and absorbing a story (whether that is told in prose or poetry, or offered by an artwork or memorial) is more than packaging or reflecting on the past; it is about generating images and expectations, and a",
+      "author": "Charlotte Higgins",
+      "summary": "샬롯 히긴스 필자는 전쟁 이야기의 방식이 실제 전쟁 수행에 영향을 미치며, 예술 작품들이 전쟁의 지배적 영웅주의 내러티브에 저항하고 있다고 주장했습니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "dba99fda801d",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "하워드 루트닉이 물러나야 한다",
+      "link": "https://www.nytimes.com/2026/11/13/opinion/jensen-huang-nvidia-howard-lutnick-commerce.html",
+      "publishedAt": "2026-11-14T03:55:46.000Z",
+      "description": "The secretary of commerce is almost as responsible for Nvidia’s crisis as the fallen chief executive Jensen Huang.",
+      "author": "Chris McGuire",
+      "summary": "맥과이어 필자는 상무부 장관 호워드 루트닉이 젠슨 황만큼 엔비디아 위기에 책임이 있으므로 물러나야 한다고 촉구했습니다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "fed65ab37839",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "젠슨 황의 몰락, 엔비디아에는 악재이지만 미국에는 기회",
+      "link": "https://www.nytimes.com/2026/11/13/opinion/jensen-huang-nvidia.html",
+      "publishedAt": "2026-11-14T02:13:51.000Z",
+      "description": "Jensen Huang was a big reason Nvidia preserved the ability to sell chips to China. His departure from the company might change that.",
+      "author": "Alex Kantrowitz",
+      "summary": "칸트로위츠 필자는 젠슨 황 퇴사가 미국이 중국으로의 반도체 수출을 통제할 수 있는 기회가 될 수 있다고 주장했습니다.",
+      "summarySource": "llm"
+    }
+  ],
+  "summarizedAt": "2026-11-15T01:37:11.863Z",
+  "summaryStats": {
+    "llm": 50,
+    "fallback": 0,
+    "model": "claude-haiku-4-5"
+  }
+}
