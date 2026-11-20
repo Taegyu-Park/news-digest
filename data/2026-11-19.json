@@ -1,0 +1,898 @@
+{
+  "date": "2026-11-19",
+  "generatedAt": "2026-11-20T02:52:01.267Z",
+  "categories": [
+    {
+      "id": "it",
+      "label": "IT·과학·AI"
+    },
+    {
+      "id": "economy",
+      "label": "경제·금융"
+    },
+    {
+      "id": "politics",
+      "label": "정치·사회"
+    },
+    {
+      "id": "world",
+      "label": "세계·국제"
+    },
+    {
+      "id": "editorial",
+      "label": "사설·칼럼",
+      "opinion": true,
+      "summaryMaxChars": 220
+    }
+  ],
+  "feedStatus": [
+    {
+      "source": "Ars Technica",
+      "category": "it",
+      "ok": true,
+      "matched": 13
+    },
+    {
+      "source": "Hacker News",
+      "category": "it",
+      "ok": true,
+      "matched": 4
+    },
+    {
+      "source": "TechCrunch",
+      "category": "it",
+      "ok": true,
+      "matched": 4
+    },
+    {
+      "source": "The Verge",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "블로터",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "전자신문",
+      "category": "it",
+      "ok": true,
+      "matched": 13
+    },
+    {
+      "source": "ZDNet Korea",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC Business",
+      "category": "economy",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "The Guardian",
+      "category": "economy",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "매일경제 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 32
+    },
+    {
+      "source": "연합뉴스",
+      "category": "economy",
+      "ok": true,
+      "matched": 38
+    },
+    {
+      "source": "경향신문 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 25
+    },
+    {
+      "source": "경향신문 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 33
+    },
+    {
+      "source": "노컷뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "서울신문",
+      "category": "politics",
+      "ok": true,
+      "matched": 7
+    },
+    {
+      "source": "연합뉴스 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "연합뉴스 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 82
+    },
+    {
+      "source": "SBS 뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 20
+    },
+    {
+      "source": "Al Jazeera",
+      "category": "world",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC World",
+      "category": "world",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "NPR",
+      "category": "world",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "The Guardian",
+      "category": "world",
+      "ok": true,
+      "matched": 11
+    },
+    {
+      "source": "연합뉴스 국제",
+      "category": "world",
+      "ok": true,
+      "matched": 32
+    },
+    {
+      "source": "매일경제 증권",
+      "category": "economy",
+      "ok": true,
+      "matched": 33
+    },
+    {
+      "source": "경향신문 오피니언",
+      "category": "editorial",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "NYT Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "The Guardian Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 11
+    },
+    {
+      "source": "Washington Post Opinions",
+      "category": "editorial",
+      "ok": true,
+      "matched": 13
+    },
+    {
+      "source": "동아일보 사설",
+      "category": "editorial",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "동아일보 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 22
+    },
+    {
+      "source": "조선일보",
+      "category": "politics",
+      "ok": true,
+      "matched": 2
+    },
+    {
+      "source": "동아일보 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "머니투데이",
+      "category": "economy",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "Wired",
+      "category": "it",
+      "ok": true,
+      "matched": 36
+    },
+    {
+      "source": "DW News",
+      "category": "world",
+      "ok": true,
+      "matched": 11
+    }
+  ],
+  "items": [
+    {
+      "id": "c990fb121000",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "Anthropic 상장, AI 순환 융자 구조의 한계 노출",
+      "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+      "publishedAt": "2026-11-19T14:54:39.000Z",
+      "description": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
+      "author": "Rebecca Bellan",
+      "summary": "Anthropic이 상장하며 막대한 컴퓨팅 비용 압박에 직면했지만, Amazon·Google 등 인프라 파트너는 Anthropic의 경쟁력 여부와 관계없이 AI 사업으로 지속적 수익을 얻을 수 있는 구조를 갖추고 있었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "983221233ae8",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "싸움 관찰로도 쥐가 경험 학습 효과를 본다",
+      "link": "https://arstechnica.com/science/2026/11/watching-mouse-fight-club-teaches-the-critters-how-to-fight/",
+      "publishedAt": "2026-11-19T14:04:38.000Z",
+      "description": "Watching fights wasn't as good as practical experience, but it got the mice halfway there.",
+      "author": "Jennifer Ouellette",
+      "summary": "쥐가 싸움을 직접 치르는 것보다는 못했지만, 싸움을 관찰하는 것도 경험 학습에 절반 정도의 효과를 발휘했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3a27054e3ed0",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "Nimble, 친환경 물품 추적 시장 진입",
+      "link": "https://techcrunch.com/2026/11/19/nimble-enters-the-item-tracking-market-with-eco-friendly-luggage-tags-and-keychains/",
+      "publishedAt": "2026-11-19T14:00:00.000Z",
+      "description": "As Google takes on Apple in the item-tracking market, Nimble is hoping its trackable wallets, keychains, luggage tags, and passport covers stand out.",
+      "author": "Lauren Forristal",
+      "summary": "Google과 Apple이 경쟁하는 물품 추적 시장에 Nimble이 추적 가능한 지갑, 키체인, 수하물 태그 등을 출시했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a2d0889c92df",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "Orion 우주선 설계 문제로 NASA 달 계획 차질",
+      "link": "https://arstechnica.com/space/2026/11/to-make-moon-landings-easier-nasa-is-making-life-harder-for-orion/",
+      "publishedAt": "2026-11-19T13:40:02.000Z",
+      "description": "\"We also have a responsibility to not go too fast and cut too many corners.\"",
+      "author": "Eric Berger",
+      "summary": "NASA의 새로운 달 계획에서 Orion 우주선이 현재 계획된 방식의 비행에 대해 설계되지 않았다는 문제가 드러났다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2377a7b6f57e",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "\"칼날 같은 송곳니가 무려 5㎝\"…1300만년 전 북미 누빈 '뱀파이어 낙타' 정체",
+      "link": "https://www.etnews.com/20261118000346",
+      "publishedAt": "2026-11-19T13:30:00.000Z",
+      "description": "약 1300만년 전 북아메리카 대평원에 살았던 이른바 '뱀파이어 낙타'의 정체가 밝혀졌다. 칼날처럼 날카롭고 길게 휘어진 송곳니를 지닌 이 동물은 무시무시한 외형과 달리 식물을 먹고 살았던 초식동물로 추정된다. 최근 국제학술지 사이언스(Science)에 따르면 미국 연구진은 북미 지역에서 수집된 고대 낙타 화석을 분석해 지금까지 정식으로 분류되지 않았던 멸종 낙타를 새로운 속과 종으로 확인했다. 연구진이 붙인 학명은 '뱀피로카멜루스 웰시(Vam",
+      "author": "서희원",
+      "summary": "1300만년 전 북미에 살던 '뱀파이어 낙타'는 칼날처럼 날카로운 5㎝의 송곳니를 가졌지만, 실제로는 식물을 먹는 초식동물로 확인되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "147a1f49cc1f",
+      "category": "it",
+      "source": "Hacker News",
+      "region": "intl",
+      "title": "브라우저에서 A4 종이 한 장으로 8페이지 지인 접기",
+      "link": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
+      "publishedAt": "2026-11-19T13:18:11.000Z",
+      "description": "Article URL: https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/ Comments URL: https://news.ycombinator.com/item?id=50559719 Points: 254 # Comments: 56",
+      "author": "krthr",
+      "summary": "브라우저를 이용해 A4 용지 하나로 8페이지 접기 지인을 만드는 기술이 소개되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8926a7737ec0",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "2026년 가정용 엔터테인먼트 추천 선물",
+      "link": "https://www.wired.com/story/best-home-entertainment-gifts-2026/",
+      "publishedAt": "2026-11-19T12:00:00.000Z",
+      "description": "Because staying home can actually mean having the time of your life, whether alone or with friends.",
+      "author": "Harry Rabinowitz",
+      "summary": "가정에서 혼자 또는 친구들과 즐길 수 있는 TV, 조명 등의 엔터테인먼트 제품이 선물용으로 추천되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2fa547a72cbf",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "Anthropic의 기록적 IPO, 최대 위험은 자기 자신",
+      "link": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
+      "publishedAt": "2026-11-19T12:00:00.000Z",
+      "description": "Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger toward data centers could impact its growth.",
+      "author": "Paresh Dave",
+      "summary": "Anthropic의 1070억 달러 상장에서 투자자들은 회사의 AI 안전 전략과 데이터센터에 대한 공중의 분노가 성장성에 미칠 영향을 평가 중이었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "bcbb090ca970",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "수능 의혹 어쩌나…'리트 만점자', 서울대 \"입학 취소 불가\" 왜?",
+      "link": "https://www.etnews.com/20261119000456",
+      "publishedAt": "2026-11-19T11:59:32.000Z",
+      "description": "법학적성시험(LEET)과 대학수학능력시험(수능) 부정행위 의혹을 받아온 이진우 씨(32)가 사망하면서 서울대 치의학과 입학 취소를 포함한 관련 후속 조치가 사실상 어려워졌다. 다만 경찰이 사망 이후에도 실체적 진실을 확인하기 위한 수사를 이어가겠다고 밝혀 의혹의 진상 규명 여부는 여전히 남은 과제다. 19일 서울대에 따르면 이씨의 입학 취소를 심의하기 위해서는 한국교육과정평가원의 수능 성적 무효화 조치가 선행돼야 한다. 정시모집 일반전형은 수능",
+      "author": "이상목",
+      "summary": "LEET·수능 부정행위 의혹을 받던 이진우 씨가 사망하면서 서울대 치의학과 입학 취소 조치가 사실상 불가능해졌다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "21575d48062c",
+      "category": "it",
+      "source": "Hacker News",
+      "region": "intl",
+      "title": "Java4shell 취약점, 2026년 9월 보고",
+      "link": "https://github.com/openjdk/jdk/pull/32781",
+      "publishedAt": "2026-11-19T11:47:03.000Z",
+      "description": "Article URL: https://github.com/openjdk/jdk/pull/32781 Comments URL: https://news.ycombinator.com/item?id=50558906 Points: 381 # Comments: 98",
+      "author": "notmine1337",
+      "summary": "Java 보안 취약점인 Java4shell이 2026년 9월 OpenJDK 저장소에 보고되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "af9f939355d6",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "커닝 걸리면 국가자격시험 10년 못본다…수석·차석 점수도 공개",
+      "link": "https://www.mk.co.kr/news/economy/12214047",
+      "publishedAt": "2026-11-19T14:05:22.000Z",
+      "description": "노동부, 자격시험 감독 강화 AI기기 감독관 대폭 늘리고 수·차석 합격자 점수도 공개 세무사 시험 주관식 문제 추가세무사 등 국가자격시험의 인공지능(AI) 부정행위 논란이 도마에 ..",
+      "author": "매일경제",
+      "summary": "노동부가 국가자격시험의 AI 부정행위를 막기 위해 감독관을 대폭 늘리고, 커닝 적발 시 10년간 응시 금지, 합격자 최고·2등 점수 공개 등의 감독 강화 방안을 추진했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3e2c94de6207",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "티켓 판매사 비아고고, 불법 수수료 관행 의심",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg2ex7j30lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-19T13:35:52.000Z",
+      "description": "The UK's competition body says initial findings suggest the ticket-reselling website used drip pricing.",
+      "author": null,
+      "summary": "영국 경쟁당국이 티켓 재판매 웹사이트 비아고고가 단계적 가격 표시(드립 프라이싱)를 사용해 법을 위반했을 가능성이 있다고 잠정 결론을 내렸다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5ccc8fe1be31",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "미국 경제 지배하는 소수, 젠슨 황의 사례",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/19/jensen-huang-authoritarian-economy",
+      "publishedAt": "2026-11-19T13:00:49.000Z",
+      "description": "A handful of men control the US economy. They have leveraged themselves to be – or seem – indispensable Jensen Huang has said he would return to Nvidia as its CEO if its board requests it. “I’ve seen an outpouring of calls from Nvidia’s employees, investors, business partners and customers for me to return as CEO,” Huang said. “If the board of directors decides that my return is in the best interest of our shareholders, our employees, the company and America, I would be honored to answer these calls and return as CEO.” Continue reading...",
+      "author": "Robert Reich",
+      "summary": "로버트 라이히 칼럼니스트는 소수의 인물이 미국 경제를 지배하며 자신들을 필수불가결하게 만들었다고 지적하며, 엔비디아의 젠슨 황이 이사회 요청 시 CEO로 복귀할 의향을 밝힌 것을 예로 들었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "21c1f4cc034f",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "\"여태껏 숨참고 기다렸습니다\"…한한령 빗장 풀리자 용틀임한 종목들",
+      "link": "https://www.mk.co.kr/news/stock/12213954",
+      "publishedAt": "2026-11-19T11:47:42.000Z",
+      "description": "엔터사 영익 최대 2배 증가 가능성 스튜디오드래곤 주가 상한가 기록 관광·항공·화장품 수혜 기대 확산 실제 공연·방영 승인 시점이 관건한중 자유무역협정(FTA) 서비스·투자 후속협..",
+      "author": "매일경제",
+      "summary": "한한령 완화 소식에 엔터테인먼트, 관광, 항공, 화장품 등 관련 종목들이 주가 상승을 기록했으며, 실제 공연과 방영 승인 시점이 추가 수익 기대의 관건이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ba8d2bf784a2",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "인도 운전사, 디왈리 복권으로 130만달러 획득",
+      "link": "https://www.bbc.co.uk/news/videos/cke89vdn75gyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-19T11:38:09.000Z",
+      "description": "A truck driver's fortunes have changed overnight after he won a Diwali lottery in the northern Indian state of Punjab.",
+      "author": null,
+      "summary": "인도 펀자브 주의 화물차 운전사가 디왈리 복권상으로 130만 달러를 획득해 인생이 송두리째 바뀌었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0dd0079a478e",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "엔비디아, 황 사임 후 암 CEO 르네 하스 영입 추진",
+      "link": "https://www.theguardian.com/technology/2026/nov/19/nvidia-new-ceo-search-jensen-huang-arm-rene-haas",
+      "publishedAt": "2026-11-19T11:29:01.000Z",
+      "description": "CEO of Cambridge-based firm viewed as leading contender to replace co-founder Jensen Huang according to reports Business live – latest updates Nvidia’s headhunters have reportedly approached the chief executive of the Cambridge-based chip company Arm, in its search for a new leader after Jensen Huang’s dramatic exit. Heidrick & Struggles, the recruiting firm hired by the company’s board, has started contacting potential candidates, according to Bloomberg. Continue reading...",
+      "author": "Lauren Almeida",
+      "summary": "젠슨 황 사임 이후 엔비디아가 고용한 헤드헌팅 회사가 캠브리지 소재 칩 설계사 암(Arm)의 CEO 르네 하스에게 신규 최고경영진직을 제시한 것으로 보도되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c200245bd53a",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "서초구, 재초환 부과기한 국토부 해석에 유감…\"제도 폐지해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20261119168400004",
+      "publishedAt": "2026-11-19T09:52:49.000Z",
+      "description": "(서울=연합뉴스) 정준영 기자 = 서울 서초구(구청장 전성수)는 19일 재건축초과이익환수제의 부담금 부과기한 질의에 대한 국토교통부의 회신과 관...",
+      "author": "정준영",
+      "summary": "서울 서초구가 재건축초과이익환수제의 부담금 부과기한에 대한 국토교통부의 해석에 유감을 표하고 해당 제도의 폐지를 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2ca049645b82",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "황종우 해수장관 \"해광호 수색에 가용 자원 최대한 동원\"",
+      "link": "https://www.yna.co.kr/view/AKR20261119167700030",
+      "publishedAt": "2026-11-19T09:52:23.000Z",
+      "description": "(서울=연합뉴스) 한주홍 기자 = 황종우 해양수산부 장관은 19일 충남 태안군 서격렬비도 북서쪽 22해리 해상에서 연락이 두절된 어선 '해광호'...",
+      "author": "한주홍",
+      "summary": "황종우 해양수산부 장관이 충남 태안군 근처 해상에서 연락이 두절된 어선 해광호의 수색에 가용 자원을 최대한 동원하겠다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "744c12b3ab31",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "젠슨 황의 위선, 특검법의 위선 [논설실 Pick]",
+      "link": "https://www.mk.co.kr/news/economy/12213496",
+      "publishedAt": "2026-11-19T09:31:00.000Z",
+      "description": "젠슨 황, 사임 닷새 만에 복귀 의지 스스로 죄 사할 능력 가지려는 생각 “금빛 망토 둘렀지만, 그 안은 무거운 납” 단테 신곡에 나오는 ‘위선’의 형벌 새겨야단테의 신곡(神曲)..",
+      "author": "매일경제",
+      "summary": "매일경제 사설은 젠슨 황이 사임 5일 만에 CEO 복귀 의향을 보인 것을 단테의 신곡에 나오는 위선의 형벌에 비유하며 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "98ab1a25290b",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "\"AI는 국가 안보자산 투자 꺾이는일 없다\"",
+      "link": "https://www.mk.co.kr/news/stock/12213887",
+      "publishedAt": "2026-11-19T08:47:59.000Z",
+      "description": "\"인공지능(AI) 인프라스트럭처는 이제 상업적 관점을 넘어 국가 안보자산으로 인식되고 있다. 생태계 전반에 수조 달러가 투자된 상황에서 이것이 좌초 자산이 될 것으로 보지 않는다...",
+      "author": "매일경제",
+      "summary": "AI 인프라가 상업적 자산에서 국가 안보자산으로 인식되면서, 생태계 전체에 투자된 수조 달러 규모의 투자가 감소하지 않을 것으로 전망했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "72294088b85f",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "'조작기소 특검'에 322억 투입 예상…인건비 84억",
+      "link": "https://www.yna.co.kr/view/AKR20261119183700001",
+      "publishedAt": "2026-11-19T14:49:33.000Z",
+      "description": "(서울=연합뉴스) 권희원 기자 = 이른바 '조작기소 특검'에 총 320억원이 넘는 예산이 투입될 것이라는 재정 추계가 나왔다.",
+      "author": "권희원",
+      "summary": "조작기소 특검에 총 320억원이 넘는 예산이 투입될 것으로 재정 추계가 나왔으며, 이 중 인건비는 84억원으로 예상된다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8d0f40329cec",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "與, '曺대법원장 탄핵' 직행…진보정당과 구성단 추진 계획",
+      "link": "https://www.yna.co.kr/view/AKR20261119174353001",
+      "publishedAt": "2026-11-19T14:46:05.000Z",
+      "description": "(서울=연합뉴스) 박경준 최주성 기자 = 더불어민주당이 19일 내란 중요임무 종사 혐의로 기소된 한덕수 전 국무총리에게 징역 15년을 선고한 2...",
+      "author": "박경준",
+      "summary": "더불어민주당이 조희대 대법원장 탄핵을 직행하기로 공식화했으며, 탄핵추진단을 구성해 절차를 밟을 계획이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "37ee4c90903a",
+      "category": "politics",
+      "source": "조선일보",
+      "region": "kr",
+      "title": "[팀 알퍼의 런던 Eye] [62] 영국인의 취미 '건물 개조'",
+      "link": "https://www.chosun.com/opinion/specialist_column/2026/11/19/DAY7FFA5JBEUZORSAYROOQSXAI/",
+      "publishedAt": "2026-11-19T14:39:00.000Z",
+      "description": "",
+      "author": "팀 알퍼 칼럼니스트",
+      "summary": "영국인들의 건물 개조는 흔한 취미 활동으로, 주택을 직접 손보는 문화가 발달해 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9a225dfba8d1",
+      "category": "politics",
+      "source": "서울신문",
+      "region": "kr",
+      "title": "與 '민주유공자법' 본회의 상정… 野 필버로 버티기",
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20261120008003",
+      "publishedAt": "2026-11-19T14:28:53.000Z",
+      "description": "민주화운동에 기여한 인사를 국가가 예우하고 지원하는 내용을 담은 ‘민주유공자 예우에 관한 법률안’(민주유공자법)이 19일 더불어민주당 주도로 국회 본회의에 상정됐다. 국민의힘이 유공자 인정 기준이 모호하다고 반발하며 필리버스터(무제한 토론)에 돌입하면서 법안은 20일 처리될 예정이다. 국회는 이날 본회의를 열어 민주유공자법을 상정했다. 법안은 유신 반대 투쟁과 부마민주항쟁, 6월 민주항쟁 등 민주화운동 관련자와 유가족에 대해 의료비·요양비·양로시설 지원 등 합당한 예우를 하는 내용을 담고 있다. 한병도 민주당 원내대표는 이날 국회에서 열린 정책조정회의에서 “평생을 트라우마와 생활고에 시달린 민주화운동 과정의 희생자와 유가족에게 최소한의 돌봄과 예우를 보장하는 법”이라고 밝혔다. 반면 국민의힘은 “운동권 세탁법”, “운동권 특혜법”이라며 필리버스터에 돌입했다. 필리버스터 첫 주자로 나선 국회 정무위원회 야당 간사 서일준 의원은 유공자 인정 대상과 기준의 불명확성, 국가보안법 위반자에 대한 예외적 인정 가능성 등을 지적하며 “국가가 보상해야 할 피해자를 결정하는 것과 국가의 이름으로 명예와 예우를 부여할 유공자를 결정하는 것은 다른 차원의 문제”라고 강조했다. ",
+      "author": "한지은·박효준 기자",
+      "summary": "민주화운동 관련자와 유가족을 예우하는 민주유공자법이 국회 본회의에 상정되었고, 국민의힘의 필리버스터로 법안 처리가 20일로 연기되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "87426ecfce92",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "\"추경호 1심 무죄에 한동훈이 영향…계엄 위헌성 말했기 때문\"",
+      "link": "https://www.donga.com/news/Politics/article/all/20261119/135055814/1",
+      "publishedAt": "2026-11-19T14:24:42.000Z",
+      "description": "동아일보 정치 라이브 ＜법정모독＞- 일시: 화·목요일 오전 10~11시- 토크: 김민하 평론가, 박상수 변호사- 진행·연출: 김형민 김수은- 동아일보 유튜브 : www.youtube.com/@donga-ilbo한동훈 무소속 의원이 국민의힘 제명 징계 처분에 대해 가처분 신청을 제기한다면 인용 가능성이 커졌다는 분석이 나왔다. 최근 국민의힘 윤리위원회 내부자들의 폭로 및 증거 공개가 이어지면서다. 또 추경호 대구시장의 12·3 비상계엄 해제 표결 방해 혐의에 대한 1심 무죄 판결은 당시 국민의힘 당대표였던 한 의원이 계엄의 위법성을 공식화했기 때문에 가능했다는 주장도 나왔다. 19일 동아일보 유튜브 ‘법정모독 업앤다운’에 출연한 박상수 변호사는 “이번 폭로까지 더해지면서 (한 의원이 제명 효력 정지) 가처분 신청을 제기했을 때 무효 징계로 인용이 되는 것은 확정이라고 본다”고 강조했다. 그러면서 “모든 법에 적용되는 책임주의 원칙이 있다. 누가 (당원 게시판에 글을) 작성했는지 사실관",
+      "author": null,
+      "summary": "법조인 분석에 따르면 추경호 대구시장의 계엄 표결 방해 혐의 1심 무죄 판결은 한동훈 의원이 계엄의 위법성을 공식화했기 때문이라고 한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3733dccc806d",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "그렇게 하지 말랬는데…전자기기 소지 98명 적발",
+      "link": "https://www.khan.co.kr/article/202611192225015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-11-19T13:25:01.000Z",
+      "description": "수능 고강도 부정행위 단속재난문자 49명·신호 탐지 44명5명은 시험 중 ‘기기 활용’ 적발교육부 “모두 부정행위자 처리”난도는 ‘작년보다 쉬웠다’ 분석금속탐지기 든 감독관 2027학년도 대학수학능력시험이 실시된 19일 서울 용산고등학교에서 한 감독관이 금속탐지기를 들고 있다. 사진공동취재단인공지능(AI)을 활용한 부정행위 우려가 커지면서 2027학년도 ···",
+      "author": "김지혜·우혜림 기자",
+      "summary": "2027학년도 수능에서 전자기기 부정행위가 98명 적발되어 교육부는 모두를 부정행위자로 처리했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a9ec508ceaca",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "민주당, 조희대 탄핵추진단 구성키로…20일 의총서 탄핵 당론 채택",
+      "link": "https://www.khan.co.kr/article/202611192225001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-11-19T13:25:00.000Z",
+      "description": "김민석 더불어민주당 대표가 19일 국회에서 12·3 비상계엄 관련 내란 중요임무 종사 혐의로 기소된 한덕수 전 국무총리에게 징역 15년을 선고한 2심 판결이 대법원에서 일부 무죄 취지로 파기환송된 데 대한 입장을 밝히고 있다. 연합뉴스더불어민주당이 19일 공식화한 조희대 대법원장 탄핵과 관련해 탄핵추진단을 구성해 절차를 밟기로 했다. 민주당 지도부는 오는 ···",
+      "author": "박하얀 기자",
+      "summary": "더불어민주당이 조희대 대법원장 탄핵추진단을 구성하고 20일 의원총회에서 탄핵을 당론으로 채택하기로 했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ecf38f436746",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "대법 전합 \"한덕수, 계엄 국무회의 건의는 무죄\"",
+      "link": "https://www.khan.co.kr/article/202611192225005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-11-19T13:25:00.000Z",
+      "description": "내란 중요임무종사 일부 파기환송…“계엄은 내란” 첫 규정“국헌 따르게 하려는 목적” 판단 구속 만료 몇 시간 전 두 달 연장 여당 비상의총, 조희대 탄핵 추진 김건희 ‘3대 의혹’ 징역 4년 확정대법원이 19일 한덕수 전 국무총리(사진)의 내란 중요임무종사 혐의 중 ‘국무회의 소집 건의’를 무죄 취지로 파기환송했다. 대법원은 한 전 총리의 다른 내란···",
+      "author": "최혜린·박하얀 기자",
+      "summary": "대법원이 한덕수 전 국무총리의 국무회의 소집 건의를 무죄로 판단해 파기환송했고, 계엄을 내란으로 규정했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a3f1601d4516",
+      "category": "politics",
+      "source": "SBS 뉴스",
+      "region": "kr",
+      "title": "국민의힘 \"내란몰이에 사법부 철퇴\" 반색",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008854517",
+      "publishedAt": "2026-11-19T13:07:00.000Z",
+      "description": "이어서 국민의힘 상황도 살펴보겠습니다. 정반대 분위기일 것 같은데요. 국민의힘 취재기자 연결합니다.박찬범 기자 국민의힘 쪽 분위기 어떻습니까, 이번 판결 반기고 있습니까? 네, 국민의힘은 긴급 의원 총회를 열었던 민주당과 달리 평소와 크게 다를 바 없는 모습입니다.제가 아침부터 국회에서 오늘 판결 나오면 국민의힘이 어떤 입장을 낼지, 지도부를 상대로 계속 취재했는데요.한덕수 전 총리 내란죄가 최종 인정되면, 국민의힘으로서는 유리할 게 없는 만큼 별도 입장을 내지 않을 거라고 했습니다.하지만 일부 무죄 취지로 파기환송되자 바로 환영 입장을 냈습니다.장동혁 대표는 내란몰이로 연명해 온 이재명 정권에게 사법부가 철퇴를 내린 거라면서 또 하나의 조작기소가 실체를 드러냈다고 주장했습니다.어제 추경호 대구시장이 계엄 표결 방해 혐의와 관련해 1심에서 무죄 판결을 받은 데 이어, 한덕수 전 총리 사건에서도 일부 파기 환송 판결이 나오자 한층 고무된 분위기입니다.다만 이런 판결에도 불구하고 대법원이 한 전 총리에 대해 사실상 내란죄를 인정한 데 대해선 유감이나 사과 입장을 밝히지 않았습니다.",
+      "author": "cbcb@sbs.co.kr (박찬범)",
+      "summary": "국민의힘이 한덕수 전 국무총리 사건의 일부 파기환송 판결을 환영하며, 사법부가 내란몰이에 철퇴를 내렸다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c6b15d3ce9c3",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "이 대통령 \"북한과 대화 문 열리길\"…푸틴과 짧은 회동도",
+      "link": "https://www.khan.co.kr/article/202611192155015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-11-19T12:55:01.000Z",
+      "description": "정상회의서 ‘한반도 평화’ 역설푸틴과 10여분간 협력 관련 논의3박4일 순방 일정 마치고 귀국7년 만에 만난 한·러 정상 이재명 대통령이 지난 18일 중국 선전에서 블라디미르 푸틴 러시아 대통령과 대화하고 있다. 이준헌 기자이재명 대통령이 “한반도 평화와 안정이야말로 아시아·태평양 지역 공동번영을 위한 필수 조건”이라며 “북한과의 대화의 문이 다시 열려 한···",
+      "author": "선전 | 정환보 기자",
+      "summary": "이재명 대통령이 중국 선전에서 블라디미르 푸틴 러시아 대통령과 약 10분간 만나 협력을 논의했고, 한반도 평화의 필요성을 역설했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "676a201f5c0e",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "유럽연합, AI 활용 사이버 공격 표적 확인",
+      "link": "https://www.dw.com/en/eu-commission-confirms-it-was-targeted-in-cyberattack-using-ai-tools/a-79993016?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-11-19T14:58:00.000Z",
+      "description": "The European Commission was targeted by an \"AI-generated cybercampaign,\" a spokesperson has said. This is the first time the bloc has publicly reported an AI-based cyberattack.",
+      "author": null,
+      "summary": "유럽연합 집행위원회가 AI 생성 사이버 캠페인의 공격 대상이 되었으며, 블록이 처음으로 공개적으로 보고한 AI 기반 사이버 공격이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "632ae1a42659",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "뉴욕증시, 앤트로픽 나스닥 상장 앞두고 상승 출발",
+      "link": "https://www.yna.co.kr/view/AKR20261119186000009",
+      "publishedAt": "2026-11-19T14:54:14.000Z",
+      "description": "(서울=연합뉴스) 윤정원 연합인포맥스 기자 = 뉴욕증시의 3대 주가지수는 인공지능(AI) 모델 '클로드' 개발사 앤트로픽의 나스닥 상장을 앞두고...",
+      "author": "국제뉴스공용1",
+      "summary": "뉴욕증시의 주가지수들이 AI 모델 '클로드' 개발사 앤트로픽의 나스닥 상장을 앞두고 상승 출발했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8c2a0bf5c5e3",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "이란, 유가 하락하자 호르무즈 유조선 공격 강화…하루 1건꼴",
+      "link": "https://www.yna.co.kr/view/AKR20261119184700079",
+      "publishedAt": "2026-11-19T14:52:13.000Z",
+      "description": "(카이로=연합뉴스) 김상훈 특파원 = 국제유가가 하락세를 보이는 가운데 세계 핵심 원유 수송로인 호르무즈 해협에서 이란의 유조선 공격이 한층 거...",
+      "author": "김상훈",
+      "summary": "국제유가가 하락세를 보이는 가운데 세계 핵심 원유 수송로인 호르무즈 해협에서 이란의 유조선 공격이 한층 거세지고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "bb5222f00487",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "베를린 회담, 러시아에 평화협상 메시지",
+      "link": "https://www.dw.com/en/wadephul-coalition-of-the-willing-talks-in-berlin-send-strong-signal-to-moscow/a-79990664?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-11-19T13:56:00.000Z",
+      "description": "German Foreign Minister Wadephul has said the Coalition of the Willing meeting in Berlin sends a clear message to Moscow to take peace talks seriously. He also warned Ukraine should be prepared for peace talks to fail.",
+      "author": null,
+      "summary": "독일 외무장관이 베를린에서 열린 '뜻을 함께하는 국가들' 회담이 러시아에 평화협상을 진지하게 받아들이라는 명확한 신호를 보낸다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "45fcafef41fe",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "베네수엘라, 미국과 군사협력 협정 체결",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-19T13:31:23.000Z",
+      "description": "The US Secretary of Defence says Venezuela has \"gone from our most aggressive regional threat to a compliant security partner\".",
+      "author": null,
+      "summary": "마두로 정권 제거 1년 미만 만에 미국 국방장관은 베네수엘라가 지역의 공격적 위협에서 순응하는 안보 파트너로 변했다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "cad19a411850",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "브뤼셀 EU-영국 정상회담, 무엇이 쟁점인가",
+      "link": "https://www.theguardian.com/politics/2026/nov/19/eu-uk-summit-explainer-burnham-brexit-brussels",
+      "publishedAt": "2026-11-19T13:11:23.000Z",
+      "description": "Leaders will wrestle with easing Brexit red tape, restoring emissions trading and opening up youth mobility UK politics live – latest updates The EU and UK will hold a long-awaited summit in Brussels on Friday – the second since Brexit – to hammer out the UK’s longer-term relationship with the bloc. It will be attended by the prime minister, Andy Burnham, the head of the European Commission, Ursula von der Leyen, and the president of the European Council, António Costa. Continue reading...",
+      "author": "Jennifer Rankin in Brussels",
+      "summary": "EU와 영국이 브렉시트 절차 완화, 배출권거래 복구, 청년 이동성 개방 등을 논의하기 위해 브뤼셀에서 정상회담을 개최했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c226dd5b6b86",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "푸틴, 크림다리 공격에 '더 고통스러운' 대응 위협",
+      "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-19T13:07:35.000Z",
+      "description": "The bridge - a symbol of Russia's occupation of the Crimean Peninsula - suffered major damaged following a combined attack by Ukraine earlier this week.",
+      "author": null,
+      "summary": "러시아 크림반도 점령의 상징인 크림다리가 우크라이나의 연합 공격으로 이번 주 큰 피해를 입었으며, 푸틴이 더 강력한 보복을 경고했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9d48113a4c8b",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "이스라엘, 휴전 후 처음 가자 중부 진입",
+      "link": "https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza",
+      "publishedAt": "2026-11-19T12:40:46.000Z",
+      "description": "First incursion across boundary since ceasefire deal comes as Eisenkot seeks to form government without Netanyahu The Israeli military crossed into Hamas-controlled central Gaza on Wednesday in its first ground operation across the “yellow line” boundary since a fragile ceasefire was agreed last October, forcing dozens of displaced Palestinians to flee their tents. Israeli tanks rolled along the Salah al-Din road, Gaza’s main north-south route, a day after the US-backed Board of Peace, a body overseeing the ceasefire, accused Israel and Hamas of failing to honour their commitments to end hosti",
+      "author": "Lorenzo Tondo in Jerusalem",
+      "summary": "지난 10월 휴전 협정 체결 이후 처음으로 이스라엘군이 '옐로우 라인' 경계를 넘어 하마스 지배 가자 중부로 지상작전을 감행했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7801719b2046",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "하원 민주당 의원, 트럼프 정상회담 성과 의문",
+      "link": "https://www.npr.org/2026/11/19/nx-s1-6046487/gregory-meeks-trump-xi-putin-summit",
+      "publishedAt": "2026-11-19T11:20:37.000Z",
+      "description": "Rep. Gregory Meeks raises concerns about U.S. alliances after Trump's summit with Xi and Putin. He also discusses Chinese espionage amid the Nvidia scandal.",
+      "author": "A Martínez",
+      "summary": "미국 하원 민주당 의원이 트럼프의 시진핑 및 푸틴과의 정상회담 이후 미국 동맹에 대한 우려를 제기했으며, 중국의 첩보활동도 논의했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "03ad4aa7c938",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "이란, 호르무즈 해협 선박 공격 강화",
+      "link": "https://www.npr.org/2026/11/19/nx-s1-6044206/irans-attacks-on-ships-in-the-strait-of-hormuz-escalate",
+      "publishedAt": "2026-11-19T09:46:24.000Z",
+      "description": "Iran takes the offensive with attacks on ships in the Strait of Hormuz and airstrikes on several countries around the Persian Gulf.",
+      "author": "Aya Batrawy",
+      "summary": "이란이 호르무즈 해협에서 선박 공격을 강화하고 페르시만 주변 여러 국가에 대한 공습을 감행했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e5fd63572677",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "피아노 튜너들의 숨은 경쟁",
+      "link": "https://www.nytimes.com/2026/11/19/opinion/the-tuners-international-chopin-piano-competition.html",
+      "publishedAt": "2026-11-19T14:37:40.000Z",
+      "description": "In the shadows of one of the world’s most prestigious piano contests, the piano tuners are battling through their own competition.",
+      "author": "Paweł Chorzępa",
+      "summary": "국제 초핑 피아노 콩쿠르의 화려한 무대 뒤에서 피아노 튜너들도 자신들만의 경쟁을 펼치고 있다고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ff979564b404",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]'12·3 계엄은 의문 여지없는 내란' 대법 전원합의체 만장일치",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261119/135057592/3",
+      "publishedAt": "2026-11-19T14:30:00.000Z",
+      "description": "대법원 전원합의체가 19일 12·3 비상계엄에 대해 국헌 문란을 목적으로 한 내란이라는 첫 판단을 내놨다. 대법원은 내란 중요임무 종사 혐의 등으로 기소된 한덕수 전 국무총리에 대한 상고심 선고에서 윤석열 전 대통령이 위헌·위법한 비상계엄을 통해 폭동을 일으키고 국회의 권능 행사를 정지시키려는 시도를 함으로써 내란 행위로 나아갔다고 판단했다. 앞서 대법원은 국민적 관심도가 높고 역사적으로 사법적 평가가 필요하다면서 이 사건을 전원합의체에 회부했는데, 대법관 12명 전원이 내란에 해당한다는 일치된 의견을 보인 것이다. 대법원은 12·3 비상계엄 자체가 헌법 질서에 어긋나고 국민의 기본권을 침해해 위헌·위법하다는 데 의문의 여지가 없다고 했다. 일부 대법관들은 기존 집권자가 국가권력을 이용해 자신에 대한 헌법적 통제를 무력화하려는 친위 쿠데타의 성격이 있다는 의견을 내기도 했다. 그동안 윤 전 대통령 측의 “경고성 계엄”이나 “계몽령” 같은 주장은 전혀 설 자리가 없다는 것이 사법부",
+      "author": null,
+      "summary": "대법원 전원합의체가 12·3 비상계엄을 국헌 문란을 목적으로 한 의문의 여지 없는 내란이라 판단했으며, 윤석열 전 대통령의 '경고성 계엄' 주장이 사실상 근거가 없다고 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6ae451a299e3",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]'국제질서 교란' 3頭의 회합… 그 '메뉴판'에 오를 한반도",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261119/135057596/2",
+      "publishedAt": "2026-11-19T14:27:00.000Z",
+      "description": "도널드 트럼프 미국 대통령과 시진핑 중국 국가주석, 블라디미르 푸틴 러시아 대통령이 19일 중국 선전에서 만나 사상 첫 미-중-러 3자 정상회담을 열었다. 트럼프 대통령은 핵무기 감축 논의를, 시 주석은 강대국 간 화합을, 푸틴 대통령은 국제 평화를 지킬 책임을 각각 내세워 3국 간 협력과 공존, 안정을 역설했다. 이날 회담 뒤 나온 공동성명엔 유엔 개혁이나 핵확산 방지 등 원론적 약속 수준을 뛰어넘는 의미 있는 합의는 담기지 않았다. 예상대로 이번 빅3 정상회담은 그 만남의 역사적 상징성 외에 실질적인 결과물은 내놓지 못했다. 세 정상은 한 달 뒤 미국 마이애미 주요 20개국(G20) 정상회의에서 다시 만난다지만 각자의 이해관계가 극명하게 엇갈려 더 큰 진전을 기대하기는 어려워 보인다. 결국 화려한 영접과 말 잔치, 특히 혼자서 독재자 두 명을 상대한다는 트럼프 대통령의 과시욕 같은 허세가 지배하는 ‘3두 체제 쇼’에 그칠 공산이 크다. 그럼에도 관세 폭탄과 무력 사용을 남발",
+      "author": null,
+      "summary": "미중러 3자 정상회담이 역사적 상징성에만 그쳤으며 실질적 합의가 부족하다고 지적하면서, 각자의 이해관계가 엇갈려 한반도가 협상의 도구가 될 수 있다고 우려했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ffffea08b595",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "대법원에 필요한 것은 비판이 아닌 찬사다",
+      "link": "https://www.nytimes.com/2026/11/18/opinion/supreme-court-reform.html",
+      "publishedAt": "2026-11-19T14:26:26.000Z",
+      "description": "The Roberts court deserves accolades, not condemnation.",
+      "author": "William Baude",
+      "summary": "로버츠 대법원에 대한 비판적 평가가 많지만 오히려 그 역할과 역사적 의미에 대해 적절한 평가를 받지 못하고 있다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "72383291c46c",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "불편함을 감수하고 본다: Nathan Fielder의 영화",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/20/watch-you-can-see-everything-for-the-culture-cringe-comedy-film",
+      "publishedAt": "2026-11-19T14:00:52.000Z",
+      "description": "I don’t know how the film will make me feel, I assume bad. But I will take the psychic damage. I’ll do it for the culture I realise it’s only the most annoying people on Earth who say this sort of thing, but I’m going to bravely say it anyway: I am an empath. I have always felt in tune with other people’s emotions and can easily take them on. The emotion I am most intensely attuned to, the one that takes the strongest hold of my body when I see someone going through it? Embarrassment. There is nothing I hate more than seeing a person embarrassed, even if it’s a person I don’t like. I have alwa",
+      "author": "Rebecca Shaw",
+      "summary": "저자가 타인의 감정, 특히 창피함에 민감하게 반응하는 공감 능력이 뛰어나다며, 영화가 불편할 것 같지만 그 정신적 손상을 감수하겠다고 썼다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "37a2d8f1c265",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "파란 물결 이후, 더욱 경계해야 한다",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/19/trump-blue-wave-new-congress",
+      "publishedAt": "2026-11-19T14:00:51.000Z",
+      "description": "Anti-democratic behaviors won’t disappear overnight. The new Congress – and all of us – must rise to the occasion Americans just witnessed a blue tsunami in the midterm elections, with historic firsts across many US states: the country’s first female Black governor, first female Native American governor, first Muslim US senator, and more. And while the voters’ repudiation of Donald Trump’s agenda is clear, as Democrats seize the majority of both chambers of Congress, the work to defend our institutions from further democratic backsliding won’t ease up overnight. Continue reading...",
+      "author": "Steve Cohen and Michael Shank",
+      "summary": "중간선거에서 민주당이 승리했지만 반민주적 행동은 계속될 것이므로 의회와 국민 모두 민주 제도를 더욱 엄격히 지켜야 한다고 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c726a5fa2fa1",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "NFL이 휴일을 집어삼키다",
+      "link": "https://www.washingtonpost.com/opinions/2026/11/19/nfl-wants-own-thanksgiving-christmas-new-year-eve/",
+      "publishedAt": "2026-11-19T12:30:00.000Z",
+      "description": "The league wants to own your holidays.",
+      "author": "Will Leitch",
+      "summary": "NFL이 추수감사절의 의미를 점진적으로 집어삼키고 있으며, 크리스마스와 새해도 같은 운명을 맞을 수 있다고 경고했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f3ef9f785f94",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "노동부 장관: 근로자의 선택은 명확하다",
+      "link": "https://www.washingtonpost.com/opinions/2026/11/19/keith-sonderling-independent-contractors-deserve-freedoms-too/",
+      "publishedAt": "2026-11-19T12:15:00.000Z",
+      "description": "Independent contractors deserve the freedom to be their own bosses.",
+      "author": "Keith Sonderling",
+      "summary": "독립계약자가 자신의 사장이 될 자유를 갖는 것의 중요성을 강조하며, 근로자가 자신의 형태를 선택할 권리를 옹호했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "eca6a51ddd6c",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[사설]한덕수 파기환송, 대법원 내란 단죄 의지 의심스럽다",
+      "link": "https://www.khan.co.kr/article/202611192035001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-11-19T11:35:00.000Z",
+      "description": "조희대 대법원장(가운데)을 비롯한 대법관들이 19일 서울 서초구 대법원에서 한덕수 전 국무총리와 김건희씨에 대한 전원합의체 선고를 위해 자리에 앉아 있다. 오른쪽이 한덕수·김건희 사건 모두 반대의견(소수의견)을 낸 오경미 대법관. 사진공동취재단대법원이 12·3 불법계엄에 가담한 혐의로 기소된 한덕수 전 국무총리에게 징역 15년을 선고한 원심을 일부 무죄 취···",
+      "author": null,
+      "summary": "한덕수 전 국무총리 사건 판결에서 대법원이 12·3 계엄에 대해 충분히 명확한 내란 단죄 의지를 보여주지 않았다고 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "132a1d24b43b",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[세상 읽기]'하남자'를 사랑하는 사회",
+      "link": "https://www.khan.co.kr/article/202611192026015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-11-19T11:26:01.000Z",
+      "description": "드라마 에는 경찰 조사를 받던 황동만에게 경찰이 직업을 묻는 장면이 있다. 영화감독 데뷔를 오랫동안 준비했지만 아직 아무것도 이루지 못한 그는 이 질문 앞에서 매번 심장이 뛰고 정신이 어지럽다. 그때 갑자기 변은아가 등장해 대신 답한다. “영화감독이요. 제가 담당 PD예요.”연구자로서 공부를 하고 있지만 연···",
+      "author": "조무원 정치학 연구자",
+      "summary": "드라마의 사례를 통해 현대 사회가 아내에게 의존하면서도 자신의 성취를 이루려는 남성상을 선호하는 경향이 있다고 지적했다.",
+      "summarySource": "llm"
+    }
+  ],
+  "summarizedAt": "2026-11-20T02:58:16.279Z",
+  "summaryStats": {
+    "llm": 50,
+    "fallback": 0,
+    "model": "claude-haiku-4-5"
+  }
+}
