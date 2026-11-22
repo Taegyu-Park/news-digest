@@ -1,0 +1,898 @@
+{
+  "date": "2026-11-21",
+  "generatedAt": "2026-11-22T01:55:23.964Z",
+  "categories": [
+    {
+      "id": "it",
+      "label": "IT·과학·AI"
+    },
+    {
+      "id": "economy",
+      "label": "경제·금융"
+    },
+    {
+      "id": "politics",
+      "label": "정치·사회"
+    },
+    {
+      "id": "world",
+      "label": "세계·국제"
+    },
+    {
+      "id": "editorial",
+      "label": "사설·칼럼",
+      "opinion": true,
+      "summaryMaxChars": 220
+    }
+  ],
+  "feedStatus": [
+    {
+      "source": "Ars Technica",
+      "category": "it",
+      "ok": true,
+      "matched": 11
+    },
+    {
+      "source": "Hacker News",
+      "category": "it",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "TechCrunch",
+      "category": "it",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "The Verge",
+      "category": "it",
+      "ok": true,
+      "matched": 4
+    },
+    {
+      "source": "블로터",
+      "category": "it",
+      "ok": true,
+      "matched": 21
+    },
+    {
+      "source": "전자신문",
+      "category": "it",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "ZDNet Korea",
+      "category": "it",
+      "ok": true,
+      "matched": 20
+    },
+    {
+      "source": "BBC Business",
+      "category": "economy",
+      "ok": true,
+      "matched": 10
+    },
+    {
+      "source": "The Guardian",
+      "category": "economy",
+      "ok": true,
+      "matched": 21
+    },
+    {
+      "source": "매일경제 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "연합뉴스",
+      "category": "economy",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "경향신문 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "경향신문 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "노컷뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 1
+    },
+    {
+      "source": "서울신문",
+      "category": "politics",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "연합뉴스 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "연합뉴스 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 17
+    },
+    {
+      "source": "SBS 뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 19
+    },
+    {
+      "source": "Al Jazeera",
+      "category": "world",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC World",
+      "category": "world",
+      "ok": true,
+      "matched": 20
+    },
+    {
+      "source": "NPR",
+      "category": "world",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "The Guardian",
+      "category": "world",
+      "ok": true,
+      "matched": 12
+    },
+    {
+      "source": "연합뉴스 국제",
+      "category": "world",
+      "ok": true,
+      "matched": 76
+    },
+    {
+      "source": "매일경제 증권",
+      "category": "economy",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "경향신문 오피니언",
+      "category": "editorial",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "NYT Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 20
+    },
+    {
+      "source": "The Guardian Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 8
+    },
+    {
+      "source": "Washington Post Opinions",
+      "category": "editorial",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "동아일보 사설",
+      "category": "editorial",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "동아일보 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 19
+    },
+    {
+      "source": "조선일보",
+      "category": "politics",
+      "ok": true,
+      "matched": 7
+    },
+    {
+      "source": "동아일보 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 24
+    },
+    {
+      "source": "머니투데이",
+      "category": "economy",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "Wired",
+      "category": "it",
+      "ok": true,
+      "matched": 25
+    },
+    {
+      "source": "DW News",
+      "category": "world",
+      "ok": true,
+      "matched": 19
+    }
+  ],
+  "items": [
+    {
+      "id": "97c43ad41e98",
+      "category": "it",
+      "source": "The Verge",
+      "region": "intl",
+      "title": "통화용 추천 이어버드 역사 최저가로 하락",
+      "link": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale",
+      "publishedAt": "2026-11-21T14:55:28.000Z",
+      "description": "The Liberty 5 Pro are Soundcore’s most ambitious earbuds to date. | Photo: John Higgins / The Verge If you’re looking for a new pair of earbuds, the Soundcore Liberty 5 Pro are on sale for $129.99 at Amazon, Best Buy, and Walmart right now. That’s the lowest price we’ve seen for Anker’s excellent wireless earbuds, which normally retail for $169.99 and come in four colors (black, white, blue, and pink) all of which are discounted through November 30th as part of Anker’s ongoing Black Friday promo. Soundcore Liberty 5 Pro Where to Buy: $169.99 $129.99 at Amazon $169.99 $129.99 at Walmart $169.99",
+      "author": null,
+      "summary": "Soundcore Liberty 5 Pro 이어버드가 Amazon, Best Buy, Walmart에서 $129.99로 역사 최저가로 판매 중이며, 평상시 $169.99 대비 11월 30일까지 할인 중이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "de6a6b768afb",
+      "category": "it",
+      "source": "Hacker News",
+      "region": "intl",
+      "title": "린 증명으로 리만 가설 검증",
+      "link": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+      "publishedAt": "2026-11-21T14:36:45.000Z",
+      "description": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 832 # Comments: 681",
+      "author": "g-b-r",
+      "summary": "Lean 증명 프로젝트를 통해 리만 가설 검증 연구가 진행되어 Hacker News에서 높은 평가를 얻었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ef30c6b87081",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "맞춤형 인공뼈, 난치성 골반 재건·관절 보존 길 열었다",
+      "link": "https://www.etnews.com/20261120000249",
+      "publishedAt": "2026-11-21T14:00:00.000Z",
+      "description": "강현귀 대한3D프린팅융합의료학회 이사장(국립암센터 정형외과 교수)이 맞춤형 인공뼈로 뼈 종양을 잘라낸 자리를 메워 팔다리·관절을 살리고 있다. 강 이사장을 필두로 국립암센터 의료진은 2016년 6월부터 올해 11월까지 뼈 종양 환자를 중심으로 117명에게 127건의 맞춤형 재건술을 시행했다. 마땅한 재건 방법이 없던 골반이 43건으로 가장 많았다. 강 이사장은 “맞춤형 임플란트는 뼈가 빈 모양대로만 만드는 게 아니라 환자의 키·체중·직업·나이는",
+      "author": "임중권",
+      "summary": "국립암센터의 강현귀 이사장 팀이 맞춤형 인공뼈로 2016년부터 2026년까지 뼈 종양 환자 117명에게 127건의 맞춤형 재건술을 시행했으며, 이 중 골반 재건이 43건으로 가장 많았다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "34f1fa48a730",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "모리슨, 아부다비 ADGM에 신규 사무소 열고 중동 사업 확대",
+      "link": "https://zdnet.co.kr/view/?no=20261121221002",
+      "publishedAt": "2026-11-21T13:10:02.000Z",
+      "description": "[지디넷코리아]아부다비, 아랍에미리트, 2026년 11월 21일 /PRNewswire/ -- 40년 가까운 투자 경험을 보유하고 미화 350억 달러가 넘는 자산을 운용하는 글로벌 인프라 투자운용사 모리슨(Morrison)이 아부다비 글로벌 마켓(Abu Dhabi Global Market, ADGM)에 사무소를 개설했다. 이번 사무소 개설은 모리슨의 글로벌 성장 전략에서 중요한 이정표로, 아랍에미리트를 비롯한 GCC 회원국에서 장기적으로 사업을 이어가겠다는 의지를 한층 분명히 했다. 새 사무소는 모리슨의 중동 거점으로서 역내 기관투자자와 각국 정부, 전략적 파트너, 기업 등 주요 이해관계자와의 협력을 강화하는 역할을 맡는다. 이번 확장에는 UAE가 글로벌 자본과 무역, 투자의 전략적 중심지라는 모리슨의 확신이 담겼다. 또한 전 세계 대규모 인프라 사업에 자금을 공급하고 협력 파트너로 참여하는 아부다비의 역할이 커지고 있다는 판단도 반영됐다. 모리슨의 빈센트 게리트센(Vincent Gerritsen) 파트너는 아부다비로 거점을 옮겨 Morrison Value Add 펀드의 글로벌 공동 대표직과 함께 중동 전략을 총괄한다. 아부다비 사무소는 모리슨의 전 세계 8번",
+      "author": "글로벌뉴스",
+      "summary": "글로벌 인프라 투자운용사 모리슨이 아부다비 글로벌 마켓(ADGM)에 새 사무소를 개설하고, 파트너인 빈센트 게리트센이 거점을 옮겨 중동 전략을 총괄한다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "dcc04fe6e29e",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "로그인 없이 서버 뚫리는 자바 취약점…SK쉴더스, CPU 점검 강조",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=679089",
+      "publishedAt": "2026-11-21T13:00:00.000Z",
+      "description": "자바 기반 서버에서 로그인 없이 원격에서 프로그램을 실행할 수 있는 'Java4Shell' 취약점은 자바 버전만으로 위험 여부를 판단하기 어렵다는 분석이 나왔다. 자바는 서버·기업용 업무시스템·웹서비스 등을 개발하고 실행하는 데 널리 쓰이는 프로그래밍 언어이자 소프트웨어 플랫폼이다.21일 SK쉴더스의 Java4Shell 분석 보고서에 따르면 이번 취약점은 특정 자바 실행환경과 특정 연산 기능을 지원하는 프로세서를 함께 사용할 때 작동한다. SK쉴더스는 서버에 설치된 자바의 배포판과 버전에 더해 중앙처리장치(CPU)의 연산 기능도 함",
+      "author": "강준혁 기자",
+      "summary": "로그인 없이 원격 프로그램 실행이 가능한 'Java4Shell' 취약점은 특정 자바 실행환경과 특정 CPU 연산 기능이 함께 있을 때 작동하며, SK쉴더스는 자바 버전뿐 아니라 CPU의 연산 기능도 함께 점검할 필요가 있다고 강조했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "79421d8a4848",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "인터넷 장애는 이제 시작일 뿐이다",
+      "link": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+      "publishedAt": "2026-11-21T13:00:00.000Z",
+      "description": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
+      "author": "Lily Hay Newman, Matt Burgess",
+      "summary": "AI로 인해 기업들이 신규 취약점 패치 속도를 높이고 있는 가운데, 공격자들도 이를 활용하려 경쟁하면서 인터넷 장애가 계속 증가할 것으로 예상된다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8e097765d128",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "과학적 근거 없는 인종 차이론",
+      "link": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/",
+      "publishedAt": "2026-11-21T12:01:13.000Z",
+      "description": "Modern genetics does not support claims of innate racial differences in intelligence.",
+      "author": "Jonathan R. Goodman and Rebecca Sear, The Conversation",
+      "summary": "현대 유전학의 연구 결과는 지능에서 인종 간 선천적 차이가 있다는 주장을 뒷받침하지 않는 것으로 나타났다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b1c8bbe86470",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "이노에이엑스, AX 매출 11배 성장…비과세 배당 여력 확보",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=679255",
+      "publishedAt": "2026-11-21T11:00:00.000Z",
+      "description": "인공지능 전환(AX) 전문기업 이노에이엑스가 2년 연속 자본준비금 감액을 결정하며 비과세 배당 여력을 넓히고 있다. 기존 업무 자동화 솔루션을 기반으로 AX 사업 매출을 11배 확대해 3분기 만에 지난해 연간 매출을 넘어선 가운데 주주환원 기반도 다질 전망이다. 자본준비금 50억 감액…비과세 배당 여력 확대21일 이노에이엑스에 따르면 3분기 누적 연결기준 매출은 231억원으로 전년 동기(170억원) 대비 35.8% 증가했다. 지난해 연간 매출을 3분기 만에 넘어섰다. 3분기 매출도 81억원으로 전년 동기 대비 35.5% 늘었다.회사",
+      "author": "김지영 기자",
+      "summary": "인공지능 전환(AX) 전문기업 이노에이엑스가 AX 사업 매출을 11배 확대하여 3분기 누적 매출 231억원으로 지난해 연간 매출을 초과했으며, 자본준비금 50억원 감액으로 비과세 배당 여력을 확보했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ae71fb39810f",
+      "category": "it",
+      "source": "ZDNet Korea",
+      "region": "kr",
+      "title": "KTG, 새한하이테크 마스크 연마장치 특허 무효화 무산",
+      "link": "https://zdnet.co.kr/view/?no=20261121175722",
+      "publishedAt": "2026-11-21T08:58:52.000Z",
+      "description": "[지디넷코리아]디스플레이 부품업체 KTG(케이티지)가 새한하이테크의 포토마스크 연마장치 특허 무효화에 실패했다. 특허심판원은 지난 19일 새한하이테크의 '포토마스크용 연마장치' 특허(등록번호 2853018, 아래 '018 특허)가 유효하다고 판단(심결)했다.앞서 KTG가 2026년 2월 '018 특허 무효심판을 청구했는데, 특허심판원이 이번에 기각했다. KTG가 불복할 경우 특허법원에 심결취소소송을 제기할 수 있다. '018 특허는 디스플레이 포토마스크 유리를 연마하는 기계 기술이다. 작은 기어장치로 연마 패드를 여러 경로로 움직여, 기계 크기를 줄이고 유리 표면을 고르게 다듬는 기술을 설명하고 있다. '018 특허는 출원(신청) 당시 청구항이 4개였지만, 심사 과정에서 2~4항이 삭제되고 1항만 남아 등록됐다. KTG는 액정표시장치(LCD)와 유기발광다이오드(OLED) 등 디스플레이 제조용 포토마스크 소재인 석영 연마가 주력이다. 두 업체 모두 비상장사다. 기업 규모는 KTG가 새한하이테크의 10배 수준이다. 지난 2025년 KTG 실적은 매출 778억원, 영업이익 172억원, 당기순이익 129억원 등이다. 모두 전년비 늘었다. 2025년 새한하이테크 실적",
+      "author": "이기종 기자",
+      "summary": "디스플레이 부품업체 KTG가 새한하이테크의 포토마스크 연마장치 특허 무효화를 청구했으나, 특허심판원이 해당 특허가 유효하다고 판단하여 무효화 청구가 기각되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "f1c7ef38a91f",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "미국 스타트업, 애플을 인도에서 연락처 공유 기능 관련 소송",
+      "link": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
+      "publishedAt": "2026-11-21T04:00:00.000Z",
+      "description": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.",
+      "author": "Jagmeet Singh",
+      "summary": "미국 스타트업이 인도에서 아이폰과 애플워치의 태핑 연락처 공유 기능 관련으로 애플을 상대로 162백만 달러의 손해배상과 제품 수입 금지를 요구하는 소송을 제기했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "52a6adc3dd1c",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "엘론 머스크의 변호사, 톰 브래디와 함께 첼시 지분 매수",
+      "link": "https://www.theguardian.com/football/2026/nov/21/elon-musk-lawyer-tom-brady-nfl-chelsea-stake",
+      "publishedAt": "2026-11-21T14:20:05.000Z",
+      "description": "Attorney also representing Joshua Kushner in Uefa battle Clearlake Capital seeking additional investors Elon Musk’s lawyer is joining Tom Brady in buying a stake in Chelsea. The Guardian revealed on Friday that the much-decorated former NFL player is in discussions about purchasing a minority shareholding at Stamford Bridge and can now disclose that Alex Spiro of the New York law firm Quinn Emmanuel is also seeking to buy a stake by investing in Chelsea’s majority owners, Clearlake Capital. Brady and Spiro, who is representing the planned Fifa investor Joshua Kushner in a legal battle against ",
+      "author": "Exclusive by Matt Hughes",
+      "summary": "톰 브래디가 첼시의 소수지분 매수를 추진 중이며, 엘론 머스크의 변호사 알렉스 스피로도 클리어레이크 캐피털을 통해 함께 투자를 모색하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "85c8df5e7e6d",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "AI 붐의 그림자: 부채에 허덕이는 클라우드 기업의 경고",
+      "link": "https://www.theguardian.com/business/2026/nov/21/debt-laden-cloud-computing-company-coreweave-ai-boom",
+      "publishedAt": "2026-11-21T13:00:01.000Z",
+      "description": "‘Poster child of AI bubble’ CoreWeave symbolises increasingly risky business model of datacentre buildout The Egyptians had pyramids. The Roman empire had roads. The early 21st-century tech bros have massive buildings full of expensive glass and metal blocks providing the substratum for a powerful inhuman intelligence. Building all those datacentres is taking a while, locals everywhere are angry about them and it is unclear whether the inhuman intelligence inside them is actually going to make their backers rich. Continue reading...",
+      "author": "Aisha Down Global technology reporter",
+      "summary": "데이터센터 구축 열풍의 상징인 CoreWeave는 AI 거품의 위험성을 드러내며, 대규모 시설 건설의 사회적 반발과 실제 수익성이 불명확한 상황을 보여준다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "600ab1d885ae",
+      "category": "economy",
+      "source": "동아일보 경제",
+      "region": "kr",
+      "title": "서울 무주택자, 결국 경기도로 쫓겨날 것…부동산 전문가의 경고",
+      "link": "https://www.donga.com/news/Economy/article/all/20261121/135065196/1",
+      "publishedAt": "2026-11-21T12:21:25.000Z",
+      "description": "전월세 매물 급감과 보유세 부담과 재건축 이주 수요 등이 겹치면서 서울 무주택 세입자들이 결국 경기도로 밀려날 것이란 경고가 나왔다. 앞으로는 가격보다 ‘살 집 자체가 없는’ 매물 고갈 문제가 더 심각해질 수 있다는 분석이다.심형석 법무법인 조율 수석전문위원은 19일 유튜브 채널 ‘부투스쿨TV’에서 “가장 심각한 서울 전월세 문제가 가격 문제에서 매물 문제로 넘어갔다”며 “매물이 없다 보니 강제 매수로까지 밀려나는 상황”이라고 밝혔다.현재 전월세난의 가장 큰 원인으로는 공급 부족을 꼽았다.심 위원은 “지금까지 전월세 가격이 오른 것은 수급 때문”이라며 “향후 집주인의 세금 부담까지 세입자에게 전가되기 시작하면 상황은 더 악화할 수 있다”고 내다봤다.특히 2027년부터 보유세 부담이 본격적으로 커질 경우 임대인이 늘어난 비용을 전월세 가격에 반영할 가능성이 크다고 봤다.심 위원은 “정부가 보유세를 많이 올리면 집주인들이 그 부담을 세입자에게 전가하게 되는데 그 상황이 아직 시",
+      "author": null,
+      "summary": "전월세 매물 부족과 보유세 부담, 재건축 이주 수요 등이 겹치면서 서울의 무주택 세입자들이 점차 경기도로 밀려날 것으로 부동산 전문가들이 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e104ad1af9f2",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "겨울 난방비 급등, 지역 위원회의 지원 안내",
+      "link": "https://www.bbc.co.uk/news/articles/cmy49l3x893jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-21T12:09:49.000Z",
+      "description": "A council is urging people to seek support with rising energy costs on heating this winter.",
+      "author": null,
+      "summary": "한 지방 위원회가 올겨울 난방 에너지비 증가에 대응하기 위해 주민들이 받을 수 있는 지원 방법에 대해 조언하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6c6775d04024",
+      "category": "economy",
+      "source": "동아일보 경제",
+      "region": "kr",
+      "title": "장판 상했으니 83만원 뺄게요…전세금서 마음대로 공제해도 될까",
+      "link": "https://www.donga.com/news/Economy/article/all/20261120/135058873/2",
+      "publishedAt": "2026-11-21T11:30:00.000Z",
+      "description": "집주인이 장판·벽지 훼손을 이유로 전세보증금에서 수리비 83만원을 공제했다. 통상적인 마모와 세입자가 부담해야 할 훼손, 도배·장판비 공제 기준을 살펴본다.",
+      "author": null,
+      "summary": "집주인이 장판과 벽지 훼손을 명목으로 전세보증금 83만원을 일방적으로 공제한 사건을 통해 통상적 마모와 세입자의 책임, 도배·장판비 공제 기준을 살펴본다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "85ade0066c98",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "앤트로픽 상장했는데 내 주식도 오를까…수혜주 살펴보니",
+      "link": "https://www.mk.co.kr/news/stock/12215326",
+      "publishedAt": "2026-11-21T10:12:12.000Z",
+      "description": "SKT·삼성전자·SK하이닉스 수혜 기대 SKT 보유 지분가치 5조원 추산 반도체·IT서비스·전력기기까지 관심미국 인공지능(AI) 기업 앤트로픽이 나스닥에 입성하면서 국내 증시에서도..",
+      "author": "매일경제",
+      "summary": "미국 AI 기업 앤트로픽의 나스닥 상장으로 SKT와 삼성전자, SK하이닉스 등 국내 반도체 및 IT 관련 기업들의 주가 상승을 기대하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c661e22bff18",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "아픈 사람도 가입된다더니…보험금 5500만원 주고 유족 고소한 보험사",
+      "link": "https://www.mk.co.kr/news/economy/12215323",
+      "publishedAt": "2026-11-21T10:12:10.000Z",
+      "description": "간편보험 가입 후 80일 만에 사망 보험사, 보험금 지급 뒤 유족·설계사 고소 경찰 “묻지 않은 병력, 기망행위 아냐”‘유병자도 가입 가능’, ‘간편하게 가입하세요’. 보험사들은 ..",
+      "author": "매일경제",
+      "summary": "간편보험 가입 고객이 80일 만에 사망하자 보험사가 보험금 5500만원을 지급한 후 유족을 고소했으며, 경찰은 미신고 병력을 기망행위로 보지 않았다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d774e0d27e8c",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "K-베이커리 페스티벌 사흘간 37만명 찾아…내년엔 세계 축제로",
+      "link": "https://www.yna.co.kr/view/AKR20261121035200030",
+      "publishedAt": "2026-11-21T05:10:42.000Z",
+      "description": "(서울=연합뉴스) 이상서 기자 = 대한제과협회는 18일부터 사흘간 종로구 광화문광장에서 열린 'K-베이커리 페스티벌 인(in) 광화문'에 37만...",
+      "author": "이상서",
+      "summary": "광화문광장에서 개최된 K-베이커리 페스티벌이 사흘간 37만 명의 방문객을 기록했으며, 대한제과협회는 내년 국제 규모로 확대할 계획이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ef2797affd4b",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "BNK금융 임직원, 부울경서 해양생태계 보전 사회공헌의 날",
+      "link": "https://www.yna.co.kr/view/AKR20261121033200051",
+      "publishedAt": "2026-11-21T04:01:40.000Z",
+      "description": "(부산=연합뉴스) 김재홍 기자 = BNK금융그룹 모든 계열사 임직원 650여명은 21일 부산·경남·울산 지역에서 해양생태계 보전을 위한 'BNK...",
+      "author": "김재홍",
+      "summary": "BNK금융그룹의 계열사 임직원 650여 명이 부산, 경남, 울산 지역에서 해양생태계 보전을 위한 사회공헌 활동을 추진했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "966ce8e8eb15",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "GTA 6, 하루 매출 38억 달러로 엔터테인먼트 역사상 최대 성과",
+      "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-20T22:53:24.000Z",
+      "description": "The mammoth figure surpasses every video game launch and single-day film box office record.",
+      "author": null,
+      "summary": "게임 'GTA 6'이 첫날 매출 38억 달러를 기록해 모든 비디오 게임 출시 및 영화 박스오피스의 최고 기록을 경신했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "08962d2456fa",
+      "category": "politics",
+      "source": "SBS 뉴스",
+      "region": "kr",
+      "title": "\"12월 3일 기점 탄핵안 발의\"…\"조희대 지킬 것\"",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008857099",
+      "publishedAt": "2026-11-21T13:19:00.000Z",
+      "description": "조희대 대법원장 탄핵을 추진 중인 민주당이 탄핵안 발의 시점으로 다음 달 3일을 꼽았습니다. 12.3 비상계엄 2년째 되는 날입니다. 국민의힘은 '조 대법원장을 지키겠다'며 맞불을 놨습니다.김지욱 기자가 보도합니다.",
+      "author": "wook@sbs.co.kr (김지욱)",
+      "summary": "민주당이 조희대 대법원장 탄핵안을 12월 3일에 발의하기로 결정했으며, 국민의힘은 조 대법원장을 보호하겠다고 맞대응했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5bd5e309c4cc",
+      "category": "politics",
+      "source": "연합뉴스 사회",
+      "region": "kr",
+      "title": "국가자격시험 중 무작위 전화 걸자 벨소리…부정행위 6건 적발",
+      "link": "https://www.yna.co.kr/view/AKR20261121051700530",
+      "publishedAt": "2026-11-21T13:05:07.000Z",
+      "description": "(서울=연합뉴스) 옥성구 기자 = 세무사 시험 수석 합격자의 인공지능(AI) 부정행위 자백 이후 처음 치러진 국가자격시험에서 전자기기 소지 등 ...",
+      "author": "옥성구",
+      "summary": "세무사 시험 수석 합격자의 AI 부정행위 적발 이후 처음 치러진 국가자격시험에서 전자기기 소지 등 부정행위 6건이 적발되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "73a7e28cfb3e",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "홍대입구역서 버스가 인도로 돌진···6명 부상",
+      "link": "https://www.khan.co.kr/article/202611212001001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-11-21T11:01:00.000Z",
+      "description": "21일 오후 서울 마포구 홍대입구역 인근에서 인도로 돌진한 버스가 멈춰 서 있다. 연합뉴스서울 마포구 홍대입구역 사거리에서 시내버스가 인도로 돌진하는 사고가 발생해 6명이 다쳤다.연합뉴스 등에 따르면 21일 오후 6시56분쯤 서울 지하철 2호선 홍대입구역 1번 출구 인근 사거리에서 시내버스와 승용차의 3중 추돌 사고가 발생했다. 이 과정에서 시내버스가 인도···",
+      "author": "최경윤 기자",
+      "summary": "서울 홍대입구역 사거리에서 시내버스가 인도로 돌진하는 교통사고가 발생해 6명이 부상했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2f92b4ee483e",
+      "category": "politics",
+      "source": "조선일보",
+      "region": "kr",
+      "title": "미 중 러 정상회담, '얄타 2.0' 아니라, '짝퉁 얄타'인 이유",
+      "link": "https://www.chosun.com/international/international_general/2026/11/21/Z4XERMAW4FAYVK7HA2MZELFFRU/",
+      "publishedAt": "2026-11-21T10:56:35.000Z",
+      "description": "",
+      "author": "이철민 기자",
+      "summary": "미국·중국·러시아 정상회담이 역사적 얄타 회담과 같은 국제 질서 개편을 의미하지 않는다는 평가가 제기됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "82ccb3e62b59",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "[속보]코레일 \"22일 첫차부터 경부선 일반열차 운행 정상화\"",
+      "link": "https://www.khan.co.kr/article/202611211947001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-11-21T10:47:00.000Z",
+      "description": "21일 오전 세종시 소정면 경부선 소정리역 부근에서 탈선사고가 발생했다. 연합뉴스한국철도공사(코레일)는 21일 경부선 소정리역에서 발생한 화물열차 탈선 사고로 중단된 경부선 일반열차 운행을 오는 22일 첫차부터 재개한다고 밝혔다.이날 오전 5시36분쯤 세종시 소정면 소정리역 부근에 진입한 제3810 화물열차가 비상 제동을 건 뒤 선로를 이탈했다. 전체 21···",
+      "author": "최경윤 기자",
+      "summary": "코레일이 경부선 소정리역의 화물열차 탈선 사고로 중단된 일반열차 운행을 22일 첫차부터 정상화하기로 발표했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "56fce13204fc",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "李, 울산 전통시장서 \"내년에는 좀 더 좋아질 것\"…'최애' 배추전 구입",
+      "link": "https://www.donga.com/news/Politics/article/all/20261121/135065075/2",
+      "publishedAt": "2026-11-21T10:26:00.000Z",
+      "description": "이재명 대통령은 21일 울산의 전통시장 두 곳을 잇달아 찾아 장바구니 물가를 점검하고 지역 골목상권의 목소리를 들었다.안귀령 청와대 부대변인이 서면브리핑에 따르면, 이 대통령은 이날 오전 울산 SK AI데이터센터 현장을 방문한 뒤 동울산종합시장을 찾아 상인과 주민들을 만나고, 지역 관계자들과 간담회를 했다.1983년 개장한 동울산종합시장은 농축수산물과 식재료, 생활잡화 등을 판매하는 울산 동구의 대표적인 상설시장이다. 이 대통령은 2024년 3월에도 이 시장을 방문한 바 있다.이 대통령은 시장 골목을 돌며 상인, 주민들과 악수하고 사진 촬영 요청에 응했다. 암 투병 중인 주민에게 쾌유를 기원했고, 다음 주 임용시험을 앞둔 청년에게는 응원의 뜻을 전했다. 이날 시장에서 한 상인은 “3년 전에 저와 악수하셨어요”라며 과거 인연을 떠올리기도 했다. 이 대통령은 주민들에게 “오늘 장 많이 보고 가세요”라며 전통시장 이용을 독려했다. 또 꽈배기와 배추전, 김밥, 닭발, 호떡, 두부 등",
+      "author": null,
+      "summary": "이재명 대통령이 울산 전통시장을 방문해 장바구니 물가 상황을 점검하고 지역 주민들을 만났다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9603d554c4ef",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "추미애 \"한덕수 판결 순억지···조희대 탄핵, 좌고우면하면 안 돼\"",
+      "link": "https://www.khan.co.kr/article/202611211912001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-11-21T10:12:00.000Z",
+      "description": "추미애 경기도지사. 박민규 선임기자추미애 경기도지사가 21일 조희대 대법원장에 대한 탄핵 실행을 “좌고우면하면 안 된다”며 즉각 탄핵을 거듭 요구했다.추 지사는 이날 페이스북에 올린 글에서 “지금은 사법 파탄 사태에서 분명한 경고를 해야 할 때다. 여당이 정치적 유불리를 계산할 때가 아니다”라며 이 같이 밝혔다.그는 지난 19일 한덕수 전···",
+      "author": "최경윤 기자",
+      "summary": "추미애 경기도지사가 조희대 대법원장의 탄핵을 즉시 추진해야 한다며 여당의 정치적 계산을 하지 말 것을 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0714d5c0fa66",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "엄홍길휴먼재단, 네팔 휴먼스쿨 2곳에 교육물품 전달",
+      "link": "https://www.yna.co.kr/view/AKR20261121046500371",
+      "publishedAt": "2026-11-21T09:53:21.000Z",
+      "description": "(서울=연합뉴스) 김지선 기자 = 엄홍길휴먼재단(이사장 이재후)은 네팔 휴먼스쿨 2곳을 차례로 방문해 교육 물품을 전달했다고 21일 밝혔다.",
+      "author": "김지선",
+      "summary": "엄홍길휴먼재단이 네팔의 휴먼스쿨 2곳을 방문해 교육 물품을 전달했다고 밝혔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "68f46397b281",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "한병도, 국힘 대구 장외집회에 \"민생 팽개친 길바닥 정치\" 비판",
+      "link": "https://www.yna.co.kr/view/AKR20261121046100001",
+      "publishedAt": "2026-11-21T09:52:09.000Z",
+      "description": "(서울=연합뉴스) 김정진 기자 = 더불어민주당 한병도 원내대표는 21일 대구에서 열린 국민의힘이 '조작기소 특검법' 규탄 집회를 열자 \"길바닥 ...",
+      "author": "김정진",
+      "summary": "더불어민주당 한병도 원내대표가 국민의힘의 대구 집회를 비판하며 민생을 팽개친 길바닥 정치라고 평가했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2b34cc0fd183",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "\"속도가 생명\"…李, 울산 AI데이터센터 건설 현장 방문",
+      "link": "https://www.donga.com/news/Politics/article/all/20261121/135064820/1",
+      "publishedAt": "2026-11-21T04:28:00.000Z",
+      "description": "이재명 대통령이 21일 “수도권 집중 때문에 대한민국에 온갖 문제가 발생하고 있는데, 지방에 새로운 기회를 만들어야 하고 메가 프로젝트가 중요한 핵심적인 장치가 될 것 같다”고 말했다. 이 대통령은 12일 충남 아산시 삼성전자 온양캠퍼스 건설 현장에서 열린 ‘충청권 메가 프로젝트 착공식’ 참석에 이어 이날 ‘영남권 메가프로젝트’ 현장을 찾았다. 이 대통령은 이날 울산 SK AI데이터센터(AIDC) 건설 현장을 방문한 자리에서 “대한민국의 주요 국가 과제는 균형발전”이라며 이같이 말했다. 그는 먼저 “과감한 투자를 결정하고, 또 사업을 속도감 있게 추진해 주고 계신 SK 관계자 여러분에게 특별히 감사 말씀드린다”고 전했다. 이어 “인공지능(AI) 데이터센터는 반도체의 주요 수요처이기도 하고 또 앞으로 로봇, 자율주행차량 같은 피지컬 AI를 뒷받침하는 핵심적인 인프라”라며 “과거 경부고속도로가 대한민국 산업화의 길을 열었던 것처럼 이제 앞으로 대한민국의 AI 대전환은 인공지능 고속도",
+      "author": null,
+      "summary": "이재명 대통령이 울산 SK AI데이터센터 건설 현장을 방문해 메가 프로젝트를 통한 지방 균형발전의 중요성을 강조했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "653ec06c79ca",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "EU, 글로벌 테크 기업 과세 포함한 새 예산안 제시",
+      "link": "https://www.dw.com/en/new-eu-budget-proposal-aims-at-tax-gobal-tech-giants/a-80009255?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-11-21T14:58:00.000Z",
+      "description": "European Council President Antonio Costa has proposed a smaller EU budget for 2028-2034, including a 3% tax on major digital firms to ease member states' contributions. France has already rejected the plan as inadequate.",
+      "author": null,
+      "summary": "EU 의장이 2028-2034년 예산안에 대형 디지털 기업에 3% 세금을 부과하는 내용을 포함시켰으나, 프랑스는 불충분하다며 거부했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c3e5dd05b60e",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "이란 \"美 F-16 전투기 공격…MQ-1 드론은 격추\" 주장",
+      "link": "https://www.yna.co.kr/view/AKR20261121052600099",
+      "publishedAt": "2026-11-21T14:55:32.000Z",
+      "description": "(요하네스버그=연합뉴스) 나확진 특파원 = 이란이 페르시아만 상공에서 미군의 F-16 전투기를 공격해 비상착륙하게 했으며 MQ-1 드론을 격추했...",
+      "author": "나확진",
+      "summary": "이란은 페르시아만 상공에서 미군 F-16 전투기를 공격해 비상착륙시키고 MQ-1 드론을 격추했다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6987df18e345",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "영국 남서부 집중호우 경보… 댓머어에 100mm 이상 강우 예상",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/21/uk-weather-cold-rain-warning-south-west-england",
+      "publishedAt": "2026-11-21T14:51:37.000Z",
+      "description": "Flood alerts in place and risk of power cuts as more than 100mm predicted to fall on Dartmoor on Sunday Cold snaps are to make way for heavy rain in some parts of the country as the Met Office issued a weather warning for south-west England. It said there will be a slow-moving band of rain moving across Devon and Cornwall, with more than 100mm due to fall on Dartmoor. The warning will be in place from 6am on Sunday until midnight. Continue reading...",
+      "author": "Harry Taylor",
+      "summary": "영국 남서부 댓머어에 100mm 이상의 집중호우가 예상되면서 범람 경보가 발령되고 정전 위험이 높아졌다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "91876e5700fc",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "러시아, 젤렌스키 고향 공격… 2명 사망",
+      "link": "https://www.dw.com/en/russia-strikes-zelenskyy-s-hometown-killing-2/a-80009458?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-11-21T14:44:00.000Z",
+      "description": "The attacks follow Russian President Vladimir Putin's vow of a \"painful\" response to Ukraine's attacks this week on the Kerch Bridge, linking Russian-occupied Crimea.",
+      "author": null,
+      "summary": "러시아가 우크라이나의 크림 대교 공격에 대한 보복으로 젤렌스키의 고향을 공격해 2명이 사망했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "43caeb94025a",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "웨일스 공주, BBC 다큐에서 암 진단의 영향 언급",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/21/princess-of-wales-impact-cancer-diagnosis-bbc-film-heal",
+      "publishedAt": "2026-11-21T14:42:56.000Z",
+      "description": "Documentary records Catherine taking on Three Peaks challenge and finding ‘sense of hope alongside uncertainty’ The Princess of Wales has spoken candidly about the impact of her cancer diagnosis in a BBC documentary to be aired later this month. “Cancer does change you,” Catherine, 44, says in the trailer for the 30-minute programme. “It changes your body. It changes you physically, but there’s a much, much deeper part to what a cancer diagnosis shifts in you.” Continue reading...",
+      "author": "Harry Cockburn",
+      "summary": "웨일스 공주 캐서린이 BBC 다큐멘터리에서 암 진단이 신체적·정신적으로 미친 깊은 영향에 대해 솔직하게 말했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3cb7a7965fab",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "EU·인도네시아 무역협정 체결…관세 90% 이상 철폐",
+      "link": "https://www.yna.co.kr/view/AKR20261121052500082",
+      "publishedAt": "2026-11-21T14:21:30.000Z",
+      "description": "(베를린=연합뉴스) 김계연 특파원 = 유럽연합(EU)과 인도네시아가 21일(현지시간) 90％ 이상 수출입품에 관세를 철폐하는 내용의 무역협정을 ...",
+      "author": "김계연",
+      "summary": "EU와 인도네시아가 21일 90% 이상의 수출입품에 관세를 철폐하는 무역협정을 체결했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "793909f83263",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "젤렌스키, 크림 대교 공격을 '정당한 대응'이라 주장",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-21T13:17:38.000Z",
+      "description": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+      "author": null,
+      "summary": "우크라이나 젤렌스키 대통령이 크림 대교 공격을 러시아의 109건 공중 공격에 대한 정당한 대응이라고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7cfa1d40a616",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "트럼프, 러시아·중국과 회담서 우크라이나·유럽 제외",
+      "link": "https://www.npr.org/2026/11/21/nx-s1-6047379/military-analyst-phillips-obrien-on-ukraine-and-europe-being-left-out-of-trumps-talks",
+      "publishedAt": "2026-11-21T12:40:18.000Z",
+      "description": "As President Trump met with Russian and Chinese counterparts, Ukraine and its European allies were left out of the talks. NPR's Scott Simon talks with Phillips O'Brien of St. Andrew's University.",
+      "author": "Scott Simon",
+      "summary": "트럼프 대통령이 러시아, 중국과의 회담에서 우크라이나와 유럽 동맹국들을 배제했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2ee7d10ef0b7",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "덴마크, 러시아의 래퍼 암살 음모 혐의로 국방 무관 추방",
+      "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-21T10:26:36.000Z",
+      "description": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+      "author": null,
+      "summary": "덴마크가 러시아가 미국-우크라이나 래퍼 암살을 계획했다고 주장하면서 러시아 국방 무관을 추방했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2ea954ee9468",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "UN AI 살상 로봇 회담, 구체적 규제 합의 없이 2년 더 협상",
+      "link": "https://www.npr.org/2026/11/21/g-s1-154914/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in",
+      "publishedAt": "2026-11-21T08:08:01.000Z",
+      "description": "Efforts to establish rules for AI-powered killer robots and drones have run aground. U.N.-backed talks in Geneva ended Saturday with an agreement to extend discussions for two more years.",
+      "author": "The Associated Press",
+      "summary": "AI 기반 살상 로봇과 드론 규제를 위한 UN 제네바 회담이 구체적 약속 없이 2년간 추가 협상을 연장하기로만 합의했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0169c50e688c",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "전쟁 속으로 태어나다",
+      "link": "https://www.nytimes.com/2026/11/21/opinion/margaret-atwood-nyt-175.html",
+      "publishedAt": "2026-11-21T14:35:23.000Z",
+      "description": "Beginning life at the start of a world war gave me a realistic sense of how bad the news could get.",
+      "author": "Margaret Atwood",
+      "summary": "전쟁이 시작될 때 태어난 경험이 뉴스가 얼마나 나쁠 수 있는지에 대한 현실적인 감각을 형성했다고 말했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "0028b06f3b6c",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "한 국가가 대량학살죄로 유죄 판결받을 수 있을까? 이제 그 답이 나왔다",
+      "link": "https://www.nytimes.com/2026/11/20/opinion/genocide-gambia-rwanda-rohingya-israel.html",
+      "publishedAt": "2026-11-21T13:58:04.000Z",
+      "description": "In finding that Myanmar committed genocide against the Rohingya, an international court put another brick in the legal foundation for the crime.",
+      "author": "Philippe Sands",
+      "summary": "국제법원이 미얀마의 로힝야 대량학살을 인정함으로써 국제법상 대량학살 범죄의 법적 근거를 한층 더 견고히 했다고 평가했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c0826adec194",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "아기 모니터에서 본 밤의 장면들",
+      "link": "https://www.washingtonpost.com/opinions/2026/11/21/edith-pritchett-cartoon-scenes-toddler-night-cam/",
+      "publishedAt": "2026-11-21T13:05:02.000Z",
+      "description": "I had to intervene.",
+      "author": "Edith Pritchett",
+      "summary": "유아용 모니터 카메라에서 본 밤 시간 상황에 직접 개입이 필요했다고 말했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "62c01d971a8d",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "하마 피오나 죽음에 '나쁜 엄마' 탓하기는 황당하다",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/21/fiona-the-hippo-death-bad-mom-scapegoat",
+      "publishedAt": "2026-11-21T13:00:01.000Z",
+      "description": "The beloved animal died after ingesting a hat. Some are seeking a scapegoat – and we’ve heard this story before “Do they know the identity of the mother of the boy with the hat Fiona swallowed??” asks one Facebook post with thousands of likes. “She should be charged!!” Spend a few minutes scrolling social media, and you will find endless variations of this statement. On Thursday, Fiona, a beloved hippo, died after eating a hat that had fallen into her enclosure at the Cincinnati zoo. Now a lot of angry people are out for blood. Arwa Mahdawi is a Guardian columnist Dismantling patriarchy: An ev",
+      "author": "Arwa Mahdawi",
+      "summary": "신디 동물원의 하마 피오나가 모자를 삼켜 사망한 사건을 두고 소셜미디어에서 모자의 출처를 추적해 어머니를 비난하는 모습을 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "57ba74c3d177",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "정부 셧다운은 이란 전쟁을 막지 못한다",
+      "link": "https://www.washingtonpost.com/opinions/2026/11/21/democrats-can-fight-stop-trumps-iran-war-without-shutdown/",
+      "publishedAt": "2026-11-21T12:15:00.000Z",
+      "description": "Chris Van Hollen is right to challenge Trump’s unauthorized war. He’s wrong to risk another shutdown.",
+      "author": "Editorial Board",
+      "summary": "트럼프의 무단 이란 전쟁에 대한 의회의 도전을 지지하되, 이것이 정부 셧다운을 초래하면 안 된다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5a6cd3024694",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "AI의 '영혼' 찾기에 우려를 표한다",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/21/silicon-valleys-ai-soul-search",
+      "publishedAt": "2026-11-21T12:00:58.000Z",
+      "description": "Humans experience beauty and sit with mysteries. Unlike AI, we do not exist merely for utility Last month, religious leaders from across San Francisco gathered behind closed doors to discuss what it means to be human in the age of artificial intelligence. Anthropic, the AI company operating only a couple of miles from my parish, has been courting priests, rabbis and theologians. Its billionaire cofounder, Christopher Olah, has even pressed Vatican advisers to take seriously the possibility that his company’s chatbot might possess consciousness. Continue reading...",
+      "author": "Rev Kevin Deal",
+      "summary": "AI 회사가 챗봇의 의식 가능성을 주장하면서 인류만의 고유한 미적 감각과 신비로움을 외면하고 있다고 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c2af5ac4e69c",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "중간선거가 역사적이었다면, 그다음은?",
+      "link": "https://www.nytimes.com/2026/11/21/opinion/democrats-midterms.html",
+      "publishedAt": "2026-11-21T12:00:06.000Z",
+      "description": "Readers continue to offer suggestions about what the Democrats should do after their election sweep.",
+      "author": null,
+      "summary": "민주당의 선거 압승 이후 취해야 할 조치에 대해 독자들이 계속 의견을 제시하고 있다고 소개했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "76cd705952ee",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "이 휴가 시즌에 도움이 필요한 아이들을 위해 기부하세요",
+      "link": "https://www.nytimes.com/2026/11/21/opinion/charity-holiday-gift-saga-luminos-edesia.html",
+      "publishedAt": "2026-11-21T12:00:02.000Z",
+      "description": "For $25, you could buy a scarf. Or you could help a child return to school.",
+      "author": "Nicholas Kristof",
+      "summary": "휴가철 기부를 통해 아이들을 학교로 돌려보낼 수 있도록 도와달라고 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "4d31da9a3637",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "진짜 사이버 위협은 무분별한 AI가 아니라 무분별한 인간",
+      "link": "https://www.washingtonpost.com/opinions/2026/11/21/scariest-thing-about-ai-is-still-humans/",
+      "publishedAt": "2026-11-21T10:45:00.000Z",
+      "description": "AI gives hackers superpowers. Defenders need them, too.",
+      "author": "Editorial Board",
+      "summary": "AI가 해커들에게 초능력을 제공하므로 이에 대항할 방어 기술도 동등하게 필요하다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "15df1e3b59a0",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "GTA 독감 걸렸어? 판단 안 할게",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/21/gta-6-flu-vice-city-gamers-sick-day",
+      "publishedAt": "2026-11-21T08:00:52.000Z",
+      "description": "Millions are throwing sickies and no wonder. For gamers who have waited 13 years, this is the equivalent of a football World Cup If there were an unusual number of people missing from your workplace at the back end of this week, they may have come down with GTA flu. You don’t need to be a video game person to have heard that there’s a new instalment of Grand Theft Auto, the enormously popular series in which you drive around sprawling American cities committing crimes. It has been all over the news. And if you are not a video game person, maybe that seems baffling. Why is this game such a big ",
+      "author": "Imogen West-Knights",
+      "summary": "13년 기다림 끝에 출시된 그랜드 테프트 오토 신작으로 직장인들이 대거 병가를 내는 현상을 풍자했다.",
+      "summarySource": "llm"
+    }
+  ],
+  "summarizedAt": "2026-11-22T02:00:39.135Z",
+  "summaryStats": {
+    "llm": 50,
+    "fallback": 0,
+    "model": "claude-haiku-4-5"
+  }
+}
