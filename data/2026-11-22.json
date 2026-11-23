@@ -1,0 +1,898 @@
+{
+  "date": "2026-11-22",
+  "generatedAt": "2026-11-23T02:18:04.876Z",
+  "categories": [
+    {
+      "id": "it",
+      "label": "IT·과학·AI"
+    },
+    {
+      "id": "economy",
+      "label": "경제·금융"
+    },
+    {
+      "id": "politics",
+      "label": "정치·사회"
+    },
+    {
+      "id": "world",
+      "label": "세계·국제"
+    },
+    {
+      "id": "editorial",
+      "label": "사설·칼럼",
+      "opinion": true,
+      "summaryMaxChars": 220
+    }
+  ],
+  "feedStatus": [
+    {
+      "source": "Ars Technica",
+      "category": "it",
+      "ok": true,
+      "matched": 2
+    },
+    {
+      "source": "Hacker News",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "TechCrunch",
+      "category": "it",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "The Verge",
+      "category": "it",
+      "ok": true,
+      "matched": 4
+    },
+    {
+      "source": "블로터",
+      "category": "it",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "전자신문",
+      "category": "it",
+      "ok": true,
+      "matched": 19
+    },
+    {
+      "source": "ZDNet Korea",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC Business",
+      "category": "economy",
+      "ok": true,
+      "matched": 4
+    },
+    {
+      "source": "The Guardian",
+      "category": "economy",
+      "ok": true,
+      "matched": 11
+    },
+    {
+      "source": "매일경제 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 24
+    },
+    {
+      "source": "연합뉴스",
+      "category": "economy",
+      "ok": true,
+      "matched": 22
+    },
+    {
+      "source": "경향신문 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 34
+    },
+    {
+      "source": "경향신문 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 23
+    },
+    {
+      "source": "노컷뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "서울신문",
+      "category": "politics",
+      "ok": true,
+      "matched": 1
+    },
+    {
+      "source": "연합뉴스 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "연합뉴스 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 33
+    },
+    {
+      "source": "SBS 뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "Al Jazeera",
+      "category": "world",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC World",
+      "category": "world",
+      "ok": true,
+      "matched": 7
+    },
+    {
+      "source": "NPR",
+      "category": "world",
+      "ok": true,
+      "matched": 4
+    },
+    {
+      "source": "The Guardian",
+      "category": "world",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "연합뉴스 국제",
+      "category": "world",
+      "ok": true,
+      "matched": 64
+    },
+    {
+      "source": "매일경제 증권",
+      "category": "economy",
+      "ok": true,
+      "matched": 17
+    },
+    {
+      "source": "경향신문 오피니언",
+      "category": "editorial",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "NYT Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 10
+    },
+    {
+      "source": "The Guardian Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 7
+    },
+    {
+      "source": "Washington Post Opinions",
+      "category": "editorial",
+      "ok": true,
+      "matched": 4
+    },
+    {
+      "source": "동아일보 사설",
+      "category": "editorial",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "동아일보 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 19
+    },
+    {
+      "source": "조선일보",
+      "category": "politics",
+      "ok": true,
+      "matched": 7
+    },
+    {
+      "source": "동아일보 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "머니투데이",
+      "category": "economy",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "Wired",
+      "category": "it",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "DW News",
+      "category": "world",
+      "ok": true,
+      "matched": 14
+    }
+  ],
+  "items": [
+    {
+      "id": "a0ac9c9dbd15",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "LG전자 TV, 메모리값 급등에도 선방…평균판매가 10%↑",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=679335",
+      "publishedAt": "2026-11-22T14:30:00.000Z",
+      "description": "LG전자가 TV 사업에서 고가 제품 판매를 확대했다. OLED(유기발광다이오드) TV 등 프리미엄 제품이 인기를 끌면서 ASP(평균판매가격)도 큰 폭으로 올랐다. 반도체값 상승으로 제조원가가 높아지는 상황에서 고급화 전략이 수익성 개선에도 힘을 보태고 있다. OLED 시장 절반 장악…미니 LED 점유율도 '3배 성장' LG전자 TV 한 대당 판매가격이 오름세를 타고 있다. 22일 금융감독원 전자공시시스템에 따르면 올해 1~9월 LG전자 TV ASP는 지난해 연간 평균보다 10.6% 올랐다. 지난해 4.5% 하락했던 흐름이 뒤집힌 데",
+      "author": "김나영 기자",
+      "summary": "LG전자가 올해 1~9월 TV 평균판매가격을 10.6% 올리면서 OLED 등 프리미엄 고가 제품 판매 확대로 수익성 개선에 성공했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b53b8cb96fa7",
+      "category": "it",
+      "source": "The Verge",
+      "region": "intl",
+      "title": "닌텐도 Switch 2, 블랙프라이데이 50달러 할인",
+      "link": "https://www.theverge.com/gadgets/1038181/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle-2026-sale",
+      "publishedAt": "2026-11-22T14:00:00.000Z",
+      "description": "Those hoping to save some cash on a Nintendo Switch 2 can do so starting today, November 22nd, through Saturday, December 5th, giving you plenty of time to think about it after Cyber Monday has passed. For a limited time, Nintendo has knocked $50 off one of its two current console bundles, temporarily rolling back the $50 price increase that went into effect in early September. It’s tough to predict which bundle will be most popular for your household. The Mario Kart World bundle runs $499.99 (previously $549.99) and includes the console, a digital copy of the aforementioned game, and three mo",
+      "author": null,
+      "summary": "닌텐도는 11월 22일부터 12월 5일까지 Switch 2 번들을 50달러 할인하며, 이는 9월 가격 인상을 일부 되돌린 조치다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8a99f51e27b7",
+      "category": "it",
+      "source": "블로터",
+      "region": "kr",
+      "title": "현대카드, 해외 결제 점유율 28%...애플페이 기반 장악력 '굳건'",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=679282",
+      "publishedAt": "2026-11-22T14:00:00.000Z",
+      "description": "현대카드가 해외 결제 시장 점유율을 28%대까지 끌어올리며 장악력 확대에 나섰다. 이 흐름대로라면 4년 연속 해외 신용판매(일시불·할부) 실적 1위 달성이 유력하다. 국내 카드사 중 첫 애플페이 사업자로서 결제 편의성을 높이고 해외 특화 프리미엄 시장 공략을 병행한 성과다.22일 여신금융협회에 따르면 현대카드의 10월 누적 기준 개인의 해외 신용카드 결제액은 3조6243억원으로 전년동기(3조2462억원) 대비 11.6% 증가했다. 국내 8개 전업카드사의 전체 실적(12조9155억원) 중 차지하는 비중은 28.1%로 1위다.현대카드는",
+      "author": "유한일 기자",
+      "summary": "현대카드가 10월 누적 기준 해외 신용카드 결제액 점유율 28.1%로 확대하며, 애플페이 기반 결제 편의성과 프리미엄 시장 공략으로 4년 연속 1위를 달성했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "fc8fb55407d2",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "온몸 결박된채 사형집행만 1시간 넘어…참관한 목사 \"극심한 고통, 이건 고문이었다\"",
+      "link": "https://www.etnews.com/20261122000094",
+      "publishedAt": "2026-11-22T13:30:00.000Z",
+      "description": "미국 텍사스주에서 사형수에게 독극물을 투여하는 과정이 지연되면서 사형 집행에 1시간 이상 걸린 사실이 알려졌다. 최근 테네시주에서도 사형수가 약물 투여 후 살아남아 극심한 통증을 호소한 데 이어 집행 과정의 문제가 잇따라 드러나면서 미국 사형제도를 둘러싼 논란이 확산하고 있다. 뉴욕타임스(NYT)와 AP통신은 19일(현지시간) 텍사스주 헌츠빌에서 레이날도 데니(70)의 사형을 집행하는 과정에서 정맥주사 바늘 삽입이 잇따라 실패해 전체 집행 시간",
+      "author": "이상목",
+      "summary": "미국 텍사스주에서 정맥주사 바늘 삽입 실패로 사형 집행이 1시간 이상 지연되면서, 미국 사형제도의 절차적 문제를 둘러싼 논란이 확산하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "4bf8745996d9",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "GLP-1 약물의 뜻밖의 환경적 혜택",
+      "link": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+      "publishedAt": "2026-11-22T12:07:41.000Z",
+      "description": "GLP-1 drugs could cut food demand enough to free farmland larger than Italy.",
+      "author": "Roslyn Henry and Peter Alexander, The Conversation",
+      "summary": "GLP-1 약물의 사용 확대로 식량 수요가 감소하면 이탈리아 면적보다 큰 농경지를 다른 용도로 활용할 수 있다는 환경적 가능성이 제시됐다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a7d1d4806a14",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "2026 최고의 여행용 어댑터 8가지: 20개 모델 테스트",
+      "link": "https://www.wired.com/gallery/best-travel-adapters/",
+      "publishedAt": "2026-11-22T12:00:00.000Z",
+      "description": "When going abroad, the right plugs are essential to keep your gadgets charged. These are my favorite travel adapters and chargers that I’ve tested myself.",
+      "author": "Simon Hill",
+      "summary": "해외 여행 시 전자기기를 충전하기 위한 필수 어댑터와 충전기 중 직접 테스트한 20여 종의 제품을 소개했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1a074899b43e",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "닌텐도 Switch 2 블랙프라이데이 최고 거래: 번들과 게임(2026)",
+      "link": "https://www.wired.com/story/best-black-friday-nintendo-switch-deals-11-22-26/",
+      "publishedAt": "2026-11-22T11:30:00.000Z",
+      "description": "Get your game on for less with these Black Friday deals on official Nintendo Switch 2 bundles and games.",
+      "author": "Simon Hill",
+      "summary": "블랙프라이데이 기간 닌텐도 Switch 2 공식 번들과 게임의 저가 거래 정보를 제공했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "69b62e6a5c8e",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "\"오른쪽 얼굴에만 피부암 24개\"…70대男, 10대에 여드름 방사선 치료 때문?",
+      "link": "https://www.etnews.com/20261122000095",
+      "publishedAt": "2026-11-22T10:00:00.000Z",
+      "description": "미국의 78세 남성이 11년 동안 피부암 진단을 44차례 받은 사례가 국제 학술지에 보고됐다. 전체 병변의 절반 이상이 얼굴 오른쪽에 집중됐으며, 환자는 10대 시절 여드름 치료를 위해 얼굴 전체에 방사선 치료를 받은 이력이 있는 것으로 확인됐다. 의료진이 국제학술지 'JMIR 피부과학(JMIR Dermatology)'에 발표한 증례 보고에 따르면 이 남성은 2013년부터 2024년까지 총 44개의 기저세포암 진단을 받았다. 기저세포암은 피부암",
+      "author": "이상목",
+      "summary": "미국의 한 남성이 2013년부터 2024년 사이 기저세포암 진단을 44번 받았으며, 얼굴의 대부분 병변이 10대 시절 여드름 치료용 방사선 노출과 연관 있는 것으로 보인다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8d54d4add32f",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "Signal, AI 감시 위협에 맞서 스크린샷 제한",
+      "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "publishedAt": "2026-11-21T21:37:10.000Z",
+      "description": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "author": "Anthony Ha",
+      "summary": "Signal 메신저가 AI 감시라는 실존적 위협에 대처하기 위해 안드로이드와 iOS 앱에서 사용자의 스크린샷 기능을 제한했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "127326b87b53",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "엔비디아의 두 얼굴",
+      "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "publishedAt": "2026-11-21T21:07:42.000Z",
+      "description": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+      "author": "Anthony Ha",
+      "summary": "엔비디아의 최신 실적 보고와 기술 임원진들의 젠슨 황(Jensen Huang) CEO 복귀 촉구 사이에 대조적 평가가 나타났다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "863e4785fdac",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "센트리카(Centrica) 회장, 급등하는 에너지 요금의 영향에 '매우 우려'",
+      "link": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T13:50:21.000Z",
+      "description": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
+      "author": null,
+      "summary": "에너지 가격이 급등하면서 요금을 납부하지 못하거나 거부하는 주민이 늘어날 것으로 예상된다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5622b9ff48b6",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "블랙먼데이 우려에 증안펀드 18년만에 가동되나…F4 '준비 착수'(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261122044351002",
+      "publishedAt": "2026-11-22T12:51:42.000Z",
+      "description": "(세종=연합뉴스) 김수현 기자 = 미국 증시 급락에 따라 국내 증시에서 '블랙 먼데이' 우려가 고개를 들면서 경제 금융 수장들이 증권시장안정펀드...",
+      "author": "김수현",
+      "summary": "미국 증시 급락으로 국내 증시의 '블랙먼데이' 우려가 대두되자 금융 당국이 18년 만에 증권시장안정펀드 가동을 준비하기 시작했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2f138f33ab30",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "현실이 무너질 때 GTA VI가 더 매력적으로",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/22/grand-theft-auto-vi-gaming",
+      "publishedAt": "2026-11-22T12:00:29.000Z",
+      "description": "All these tech outages are a reminder we’re at the mercy of powers beyond our comprehension. At least in GTA we have control This week marked the release of the highly anticipated video game Grand Theft Auto VI. Millions around the world checked out of their usual responsibilities in order to immerse themselves in a game where you run errands for your girlfriend in between murdering people. I feel completely alone in not caring about GTA VI, as I famously only play video games where you get to be RoboCop – issuing public nuisance citations to graffiti taggers in between murdering people. I’m a",
+      "author": "Dave Schilling",
+      "summary": "기술 장애로 인한 현실의 혼란 속에서 게임 GTA VI가 출시되어 많은 사람들이 현실 도피를 추구하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c8ebaace5aee",
+      "category": "economy",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "폐경기 여성을 이용한 웰니스 산업의 뻔한 수익 창출",
+      "link": "https://www.theguardian.com/society/2026/nov/22/wellness-industry-cynically-exploiting-menopause-women",
+      "publishedAt": "2026-11-22T12:00:29.000Z",
+      "description": "Where women see hot flushes and brain fog, pharmaceutical companies see dollar signs. But are products like lion’s mane mushrooms or even magnets for knickers really helping them? Or is it all just a big capitalist con? ‘Tequila?” says a woman brightly, proffering a pink plastic shot glass. It’s barely 10.30 on a Saturday morning, and my perimenopause wellness journey is not going entirely as expected. We are standing in a neon-lit London conference centre amid the hubbub of Pause Live, billed as the UK’s biggest annual women’s health and menopause event and essentially a consumer fair for tho",
+      "author": "Gaby Hinsliff",
+      "summary": "제약회사들이 갱년기 증상을 보이는 여성들을 겨냥해 라이온스 메인(Lion's Mane) 버섯이나 자기 팬티 같은 제품들을 판매하며 웰니스 산업을 통해 수익을 추구하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1c2b7df9cf4f",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "'AI 열풍' 식자 中 기술주서 2289조원 증발…中당국이 꺼낸 유동성 카드 규모가?",
+      "link": "https://www.mk.co.kr/news/world/12215746",
+      "publishedAt": "2026-11-22T11:52:49.000Z",
+      "description": "미국을 추격할 중국 인공지능(AI) 산업의 성장 가능성에 베팅했던 투자자들이 거센 주가 하락에 직면했다. 지난해 스타트업 딥시크의 AI 모델 흥행으로 불붙었던 중국 기술주 투자 열..",
+      "author": "매일경제",
+      "summary": "미국의 AI 산업을 추격하려는 중국의 AI 기술주에 베팅했던 투자자들이 급격한 주가 하락으로 인해 2289조원의 손실을 입었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "31e18055683a",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "정부, 증안펀드 즉시가동 준비 돌입",
+      "link": "https://www.mk.co.kr/news/stock/12215738",
+      "publishedAt": "2026-11-22T10:44:13.000Z",
+      "description": "인공지능(AI) 투자에 대한 부정적 인식이 확산하며 글로벌 증시가 급락하자 정부가 시장 상황에 따라 증권시장안정펀드(증안펀드)가 바로 가동될 수 있게 준비 작업에 착수하기로 했다...",
+      "author": "매일경제",
+      "summary": "AI 투자에 대한 부정적 인식이 확산하면서 글로벌 증시가 급락하자 정부가 증권시장안정펀드의 즉시 가동을 위한 준비 작업에 착수했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "347f3cba8286",
+      "category": "economy",
+      "source": "연합뉴스",
+      "region": "kr",
+      "title": "토스, 캐나다 현지 법인 설립…인허가·금융사 제휴 준비",
+      "link": "https://www.yna.co.kr/view/AKR20261122044700017",
+      "publishedAt": "2026-11-22T10:02:40.000Z",
+      "description": "(서울=연합뉴스) 한상용 기자 = 금융 플랫폼 토스 운영사 비바리퍼블리카가 캐나다에 현지 법인 '토스 캐나다'를 설립한 것으로 나타났다.",
+      "author": "한상용",
+      "summary": "토스를 운영하는 비바리퍼블리카가 캐나다에 현지 법인을 설립하고 인허가 취득 및 금융사 제휴를 준비하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "cc101dada6ac",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "\"전기요금 내려고 입력했던 내 정보가\"…한전, 이번엔 65만명 고객정보 유출",
+      "link": "https://www.mk.co.kr/news/it/12215723",
+      "publishedAt": "2026-11-22T09:25:12.000Z",
+      "description": "한국전력공사에서 직원 개인정보 유출 사고가 발생한 데 이어 이번에는 전기요금 납부 고객과 조달업체 관계자들의 개인정보까지 대거 유출됐다. 특히 전기사용 고객의 주민등록번호는 물론 ..",
+      "author": "매일경제",
+      "summary": "한국전력공사에서 직원 개인정보에 이어 전기요금 납부 고객과 조달업체 관계자 65만명의 개인정보까지 유출되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9e88d11ae945",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "2029년부터 정년 한 살씩 늘리나…65세 정년연장, 정부안 발표 초읽기",
+      "link": "https://www.mk.co.kr/news/economy/12215719",
+      "publishedAt": "2026-11-22T09:05:08.000Z",
+      "description": "김영훈, 정부 참여 의지 시사 與정년연장특위 27일 재개 2039년까지 단계적상향 유력김영훈 고용노동부 장관이 법정 정년 연장과 관련해 노사 합의가 이뤄지지 않으면 정부가 나서겠다..",
+      "author": "매일경제",
+      "summary": "노사 합의가 이루어지지 않을 경우 정부가 2029년부터 정년을 한 살씩 늘려 2039년까지 단계적으로 65세까지 연장하는 방안을 추진할 계획이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e2cd359d029f",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "의원, 건지·저지의 기업 소유권 등록부 계획 비판",
+      "link": "https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T07:22:05.000Z",
+      "description": "Sir Andrew Mitchell says access should be easier for people tackling financial crime.",
+      "author": null,
+      "summary": "영국 의원이 금융범죄 대응을 위해 건지·저지의 기업 소유권 등록부에 대한 더 쉬운 접근을 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "25ffe564d27a",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "청해부대 동의안 임무확대 목적·한계 명확히해야…우려불식 필요",
+      "link": "https://www.yna.co.kr/view/AKR20261122050200001",
+      "publishedAt": "2026-11-22T12:31:30.000Z",
+      "description": "(서울=연합뉴스) 오규진 최주성 기자 = 청해부대의 임무 구역 확대를 주요 내용으로 하는 파견 연장 수정 동의안과 관련해 국회 심의 과정에서 전...",
+      "author": "오규진",
+      "summary": "청해부대 파견 연장 동의안에 대해 국회에서 임무 확대의 목적과 한계를 명확히 하고 국민의 우려를 불식할 필요가 있다는 지적이 나왔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a735d9d74e4e",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "김정은, 러시아대사 신임장 직접 받아…외교 의전에서도 '최고지도자' 부각",
+      "link": "https://www.khan.co.kr/article/202611222123001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-11-22T12:23:00.000Z",
+      "description": "김정은 북한 국무위원장이 지난 9일 조선농업근로자동맹 제10차 대회 참가자들을 만나 기념사진을 찍었다고 조선중앙TV가 지난 10일 보도했다. 연합뉴스김정은 국무위원장이 개정 헌법에 따라 주북 러시아대사로부터 직접 신임장을 받았다. 북한 최고지도자가 외국 대사의 신임장을 직접 받은 것은 30여년 만이다.북한 주재 러시아대사관은 22일 텔레그램 채널을 통해 안···",
+      "author": "김나현 기자",
+      "summary": "김정은 국무위원장이 개정 헌법에 따라 북한 주재 러시아대사로부터 신임장을 직접 받았으며, 최고지도자가 외국 대사의 신임장을 직접 받은 것은 30여 년 만이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8cea92cd2cc2",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "'수능 무능 대처' 최교진 사실상 경질",
+      "link": "https://www.khan.co.kr/article/202611222117005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-11-22T12:17:00.000Z",
+      "description": "‘AI 커닝’ 늑장 대책에 실언 논란 시험 사흘 만에 “혼란 책임 사의” 이 대통령, 1시간 만에 곧장 수리 청 “후임 장관 인선은 절차대로”최교진 교육부 장관(사진)이 2027학년도 대학수학능력시험을 앞두고 불거진 부정행위 방지 대책 미흡 등 혼란에 책임을 지고 22일 장관직에서 물러났다. 지난 19일 수능이 치러진 지 사흘 만이다. 이재명 대통령은···",
+      "author": "우혜림 기자",
+      "summary": "최교진 교육부 장관이 AI 커닝 부정행위 방지 대책 미흡으로 불거진 혼란에 책임을 지고 수능 4일 만인 22일 장관직에서 물러났다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d69771c3e1d9",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "[COP31 현장에서]기후총회 '합의문' 17년 만에 무산",
+      "link": "https://www.khan.co.kr/article/202611222116005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-11-22T12:16:00.000Z",
+      "description": "EU, ‘화석연료 퇴출 삭제’에 반대폐막일 넘긴 협상에도 채택 실패“지금 날 죽여라”…초안도 알맹이 빠져 활동가들 항의튀르키예 안탈리아에서 열린 제31차 유엔기후변화협약 당사국총회(COP31)가 합의문을 채택하지 못했다. 이로써 이번 COP31은 2009년 덴마크 코펜하겐에서 열린 COP15 이후 17년 만에 협상 시한을 넘기고도 공식 합의문 채택에 실패한···",
+      "author": "반기웅 기자·안탈리아(튀르키예) | 오경민 기자",
+      "summary": "튀르키예 안탈리아에서 열린 제31차 유엔기후변화협약 당사국총회(COP31)가 화석연료 퇴출 문제로 협상이 지연되어 2009년 이후 17년 만에 합의문 채택에 실패했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1fcd1532c815",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "이 대통령 \"문제지 촬영·외부 전송 막을 법안 전면 정비\" 지시",
+      "link": "https://www.khan.co.kr/article/202611222108025/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-11-22T12:08:02.000Z",
+      "description": "정부, 수능 끝나도 ‘AI 커닝’ 해법 찾기 숙제수험생들 앞치마 입고 논술시험 칠 때…학부모는 ‘내 아이 어디 갈 수 있을까’ 골몰 수험생이 지난 21일 서울 동대문구 경희대학교에서 인공지능(AI) 활용 부정행위 방지 목적의 일회용 앞치마를 입고 2027학년도 대입 논술시험을 치르고 있다(왼쪽 사진). 학부모들이 22일 서울 노원구 강북청솔학원에서 열린 수···",
+      "author": "우혜림 기자",
+      "summary": "이재명 대통령이 수능 부정행위 방지를 위해 문제지 촬영 및 외부 전송을 차단할 법안을 전면 정비하도록 지시했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e3a39c0ddf65",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "'李 공소취소 예·아니오 답하라'에…이용철, 또 \"법과 원칙 따라야\"",
+      "link": "https://www.donga.com/news/Politics/article/all/20261122/135068744/1",
+      "publishedAt": "2026-11-22T11:50:00.000Z",
+      "description": "이용철 법무부 장관 후보자가 24일 인사청문회를 앞두고 22일 국회 법제사법위원회에 제출한 서면질의 답변서에서 이재명 대통령이 기소된 사건의 공소취소와 관련한 국회 법제사법위원회 소속 의원들의 질의에 “국민적 의혹이 제기된 사건들에 대한 진상규명에 집중할 때이고 나머지는 법과 원칙에 따라야 한다는 것이 기본적인 입장”이라는 입장을 되풀이했다.이 후보자는 국민의힘 박형수 의원이 ‘이 대통령 사건의 공소 취소를 지휘할 것인지 예 또는 아니요로 답하라’는 질의와 ‘대통령이 임명한 법무부 장관이 대통령 본인의 형사사건에 대한 공소취소를 지휘하는 것이 적절하냐’는 질의에 “법과 원칙에 따라야 한다는 것이 기본적인 입장”이라며 이같이 답했다.그는 ‘공소취소는 검찰이 판단할 문제라는 정성호 전 장관 입장에 동의하냐’는 질의에 대해서는 “공소취소 여부는 검찰총장의 지휘를 받는 검사가 할 일이라고 생각한다”며 “여기서 더 나아가 여러 가정적 상황을 두고 답변드리는 것은 적절하지 않다고 생각한다",
+      "author": null,
+      "summary": "법무부 장관 후보자 이용철이 이재명 대통령 사건의 공소취소에 관한 국회의 명확한 질의에도 \"법과 원칙에 따라야 한다\"는 답변으로 일관했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9dc49934bd32",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "6·3 지선 선거사범 공소시효 D-11…현직 단체장 최소 34명 송치",
+      "link": "https://www.donga.com/news/Society/article/all/20261122/135067788/1",
+      "publishedAt": "2026-11-22T11:28:00.000Z",
+      "description": "현직 광역지방자치단체장 2명과 기초지방자치단체장 32명 등 최소 34명이 6·3 지방선거 과정에서 공직선거법 등을 위반한 혐의로 공소청에 송치된 것으로 22일 나타났다. 전체 광역단체장(16명)의 12.5%, 시장·군수·구청장 등 기초단체장(227명)의 14.1%에 대해 경찰이 혐의가 있다고 판단한 것. 선거사범 공소시효가 만료되는 다음 달 3일까지 열흘 남은 가운데 수사와 기소를 분리한 새 형사사법 체계가 시행된 뒤 선거사범 공소시효를 맞는 건 이번이 처음이다.● 선거사범, 역대 최대 8000명 육박22일 경찰에 따르면 최근 신용한 충북도지사와 이원택 전북도지사는 공직선거법 위반 혐의로 공소청에 송치됐다. 두 사람 모두 더불어민주당 소속이다. 신 지사는 경선 기간 차명 휴대전화로 당원들에게 문자메시지를 보내는 등 불법 선거운동을 한 혐의를 받는다. 이 지사는 자신을 둘러싼 ‘식사비 대납 의혹’을 해명하면서 허위 사실을 공표한 혐의다.여기에 경찰은 이날까지 현직 기초단체장 32",
+      "author": null,
+      "summary": "6·3 지방선거 선거사범 혐의로 현직 단체장 최소 34명이 공소청에 송치되었으며, 공소시효 만료까지 11일 남은 상황에서 공소시효 충돌 가능성이 제기되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5035f915ce8b",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "李대통령, '대장동 의혹' 또 반박…\"업자와 결탁한 시장 아냐\"",
+      "link": "https://www.yna.co.kr/view/AKR20261122043000001",
+      "publishedAt": "2026-11-22T09:17:44.000Z",
+      "description": "(서울=연합뉴스) 고동욱 기자 = 이재명 대통령은 22일 이른바 '대장동 개발비리'에 연루됐다는 의혹과 관련해 \"업자와 결탁한 시장이라면 할 수...",
+      "author": "고동욱",
+      "summary": "이재명 대통령이 대장동 개발비리 의혹에 대해 업자와 결탁한 시장이 아니라는 입장으로 반박했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "25cf2b77bbfe",
+      "category": "politics",
+      "source": "SBS 뉴스",
+      "region": "kr",
+      "title": "김종철 방미통위원장, TV조선 점수조작 의혹 항소에 \"피고인들의 고통이 뼈끝에 느껴진다\"",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008857827",
+      "publishedAt": "2026-11-22T07:40:00.000Z",
+      "description": "▲ 김종철 방미통위원장지난 12일, 서울북부지법은 일명 'TV조선 재승인 점수조작 의혹' 사건으로 재판에 넘겨진 한상혁…",
+      "author": "gate@sbs.co.kr (배준우)",
+      "summary": "김종철 방미통위원장이 TV조선 재승인 점수조작 의혹 사건의 항소 재판에서 \"피고인들의 고통이 뼈끝에 느껴진다\"고 말했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "3b870091aba1",
+      "category": "politics",
+      "source": "조선일보",
+      "region": "kr",
+      "title": "한국 투자자, 9월 미 국채 1977년 집계 이후 최대 순매수...7월 국내 증시 급락 영향",
+      "link": "https://www.chosun.com/economy/stock-finance/2026/11/22/BXYPZGQODVDELCMIA2774XJCFM/",
+      "publishedAt": "2026-11-22T01:33:06.000Z",
+      "description": "",
+      "author": "최형석 기자",
+      "summary": "한국 투자자가 9월 미 국채를 1977년 집계 이후 최대 규모로 순매수한 것으로 나타났으며, 이는 7월 국내 증시 급락의 영향으로 분석된다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7213cbc9ecaf",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "리비아 항구 정박 러시아 선박서 폭발…드론 공격 추정",
+      "link": "https://www.yna.co.kr/view/AKR20261122052800079",
+      "publishedAt": "2026-11-22T14:49:38.000Z",
+      "description": "(카이로=연합뉴스) 김상훈 특파원 = 북아프리카 리비아 동부 벵가지 해군기지에 정박 중이던 러시아 선박에서 폭발이 일어났으며 폭발의 원인은 드론...",
+      "author": "김상훈",
+      "summary": "리비아 동부 벵가지 해군기지에 정박 중이던 러시아 선박에서 폭발이 발생했으며, 드론 공격으로 추정되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d0a76c90465f",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "트럼프, 우크라 나토식 안전 보장 지지하나…기대감 커진 유럽",
+      "link": "https://www.yna.co.kr/view/AKR20261122051600085",
+      "publishedAt": "2026-11-22T14:03:48.000Z",
+      "description": "(런던=연합뉴스) 김지연 특파원 = 도널드 트럼프 미국 대통령이 우크라이나가 수용할 만한 종전 협상을 도울 것이라는 이례적인 낙관론이 유럽에서 ...",
+      "author": "김지연",
+      "summary": "도널드 트럼프 미국 대통령이 우크라이나가 수용 가능한 종전 협상을 중재할 수 있다는 낙관론이 유럽에서 커지고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d2b9d9ab1dc5",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "영국인, 호르무즈 해협 환경오염 강조 위해 횡단 수영",
+      "link": "https://www.theguardian.com/world/2026/nov/22/briton-lewis-pugh-swims-strait-of-hormuz-environment-war",
+      "publishedAt": "2026-11-22T13:36:01.000Z",
+      "description": "UN patron Lewis Pugh saw ships ablaze and fighter jets overhead during three-day swim as Iran conflict continues A British endurance swimmer has completed a three-day swim through the strait of Hormuz to highlight the environmental cost of the Iran war. Lewis Pugh, a UN patron of the oceans, swam the 9.3-mile (15km) length of the waterway, which is a key route for oil shipments from the Middle East. Continue reading...",
+      "author": "Rachel Hall",
+      "summary": "유엔 해양 대사 루이스 푸가 이란 분쟁의 환경 비용을 강조하기 위해 호르무즈 해협 9.3마일을 3일간 수영으로 횡단했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a9b75c098db5",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "COP31 기후회담, 취약국 자금지원 및 화석연료 포기 방안 합의 실패",
+      "link": "https://www.dw.com/en/cop31-climate-talks-end-without-consensus-on-how-to-fund-vulnerable-countries-or-move-the-world-away-from-coal-oil-and-gas-use/a-80003610?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-11-22T13:18:00.000Z",
+      "description": "After two weeks of tough talks, the COP31 climate summit has closed without a consensus on how to quit fossil fuels or fund countries struggling to adapt to a hotter world.",
+      "author": null,
+      "summary": "2주간의 협상을 마친 COP31 기후정상회담이 취약국 자금지원과 화석연료 포기 방안에 대한 합의를 도출하지 못했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "823213845d89",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "COP31 기후협약, 미채택 선언",
+      "link": "https://www.dw.com/en/cop31-climate-deal-not-adopted-summit-president-says/live-79999516?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-11-22T12:39:00.000Z",
+      "description": "The summit was extended as nations worked to reach a deal, but they couldn't agree on including fossil fuels. European nations, small island states and activists have criticized oil-producing countries for the impasse.",
+      "author": null,
+      "summary": "COP31 정상회담이 화석연료 포함 등의 의견 차이로 최종 기후협약 채택에 실패했다고 정상회담 의장이 선언했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9ee34984b5a0",
+      "category": "world",
+      "source": "The Guardian",
+      "region": "intl",
+      "title": "영국-EU 식품협약 체결, 영국 기업 환영",
+      "link": "https://www.theguardian.com/business/2026/nov/22/uk-eu-food-sps-deal-brexit-checks",
+      "publishedAt": "2026-11-22T11:00:24.000Z",
+      "description": "Exporters welcome end in sight for Brexit checks – but are frustrated that implementation will take so long British producers have broadly welcomed the UK’s deal with the EU, designed to remove the vast majority of physical checks on food, plants and animal products. The sanitary and phytosanitary (SPS) deal is expected to benefit Britain’s food exporters and will enable UK delicatessens and other small retailers to import European cheese and wine again, something that became economically unviable because of costly Brexit checks. Continue reading...",
+      "author": "Joanna Partridge",
+      "summary": "영국과 EU가 식품·식물·동물 제품의 물리적 검사를 대폭 감소시키는 위생검역 협약을 체결해 영국 식품 수출업체들에게 호평받고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "05b58a6b1248",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "한국 교육부 장관, 수능 부정행위 스캔들로 사임",
+      "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T09:20:45.000Z",
+      "description": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
+      "author": null,
+      "summary": "한국 교육부 장관 최교진이 대학수학능력시험 AI 부정행위 적발 과정의 혼란에 대한 책임을 지고 사임했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6b5ed48d320e",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "FBI 수배 멕시코 마약왕, 총격전 끝에 체포",
+      "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T01:25:03.000Z",
+      "description": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+      "author": null,
+      "summary": "FBI 미국 10대 수배 대상 목록에 오른 멕시코 마약왕 파우스토 메자 플로레스가 경찰과의 총격전 끝에 체포되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7b2790e732d6",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "트럼프-시진핑, 선전 정상회담서 얻은 것은?",
+      "link": "https://www.npr.org/2026/11/21/nx-s1-6048741/what-did-xi-jinping-get-from-the-bear-hug-with-trump-at-the-shenzhen-summit",
+      "publishedAt": "2026-11-21T22:01:42.000Z",
+      "description": "NPR's Rob Schmitz speaks with Robert Daly, director of the program on US China relations at University of Maryland's School of Public Policy, about President Trump's trip to China this week.",
+      "author": "Rob Schmitz",
+      "summary": "트럼프 미국 대통령이 최근 중국을 방문해 시진핑과 나눈 선전 정상회담의 성과를 미국 전문가들이 분석하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "df179a7160b5",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "남미 역사적 사건들을 취재한 기자의 경험과 과제",
+      "link": "https://www.npr.org/2026/11/21/nx-s1-6044647/highlights-and-challenges-from-covering-an-historic-month-in-south-america",
+      "publishedAt": "2026-11-21T22:01:35.000Z",
+      "description": "NPR's South America Correspondent discusses her work covering an historic election upset and a papal visit.",
+      "author": "Rob Schmitz",
+      "summary": "NPR의 남미 특파원이 최근 역사적인 선거 이변과 교황 방문 등 주요 사건들을 취재하면서 겪은 경험과 과제를 공유했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "39eedc7fde60",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]조 대법원장 탄핵은 안 된다… 이 대통령이 제동 걸어야",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261122/135070211/2",
+      "publishedAt": "2026-11-22T14:40:00.000Z",
+      "description": "더불어민주당이 조희대 대법원장에 대한 탄핵소추안을 연내에 통과시키겠다고 밝혔다. 민주당은 조 대법원장이 12·3 계엄 이후 헌법과 법률을 무시하고, 판결을 통해 정치 행위를 했다면서 탄핵이 불가피하다고 주장한다. 민주당은 조 대법원장 탄핵을 논의해오다 위헌·위법 행위에 대한 진상 규명부터 하자며 국정조사를 추진해왔다. 하지만 대법원이 19일 한덕수 전 국무총리 상고심 선고에서 계엄을 내란으로 인정하면서도 내란 중요임무 종사 혐의 중 일부를 무죄 취지로 파기 환송하자 다음 날 탄핵 추진을 당론으로 확정한 것이다. 이번 대법원 판결 이전까지 조 대법원장 탄핵론을 주도해 온 것은 여권 내 반명 그룹들을 위시한 강경파들이었다. 청와대나 친명 주류 그룹들은 신중한 입장을 보여왔다. 이재명 대통령은 “좌든 우든 전방이든 후방이든 어디서나 무책임한 극단주의를 경계해야 한다”고 했다. “가장 힘든 일은 등 뒤에서 날아오는 화살”이라고도 했다. 극단적인 여권 강경파들의 움직임에 민주당 전체가 끌려",
+      "author": null,
+      "summary": "민주당의 조희대 대법원장 탄핵 추진을 반대하면서, 여권 강경파의 극단주의에 대통령이 제동을 걸어야 한다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7f226b4e6fa4",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]최교진 사퇴… '대학선발권 강화' 입시제도 개편 시동 걸 때",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261122/135070203/2",
+      "publishedAt": "2026-11-22T14:38:00.000Z",
+      "description": "최교진 교육부 장관이 22일 “수험생과 국민에 불편을 초래했다”며 사퇴했다. 최 장관은 올 9월 수시 원서접수 먹통 사태에 부실 대응한 데 이어 인공지능(AI) 부정행위 대책도 수능일 직전에야 내놓아 혼란을 초래했다. 특히 ‘AI 커닝을 적발할 자신이 있느냐’는 국회 질의에 “나이가 있어서 못 할 것 같다”는 황당한 답변을 내놓아 “AI 커닝을 조장한다” “불안감을 부추긴다”는 비난을 샀다. 수능이 우려와 달리 큰 혼란 없이 끝났다고 하지만 더는 교육부 수장을 맡기 어려운 상황이었다. 수능 부실 관리로 교육부 장관이 사퇴한 것은 처음 있는 일이다. 나아가 수능 제도를 개편해야 한다는 주장도 대두되고 있다. 1995년 도입된 수능에 대해선 수학 능력과 사고력을 측정한다는 본래 취지와 달리 문제 풀이 기술자만 양산한다는 비판이 제기됐지만 공정성을 담보할 만한 대체 수단이 없어 유지해 온 것이 사실이다. 그런데 AI 부정행위가 쉬워지면서 공정성마저 담보하기 어려워지자 이대로 존치하기 어",
+      "author": null,
+      "summary": "최교진 교육부 장관의 부실 대응을 계기로 1995년 도입된 수능 제도의 개편이 필요하며, AI 부정행위 증가로 공정성 담보가 어려워졌다고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "af0b6a7c7d90",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "생활비 위기가 정신건강에 미치는 영향",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/23/cost-of-living-crisis-financial-stress-mental-health-coping-strategies",
+      "publishedAt": "2026-11-22T14:00:29.000Z",
+      "description": "In trying to save for a house deposit, she had sacrificed activities that brought her joy. And constant checking of her bank balance exacerbated her fears The modern mind is a column where experts discuss mental health issues they are seeing in their work “It all feels so hard. It’s impossible to get ahead. It’s not even two steps forward and one step back, now it’s one step forward and two steps back.” Like many people, Claudia* was feeling the impact of the cost-of-living crisis. Despite professional qualifications and full-time employment, she felt increasing financial insecurity and a lack",
+      "author": "Bianca Denny",
+      "summary": "생활비 위기가 개인의 정신건강을 해치고 있으며, 집 계약금 마련을 위한 절약으로 즐거움을 포기하고 금융 불안감이 심화되고 있다고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "44c02e1afe02",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "HBO 드라마 '워'(War)의 매력",
+      "link": "https://www.nytimes.com/2026/11/22/opinion/war-hbo-divorce-tech-huang.html",
+      "publishedAt": "2026-11-22T14:00:05.000Z",
+      "description": "Why I loved the slick and dirty HBO divorce drama ‘War.’",
+      "author": "Robin Givhan",
+      "summary": "HBO 드라마 '워'(War)를 슬릭하면서도 현실감 있고 도발적인 작품으로 평가했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9e916f0ce1bd",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "디스토피아 소설의 어두운 예언에서 벗어나는 방법",
+      "link": "https://www.washingtonpost.com/opinions/2026/11/23/heed-pd-james-children-men-beware-medical-aid-dying/",
+      "publishedAt": "2026-11-22T13:08:35.000Z",
+      "description": "Assisted suicide is reality. But fiction has a warning.",
+      "author": "Paul Rezkalla, Lydia Dugdale",
+      "summary": "조력 자살이 현실화되고 있으나, 소설을 통해 그 위험성에 대한 경고가 제시되고 있다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "e445cd46c99c",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "포틀랜드 오리건의 쇠퇴",
+      "link": "https://www.washingtonpost.com/opinions/2026/11/23/how-portland-became-cautionary-tale-american-cities/",
+      "publishedAt": "2026-11-22T13:08:13.000Z",
+      "description": "Portland, Oregon, is stuck in a death spiral that the city government has been unable to stop.",
+      "author": "Nancy Rommelmann",
+      "summary": "포틀랜드 오리건이 도시정부도 해결하지 못하는 죽음의 나선형에 갇혀 쇠퇴하고 있다고 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2f138f33ab30",
+      "category": "editorial",
+      "source": "The Guardian Opinion",
+      "region": "intl",
+      "title": "현실 붕괴 속 게임 그랜드 테프트 오토(GTA)의 매력",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/22/grand-theft-auto-vi-gaming",
+      "publishedAt": "2026-11-22T12:00:29.000Z",
+      "description": "All these tech outages are a reminder we’re at the mercy of powers beyond our comprehension. At least in GTA we have control This week marked the release of the highly anticipated video game Grand Theft Auto VI. Millions around the world checked out of their usual responsibilities in order to immerse themselves in a game where you run errands for your girlfriend in between murdering people. I feel completely alone in not caring about GTA VI, as I famously only play video games where you get to be RoboCop – issuing public nuisance citations to graffiti taggers in between murdering people. I’m a",
+      "author": "Dave Schilling",
+      "summary": "기술 중단으로 현실이 붕괴하고 있는 상황에서 최소한 게임 속에서는 개인이 통제 가능하다는 점에서 그랜드 테프트 오토의 매력을 찬양했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8e93e13aaf2f",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[요리에 과학 한 스푼]커피와 차, 같은 반응 다른 맛",
+      "link": "https://www.khan.co.kr/article/202611222015025/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-11-22T11:15:02.000Z",
+      "description": "커피를 마시다가 차에 대한 생각이 떠올랐습니다. 차 또한 커피처럼 대표적인 기호음료 가운데 하나입니다. 둘 다 식물에서 얻은 재료를 뜨거운 물에 우려 마시고, 제조 과정에서 가열한다는 공통점도 있습니다. 그런데 커피와 차는 맛과 향이 확연히 다릅니다.커피 원두를 볶으면 특유의 맛과 향을 내는 수많은 물질이 만들어집니다. 그중에는 아미노산과 당을 재료로 하는···",
+      "author": "임두원 국립과천과학관 연구관",
+      "summary": "커피와 차는 모두 식물을 뜨거운 물에 우려 마시는 공통점이 있지만, 볶음이나 발효 과정의 화학반응으로 맛과 향이 확연히 다르다고 설명했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9c8025573495",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[NGO 현장]주택 공급 정책, 이제는 변해야",
+      "link": "https://www.khan.co.kr/article/202611222015015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-11-22T11:15:01.000Z",
+      "description": "최근 서울시 주택정책을 담당하는 공무원의 발제를 듣게 됐다. ‘청년들이 아파트를 좋아하니, 서울시는 아파트를 많이 짓는 것에 집중하고 있다’는 내용이 중심이었다. ‘아파트 수요’라는 단어로 쉽게 설명할 수도 있겠지만, 이것은 단순히 아파트라는 생활 양식에 대한 선호뿐 아니라 자산가치 상승 기대, 계층 이동성, 현실 가능성, 복지 체계, 일자리 위협의 여파 ···",
+      "author": "이한솔 한국사회주택협회 이사장",
+      "summary": "서울시가 청년 아파트 수요를 단순한 생활 양식 선호로만 판단하고 있지만, 실제로는 자산가치 상승 기대와 계층 이동성 등 복합적 요인이 작용하고 있다고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "705da22e41be",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "영화와 정치에서 돈의 한계",
+      "link": "https://www.nytimes.com/2026/11/22/opinion/gop-midterms-wipeout-movies.html",
+      "publishedAt": "2026-11-22T11:00:11.000Z",
+      "description": "The G.O.P. had a huge spending advantage in many midterm races. But as the film business knows, when it comes to moving people to action, money gets you only so far.",
+      "author": "Tom Rothman",
+      "summary": "미국 중간선거에서 공화당의 막대한 자금 투입에도 불구하고, 영화산업처럼 사람들의 실제 행동을 움직이기에는 돈만으로는 한계가 있다고 주장했다.",
+      "summarySource": "llm"
+    }
+  ],
+  "summarizedAt": "2026-11-23T02:23:46.190Z",
+  "summaryStats": {
+    "llm": 50,
+    "fallback": 0,
+    "model": "claude-haiku-4-5"
+  }
+}
