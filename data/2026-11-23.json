@@ -1,0 +1,901 @@
+{
+  "date": "2026-11-23",
+  "generatedAt": "2026-11-24T05:45:15.629Z",
+  "categories": [
+    {
+      "id": "it",
+      "label": "IT·과학·AI"
+    },
+    {
+      "id": "economy",
+      "label": "경제·금융"
+    },
+    {
+      "id": "politics",
+      "label": "정치·사회"
+    },
+    {
+      "id": "world",
+      "label": "세계·국제"
+    },
+    {
+      "id": "editorial",
+      "label": "사설·칼럼",
+      "opinion": true,
+      "summaryMaxChars": 220
+    }
+  ],
+  "feedStatus": [
+    {
+      "source": "Ars Technica",
+      "category": "it",
+      "ok": true,
+      "matched": 3
+    },
+    {
+      "source": "Hacker News",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "TechCrunch",
+      "category": "it",
+      "ok": true,
+      "matched": 4
+    },
+    {
+      "source": "The Verge",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "블로터",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "전자신문",
+      "category": "it",
+      "ok": true,
+      "matched": 4
+    },
+    {
+      "source": "ZDNet Korea",
+      "category": "it",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC Business",
+      "category": "economy",
+      "ok": true,
+      "matched": 15
+    },
+    {
+      "source": "The Guardian",
+      "category": "economy",
+      "ok": false,
+      "error": "HTTP 403",
+      "matched": 0
+    },
+    {
+      "source": "매일경제 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 27
+    },
+    {
+      "source": "연합뉴스",
+      "category": "economy",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "경향신문 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 13
+    },
+    {
+      "source": "경향신문 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 30
+    },
+    {
+      "source": "노컷뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "서울신문",
+      "category": "politics",
+      "ok": true,
+      "matched": 4
+    },
+    {
+      "source": "연합뉴스 사회",
+      "category": "politics",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "연합뉴스 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 57
+    },
+    {
+      "source": "SBS 뉴스",
+      "category": "politics",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "Al Jazeera",
+      "category": "world",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "BBC World",
+      "category": "world",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "NPR",
+      "category": "world",
+      "ok": true,
+      "matched": 6
+    },
+    {
+      "source": "The Guardian",
+      "category": "world",
+      "ok": false,
+      "error": "HTTP 403",
+      "matched": 0
+    },
+    {
+      "source": "연합뉴스 국제",
+      "category": "world",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "매일경제 증권",
+      "category": "economy",
+      "ok": true,
+      "matched": 23
+    },
+    {
+      "source": "경향신문 오피니언",
+      "category": "editorial",
+      "ok": true,
+      "matched": 14
+    },
+    {
+      "source": "NYT Opinion",
+      "category": "editorial",
+      "ok": true,
+      "matched": 2
+    },
+    {
+      "source": "The Guardian Opinion",
+      "category": "editorial",
+      "ok": false,
+      "error": "HTTP 403",
+      "matched": 0
+    },
+    {
+      "source": "Washington Post Opinions",
+      "category": "editorial",
+      "ok": true,
+      "matched": 9
+    },
+    {
+      "source": "동아일보 사설",
+      "category": "editorial",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "동아일보 정치",
+      "category": "politics",
+      "ok": true,
+      "matched": 16
+    },
+    {
+      "source": "조선일보",
+      "category": "politics",
+      "ok": true,
+      "matched": 1
+    },
+    {
+      "source": "동아일보 경제",
+      "category": "economy",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "머니투데이",
+      "category": "economy",
+      "ok": true,
+      "matched": 0
+    },
+    {
+      "source": "Wired",
+      "category": "it",
+      "ok": true,
+      "matched": 13
+    },
+    {
+      "source": "DW News",
+      "category": "world",
+      "ok": true,
+      "matched": 14
+    }
+  ],
+  "items": [
+    {
+      "id": "ffc67d16566d",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "엔비디아 젠슨 황, 사임 11일 만에 CEO 복귀…이사회 만장일치 의결",
+      "link": "https://www.etnews.com/20261123000519",
+      "publishedAt": "2026-11-23T14:44:04.000Z",
+      "description": "젠슨 황이 23일(현지시간) 엔비디아 최고경영자(CEO)로 복귀했다. 엔비디아는 이날 이사회에서 젠슨 황의 CEO 복귀 안건을 만장일치로 의결했으며, 그의 복귀에 국가안보상 위험이 없다는 점을 확인했다고 로이터·AFP 통신이 전했다. 엔비디아는 성명에서 젠슨 황의 “솔직함과 지도력”에 만족하게 됐으며, 이에 따라 그를 사장 겸 CEO 및 이사회 이사로 즉시 복귀시키는 안건을 의결했다고 밝혔다. 엔비디아 공동창업자인 젠슨 황은 미국 정보기관이 중",
+      "author": "김명희",
+      "summary": "젠슨 황이 엔비디아 CEO 자리에서 물러난 지 11일 만에 복귀했으며, 이사회는 만장일치로 이를 승인하고 국가안보상 문제가 없음을 확인했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d6a5b08e3fa8",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "Sierra, 6개월 내 기업가치 300억 달러로 2배 증가",
+      "link": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+      "publishedAt": "2026-11-23T14:43:03.000Z",
+      "description": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
+      "author": "Ivan Mehta",
+      "summary": "전 세일즈포스(Salesforce) 공동최고경영자 브렛 테일러가 공동창립한 고객경험 AI 기업 Sierra가 시리즈 F 라운드에서 17억 5천만 달러를 조달했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "90f831b4fd3e",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "엔비디아, 젠슨 황을 CEO로 복귀시키다",
+      "link": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+      "publishedAt": "2026-11-23T14:21:59.000Z",
+      "description": "The stunning reversal was supported by senior officials in the U.S. government.",
+      "author": "Kirsten Korosec",
+      "summary": "엔비디아가 젠슨 황의 CEO 복귀를 결정했으며, 이는 미국 정부 고위 관계자들의 지지를 받았다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "23de3667e273",
+      "category": "it",
+      "source": "TechCrunch",
+      "region": "intl",
+      "title": "우버, 운행 기록 기능 추가",
+      "link": "https://techcrunch.com/2026/11/23/uber-now-lets-you-book-rides-that-record-the-drive-by-default/",
+      "publishedAt": "2026-11-23T14:00:00.000Z",
+      "description": "The option, which uses the front camera of the Uber driver's phone to record the entire drive, will show up as \"Recorded Rides\" in the app.",
+      "author": "Ivan Mehta",
+      "summary": "우버 운전자의 전면 카메라로 전체 운행을 기록하는 '녹화된 라이드(Recorded Rides)' 옵션이 앱에 추가되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "4fc9328efd4a",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "라스베이거스 F1, 사상 최다 순위 변동 경기",
+      "link": "https://arstechnica.com/cars/2026/11/f1-in-las-vegas-youve-never-seen-an-f1-race-like-this-before/",
+      "publishedAt": "2026-11-23T13:54:22.000Z",
+      "description": "There were 352 position changes, including 35 for the lead.",
+      "author": "Jonathan M. Gitlin",
+      "summary": "라스베이거스 F1 경주에서 352회의 순위 변동이 발생했으며, 이 중 35회는 선두 위치 변동이었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "263c426ea8ba",
+      "category": "it",
+      "source": "전자신문",
+      "region": "kr",
+      "title": "살 뺐다가 다시 요요?…중국 '뚱보 표범' 근황",
+      "link": "https://www.etnews.com/20261123000350",
+      "publishedAt": "2026-11-23T13:30:00.000Z",
+      "description": "중국의 한 동물원에서 다이어트에 도전했던 '뚱보 표범'이 다시 통통한 모습으로 화제입니다. 중국 쓰촨성 판즈화 동물원에 사는 19살 표범 '판바오바오'는 2024년 영화 '주토피아' 속 치타 경찰관 캐릭터를 닮아 유명해졌습니다. 동물원은 체중 감량을 위해 사육장을 두 배로 넓히고 운동량을 늘렸습니다. 지난해 2월에는 살이 빠진 모습이 확인됐지만 최근 다시 통통한 모습이 공개됐습니다. 이를 본 누리꾼들은 “다이어트에 실패했네”, “무늬까지 늘어났",
+      "author": "이창민",
+      "summary": "중국 쓰촨성 동물원의 표범 판바오바오가 다이어트 후 다시 체중이 늘어난 모습이 공개되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "6fd7358fa4f5",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "엔비디아, 뇌-컴퓨터 인터페이스 기술 지원",
+      "link": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
+      "publishedAt": "2026-11-23T13:11:00.000Z",
+      "description": "Brain-computer interface company Paradromics is using Nvidia’s computing hardware and software to process brain data.",
+      "author": "Emily Mullin",
+      "summary": "뇌-컴퓨터 인터페이스 기업 Paradromics가 엔비디아의 컴퓨팅 하드웨어와 소프트웨어를 뇌 데이터 처리에 사용하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "9047326037c9",
+      "category": "it",
+      "source": "Ars Technica",
+      "region": "intl",
+      "title": "삼중 화면 휴대용 모니터, 멀티태스킹 강화하지만 주의 필요",
+      "link": "https://arstechnica.com/gadgets/2026/11/a-triple-screen-portable-monitor-means-more-pixels-and-more-bulk/",
+      "publishedAt": "2026-11-23T12:15:16.000Z",
+      "description": "Three extra screens boost multitasking but can distract and overwhelm.",
+      "author": "Scharon Harding",
+      "summary": "세 개의 추가 화면은 멀티태스킹 작업을 향상시키지만 주의산만과 과부하를 초래할 수 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "655db13e473c",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "와이어드가 추천하는 100달러 이하 최고의 선물 44가지",
+      "link": "https://www.wired.com/gallery/best-gifts-under-100/",
+      "publishedAt": "2026-11-23T12:00:00.000Z",
+      "description": "Score a great gift for everyone on your list without breaking the bank. Every one of these gifts comes WIRED-recommended.",
+      "author": "Simon Hill",
+      "summary": "와이어드 편집부가 모든 선호도를 고려한 100달러 이하의 선물 44가지를 엄선하여 소개했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c7f3a104fac1",
+      "category": "it",
+      "source": "Wired",
+      "region": "intl",
+      "title": "AI 보안, 과연 누가 책임질 것인가?",
+      "link": "https://www.wired.com/story/livestream-will-anyone-keep-us-safe-from-ai/",
+      "publishedAt": "2026-11-23T12:00:00.000Z",
+      "description": "Experts agree that AI, in one way or another, poses real danger. Will the industry do anything about it? Join our livestream on December 2 to hear your questions answered.",
+      "author": "Sandra Upson, Steven Levy, Lauren Goode",
+      "summary": "AI 위협에 대한 전문가 의견과 산업의 대응을 논의하는 라이브 토론이 12월 2일 개최된다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "65b57d0eeeec",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "Nvidia reinstates CEO after affair with alleged spy",
+      "link": "https://www.bbc.co.uk/news/videos/cqze7lwdglngo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-23T14:51:05.000Z",
+      "description": "Senior US government officials backed Nvidia's decision to reinstate Jensen Huang, the company says in a statement.",
+      "author": null,
+      "summary": "Senior US government officials backed Nvidia's decision to reinstate Jensen Huang, the company says in a statement.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "8243d61d0c9c",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "Welfare cuts: What's been happening with Pip and universal credit?",
+      "link": "https://www.bbc.co.uk/news/articles/cj924xvzrr2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-23T13:52:40.000Z",
+      "description": "The government commissioned a review into Pip last year after it was forced to water down planned cuts to benefits.",
+      "author": null,
+      "summary": "The government commissioned a review into Pip last year after it was forced to water down planned cuts to benefits.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "5aae09481873",
+      "category": "economy",
+      "source": "BBC Business",
+      "region": "intl",
+      "title": "Flights cancelled in Belgium due to cost-of-living strike",
+      "link": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-23T13:34:02.000Z",
+      "description": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
+      "author": null,
+      "summary": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
+      "summarySource": "rss"
+    },
+    {
+      "id": "0e0bcc79f126",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "닷컴버블 반토막 증시, 회복에 5년 6개월 걸려…개미들 ‘시간과의 싸움’",
+      "link": "https://www.mk.co.kr/news/stock/12216561",
+      "publishedAt": "2026-11-23T12:50:08.000Z",
+      "description": "외부충격 후 美 통화완화 영향 IMF위기, 1년만에 고점 회복 코로나 급락장서도 V자 반등 폭락장에 긴축 겹친 닷컴버블 유동성 위축돼 증시회복 더뎌 외국인·반도체 의존 부담 요인‘..",
+      "author": "매일경제",
+      "summary": "외부충격 후 美 통화완화 영향 IMF위기, 1년만에 고점 회복 코로나 급락장서도 V자 반등 폭락장에 긴축 겹친 닷컴버블 유동성 위축돼 증시회복 더뎌 외국인·반도체 의존 부담 요인‘..",
+      "summarySource": "rss"
+    },
+    {
+      "id": "b1fa659e9d56",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "증안펀드 대폭 증액, 공매도 금지 주장도 등장…대만, 20조 투입했지만 효과 ‘글쎄’",
+      "link": "https://www.mk.co.kr/news/stock/12216558",
+      "publishedAt": "2026-11-23T12:37:21.000Z",
+      "description": "시총 1% 맞추려면 29조 증액 필요 금융위, 자사주 매수 한도 3개월 완화정부가 증권시장안정펀드(증안펀드) 가동 준비에 나섰지만 증시 불안이 이어지면서 증안펀드를 대폭 증액해야 ..",
+      "author": "매일경제",
+      "summary": "시총 1% 맞추려면 29조 증액 필요 금융위, 자사주 매수 한도 3개월 완화정부가 증권시장안정펀드(증안펀드) 가동 준비에 나섰지만 증시 불안이 이어지면서 증안펀드를 대폭 증액해야 ..",
+      "summarySource": "rss"
+    },
+    {
+      "id": "ebeb47c2c5a9",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "저소득층 생계급여 문턱 확 낮춘다…지급대상 27만명 늘린다는데",
+      "link": "https://www.mk.co.kr/news/economy/12216518",
+      "publishedAt": "2026-11-23T11:28:42.000Z",
+      "description": "복지부, 기초생활보장 계획 4년뒤 중위소득 35%로 상향 연간 7000억 추가 예산 필요 ‘눈덩이’ 복지지출 우려도정부가 생계급여 선정 기준을 현행 기준 중위소득의 32%에서 20..",
+      "author": "매일경제",
+      "summary": "복지부, 기초생활보장 계획 4년뒤 중위소득 35%로 상향 연간 7000억 추가 예산 필요 ‘눈덩이’ 복지지출 우려도정부가 생계급여 선정 기준을 현행 기준 중위소득의 32%에서 20..",
+      "summarySource": "rss"
+    },
+    {
+      "id": "df259563577f",
+      "category": "economy",
+      "source": "매일경제 증권",
+      "region": "kr",
+      "title": "“설마 4천피 붕괴까지 가겠습니까”…여의도 센터장들이 꼽은 저점은?",
+      "link": "https://www.mk.co.kr/news/stock/12216457",
+      "publishedAt": "2026-11-23T09:56:42.000Z",
+      "description": "증시 전문가 긴급진단 AI 불확실성·외국인 이탈에 4700까지 내려앉은 코스피 기업 실적 대비 하락폭 과도 금리·외인 수급이 반등 열쇠 中규제 강화땐 더 떨어질수도인공지능(AI) ..",
+      "author": "매일경제",
+      "summary": "증시 전문가 긴급진단 AI 불확실성·외국인 이탈에 4700까지 내려앉은 코스피 기업 실적 대비 하락폭 과도 금리·외인 수급이 반등 열쇠 中규제 강화땐 더 떨어질수도인공지능(AI) ..",
+      "summarySource": "rss"
+    },
+    {
+      "id": "c60a9a0c8d1a",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "수출 1조달러 위업 이뤄낸 한국…코스피 우(憂) 범하지 않으려면 [기자24시]",
+      "link": "https://www.mk.co.kr/news/economy/12216435",
+      "publishedAt": "2026-11-23T08:54:47.000Z",
+      "description": "지난 11월 19일 오후 2시 9분경. 대한민국 역사상 처음으로 수출액이 1조달러를 돌파했다. 독일, 미국, 중국에 이어 세계에서 역대 네 번째 기록이다. 일본도 이루지 못한 성과..",
+      "author": "매일경제",
+      "summary": "지난 11월 19일 오후 2시 9분경. 대한민국 역사상 처음으로 수출액이 1조달러를 돌파했다. 독일, 미국, 중국에 이어 세계에서 역대 네 번째 기록이다. 일본도 이루지 못한 성과..",
+      "summarySource": "rss"
+    },
+    {
+      "id": "1976d288478c",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "얇아진 지갑에…숙박여행업 5곳중 1곳 매출 절반 뚝",
+      "link": "https://www.mk.co.kr/news/economy/12216433",
+      "publishedAt": "2026-11-23T08:53:18.000Z",
+      "description": "자영업자들의 매출 부진이 특정 업종에 국한되지 않고 외식과 소매, 서비스업 전반으로 확산하고 있다. 주가 폭락과 대출이자 상승 등으로 가처분소득이 줄어든 소비자들이 지갑을 닫고 있..",
+      "author": "매일경제",
+      "summary": "자영업자들의 매출 부진이 특정 업종에 국한되지 않고 외식과 소매, 서비스업 전반으로 확산하고 있다. 주가 폭락과 대출이자 상승 등으로 가처분소득이 줄어든 소비자들이 지갑을 닫고 있..",
+      "summarySource": "rss"
+    },
+    {
+      "id": "01cfd3b22735",
+      "category": "economy",
+      "source": "매일경제 경제",
+      "region": "kr",
+      "title": "매출 반토막·신용점수 급락…폐업 5개월전 경고등 켜진다",
+      "link": "https://www.mk.co.kr/news/economy/12216423",
+      "publishedAt": "2026-11-23T08:51:34.000Z",
+      "description": "자영업자가 폐업하기 약 5개월 전부터 경영 악화를 알리는 위험 신호가 뚜렷해지는 것으로 나타났다. 매출이 절반 가까이 줄고 신용점수가 급격히 떨어지면서 폐업 위험이 커지지만, 대출..",
+      "author": "매일경제",
+      "summary": "자영업자가 폐업하기 약 5개월 전부터 경영 악화를 알리는 위험 신호가 뚜렷해지는 것으로 나타났다. 매출이 절반 가까이 줄고 신용점수가 급격히 떨어지면서 폐업 위험이 커지지만, 대출..",
+      "summarySource": "rss"
+    },
+    {
+      "id": "97241d49bbae",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "韓총리, 카타르 에너지장관 만나 \"재생에너지 협력 확대\"",
+      "link": "https://www.yna.co.kr/view/AKR20261123170100001",
+      "publishedAt": "2026-11-23T13:03:23.000Z",
+      "description": "(서울=연합뉴스) 이상현 기자 = 한성숙 국무총리는 23일 정부서울청사에서 사드 빈 셰리다 알 카비 카타르 에너지 담당 국무장관을 접견하고 양국...",
+      "author": "이상현",
+      "summary": "한성숙 국무총리가 카타르 에너지 담당 국무장관을 접견하여 양국 간 재생에너지 협력 확대에 대해 논의했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c9a688cab408",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "김정은 \"팽창 추구 안해\" 루비오에 맞장구…美와 대화 열어둬",
+      "link": "https://www.donga.com/news/Politics/article/all/20261123/135074187/1",
+      "publishedAt": "2026-11-23T12:52:00.000Z",
+      "description": "김정은 북한 국무위원장이 “패권도 팽창도 추구하지 않는다”며 “자주권을 존중하고 우호적으로 대하는 모든 나라들과 친선과 협조의 유대를 강화하며 전인류의 공동 번영에 기여할 용의가 있다”고 주장했다. 18~19일 중국 선전에서 열린 아시아태평양경제협력체(APEC) 정상회의를 계기로 도널드 트럼프 미 대통령이 추진했다 무산된 북-미 정상회담이 무산된 가운데 김 위원장이 미국과의 대화 여지를 열어뒀다는 분석이 나온다.김 위원장은 22일 평양 노동당 본부 청사에서 러시아 등 10개국 신임 대사에게 신임장을 받는 자리에서 이렇게 말했다고 조선중앙통신이 23일 보도했다. 이어 “현시기 그 어느 때보다도 다사다변하고 위기적인 국제정세 흐름”이라며 “동아시아 지역의 정치군사적 환경은 우리로 하여금 충분한 안전감과 평화에 대한 확신성을 보장할수 있는 힘과 능력을 절실히 요구하고 있다”고 했다.김 위원장의 발언은 마코 루비오 미 국무장관이 13일(현지 시간) “김정은은 팽창주의자가 아니다”라고 밝힌",
+      "author": null,
+      "summary": "김정은 북한 국무위원장이 패권과 팽창을 추구하지 않는다며 미국과의 대화 여지를 열어두었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2fa7835890d7",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "이재명 정부 2기 '중폭 개각'…내각 외교안보 라인 '전면 물갈이'",
+      "link": "https://www.khan.co.kr/article/202611232124005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-11-23T12:24:00.000Z",
+      "description": "APEC 등 주요 일정들 마무리…정권 출범 17개월 만에 ‘새 진용’ 행안·문체부 장관에 ‘젊은 최측근’…집권 3년 차 국정 동력 복원 강금실 전 장관, 첫 여성 정보기관 수장 발탁…야 “회전문 인사”이재명 대통령이 23일 국가정보원장에 강금실 전 법무부 장관을, 외교부 장관에 임웅순 청와대 국가안보실 2차장을, 통일부 장관에 홍익표 전 청와대 정무수석을 ···",
+      "author": "민서영 기자",
+      "summary": "이재명 대통령이 국정원장에 강금실 전 장관, 외교부·통일부 장관에 최측근들을 임명하며 외교안보 라인을 전면 개편했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "afdb70e61fd7",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "조희대 탄핵 추진에 \"행동할 때\" \"성찰 먼저\" 판사들 와글",
+      "link": "https://www.khan.co.kr/article/202611232123005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-11-23T12:23:00.000Z",
+      "description": "30일 법관대표회의 앞두고 의장 “사법 침해” 주장…법관들 “부적절”9년 만의 ‘집단행동’ 여부 주목…법관대표회의가 분수령더불어민주당의 조희대 대법원장 탄핵 추진에 대한 사법부의 대응방향을 놓고 판사들의 견해가 엇갈리고 있다. 정치적 외압에 맞서 집단행동에 나서야 한다는 주장이 있고, 내부 의견부터 수렴하되 자성과 성찰을 병행해야 한다는 반론도 나온다. 오···",
+      "author": "김정화·임현경 기자",
+      "summary": "조희대 대법원장 탄핵 추진을 두고 판사들 사이에 집단행동 필요론과 내부 성찰론이 엇갈리고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "d8391181cea7",
+      "category": "politics",
+      "source": "동아일보 정치",
+      "region": "kr",
+      "title": "\"조희대 탄핵, 與는 헌재서 '각하'되는 상황 염두에 둬\"",
+      "link": "https://www.donga.com/news/Politics/article/all/20261123/135076492/1",
+      "publishedAt": "2026-11-23T12:13:00.000Z",
+      "description": "동아일보 정치 라이브 ＜정치를 부탁해＞- 일시: 월·수요일 오전 10~11시- 토크: 정광재 동연정치연구소장, 김준일 시사평론가- 진행·연출: 강경석 배재은- 동아일보 유튜브: www.youtube.com/@donga-ilbo더불어민주당이 조희대 대법원장에 대한 탄핵을 추진하는 이유가 내년 2월 법원 정기인사에서 조 대법원장이 인사권을 행사하지 못하도록 하려는 정치적 의도로 풀이된다는 분석이 나왔다.정광재 동연정치연구소장은 23일 동아일보 유튜브 ‘정치를 부탁해’에 출연해 민주당의 조 대법원장 탄핵 추진과 관련해 “내년에 선거가 없기 때문에 민주당이 이럴 수 있는 것”이라며 “만약 총선이 2027년 4월이었다면 선거를 5개월 앞둔 시점에 이렇게 했겠느냐”고 말했다.정 소장은 “2024년 4월 국민들이 민주당에 다수 의석을 준 것은 당시 윤석열 전 대통령의 국정 운영에 견제가 필요하다고 판단했기 때문”이라며 “대법원장이 본인들 입맛에 맞지 않는다고 탄핵하라는 권력을 민주당",
+      "author": null,
+      "summary": "정치 평론가는 민주당의 탄핵 추진이 내년 2월 대법원장의 정기인사권을 제약하려는 정치적 의도로 보인다고 분석했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "67e8e800bbee",
+      "category": "politics",
+      "source": "경향신문 정치",
+      "region": "kr",
+      "title": "남북관계 난항에 '자주파' 입지 축소…'대미 현안 관리' 무게",
+      "link": "https://www.khan.co.kr/article/202611232108025/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+      "publishedAt": "2026-11-23T12:08:02.000Z",
+      "description": "외교안보 라인 ‘전면 물갈이’대선 때 이 대통령 총괄선대위장 맡았던 강금실 지난해 4월30일 이재명 더불어민주당 대선 후보가 중앙선대위 출범식에서 강금실 총괄상임선대위원장(왼쪽)과 악수를 하고 있다. 박민규 선임기자정보 쪽 경험 없는 강금실 인선 ‘국정원 개혁·통제’에 방점 둔 듯 북·미 대화 불발 이후 조기 인선 전작권·핵잠·쿠팡 등 협상 위해 대미···",
+      "author": "김원진·김병관·강연주 기자",
+      "summary": "정부가 외교안보 라인을 전면 물갈이하면서 남북 자주 외교보다 대미 현안 관리에 무게를 두는 모습이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "67c982853646",
+      "category": "politics",
+      "source": "경향신문 사회",
+      "region": "kr",
+      "title": "파면 요건 부합하는 '중대한 헌법 위반' 증명 어려워…조희대 탄핵소추 실효성 '의문'",
+      "link": "https://www.khan.co.kr/article/202611232101005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+      "publishedAt": "2026-11-23T12:01:00.000Z",
+      "description": "‘6·3·3 원칙’ 위반, 훈시규정 불과재판 일정 등 재량권 처벌 어려워내년 퇴임하면 각하 가능성 높아국회 통과 땐 내란 재판 지연 우려도더불어민주당이 조희대 대법원장 탄핵을 추진하면서 제기한 의혹이 파면 요건에 부합하는지 의문이라는 지적이 나온다. 탄핵소추안이 국회를 통과해 조 대법원장의 직무가 정지되면 윤석열 전 대통령 등 다른 주요 내란 재판들이 줄줄···",
+      "author": "김정화 기자",
+      "summary": "법률 전문가들은 조희대 대법원장 탄핵이 파면 요건에 부합하는 중대한 헌법 위반을 증명하기 어렵다고 지적했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a5035b375c1f",
+      "category": "politics",
+      "source": "연합뉴스 정치",
+      "region": "kr",
+      "title": "한국, 호주와 '아세안 정책대화' 열어 지역정세 평가 공유",
+      "link": "https://www.yna.co.kr/view/AKR20261123166700504",
+      "publishedAt": "2026-11-23T10:37:40.000Z",
+      "description": "(서울=연합뉴스) 김지헌 기자 = 외교부는 23일 호주 캔버라에서 제4차 한국-호주 아세안 정책대화를 개최했다고 밝혔다.",
+      "author": "김지헌",
+      "summary": "한국과 호주가 캔버라에서 제4차 아세안 정책대화를 개최하여 지역정세에 대한 의견을 나누었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ce450c6bf524",
+      "category": "politics",
+      "source": "서울신문",
+      "region": "kr",
+      "title": "[단독] 방진회, 5년간 성남진흥원만 해외 간담회…野 \"이용철 특혜\"",
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20261123500343",
+      "publishedAt": "2026-11-23T09:12:03.000Z",
+      "description": "이용철 법무부 장관 후보자가 과거 대표를 지낸 성남산업진흥원이 최근 5년간 해외 방산전시회에서 한국방위산업진흥회(방진회)가 타 기관·지자체 참관단과 간담회한 유일한 사례인 것으로 23일 파악됐다. 국민의힘은 “이 후보자의 과거 재직 기관에 대한 특혜”라며 추진 경위를 따졌다. 이 후보자 측은 “간담회 주선에 관여한 적 없다”고 했다. 최은석 국민의힘 의원실이 방진회에서 이날 제출받은 자료에 따르면 방진회는 지난 9월 폴란드에서 열린 국제방위산업전시회(MSPO)에서 성남산업진흥원 참관단과 간담회를 진행했다. 간담회에는 이남우 방진회 상근부회장과 방위사업추진위원회 민간위원 2명, 방진회 관계자 5명 등이 참석했다. MSPO 참여기업 관계자 6명과 성남산업진흥원 참관단 11명도 참석자 명단에 포함됐다. 방진회가 제출한 최근 5년간 자료에는 타 기관·지자체 참관단과 진행한 간담회 사례로 성남산업진흥원만 기재됐다. 방진회는 “해외 전시회에서 국내 참가업체 및 참관업체 등과 지속적으로 간담회를 해왔다”고 설명했다. 성남산업진흥원은 관내 중소·벤처기업의 방산 분야 진출을 지원하기 위해 이번 참관단을 모집했다. 성남 소재 방산업체와 방산 진출을 추진하거나 고려 중인 벤처기",
+      "author": "곽진웅 기자",
+      "summary": "이용철 법무부 장관 후보자의 과거 재직 기관인 성남산업진흥원이 5년간 방진회 해외 간담회 유일 대상이었다는 지적이 나왔다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "02ffb1cfcd69",
+      "category": "politics",
+      "source": "조선일보",
+      "region": "kr",
+      "title": "서학개미, 황 스캔들 후 엔비디아 대거 매입… 주식 평가액 큰 폭 하락에 6조원 이상 손실",
+      "link": "https://www.chosun.com/economy/stock-finance/2026/11/23/UMF3BAPJGJAUBPDIAXTQABD4ME/",
+      "publishedAt": "2026-11-22T15:32:00.000Z",
+      "description": "",
+      "author": "최형석 기자",
+      "summary": "서학개미들이 황 스캔들 이후 엔비디아 주식을 대량 매입했으나 주가 하락으로 6조원 이상의 손실을 입었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5a3ddc0e626e",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "짐바브웨 유명 목사, 성폭행 혐의로 체포",
+      "link": "https://www.bbc.co.uk/news/articles/cxyvdmjr893zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-23T14:55:14.000Z",
+      "description": "Uebert Angel, a British-Zimbabwean national, leads a charismatic church with branches in several countries.",
+      "author": null,
+      "summary": "영국-짐바브웨 국적의 종교지도자 Uebert Angel이 성폭행 혐의로 체포되었으며, 그는 여러 국가에 지부를 둔 카리스마 교회를 주도하고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "defeb3388bbe",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "트럼프 \"젠슨 황 CEO 복귀 타당…불법행위 관여 증거 없다\"",
+      "link": "https://www.yna.co.kr/view/AKR20261123174551071",
+      "publishedAt": "2026-11-23T14:53:45.000Z",
+      "description": "(워싱턴=연합뉴스) 백나리 특파원 = 도널드 트럼프 미국 대통령은 23일(현지시간) 젠슨 황의 엔비디아 최고경영자(CEO) 복귀를 환영했다.",
+      "author": "백나리",
+      "summary": "도널드 트럼프 미국 대통령은 젠슨 황의 엔비디아 최고경영자 복귀를 타당하다고 평가했으며 불법행위 관여 증거가 없다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8e3a27d7e20c",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "네팔의 신임 총리, 인도와의 더 긴밀한 관계 추구",
+      "link": "https://www.dw.com/en/nepal-s-new-pm-eyes-closer-ties-with-india-amid-lingering-disputes/a-80021769?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-11-23T14:49:00.000Z",
+      "description": "On his first foreign bilateral visit, rapper-turned-Prime Minister Balendra Shah sought deeper ties with Nepal's neighbor and largest trading partner, while steering clear of sticky territorial issues.",
+      "author": null,
+      "summary": "가수 출신의 네팔 신임 총리 Balendra Shah는 첫 번째 대외 양자 방문에서 최대 무역 상대국인 인도와의 더 깊은 관계 구축을 추진했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "db33c4a07c48",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "나스닥, 젠슨 황 복귀에 7% 넘게 급등 출발…엔비디아 33%↑",
+      "link": "https://www.yna.co.kr/view/AKR20261123176100072",
+      "publishedAt": "2026-11-23T14:48:03.000Z",
+      "description": "(뉴욕=연합뉴스) 임수정 특파원 = 미국 뉴욕증시가 23일(현지시간) 젠슨 황 엔비디아 최고경영자(CEO)의 전격 복귀 소식에 장 초반 폭등세다...",
+      "author": "임수정",
+      "summary": "젠슨 황의 엔비디아 CEO 복귀 발표로 미국 뉴욕증시 나스닥이 7% 이상 급등하며 개장했고, 엔비디아 주가는 33% 상승했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "4cd51b790921",
+      "category": "world",
+      "source": "연합뉴스 국제",
+      "region": "kr",
+      "title": "젠슨 황 \"겸손한 자세로 다시 헌신…가족의 사랑·지지 감사\"",
+      "link": "https://www.yna.co.kr/view/AKR20261123175251071",
+      "publishedAt": "2026-11-23T14:46:01.000Z",
+      "description": "(워싱턴=연합뉴스) 홍정규 특파원 = 엔비디아 최고경영자(CEO)로 복귀하게 된 젠슨 황은 23일(현지시간) \"새로운 산업혁명이 시작되는 시점에...",
+      "author": "홍정규",
+      "summary": "젠슨 황이 엔비디아 CEO로 복귀하며 새로운 산업혁명 시대에 겸손한 자세로 다시 헌신하겠다고 밝히고 가족의 사랑과 지지에 감사했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "8519943a08a8",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "엔비디아, 중국 첩보 스캔들에도 불구하고 젠슨 황 CEO 복위",
+      "link": "https://www.dw.com/en/nvidia-reinstates-former-ceo-jensen-huang-despite-china-espionage-scandal/a-80021926?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-11-23T14:18:00.000Z",
+      "description": "Nvidia's board voted unanimously to bring back the disgraced CEO, who resigned this month amid news of his affairs. He's suspected of having had a relationship with a Chinese intelligence asset.",
+      "author": null,
+      "summary": "엔비디아 이사회가 최근 비리로 사임한 젠슨 황을 만장일치로 CEO로 복위시켰으나, 황은 중국 정보 자산과 관계를 맺은 것으로 의심되고 있다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b1170b37b0a0",
+      "category": "world",
+      "source": "DW News",
+      "region": "intl",
+      "title": "북마케도니아, 21년 후보 기간 거쳐도 EU 진출 길 막혀",
+      "link": "https://www.dw.com/en/north-macedonia-remains-stalled-on-its-eu-path-after-21-years-as-a-candidate/a-80020841?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2026-11-23T13:46:00.000Z",
+      "description": "EU enlargement has regained momentum, with Montenegro and Albania moving closer to membership. But North Macedonia, a candidate since 2005, remains stalled by a politically difficult dispute involving Bulgaria.",
+      "author": null,
+      "summary": "EU 확대 움직임 속에 몬테네그로와 알바니아는 회원가입에 접근하고 있으나, 2005년부터 후보국이던 북마케도니아는 불가리아와의 정치 분쟁으로 여전히 진전이 없다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "fec19d2ea3d8",
+      "category": "world",
+      "source": "BBC World",
+      "region": "intl",
+      "title": "프랑스 극좌 운동, '자본주의 파괴' 시위로 공화국 붕괴 주장하는 마크롱과 대립",
+      "link": "https://www.bbc.co.uk/news/articles/cw074km48myeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-23T13:09:52.000Z",
+      "description": "The BBC meets the far-left protesters French President Emmanuel Macron says are trying to bring down the Republic.",
+      "author": null,
+      "summary": "BBC가 에마뉘엘 마크롱 프랑스 대통령이 공화국 붕괴를 시도한다고 주장하는 극좌 시위대와 함께 취재했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "5e358e0bde4a",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "민주당, 50년 만에 가장 큰 폭으로 하원 장악…COP31은 합의 없이 종료",
+      "link": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31",
+      "publishedAt": "2026-11-23T12:42:03.000Z",
+      "description": "Democrats have currently flipped 47 House seats and could flip 49 total. And, climate change talks at COP31 ran two days longer than expected, becoming the longest conference in the summit's history.",
+      "author": "Brittney Melton",
+      "summary": "미국 민주당이 50년 만에 가장 큰 폭으로 하원 의석을 증대했으며, 국제기후변화회담 COP31은 예상을 초과해 역대 가장 긴 회담으로 마무리되었다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "1afb5e71e726",
+      "category": "world",
+      "source": "NPR",
+      "region": "intl",
+      "title": "젤렌스키, 리비아의 러시아 군함 공격 성과 환영",
+      "link": "https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya",
+      "publishedAt": "2026-11-23T10:16:33.000Z",
+      "description": "Ukraine carried out an attack on a Russian warship moored at a port in Libya, President Volodymyr Zelenskyy said, claiming that sea drones sank the navy vessel in a surprise assault.",
+      "author": "The Associated Press",
+      "summary": "우크라이나의 볼로디미르 젤렌스키 대통령은 리비아 항만에 정박한 러시아 군함을 해상 무인기로 침몰시켰다고 발표하며 성과를 환영했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "cd2616abcb75",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]정동영 이종석 교체… 동맹 난기류 넘어 '원팀'으로 거듭나야",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261123/135077411/2",
+      "publishedAt": "2026-11-23T14:30:00.000Z",
+      "description": "이재명 대통령이 23일 국가정보원장 후보자에 강금실 전 법무부 장관, 외교부 장관 후보자에 임웅순 현 국가안보실 2차장, 통일부 장관 후보자에 홍익표 전 대통령정무수석비서관을 지명했다. 행정안전부 장관 후보자에는 더불어민주당 한준호 의원을, 문화체육관광부 장관 후보자에는 강유정 현 청와대 수석대변인이 지명됐다. 8·30 개각으로 경제팀을 바꾼 지 2개월 반여 만에 외교안보 라인도 전면 교체 수준의 물갈이를 단행한 것이다. 이로써 이 대통령 취임 초부터 손발을 맞춰 온 고위급 외교안보 참모 중 위성락 국가안보실장만 남게 됐다. 이 대통령이 대미 관계를 중시해 온 위 실장을 유임시킨 것은 한미 동맹과 한미일 협력을 기본 축으로 하는 실용 외교 기조를 계속 이어가겠다는 메시지로 읽힌다. 이종석 국정원장과 정동영 통일부 장관은 대북 유화책을 앞세운 남북 관계 개선을 강조해 왔지만 북한이 적대적 두 국가론을 고수하는 상황에서 그런 방식으로 돌파구를 찾기 어려워진 것이 사실이다. 더구나 이",
+      "author": null,
+      "summary": "대통령의 외교안보 라인 전면 교체는 한미 동맹 중심의 실용 외교로의 선회를 의미하며, 북한의 적대적 태도로 인해 대북 유화책 중심의 기존 정책이 한계를 보였다고 평가했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "a2c79cc1fd9a",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]美 \"金 팽창주의 아냐\" 北 \"팽창 추구 안 해\"… 밀당은 계속된다",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261123/135077415/2",
+      "publishedAt": "2026-11-23T14:27:00.000Z",
+      "description": "김정은 북한 국무위원장이 “평화와 발전, 번영은 조선민주주의인민공화국의 핵심적인 대외정책 가치관”이라며 “(우리는) 패권과 팽창을 추구하지 않는다. 강권과 강압은 (우리) 대외정책과 인연이 없다”고 말했다고 북한 매체가 23일 보도했다. 김정은은 전날 러시아 스웨덴 등 10개국 신임 대사들의 신임장을 접수하며 “현 정세와 환경이 안전과 평화를 확신할 힘과 능력을 요구한다”고 군사력 증강을 정당화하면서도 이같이 덧붙였다. 김정은의 발언은 북한 핵무기가 자위권 차원의 억제력이지 주변국을 침략하거나 지역 질서를 파괴하려는 게 아니라는 뻔한 주장이지만, 새삼 ‘팽창 불(不)추구’를 강조한 대목은 묘하게 두드러진다. 열흘 전 김정은에 대해 “정권을 유지하며 살아남기를 원할 뿐 팽창주의자는 아니다”고 한 마코 루비오 미국 국무장관의 발언과 조응하기 때문이다. 이번 발언은 올해 3월 헌법 개정을 통해 기존 최고인민회의 상임위원장에게 있던 외국 대사의 신임장·소환장 접수 권한을 국무위원장에게",
+      "author": null,
+      "summary": "북한의 '팽창 불추구' 발언과 미국 국무장관의 유사 평가가 조응하는 것은 북미 간 협상의 신호일 가능성을 시사한다고 분석했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "abc1fee85465",
+      "category": "editorial",
+      "source": "동아일보 사설",
+      "region": "kr",
+      "title": "[사설]예산안 따지고 깎기는커녕 묻지 마 증액 나선 與野",
+      "link": "https://www.donga.com/news/Opinion/article/all/20261123/135077413/2",
+      "publishedAt": "2026-11-23T14:24:00.000Z",
+      "description": "821조 원 규모의 내년도 ‘슈퍼 예산안’을 심사 중인 국회가 모두 71조9000억 원의 예산 증액을 요구했다. 정부 예산안을 꼼꼼하게 따져 불요불급한 사업을 걸러내야 하는 국회가 오히려 심사를 구실 삼아 각종 지역구 민원 예산이나 선심성 예산을 잔뜩 밀어 넣겠다는 것이다. 동아일보가 23일까지 나온 국회 상임위원회 예비심사보고서와 예산결산특별위원회 예산소위 심사자료의 증액·감액안을 분석한 결과, 상임위 예비심사에서 38조4000억 원, 예결위 예산소위에서 33조5000억 원의 순증액 요구가 이뤄진 것으로 나타났다. 이는 지난해(17조8000억)의 4배에 달한다. 반도체 초호황으로 ‘세수 풍년’이 예상되자 국회까지 경쟁적으로 예산을 부풀리고 있는 것이다. 예결위는 여러 상임위를 거쳐 올라온 증액안을 따지고 걸러내는 문지기 역할을 해야 한다. 그런 예결위가 상임위 못지않은 규모의 예산 증액을 요구한 것은 스스로 예산 심사의 필요성을 부정하는 격이다. 예결위는 보건복지위원회에서 올라",
+      "author": null,
+      "summary": "세수 풍년을 이유로 국회가 경쟁적으로 예산을 부풀리며 불요불급한 사업을 심사 없이 통과시키려 한다고 비판했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "c3e00c6000e3",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "공화당, 좌파적 경제철학 추구…재검토 촉구",
+      "link": "https://www.washingtonpost.com/opinions/2026/11/23/republicans-are-wrong-embrace-government-control-economy/",
+      "publishedAt": "2026-11-23T12:15:00.000Z",
+      "description": "A growing GOP movement rejects the right's traditional support for economic freedom.",
+      "author": "Pat Toomey",
+      "summary": "경제자유를 전통적으로 지지해온 보수 진영에서 이를 거부하는 움직임이 커지고 있다는 점이 우려스럽다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "ad407dd50b9b",
+      "category": "editorial",
+      "source": "Washington Post Opinions",
+      "region": "intl",
+      "title": "인간이 주도권을 잡아야 한다…'아마겟돈' 위기가 보여주는 이유",
+      "link": "https://www.washingtonpost.com/opinions/2026/11/23/this-cold-war-close-call-suggests-way-forward-software-outages/",
+      "publishedAt": "2026-11-23T12:00:00.000Z",
+      "description": "The Cold War offers a glimpse of a nightmare scenario.",
+      "author": "Michael Dobbs",
+      "summary": "냉전 시대의 사례를 통해 인간이 중추적 역할을 하지 않으면 재앙이 초래될 수 있음을 경고했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "4dc55bad63a7",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[서영채의 인/문학 현장]자기 존중의 힘, 도로표지판과 '호밀밭의 파수꾼'",
+      "link": "https://www.khan.co.kr/article/202611232005005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-11-23T11:05:00.000Z",
+      "description": "집단의 꿈을 현실로 만드는 힘의 원천은 공동체 성원들이 구축해온 상호 신뢰와 자존에 있다 공동체엔 직업 자체에 대한 존중의 위계가 있다 검사에 이어 이젠 판사가 공동체의 평균 수준 이하의 나락으로 전락하는 중이다 혼란도 있겠지만 잘될 거다 공동체 차원에서 축적된 자기 존중의 힘이 든든하게 버티고 있음을 우리 몸이 마음보다 먼저 알고 ···",
+      "author": "서영채 서울대 교수·문학평론가",
+      "summary": "공동체의 상호 신뢰와 자존감이 집단의 꿈을 현실로 만드는 근본 힘이며, 최근 사법부의 위상 추락은 공동체 차원의 자존감 상실을 나타낸다고 주장했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "2af7bb7ada91",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[직설]파업전야엔 도착해야 할 것들",
+      "link": "https://www.khan.co.kr/article/202611232002025/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-11-23T11:02:02.000Z",
+      "description": "지난 3일 길을 가던 여학생에게 칼을 휘두르고 지하철로 달아난 20대 남성을 부산지하철 역무원이 붙잡았다. 18일 서울 홍제역에서는 지하철 보안관이 불법촬영을 한 범죄자를 붙잡았고, 구파발역에서도 신호업무를 하던 노동자와 역무원이 연계해 성범죄자를 붙잡았다. 노동자들은 시민의 생명을 구하기도 한다. 지난 8월23일, 대림역으로 진입하던 열차 안에서 승객이 ···",
+      "author": "박정훈 민주노총 공공운수 노조 부위원장",
+      "summary": "최근 역무원들이 범죄자를 붙잡은 사례들을 통해 노동자들이 시민의 생명을 구하는 중요한 역할을 한다고 강조했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "b9ea1403f5e7",
+      "category": "editorial",
+      "source": "경향신문 오피니언",
+      "region": "kr",
+      "title": "[생각그림]무슨 생각?",
+      "link": "https://www.khan.co.kr/article/202611232002015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=opinion_news",
+      "publishedAt": "2026-11-23T11:02:01.000Z",
+      "description": "종이에 아크릴 (21 × 30㎝)저 여자는 무슨 생각을 하고 있을까요? 저 사람은 무엇을 바라보고 있는 것일까요? 초점 없는 눈동자와 무표정한 얼굴, 나이를 알 수 없는 옷차림 등등. 카페에 앉아 오가는 사람들을 관찰해 봅니다. 오늘은 기분이 어떤지? 좋은 사람과 같이하고 있는지? 어떤 일을 하고 있는지? 점심은 무엇을 먹었는지? 무슨 걱정을 하고 있는지?···",
+      "author": "김상민 기자",
+      "summary": "행인들을 관찰하며 각자가 무엇을 생각하고 바라보고 있는지에 대한 호기심을 담은 미술 에세이이다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "cbe7bf316f2b",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "'부패한 것 같은 이유는 실제로 부패했기 때문이다'",
+      "link": "https://www.nytimes.com/video/opinion/100000011295023/it-feels-corrupt-because-it-likely-is.html",
+      "publishedAt": "2026-11-22T19:10:08.000Z",
+      "description": "On “The Ezra Klein Show,” Representative Robert Garcia, the top Democrat on the House Oversight Committee, calls for oversight on Department of Defense deals linked to Donald Trump Jr. and Eric Trump.",
+      "author": null,
+      "summary": "하원 감시위원회 최고 민주당원이 트럼프 형제와 연루된 국방부 거래에 대한 감시를 촉구했다.",
+      "summarySource": "llm"
+    },
+    {
+      "id": "7106386d6567",
+      "category": "editorial",
+      "source": "NYT Opinion",
+      "region": "intl",
+      "title": "'인간답게' 글을 쓴다는 것의 진정한 의미는?",
+      "link": "https://www.nytimes.com/2026/11/22/opinion/ai-writing-technology-human-colonialism.html",
+      "publishedAt": "2026-11-22T17:25:09.000Z",
+      "description": "The hunt for A.I. writing has turned many of us into detectives. A Kenyan writer asks what we’re really looking for.",
+      "author": "Marcus Olang’, Amanda Su and Emma Kumer",
+      "summary": "AI 작문 탐지 과정에서 사람들이 무엇을 실제로 찾고 있는지 질문하며, 인간다운 글쓰기의 본질을 재검토할 필요가 있다고 주장했다.",
+      "summarySource": "llm"
+    }
+  ],
+  "summarizedAt": "2026-11-24T05:49:47.437Z",
+  "summaryStats": {
+    "llm": 40,
+    "fallback": 10,
+    "model": "claude-haiku-4-5"
+  }
+}
